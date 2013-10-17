@@ -1,14 +1,15 @@
 Congressional-Data-Analysis
 ===========================
 
-This project is on collecting data from govtrack.us and analyzing it. More documentation will be added soon.
+This project is on collecting data from govtrack.us and analyzing it. More documentation will be added soon. <br>
 
-**Mentored By**
-[Laurel Harbridge](http://faculty.wcas.northwestern.edu/~lmh735/)
-Assistant Professor, Department of Political Science
-Faculty Fellow, Institute for Policy Research
+**Mentored By :** <br/>
+[Laurel Harbridge](http://faculty.wcas.northwestern.edu/~lmh735/)<br/>
+Assistant Professor, Department of Political Science<br/>
+Faculty Fellow, Institute for Policy Research<br/>
 
-**References**
-* [Govtrack](http://www.govtrack.us/developers/api)
-* [Fowler website](http://jhfowler.ucsd.edu/cosponsorship.htm)
+**References :**<br/>
+* [Govtrack](http://www.govtrack.us/developers/api)<br/>
+* [Fowler website](http://jhfowler.ucsd.edu/cosponsorship.htm)<br/>
+
 ------------------------------------------------------------
