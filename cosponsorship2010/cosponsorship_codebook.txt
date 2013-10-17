@@ -1,0 +1,146 @@
+COSPONSORSHIP DATA CODEBOOK | UPDATED 08/24/2010
+--------------------------------------------------
+
+   CONTENTS
+   1. house_bills.zip 
+   2. house_committees.zip
+   3. house_datematrices.zip
+   4. house_matrices.zip
+   5. house_members.zip
+   6. house_status.zip
+   7. senate_matrices.zip
+   8. senate_bills.zip
+   9. senate_committees.zip
+   10. senate_datematrices.zip
+   11. senate_members.zip
+   12. senate_status.zip
+
+--------------------------------------------------
+
+1. HOUSE_BILLS.ZIP
+
+Contains: "house_bills.txt", 4 columns, comma-separated	
+	1. Congress # (093-110)
+	2. Bill Type:
+		HC = Concurrent Resolution
+		HE = House Resolution
+		HJ = Joint Resolution
+		HR = House Bill
+		HZ = House Amendment
+	3. Bill # (separate #s for each type)
+	4. Is bill Private? (1 = Yes, 0 = No)
+
+
+2. HOUSE_COMMITTEES.ZIP
+	
+Contains: "house_committees.txt"
+	- Each line contains a comma-separated vector of committee referrals for the corresponding line in house_bills.txt
+
+
+3. HOUSE_DATEMATRICES.ZIP
+
+Contains: 13 "***_housedatematrix.txt" files, for Congresses 97-110
+	- Each file is a comma-separated matrix.
+	- Rows represent Congressmen in that House (from the corresponding house_members file)
+	- Columns represent Bills in that Congress (from house_bills.zip)
+	- If congressman i cosponsored bill j, then datematrix[i,j] contains that date as a string
+	- If congressman i cosponsored bill j and withdrew the cosponsorship, then datematrix[i,j] contains the date of cosponsorship as a string
+	- If congressman i cosponsored bill j after withdrawing the cosponsorship, then datematrix[i,j] contains the date of the final cosponsorship as a string	 
+	- If congressman i sponsored bill j, then datematrix[i,j] contains the bill introduction date as a string	 
+
+
+4. HOUSE_MATRICES.ZIP
+
+Contains: 17 "***_housematrix.txt" files, for Congresses 93-110
+	- Each file is a comma-separated matrix
+	- Rows represent Congressmen in that House (from the corresponding house_members file)
+	- Columns represent Bills in that Congress (from house_bills.zip)
+	- Data points can take 3 values:
+		1 - Congressman i sponsored bill j
+		2 - Congressman i cosponsored bill j
+		3 - Congressman i cosponsored bill j after withdrawing the previous cosponsorship from bill j
+		5 - Congressman i withdrew a cosponsorship from bill j
+
+
+5. HOUSE_MEMBERS.ZIP
+
+Contains: 17 "***_house.txt" files, 3 columns, comma-separated
+	1. Name
+	2. THOMAS ID #
+	3. ICPSR ID #
+
+
+6. HOUSE_STATUS.ZIP
+
+Contains: "house_status.txt", 4 columns, comma-separated
+	1. Did bill pass house (1 = Yes, 0 = No)
+	2. Did bill pass senate (1 = Yes, 0 = No)
+	3. Did senate agree to conference report (1 = Yes, 0 = No)
+	4. Did president sign/veto (1 = sign, 0 = not sign, -1 = veto)
+
+
+--------------------------------------------------
+
+7. SENATE_BILLS.ZIP
+
+Contains: "senate_bills.txt", 4 columns, comma-separated	
+	1. Congress # (093-110)
+	2. Bill Type:
+		SC = Concurrent Resolution
+		SE = Senate Resolution
+		SJ = Joint Resolution
+		SN = Senate Bill
+		SP = Senate Amendment
+	3. Bill # (separate #s for each type)
+	4. Is bill Private? (1 = Yes, 0 = No)
+
+
+8. SENATE_COMMITTEES.ZIP
+	
+Contains: "senate_committees.txt"
+	- Each line contains a comma-separated vector of committee referrals for the corresponding line in senate_bills.txt
+
+
+9. SENATE_DATEMATRICES.ZIP
+
+Contains: 13 "***_sendatematrix.txt" files, for Congresses 97-110
+	- Each file is a comma-separated matrix.
+	- Rows represent Senators in that Senate (from the corresponding senate_members file)
+	- Columns represent Bills in that Senate (from senate_bills.zip)
+	- If congressman i cosponsored bill j, then datematrix[i,j] contains that date as a string
+	- If congressman i cosponsored bill j and withdrew the cosponsorship, then datematrix[i,j] contains the date of cosponsorship as a string
+	- If congressman i cosponsored bill j after withdrawing the cosponsorship, then datematrix[i,j] contains the date of the final cosponsorship as a string	 
+	- If congressman i sponsored bill j, then datematrix[i,j] contains the bill introduction date as a string
+	- Several bills do not have sponsorship date information. Those cases are marked as -999. 
+
+10. SENATE_MATRICES.ZIP
+
+Contains: 17 "***_senmatrix.txt" files, for Congresses 93-110
+	- Each file is a comma-separated matrix
+	- Rows represent Senators in that Senate (from the corresponding senate_members file)
+	- Columns represent Bills in that Senate (from senate_bills.zip)
+	- Data points can take 3 values:
+		1 - Congressman i sponsored bill j
+		2 - Congressman i cosponsored bill j
+		3 - Congressman i cosponsored bill j after withdrawing the previous cosponsorship from bill j
+		5 - Congressman i withdrew a cosponsorship from bill j
+
+
+11. SENATE_MEMBERS.ZIP
+
+Contains: 17 "***_senate.txt" files, 3 columns, comma-separated
+	1. Name
+	2. THOMAS ID #
+	3. ICPSR ID #
+
+
+12. SENATE_STATUS.ZIP
+
+Contains: "senate_status.txt", 4 columns, comma-separated
+	1. Did bill pass house (1 = Yes, 0 = No)
+	2. Did bill pass senate (1 = Yes, 0 = No)
+	3. Did house agree to conference report (1 = Yes, 0 = No)
+	4. Did president sign/veto (1 = sign, 0 = not sign, -1 = veto)
+
+
+	
