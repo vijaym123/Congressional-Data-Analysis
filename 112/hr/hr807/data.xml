@@ -1,0 +1,57 @@
+<bill session="112" type="h" number="807" updated="2013-07-20T01:17:17-04:00">
+  <state datetime="2011-02-18">REFERRED</state>
+  <status>
+    <introduced datetime="2011-02-18"/>
+  </status>
+  <introduced datetime="2011-02-18"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to repeal the prohibition on collective bargaining with respect to matters and questions regarding compensation of employees of the Department of Veterans Affairs other than rates of basic pay, and for other purposes.</title>
+  </titles>
+  <sponsor id="400133"/>
+  <cosponsors>
+    <cosponsor id="400042" joined="2012-03-27"/>
+    <cosponsor id="400047" joined="2012-02-16"/>
+    <cosponsor id="412208" joined="2012-04-16"/>
+    <cosponsor id="412440" joined="2012-02-29"/>
+    <cosponsor id="400081" joined="2012-04-26"/>
+    <cosponsor id="400110" joined="2012-02-16"/>
+    <cosponsor id="412215" joined="2012-05-09"/>
+    <cosponsor id="400162" joined="2011-03-30"/>
+    <cosponsor id="412281" joined="2011-06-23"/>
+    <cosponsor id="400185" joined="2012-03-07"/>
+    <cosponsor id="400198" joined="2011-05-12"/>
+    <cosponsor id="412209" joined="2011-11-29"/>
+    <cosponsor id="412293" joined="2012-02-16"/>
+    <cosponsor id="400259" joined="2011-10-06"/>
+    <cosponsor id="400316" joined="2011-10-06"/>
+    <cosponsor id="400355" joined="2011-05-05"/>
+    <cosponsor id="400387" joined="2012-02-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-02-18">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2011-03-15">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="572"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Labor-management relations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/18/2011--Introduced.
+Prohibits collective bargaining with respect to matters and questions concerning rates of basic pay (under current law, concerning compensation) of employees of the Department of Veterans Affairs (VA). (Permits collective bargaining concerning compensation, other than basic rates of pay, with respect to such employees.)</summary>
+</bill>

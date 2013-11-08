@@ -1,0 +1,64 @@
+<bill session="111" type="s" number="3200" updated="2013-07-20T00:54:29-04:00">
+  <state datetime="2010-05-25">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2010-05-25"/>
+  </status>
+  <introduced datetime="2010-04-14"/>
+  <titles>
+    <title as="introduced" type="official">A bill to designate the facility of the United States Postal Service located at 23 Genesee Street in Hornell, New York, as the "Zachary Smith Post Office Building".</title>
+  </titles>
+  <sponsor id="412223"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-04-14">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2010-04-16">
+      <text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-05-17">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2010-05-18">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2010-05-18" calendar="Senate Legislative" under="General Orders" number="384">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 384.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2010-05-25" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4171-4172" label="consideration"/>
+      <reference ref="CR S4171" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2010-05-25T15:50:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2010-05-25">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2010-05-25T17:58:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSGA09" subcommittee="Federal Financial Management, Government Information, Federal Services, and International Security" name="Senate Homeland Security and Governmental Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="h" number="4665"/>
+    <bill relation="identical" session="111" type="h" number="5051"/>
+    <bill relation="unknown" session="111" type="h" number="5051"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="New York State"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>4/14/2010--Introduced.
+Designates the facility of the United States Postal Service located at 23 Genesee Street in Hornell, New York, as the "Zachary Smith Post Office Building."</summary>
+</bill>

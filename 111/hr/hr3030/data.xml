@@ -1,0 +1,48 @@
+<bill session="111" type="h" number="3030" updated="2013-07-19T23:39:21-04:00">
+  <state datetime="2009-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="2009-06-24"/>
+  </status>
+  <introduced datetime="2009-06-24"/>
+  <titles>
+    <title as="introduced" type="short">Fostering Independence Through Technology Act of 2009</title>
+    <title as="introduced" type="official">To establish pilot projects under the Medicare Program to provide incentives for home health agencies to utilize home monitoring and communications technologies.</title>
+  </titles>
+  <sponsor id="412214"/>
+  <cosponsors>
+    <cosponsor id="400051" joined="2009-06-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-24">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-06-24">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2009-06-24">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-06-25">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="457"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health information and medical records"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Home and outpatient care"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>6/24/2009--Introduced.
+Fostering Independence Through Technology Act of 2009 - Directs the Secretary of Health and Human Services to conduct pilot projects under title XVIII (Medicare) of the Social Security Act for the purpose of providing incentives to home health agencies to utilize home monitoring and communications technology.</summary>
+</bill>

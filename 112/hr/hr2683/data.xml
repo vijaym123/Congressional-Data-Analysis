@@ -1,0 +1,47 @@
+<bill session="112" type="h" number="2683" updated="2013-07-20T01:33:29-04:00">
+  <state datetime="2011-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2011-07-28"/>
+  </status>
+  <introduced datetime="2011-07-28"/>
+  <titles>
+    <title as="introduced" type="short">HEAL Act</title>
+    <title as="introduced" type="short">Honoring Ezeagwula and Long Act</title>
+    <title as="introduced" type="official">To require that members of the Armed Forces who were killed or wounded in the attack that occurred at a recruiting station in Little Rock, Arkansas, on June 1, 2009, are treated in the same manner as members who are killed or wounded in a combat zone.</title>
+  </titles>
+  <sponsor id="412401"/>
+  <cosponsors>
+    <cosponsor id="412400" joined="2011-07-28"/>
+    <cosponsor id="400617" joined="2011-12-20"/>
+    <cosponsor id="400654" joined="2011-12-13"/>
+    <cosponsor id="400345" joined="2011-07-28"/>
+    <cosponsor id="412402" joined="2011-07-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-07-28">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2011-09-20">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="1899"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Arkansas"/>
+    <term name="Crime victims"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Terrorism"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/28/2011--Introduced.
+Honoring Ezeagwula and Long Act or the HEAL Act - Requires that Armed Forces members who were killed or wounded in the attack that occurred at a recruiting station in Little Rock, Arkansas, on June 1, 2009, be treated as having been killed or wounded in a combat zone as the result of an act of an enemy of the United States for the purposes of all applicable federal laws, regulations, and policies.</summary>
+</bill>

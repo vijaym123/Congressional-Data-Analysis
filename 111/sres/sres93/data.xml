@@ -1,0 +1,46 @@
+<bill session="111" type="sr" number="93" updated="2013-07-20T00:17:07-04:00">
+  <state datetime="2009-04-30">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2009-04-30"/>
+  </status>
+  <introduced datetime="2009-03-31"/>
+  <titles>
+    <title as="introduced" type="official">A bill supporting the mission and goals of 2009 National Crime Victim's Rights Week, to increase public awareness of the rights, needs, and concerns of victims and survivors of crime in the United States, and to commemorate the 25th anniversary of the enactment of the Victims of Crime Act of 1984.</title>
+  </titles>
+  <sponsor id="300087"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-31">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S4085-4086" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2009-04-30">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2009-04-30">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S4995" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2009-04-30" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="hr" number="109"/>
+    <bill relation="unknown" session="111" type="hr" number="1104"/>
+    <bill relation="unknown" session="111" type="sr" number="486"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Crime victims"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1029"/>
+  </amendments>
+  <summary>4/30/2009--Passed Senate amended.
+Expresses support for the mission and goals of the 2009 National Crime Victims' Rights Week. Recognizes the 25th anniversary of the enactment of the Victims of Crime Act of 1984.</summary>
+</bill>

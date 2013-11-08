@@ -1,0 +1,38 @@
+<bill session="113" type="h" number="2995" updated="2013-11-02T06:44:14-04:00">
+  <state datetime="2013-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-02"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="short" as="introduced">Unnecessary Cap Act of 2013</title>
+    <title type="official" as="introduced">To amend the Patient Protection and Affordable Care Act to eliminate the limitation on deductibles for employer-sponsored health plans.</title>
+  </titles>
+  <sponsor id="412393"/>
+  <cosponsors>
+    <cosponsor id="400403" joined="2013-08-02"/>
+    <cosponsor id="400406" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Comprehensive health care"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+  </subjects>
+  <amendments/>
+</bill>

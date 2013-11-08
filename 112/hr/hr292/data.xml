@@ -1,0 +1,84 @@
+<bill session="112" type="h" number="292" updated="2013-07-20T01:12:52-04:00">
+  <state datetime="2011-01-18T18:51:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2011-01-18T18:51:00-05:00"/>
+  </status>
+  <introduced datetime="2011-01-12"/>
+  <titles>
+    <title as="introduced" type="short">Stop the OverPrinting (STOP) Act</title>
+    <title as="introduced" type="official">To amend title 44, United States Code, to eliminate the mandatory printing of bills and resolutions by the Government Printing Office for the use of the House of Representatives and Senate.</title>
+    <title as="amended by house" type="official">To amend title 44, United States Code, to eliminate the mandatory printing of bills and resolutions for the use of offices of Members of Congress.</title>
+  </titles>
+  <sponsor id="412291"/>
+  <cosponsors>
+    <cosponsor id="400046" joined="2011-01-18"/>
+    <cosponsor id="412252" joined="2011-01-18"/>
+    <cosponsor id="400055" joined="2011-01-18"/>
+    <cosponsor id="400057" joined="2011-01-18"/>
+    <cosponsor id="400646" joined="2011-01-18"/>
+    <cosponsor id="412406" joined="2011-01-18"/>
+    <cosponsor id="412451" joined="2011-01-18"/>
+    <cosponsor id="412454" joined="2011-01-18"/>
+    <cosponsor id="400285" joined="2011-01-18"/>
+    <cosponsor id="400311" joined="2011-01-18"/>
+    <cosponsor id="412303" joined="2011-01-18"/>
+    <cosponsor id="412309" joined="2011-01-18"/>
+    <cosponsor id="412393" joined="2011-01-18"/>
+    <cosponsor id="412314" joined="2011-01-18"/>
+    <cosponsor id="400367" joined="2011-01-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-01-12">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2011-01-18T14:16:00-05:00">
+      <text>Mr. Harper moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2011-01-18T14:16:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H207-209" label="consideration"/>
+    </action>
+    <action datetime="2011-01-18T14:16:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 292.</text>
+    </action>
+    <action datetime="2011-01-18T14:29:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2011-01-18T18:30:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H231-232" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-01-18T18:51:00-05:00" how="roll" result="pass" roll="12" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 0 (Roll no. 12).</text>
+      <reference ref="CR H207" label="text"/>
+    </vote>
+    <action datetime="2011-01-18T18:51:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-01-18T18:51:00-05:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-01-25">
+      <text>Received in the Senate and Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="210"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional committees"/>
+    <term name="Congressional operations and organization"/>
+    <term name="Government information and archives"/>
+    <term name="Internet and video services"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>1/18/2011--Passed House amended.
+Requires the Public Printer to make bills and resolutions available for the use of offices of Members of Congress only in an electronic format accessible through the Internet.</summary>
+</bill>

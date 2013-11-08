@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="1657" updated="2013-07-19T23:26:41-04:00">
+  <state datetime="2009-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2009-03-19"/>
+  </status>
+  <introduced datetime="2009-03-19"/>
+  <titles>
+    <title as="introduced" type="official">To direct the Secretary of Defense to notify members of the Armed Forces and State military departments of exposure to potentially harmful materials and contaminants.</title>
+  </titles>
+  <sponsor id="412315"/>
+  <cosponsors>
+    <cosponsor id="400100" joined="2010-06-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-19">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2009-04-27">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Government information and archives"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Military personnel and dependents"/>
+    <term name="National Guard and reserves"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2009--Introduced.
+Requires the Secretary of Defense: (1) in the case of a member of the Armed Forces who is exposed to a potentially harmful material or contaminant, to notify the member of such exposure and any associated health risks; and (2) in the case of a member of a reserve component, to also notify the state military department of that member. Directs the Secretary, if such a determination is made while a member is deployed, to notify the member while the member is so deployed.</summary>
+</bill>

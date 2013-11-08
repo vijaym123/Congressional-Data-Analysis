@@ -1,0 +1,69 @@
+<bill session="112" type="hc" number="128" updated="2013-07-20T02:10:05-04:00">
+  <state datetime="2012-06-14">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2012-06-14"/>
+  </status>
+  <introduced datetime="2012-05-30"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of Emancipation Hall in the Capitol Visitor Center for an event to award the Congressional Gold Medal, collectively, to the Montford Point Marines.</title>
+  </titles>
+  <sponsor id="400048"/>
+  <cosponsors>
+    <cosponsor id="400010" joined="2012-05-30"/>
+    <cosponsor id="400030" joined="2012-05-30"/>
+    <cosponsor id="400086" joined="2012-05-30"/>
+    <cosponsor id="400209" joined="2012-05-30"/>
+    <cosponsor id="412413" joined="2012-05-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-05-30">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2012-06-05T18:31:00-04:00">
+      <text>Mr. Lungren, Daniel E. asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2012-06-05T18:31:00-04:00">
+      <text>Committee on House Administration discharged.</text>
+    </action>
+    <action datetime="2012-06-05T18:31:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H3444" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-06-05T18:32:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H3444" label="text"/>
+    </vote>
+    <action datetime="2012-06-05T18:32:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-06-06">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2012-06-14" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4218" label="consideration"/>
+    </vote>
+    <action datetime="2012-06-15">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="sc" number="45"/>
+    <bill relation="unknown" session="112" type="sc" number="45"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Military history"/>
+    <term name="Military personnel and dependents"/>
+    <term name="North Carolina"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+  <summary>6/14/2012--Passed Senate without amendment.
+Authorizes Emancipation Hall in the Capitol Visitor Center to be used on June 27, 2012, for an event to award the Congressional Gold Medal, collectively, to the Montford Point Marines. (Camp Montford Point, North Carolina, was the site for the training of the first African-American Marines.)</summary>
+</bill>

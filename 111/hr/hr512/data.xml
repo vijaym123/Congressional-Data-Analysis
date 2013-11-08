@@ -1,0 +1,83 @@
+<bill session="111" type="h" number="512" updated="2013-07-19T23:16:29-04:00">
+  <state datetime="2010-09-29T23:52:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-09-29T23:52:00-04:00"/>
+  </status>
+  <introduced datetime="2009-01-14"/>
+  <titles>
+    <title as="introduced" type="short">Federal Election Integrity Act of 2009</title>
+    <title as="reported to house" type="short">Federal Election Integrity Act of 2009</title>
+    <title as="passed house" type="short">Federal Election Integrity Act of 2010</title>
+    <title as="introduced" type="official">To amend the Federal Election Campaign Act of 1971 to prohibit certain State election administration officials from actively participating in electoral campaigns.</title>
+  </titles>
+  <sponsor id="400097"/>
+  <cosponsors>
+    <cosponsor id="400152" joined="2009-02-25"/>
+    <cosponsor id="400184" joined="2009-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-01-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E84"/>
+    </action>
+    <action state="REFERRED" datetime="2009-01-14">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2009-06-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on House Administration"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-06-10">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on House Administration"/>
+    </calendar>
+    <action datetime="2009-12-08T16:55:00-05:00">
+      <text>Reported (Amended) by the Committee on House Administration. H. Rept. 111-363.</text>
+    </action>
+    <calendar datetime="2009-12-08T16:55:00-05:00" calendar="Union" number="215">
+      <text>Placed on the Union Calendar, Calendar No. 215.</text>
+    </calendar>
+    <action datetime="2010-09-28T20:19:00-04:00">
+      <text>Mrs. Davis (CA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-09-28T20:19:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7145-7148" label="consideration"/>
+    </action>
+    <action datetime="2010-09-28T20:19:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 512.</text>
+    </action>
+    <action datetime="2010-09-28T20:36:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-09-29T23:44:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7372" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-09-29T23:52:00-04:00" how="roll" result="pass" roll="563" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 296 - 129 (Roll no. 563).</text>
+      <reference ref="CR 9/28/2010 H7145-7146" label="text"/>
+    </vote>
+    <action datetime="2010-09-29T23:52:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-11-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Markup, Reporting"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional elections"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>9/29/2010--Passed House amended.
+Federal Election Integrity Act of 2010 - Amends the Federal Election Campaign Act of 1971 to make it unlawful for a chief state election administration official to take active part in political management or in a political campaign with respect to any election for federal office over which the official has supervisory authority. Waives application of this Act if the chief state election administration official himself or herself, or an immediate family member, is a candidate. States that the budgetary effects of this Act, for compliance with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled "Budgetary Effects of PAYGO Legislation" for this Act, provided that such statement has been submitted before the vote on passage.</summary>
+</bill>

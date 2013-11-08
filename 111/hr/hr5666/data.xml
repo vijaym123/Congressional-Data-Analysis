@@ -1,0 +1,41 @@
+<bill session="111" type="h" number="5666" updated="2013-07-20T00:03:43-04:00">
+  <state datetime="2010-07-01">REFERRED</state>
+  <status>
+    <introduced datetime="2010-07-01"/>
+  </status>
+  <introduced datetime="2010-07-01"/>
+  <titles>
+    <title as="introduced" type="short">Emergency Relief Well Act</title>
+    <title as="introduced" type="official">To amend the Outer Continental Shelf Lands Act to require the drilling of emergency relief wells, and for other purposes.</title>
+  </titles>
+  <sponsor id="412276"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-01">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2010-07-07">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3492"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Accidents"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of the Interior"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Marine pollution"/>
+    <term name="Oil and gas"/>
+  </subjects>
+  <amendments/>
+  <summary>7/1/2010--Introduced.
+Emergency Relief Well Act - Amends the Outer Continental Shelf Lands Act, with respect to geological and geophysical explorations as well as oil and gas development and production, to require an exploration plan submitted for approval to include a plan for drilling at least one emergency relief well concurrently with the drilling of the proposed well. Requires any exploratory drilling in submerged lands of the outer Continental Shelf conducted under a lease (including drilling for oil and gas development and production) to be accompanied by the concurrent drilling of at least one emergency relief well, subject to any applicable requirements established by the Secretary of the Interior. Authorizes the Secretary to require, as an alternative to such emergency relief well requirement, measures that would be at least as effective at stopping a major release from a proposed well.</summary>
+</bill>

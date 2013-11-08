@@ -1,0 +1,67 @@
+<bill session="112" type="h" number="1934" updated="2013-07-20T01:27:00-04:00">
+  <state datetime="2011-06-16T14:05:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2011-06-16T14:05:00-04:00"/>
+  </status>
+  <introduced datetime="2011-05-23"/>
+  <titles>
+    <title as="introduced" type="official">To improve certain administrative operations of the Library of Congress, and for other purposes.</title>
+  </titles>
+  <sponsor id="400617"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2011-05-23">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2011-05-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on House Administration"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-05-25">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on House Administration"/>
+    </calendar>
+    <action datetime="2011-06-14T16:29:00-04:00">
+      <text>Reported by the Committee on House Administration. H. Rept. 112-105.</text>
+    </action>
+    <calendar datetime="2011-06-14T16:29:00-04:00" calendar="Union" number="59">
+      <text>Placed on the Union Calendar, Calendar No. 59.</text>
+    </calendar>
+    <action datetime="2011-06-16T14:04:00-04:00">
+      <text>Mr. Lungren, Daniel E. asked unanimous consent to consider as introduced.</text>
+    </action>
+    <action datetime="2011-06-16T14:04:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H4315" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-06-16T14:05:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H4315" label="text"/>
+    </vote>
+    <action datetime="2011-06-16T14:05:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-06-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Markup, Reporting"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="2055"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Appropriations"/>
+    <term name="Congressional agencies"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Humanities programs funding"/>
+    <term name="Libraries and archives"/>
+    <term name="Library of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/2011--Passed House without amendment.
+Authorizes the Librarian of Congress to dispose of surplus or obsolete personal property of the Library of Congress by interagency transfer, donation, sale, trade-in, or other appropriate method. Requires proceeds from such disposition to be: (1) credited to the funds available for the Library's operations; and (2) made available to acquire the same or similar property during the fiscal year in which the amounts are received, including the following fiscal year.</summary>
+</bill>

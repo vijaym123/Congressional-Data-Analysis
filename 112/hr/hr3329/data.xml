@@ -1,0 +1,49 @@
+<bill session="112" type="h" number="3329" updated="2013-07-20T01:38:59-04:00">
+  <state datetime="2011-11-02">REFERRED</state>
+  <status>
+    <introduced datetime="2011-11-02"/>
+  </status>
+  <introduced datetime="2011-11-02"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to extend the eligibility period for veterans to enroll in certain vocational rehabilitation programs.</title>
+  </titles>
+  <sponsor id="400355"/>
+  <cosponsors>
+    <cosponsor id="412436" joined="2011-11-02"/>
+    <cosponsor id="412208" joined="2011-11-02"/>
+    <cosponsor id="412205" joined="2011-11-02"/>
+    <cosponsor id="400133" joined="2011-11-02"/>
+    <cosponsor id="400274" joined="2012-04-16"/>
+    <cosponsor id="400333" joined="2011-11-02"/>
+    <cosponsor id="400350" joined="2011-11-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2011-11-02">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1982"/>
+    </action>
+    <action state="REFERRED" datetime="2011-11-02">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2011-11-10">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2012-03-08">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>11/2/2011--Introduced.
+Extends from 12 to 15 years after discharge or release from active-duty service the authorized period for veterans with service-connected disabilities to enroll in certain Department of Veterans Affairs (VA) vocational training and rehabilitation programs.</summary>
+</bill>

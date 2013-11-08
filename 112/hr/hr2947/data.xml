@@ -1,0 +1,106 @@
+<bill session="112" type="h" number="2947" updated="2013-07-20T01:35:43-04:00">
+  <state datetime="2012-06-08">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2012-06-08"/>
+  </status>
+  <introduced datetime="2011-09-15"/>
+  <titles>
+    <title as="introduced" type="official">To provide for the release of the reversionary interest held by the United States in certain land conveyed by the United States in 1950 for the establishment of an airport in Cook County, Minnesota.</title>
+  </titles>
+  <sponsor id="412441"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2011-09-15">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2011-09-20">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-12-02">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-02-29">
+      <text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-02-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-02-29">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2012-04-16T17:36:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 112-441.</text>
+    </action>
+    <calendar datetime="2012-04-16T17:37:00-04:00" calendar="Union" number="308">
+      <text>Placed on the Union Calendar, Calendar No. 308.</text>
+    </calendar>
+    <action datetime="2012-04-24T16:49:00-04:00">
+      <text>Mr. Bishop (UT) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-04-24T16:49:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2048-2049" label="consideration"/>
+    </action>
+    <action datetime="2012-04-24T16:49:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2947.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-04-24T16:53:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2048" label="text"/>
+    </vote>
+    <action datetime="2012-04-24T16:53:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-04-25">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2012-05-16">
+      <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2012-05-16">
+      <text>Referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+    <action datetime="2012-05-24">
+      <text>Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.</text>
+      <reference ref="CR S3658" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2012-05-24" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2012-05-25">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2012-05-31">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2012-06-08">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2012-06-08" type="public" number="112-129">
+      <text>Became Public Law No: 112-129.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Discharged"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="1987"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Aviation and airports"/>
+    <term name="Land transfers"/>
+    <term name="Minnesota"/>
+  </subjects>
+  <amendments/>
+  <summary>6/8/2012--Public Law.
+Directs the Secretary of Agriculture to release, without consideration, specified conditions (including the reversionary interest retained by the United States) on the use of certain land conveyed to the state of Minnesota for the establishment of an airport in Cook County, Minnesota.</summary>
+</bill>

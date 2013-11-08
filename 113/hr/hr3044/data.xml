@@ -1,0 +1,40 @@
+<bill session="113" type="h" number="3044" updated="2013-11-02T06:44:38-04:00">
+  <state datetime="2013-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-02"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="official" as="introduced">To approve the transfer of Yellow Creek Port properties in Iuka, Mississippi.</title>
+  </titles>
+  <sponsor id="412442"/>
+  <cosponsors>
+    <cosponsor id="412280" joined="2013-08-02"/>
+    <cosponsor id="412443" joined="2013-08-02"/>
+    <cosponsor id="400402" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-08-05">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="212"/>
+    <bill relation="unknown" session="113" type="s" number="212"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Land transfers"/>
+    <term name="Mississippi"/>
+    <term name="Navigation, waterways, harbors"/>
+  </subjects>
+  <amendments/>
+</bill>

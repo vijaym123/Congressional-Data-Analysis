@@ -1,0 +1,60 @@
+<bill session="111" type="h" number="5616" updated="2013-07-20T00:03:15-04:00">
+  <state datetime="2010-07-01">REPORTED</state>
+  <status>
+    <unknown datetime="2010-07-01"/>
+  </status>
+  <introduced datetime="2010-06-28"/>
+  <titles>
+    <title as="introduced" type="short">National Historical Publications and Records Commission Act of 2010</title>
+    <title as="introduced" type="official">To authorize appropriations for the National Historical Publications and Records Commission through fiscal year 2015, and for other purposes.</title>
+  </titles>
+  <sponsor id="400074"/>
+  <cosponsors>
+    <cosponsor id="412379" joined="2010-06-30"/>
+    <cosponsor id="400657" joined="2010-06-30"/>
+    <cosponsor id="400093" joined="2010-06-30"/>
+    <cosponsor id="412274" joined="2010-06-30"/>
+    <cosponsor id="400233" joined="2010-06-28"/>
+    <cosponsor id="400251" joined="2010-06-30"/>
+    <cosponsor id="400295" joined="2010-06-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-06-28">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2010-06-29">
+      <text>Referred to the Subcommittee on Information Policy, Census, and National Archives.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <action datetime="2010-07-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2010-07-01">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-07-01">
+      <text>Ordered to be Reported by the Yeas and Nays: 6 - 1.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, In Committee"/>
+    <committee activity="Referral, Markup" code="HSGO23" subcommittee="Information Policy, Census, and National Archives" name="House Oversight and Government Reform"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="2872"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Humanities programs funding"/>
+    <term name="National Archives and Records Administration"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="U.S. history"/>
+  </subjects>
+  <amendments/>
+  <summary>6/28/2010--Introduced.
+Authorizes appropriations for the National Historical Publications and Records Commission (affiliated with the National Archives and Records Administration) for FY2010-FY2015. Amends the Presidential Historical Records Preservation Act of 2008 to shift from the Commission to the Archivist of the United States the authority to make grants for establishment of state and local databases for records of servitude, emancipation, and post-civil war reconstruction. Requires the Archivist to consider Commission advice and recommendations before making such a grant.</summary>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="112" type="h" number="6682" updated="2013-07-20T02:07:34-04:00">
+  <state datetime="2012-12-18">REFERRED</state>
+  <status>
+    <introduced datetime="2012-12-18"/>
+  </status>
+  <introduced datetime="2012-12-18"/>
+  <titles>
+    <title as="introduced" type="short">Standard DATA Act of 2012</title>
+    <title as="introduced" type="short">Standard Data and Technology Advancement Act of 2012</title>
+    <title as="introduced" type="official">To establish consistent requirements for the electronic content and format of data used in the administration of certain human services programs under the Social Security Act.</title>
+  </titles>
+  <sponsor id="412393"/>
+  <cosponsors>
+    <cosponsor id="400111" joined="2012-12-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-12-18">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2012-12-18">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2012-12-18">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2012-12-19">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="3339"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Computers and information technology"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Department of Labor"/>
+    <term name="Government information and archives"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <summary>12/18/2012--Introduced.
+Standard Data and Technology Advancement Act of 2012 or Standard DATA Act of 2012 - Amends part A of title XI of the Social Security Act to direct the head of the department or agency responsible for administering certain human services programs to designate, by rule, nonproprietary and interoperable data exchange standards for any category of information required to be reported.</summary>
+</bill>

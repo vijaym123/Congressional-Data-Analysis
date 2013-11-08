@@ -1,0 +1,85 @@
+<bill session="111" type="h" number="3603" updated="2013-07-19T23:44:39-04:00">
+  <state datetime="2009-12-09T15:26:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-12-09T15:26:00-05:00"/>
+  </status>
+  <introduced datetime="2009-09-17"/>
+  <titles>
+    <title as="introduced" type="official">To rename the Ocmulgee National Monument.</title>
+  </titles>
+  <sponsor id="400254"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-09-17">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-09-21">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-11-05">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-11-18">
+      <text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-11-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-11-18">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2009-12-07T12:28:00-05:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-356.</text>
+    </action>
+    <calendar datetime="2009-12-07T12:29:00-05:00" calendar="Union" number="208">
+      <text>Placed on the Union Calendar, Calendar No. 208.</text>
+    </calendar>
+    <action datetime="2009-12-07T13:01:00-05:00">
+      <text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-12-07T13:01:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H13534" label="consideration"/>
+    </action>
+    <action datetime="2009-12-07T13:01:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3603.</text>
+    </action>
+    <action datetime="2009-12-07T13:04:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2009-12-09T15:18:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H14407-14408" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-12-09T15:26:00-05:00" how="roll" result="pass" roll="944" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 944).</text>
+      <reference ref="CR 12/07/2009 H13534" label="text"/>
+    </vote>
+    <action datetime="2009-12-09T15:26:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-12-10">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Georgia"/>
+    <term name="Historical and cultural resources"/>
+    <term name="Monuments and memorials"/>
+  </subjects>
+  <amendments/>
+  <summary>12/9/2009--Passed House amended.
+Renames the Ocmulgee National Monument in Macon, Georgia, as the Ocmulgee Mounds National Monument.</summary>
+</bill>

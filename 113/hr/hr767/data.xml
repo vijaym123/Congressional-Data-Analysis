@@ -1,0 +1,101 @@
+<bill session="113" type="h" number="767" updated="2013-11-02T06:25:24-04:00">
+  <state datetime="2013-05-15T17:31:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-05-15T17:31:00-04:00"/>
+  </status>
+  <introduced datetime="2013-02-15"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Energy Policy Act of 2005 to modify the Pilot Project offices of the Federal Permit Streamlining Pilot Project.</title>
+  </titles>
+  <sponsor id="412555"/>
+  <cosponsors>
+    <cosponsor id="412549" joined="2013-02-15"/>
+    <cosponsor id="412294" joined="2013-02-15"/>
+    <cosponsor id="412475" joined="2013-02-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-15">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H572-573"/>
+    </action>
+    <action datetime="2013-02-15" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-03-01">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-04-24">
+      <text>Subcommittee on Energy and Mineral Resources Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-04-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar datetime="2013-04-24" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2013-05-14T19:46:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-55.</text>
+    </action>
+    <calendar datetime="2013-05-14T19:46:00-04:00" calendar="Union" number="33">
+      <text>Placed on the Union Calendar, Calendar No. 33.</text>
+    </calendar>
+    <action datetime="2013-05-15T13:16:00-04:00">
+      <text>Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2013-05-15T13:16:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2632-2633" label="consideration"/>
+    </action>
+    <action datetime="2013-05-15T13:16:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 767.</text>
+    </action>
+    <action datetime="2013-05-15T13:23:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-05-15T17:06:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2634" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="147" datetime="2013-05-15T17:31:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 1 (Roll no. 147).</text>
+      <reference ref="CR H2632" label="text"/>
+    </vote>
+    <action datetime="2013-05-15T17:31:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-05-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="244"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Colorado"/>
+    <term name="Department of the Interior"/>
+    <term name="Land use and conservation"/>
+    <term name="Licensing and registrations"/>
+    <term name="Montana"/>
+    <term name="New Mexico"/>
+    <term name="Oil and gas"/>
+    <term name="Utah"/>
+    <term name="Wyoming"/>
+  </subjects>
+  <amendments/>
+  <summary>5/15/2013--Passed House amended.
+Amends the Energy Policy Act of 2005 to revise the list of Bureau of Land Management (BLM) Federal Permit Streamlining Pilot Project offices. Replaces the Miles City, Montana, field office with the Montana/Dakotas State Office, Montana (Billings). Replaces the Buffalo Field Office, Wyoming, with the High Plains District Office, Wyoming.</summary>
+</bill>

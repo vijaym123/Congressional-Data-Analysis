@@ -1,0 +1,65 @@
+<bill session="111" type="h" number="5932" updated="2013-07-20T00:06:08-04:00">
+  <state datetime="2010-09-28T21:07:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-09-28T21:07:00-04:00"/>
+  </status>
+  <introduced datetime="2010-07-29"/>
+  <titles>
+    <title as="introduced" type="short">Organized Retail Theft Investigation and Prosecution Act of 2010</title>
+    <title as="passed house" type="short">Organized Retail Theft Investigation and Prosecution Act of 2010</title>
+    <title as="introduced" type="official">To establish the Organized Retail Theft Investigation and Prosecution Unit in the Department of Justice, and for other purposes.</title>
+  </titles>
+  <sponsor id="400364"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2010-07-29"/>
+    <cosponsor id="400154" joined="2010-07-29"/>
+    <cosponsor id="400381" joined="2010-07-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-29">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2010-09-20">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2010-09-28T20:49:00-04:00">
+      <text>Mr. Scott (VA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-09-28T20:49:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7164-7168" label="consideration"/>
+    </action>
+    <action datetime="2010-09-28T20:49:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5932.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-09-28T21:07:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7164" label="text"/>
+    </vote>
+    <action datetime="2010-09-28T21:07:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-09-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Crime victims"/>
+    <term name="Crimes against property"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Department of Justice"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Retail and wholesale trades"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/2010--Passed House amended.
+Organized Retail Theft Investigation and Prosecution Act of 2010 - Directs the Attorney General to establish the Organized Retail Theft Investigation and Prosecution Unit to: (1) investigate and prosecute those instances of organized retail theft over which the Department of Justice (DOJ) has jurisdiction; (2) assist state and local law enforcement agencies in investigating and prosecuting organized retail theft; and (3) consult with key stakeholders, including retailers and online market places, to obtain information about instances of and trends in organized retail theft. Provides that the Unit shall include representatives from the Federal Bureau of Investigation (FBI), United States Immigration and Customs Enforcement, the United States Secret Service, the United States Postal Inspection Services, prosecutors, and any other necessary personnel. Defines "organized retail theft" as: (1) the obtaining of retail merchandise by illegal means to resell or otherwise place such merchandise back into the stream of commerce; or (2) aiding or abetting the commission of, or conspiring to commit, such theft. Requires the Attorney General to submit to the Judiciary Committees of Congress and make available to the public on the DOJ website a report containing recommendations on how retailers, online businesses, and law enforcement agencies can help prevent and combat organized retail theft . Authorizes appropriations for FY2011-FY2015.</summary>
+</bill>

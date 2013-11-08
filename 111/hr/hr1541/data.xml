@@ -1,0 +1,72 @@
+<bill session="111" type="h" number="1541" updated="2013-07-19T23:25:41-04:00">
+  <state datetime="2009-03-20">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2009-03-20"/>
+  </status>
+  <introduced datetime="2009-03-17"/>
+  <titles>
+    <title as="introduced" type="official">To provide for an additional temporary extension of programs under the Small Business Act and the Small Business Investment Act of 1958, and for other purposes.</title>
+  </titles>
+  <sponsor id="400416"/>
+  <cosponsors>
+    <cosponsor id="412273" joined="2009-03-17"/>
+    <cosponsor id="412277" joined="2009-03-17"/>
+    <cosponsor id="412232" joined="2009-03-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-17">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+    <action datetime="2009-03-17T14:25:00-04:00">
+      <text>Ms. Velazquez moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-03-17T14:26:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3468-3469" label="consideration"/>
+    </action>
+    <action datetime="2009-03-17T14:26:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1541.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-03-17T14:36:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H3468" label="text"/>
+    </vote>
+    <action datetime="2009-03-17T14:36:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2009-03-17" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S3318" label="consideration"/>
+    </vote>
+    <topresident datetime="2009-03-17">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2009-03-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2009-03-19">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2009-03-20">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2009-03-20" type="public" number="111-10">
+      <text>Became Public Law No: 111-10.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Minority and disadvantaged businesses"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Small business"/>
+    <term name="Women in business"/>
+  </subjects>
+  <amendments/>
+  <summary>3/20/2009--Public Law.
+Extends through July 31, 2009, under the same terms and conditions, the authorization for any program, authority, or provision, including any pilot program, that is currently authorized through March 20, 2009, under the Small Business Act or the Small Business Investment Act of 1958.</summary>
+</bill>

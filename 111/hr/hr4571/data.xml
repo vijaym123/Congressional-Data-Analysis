@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="4571" updated="2013-07-19T23:53:41-04:00">
+  <state datetime="2010-02-02">REFERRED</state>
+  <status>
+    <introduced datetime="2010-02-02"/>
+  </status>
+  <introduced datetime="2010-02-02"/>
+  <titles>
+    <title as="introduced" type="short">GI Bill Enhancement Act of 2010</title>
+    <title as="introduced" type="official">To amend title 38, United States Code, to provide for an increase in the amount available for reimbursements payable by the Secretary of Veterans Affairs to State approving agencies, and for other purposes.</title>
+  </titles>
+  <sponsor id="412232"/>
+  <cosponsors>
+    <cosponsor id="400031" joined="2010-02-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-02-02">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2010-02-05">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Education programs funding"/>
+    <term name="Inflation and prices"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/2010--Introduced.
+GI Bill Enhancement Act of 2010 - Increases from $19 million to $24 million the annual amount available to the Secretary of Veterans Affairs (VA) to reimburse state agencies for expenses incurred in approving courses of education for participation in the veterans' educational assistance program. Directs the Secretary, for each fiscal year, to adjust such amount to account for changes in the cost of living.</summary>
+</bill>

@@ -1,0 +1,109 @@
+<bill session="112" type="h" number="4362" updated="2013-07-20T01:47:48-04:00">
+  <state datetime="2012-08-01T20:48:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-08-01T20:48:00-04:00"/>
+  </status>
+  <introduced datetime="2012-04-16"/>
+  <titles>
+    <title as="introduced" type="short">STOP Identity Theft Act of 2012</title>
+    <title as="introduced" type="short">Stopping Tax Offenders and Prosecuting Identity Theft Act of 2012</title>
+    <title as="reported to house" type="short">STOP Identity Theft Act of 2012</title>
+    <title as="reported to house" type="short">Stopping Tax Offenders and Prosecuting Identity Theft Act of 2012</title>
+    <title as="passed house" type="short">STOP Identity Theft Act of 2012</title>
+    <title as="passed house" type="short">Stopping Tax Offenders and Prosecuting Identity Theft Act of 2012</title>
+    <title as="introduced" type="official">To provide effective criminal prosecutions for certain identity thefts, and for other purposes.</title>
+  </titles>
+  <sponsor id="400623"/>
+  <cosponsors>
+    <cosponsor id="412407" joined="2012-05-31"/>
+    <cosponsor id="412271" joined="2012-06-07"/>
+    <cosponsor id="412236" joined="2012-06-07"/>
+    <cosponsor id="412385" joined="2012-05-16"/>
+    <cosponsor id="400144" joined="2012-05-16"/>
+    <cosponsor id="400246" joined="2012-06-07"/>
+    <cosponsor id="400295" joined="2012-05-31"/>
+    <cosponsor id="412306" joined="2012-06-20"/>
+    <cosponsor id="412331" joined="2012-07-10"/>
+    <cosponsor id="412415" joined="2012-05-16"/>
+    <cosponsor id="400355" joined="2012-05-16"/>
+    <cosponsor id="400381" joined="2012-04-16"/>
+    <cosponsor id="400416" joined="2012-06-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-04-16">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2012-04-19">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2012-07-09">
+      <text>Subcommittee on Crime, Terrorism, and Homeland Security Discharged.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2012-07-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-07-10">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2012-07-31T15:01:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 112-639.</text>
+    </action>
+    <calendar datetime="2012-07-31T15:02:00-04:00" calendar="Union" number="460">
+      <text>Placed on the Union Calendar, Calendar No. 460.</text>
+    </calendar>
+    <action datetime="2012-07-31T20:15:00-04:00">
+      <text>Mr. Smith (TX) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-07-31T20:16:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5510-5514" label="consideration"/>
+    </action>
+    <action datetime="2012-07-31T20:16:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4362.</text>
+    </action>
+    <action datetime="2012-07-31T20:32:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Smith (TX) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2012-08-01T20:48:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5619" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-08-01T20:48:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR 7/31/2012 H5510-5511" label="text"/>
+    </vote>
+    <action datetime="2012-08-01T20:48:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-08-02">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="3688"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Crime victims"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government information and archives"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3343"/>
+  </amendments>
+  <summary>8/1/2012--Passed House without amendment.
+Stopping Tax Offenders and Prosecuting Identity Theft Act of 2012 or the STOP Identity Theft Act of 2012 - Calls for the Attorney General to: (1) make use of all existing resources of the Department of Justice (DOJ), including task forces, to bring more perpetrators of tax return identity theft to justice; and (2) take into account the need to concentrate efforts in areas of the country where the crime is most frequently reported, to coordinate with state and local authorities to prosecute and prevent such crime, and to protect vulnerable groups from becoming victims or otherwise being used in the offense. Amends the federal criminal code to: (1) define "means of identification" to mean any name or number used to identify a specific person (currently, any specific individual); and (2) make tax fraud a predicate offense for aggravated identity theft. Directs the Attorney General to include in the first annual DOJ performance report made more than nine months after the date of this Act's enactment information as to progress in implementing this Act regarding: (1) information readily available to DOJ about trends in the incidence of tax return identity theft, (2) the effectiveness of statutory tools in aiding DOJ in prosecuting it, (3) recommendations on additional statutory tools that would aid in removing barriers to effective prosecution, and (4) the status of implementing DOJ's March 2010 audit report on DOJ efforts to combat identity theft.</summary>
+</bill>

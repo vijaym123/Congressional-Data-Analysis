@@ -1,0 +1,41 @@
+<bill session="113" type="h" number="3294" updated="2013-11-02T06:46:43-04:00">
+  <state datetime="2013-10-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-15"/>
+  </status>
+  <introduced datetime="2013-10-15"/>
+  <titles>
+    <title type="short" as="introduced">State-Run Federal Lands Act</title>
+    <title type="official" as="introduced">To establish a streamlined process through which a State may claim authority over and responsibility for management of Federal lands located in the State without claiming ownership of the land, and for other purposes.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-10-15" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-10-15">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-10-15">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2013-10-18">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2013-10-18">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+    <committee activity="Referral" code="HSII22" subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" name="House Natural Resources"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,73 @@
+<bill session="111" type="hr" number="1015" updated="2013-07-19T23:04:51-04:00">
+  <state datetime="2010-01-19T19:07:00-05:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2010-01-19T19:07:00-05:00"/>
+  </status>
+  <introduced datetime="2010-01-19"/>
+  <titles>
+    <title as="introduced" type="official">Congratulating the Penn State women's volleyball team on winning the 2009 NCAA Division I National Championship.</title>
+  </titles>
+  <sponsor id="412317"/>
+  <cosponsors>
+    <cosponsor id="412234" joined="2010-01-19"/>
+    <cosponsor id="412273" joined="2010-01-19"/>
+    <cosponsor id="400648" joined="2010-01-19"/>
+    <cosponsor id="400114" joined="2010-01-19"/>
+    <cosponsor id="400147" joined="2010-01-19"/>
+    <cosponsor id="400183" joined="2010-01-19"/>
+    <cosponsor id="400210" joined="2010-01-19"/>
+    <cosponsor id="400286" joined="2010-01-19"/>
+    <cosponsor id="400647" joined="2010-01-19"/>
+    <cosponsor id="412232" joined="2010-01-19"/>
+    <cosponsor id="409888" joined="2010-01-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-01-19">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2010-01-19T15:42:00-05:00">
+      <text>Ms. Hirono moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2010-01-19T15:42:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H164-165" label="consideration"/>
+    </action>
+    <action datetime="2010-01-19T15:42:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1015.</text>
+    </action>
+    <action datetime="2010-01-19T15:48:00-05:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Hirono objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2010-01-19T18:59:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H167-168" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2010-01-19T19:07:00-05:00" how="roll" result="pass" roll="7" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 396 - 0, 1 Present (Roll no. 7).</text>
+      <reference ref="CR H164" label="text"/>
+    </vote>
+    <action datetime="2010-01-19T19:07:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-02-23">
+      <text>Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education, Lifelong Learning, and Competitiveness" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Sports and recreation"/>
+    <term name="Athletes"/>
+    <term name="Congressional tributes"/>
+    <term name="Higher education"/>
+    <term name="Pennsylvania"/>
+    <term name="School athletics"/>
+  </subjects>
+  <amendments/>
+  <summary>1/19/2010--Passed House without amendment.
+Congratulates the Penn State women's volleyball team on winning the 2009 NCAA Division I women's volleyball championship.</summary>
+</bill>

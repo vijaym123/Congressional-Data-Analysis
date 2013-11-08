@@ -1,0 +1,88 @@
+<bill session="112" type="h" number="4484" updated="2013-07-20T01:48:51-04:00">
+  <state datetime="2012-07-23T15:47:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-07-23T15:47:00-04:00"/>
+  </status>
+  <introduced datetime="2012-04-24"/>
+  <titles>
+    <title as="introduced" type="short">Y Mountain Access Enhancement Act</title>
+    <title as="reported to house" type="short">Y Mountain Access Enhancement Act</title>
+    <title as="passed house" type="short">Y Mountain Access Enhancement Act</title>
+    <title as="introduced" type="official">To provide for the conveyance of a small parcel of National Forest System land in the Uinta-Wasatch-Cache National Forest in Utah to Brigham Young University, and for other purposes.</title>
+  </titles>
+  <sponsor id="412270"/>
+  <cosponsors>
+    <cosponsor id="400128" joined="2012-04-24"/>
+    <cosponsor id="400134" joined="2012-04-24"/>
+    <cosponsor id="412419" joined="2012-06-06"/>
+    <cosponsor id="400267" joined="2012-04-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-04-24">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2012-04-27">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-06-28">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-07-11">
+      <text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-07-11">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2012-07-19T18:11:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-612.</text>
+    </action>
+    <calendar datetime="2012-07-19T18:12:00-04:00" calendar="Union" number="445">
+      <text>Placed on the Union Calendar, Calendar No. 445.</text>
+    </calendar>
+    <action datetime="2012-07-23T15:39:00-04:00">
+      <text>Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-07-23T15:39:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5085-5086" label="consideration"/>
+    </action>
+    <action datetime="2012-07-23T15:39:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4484.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-07-23T15:47:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5085" label="text"/>
+    </vote>
+    <action datetime="2012-07-23T15:47:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-07-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="2471"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Higher education"/>
+    <term name="Land transfers"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Utah"/>
+  </subjects>
+  <amendments/>
+  <summary>7/23/2012--Passed House amended.
+Y Mountain Access Enhancement Act - Directs the Secretary of Agriculture (USDA), upon request by Brigham Young University, to convey an approximately 80-acre parcel of National Forest System land in the Uinta-Wasatch-Cache National Forest in Utah. Requires Brigham Young University to pay to the Secretary an amount equal to the fair market value of such land, as determined by an appraisal approved by the Secretary. Requires such consideration to be deposited in the general Treasury fund to reduce the federal deficit. Directs Brigham Young University, after the conveyance, to represent that it will: (1) continue allowing the same reasonable public access to the trailhead, and the part of the Y Mountain Trail already owned by the University, as has been historically allowed; and (2) allow such access to the part of the Trail and the "Y" symbol located on the conveyed land. Requires that the exact acreage and legal description of the land to be conveyed be determined by a survey that is satisfactory to the Secretary. Requires Brigham Young University to pay the costs of the survey and appraisal and any administrative analyses required by law.</summary>
+</bill>

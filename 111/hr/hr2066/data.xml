@@ -1,0 +1,45 @@
+<bill session="111" type="h" number="2066" updated="2013-07-19T23:30:18-04:00">
+  <state datetime="2009-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="2009-04-23"/>
+  </status>
+  <introduced datetime="2009-04-23"/>
+  <titles>
+    <title as="introduced" type="short">Graduate Psychology Education Act of 2009</title>
+    <title as="introduced" type="official">To amend the Public Health Service Act to promote mental and behavioral health services for underserved populations.</title>
+  </titles>
+  <sponsor id="400160"/>
+  <cosponsors>
+    <cosponsor id="412204" joined="2010-11-18"/>
+    <cosponsor id="400285" joined="2009-04-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-04-23">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2009-04-27">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="811"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Education programs funding"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Higher education"/>
+    <term name="Medical education"/>
+    <term name="Mental health"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2009--Introduced.
+Graduate Psychology Education Act of 2009 - Amends the Public Health Service Act to authorize the Secretary of Health and Human Services to award grants, cooperative agreements, and contracts to accredited doctoral, internship, and residency programs in psychology for the development and implementation of programs to provide interdisciplinary training in integrated health care settings to students in doctoral psychology programs. Requires such training to focus on the needs of underserved populations.</summary>
+</bill>

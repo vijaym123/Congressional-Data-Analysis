@@ -1,0 +1,44 @@
+<bill session="112" type="h" number="3411" updated="2013-07-20T01:39:41-04:00">
+  <state datetime="2011-11-14">REFERRED</state>
+  <status>
+    <introduced datetime="2011-11-14"/>
+  </status>
+  <introduced datetime="2011-11-14"/>
+  <titles>
+    <title as="introduced" type="official">To modify a land grant patent issued by the Secretary of the Interior.</title>
+  </titles>
+  <sponsor id="412436"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2011-11-14">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2011-11-29">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-01-24">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="404"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Great Lakes"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Michigan"/>
+  </subjects>
+  <amendments/>
+  <summary>11/14/2011--Introduced.
+Instructs the Secretary of the Interior to modify a land grant patent issued to the Great Lakes Shipwreck Historical Society, Chippewa County, Michigan.</summary>
+</bill>

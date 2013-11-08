@@ -1,0 +1,90 @@
+<bill session="111" type="s" number="328" updated="2013-07-20T00:26:14-04:00">
+  <state datetime="2009-01-28T12:53:00-05:00">PROV_KILL:SUSPENSIONFAILED</state>
+  <status>
+    <unknown datetime="2009-01-28T12:53:00-05:00"/>
+  </status>
+  <introduced datetime="2009-01-26"/>
+  <titles>
+    <title as="introduced" type="short">DTV Delay Act</title>
+    <title as="passed senate" type="short">DTV Delay Act</title>
+    <title as="introduced" type="official">A bill to postpone the DTV transition date.</title>
+  </titles>
+  <sponsor id="300084"/>
+  <cosponsors>
+    <cosponsor id="412246" joined="2009-01-27"/>
+    <cosponsor id="300051" joined="2009-01-27"/>
+    <cosponsor id="300060" joined="2009-01-26"/>
+    <cosponsor id="412242" joined="2009-01-26"/>
+    <cosponsor id="300061" joined="2009-01-27"/>
+    <cosponsor id="300080" joined="2009-01-27"/>
+    <cosponsor id="400357" joined="2009-01-27"/>
+    <cosponsor id="300087" joined="2009-01-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-01-26">
+      <text>Introduced in the Senate, read twice.</text>
+    </action>
+    <action datetime="2009-01-26">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S847-849" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2009-01-26" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2009-01-27T10:39:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2009-01-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2009-01-27T12:00:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2009-01-27T20:20:00-05:00">
+      <text>Mr. Boucher moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-01-27T20:21:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H584-593" label="consideration"/>
+    </action>
+    <action datetime="2009-01-27T20:21:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 328.</text>
+    </action>
+    <action datetime="2009-01-27T20:30:00-05:00">
+      <text>DEBATE - The House continued with debate on S. 328.</text>
+    </action>
+    <action datetime="2009-01-27T21:10:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed until Jan. 28.</text>
+    </action>
+    <action datetime="2009-01-28T12:44:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H619" label="consideration"/>
+    </action>
+    <vote state="PROV_KILL:SUSPENSIONFAILED" datetime="2009-01-28T12:53:00-05:00" how="roll" result="fail" roll="41" type="vote2" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 258 - 168 (Roll no. 41).</text>
+      <reference ref="CR H619" label="consideration"/>
+    </vote>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="352"/>
+    <bill relation="unknown" session="111" type="s" number="352"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Broadcasting, cable, digital technologies"/>
+    <term name="Consumer affairs"/>
+    <term name="Department of Commerce"/>
+    <term name="Emergency communications systems"/>
+    <term name="Federal Communications Commission (FCC)"/>
+    <term name="Licensing and registrations"/>
+    <term name="Telecommunication rates and fees"/>
+    <term name="Television and film"/>
+  </subjects>
+  <amendments>
+    <amendment number="s38"/>
+  </amendments>
+  <summary>1/26/2009--Passed Senate amended.
+DTV Delay Act - Amends the Digital Television Transition and Public Safety Act of 2005 to delay the transition of television broadcasting from analog to digital to June 13, 2009. Requires the Federal Communications Commission (FCC) to extend for a 116-day period the licenses for recovered spectrum, including the license period and construction requirements associated with those licenses. Extends to July 31, 2009, the deadline for requesting digital-to-analog converter box coupons. Authorizes the issuance, on request, of one replacement coupon for each coupon that expired without being redeemed. Declares that this Act does not prevent a station from ending analog broadcasting (and continuing to broadcast exclusively digitally) before June 13, 2009. Requires the FCC to permit the use, for authorized public safety radio services, of certain spectrum cleared as a result of a television station ceasing to broadcast analog signals before June 12, 2009, provided the FCC determines that such use does not cause harmful interference to full-power analog or digital television stations. Amends the Communications Act of 1934 to extend through September 30, 2012 (under current law, September 30, 2011), the authority of the FCC to grant a license or permit under provisions relating to competitive bidding. Designates the amounts made available by this Act as an emergency requirement and necessary to meet emergency needs under the concurrent resolutions on the budget for FY2008-2009.</summary>
+</bill>

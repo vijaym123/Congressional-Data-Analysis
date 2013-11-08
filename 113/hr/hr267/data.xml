@@ -1,0 +1,126 @@
+<bill session="113" type="h" number="267" updated="2013-11-02T06:21:13-04:00">
+  <state datetime="2013-08-09">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2013-08-09"/>
+  </status>
+  <introduced datetime="2013-01-15"/>
+  <titles>
+    <title type="short" as="introduced">Hydropower Regulatory Efficiency Act of 2013</title>
+    <title type="short" as="reported to house">Hydropower Regulatory Efficiency Act of 2013</title>
+    <title type="short" as="passed house">Hydropower Regulatory Efficiency Act of 2013</title>
+    <title type="official" as="introduced">To improve hydropower, and for other purposes.</title>
+  </titles>
+  <sponsor id="400659"/>
+  <cosponsors>
+    <cosponsor id="400101" joined="2013-01-15"/>
+    <cosponsor id="400110" joined="2013-01-15"/>
+    <cosponsor id="412406" joined="2013-01-18"/>
+    <cosponsor id="412256" joined="2013-01-15"/>
+    <cosponsor id="412293" joined="2013-01-15"/>
+    <cosponsor id="400253" joined="2013-01-15"/>
+    <cosponsor id="400255" joined="2013-01-15"/>
+    <cosponsor id="400400" joined="2013-01-15"/>
+    <cosponsor id="400419" joined="2013-01-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-15" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-01-18">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2013-02-04T17:36:00-05:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 113-6.</text>
+    </action>
+    <calendar datetime="2013-02-04T17:37:00-05:00" state="REPORTED" calendar="Union" number="4">
+      <text>Placed on the Union Calendar, Calendar No. 4.</text>
+    </calendar>
+    <action datetime="2013-02-12T14:19:00-05:00">
+      <text>Mr. Whitfield moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-02-12T14:19:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H439-441" label="consideration"/>
+    </action>
+    <action datetime="2013-02-12T14:19:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 267.</text>
+    </action>
+    <action datetime="2013-02-12T14:24:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-02-13T13:44:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H481" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="40" datetime="2013-02-13T13:52:00-05:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 40).</text>
+      <reference ref="CR 2/12/2013 H439-440" label="text"/>
+    </vote>
+    <action datetime="2013-02-13T13:52:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-02-14">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2013-04-23">
+      <text>Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 113-24.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2013-05-08">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2013-05-13">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2013-05-13" calendar="Senate Legislative" under="General Orders" number="71">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 71.</text>
+    </calendar>
+    <action datetime="2013-06-03">
+      <text>By Senator Wyden from Committee on Energy and Natural Resources filed written report. Report No. 113-38.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2013-08-01" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6257" label="consideration"/>
+    </vote>
+    <action datetime="2013-08-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2013-08-06">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2013-08-09">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-23" type="public" datetime="2013-08-09" state="ENACTED:SIGNED">
+      <text>Became Public Law No: 113-23.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Reporting"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="545"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Congressional oversight"/>
+    <term name="Dams and canals"/>
+    <term name="Department of Energy"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Federal Energy Regulatory Commission (FERC)"/>
+    <term name="Government studies and investigations"/>
+    <term name="Licensing and registrations"/>
+    <term name="Water storage"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/2013--Reported to Senate without amendment.
+Hydropower Regulatory Efficiency Act of 2013 - (Sec. 3) Amends the Public Utility Regulatory Policies Act of 1978 (PURPA) to increase from 5,000 to 10,000 kilowatts the size of small hydroelectric power projects which the Federal Energy Regulatory Commission (FERC) may exempt from its license requirements. (Sec. 4) Amends the Federal Power Act to revise the limitation on the maximum installation capacity of qualifying conduit hydropower facilities that are eligible for an exemption from licensing requirements. Requires any person, state, or municipality proposing to construct a qualifying conduit hydropower facility to file with FERC a notice of intent to do so. Requires FERC, within 15 days after receiving such a notice of intent, to make an initial determination as to whether the facility meets the qualifying criteria. Waives license requirements for any conduit hydroelectric facility that: (1) uses for electric power generation only the hydroelectric potential of a non-federally owned conduit, (2) has a maximum installed capacity of 5 megawatts, and (3) is not currently licensed or exempted from license requirements. Redefines "conduit" to specify any tunnel, canal, pipeline, aqueduct, flume, ditch, or similar manmade water conveyance operated for the distribution of water for agricultural, municipal, or industrial consumption and not primarily for the generation of electricity. Authorizes FERC to: (1) exempt from license requirements any electric power generation facility that utilizes for such generation only the hydroelectric potential of a conduit, and has an installed capacity or 40 megawatts or fewer; and (2) extend the preliminary permit period for up to 2 additional years beyond the 3 years otherwise allowed if it finds that the permittee has implemented activities under the permit in good faith and with reasonable diligence. (Sec. 6) Directs FERC to: (1) investigate the feasibility of issuing a license for hydropower development at nonpowered dams and closed loop pumped storage projects during a two-year period, and (2) hold workshops and develop hydropower pilot projects. (Sec. 7) Directs the Secretary of Energy (DOE) to study: (1) the technical flexibility that existing pumped storage facilities can provide to support intermittent renewable electric energy generation, including the potential for such facilities to be upgraded or retrofitted with advanced commercially available technology; and (2) the technical potential of existing pumped storage facilities and new advanced pumped storage facilities to provide grid reliability benefits.</summary>
+</bill>

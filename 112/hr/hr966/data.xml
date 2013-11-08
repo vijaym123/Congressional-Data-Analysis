@@ -1,0 +1,63 @@
+<bill session="112" type="h" number="966" updated="2013-07-20T01:18:42-04:00">
+  <state datetime="2011-07-07">REPORTED</state>
+  <status>
+    <unknown datetime="2011-07-07"/>
+  </status>
+  <introduced datetime="2011-03-09"/>
+  <titles>
+    <title as="introduced" type="short">Lawsuit Abuse Reduction Act of 2011</title>
+    <title as="reported to house" type="short">Lawsuit Abuse Reduction Act of 2011</title>
+    <title as="introduced" type="official">To amend Rule 11 of the Federal Rules of Civil Procedure to improve attorney accountability, and for other purposes.</title>
+  </titles>
+  <sponsor id="400381"/>
+  <cosponsors>
+    <cosponsor id="400057" joined="2011-04-08"/>
+    <cosponsor id="412481" joined="2011-04-07"/>
+    <cosponsor id="400144" joined="2011-04-07"/>
+    <cosponsor id="400176" joined="2011-05-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-03-09">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2011-03-09">
+      <text>Referred to the Subcommittee on the Constitution.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2011-05-27">
+      <text>Subcommittee on the Constitution Discharged.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2011-07-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-07-07">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 13.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2011-07-21T10:39:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 112-174.</text>
+    </action>
+    <calendar datetime="2011-07-21T10:40:00-04:00" calendar="Union" number="114">
+      <text>Placed on the Union Calendar, Calendar No. 114.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSJU10" subcommittee="Constitution" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="533"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Civil actions and liability"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Lawyers and legal services"/>
+    <term name="Legal fees and court costs"/>
+  </subjects>
+  <amendments/>
+  <summary>7/21/2011--Reported to House amended.
+Lawsuit Abuse Reduction Act of 2011 - Amends the sanctions provisions in Rule 11 of the Federal Rules of Civil Procedure to require the court to impose an appropriate sanction on any attorney, law firm, or party that has violated, or is responsible for the violation of, the rule with regard to representations to the court. Requires any sanction to compensate parties injured by the conduct in question. Removes a provision that prohibits filing a motion for sanctions if the challenged paper, claim, defense, contention, or denial is withdrawn or appropriately corrected within 21 days after service or within another time the court sets. Authorizes the court to impose additional sanctions, including striking the pleadings, dismissing the suit, nonmonetary directives, or penalty payments if warranted for effective deterrence. Prohibits this Act from being construed as barring or impeding the assertion or development of new claims, defenses, or remedies under federal, state, or local laws, including civil rights laws, or under the Constitution.</summary>
+</bill>

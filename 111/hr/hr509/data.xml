@@ -1,0 +1,128 @@
+<bill session="111" type="h" number="509" updated="2013-07-19T23:16:27-04:00">
+  <state datetime="2009-07-28T18:06:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-07-28T18:06:00-04:00"/>
+  </status>
+  <introduced datetime="2009-01-14"/>
+  <titles>
+    <title as="introduced" type="short">Marine Turtle Conservation Reauthorization Act of 2009</title>
+    <title as="reported to house" type="short">Marine Turtle Conservation Reauthorization Act of 2009</title>
+    <title as="passed house" type="short">Marine Turtle Conservation Reauthorization Act of 2009</title>
+    <title as="reported to senate" type="short">Marine Turtle Conservation Reauthorization Act of 2009</title>
+    <title as="introduced" type="official">To reauthorize the Marine Turtle Conservation Act of 2004.</title>
+    <title as="amended by house" type="official">To reauthorize the Marine Turtle Conservation Act of 2004, and for other purposes.</title>
+  </titles>
+  <sponsor id="400049"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2009-03-17"/>
+    <cosponsor id="400062" joined="2009-04-21"/>
+    <cosponsor id="400128" joined="2009-03-19"/>
+    <cosponsor id="400129" joined="2009-05-12"/>
+    <cosponsor id="400216" joined="2009-05-12"/>
+    <cosponsor id="400274" joined="2009-03-19"/>
+    <cosponsor id="400283" joined="2009-03-19"/>
+    <cosponsor id="412306" joined="2009-04-21"/>
+    <cosponsor id="412312" joined="2009-05-05"/>
+    <cosponsor id="412232" joined="2009-03-31"/>
+    <cosponsor id="412255" joined="2009-04-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-01-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E83"/>
+    </action>
+    <action state="REFERRED" datetime="2009-01-14">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-02-04">
+      <text>Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-05-05">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-06-10">
+      <text>Subcommittee on Insular Affairs, Oceans and Wildlife Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-06-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-06-10">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2009-07-10T13:08:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-200.</text>
+    </action>
+    <calendar datetime="2009-07-10T13:09:00-04:00" calendar="Union" number="107">
+      <text>Placed on the Union Calendar, Calendar No. 107.</text>
+    </calendar>
+    <action datetime="2009-07-27T15:32:00-04:00">
+      <text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-07-27T15:32:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8831-8832" label="consideration"/>
+    </action>
+    <action datetime="2009-07-27T15:32:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 509.</text>
+    </action>
+    <action datetime="2009-07-27T15:34:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Bordallo objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2009-07-28T17:59:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H8934-8935" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-07-28T18:06:00-04:00" how="roll" result="pass" roll="652" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 354 - 72 (Roll no. 652).</text>
+      <reference ref="CR 7/27/2009 H8831" label="text"/>
+    </vote>
+    <action datetime="2009-07-28T18:06:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-07-28T18:06:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-07-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="2009-12-03">
+      <text>Committee on Environment and Public Works Subcommittee on Water and Wildlife. Hearings held.</text>
+      <committee name="Committee on Environment and Public Works"/>
+    </action>
+    <calendar datetime="2009-12-10">
+      <text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Environment and Public Works"/>
+    </calendar>
+    <action datetime="2010-04-26">
+      <text>Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-173.</text>
+    </action>
+    <calendar datetime="2010-04-26" calendar="Senate Legislative" under="General Orders" number="356">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 356.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII22" subcommittee="Insular Affairs, Oceans and Wildlife" name="House Natural Resources"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEV15" subcommittee="Water and Wildlife" name="Senate Environment and Public Works"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Department of the Interior"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Reptiles"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>4/26/2010--Reported to Senate without amendment.
+Marine Turtle Conservation Reauthorization Act of 2009 - Expands marine turtle conservation assistance under the Marine Turtle Conservation Act of 2004 to include the United States and its territories. Authorizes appropriations to the Marine Turtle Conservation Fund for FY2009-FY2014. Authorizes an increase in the amount available from the Fund for administrative expenses. Limits funds made available for projects relating to the conservation of marine turtles in the United States to no more than 20% of the Fund for any fiscal year.</summary>
+</bill>

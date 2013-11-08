@@ -1,0 +1,96 @@
+<bill session="111" type="hr" number="484" updated="2013-07-19T23:00:11-04:00">
+  <state datetime="2009-06-09T18:54:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2009-06-09T18:54:00-04:00"/>
+  </status>
+  <introduced datetime="2009-05-21"/>
+  <titles>
+    <title as="introduced" type="official">Expressing support for designation of June 10th as "National Pipeline Safety Day".</title>
+  </titles>
+  <sponsor id="400232"/>
+  <cosponsors>
+    <cosponsor id="400011" joined="2009-05-21"/>
+    <cosponsor id="400147" joined="2009-05-21"/>
+    <cosponsor id="400193" joined="2009-05-21"/>
+    <cosponsor id="400262" joined="2009-06-02"/>
+    <cosponsor id="400308" joined="2009-06-03"/>
+    <cosponsor id="400309" joined="2009-05-21"/>
+    <cosponsor id="400379" joined="2009-05-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-05-21">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-05-21">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2009-05-21">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-05-22">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-06-02">
+      <text>Referred to the Subcommittee on Energy and Environment.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2009-06-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-06-04">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2009-06-04">
+      <text>Subcommittee on Railroads, Pipelines, and Hazardous Materials Discharged.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-06-09T12:00:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 111-144, Part I.</text>
+    </action>
+    <action datetime="2009-06-09T12:00:00-04:00">
+      <text>Committee on Energy and Commerce discharged.</text>
+    </action>
+    <calendar datetime="2009-06-09T12:01:00-04:00" calendar="House" number="68">
+      <text>Placed on the House Calendar, Calendar No. 68.</text>
+    </calendar>
+    <action datetime="2009-06-09T18:42:00-04:00">
+      <text>Mr. Larsen (WA) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2009-06-09T18:42:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6368-6370" label="consideration"/>
+    </action>
+    <action datetime="2009-06-09T18:43:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 484.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2009-06-09T18:54:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H6368" label="text"/>
+    </vote>
+    <action datetime="2009-06-09T18:54:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW14" subcommittee="Railroads, Pipelines, and Hazardous Materials" name="House Transportation and Infrastructure"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="sr" number="181"/>
+    <bill relation="unknown" session="111" type="sr" number="181"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Pipelines"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/9/2009--Passed House without amendment.
+Supports the designation of National Pipeline Safety Day. Encourages: (1) state and local governments to observe the day with appropriate activities that promote pipeline safety; (2) pipeline safety stakeholders to use the day to create greater public awareness of advancements that can lead to greater pipeline safety; and (3) individuals across the Nation to do what they can to encourage safe pipeline practices and damage prevention.</summary>
+</bill>

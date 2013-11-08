@@ -1,0 +1,95 @@
+<bill session="111" type="h" number="1471" updated="2013-07-19T23:25:04-04:00">
+  <state datetime="2009-10-26T14:16:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-10-26T14:16:00-04:00"/>
+  </status>
+  <introduced datetime="2009-03-12"/>
+  <titles>
+    <title as="introduced" type="official">To expand the boundary of the Jimmy Carter National Historic Site in the State of Georgia, to redesignate the unit as a National Historical Park, and for other purposes.</title>
+  </titles>
+  <sponsor id="400030"/>
+  <cosponsors>
+    <cosponsor id="400628" joined="2009-03-12"/>
+    <cosponsor id="400151" joined="2009-03-12"/>
+    <cosponsor id="412199" joined="2009-03-12"/>
+    <cosponsor id="400221" joined="2009-03-12"/>
+    <cosponsor id="400240" joined="2009-03-12"/>
+    <cosponsor id="400254" joined="2009-03-12"/>
+    <cosponsor id="400363" joined="2009-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-12">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-03-16">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-05-14">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-09-30">
+      <text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-09-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-09-30">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2009-10-21T14:26:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-307.</text>
+    </action>
+    <calendar datetime="2009-10-21T14:27:00-04:00" calendar="Union" number="173">
+      <text>Placed on the Union Calendar, Calendar No. 173.</text>
+    </calendar>
+    <action datetime="2009-10-26T14:12:00-04:00">
+      <text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-10-26T14:12:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11744-11745" label="consideration"/>
+    </action>
+    <action datetime="2009-10-26T14:12:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1471.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-10-26T14:16:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H11744" label="text"/>
+    </vote>
+    <action datetime="2009-10-26T14:16:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-10-27">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2009-12-14">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="742"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Georgia"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Land transfers"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Presidential administrations"/>
+    <term name="Rural conditions and development"/>
+    <term name="U.S. history"/>
+  </subjects>
+  <amendments/>
+  <summary>10/26/2009--Passed House amended.
+Redesignates the Jimmy Carter National Historic Site in Georgia as the Jimmy Carter National Historical Park. Requires, in the administration of the Historical Park, the preservation and interpretation of a southern agricultural-based rural community during the early to middle years of the 20th century. Adds specified real property needed to enhance the visitor experience at the site, including additional acreage surrounding the boyhood home of former President Jimmy Carter. Authorizes the acquisition, by donation only, of: (1) other lands and interests in the environs of Plains, Georgia, containing natural, cultural, or historic resources consistent with the purposes of the Park; and (2) the Georgia Welcome Center on State Route 280/27.</summary>
+</bill>

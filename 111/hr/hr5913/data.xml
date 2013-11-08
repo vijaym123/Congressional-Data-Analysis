@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="5913" updated="2013-07-20T00:05:58-04:00">
+  <state datetime="2010-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2010-07-28"/>
+  </status>
+  <introduced datetime="2010-07-28"/>
+  <titles>
+    <title as="introduced" type="short">Text a Tip Act of 2010</title>
+    <title as="introduced" type="official">To establish a pilot program for law enforcement agencies to use anonymous texts from citizens to augment their anonymous tip hotlines.</title>
+  </titles>
+  <sponsor id="412303"/>
+  <cosponsors>
+    <cosponsor id="400230" joined="2010-07-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-28">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2010-09-20">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="3360"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Crime prevention"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+  <summary>7/28/2010--Introduced.
+Text a Tip Act of 2010 - Authorizes the Attorney General to make grants to state or local law enforcement agencies to implement an anonymous tip program using cell phone text messaging to assist police in preventing and solving crimes. Sets forth requirements for such program including that: (1) state or local law enforcement agencies shall administer the program; (2) incoming text message shall be stripped of any identifying information and the text tip shall not be traceable by any means; (3) law enforcement agencies shall train sufficient personnel to intercept and respond to text tips; (4) the program shall be made compatible with most mobile phone providers; and (5) law enforcement agencies shall promote the participation of citizens, especially youth, in the program.</summary>
+</bill>

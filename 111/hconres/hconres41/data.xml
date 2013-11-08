@@ -1,0 +1,43 @@
+<bill session="111" type="hc" number="41" updated="2013-07-20T00:13:15-04:00">
+  <state datetime="2009-02-11">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2009-02-11"/>
+  </status>
+  <introduced datetime="2009-02-10"/>
+  <titles>
+    <title as="introduced" type="official">Providing for a joint session of Congress to receive a message from the President.</title>
+  </titles>
+  <sponsor id="412296"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2009-02-10T16:48:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H1103-1104" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-02-10T16:48:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H1103" label="text"/>
+    </vote>
+    <action datetime="2009-02-10T16:48:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2009-02-11" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S2166" label="text as passed Senate"/>
+      <reference ref="CR S2166" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2009-02-11">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional operations and organization"/>
+    <term name="Presidents and presidential powers"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2009--Passed Senate without amendment.
+Provides for a joint session of Congress on February 24, 2009, to receive a message from the President.</summary>
+</bill>

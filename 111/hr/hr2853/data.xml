@@ -1,0 +1,93 @@
+<bill session="111" type="h" number="2853" updated="2013-07-19T23:37:32-04:00">
+  <state datetime="2010-09-30T00:27:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-09-30T00:27:00-04:00"/>
+  </status>
+  <introduced datetime="2009-06-12"/>
+  <titles>
+    <title as="introduced" type="short">All-American Flag Act</title>
+    <title as="reported to house" type="short">All-American Flag Act</title>
+    <title as="passed house" type="short">All-American Flag Act</title>
+    <title as="introduced" type="official">To require the purchase of domestically made flags of the United States of America for use by the Federal Government.</title>
+  </titles>
+  <sponsor id="412208"/>
+  <cosponsors>
+    <cosponsor id="400100" joined="2010-07-15"/>
+    <cosponsor id="412257" joined="2010-07-30"/>
+    <cosponsor id="412204" joined="2010-07-15"/>
+    <cosponsor id="412240" joined="2010-08-10"/>
+    <cosponsor id="400630" joined="2010-07-19"/>
+    <cosponsor id="412304" joined="2010-07-15"/>
+    <cosponsor id="400352" joined="2010-07-19"/>
+    <cosponsor id="412219" joined="2010-07-19"/>
+    <cosponsor id="412228" joined="2010-07-14"/>
+    <cosponsor id="412239" joined="2010-07-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-12">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2009-06-26">
+      <text>Referred to the Subcommittee on Government Management, Organization, and Procurement.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <action datetime="2010-07-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-07-28">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2010-09-14T18:29:00-04:00">
+      <text>Reported (Amended) by the Committee on Oversight and Government. H. Rept. 111-586.</text>
+    </action>
+    <calendar datetime="2010-09-14T18:29:00-04:00" calendar="Union" number="336">
+      <text>Placed on the Union Calendar, Calendar No. 336.</text>
+    </calendar>
+    <action datetime="2010-09-28T13:58:00-04:00">
+      <text>Mr. Driehaus moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-09-28T13:58:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7027-7029" label="consideration"/>
+    </action>
+    <action datetime="2010-09-28T13:58:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2853.</text>
+    </action>
+    <action datetime="2010-09-28T14:14:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Bilbray objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2010-09-30T00:26:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7377-7378" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-09-30T00:27:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR 9/28/2010 H7027" label="text"/>
+    </vote>
+    <action datetime="2010-09-30T00:27:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-11-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSGO24" subcommittee="Government Management, Organization, and Procurement" name="House Oversight and Government Reform"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Buy American requirements"/>
+    <term name="Foreign labor"/>
+    <term name="National symbols"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>9/30/2010--Passed House amended.
+All-American Flag Act - Requires any flags of the United States acquired for use by the federal government to be entirely manufactured in the United States from articles, materials, or supplies entirely grown, produced, or manufactured in the United States.Permits the federal government to purchase flags only from a manufacturer that certifies that: (1) it does not employ aliens who are not authorized to be employed in the United States; and (2) it participates in the E-Verify Program.</summary>
+</bill>

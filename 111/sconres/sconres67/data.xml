@@ -1,0 +1,64 @@
+<bill session="111" type="sc" number="67" updated="2013-07-20T00:23:07-04:00">
+  <state datetime="2010-12-22T17:41:00-05:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2010-12-22T17:41:00-05:00"/>
+  </status>
+  <introduced datetime="2010-06-30"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution celebrating 130 years of United States-Romanian diplomatic relations, congratulating the Romanian people on their achievements as a great nation, and reaffirming the deep bonds of trust and values between the United States and Romania, a trusted and most valued ally.</title>
+  </titles>
+  <sponsor id="300098"/>
+  <cosponsors>
+    <cosponsor id="412323" joined="2010-06-30"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2010-06-30" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S5716" label="consideration"/>
+      <reference ref="CR S5716" label="text as passed Senate"/>
+      <reference ref="CR S5704" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2010-06-30T22:25:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2010-06-30">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2010-06-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2010-12-22T17:41:00-05:00">
+      <text>Mr. Klein (FL) asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2010-12-22T17:41:00-05:00">
+      <text>Committee on Foreign Affairs discharged.</text>
+    </action>
+    <action datetime="2010-12-22T17:41:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H8976" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2010-12-22T17:41:00-05:00" how="without objection" result="pass" type="vote2" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H8976" label="text"/>
+    </vote>
+    <action datetime="2010-12-22T17:41:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="hc" number="291"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Europe"/>
+    <term name="Romania"/>
+  </subjects>
+  <amendments/>
+  <summary>12/22/2010--Passed House without amendment.
+Celebrates the 130th anniversary of U.S.-Romanian diplomatic relations. Congratulates the Romanian people on their achievements as a great nation. Reaffirms the bonds of trust and values between the United States and Romania.</summary>
+</bill>

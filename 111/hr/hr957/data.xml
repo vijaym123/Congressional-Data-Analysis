@@ -1,0 +1,76 @@
+<bill session="111" type="h" number="957" updated="2013-07-19T23:20:30-04:00">
+  <state datetime="2009-04-22T16:27:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-04-22T16:27:00-04:00"/>
+  </status>
+  <introduced datetime="2009-02-10"/>
+  <titles>
+    <title as="introduced" type="short">Green Energy Education Act of 2009</title>
+    <title as="passed house" type="short">Green Energy Education Act of 2009</title>
+    <title as="introduced" type="official">To authorize higher education curriculum development and graduate training in advanced energy and green building technologies.</title>
+  </titles>
+  <sponsor id="400654"/>
+  <cosponsors>
+    <cosponsor id="412258" joined="2009-02-10"/>
+    <cosponsor id="400178" joined="2009-02-10"/>
+    <cosponsor id="412209" joined="2009-03-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-10">
+      <text>Referred to the House Committee on Science and Technology.</text>
+    </action>
+    <action datetime="2009-04-22T12:02:00-04:00">
+      <text>Mr. Gordon (TN) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-04-22T12:03:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4610-4612" label="consideration"/>
+    </action>
+    <action datetime="2009-04-22T12:03:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 957.</text>
+    </action>
+    <action datetime="2009-04-22T12:11:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2009-04-22T16:18:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4656" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-04-22T16:27:00-04:00" how="roll" result="pass" roll="199" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 6 (Roll no. 199).</text>
+      <reference ref="CR H4610" label="text"/>
+    </vote>
+    <action datetime="2009-04-22T16:27:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-04-23">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2009-12-08">
+      <text>Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science and Technology" activity="Referral"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSEG01" subcommittee="Energy" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Building construction"/>
+    <term name="Education programs funding"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Energy research"/>
+    <term name="Higher education"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+    <term name="Science and engineering education"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/2009--Passed House without amendment.
+Green Energy Education Act of 2009 - Authorizes the Secretary of Energy to contribute energy research and development funds to the National Science Foundation (NSF) for the Integrative Graduate Education and Research Traineeship program to support graduate education related to such energy projects. Authorizes the Secretary to contribute funds for advanced energy technology research and development for high performance buildings to the NSF for curriculum development to improve undergraduate or graduate interdisciplinary engineering and architecture education related to the design and construction of such buildings.</summary>
+</bill>

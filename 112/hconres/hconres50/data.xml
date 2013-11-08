@@ -1,0 +1,49 @@
+<bill session="112" type="hc" number="50" updated="2013-07-20T02:09:25-04:00">
+  <state datetime="2011-05-12">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2011-05-12"/>
+  </status>
+  <introduced datetime="2011-05-12"/>
+  <titles>
+    <title as="introduced" type="official">Providing for a conditional adjournment of the House of Representatives.</title>
+  </titles>
+  <sponsor id="400367"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2011-05-12T13:07:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H3237" label="consideration"/>
+    </action>
+    <action datetime="2011-05-12T13:09:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.Con.Res. 50, the Chair put the question on agreeing to resolution and by voice vote, announced that the ayes had prevailed. Mr. Hastings(FL) demanded the yeas and nays and the Chair postponed further proceedings on the question on agreeing to the resolution until later in the legislative day.</text>
+    </action>
+    <action datetime="2011-05-12T14:26:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3242-3243" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-05-12T14:31:00-04:00" how="roll" result="pass" roll="321" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 227 - 158 (Roll no. 321).</text>
+      <reference ref="CR H3237" label="text"/>
+    </vote>
+    <action datetime="2011-05-12T14:31:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2011-05-12" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S2972" label="consideration"/>
+    </vote>
+    <action datetime="2011-05-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional operations and organization"/>
+    <term name="House of Representatives"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2011--Passed Senate without amendment.
+Declares that when the House adjourns on the legislative day of Friday, May 13, 2011, or Saturday, May 14, 2011, it stand adjourned until 2 p.m. on Monday, May 23, 2011.</summary>
+</bill>

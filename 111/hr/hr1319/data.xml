@@ -1,0 +1,125 @@
+<bill session="111" type="h" number="1319" updated="2013-07-19T23:23:42-04:00">
+  <state datetime="2009-12-08T15:18:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-12-08T15:18:00-05:00"/>
+  </status>
+  <introduced datetime="2009-03-05"/>
+  <titles>
+    <title as="introduced" type="short">Informed P2P User Act</title>
+    <title as="reported to house" type="short">Informed P2P User Act</title>
+    <title as="passed house" type="short">Informed P2P User Act</title>
+    <title as="introduced" type="official">To prevent the inadvertent disclosure of information on a computer through the use of certain "peer-to-peer" file sharing software without first providing notice and obtaining consent from the owner or authorized user of the computer.</title>
+    <title as="amended by house" type="official">To prevent the inadvertent disclosure of information on a computer through the use of certain "peer-to-peer" file sharing programs without first providing notice and obtaining consent from an owner or authorized user of the computer.</title>
+  </titles>
+  <sponsor id="400039"/>
+  <cosponsors>
+    <cosponsor id="400628" joined="2009-03-05"/>
+    <cosponsor id="400018" joined="2009-03-05"/>
+    <cosponsor id="400032" joined="2009-04-23"/>
+    <cosponsor id="400645" joined="2009-03-16"/>
+    <cosponsor id="400057" joined="2009-03-16"/>
+    <cosponsor id="412195" joined="2009-03-16"/>
+    <cosponsor id="400442" joined="2009-03-16"/>
+    <cosponsor id="412262" joined="2009-03-16"/>
+    <cosponsor id="400073" joined="2009-03-16"/>
+    <cosponsor id="400074" joined="2009-03-16"/>
+    <cosponsor id="400639" joined="2009-03-16"/>
+    <cosponsor id="400099" joined="2009-03-10"/>
+    <cosponsor id="400101" joined="2009-03-11"/>
+    <cosponsor id="412205" joined="2009-03-16"/>
+    <cosponsor id="400124" joined="2009-03-16"/>
+    <cosponsor id="400152" joined="2009-03-16"/>
+    <cosponsor id="400155" joined="2009-03-16"/>
+    <cosponsor id="412276" joined="2009-03-16"/>
+    <cosponsor id="412277" joined="2009-03-16"/>
+    <cosponsor id="400177" joined="2009-03-16"/>
+    <cosponsor id="400196" joined="2009-04-22"/>
+    <cosponsor id="400198" joined="2009-03-16"/>
+    <cosponsor id="412240" joined="2009-03-16"/>
+    <cosponsor id="400251" joined="2009-03-16"/>
+    <cosponsor id="400255" joined="2009-03-16"/>
+    <cosponsor id="400259" joined="2009-03-16"/>
+    <cosponsor id="400308" joined="2009-03-16"/>
+    <cosponsor id="412192" joined="2009-03-16"/>
+    <cosponsor id="400330" joined="2009-09-29"/>
+    <cosponsor id="412212" joined="2009-03-16"/>
+    <cosponsor id="400363" joined="2009-03-16"/>
+    <cosponsor id="412229" joined="2009-03-16"/>
+    <cosponsor id="400391" joined="2009-03-16"/>
+    <cosponsor id="412228" joined="2009-03-16"/>
+    <cosponsor id="400395" joined="2009-03-16"/>
+    <cosponsor id="400426" joined="2009-03-16"/>
+    <cosponsor id="400245" joined="2009-03-16" withdrawn="2009-03-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-05">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2009-03-06">
+      <text>Referred to the Subcommittee on Commerce, Trade and Consumer Protection.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2009-05-06">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2009-09-30">
+      <text>Subcommittee on Commerce, Trade and Consumer Protection Discharged.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2009-09-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-09-30">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2009-12-08T12:42:00-05:00">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-361.</text>
+    </action>
+    <calendar datetime="2009-12-08T12:42:00-05:00" calendar="Union" number="213">
+      <text>Placed on the Union Calendar, Calendar No. 213.</text>
+    </calendar>
+    <action datetime="2009-12-08T15:03:00-05:00">
+      <text>Mr. Rush moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-12-08T15:03:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H13591-13594" label="consideration"/>
+    </action>
+    <action datetime="2009-12-08T15:03:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1319.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-12-08T15:18:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H13592" label="text"/>
+    </vote>
+    <action datetime="2009-12-08T15:18:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-12-08T15:18:00-05:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-12-09">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSIF17" subcommittee="Commerce, Trade and Consumer Protection" name="House Energy and Commerce"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="3027"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Computers and information technology"/>
+    <term name="Consumer affairs"/>
+    <term name="Right of privacy"/>
+  </subjects>
+  <amendments/>
+  <summary>12/8/2009--Passed House amended.
+Informed P2P User Act - (Sec. 2) Makes it unlawful for any commercial entity that developed a file sharing program or distributed such a program (if the distributor is owned by the developing entity) to install, make available for installation, or download a file sharing program without: (1) immediately before program installation or downloading, providing conspicuous notice that the program allows files to be searched and copied by one or more other computers and obtaining informed consent to the installation from an owner; and (2) immediately before initial activation of a file sharing function of the program, providing conspicuous notice of which files will be made available and obtaining the owner's informed consent. Exempts: (1) modifications or upgrades of a program that was originally installed in compliance with this Act, provided certain requirements are met; and (2) pre-installed software. Makes it unlawful for such an entity to prevent the reasonable efforts of an owner or authorized user to block the installation of such a program or to prevent such a user from having a reasonable way to disable or remove the program. (Sec. 3) Treats a violation of this Act as a violation of a rule defining an unfair or deceptive act or practice prescribed under the Federal Trade Commission Act. Prohibits construing this Act to limit or supersede any other federal or state law. (Sec. 4) Defines "protected computer" to include a computer used by a financial institution or the federal government or which is used in or affecting interstate or foreign commerce or communication, including a computer located outside the United States that is used in a way that affects U.S. interstate or foreign commerce. (Sec. 6) Makes this Act inapplicable to the federal or any state government or subdivision.</summary>
+</bill>

@@ -1,0 +1,90 @@
+<bill session="111" type="h" number="2131" updated="2013-07-19T23:30:52-04:00">
+  <state datetime="2009-10-09">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2009-10-09"/>
+  </status>
+  <introduced datetime="2009-04-27"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Foreign Affairs Reform and Restructuring Act of 1998 to reauthorize the United States Advisory Commission on Public Diplomacy.</title>
+  </titles>
+  <sponsor id="400423"/>
+  <cosponsors>
+    <cosponsor id="400024" joined="2009-04-27"/>
+    <cosponsor id="400616" joined="2009-04-27"/>
+    <cosponsor id="400638" joined="2009-04-27"/>
+    <cosponsor id="400639" joined="2009-04-27"/>
+    <cosponsor id="412272" joined="2009-04-27"/>
+    <cosponsor id="412327" joined="2009-04-27"/>
+    <cosponsor id="412204" joined="2009-04-27"/>
+    <cosponsor id="400204" joined="2009-04-27"/>
+    <cosponsor id="400217" joined="2009-04-27"/>
+    <cosponsor id="400227" joined="2009-04-27"/>
+    <cosponsor id="400240" joined="2009-04-27"/>
+    <cosponsor id="400661" joined="2009-04-27"/>
+    <cosponsor id="400364" joined="2009-04-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-04-27">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2009-09-23T11:42:00-04:00">
+      <text>Ms. Watson moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-09-23T11:42:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9826-9827" label="consideration"/>
+    </action>
+    <action datetime="2009-09-23T11:42:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2131.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-09-23T11:46:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H9827" label="text"/>
+    </vote>
+    <action datetime="2009-09-23T11:46:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-09-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <action datetime="2009-09-29">
+      <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+      <reference ref="CR S9941" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2009-09-29" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <topresident datetime="2009-09-29">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2009-09-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2009-09-30">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2009-10-09">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2009-10-09" type="public" number="111-70">
+      <text>Became Public Law No: 111-70.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="2410"/>
+    <bill relation="unknown" session="111" type="h" number="5589"/>
+    <bill relation="unknown" session="111" type="s" number="1716"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Advisory bodies"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+  </subjects>
+  <amendments/>
+  <summary>10/9/2009--Public Law.
+(This measure has not been amended since it was passed by the House on September 23, 2009. The summary of that version is repeated here.) Amends the Foreign Affairs Reform and Restructuring Act of 1998 to reauthorize the United States Advisory Commission on Public Diplomacy through October 1, 2010.</summary>
+</bill>

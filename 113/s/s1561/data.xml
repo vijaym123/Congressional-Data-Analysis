@@ -1,0 +1,56 @@
+<bill session="113" type="s" number="1561" updated="2013-11-02T07:05:24-04:00">
+  <state datetime="2013-10-30">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2013-10-30"/>
+  </status>
+  <introduced datetime="2013-09-30"/>
+  <titles>
+    <title type="short" as="introduced">CHIMP Act Amendments of 2013</title>
+    <title type="official" as="introduced">A bill to amend the Public Health Service Act to improve provisions relating to the sanctuary system for surplus chimpanzees.</title>
+  </titles>
+  <sponsor id="300051"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2013-09-30"/>
+    <cosponsor id="400054" joined="2013-10-01"/>
+    <cosponsor id="300025" joined="2013-10-30"/>
+    <cosponsor id="300063" joined="2013-10-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+    <calendar datetime="2013-10-30" state="REPORTED">
+      <text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Health, Education, Labor, and Pensions"/>
+    </calendar>
+    <action datetime="2013-10-30">
+      <text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="2013-10-30" calendar="Senate Legislative" under="General Orders" number="228">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 228.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2013-10-30" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S7684-7685" label="consideration"/>
+      <reference ref="CR S7685" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2013-10-31">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Congressional oversight"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Mammals"/>
+    <term name="Medical research"/>
+    <term name="Research administration and funding"/>
+  </subjects>
+  <amendments/>
+</bill>

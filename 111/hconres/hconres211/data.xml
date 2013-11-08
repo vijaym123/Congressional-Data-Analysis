@@ -1,0 +1,76 @@
+<bill session="111" type="hc" number="211" updated="2013-07-20T00:14:49-04:00">
+  <state datetime="2010-05-25">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2010-05-25"/>
+  </status>
+  <introduced datetime="2009-11-06"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the 75th anniversary of the establishment of the East Bay Regional Park District in California, and for other purposes.</title>
+  </titles>
+  <sponsor id="400278"/>
+  <cosponsors>
+    <cosponsor id="412382" joined="2009-11-06"/>
+    <cosponsor id="400237" joined="2009-11-06"/>
+    <cosponsor id="412189" joined="2009-11-06"/>
+    <cosponsor id="400387" joined="2009-11-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-11-06">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-11-09">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-05-18T14:34:00-04:00">
+      <text>Mr. Miller, George moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2010-05-18T14:34:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3492-3493" label="consideration"/>
+    </action>
+    <action datetime="2010-05-18T14:34:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 211.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-05-18T14:43:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H3492" label="text"/>
+    </vote>
+    <action datetime="2010-05-18T14:43:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-05-19">
+      <text>Received in the Senate and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2010-05-25">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S4394" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2010-05-25" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2010-05-26">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="sc" number="47"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Land use and conservation"/>
+    <term name="Outdoor recreation"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments/>
+  <summary>5/25/2010--Passed Senate without amendment.
+Recognizes the 75th anniversary of the establishment of the East Bay Regional Park District in California. Honors the board members, general managers, and East Bay Regional Park District staff who have dutifully fulfilled the mission of protecting open space and providing outdoor recreation opportunities for generations of families in East Bay.</summary>
+</bill>

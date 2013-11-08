@@ -1,0 +1,63 @@
+<bill session="112" type="h" number="3758" updated="2013-07-20T01:42:39-04:00">
+  <state datetime="2011-12-20">REFERRED</state>
+  <status>
+    <introduced datetime="2011-12-20"/>
+  </status>
+  <introduced datetime="2011-12-20"/>
+  <titles>
+    <title as="introduced" type="short">Social Security Safety Dividend Act</title>
+    <title as="introduced" type="official">To ensure that seniors, veterans, and people with disabilities who receive Social Security and certain other Federal benefits receive a $250 payment in the event that no cost-of-living adjustment is payable in a calendar year.</title>
+  </titles>
+  <sponsor id="412253"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2011-12-20">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Transportation and Infrastructure, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-12-20">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2011-12-20">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2011-12-20">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2011-12-22">
+      <text>Referred to the Subcommittee on Social Security.</text>
+      <committee name="House Ways and Means"/>
+    </action>
+    <action datetime="2012-01-03">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="539"/>
+    <bill relation="unknown" session="112" type="h" number="539"/>
+    <bill relation="unknown" session="112" type="h" number="2590"/>
+    <bill relation="unknown" session="112" type="h" number="2590"/>
+    <bill relation="unknown" session="112" type="h" number="2711"/>
+    <bill relation="unknown" session="112" type="h" number="2711"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Disability assistance"/>
+    <term name="Inflation and prices"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Railroads"/>
+    <term name="Social security and elderly assistance"/>
+    <term name="Transportation employees"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>12/20/2011--Introduced.
+Social Security Safety Dividend Act - Directs the Secretary of the Treasury to disburse a $250 payment for a particular year to recipients of Social Security benefits, Supplemental Security Income (SSI) benefits (under title XVI of the Social Security Act), railroad retirement benefits, or veterans disability compensation or pension benefits if no cost-of-living adjustment (COLA) is payable for any month in such a year.</summary>
+</bill>

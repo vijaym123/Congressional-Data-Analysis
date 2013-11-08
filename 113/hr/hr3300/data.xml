@@ -1,0 +1,47 @@
+<bill session="113" type="h" number="3300" updated="2013-11-02T06:46:46-04:00">
+  <state datetime="2013-10-29">REPORTED</state>
+  <status>
+    <unknown datetime="2013-10-29"/>
+  </status>
+  <introduced datetime="2013-10-22"/>
+  <titles>
+    <title type="short" as="introduced">FEMA Reauthorization Act of 2013</title>
+    <title type="short" as="introduced" partial="1">Integrated Public Alert and Warning System Modernization Act of 2013</title>
+    <title type="official" as="introduced">To reauthorize the programs and activities of the Federal Emergency Management Agency.</title>
+  </titles>
+  <sponsor id="409888"/>
+  <cosponsors>
+    <cosponsor id="412469" joined="2013-10-22"/>
+    <cosponsor id="412258" joined="2013-10-22"/>
+    <cosponsor id="400331" joined="2013-10-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-22" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-10-23">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2013-10-29">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2013-10-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar datetime="2013-10-29" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Other Legislative Involvement"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

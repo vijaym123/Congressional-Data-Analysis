@@ -1,0 +1,121 @@
+<bill session="113" type="h" number="573" updated="2013-11-02T06:23:47-04:00">
+  <state datetime="2013-05-15T13:28:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-05-15T13:28:00-04:00"/>
+  </status>
+  <introduced datetime="2013-02-06"/>
+  <titles>
+    <title type="official" as="introduced">To amend Public Law 93-435 with respect to the Northern Mariana Islands, providing parity with Guam, the Virgin Islands, and American Samoa.</title>
+  </titles>
+  <sponsor id="412312"/>
+  <cosponsors>
+    <cosponsor id="400029" joined="2013-02-06"/>
+    <cosponsor id="400041" joined="2013-02-06"/>
+    <cosponsor id="412258" joined="2013-02-06"/>
+    <cosponsor id="412571" joined="2013-02-06"/>
+    <cosponsor id="412576" joined="2013-02-06"/>
+    <cosponsor id="400073" joined="2013-02-06"/>
+    <cosponsor id="412379" joined="2013-02-06"/>
+    <cosponsor id="412272" joined="2013-02-06"/>
+    <cosponsor id="400618" joined="2013-02-06"/>
+    <cosponsor id="400110" joined="2013-02-06"/>
+    <cosponsor id="400128" joined="2013-02-06"/>
+    <cosponsor id="400129" joined="2013-02-06"/>
+    <cosponsor id="412532" joined="2013-02-06"/>
+    <cosponsor id="412276" joined="2013-02-06"/>
+    <cosponsor id="400653" joined="2013-02-06"/>
+    <cosponsor id="400162" joined="2013-02-06"/>
+    <cosponsor id="400163" joined="2013-02-06"/>
+    <cosponsor id="412418" joined="2013-02-06"/>
+    <cosponsor id="400184" joined="2013-02-06"/>
+    <cosponsor id="400185" joined="2013-02-06"/>
+    <cosponsor id="400209" joined="2013-02-06"/>
+    <cosponsor id="400237" joined="2013-02-06"/>
+    <cosponsor id="412521" joined="2013-02-26"/>
+    <cosponsor id="400253" joined="2013-02-06"/>
+    <cosponsor id="400278" joined="2013-02-06"/>
+    <cosponsor id="400283" joined="2013-02-06"/>
+    <cosponsor id="400290" joined="2013-02-06"/>
+    <cosponsor id="400295" joined="2013-02-06"/>
+    <cosponsor id="400316" joined="2013-02-06"/>
+    <cosponsor id="412306" joined="2013-02-06"/>
+    <cosponsor id="400331" joined="2013-02-06"/>
+    <cosponsor id="400363" joined="2013-02-06"/>
+    <cosponsor id="400364" joined="2013-02-06"/>
+    <cosponsor id="412219" joined="2013-03-14"/>
+    <cosponsor id="412319" joined="2013-02-06"/>
+    <cosponsor id="400440" joined="2013-02-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-06">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E106-107"/>
+    </action>
+    <action datetime="2013-02-06" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-02-21">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-04-24">
+      <text>Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-04-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar datetime="2013-04-24" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2013-05-14T19:46:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 113-56.</text>
+    </action>
+    <calendar datetime="2013-05-14T19:47:00-04:00" calendar="Union" number="34">
+      <text>Placed on the Union Calendar, Calendar No. 34.</text>
+    </calendar>
+    <action datetime="2013-05-15T13:23:00-04:00">
+      <text>Mr. Bishop (UT) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-05-15T13:24:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2633-2634" label="consideration"/>
+    </action>
+    <action datetime="2013-05-15T13:24:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 573.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2013-05-15T13:28:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2633" label="text"/>
+    </vote>
+    <action datetime="2013-05-15T13:29:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-05-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSII22" subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="2200"/>
+    <bill relation="identical" session="113" type="s" number="256"/>
+    <bill relation="unknown" session="113" type="s" number="1237"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Land transfers"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Northern Mariana Islands"/>
+    <term name="Oil and gas"/>
+    <term name="U.S. territories and protectorates"/>
+  </subjects>
+  <amendments/>
+  <summary>5/15/2013--Passed House without amendment.
+Conveys to the government of the Commonwealth of the Northern Mariana Islands submerged lands surrounding such Islands and extending three geographical miles outward from their coastlines. Includes the Northern Mariana Islands among the islands where the President may establish naval defensive sea areas and airspace reservations when necessary for national defense.</summary>
+</bill>

@@ -1,0 +1,130 @@
+<bill session="112" type="h" number="2706" updated="2013-07-20T01:33:42-04:00">
+  <state datetime="2012-10-05">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2012-10-05"/>
+  </status>
+  <introduced datetime="2011-07-29"/>
+  <titles>
+    <title as="introduced" type="short">Billfish Conservation Act of 2011</title>
+    <title as="reported to house" type="short">Billfish Conservation Act of 2012</title>
+    <title as="passed house" type="short">Billfish Conservation Act of 2012</title>
+    <title as="passed senate" type="short">Billfish Conservation Act of 2012</title>
+    <title as="enacted" type="short">Billfish Conservation Act of 2012</title>
+    <title as="introduced" type="official">To prohibit the sale of billfish.</title>
+  </titles>
+  <sponsor id="400279"/>
+  <cosponsors>
+    <cosponsor id="400006" joined="2011-09-12"/>
+    <cosponsor id="400038" joined="2011-07-29"/>
+    <cosponsor id="400645" joined="2011-07-29"/>
+    <cosponsor id="412196" joined="2011-09-22"/>
+    <cosponsor id="400076" joined="2011-09-12"/>
+    <cosponsor id="400108" joined="2011-10-04"/>
+    <cosponsor id="412472" joined="2011-07-29"/>
+    <cosponsor id="412480" joined="2011-11-02"/>
+    <cosponsor id="412434" joined="2011-11-01"/>
+    <cosponsor id="412281" joined="2011-10-24"/>
+    <cosponsor id="412287" joined="2012-06-26"/>
+    <cosponsor id="412433" joined="2011-12-08"/>
+    <cosponsor id="412256" joined="2011-07-29"/>
+    <cosponsor id="400274" joined="2011-07-29"/>
+    <cosponsor id="400290" joined="2011-09-29"/>
+    <cosponsor id="412443" joined="2012-01-31"/>
+    <cosponsor id="412306" joined="2011-11-01"/>
+    <cosponsor id="412415" joined="2012-03-21"/>
+    <cosponsor id="412311" joined="2011-09-26"/>
+    <cosponsor id="400344" joined="2011-10-14"/>
+    <cosponsor id="400345" joined="2011-07-29"/>
+    <cosponsor id="412225" joined="2011-07-29"/>
+    <cosponsor id="412408" joined="2011-12-06"/>
+    <cosponsor id="412255" joined="2011-07-29"/>
+    <cosponsor id="400440" joined="2011-11-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-07-29">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2011-08-02">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-06-19">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-08-01">
+      <text>Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-08-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-08-01">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2012-09-10T15:24:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-656.</text>
+    </action>
+    <calendar datetime="2012-09-10T15:24:00-04:00" calendar="Union" number="474">
+      <text>Placed on the Union Calendar, Calendar No. 474.</text>
+    </calendar>
+    <action datetime="2012-09-10T16:07:00-04:00">
+      <text>Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-09-10T16:07:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5732-5733" label="consideration"/>
+    </action>
+    <action datetime="2012-09-10T16:07:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2706.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-09-10T16:13:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5732" label="text"/>
+    </vote>
+    <action datetime="2012-09-10T16:13:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-09-11">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2012-09-22" how="by Voice Vote" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+      <reference ref="CR 9/21/2012 S6665" label="consideration"/>
+    </vote>
+    <action datetime="2012-09-24">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2012-09-25">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2012-10-05">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2012-10-05" type="public" number="112-183">
+      <text>Became Public Law No: 112-183.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII22" subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="1451"/>
+    <bill relation="unknown" session="112" type="s" number="3422"/>
+    <bill relation="unknown" session="112" type="s" number="3424"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Fishes"/>
+    <term name="Hawaii"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Trade restrictions"/>
+    <term name="U.S. territories and protectorates"/>
+  </subjects>
+  <amendments/>
+  <summary>10/5/2012--Public Law.
+Billfish Conservation Act of 2012 - Prohibits any person from offering billfish or billfish products for sale, selling them, or having custody, control, or possession of them for purposes of offering them for sale or selling them. Treats a violation of this Act as an act prohibited by the Magnuson-Stevens Fishery Conservation and Management Act. Subjects a person to a maximum civil penalty of $100,000 for each violation, with each day of a continuing violation constituting a separate offense. Exempts billfish: (1) caught by U.S. fishing vessels and landed in the state of Hawaii or the Pacific Insular Areas (PIAs); or (2) landed by foreign fishing vessels in the PIAs when the foreign caught billfish is exported to non-U.S. markets or retained within Hawaii and the PIAs for local consumption. Defines "billfish" as any of the following: (1) blue marlin, (2) striped marlin, (3) black marlin, (4) sailfish, (5) shortbill spearfish, (6) white marlin, (7) roundscale spearfish, (8) Mediterranean spearfish, or (9) longbill spearfish. Excludes swordfish from such definition.</summary>
+</bill>

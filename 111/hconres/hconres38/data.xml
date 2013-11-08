@@ -1,0 +1,105 @@
+<bill session="111" type="hc" number="38" updated="2013-07-20T00:13:13-04:00">
+  <state datetime="2009-05-12">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2009-05-12"/>
+  </status>
+  <introduced datetime="2009-02-04"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the Capitol Grounds for the National Peace Officers' Memorial Service.</title>
+  </titles>
+  <sponsor id="400295"/>
+  <cosponsors>
+    <cosponsor id="412272" joined="2009-02-04"/>
+    <cosponsor id="400090" joined="2009-02-04"/>
+    <cosponsor id="400108" joined="2009-02-04"/>
+    <cosponsor id="412263" joined="2009-02-04"/>
+    <cosponsor id="400189" joined="2009-02-04"/>
+    <cosponsor id="412289" joined="2009-02-04"/>
+    <cosponsor id="400283" joined="2009-02-04"/>
+    <cosponsor id="400415" joined="2009-02-04"/>
+    <cosponsor id="400435" joined="2009-02-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-04">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2009-02-05">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-02-12">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-02-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-02-12">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2009-03-10T12:47:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 111-33.</text>
+    </action>
+    <calendar datetime="2009-03-10T12:48:00-04:00" calendar="House" number="23">
+      <text>Placed on the House Calendar, Calendar No. 23.</text>
+    </calendar>
+    <action datetime="2009-03-10T13:23:00-04:00">
+      <text>Ms. Edwards (MD) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2009-03-10T13:23:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3122-3123" label="consideration"/>
+    </action>
+    <action datetime="2009-03-10T13:23:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 38.</text>
+    </action>
+    <action datetime="2009-03-10T13:25:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Edwards (MD) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2009-03-11T12:40:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3296-3297" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-03-11T12:52:00-04:00" how="roll" result="pass" roll="118" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 417 - 0 (Roll no. 118).</text>
+      <reference ref="CR 3/10/2009 H3122" label="text"/>
+    </vote>
+    <action datetime="2009-03-11T12:52:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-03-12">
+      <text>Received in the Senate and referred to the Committee on Rules and Administration.</text>
+    </action>
+    <action datetime="2009-05-12">
+      <text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text>
+      <reference ref="CR S5394" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2009-05-12" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2009-05-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hc" number="264"/>
+    <bill relation="unknown" session="111" type="hc" number="264"/>
+    <bill relation="unknown" session="111" type="hc" number="264"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Law enforcement officers"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2009--Passed Senate without amendment.
+Permits the Grand Lodge of the Fraternal Order of Police and its auxiliary to sponsor a free public event, the 28th annual National Peace Officers' Memorial Service, on the Capitol grounds on May 15, 2009, to honor the law enforcement officers who died in the line of duty during 2008.</summary>
+</bill>

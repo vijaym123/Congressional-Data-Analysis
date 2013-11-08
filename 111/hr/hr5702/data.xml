@@ -1,0 +1,79 @@
+<bill session="111" type="h" number="5702" updated="2013-07-20T00:04:04-04:00">
+  <state datetime="2010-11-16T15:03:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-11-16T15:03:00-05:00"/>
+  </status>
+  <introduced datetime="2010-07-01"/>
+  <titles>
+    <title as="introduced" type="official">To amend the District of Columbia Home Rule Act to reduce the waiting period for holding special elections to fill vacancies in the membership of the Council of the District of Columbia.</title>
+    <title as="amended by house" type="official">To amend the District of Columbia Home Rule Act to reduce the waiting period for holding special elections to fill vacancies in local offices in the District of Columbia.</title>
+  </titles>
+  <sponsor id="400295"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-01">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2010-07-20">
+      <text>Referred to the Subcommittee on Federal Workforce, Post Office, and the District of Columbia.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <action datetime="2010-07-21">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <action datetime="2010-07-21">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <action datetime="2010-09-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-09-23">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2010-11-16T14:57:00-05:00">
+      <text>Ms. Norton moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-11-16T14:57:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7463-7464" label="consideration"/>
+    </action>
+    <action datetime="2010-11-16T14:57:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5702.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-11-16T15:03:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7463-7464" label="text"/>
+    </vote>
+    <action datetime="2010-11-16T15:03:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-11-16T15:03:00-05:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-11-17">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2010-12-22">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+    <committee activity="Referral, Markup, Reporting" code="HSGO25" subcommittee="Federal Workforce, Post Office, and the District of Columbia" name="House Oversight and Government Reform"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="District of Columbia"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>11/16/2010--Passed House amended.
+Amends the District of Columbia Home Rule Act to reduce from 114 to 70 days after a vacancy occurs the timing for special elections to fill a vacancy in: (1) the Office of the Chairman of the Council of the District of Columbia; (2) the DC Council of a member elected from a ward or elected at large; and (3) the Office of Mayor of the District.</summary>
+</bill>

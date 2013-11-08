@@ -1,0 +1,73 @@
+<bill session="112" type="sj" number="49" updated="2013-07-20T02:10:39-04:00">
+  <state datetime="2013-01-10">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2013-01-10"/>
+  </status>
+  <introduced datetime="2012-08-01"/>
+  <titles>
+    <title as="introduced" type="official">A joint resolution providing for the appointment of Barbara Barrett as a citizen regent of the Board of Regents of the Smithsonian Institution.</title>
+  </titles>
+  <sponsor id="300065"/>
+  <cosponsors>
+    <cosponsor id="300023" joined="2012-08-01"/>
+    <cosponsor id="300081" joined="2012-08-01"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2012-08-01" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S5898" label="consideration"/>
+      <reference ref="CR S5898" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2012-08-02T09:55:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2012-08-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2012-08-02">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2012-12-20T21:01:00-05:00">
+      <text>Mr. LaTourette asked unanimous consent to discharge from committee and consider.</text>
+      <reference ref="CR H7415" label="consideration"/>
+    </action>
+    <action datetime="2012-12-20T21:01:00-05:00">
+      <text>Committee on House Administration discharged.</text>
+    </action>
+    <action datetime="2012-12-20T21:01:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H7415" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2012-12-20T21:01:00-05:00" how="without objection" result="pass" type="vote2" where="h">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H7415" label="text"/>
+    </vote>
+    <action datetime="2012-12-20T21:01:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2012-12-31">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2013-01-10">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2013-01-10" type="public" number="112-262">
+      <text>Became Public Law No: 112-262.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="hj" number="120"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Federal officials"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+    <term name="Smithsonian Institution"/>
+  </subjects>
+  <amendments/>
+  <summary>1/10/2013--Public Law.
+Appoints Barbara Barrett as a citizen regent of the Board of Regents of the Smithsonian Institution.</summary>
+</bill>

@@ -1,0 +1,55 @@
+<bill session="111" type="h" number="4022" updated="2013-07-19T23:48:28-04:00">
+  <state datetime="2009-11-04">REFERRED</state>
+  <status>
+    <introduced datetime="2009-11-04"/>
+  </status>
+  <introduced datetime="2009-11-04"/>
+  <titles>
+    <title as="introduced" type="short">Gulf Oyster Protection Act of 2009</title>
+    <title as="introduced" type="official">To prohibit additional requirements for the control of Vibrio vulnificus applicable to the post-harvest processing of oysters.</title>
+  </titles>
+  <sponsor id="400044"/>
+  <cosponsors>
+    <cosponsor id="400038" joined="2009-11-06"/>
+    <cosponsor id="400636" joined="2009-11-16"/>
+    <cosponsor id="412268" joined="2009-11-07"/>
+    <cosponsor id="400270" joined="2009-11-17"/>
+    <cosponsor id="400635" joined="2009-11-06"/>
+    <cosponsor id="412302" joined="2009-11-07"/>
+    <cosponsor id="400311" joined="2010-01-26"/>
+    <cosponsor id="400328" joined="2009-11-18"/>
+    <cosponsor id="412261" joined="2009-11-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-11-04">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2009-11-05">
+      <text>Referred to the Subcommittee on Commerce, Trade and Consumer Protection.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2009-11-05">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF17" subcommittee="Commerce, Trade and Consumer Protection" name="House Energy and Commerce"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="2735"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Food supply, safety, and labeling"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Seafood"/>
+  </subjects>
+  <amendments/>
+  <summary>11/4/2009--Introduced.
+Gulf Oyster Protection Act of 2009 - Prohibits the use of federal funds to establish or implement any requirement for the control of Vibrio vulnificus applicable to the post-harvest processing of oysters that is in addition to federal requirements applicable to such processing as of the date of enactment of this Act.</summary>
+</bill>

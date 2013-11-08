@@ -1,0 +1,107 @@
+<bill session="111" type="hc" number="284" updated="2013-07-20T00:15:27-04:00">
+  <state datetime="2010-06-30T11:11:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-06-30T11:11:00-04:00"/>
+  </status>
+  <introduced datetime="2010-06-08"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the work and importance of special education teachers.</title>
+  </titles>
+  <sponsor id="400367"/>
+  <cosponsors>
+    <cosponsor id="412265" joined="2010-06-23"/>
+    <cosponsor id="400628" joined="2010-06-14"/>
+    <cosponsor id="400029" joined="2010-06-16"/>
+    <cosponsor id="400030" joined="2010-06-15"/>
+    <cosponsor id="400032" joined="2010-06-16"/>
+    <cosponsor id="412252" joined="2010-06-15"/>
+    <cosponsor id="400052" joined="2010-06-16"/>
+    <cosponsor id="400055" joined="2010-06-16"/>
+    <cosponsor id="412269" joined="2010-06-23"/>
+    <cosponsor id="400070" joined="2010-06-28"/>
+    <cosponsor id="412270" joined="2010-06-16"/>
+    <cosponsor id="400074" joined="2010-06-16"/>
+    <cosponsor id="400076" joined="2010-06-14"/>
+    <cosponsor id="412193" joined="2010-06-16"/>
+    <cosponsor id="400119" joined="2010-06-14"/>
+    <cosponsor id="412230" joined="2010-06-16"/>
+    <cosponsor id="400640" joined="2010-06-14"/>
+    <cosponsor id="412327" joined="2010-06-15"/>
+    <cosponsor id="400144" joined="2010-06-16"/>
+    <cosponsor id="400152" joined="2010-06-29"/>
+    <cosponsor id="400158" joined="2010-06-14"/>
+    <cosponsor id="400165" joined="2010-06-16"/>
+    <cosponsor id="412280" joined="2010-06-14"/>
+    <cosponsor id="400206" joined="2010-06-23"/>
+    <cosponsor id="400215" joined="2010-06-14"/>
+    <cosponsor id="412285" joined="2010-06-14"/>
+    <cosponsor id="400221" joined="2010-06-16"/>
+    <cosponsor id="412191" joined="2010-06-14"/>
+    <cosponsor id="400617" joined="2010-06-16"/>
+    <cosponsor id="400251" joined="2010-06-15"/>
+    <cosponsor id="400656" joined="2010-06-16"/>
+    <cosponsor id="412295" joined="2010-06-16"/>
+    <cosponsor id="400659" joined="2010-06-08"/>
+    <cosponsor id="400270" joined="2010-06-24"/>
+    <cosponsor id="400661" joined="2010-06-16"/>
+    <cosponsor id="400441" joined="2010-06-15"/>
+    <cosponsor id="400295" joined="2010-06-15"/>
+    <cosponsor id="400302" joined="2010-06-15"/>
+    <cosponsor id="400320" joined="2010-06-16"/>
+    <cosponsor id="412309" joined="2010-06-16"/>
+    <cosponsor id="412312" joined="2010-06-28"/>
+    <cosponsor id="412010" joined="2010-06-16"/>
+    <cosponsor id="400373" joined="2010-06-16"/>
+    <cosponsor id="400381" joined="2010-06-14"/>
+    <cosponsor id="400405" joined="2010-06-14"/>
+    <cosponsor id="400419" joined="2010-06-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-06-08">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2010-06-28T14:22:00-04:00">
+      <text>Ms. Hirono moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2010-06-28T14:22:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4882-4883" label="consideration"/>
+    </action>
+    <action datetime="2010-06-28T14:22:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 284.</text>
+    </action>
+    <action datetime="2010-06-28T14:28:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-06-30T10:44:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5209-5210" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-06-30T11:11:00-04:00" how="roll" result="pass" roll="402" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 402).</text>
+      <reference ref="CR 6/28/2010 H4882" label="text"/>
+    </vote>
+    <action datetime="2010-06-30T11:11:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-07-12">
+      <text>Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="sr" number="702"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Congressional tributes"/>
+    <term name="Special education"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>6/30/2010--Passed House amended.
+Recognizes the amount of work it requires to be a special education teacher. Commends special education teachers for their sacrifice and dedication while providing the quality life skills to individuals with special needs.</summary>
+</bill>

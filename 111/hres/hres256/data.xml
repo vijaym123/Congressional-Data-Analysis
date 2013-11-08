@@ -1,0 +1,39 @@
+<bill session="111" type="hr" number="256" updated="2013-07-19T22:58:12-04:00">
+  <state datetime="2009-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="2009-03-17"/>
+  </status>
+  <introduced datetime="2009-03-17"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of the House of Representatives that all Americans should participate in a moment of silence to reflect upon the service and sacrifice of members of the United States Armed Forces both at home and abroad.</title>
+  </titles>
+  <sponsor id="400421"/>
+  <cosponsors>
+    <cosponsor id="400118" joined="2009-03-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-17">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2009-04-27">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="hr" number="284"/>
+    <bill relation="unknown" session="111" type="hr" number="1119"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/2009--Introduced.
+Expresses the sense of the House of Representatives that all Americans should participate in a moment of silence (on March 26, 2009, National Support Our Troops Day) to reflect upon the service and sacrifice of members of the U.S. Armed Forces both at home and abroad.</summary>
+</bill>

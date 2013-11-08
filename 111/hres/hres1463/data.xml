@@ -1,0 +1,74 @@
+<bill session="111" type="hr" number="1463" updated="2013-07-19T23:08:49-04:00">
+  <state datetime="2010-07-20T15:03:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2010-07-20T15:03:00-04:00"/>
+  </status>
+  <introduced datetime="2010-06-22"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals and ideals of Railroad Retirement Day.</title>
+  </titles>
+  <sponsor id="412304"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-06-22">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2010-06-23">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-07-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-07-01">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2010-07-01">
+      <text>Subcommittee on Railroads, Pipelines, and Hazardous Materials Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-07-15T15:21:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 111-544.</text>
+    </action>
+    <calendar datetime="2010-07-15T15:22:00-04:00" calendar="House" number="219">
+      <text>Placed on the House Calendar, Calendar No. 219.</text>
+    </calendar>
+    <action datetime="2010-07-20T14:33:00-04:00">
+      <text>Ms. Brown, Corrine moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2010-07-20T14:33:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5746-5751" label="consideration"/>
+    </action>
+    <action datetime="2010-07-20T14:33:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1463.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2010-07-20T15:03:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H5746-5747" label="text"/>
+    </vote>
+    <action datetime="2010-07-20T15:03:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW14" subcommittee="Railroads, Pipelines, and Hazardous Materials" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="sr" number="606"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Railroads"/>
+    <term name="Transportation employees"/>
+  </subjects>
+  <amendments/>
+  <summary>7/20/2010--Passed House without amendment.
+Supports the goals and ideals of Railroad Retirement Day as designated by the Railroad Retirement Board. Recognizes the important contributions that the rail industry, rail workers, and retirees make to the national transportation system. Urges the people of the United States to recognize such a day as an opportunity to celebrate the importance of the railroad retirement system to America's working families.</summary>
+</bill>

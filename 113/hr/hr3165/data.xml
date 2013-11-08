@@ -1,0 +1,73 @@
+<bill session="113" type="h" number="3165" updated="2013-11-02T06:45:39-04:00">
+  <state datetime="2013-09-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-20"/>
+  </status>
+  <introduced datetime="2013-09-20"/>
+  <titles>
+    <title type="short" as="introduced">Common Sense Health Reform Americans Actually Want Act</title>
+    <title type="official" as="introduced">To repeal the Patient Protection and Affordable Care Act and to take meaningful steps to lower health care costs and increase access to health insurance coverage without raising taxes, cutting Medicare benefits for seniors, adding to the national deficit, intervening in the doctor-patient relationship, or instituting a government takeover of health care.</title>
+  </titles>
+  <sponsor id="400234"/>
+  <cosponsors>
+    <cosponsor id="400640" joined="2013-10-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-20" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and the Workforce, Natural Resources, the Judiciary, House Administration, Rules, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-09-20">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-09-20">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-09-20">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2013-09-20">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-09-20">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-09-20">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2013-09-20">
+      <text>Referred to House Rules</text>
+    </action>
+    <action datetime="2013-09-20">
+      <text>Referred to House Appropriations</text>
+    </action>
+    <action datetime="2013-09-27">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2013-10-01">
+      <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII24" subcommittee="Indian and Alaska Native Affairs" name="House Natural Resources"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+    <committee code="HSRU" name="House Rules" activity="Referral"/>
+    <committee code="HSAP" name="House Appropriations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="132"/>
+    <bill relation="unknown" session="113" type="h" number="762"/>
+    <bill relation="unknown" session="113" type="h" number="2688"/>
+    <bill relation="unknown" session="113" type="h" number="2820"/>
+    <bill relation="unknown" session="113" type="s" number="142"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

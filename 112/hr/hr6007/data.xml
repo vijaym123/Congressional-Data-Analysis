@@ -1,0 +1,90 @@
+<bill session="112" type="h" number="6007" updated="2013-07-20T02:01:52-04:00">
+  <state datetime="2012-09-10T16:25:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-09-10T16:25:00-04:00"/>
+  </status>
+  <introduced datetime="2012-06-21"/>
+  <titles>
+    <title as="introduced" type="short">North Texas Zebra Mussel Barrier Act of 2012</title>
+    <title as="reported to house" type="short">North Texas Zebra Mussel Barrier Act of 2012</title>
+    <title as="passed house" type="short">North Texas Zebra Mussel Barrier Act of 2012</title>
+    <title as="introduced" type="official">To exempt from the Lacey Act Amendments of 1981 certain water transfers by the North Texas Municipal Water District and the Greater Texoma Utility Authority.</title>
+  </titles>
+  <sponsor id="400165"/>
+  <cosponsors>
+    <cosponsor id="412482" joined="2012-09-10"/>
+    <cosponsor id="412480" joined="2012-07-31"/>
+    <cosponsor id="400206" joined="2012-06-21"/>
+    <cosponsor id="400367" joined="2012-06-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-06-21">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2012-06-28">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-07-19">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-08-01">
+      <text>Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-08-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-08-01">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2012-09-10T15:27:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 112-657.</text>
+    </action>
+    <calendar datetime="2012-09-10T15:27:00-04:00" calendar="Union" number="475">
+      <text>Placed on the Union Calendar, Calendar No. 475.</text>
+    </calendar>
+    <action datetime="2012-09-10T16:14:00-04:00">
+      <text>Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-09-10T16:14:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5733-5734" label="consideration"/>
+    </action>
+    <action datetime="2012-09-10T16:14:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6007.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-09-10T16:25:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5733" label="text"/>
+    </vote>
+    <action datetime="2012-09-10T16:25:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-09-11">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII22" subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" name="House Natural Resources"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="3543"/>
+    <bill relation="unknown" session="112" type="s" number="3687"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Aquatic ecology"/>
+    <term name="Texas"/>
+    <term name="Water use and supply"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>9/10/2012--Passed House amended.
+North Texas Zebra Mussel Barrier Act of 2012 - Makes the Lacey Act Amendments of 1981 and provisions of the federal criminal code prohibiting importation of injurious animals inapplicable to any water transfer by the North Texas Municipal Water District and the Greater Texoma Utility Authority using only closed conveyance systems from the Lake Texoma raw water intake structure to treatment facilities at which all zebra mussels are extirpated and removed from the transferred water.</summary>
+</bill>

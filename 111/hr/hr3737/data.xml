@@ -1,0 +1,88 @@
+<bill session="111" type="h" number="3737" updated="2013-07-19T23:45:49-04:00">
+  <state datetime="2009-11-07T09:57:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-11-07T09:57:00-05:00"/>
+  </status>
+  <introduced datetime="2009-10-07"/>
+  <titles>
+    <title as="introduced" type="short">Small Business Microlending Expansion Act of 2009</title>
+    <title as="passed house" type="short">Small Business Microlending Expansion Act of 2009</title>
+    <title as="introduced" type="official">To amend the Small Business Act to improve the Microloan Program, and for other purposes.</title>
+  </titles>
+  <sponsor id="412206"/>
+  <cosponsors>
+    <cosponsor id="400179" joined="2009-11-06"/>
+    <cosponsor id="412239" joined="2009-11-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-10-07">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+    <action datetime="2009-10-07">
+      <text>Referred to the Subcommittee on Finance and Tax.</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+    <action datetime="2009-10-08">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+    <action datetime="2009-10-08">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+    <action datetime="2009-10-21">
+      <text>Provisions of Measure Incorporated into H.R. 3854.</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+    <action datetime="2009-11-06T09:58:00-05:00">
+      <text>Ms. Velazquez moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-11-06T09:58:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H12466-12469" label="consideration"/>
+    </action>
+    <action datetime="2009-11-06T09:58:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3737.</text>
+    </action>
+    <action datetime="2009-11-06T10:15:00-05:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Velazquez objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2009-11-07T09:26:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H12594-12595" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-11-07T09:57:00-05:00" how="roll" result="pass" roll="876" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 23 (Roll no. 876).</text>
+      <reference ref="CR 11/6/2009 H12466-12467" label="text"/>
+    </vote>
+    <action datetime="2009-11-07T09:57:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-11-09">
+      <text>Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral"/>
+    <committee activity="Referral, Markup, Reporting" code="HSSM19" subcommittee="Finance and Tax" name="House Small Business"/>
+    <committee code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="3854"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Business investment and capital"/>
+    <term name="Congressional oversight"/>
+    <term name="Credit and credit markets"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Minority and disadvantaged businesses"/>
+    <term name="Small business"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+    <term name="Women in business"/>
+  </subjects>
+  <amendments/>
+  <summary>11/7/2009--Passed House amended.
+Small Business Microlending Expansion Act of 2009 - (Sec. 2) Amends the Small Business Act with respect to the Small Business Administration (SBA) Microloan program (small-scale loans to start-up, newly established, or growing small businesses for working capital or the acquisition of materials, supplies, or equipment) to direct the SBA Administrator to establish a process under which an intermediary making a Microloan loan provides relevant borrower information to the major credit reporting agencies. (Sec. 3) Removes the requirement that such loans be short-term only. (Sec. 4) Increases eligibility for Microloan program participation to include intermediaries with at least one full-time employee with not less than: (1) three years of experience making microloans to startup, newly established, or growing small businesses; or (2) one year of experience providing intensive marketing, management, and technical assistance to borrowers. (Sec. 5) Increases from: (1) $750,000 to $1 million the loan limit to an intermediary in the first year of participation; and (2) $3.5 million to $7 million the loan limit for the remaining years of participation. (Sec. 6) Increases from 25% to 35% of grant funds received the maximum amount that may be used by an intermediary to provide information and technical assistance to small business borrowers. (Sec. 7) Allows intermediaries that receive grants to establish a program that provides technical assistance to young entrepreneurs in establishing or operating a small business, or in securing financing, in the area served by the intermediary. (Sec. 8) Increases from $7,500 to $10,000 the maximum loan amount to a small business borrower that will qualify for a reduced interest rate from the intermediary. (Sec. 9) Directs the Administrator to submit annually to the congressional small business committees specified information with respect to the Microloan program, including participating intermediaries and borrowers, and the marketing, management, and technical assistance provided. (Sec. 10) Authorizes the Administrator to make grants to intermediaries for reducing interest rates charged to Microloan borrowers (interest assistance grants). (Sec. 11) Authorizes the Administrator to make Microloan technical assistance grants, direct loans, and interest assistance grants for FY2010-FY2011, and authorizes appropriations for such loans and grants.</summary>
+</bill>

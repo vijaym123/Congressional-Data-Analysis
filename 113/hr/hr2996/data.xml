@@ -1,0 +1,49 @@
+<bill session="113" type="h" number="2996" updated="2013-11-02T06:44:14-04:00">
+  <state datetime="2013-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-02"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="short" as="introduced">Revitalize American Manufacturing and Innovation Act of 2013</title>
+    <title type="official" as="introduced">To require the Secretary of Commerce to establish the Network for Manufacturing Innovation and for other purposes.</title>
+  </titles>
+  <sponsor id="412393"/>
+  <cosponsors>
+    <cosponsor id="412543" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to House Appropriations</text>
+    </action>
+    <action datetime="2013-09-24">
+      <text>Referred to the Subcommittee on Research and Technology.</text>
+      <committee name="House Science, Space, and Technology"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee activity="Referral" code="HSSY15" subcommittee="Research and Technology" name="House Science, Space, and Technology"/>
+    <committee code="HSAP" name="House Appropriations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="1468"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Department of Commerce"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government trust funds"/>
+    <term name="Manufacturing"/>
+    <term name="Technology transfer and commercialization"/>
+  </subjects>
+  <amendments/>
+</bill>

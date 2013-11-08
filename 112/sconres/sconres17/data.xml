@@ -1,0 +1,97 @@
+<bill session="112" type="sc" number="17" updated="2013-07-20T02:16:08-04:00">
+  <state datetime="2012-09-11T18:58:00-04:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2012-09-11T18:58:00-04:00"/>
+  </status>
+  <introduced datetime="2011-05-12"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution expressing the sense of Congress that Taiwan should be accorded observer status in the International Civil Aviation Organization (ICAO).</title>
+  </titles>
+  <sponsor id="400272"/>
+  <cosponsors>
+    <cosponsor id="412251" joined="2011-05-12"/>
+    <cosponsor id="400050" joined="2011-05-12"/>
+    <cosponsor id="400064" joined="2011-05-12"/>
+    <cosponsor id="402675" joined="2011-05-12"/>
+    <cosponsor id="300023" joined="2011-06-20"/>
+    <cosponsor id="300030" joined="2011-05-12"/>
+    <cosponsor id="300055" joined="2011-05-12"/>
+    <cosponsor id="300058" joined="2011-05-16"/>
+    <cosponsor id="300062" joined="2011-05-12"/>
+    <cosponsor id="412391" joined="2011-05-23"/>
+    <cosponsor id="412249" joined="2011-05-16"/>
+    <cosponsor id="300100" joined="2011-05-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-05-12">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S2958-2959" label="text of measure as introduced in Senate"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-07-26">
+      <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Foreign Relations"/>
+    </calendar>
+    <action datetime="2011-07-27">
+      <text>Committee on Foreign Relations. Reported without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="2011-07-27" calendar="Senate Legislative" under="General Orders" number="115">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 115.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2011-09-21" how="by Voice Vote" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text>
+      <reference ref="CR S5845-5846" label="consideration"/>
+      <reference ref="CR S5845-5846" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2011-09-22T10:00:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2011-09-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2011-09-22">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2012-03-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Foreign Affairs"/>
+    </action>
+    <calendar datetime="2012-03-07">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Foreign Affairs"/>
+    </calendar>
+    <action datetime="2012-09-11T18:47:00-04:00">
+      <text>Ms. Ros-Lehtinen moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2012-09-11T18:47:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5846-5847" label="consideration"/>
+    </action>
+    <action datetime="2012-09-11T18:47:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 17.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2012-09-11T18:58:00-04:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H5846" label="text"/>
+    </vote>
+    <action datetime="2012-09-11T18:58:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Asia"/>
+    <term name="Aviation and airports"/>
+    <term name="Congressional oversight"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Taiwan"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>9/11/2012--Passed House without amendment.
+Expresses the sense of Congress that: (1) the government of Taiwan should be accorded observer status in the International Civil Aviation Organization (ICAO), (2) the U.S. government should take a leading role in garnering international support for granting Taiwan ICAO observer status, and (3) the Department of State should brief or consult with Congress on U.S. government efforts in support of Taiwan's attainment of ICAO observer status.</summary>
+</bill>

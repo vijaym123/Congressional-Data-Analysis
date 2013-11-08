@@ -1,0 +1,64 @@
+<bill session="113" type="hr" number="378" updated="2013-11-02T06:18:48-04:00">
+  <state datetime="2013-10-12T11:01:00-04:00">FAIL:ORIGINATING:HOUSE</state>
+  <status>
+    <unknown datetime="2013-10-12T11:01:00-04:00"/>
+  </status>
+  <introduced datetime="2013-10-11"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives regarding certain provisions of the Senate amendment to H.R. 2642 relating to the Secretary of Agriculture's administration of tariff-rate quotas for raw and refined sugar.</title>
+  </titles>
+  <sponsor id="400320"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2013-10-11"/>
+    <cosponsor id="400093" joined="2013-10-11"/>
+    <cosponsor id="400154" joined="2013-10-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-11" state="REFERRED">
+      <text>Referred to the Committee on Agriculture, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-10-11">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2013-10-11">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-10-11T16:32:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 380.</text>
+      <reference ref="CR H6520-6527" label="consideration"/>
+      <reference ref="CR H6520" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2013-10-11T16:33:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H. Res. 378.</text>
+    </action>
+    <action datetime="2013-10-11T17:36:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H6520" label="consideration"/>
+    </action>
+    <action datetime="2013-10-11T17:36:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.Res. 378, the Chair put the question on agreeing to the resolution and by voice vote, announced that the ayes had prevailed. Mr. Peterson demanded the yeas and nays and the Chair postponed further proceedings on agreeing the resolution until a time to be announced.</text>
+    </action>
+    <action datetime="2013-10-12T10:36:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6556" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="545" datetime="2013-10-12T11:01:00-04:00" where="h" result="fail" state="FAIL:ORIGINATING:HOUSE">
+      <text>On agreeing to the resolution Failed by the Yeas and Nays: 192 - 212, 1 Present (Roll no. 545).</text>
+    </vote>
+    <action datetime="2013-10-12T11:01:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="hr" number="380"/>
+    <bill relation="unknown" session="113" type="h" number="2642"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>10/11/2013--Introduced.
+Expresses the sense of the House of Representatives that the House managers of the conference on the disagreeing votes of the two Houses on the House amendment to the Senate amendment to the bill H.R. 2642 (Federal Agriculture Reform and Risk Management Act of 2013) should advance provisions to repeal the Administration of Tariff Rate Quotas language as added by the Food, Conservation, and Energy Act of 2008, and thus restore the authority of the Secretary of Agriculture (USDA) to manage sugar supplies to meet domestic demand at reasonable prices.</summary>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="111" type="sc" number="1" updated="2013-07-20T00:22:29-04:00">
+  <state datetime="2009-01-07T10:22:00-05:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2009-01-07T10:22:00-05:00"/>
+  </status>
+  <introduced datetime="2009-01-06"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution to provide for the counting on January 8, 2009, of the electoral votes for President and Vice President of the United States.</title>
+  </titles>
+  <sponsor id="300082"/>
+  <cosponsors>
+    <cosponsor id="300072" joined="2009-01-06"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2009-01-06" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S5-6" label="consideration"/>
+      <reference ref="CR S6" label="text as passed Senate"/>
+      <reference ref="CR S150" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2009-01-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2009-01-07T10:21:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2009-01-07T10:22:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H42" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2009-01-07T10:22:00-05:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On agreeing to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H42" label="text"/>
+    </vote>
+    <action datetime="2009-01-07T10:23:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional operations and organization"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Presidents and presidential powers"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/2009--Passed Senate without amendment.
+Provides for the counting of the electoral votes for President and Vice President of the United States.</summary>
+</bill>

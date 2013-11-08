@@ -1,0 +1,79 @@
+<bill session="111" type="hc" number="101" updated="2013-07-20T00:13:51-04:00">
+  <state datetime="2009-04-23">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2009-04-23"/>
+  </status>
+  <introduced datetime="2009-04-21"/>
+  <titles>
+    <title as="introduced" type="official">Providing for the acceptance of a statue of Ronald Wilson Reagan from the people of California for placement in the United States Capitol.</title>
+  </titles>
+  <sponsor id="400239"/>
+  <cosponsors>
+    <cosponsor id="400570" joined="2009-04-21"/>
+    <cosponsor id="400039" joined="2009-04-21"/>
+    <cosponsor id="400057" joined="2009-04-21"/>
+    <cosponsor id="412011" joined="2009-04-21"/>
+    <cosponsor id="400115" joined="2009-04-21"/>
+    <cosponsor id="400144" joined="2009-04-21"/>
+    <cosponsor id="412280" joined="2009-04-21"/>
+    <cosponsor id="400176" joined="2009-04-21"/>
+    <cosponsor id="412283" joined="2009-04-21"/>
+    <cosponsor id="400196" joined="2009-04-21"/>
+    <cosponsor id="400245" joined="2009-04-21"/>
+    <cosponsor id="400617" joined="2009-04-21"/>
+    <cosponsor id="412190" joined="2009-04-21"/>
+    <cosponsor id="412295" joined="2009-04-21"/>
+    <cosponsor id="400267" joined="2009-04-21"/>
+    <cosponsor id="400277" joined="2009-04-21"/>
+    <cosponsor id="400297" joined="2009-04-21"/>
+    <cosponsor id="400314" joined="2009-04-21"/>
+    <cosponsor id="400330" joined="2009-04-21"/>
+    <cosponsor id="400343" joined="2009-04-21"/>
+    <cosponsor id="400348" joined="2009-04-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-04-21">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2009-04-22T11:26:00-04:00">
+      <text>Mr. Brady (PA) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2009-04-22T11:27:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4603-4606" label="consideration"/>
+    </action>
+    <action datetime="2009-04-22T11:27:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 101.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-04-22T11:48:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H4603-4604" label="text"/>
+    </vote>
+    <action datetime="2009-04-22T11:48:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2009-04-23" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4705" label="consideration"/>
+    </vote>
+    <action datetime="2009-04-24">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Art, artists, authorship"/>
+    <term name="California"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Presidential administrations"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/2009--Passed Senate without amendment.
+Accepts in the name of the United States the statue of Ronald Wilson Reagan furnished by the people of California for placement in the U.S. Capitol. Tenders the thanks of the Congress to the people of California for providing this commemoration. Authorizes the state of California to use the rotunda of the Capitol on June 3, 2009, for a presentation ceremony.</summary>
+</bill>

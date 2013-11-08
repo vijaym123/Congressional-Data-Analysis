@@ -1,0 +1,95 @@
+<bill session="112" type="h" number="6185" updated="2013-07-20T02:03:21-04:00">
+  <state datetime="2012-09-11T15:15:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-09-11T15:15:00-04:00"/>
+  </status>
+  <introduced datetime="2012-07-25"/>
+  <titles>
+    <title as="introduced" type="short">Local Courthouse Safety Act of 2012</title>
+    <title as="reported to house" type="short">Local Courthouse Safety Act of 2012</title>
+    <title as="passed house" type="short">Local Courthouse Safety Act of 2012</title>
+    <title as="introduced" type="official">To improve security at State and local courthouses.</title>
+  </titles>
+  <sponsor id="412414"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2012-07-25"/>
+    <cosponsor id="400076" joined="2012-07-25"/>
+    <cosponsor id="400080" joined="2012-07-31"/>
+    <cosponsor id="412473" joined="2012-07-25"/>
+    <cosponsor id="412199" joined="2012-07-25"/>
+    <cosponsor id="400232" joined="2012-09-10"/>
+    <cosponsor id="400289" joined="2012-07-25"/>
+    <cosponsor id="400652" joined="2012-07-25"/>
+    <cosponsor id="412312" joined="2012-07-31"/>
+    <cosponsor id="400364" joined="2012-07-25"/>
+    <cosponsor id="400365" joined="2012-07-25"/>
+    <cosponsor id="400381" joined="2012-07-31"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-07-25">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2012-07-25">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2012-07-25">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2012-08-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-08-01">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Judiciary"/>
+    </calendar>
+    <action datetime="2012-09-10T19:44:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 112-661, Part I.</text>
+    </action>
+    <action datetime="2012-09-10T19:44:00-04:00">
+      <text>Committee on Oversight and Government discharged.</text>
+    </action>
+    <calendar datetime="2012-09-10T19:45:00-04:00" calendar="Union" number="478">
+      <text>Placed on the Union Calendar, Calendar No. 478.</text>
+    </calendar>
+    <action datetime="2012-09-11T15:09:00-04:00">
+      <text>Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-09-11T15:09:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5791-5793" label="consideration"/>
+    </action>
+    <action datetime="2012-09-11T15:09:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6185.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-09-11T15:15:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5791-5792" label="text"/>
+    </vote>
+    <action datetime="2012-09-11T15:15:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-09-12">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Discharged"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="2076"/>
+    <bill relation="unknown" session="112" type="s" number="2076"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Law enforcement officers"/>
+    <term name="State and local courts"/>
+  </subjects>
+  <amendments/>
+  <summary>9/11/2012--Passed House without amendment.
+Local Courthouse Safety Act of 2012 - (Sec. 2) Amends the Omnibus Crime Control and Safe Streets Act of 1968 to permit the Director of the Department of Justice's (DOJ) Bureau of Justice Assistance to carry out a training and technical assistance program to teach employees of state, local, and tribal law enforcement agencies how to anticipate, survive, and respond to violent encounters during the course of their duties, including duties relating to security at state, county, and tribal courthouses. Requires the Director to give preference for any courthouse security training program to employees of jurisdictions that have magnetometers available at their courthouses. (Sec. 3) Amends the State Justice Institute Act of 1984 to require the State Justice Institute (a private nonprofit organization established to improve judicial administration in state courts) to include courthouse safety as a factor in the national assistance program under which it provides funding to state courts and related national and nonprofit organizations. Permits state and local courts and other organizations awarded funds pursuant to Institute grants, cooperative agreements, or contracts to use such funds to improve safety and security in state and local courts. Requires, if such a grant is awarded to state or local courts without magnetometers, that specified matching funds be used acquire a magnetometer. (Sec. 4) Directs the Administrator of General Services (GSA) to ensure that state or local courthouses having less security equipment than such courthouses require have an opportunity to request surplus security equipment (metal detectors, wands, baggage screening devices) before such equipment is made available to any other individual or entity. Requires that priority be given to courthouses that have no security equipment.</summary>
+</bill>

@@ -1,0 +1,113 @@
+<bill session="111" type="hr" number="989" updated="2013-07-19T23:04:38-04:00">
+  <state datetime="2010-06-09T15:12:00-04:00">PROV_KILL:SUSPENSIONFAILED</state>
+  <status>
+    <unknown datetime="2010-06-09T15:12:00-04:00"/>
+  </status>
+  <introduced datetime="2009-12-16"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of the House of Representatives that the United States should adopt national policies and pursue international agreements to prevent ocean acidification, to study the impacts of ocean acidification, and to address the effects of ocean acidification on marine ecosystems and coastal economies.</title>
+  </titles>
+  <sponsor id="400193"/>
+  <cosponsors>
+    <cosponsor id="412264" joined="2009-12-16"/>
+    <cosponsor id="400011" joined="2009-12-16"/>
+    <cosponsor id="400033" joined="2010-01-12"/>
+    <cosponsor id="400041" joined="2009-12-16"/>
+    <cosponsor id="400062" joined="2009-12-16"/>
+    <cosponsor id="412195" joined="2010-03-11"/>
+    <cosponsor id="400073" joined="2009-12-16"/>
+    <cosponsor id="412379" joined="2010-05-05"/>
+    <cosponsor id="400639" joined="2010-05-12"/>
+    <cosponsor id="400102" joined="2009-12-16"/>
+    <cosponsor id="400109" joined="2009-12-16"/>
+    <cosponsor id="400111" joined="2010-03-20"/>
+    <cosponsor id="400124" joined="2010-01-12"/>
+    <cosponsor id="400128" joined="2010-05-12"/>
+    <cosponsor id="400129" joined="2009-12-16"/>
+    <cosponsor id="400140" joined="2010-04-15"/>
+    <cosponsor id="412276" joined="2010-05-06"/>
+    <cosponsor id="400162" joined="2010-03-02"/>
+    <cosponsor id="412222" joined="2010-03-25"/>
+    <cosponsor id="400170" joined="2010-04-20"/>
+    <cosponsor id="400178" joined="2010-04-20"/>
+    <cosponsor id="412200" joined="2009-12-16"/>
+    <cosponsor id="412220" joined="2010-05-06"/>
+    <cosponsor id="400184" joined="2009-12-16"/>
+    <cosponsor id="400185" joined="2009-12-16"/>
+    <cosponsor id="400195" joined="2010-01-12"/>
+    <cosponsor id="400198" joined="2010-05-12"/>
+    <cosponsor id="400227" joined="2010-05-26"/>
+    <cosponsor id="400230" joined="2009-12-16"/>
+    <cosponsor id="400237" joined="2010-01-12"/>
+    <cosponsor id="400251" joined="2010-03-02"/>
+    <cosponsor id="400253" joined="2009-12-16"/>
+    <cosponsor id="400259" joined="2009-12-16"/>
+    <cosponsor id="400262" joined="2010-06-08"/>
+    <cosponsor id="400274" joined="2010-04-15"/>
+    <cosponsor id="400278" joined="2009-12-16"/>
+    <cosponsor id="400283" joined="2010-05-12"/>
+    <cosponsor id="400290" joined="2010-03-23"/>
+    <cosponsor id="400308" joined="2010-05-05"/>
+    <cosponsor id="412307" joined="2010-02-23"/>
+    <cosponsor id="412308" joined="2010-03-10"/>
+    <cosponsor id="400326" joined="2010-02-23"/>
+    <cosponsor id="412331" joined="2010-03-10"/>
+    <cosponsor id="400346" joined="2010-03-20"/>
+    <cosponsor id="412312" joined="2010-04-15"/>
+    <cosponsor id="412315" joined="2010-02-23"/>
+    <cosponsor id="400366" joined="2010-04-15"/>
+    <cosponsor id="412232" joined="2010-03-11"/>
+    <cosponsor id="412219" joined="2009-12-16"/>
+    <cosponsor id="400379" joined="2009-12-16"/>
+    <cosponsor id="412259" joined="2009-12-16"/>
+    <cosponsor id="400403" joined="2009-12-16"/>
+    <cosponsor id="400436" joined="2009-12-16"/>
+    <cosponsor id="400437" joined="2009-12-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-12-16">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-12-22">
+      <text>Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-06-09T10:28:00-04:00">
+      <text>Mr. Inslee moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2010-06-09T10:28:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4252-4256" label="consideration"/>
+      <reference ref="CR H4252-4253" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2010-06-09T10:28:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 989.</text>
+    </action>
+    <action datetime="2010-06-09T10:53:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-06-09T15:03:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4287-4288" label="consideration"/>
+    </action>
+    <vote state="PROV_KILL:SUSPENSIONFAILED" datetime="2010-06-09T15:12:00-04:00" how="roll" result="fail" roll="341" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Failed by the Yeas and Nays: (2/3 required): 241 - 170 (Roll no. 341).</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII22" subcommittee="Insular Affairs, Oceans and Wildlife" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Air quality"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="International law and treaties"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Marine pollution"/>
+  </subjects>
+  <amendments/>
+  <summary>12/16/2009--Introduced.
+Calls for the United States to adopt national policies and pursue international agreements to prevent ocean acidification, to study the impacts of ocean acidification, and to address the effects of ocean acidification on marine ecosystems and coastal economies.</summary>
+</bill>

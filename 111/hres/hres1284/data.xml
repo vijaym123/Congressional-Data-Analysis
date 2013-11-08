@@ -1,0 +1,76 @@
+<bill session="111" type="hr" number="1284" updated="2013-07-19T23:07:15-04:00">
+  <state datetime="2010-05-12T11:54:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2010-05-12T11:54:00-04:00"/>
+  </status>
+  <introduced datetime="2010-04-21"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals and ideals of National Learn to Fly Day, and for other purposes.</title>
+    <title as="amended by house" type="official">Supporting the goals and ideals of International Learn to Fly Day, and for other purposes.</title>
+  </titles>
+  <sponsor id="400044"/>
+  <cosponsors>
+    <cosponsor id="400119" joined="2010-04-21"/>
+    <cosponsor id="400158" joined="2010-04-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-04-21">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2010-04-22">
+      <text>Referred to the Subcommittee on Aviation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-04-29">
+      <text>Subcommittee on Aviation Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-04-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-04-29">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2010-05-07T10:01:00-04:00">
+      <text>Reported (Amended) by the Committee on Transportation. H. Rept. 111-477.</text>
+    </action>
+    <calendar datetime="2010-05-07T10:02:00-04:00" calendar="House" number="193">
+      <text>Placed on the House Calendar, Calendar No. 193.</text>
+    </calendar>
+    <action datetime="2010-05-12T11:39:00-04:00">
+      <text>Mr. Cohen moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2010-05-12T11:39:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3336-3338" label="consideration"/>
+    </action>
+    <action datetime="2010-05-12T11:39:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1284.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2010-05-12T11:54:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H3336" label="text"/>
+    </vote>
+    <action datetime="2010-05-12T11:54:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-05-12T11:54:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW05" subcommittee="Aviation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Aviation and airports"/>
+    <term name="Commemorative events and holidays"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2010--Passed House amended.
+Supports the goals and ideals of National Learn to Fly Day. Recognizes the contributions of flight instructors, flight schools, aviation groups, and industry in promoting and teaching the nation's next generation of pilots.</summary>
+</bill>

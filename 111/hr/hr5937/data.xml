@@ -1,0 +1,33 @@
+<bill session="111" type="h" number="5937" updated="2013-07-20T00:06:10-04:00">
+  <state datetime="2010-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2010-07-29"/>
+  </status>
+  <introduced datetime="2010-07-29"/>
+  <titles>
+    <title as="introduced" type="official">To provide Government headstones and markers at private cemeteries for certain veterans.</title>
+  </titles>
+  <sponsor id="412275"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-29">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2010-07-30">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Cemeteries and funerals"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/2010--Introduced.
+Directs the Secretary of Veterans Affairs (VA) to furnish, upon request, an appropriate government headstone or marker for the grave of any veteran who died before November 1, 1990, in active military service while participating in a contingency operation, but is buried in a private cemetery.</summary>
+</bill>

@@ -1,0 +1,99 @@
+<bill session="111" type="h" number="2344" updated="2013-07-19T23:32:56-04:00">
+  <state datetime="2009-06-30">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2009-06-30"/>
+  </status>
+  <introduced datetime="2009-05-12"/>
+  <titles>
+    <title as="introduced" type="short">Webcaster Settlement Act of 2009</title>
+    <title as="reported to house" type="short">Webcaster Settlement Act of 2009</title>
+    <title as="passed house" type="short">Webcaster Settlement Act of 2009</title>
+    <title as="passed senate" type="short">Webcaster Settlement Act of 2009</title>
+    <title as="enacted" type="short">Webcaster Settlement Act of 2009</title>
+    <title as="introduced" type="official">To amend section 114 of title 17, United States Code, to provide for agreements for the reproduction and performance of sound recordings by webcasters.</title>
+  </titles>
+  <sponsor id="400193"/>
+  <cosponsors>
+    <cosponsor id="400043" joined="2009-05-12"/>
+    <cosponsor id="400080" joined="2009-05-12"/>
+    <cosponsor id="400124" joined="2009-05-12"/>
+    <cosponsor id="400245" joined="2009-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-05-12">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1190"/>
+    </action>
+    <action state="REFERRED" datetime="2009-05-12">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2009-05-13">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-05-13">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2009-06-08T18:50:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 111-139.</text>
+    </action>
+    <calendar datetime="2009-06-08T18:50:00-04:00" calendar="Union" number="71">
+      <text>Placed on the Union Calendar, Calendar No. 71.</text>
+    </calendar>
+    <action datetime="2009-06-09T13:54:00-04:00">
+      <text>Mr. Johnson (GA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-06-09T13:54:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6330-6332" label="consideration"/>
+    </action>
+    <action datetime="2009-06-09T13:54:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2344.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-06-09T14:12:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6330" label="text"/>
+    </vote>
+    <action datetime="2009-06-09T14:12:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-06-10">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2009-06-17" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6740-6741" label="consideration"/>
+    </vote>
+    <topresident datetime="2009-06-17">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2009-06-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2009-06-19">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2009-06-30">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2009-06-30" type="public" number="111-36">
+      <text>Became Public Law No: 111-36.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="1145"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Intellectual property"/>
+    <term name="Internet and video services"/>
+    <term name="Sound recording"/>
+  </subjects>
+  <amendments/>
+  <summary>6/30/2009--Public Law.
+Webcaster Settlement Act of 2009 - Prohibits the U.S. Court of Appeals for the District of Columbia from taking this Act into account in its review of the determination by the Copyright Royalty Judges of May 1, 2007, of rates and terms for the digital performance of sound recordings and ephemeral recordings, pursuant to specified provisions. Defines "webcaster," for provisions relating to licenses for the reproduction and performance of sound recordings via webcasting, as a person or entity that has obtained a compulsory license under specified provisions. (Current law defines such term as a person or entity that has obtained a compulsory license under specified provisions to make eligible nonsubscription transmissions and ephemeral recordings.) Terminates, 30 days after enactment of this Act, the authority to make commercial or noncommercial webcasting settlements under existing provisions.</summary>
+</bill>

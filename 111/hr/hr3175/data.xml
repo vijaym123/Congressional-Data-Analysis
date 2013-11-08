@@ -1,0 +1,73 @@
+<bill session="111" type="h" number="3175" updated="2013-07-19T23:40:38-04:00">
+  <state datetime="2009-09-15T14:25:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-09-15T14:25:00-04:00"/>
+  </status>
+  <introduced datetime="2009-07-10"/>
+  <titles>
+    <title as="introduced" type="official">To direct the Secretary of Agriculture to convey to Miami-Dade County certain federally owned land in Florida, and for other purposes.</title>
+  </titles>
+  <sponsor id="400107"/>
+  <cosponsors>
+    <cosponsor id="400108" joined="2009-07-28"/>
+    <cosponsor id="400270" joined="2009-07-28"/>
+    <cosponsor id="400344" joined="2009-07-28"/>
+    <cosponsor id="400623" joined="2009-07-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-10">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2009-07-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-07-29">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Agriculture"/>
+    </calendar>
+    <action datetime="2009-09-10T14:19:00-04:00">
+      <text>Reported by the Committee on Agriculture. H. Rept. 111-252.</text>
+    </action>
+    <calendar datetime="2009-09-10T14:19:00-04:00" calendar="Union" number="140">
+      <text>Placed on the Union Calendar, Calendar No. 140.</text>
+    </calendar>
+    <action datetime="2009-09-15T14:17:00-04:00">
+      <text>Mr. Holden moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-09-15T14:18:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9514-9516" label="consideration"/>
+    </action>
+    <action datetime="2009-09-15T14:18:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3175.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-09-15T14:25:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H9514-9515" label="text"/>
+    </vote>
+    <action datetime="2009-09-15T14:25:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-09-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="3050"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Agricultural research"/>
+    <term name="Florida"/>
+    <term name="Horticulture and plants"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+  <summary>9/15/2009--Passed House without amendment.
+Directs the Secretary of Agriculture to convey to Miami-Dade County, Florida, federally owned land comprising the Subtropical Horticulture Research Station in Miami-Dade County, Florida. Directs the County to pay specified costs.</summary>
+</bill>

@@ -1,0 +1,82 @@
+<bill session="113" type="h" number="1542" updated="2013-11-02T06:32:00-04:00">
+  <state datetime="2013-07-22T18:57:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-07-22T18:57:00-04:00"/>
+  </status>
+  <introduced datetime="2013-04-12"/>
+  <titles>
+    <title type="short" as="introduced">WMD Intelligence and Information Sharing Act of 2013</title>
+    <title type="short" as="passed house">WMD Intelligence and Information Sharing Act of 2013</title>
+    <title type="official" as="introduced">To amend the Homeland Security Act of 2002 to establish weapons of mass destruction intelligence and information sharing functions of the Office of Intelligence and Analysis of the Department of Homeland Security and to require dissemination of information analyzed by the Department to entities with responsibilities relating to homeland security, and for other purposes.</title>
+  </titles>
+  <sponsor id="412466"/>
+  <cosponsors>
+    <cosponsor id="400641" joined="2013-04-12"/>
+    <cosponsor id="400219" joined="2013-04-12"/>
+    <cosponsor id="400654" joined="2013-04-12"/>
+    <cosponsor id="412259" joined="2013-04-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-12">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H1962"/>
+    </action>
+    <action datetime="2013-04-12" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2013-04-24">
+      <text>Referred to the Subcommittee on Counterterrorism and Intelligence.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2013-07-22T17:12:00-04:00">
+      <text>Mr. Meehan moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-07-22T17:12:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4837-4839" label="consideration"/>
+    </action>
+    <action datetime="2013-07-22T17:12:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1542.</text>
+    </action>
+    <action datetime="2013-07-22T17:23:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-07-22T18:31:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4839-4840" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="375" datetime="2013-07-22T18:57:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 388 - 3 (Roll no. 375).</text>
+      <reference ref="CR H4837-4838" label="text"/>
+    </vote>
+    <action datetime="2013-07-22T18:57:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-07-23">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSHM05" subcommittee="Counteterrorism and Intelligence" name="House Homeland Security"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Congressional oversight"/>
+    <term name="Food supply, safety, and labeling"/>
+    <term name="Government information and archives"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Homeland security"/>
+    <term name="Infectious and parasitic diseases"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Nuclear weapons"/>
+    <term name="Radioactive wastes and releases"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>7/22/2013--Passed House without amendment.
+WMD Intelligence and Information Sharing Act of 2013 - Amends the Homeland Security Act of 2002 to direct the Office of Intelligence and Analysis of the Department of Homeland Security (DHS) to: (1) support homeland security-focused intelligence analysis of terrorist actors, their claims, and their plans to conduct attacks involving chemical, biological, radiological, and nuclear materials against the nation and of global infectious disease, public health, food, agricultural, and veterinary issues; (2) support homeland security-focused risk analysis and risk assessments of such homeland security hazards by providing relevant quantitative and nonquantitative threat information; (3) leverage homeland security intelligence capabilities and structures to enhance prevention, protection, response, and recovery efforts with respect to a chemical, biological, radiological, or nuclear attack; and (4) share information and provide tailored analytical support on these threats to state, local, and tribal authorities as well as other national biosecurity and biodefense stakeholders. Requires the Office to coordinate with other DHS components, the Intelligence Community, and federal, state, local, and tribal authorities where appropriate and enable such entities to provide recommendations on optimal information sharing mechanisms and on how they can provide information to DHS.Directs the Secretary of DHS to report annually on: (1) intelligence and information sharing activities to counter the threat from weapons of mass destruction, and (2) DHS's activities in accordance with relevant intelligence strategies.Requires the Secretary to ensure that homeland security information analyzed by DHS concerning terrorist threats is provided to state, local, and private entities and the public.</summary>
+</bill>

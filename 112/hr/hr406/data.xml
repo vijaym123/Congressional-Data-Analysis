@@ -1,0 +1,71 @@
+<bill session="112" type="h" number="406" updated="2013-07-20T01:13:50-04:00">
+  <state datetime="2012-09-10T17:06:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-09-10T17:06:00-04:00"/>
+  </status>
+  <introduced datetime="2011-01-24"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Federal Election Campaign Act of 1971 to permit candidates for election for Federal office to designate an individual who will be authorized to disburse funds of the authorized campaign committees of the candidate in the event of the death of the candidate.</title>
+  </titles>
+  <sponsor id="400209"/>
+  <cosponsors>
+    <cosponsor id="412383" joined="2011-02-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-01-24">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2011-04-01">
+      <text>Referred to the Subcommittee on Elections.</text>
+      <committee name="House Committee on House Administration"/>
+    </action>
+    <action datetime="2012-07-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on House Administration"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-07-19">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on House Administration"/>
+    </calendar>
+    <action datetime="2012-07-30T14:13:00-04:00">
+      <text>Reported by the Committee on House Administration. H. Rept. 112-628.</text>
+    </action>
+    <calendar datetime="2012-07-30T14:14:00-04:00" calendar="Union" number="452">
+      <text>Placed on the Union Calendar, Calendar No. 452.</text>
+    </calendar>
+    <action datetime="2012-09-10T17:00:00-04:00">
+      <text>Mr. Lungren, Daniel E. moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-09-10T17:00:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5743-5744" label="consideration"/>
+    </action>
+    <action datetime="2012-09-10T17:00:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 406.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-09-10T17:06:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H5743" label="text"/>
+    </vote>
+    <action datetime="2012-09-10T17:06:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-09-11">
+      <text>Received in the Senate and Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSHA08" subcommittee="Elections" name="House Administration"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional elections"/>
+    <term name="Elections, voting, political campaign regulation"/>
+  </subjects>
+  <amendments/>
+  <summary>9/10/2012--Passed House without amendment.
+Amends the Federal Election Campaign Act of 1971 to permit candidates for election to federal office to: (1) designate an individual for each of a candiate's authorized campaign committees who will be authorized to disburse funds of the committee in the event of the candidate's death, and (2) designate another individual to carry out the responsibilities of the designated individual in the event of the death or incapacity of the designated individual or the designated individual's unwillingness to carry out the responsibilities. Prescribes procedures for filing and revoking such a designation. Permits the filing of a designation to contain the candidate's instructions regarding the disbursement of funds.</summary>
+</bill>

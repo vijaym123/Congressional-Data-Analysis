@@ -1,0 +1,89 @@
+<bill session="113" type="h" number="330" updated="2013-11-02T06:21:45-04:00">
+  <state datetime="2013-10-29T14:42:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-10-29T14:42:00-04:00"/>
+  </status>
+  <introduced datetime="2013-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Distinguished Flying Cross National Memorial Act</title>
+    <title type="short" as="reported to house">Distinguished Flying Cross National Memorial Act</title>
+    <title type="short" as="passed house">Distinguished Flying Cross National Memorial Act</title>
+    <title type="official" as="introduced">To designate a Distinguished Flying Cross National Memorial at the March Field Air Museum in Riverside, California.</title>
+  </titles>
+  <sponsor id="400057"/>
+  <cosponsors>
+    <cosponsor id="412011" joined="2013-03-06"/>
+    <cosponsor id="412571" joined="2013-04-18"/>
+    <cosponsor id="412513" joined="2013-03-06"/>
+    <cosponsor id="400116" joined="2013-02-15"/>
+    <cosponsor id="412401" joined="2013-02-28"/>
+    <cosponsor id="400209" joined="2013-02-15"/>
+    <cosponsor id="412256" joined="2013-02-15"/>
+    <cosponsor id="400276" joined="2013-03-06"/>
+    <cosponsor id="400277" joined="2013-02-15"/>
+    <cosponsor id="412520" joined="2013-01-22"/>
+    <cosponsor id="412515" joined="2013-03-14"/>
+    <cosponsor id="412255" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-22" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-01-25">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-04-24">
+      <text>Subcommittee on Public Lands and Environmental Regulation Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-04-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar datetime="2013-04-24" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2013-05-17T15:28:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 113-79.</text>
+    </action>
+    <calendar datetime="2013-05-17T15:31:00-04:00" calendar="House" number="26">
+      <text>Placed on the House Calendar, Calendar No. 26.</text>
+    </calendar>
+    <action datetime="2013-10-29T14:35:00-04:00">
+      <text>Mr. Young (AK) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-10-29T14:35:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6853-6854" label="consideration"/>
+    </action>
+    <action datetime="2013-10-29T14:35:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 330.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2013-10-29T14:42:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6853" label="text"/>
+    </vote>
+    <calendar datetime="2013-10-30" calendar="Senate Legislative" under="General Orders" number="226">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 226.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Aviation and airports"/>
+    <term name="California"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Monuments and memorials"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>5/17/2013--Reported to House without amendment.
+Distinguished Flying Cross National Memorial Act - Designates a memorial located at March Field Air Museum in Riverside, California, as the Distinguished Flying Cross National Memorial, in honor of current and former members of the Armed Forces who have been awarded the Distinguished Flying Cross. Prohibits the designation of such memorial from being construed to require or permit the use of federal funds for any related purpose.</summary>
+</bill>

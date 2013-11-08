@@ -1,0 +1,78 @@
+<bill session="111" type="s" number="3987" updated="2013-07-20T01:01:16-04:00">
+  <state datetime="2010-12-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2010-12-18"/>
+  </status>
+  <introduced datetime="2010-11-30"/>
+  <titles>
+    <title as="introduced" type="short">Red Flag Program Clarification Act of 2010</title>
+    <title as="passed house" type="short">Red Flag Program Clarification Act of 2010</title>
+    <title as="passed senate" type="short">Red Flag Program Clarification Act of 2010</title>
+    <title as="enacted" type="short">Red Flag Program Clarification Act of 2010</title>
+    <title as="introduced" type="official">A bill to amend the Fair Credit Reporting Act with respect to the applicability of identity theft guidelines to creditors.</title>
+  </titles>
+  <sponsor id="400546"/>
+  <cosponsors>
+    <cosponsor id="412326" joined="2010-11-30"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2010-11-30" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S8288-8289" label="consideration"/>
+      <reference ref="CR S8289" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2010-12-01T10:03:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2010-12-01">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2010-12-01">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2010-12-07T16:24:00-05:00">
+      <text>Mr. Adler (NJ) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-12-07T16:24:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8059-8060" label="consideration"/>
+    </action>
+    <action datetime="2010-12-07T16:24:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 3987.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2010-12-07T16:30:00-05:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H8059" label="text"/>
+    </vote>
+    <action datetime="2010-12-07T16:30:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2010-12-07">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2010-12-09">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2010-12-18">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2010-12-18" type="public" number="111-319">
+      <text>Became Public Law No: 111-319.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="h" number="6420"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Consumer credit"/>
+    <term name="Fraud offenses and financial crimes"/>
+  </subjects>
+  <amendments/>
+  <summary>12/18/2010--Public Law.
+(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Red Flag Program Clarification Act of 2010 - Amends the Fair Credit Reporting Act, with respect to federal agency (red flag) guidelines regarding identity theft and the users of consumer reports, to define creditor to mean one that regularly and in the ordinary course of business: (1) obtains or uses consumer reports, directly or indirectly, in connection with a credit transaction; (2) furnishes information to certain consumer reporting agencies in connection with a credit transaction; or (3) advances funds to or on behalf of a person, based on the person's obligation to repay the funds or on repayment from specific property pledged by or on the person's behalf. Includes in the definition any other type of creditor as the federal agency (banking agency, National Credit Union Administration, or the Federal Trade Commission [FTC]) having authority over that creditor may determine appropriate, if the creditor offers or maintains accounts subject to a reasonably foreseeable risk of identity theft. Excludes from the definition of creditor, however, any creditor that advances funds on behalf of a person for expenses incidental to a service the creditor provides to that person.</summary>
+</bill>

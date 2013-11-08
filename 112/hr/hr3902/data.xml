@@ -1,0 +1,101 @@
+<bill session="112" type="h" number="3902" updated="2013-07-20T01:43:52-04:00">
+  <state datetime="2012-07-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2012-07-18"/>
+  </status>
+  <introduced datetime="2012-02-06"/>
+  <titles>
+    <title as="introduced" type="short">District of Columbia Special Election Reform Act</title>
+    <title as="passed house" type="short">District of Columbia Special Election Reform Act</title>
+    <title as="passed senate" type="short">District of Columbia Special Election Reform Act</title>
+    <title as="enacted" type="short">District of Columbia Special Election Reform Act</title>
+    <title as="introduced" type="official">To amend the District of Columbia Home Rule Act to revise the timing of special elections for local office in the District of Columbia.</title>
+  </titles>
+  <sponsor id="400295"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2012-02-06">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E147"/>
+    </action>
+    <action state="REFERRED" datetime="2012-02-06">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2012-02-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-02-07">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2012-02-29T19:33:00-05:00">
+      <text>Mr. Issa moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-02-29T19:33:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1085-1087" label="consideration"/>
+    </action>
+    <action datetime="2012-02-29T19:33:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3902.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-02-29T19:42:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H1085-1086" label="text"/>
+    </vote>
+    <action datetime="2012-02-29T19:42:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-03-01">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2012-03-12">
+      <text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Oversight of Government Management, the Federal Workforce, and the District of Columbia.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+    <calendar datetime="2012-04-25">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2012-07-12">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2012-07-12" calendar="Senate Legislative" under="General Orders" number="448">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 448.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="2012-07-12" how="by Voice Vote" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+      <reference ref="CR S4980" label="consideration"/>
+    </vote>
+    <action datetime="2012-07-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2012-07-16">
+      <text>By Senator Lieberman from Committee on Homeland Security and Governmental Affairs filed written report. Report No. 112-186.</text>
+    </action>
+    <topresident datetime="2012-07-16">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2012-07-18">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2012-07-18" type="public" number="112-145">
+      <text>Became Public Law No: 112-145.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSGA03" subcommittee="Oversight of Government Management, the Federal Workforce, and the District of Columbia" name="Senate Homeland Security and Governmental Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="District of Columbia"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>7/18/2012--Public Law.
+District of Columbia Special Election Reform Act - Amends the District of Columbia Home Rule Act to require the Board of Elections and Ethics, in filling the following vacancies, to hold a special election in the District on the first Tuesday occurring between 70 and 174 days (currently, the first Tuesday occurring more than 114 days) after the vacancy occurs which the Board determines, based on a totality of the circumstances, taking into account, inter alia, cultural and religious holidays and the administrability of the election, will provide the greatest level of voter participation. Eliminates the specific alternative of a special election on the same day as the next general election (without eliminating the option of a special election on the same day as the next general election). Applies this revised special election requirement to: (1) the Office of the Chairman of the Council of the District of Columbia, (2) a Council member elected from a ward or elected at large, (3) the Office of the Mayor of the District, and (4) the Office of the Attorney General of the District.</summary>
+</bill>

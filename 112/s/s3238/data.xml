@@ -1,0 +1,57 @@
+<bill session="112" type="s" number="3238" updated="2013-07-20T02:44:34-04:00">
+  <state datetime="2012-06-29">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2012-06-29"/>
+  </status>
+  <introduced datetime="2012-05-24"/>
+  <titles>
+    <title as="introduced" type="official">A bill to designate the Department of Veterans Affairs community based outpatient clinic in Mansfield, Ohio, as the David F. Winder Department of Veterans Affairs Community Based Outpatient Clinic, and for other purposes.</title>
+  </titles>
+  <sponsor id="400050"/>
+  <cosponsors>
+    <cosponsor id="400325" joined="2012-05-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-05-24">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2012-06-27">
+      <text>Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 112-668.</text>
+      <committee name="Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2012-06-29">
+      <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text>
+      <reference ref="CR S4780" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2012-06-29" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4780" label="text"/>
+    </vote>
+    <action datetime="2012-06-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2012-07-09T14:02:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2012-07-09">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, Discharged"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Home and outpatient care"/>
+    <term name="Ohio"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>6/29/2012--Passed Senate without amendment.
+Designates the Department of Veterans Affairs (VA) community based outpatient clinic in Mansfield, Ohio, as the "David F. Winder Department of Veterans Affairs Community Based Outpatient Clinic."</summary>
+</bill>

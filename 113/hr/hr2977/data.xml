@@ -1,0 +1,47 @@
+<bill session="113" type="h" number="2977" updated="2013-11-02T06:44:05-04:00">
+  <state datetime="2013-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-01"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Safe Needle Disposal Coverage Act of 2013</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for coverage, as supplies associated with the injection of insulin, of containment, removal, decontamination and disposal of home-generated needles, syringes, and other sharps through a sharps container, decontamination/destruction device, or sharps-by-mail program or similar program under part D of the Medicare program.</title>
+  </titles>
+  <sponsor id="400431"/>
+  <cosponsors>
+    <cosponsor id="400101" joined="2013-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-01" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="672"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Home and outpatient care"/>
+    <term name="Medicare"/>
+    <term name="Prescription drugs"/>
+    <term name="Solid waste and recycling"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,92 @@
+<bill session="112" type="h" number="3336" updated="2013-07-20T01:39:03-04:00">
+  <state datetime="2012-04-25T17:20:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-04-25T17:20:00-04:00"/>
+  </status>
+  <introduced datetime="2011-11-03"/>
+  <titles>
+    <title as="introduced" type="short">Small Business Credit Availability Act</title>
+    <title as="reported to house" type="short">Small Business Credit Availability Act</title>
+    <title as="passed house" type="short">Small Business Credit Availability Act'</title>
+    <title as="introduced" type="official">To ensure the exclusion of small lenders from certain regulations of the Dodd-Frank Act.</title>
+  </titles>
+  <sponsor id="412444"/>
+  <cosponsors>
+    <cosponsor id="400183" joined="2012-02-06"/>
+    <cosponsor id="400266" joined="2012-02-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-11-03">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2011-11-29">
+      <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="2012-01-25">
+      <text>Subcommittee on General Farm Commodities and Risk Management Discharged.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="2012-01-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-01-25">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Agriculture"/>
+    </calendar>
+    <action datetime="2012-02-08T17:22:00-05:00">
+      <text>Reported (Amended) by the Committee on Agriculture. H. Rept. 112-390.</text>
+    </action>
+    <calendar datetime="2012-02-08T17:22:00-05:00" calendar="Union" number="269">
+      <text>Placed on the Union Calendar, Calendar No. 269.</text>
+    </calendar>
+    <action datetime="2012-04-25T13:56:00-04:00">
+      <text>Mr. Lucas moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-04-25T13:56:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2095-2099" label="consideration"/>
+    </action>
+    <action datetime="2012-04-25T13:56:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3336.</text>
+    </action>
+    <action datetime="2012-04-25T14:22:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2012-04-25T17:12:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2107" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-04-25T17:20:00-04:00" how="roll" result="pass" roll="180" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 312 - 111 (Roll no. 180).</text>
+      <reference ref="CR H2095-2096" label="text"/>
+    </vote>
+    <action datetime="2012-04-25T17:20:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-04-26">
+      <text>Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSAG16" subcommittee="General Farm Commodities and Risk Management" name="House Agriculture"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="5649"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural prices, subsidies, credit"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Commodities markets"/>
+    <term name="Securities"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>4/25/2012--Passed House amended.
+Small Business Credit Availability Act - (Sec. 2) Amends the Commodity Exchange Act (as amended by the Dodd-Frank Wall Street Reform and Consumer Protection Act [Dodd-Frank]) to exclude from regulation as a swap dealer an insured depository institution, or a U.S. uninsured branch or agency of a foreign bank that has a prudential regulator. Permits designation of a person as a swap dealer for a single type, class, or category of swap or activity, and yet considered not to be a swap dealer for other types, classes, or categories of swaps or activities. Excludes from the definition of "swap dealer" a person that enters into swaps for such person's own account: (1) either individually or in a fiduciary capacity, but not as part of specified business activities; (2) in order to either hedge or mitigate commercial risk; or (3) to comply with state or local governmental regulations. Excludes also from factors determinative of "swap dealer" a swap entered into for a person's own account and that involves a capacity contract, a renewable energy credit, an emissions allowance, or an emissions offset if such instrument is used to meet obligations under state or local governmental regulations. (Sec. 3) Excludes outright from the meaning of financial entity any small bank, savings association, farm credit system institution, non-profit cooperative lender controlled by electric cooperatives, or credit union if the aggregate uncollateralized outward exposure plus aggregate potential outward exposure with respect to its swaps does not exceed $1 billion. (Thus exempts such entities from the clearing requirement.) (Sec. 4) Redefines "major swap participant" to exclude an entity whose primary business is providing financing that facilitates the sale or lease of products by or on behalf of the parent company or its subsidiary, and uses derivatives only for the purpose of hedging underlying commercial risks in a consolidated financing and leasing portfolio at least 90% of which, as of the end of its preceding fiscal year, is qualifying financing (including loans, notes, installment sales contracts, receivables, and operating and financing leases). Excludes certain captive finance entities from the swap clearing requirement. (Sec. 5) Declares amendments made by this Act effective as of the enactment of the Wall Street Transparency and Accountability Act of 2010 (title VII of Dodd-Frank). (Sec. 6) Requires the amendments made by this Act to be implemented: (1) through promulgation of an interim final rule, pursuant to which public comment will be sought before a final rule is issued; and (2) without regard to specified federal law on coordination of federal information policy, or certain administrative notice and comment requirements.</summary>
+</bill>

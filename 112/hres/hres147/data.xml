@@ -1,0 +1,76 @@
+<bill session="112" type="hr" number="147" updated="2013-07-20T01:04:17-04:00">
+  <state datetime="2011-03-17T09:15:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2011-03-17T09:15:00-04:00"/>
+  </status>
+  <introduced datetime="2011-03-08"/>
+  <titles>
+    <title as="introduced" type="official">Providing for the expenses of certain committees of the House of Representatives in the One Hundred Twelfth Congress.</title>
+  </titles>
+  <sponsor id="400617"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2011-03-08">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2011-03-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on House Administration"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-03-09">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on House Administration"/>
+    </calendar>
+    <action datetime="2011-03-11T16:16:00-05:00">
+      <text>Reported by the Committee on House Administration. H. Rept. 112-30.</text>
+    </action>
+    <calendar datetime="2011-03-11T16:17:00-05:00" calendar="House" number="16">
+      <text>Placed on the House Calendar, Calendar No. 16.</text>
+    </calendar>
+    <action datetime="2011-03-17T09:15:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H1911" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2011-03-17T09:15:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H1911" label="text"/>
+    </vote>
+    <action datetime="2011-03-17T09:15:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="hr" number="496"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional committees"/>
+    <term name="House Committee on Agriculture"/>
+    <term name="House Committee on Armed Services"/>
+    <term name="House Committee on Education and the Workforce"/>
+    <term name="House Committee on Energy and Commerce"/>
+    <term name="House Committee on Ethics"/>
+    <term name="House Committee on Financial Services"/>
+    <term name="House Committee on Foreign Affairs"/>
+    <term name="House Committee on Homeland Security"/>
+    <term name="House Committee on House Administration"/>
+    <term name="House Committee on Natural Resources"/>
+    <term name="House Committee on Oversight and Government Reform"/>
+    <term name="House Committee on Rules"/>
+    <term name="House Committee on Science, Space, and Technology"/>
+    <term name="House Committee on Small Business"/>
+    <term name="House Committee on Transportation and Infrastructure"/>
+    <term name="House Committee on Veterans' Affairs"/>
+    <term name="House Committee on Ways and Means"/>
+    <term name="House Committee on the Budget"/>
+    <term name="House Committee on the Judiciary"/>
+    <term name="House Permanent Select Committee on Intelligence"/>
+    <term name="House of Representatives"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/2011--Passed House without amendment.
+Sets forth the levels of payment for 112th Congress expenses (including staff salaries) for the Committees on Agriculture; Armed Services; the Budget; Education and the Workforce; Energy and Commerce; Ethics; Financial Services; Foreign Affairs; Homeland Security; House Administration; Permanent Select Committee on Intelligence; the Judiciary; Natural Resources; Oversight and Government Reform; Rules; Science, Space, and Technology; Small Business; Transportation and Infrastructure; Veterans' Affairs; and Ways and Means. Prescribes limitations to such expenses for the 1st and 2nd sessions of the 112th Congress.</summary>
+</bill>

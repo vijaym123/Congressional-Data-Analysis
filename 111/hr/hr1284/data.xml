@@ -1,0 +1,105 @@
+<bill session="111" type="h" number="1284" updated="2013-07-19T23:23:23-04:00">
+  <state datetime="2009-06-19">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2009-06-19"/>
+  </status>
+  <introduced datetime="2009-03-03"/>
+  <titles>
+    <title as="introduced" type="official">To designate the facility of the United States Postal Service located at 103 West Main Street in McLain, Mississippi, as the "Major Ed W. Freeman Post Office".</title>
+  </titles>
+  <sponsor id="400399"/>
+  <cosponsors>
+    <cosponsor id="412262" joined="2009-03-03"/>
+    <cosponsor id="412280" joined="2009-03-03"/>
+    <cosponsor id="400402" joined="2009-03-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-03">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2009-03-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-03-10">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2009-03-16T16:18:00-04:00">
+      <text>Mr. Lynch moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-03-16T16:18:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3409-3410" label="consideration"/>
+    </action>
+    <action datetime="2009-03-16T16:18:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1284.</text>
+    </action>
+    <action datetime="2009-03-16T16:28:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2009-03-16T19:05:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3412-3413" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-03-16T19:12:00-04:00" how="roll" result="pass" roll="127" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 0 (Roll no. 127).</text>
+      <reference ref="CR H3409" label="text"/>
+    </vote>
+    <action datetime="2009-03-16T19:12:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-03-17">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2009-03-20">
+      <text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+    <calendar datetime="2009-05-20">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2009-05-20">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2009-05-20" calendar="Senate Legislative" under="General Orders" number="67">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 67.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="2009-05-21" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S5884" label="consideration"/>
+    </vote>
+    <topresident datetime="2009-05-21">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2009-05-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2009-06-09">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2009-06-19">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2009-06-19" type="public" number="111-28">
+      <text>Became Public Law No: 111-28.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSGA09" subcommittee="Federal Financial Management, Government Information, Federal Services, and International Security" name="Senate Homeland Security and Governmental Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Mississippi"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>6/19/2009--Public Law.
+Designates the facility of the United States Postal Service located at 103 West Main Street in McLain, Mississippi, as the "Major Ed W. Freeman Post Office."</summary>
+</bill>

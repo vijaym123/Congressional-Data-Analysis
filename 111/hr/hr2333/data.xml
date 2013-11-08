@@ -1,0 +1,46 @@
+<bill session="111" type="h" number="2333" updated="2013-07-19T23:32:51-04:00">
+  <state datetime="2009-05-07">REFERRED</state>
+  <status>
+    <introduced datetime="2009-05-07"/>
+  </status>
+  <introduced datetime="2009-05-07"/>
+  <titles>
+    <title as="introduced" type="short">District of Columbia National Guard Retention and College Access Act</title>
+    <title as="introduced" type="official">To establish a District of Columbia National Guard Educational Assistance Program to encourage the enlistment and retention of persons in the District of Columbia National Guard by providing financial assistance to enable members of the National Guard of the District of Columbia to attend undergraduate, vocational, or technical courses.</title>
+  </titles>
+  <sponsor id="400295"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2009-05-07">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1097"/>
+    </action>
+    <action state="REFERRED" datetime="2009-05-07">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2009-06-08">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="3323"/>
+    <bill relation="unknown" session="111" type="h" number="3913"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="District of Columbia"/>
+    <term name="Education programs funding"/>
+    <term name="Higher education"/>
+    <term name="National Guard and reserves"/>
+    <term name="Student aid and college costs"/>
+    <term name="Vocational education"/>
+  </subjects>
+  <amendments/>
+  <summary>5/7/2009--Introduced.
+District of Columbia National Guard Retention and College Access Act - Authorizes the commanding general of the District of Columbia National Guard to provide educational assistance to members of the District of Columbia National Guard who have satisfactorily completed their initial active duty service and agree to serve for a period of not less than six years. Requires such assistance to be used by members for expenses incurred in pursuing their first undergraduate, master's, vocational, or technical degree or certification at an approved institution of higher education.</summary>
+</bill>

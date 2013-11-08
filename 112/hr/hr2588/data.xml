@@ -1,0 +1,53 @@
+<bill session="112" type="h" number="2588" updated="2013-07-20T01:32:41-04:00">
+  <state datetime="2011-07-19">REFERRED</state>
+  <status>
+    <introduced datetime="2011-07-19"/>
+  </status>
+  <introduced datetime="2011-07-19"/>
+  <titles>
+    <title as="introduced" type="short">American Land Act</title>
+    <title as="introduced" type="official">To direct the Secretary of the Interior and the Secretary of Agriculture to sell certain Federal land, to direct that the proceeds of such sales be applied to reduce the Federal budget deficit, and for other purposes.</title>
+  </titles>
+  <sponsor id="400652"/>
+  <cosponsors>
+    <cosponsor id="412444" joined="2011-09-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-07-19">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-07-19">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2011-07-19">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2011-07-20">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H5241"/>
+    </action>
+    <action datetime="2011-07-21">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2011-07-22">
+      <text>Referred to the Subcommittee on Conservation, Energy, and Forestry.</text>
+      <committee name="House Agriculture"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG15" subcommittee="Conservation, Energy, and Forestry" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+  <summary>7/19/2011--Introduced.
+American Land Act - Authorizes the Secretary of the Interior or the Secretary of Agriculture (USDA), for FY2012-FY2016, to offer for competitive sale by auction 8% of the federal lands managed by the Bureau of Land Management (BLM) and 8% of the National Forest System lands. Requires the lands to be sold to be configured so as to maximize their marketability or to achieve management objectives. Permits either Secretary to include the mineral rights in a sale of land under this Act for not more than 50% of the total acreage sold, if such inclusion is likely to maximize that land's marketability.</summary>
+</bill>

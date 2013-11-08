@@ -1,0 +1,75 @@
+<bill session="111" type="hc" number="197" updated="2013-07-20T00:14:42-04:00">
+  <state datetime="2009-12-02T16:54:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-12-02T16:54:00-05:00"/>
+  </status>
+  <introduced datetime="2009-10-08"/>
+  <titles>
+    <title as="introduced" type="official">Encouraging banks and mortgage servicers to work with families affected by contaminated drywall to allow temporary forbearance without penalty on payments on their home mortgages.</title>
+    <title as="amended by house" type="official">Encouraging banks and mortgage servicers to work with families affected by contaminated drywall and to consider adjustments to payment schedules on their home mortgages that take into account the financial burdens of responding to the presence of such drywall.</title>
+  </titles>
+  <sponsor id="412301"/>
+  <cosponsors>
+    <cosponsor id="412196" joined="2009-10-08"/>
+    <cosponsor id="400137" joined="2009-11-06"/>
+    <cosponsor id="400257" joined="2009-10-08"/>
+    <cosponsor id="400270" joined="2009-12-01"/>
+    <cosponsor id="412309" joined="2009-12-01"/>
+    <cosponsor id="412261" joined="2009-12-02"/>
+    <cosponsor id="400364" joined="2009-11-06"/>
+    <cosponsor id="400430" joined="2009-10-08"/>
+    <cosponsor id="412255" joined="2009-10-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-10-08">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2009-12-02T11:44:00-05:00">
+      <text>Ms. Waters moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2009-12-02T11:44:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H13401-13404" label="consideration"/>
+    </action>
+    <action datetime="2009-12-02T11:44:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 197.</text>
+    </action>
+    <action datetime="2009-12-02T11:56:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2009-12-02T16:45:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H13425-13426" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-12-02T16:54:00-05:00" how="roll" result="pass" roll="920" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 1 (Roll no. 920).</text>
+      <reference ref="CR H13402" label="text"/>
+    </vote>
+    <action datetime="2009-12-02T16:54:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-12-02T16:54:00-05:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-12-03">
+      <text>Received in the Senate and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="sr" number="352"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Building construction"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Housing industry and standards"/>
+  </subjects>
+  <amendments/>
+  <summary>12/2/2009--Passed House amended.
+Encourages banks and mortgage servicers to work with families affected by contaminated drywall by considering adjustments to mortgage payment schedules that take these financial burdens into account.</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="112" type="h" number="3113" updated="2013-07-20T01:37:09-04:00">
+  <state datetime="2011-10-05">REFERRED</state>
+  <status>
+    <introduced datetime="2011-10-05"/>
+  </status>
+  <introduced datetime="2011-10-05"/>
+  <titles>
+    <title as="introduced" type="short">Polar Protection Act</title>
+    <title as="introduced" type="official">To ensure the icebreaking capabilities of the United States.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors>
+    <cosponsor id="412433" joined="2011-11-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-10-05">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2011-10-06">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="1620"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Arctic and polar regions"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Motor vehicles"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>10/5/2011--Introduced.
+Polar Protection Act - Authorizes the Secretary of the department in which the Coast Guard (CG) is operating to use competitive procedures to enter into leases of at least 10 years for 2 polar icebreakers that meet the CG's maritime responsibilities in the Arctic and certain other requirements.</summary>
+</bill>

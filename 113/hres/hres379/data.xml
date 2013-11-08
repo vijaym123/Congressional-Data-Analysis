@@ -1,0 +1,48 @@
+<bill session="113" type="hr" number="379" updated="2013-11-02T06:18:48-04:00">
+  <state datetime="2013-10-11T18:25:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2013-10-11T18:25:00-04:00"/>
+  </status>
+  <introduced datetime="2013-10-11"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives regarding certain provisions of the Senate amendment to H.R. 2642 relating to crop insurance.</title>
+  </titles>
+  <sponsor id="400351"/>
+  <cosponsors>
+    <cosponsor id="400626" joined="2013-10-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-11" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2013-10-11T17:37:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 380.</text>
+      <reference ref="CR H6527-6532" label="consideration"/>
+    </action>
+    <action datetime="2013-10-11T17:37:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H. Res. 379.</text>
+    </action>
+    <action datetime="2013-10-11T18:25:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H6532" label="consideration"/>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2013-10-11T18:25:00-04:00" where="h" result="pass" state="PASSED:SIMPLERES">
+      <text>On agreeing to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H6527" label="text"/>
+    </vote>
+    <action datetime="2013-10-11T18:25:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="hr" number="380"/>
+    <bill relation="unknown" session="113" type="h" number="2642"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>10/11/2013--Introduced.
+Expresses the sense of the House of Representatives that the House managers of the conference on the disagreeing votes of the two Houses on the House amendment to the Senate amendment to H.R. 2642 (Federal Agriculture Reform and Risk Management Act of 2013) agricultural and other programs) should: (1) agree to provisions regarding a premium subsidy limitation based on average adjusted gross income in excess of $750,000, (2) agree to provisions for a crop insurance study and the impacts of an adjusted gross income limitation, and (3) not agree to provisions regarding a delayed effective date.</summary>
+</bill>

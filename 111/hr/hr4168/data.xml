@@ -1,0 +1,72 @@
+<bill session="111" type="h" number="4168" updated="2013-07-19T23:49:51-04:00">
+  <state datetime="2010-09-28T17:30:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-09-28T17:30:00-04:00"/>
+  </status>
+  <introduced datetime="2009-12-01"/>
+  <titles>
+    <title as="introduced" type="short">Algae-based Renewable Fuel Promotion Act of 2009</title>
+    <title as="passed house" type="short">Algae-based Renewable Fuel Promotion Act of 2010</title>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to expand the definition of cellulosic biofuel to include algae-based biofuel for purposes of the cellulosic biofuel producer credit and the special allowance for cellulosic biofuel plant property.</title>
+  </titles>
+  <sponsor id="412316"/>
+  <cosponsors>
+    <cosponsor id="400570" joined="2009-12-01"/>
+    <cosponsor id="400039" joined="2009-12-16"/>
+    <cosponsor id="400115" joined="2009-12-02"/>
+    <cosponsor id="400133" joined="2010-01-13"/>
+    <cosponsor id="412188" joined="2010-01-13"/>
+    <cosponsor id="400162" joined="2009-12-02"/>
+    <cosponsor id="412281" joined="2010-01-13"/>
+    <cosponsor id="400193" joined="2009-12-01"/>
+    <cosponsor id="412293" joined="2009-12-02"/>
+    <cosponsor id="412298" joined="2009-12-11"/>
+    <cosponsor id="412233" joined="2009-12-08"/>
+    <cosponsor id="412232" joined="2010-01-13"/>
+    <cosponsor id="400403" joined="2009-12-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-12-01">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2010-09-28T17:12:00-04:00">
+      <text>Mr. Van Hollen moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-09-28T17:12:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7070-7073" label="consideration"/>
+    </action>
+    <action datetime="2010-09-28T17:12:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4168.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-09-28T17:30:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7070-7071" label="text"/>
+    </vote>
+    <action datetime="2010-09-28T17:30:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-09-29">
+      <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2010-11-15" calendar="Senate Legislative" under="General Orders" number="639">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 639.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="1250"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Business investment and capital"/>
+    <term name="Income tax credits"/>
+    <term name="Income tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/2010--Passed House amended.
+Algae-based Renewable Fuel Promotion Act of 2010 - Amends the Internal Revenue Code to modify the definition of "cellulosic biofuel" for purposes of the cellulosic biofuel producer tax credit and the special depreciation allowance to mean any liquid fuel which is derived solely from qualified feedstocks. Defines "qualified feedstocks" as any lignocellulosic or hemicellulosic matter that is available on a renewable or recurring basis and any cultivated algae, cyanobacteria, or lemna. Provides for compliance of the budgetary effects of this Act with the Statutory Pay-As-You-Go Act of 2010.</summary>
+</bill>

@@ -1,0 +1,60 @@
+<bill session="112" type="s" number="1296" updated="2013-07-20T02:27:39-04:00">
+  <state datetime="2012-02-01">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2012-02-01"/>
+  </status>
+  <introduced datetime="2011-06-29"/>
+  <titles>
+    <title as="introduced" type="official">A bill to revise the boundaries of John H. Chafee Coastal Barrier Resources System Sachuest Point Unit RI-04P, Easton Beach Unit RI-05P, Almy Pond Unit RI-06, and Hazards Beach Unit RI-07 in the State of Rhode Island.</title>
+  </titles>
+  <sponsor id="412247"/>
+  <cosponsors>
+    <cosponsor id="300081" joined="2011-06-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-06-29">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2011-12-08">
+      <text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Environment and Public Works"/>
+    </calendar>
+    <action datetime="2012-01-26">
+      <text>Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 112-138.</text>
+    </action>
+    <calendar datetime="2012-01-26" calendar="Senate Legislative" under="General Orders" number="304">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 304.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2012-02-01" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S276" label="consideration"/>
+      <reference ref="CR S276" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2012-02-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2012-02-02T12:26:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2012-02-02T13:20:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="2027"/>
+    <bill relation="unknown" session="112" type="h" number="2154"/>
+    <bill relation="unknown" session="112" type="h" number="2155"/>
+    <bill relation="unknown" session="112" type="h" number="2156"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Rhode Island"/>
+  </subjects>
+  <amendments/>
+  <summary>2/1/2012--Passed Senate without amendment.
+Replaces the map subtitled "Sachuest Point Unit RI-04P, Easton Beach Unit RI-05P, Almy Pond Unit RI-06, Hazards Beach Unit RI-07," included in the set of maps entitled "John H. Chafee Coastal Barrier Resources System" (referred to in the Coastal Barrier Resources Act as the set of maps entitled "Coastal Barrier Resources System") relating to certain units in Rhode Island, with the map entitled "John H. Chafee Coastal Barrier Resources System Sachuest Point Unit RI-04P, Easton Beach Unit RI-05P, Almy Pond Unit RI-06, and Hazards Beach Unit RI-07" and dated September 30, 2009.</summary>
+</bill>

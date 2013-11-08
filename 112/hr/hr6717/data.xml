@@ -1,0 +1,56 @@
+<bill session="112" type="h" number="6717" updated="2013-07-20T02:07:52-04:00">
+  <state datetime="2012-12-30">REFERRED</state>
+  <status>
+    <introduced datetime="2012-12-30"/>
+  </status>
+  <introduced datetime="2012-12-30"/>
+  <titles>
+    <title as="introduced" type="official">To provide consumer protections for students.</title>
+  </titles>
+  <sponsor id="400080"/>
+  <cosponsors>
+    <cosponsor id="412236" joined="2012-12-30"/>
+    <cosponsor id="412215" joined="2012-12-30"/>
+    <cosponsor id="400162" joined="2012-12-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-12-30">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committees on Armed Services, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2012-12-30">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2012-12-30">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2012-12-30">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2013-01-02">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="3474"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Consumer affairs"/>
+    <term name="Education programs funding"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Higher education"/>
+    <term name="Licensing and registrations"/>
+    <term name="Marketing and advertising"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>12/30/2012--Introduced.
+Protecting Students from Worthless Degrees Act - Makes any institution of higher education (IHE) postsecondary program designed to prepare students for a recognized occupation or profession requiring licensing or other entry pre-conditions ineligible to participate in a federal financial assistance program, unless it meets specified student consumer protection requirements. Requires each program to: (1) fully prepare students to satisfy those entry pre-conditions in the state in which the program is operated and in any state the program claims a successful program graduate will be prepared to work in the particular occupation or profession involved; (2) provide timely placement of students in required pre-licensure positions, such as internships or apprenticeships; and (3) meet specialized state accreditation requirements, or notify students if the program has not yet been fully accredited. Requires an IHE to notify out-of-state applicants as to whether or not its program satisfies the requirements of the applicant's state.</summary>
+</bill>

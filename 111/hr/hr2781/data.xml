@@ -1,0 +1,101 @@
+<bill session="111" type="h" number="2781" updated="2013-07-19T23:36:51-04:00">
+  <state datetime="2009-11-19T13:37:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-11-19T13:37:00-05:00"/>
+  </status>
+  <introduced datetime="2009-06-09"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Wild and Scenic Rivers Act to designate segments of the Molalla River in Oregon, as components of the National Wild and Scenic Rivers System, and for other purposes.</title>
+  </titles>
+  <sponsor id="412315"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2009-07-31"/>
+    <cosponsor id="400100" joined="2009-07-31"/>
+    <cosponsor id="400437" joined="2009-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-06-09">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1353-1354"/>
+    </action>
+    <action state="REFERRED" datetime="2009-06-09">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-06-12">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-10-01">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-10-28">
+      <text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-10-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-10-28">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 18.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2009-11-16T15:09:00-05:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-336.</text>
+    </action>
+    <calendar datetime="2009-11-16T15:09:00-05:00" calendar="Union" number="194">
+      <text>Placed on the Union Calendar, Calendar No. 194.</text>
+    </calendar>
+    <action datetime="2009-11-17T16:30:00-05:00">
+      <text>Rules Committee Resolution H. Res. 908 Reported to House. Rule provides for consideration of H.R. 2781 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rules XXI. The amendment in the nature of a substitute recommended by the Committee on Natural Resources now printed in the bill shall be considered as adopted.</text>
+    </action>
+    <action datetime="2009-11-19T12:00:00-05:00">
+      <text>Rule H. Res. 908 passed House.</text>
+    </action>
+    <action datetime="2009-11-19T12:09:00-05:00">
+      <text>Considered under the provisions of rule H. Res. 908.</text>
+      <reference ref="CR H13281-13288" label="consideration"/>
+    </action>
+    <action datetime="2009-11-19T12:09:00-05:00">
+      <text>Rule provides for consideration of H.R. 2781 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rules XXI. The amendment in the nature of a substitute recommended by the Committee on Natural Resources now printed in the bill shall be considered as adopted.</text>
+    </action>
+    <action datetime="2009-11-19T12:10:00-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 2781.</text>
+    </action>
+    <action datetime="2009-11-19T13:10:00-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H13288" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-11-19T13:37:00-05:00" how="roll" result="pass" roll="905" type="vote" where="h">
+      <text>On passage Passed by the Yeas and Nays: 292 - 133 (Roll no. 905).</text>
+      <reference ref="CR H13281-13282" label="text"/>
+    </vote>
+    <action datetime="2009-11-19T13:37:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-11-20">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="111" type="hr" number="908"/>
+    <bill relation="unknown" session="111" type="s" number="1369"/>
+    <bill relation="unknown" session="111" type="s" number="1369"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Oregon"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments>
+    <amendment number="h516"/>
+  </amendments>
+  <summary>11/19/2009--Passed House amended.
+Amends the Wild and Scenic Rivers Act to designate specified segments of the Molalla River in Oregon as a recreational river and as components of the National Wild and Scenic Rivers System.</summary>
+</bill>

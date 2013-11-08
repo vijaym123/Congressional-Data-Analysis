@@ -1,0 +1,39 @@
+<bill session="113" type="h" number="2628" updated="2013-11-02T06:41:07-04:00">
+  <state datetime="2013-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-09"/>
+  </status>
+  <introduced datetime="2013-07-09"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 23, United States Code, with respect to United States Route 78 in Mississippi, and for other purposes.</title>
+  </titles>
+  <sponsor id="412442"/>
+  <cosponsors>
+    <cosponsor id="412280" joined="2013-07-09"/>
+    <cosponsor id="412443" joined="2013-07-09"/>
+    <cosponsor id="400402" joined="2013-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-09" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-07-10">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Mississippi"/>
+    <term name="Motor carriers"/>
+    <term name="Roads and highways"/>
+  </subjects>
+  <amendments/>
+  <summary>7/9/2013--Introduced.
+Permits the continued operation of trucks on any segment of U.S. Route 78 in Mississippi designated as a route on the Interstate System. Prohibits federal weight limitation requirements from applying to those trucks that could operate legally on such segment before that designation.</summary>
+</bill>

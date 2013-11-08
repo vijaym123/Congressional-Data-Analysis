@@ -1,0 +1,45 @@
+<bill session="112" type="h" number="5648" updated="2013-07-20T01:58:47-04:00">
+  <state datetime="2012-05-08">REFERRED</state>
+  <status>
+    <introduced datetime="2012-05-08"/>
+  </status>
+  <introduced datetime="2012-05-08"/>
+  <titles>
+    <title as="introduced" type="official">To repeal an obsolete provision in title 49, United States Code, requiring motor vehicle insurance cost reporting.</title>
+  </titles>
+  <sponsor id="412383"/>
+  <cosponsors>
+    <cosponsor id="412280" joined="2012-05-08"/>
+    <cosponsor id="412315" joined="2012-05-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-05-08">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2012-05-11">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="5859"/>
+    <bill relation="unknown" session="112" type="s" number="3656"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Consumer affairs"/>
+    <term name="Department of Transportation"/>
+    <term name="Life, casualty, property insurance"/>
+    <term name="Motor vehicles"/>
+    <term name="Retail and wholesale trades"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>5/8/2012--Introduced.
+Repeals the requirement that the Secretary of Transportation (DOT) prescribe regulations to require passenger motor vehicle dealers to distribute to prospective buyers information comparing insurance costs for different makes and models of passenger motor vehicles based on damage susceptibility and crashworthiness.</summary>
+</bill>

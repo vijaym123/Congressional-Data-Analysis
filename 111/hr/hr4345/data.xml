@@ -1,0 +1,45 @@
+<bill session="111" type="h" number="4345" updated="2013-07-19T23:51:32-04:00">
+  <state datetime="2009-12-16">REFERRED</state>
+  <status>
+    <introduced datetime="2009-12-16"/>
+  </status>
+  <introduced datetime="2009-12-16"/>
+  <titles>
+    <title as="introduced" type="short">Alabama Black Belt National Heritage Area Act</title>
+    <title as="introduced" type="official">To establish the Alabama Black Belt National Heritage Area, and for other purposes.</title>
+  </titles>
+  <sponsor id="400092"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2009-12-16"/>
+    <cosponsor id="400010" joined="2009-12-16"/>
+    <cosponsor id="400038" joined="2009-12-16"/>
+    <cosponsor id="412267" joined="2009-12-16"/>
+    <cosponsor id="412277" joined="2009-12-16"/>
+    <cosponsor id="400341" joined="2009-12-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-12-16">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-12-23">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="2892"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Alabama"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Historical and cultural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>12/16/2009--Introduced.
+Alabama Black Belt National Heritage Area Act - Establishes the Alabama Black Belt National Heritage Area in Alabama. (Describes the Black Belt area as a region in the lower-central portion of Alabama that sustains an abundance of natural resources, historical sites, cultural diversity, and recreational activities shaped by its fertile black soil.) Designates the Center for the Study of the Black Belt at the University of West Alabama as the local coordinating entity for the Heritage Area, requires the Center to submit a management plan for the Heritage Area, and sets forth procedures for the approval or disapproval of such plan.</summary>
+</bill>

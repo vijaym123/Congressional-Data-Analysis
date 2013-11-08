@@ -1,0 +1,137 @@
+<bill session="111" type="h" number="946" updated="2013-07-19T23:20:24-04:00">
+  <state datetime="2010-10-13">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2010-10-13"/>
+  </status>
+  <introduced datetime="2009-02-10"/>
+  <titles>
+    <title as="introduced" type="short">Plain Language Act of 2009</title>
+    <title as="reported to house" type="short">Plain Writing Act of 2010</title>
+    <title as="passed house" type="short">Plain Writing Act of 2010</title>
+    <title as="passed senate" type="short">Plain Writing Act of 2010</title>
+    <title as="enacted" type="short">Plain Writing Act of 2010</title>
+    <title as="introduced" type="official">To enhance citizen access to Government information and services by establishing that Government documents issued to the public must be written clearly, and for other purposes.</title>
+  </titles>
+  <sponsor id="412208"/>
+  <cosponsors>
+    <cosponsor id="400042" joined="2009-03-03"/>
+    <cosponsor id="400055" joined="2009-02-25"/>
+    <cosponsor id="412273" joined="2009-06-23"/>
+    <cosponsor id="400643" joined="2009-02-25"/>
+    <cosponsor id="412209" joined="2009-03-03"/>
+    <cosponsor id="400283" joined="2009-04-01"/>
+    <cosponsor id="400295" joined="2010-03-02"/>
+    <cosponsor id="412186" joined="2009-03-25"/>
+    <cosponsor id="400424" joined="2009-05-13"/>
+    <cosponsor id="412239" joined="2009-03-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-10">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2010-03-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-03-04">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2010-03-11T14:19:00-05:00">
+      <text>Reported (Amended) by the Committee on Oversight and Government. H. Rept. 111-432.</text>
+    </action>
+    <calendar datetime="2010-03-11T14:20:00-05:00" calendar="Union" number="248">
+      <text>Placed on the Union Calendar, Calendar No. 248.</text>
+    </calendar>
+    <action datetime="2010-03-17T13:53:00-04:00">
+      <text>Mr. Clay moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-03-17T13:53:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1538-1540" label="consideration"/>
+    </action>
+    <action datetime="2010-03-17T13:53:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 946.</text>
+    </action>
+    <action datetime="2010-03-17T14:11:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-03-17T16:46:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H1560" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-03-17T16:54:00-04:00" how="roll" result="pass" roll="126" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 33 (Roll no. 126).</text>
+      <reference ref="CR H1538" label="text"/>
+    </vote>
+    <action datetime="2010-03-17T16:54:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="2010-03-18" calendar="Senate Legislative" under="General Orders" number="321">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 321.</text>
+    </calendar>
+    <action datetime="2010-09-27">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S7556" label="consideration"/>
+    </action>
+    <vote state="PASS_BACK:SENATE" datetime="2010-09-27" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate with amendments by Unanimous Consent.</text>
+      <reference ref="CR S7556" label="text"/>
+    </vote>
+    <action datetime="2010-09-28">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2010-09-29T19:53:00-04:00">
+      <text>Mr. Clay moved that the House suspend the rules and agree to the Senate amendments.</text>
+      <reference ref="CR H7314-7316" label="consideration"/>
+    </action>
+    <action datetime="2010-09-29T19:53:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendments to H.R. 946.</text>
+    </action>
+    <action datetime="2010-09-29T20:05:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-09-29T23:38:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7371-7372" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2010-09-29T23:44:00-04:00" how="roll" result="pass" roll="562" type="pingpong" where="h">
+      <text>On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 341 - 82 (Roll no. 562).</text>
+      <reference ref="CR H7314" label="text as House agreed to Senate amendments"/>
+    </vote>
+    <action datetime="2010-09-29T23:44:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2010-09-29">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2010-10-01">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2010-10-13">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2010-10-13" type="public" number="111-274">
+      <text>Became Public Law No: 111-274.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="574"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government information and archives"/>
+    <term name="Office of Management and Budget (OMB)"/>
+  </subjects>
+  <amendments>
+    <amendment number="s4653"/>
+    <amendment number="s4663"/>
+  </amendments>
+  <summary>10/13/2010--Public Law.
+Plain Writing Act of 2010 - Requires the head of each executive agency to: (1) designate one or more senior officials within the agency to oversee the agency's implementation of this Act; (2) communicate this Act's requirements to the agency's employees; (3) train agency employees in "plain writing" (defined as writing that is clear, concise, well-organized, and follows other best practices appropriate to the subject or field and intended audience); (4) establish a process for overseeing the agency's ongoing compliance with this Act's requirements; (5) create and maintain a plain writing section of the agency's website that shall inform the public of agency compliance with the requirements of this Act, provide a mechanism for the agency to receive and respond to public input on agency implementation and agency reports required under this Act, and be accessible from its homepage; and (6) designate one or more agency points-of-contact to receive and respond to public input on the implementation of this Act. Requires each agency, by one year after enactment, to use plain writing in every covered document of the agency that the agency issues or substantially revises. Defines "covered document" to: (1) mean any document that is necessary for obtaining any federal benefit or service or filing taxes, that provides information about any federal benefit or service, or that explains to the public how to comply with a requirement the federal government administers or enforces; (2) include (whether in paper or electronic form) a letter, publication, form, notice, or instruction; and (3) exclude a regulation. Requires the Director of the Office of Management and Budget (OMB), by six months after enactment, to develop and issue guidance on implementing the requirements of this Act. Authorizes the Director to designate a lead agency and to use interagency working groups to assist in developing and issuing the guidance. Sets forth provisions regarding: (1) an interim guidance; (2) initial and annual compliance reports; and (3) judicial review and enforceability. Requires the budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, to be determined by reference to the latest statement titled "Budgetary Effects of PAYGO Legislation" for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.</summary>
+</bill>

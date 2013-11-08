@@ -1,0 +1,49 @@
+<bill session="111" type="s" number="838" updated="2013-07-20T00:30:55-04:00">
+  <state datetime="2009-05-05">REPORTED</state>
+  <status>
+    <unknown datetime="2009-05-05"/>
+  </status>
+  <introduced datetime="2009-04-21"/>
+  <titles>
+    <title as="introduced" type="official">A bill to provide for the appointment of United States Science Envoys.</title>
+  </titles>
+  <sponsor id="300070"/>
+  <cosponsors>
+    <cosponsor id="400064" joined="2009-05-05"/>
+    <cosponsor id="412329" joined="2009-06-18"/>
+    <cosponsor id="300060" joined="2009-05-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-04-21">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S4515-4516" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-05-05">
+      <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Foreign Relations"/>
+    </calendar>
+    <action datetime="2009-05-07">
+      <text>Committee on Foreign Relations. Reported by Senator Kerry without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2009-05-07" calendar="Senate Legislative" under="General Orders" number="58">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 58.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Cultural exchanges and relations"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="International exchange and broadcasting"/>
+    <term name="International scientific cooperation"/>
+    <term name="Medical research"/>
+    <term name="Research and development"/>
+  </subjects>
+  <amendments/>
+  <summary>5/7/2009--Reported to Senate without amendment.
+Authorizes the Secretary of State, under the authority, direction, and control of the President and in accordance with the Mutual Educational and Cultural Exchange Act of 1961, to increase the number of educational and cultural exchange activities involving persons from scientific, medicine, research, and academic sectors by: (1) establishing new Mutual Educational and Cultural Exchange Programs; and (2) expanding the coverage of existing Programs. Directs the Secretary to appoint United States Science Envoys to represent the U.S. commitment to collaborate with other countries to promote the advancement of science and technology throughout the world based on issues of common interest and expertise.</summary>
+</bill>

@@ -1,0 +1,54 @@
+<bill session="111" type="h" number="2623" updated="2013-07-19T23:35:29-04:00">
+  <state datetime="2009-07-29T11:28:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-07-29T11:28:00-04:00"/>
+  </status>
+  <introduced datetime="2009-05-21"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Federal securities laws to clarify and expand the definition of certain persons under those laws.</title>
+  </titles>
+  <sponsor id="412190"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-05-21">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2009-07-29T11:23:00-04:00">
+      <text>Mr. Frank (MA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-07-29T11:23:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8975-8976" label="consideration"/>
+    </action>
+    <action datetime="2009-07-29T11:23:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2623.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-07-29T11:28:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H8975-8976" label="text"/>
+    </vote>
+    <action datetime="2009-07-29T11:28:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-07-30">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Corporate finance and management"/>
+    <term name="Financial services and investments"/>
+    <term name="Government studies and investigations"/>
+    <term name="Securities and Exchange Commission (SEC)"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/2009--Passed House without amendment.
+Amends the Securities Exchange Act of 1934 to authorize the Securities and Exchange Commission (SEC) to censure, place limitations on the activities or functions of, or investigate any person who at the time of specified alleged misconduct was: (1) a member or employee of the Municipal Securities Rulemaking Board; (2) a person associated with or seeking to become associated with a government securities broker or dealer; (3) a person associated with a member of a national securities exchange or registered securities association; (4) a participant of a registered clearing agency; (5) an officer or director of a self-regulatory organization; and (6) an officer or director of an investment company.</summary>
+</bill>

@@ -1,0 +1,54 @@
+<bill session="112" type="h" number="439" updated="2013-07-20T01:14:07-04:00">
+  <state datetime="2011-01-25">REFERRED</state>
+  <status>
+    <introduced datetime="2011-01-25"/>
+  </status>
+  <introduced datetime="2011-01-25"/>
+  <titles>
+    <title as="introduced" type="short">State Leadership in Health Care Act</title>
+    <title as="introduced" type="official">To provide for an earlier start for State health care coverage innovation waivers under the Patient Protection and Affordable Care Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="412239"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2011-02-09"/>
+    <cosponsor id="412215" joined="2011-03-29"/>
+    <cosponsor id="412281" joined="2011-04-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-01-25">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-01-25">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2011-01-25">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2011-01-27">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Ways and Means"/>
+    </action>
+    <action datetime="2011-02-09">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="73"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>1/25/2011--Introduced.
+State Leadership in Health Care Act - Amends the Patient Protection and Affordable Care Act (PPACA) to allow states to apply for a waiver of specified requirements under PPACA with respect to health insurance coverage within that state due to implementation of a state plan that provides comparable coverage for plan years beginning in 2014 (currently, 2017). Permits the Secretary of Health and Human Services (HHS) or the Secretary of the Treasury to deny waivers only if: (1) the state plan does not meet requirements for granting a waiver, (2) the Secretary of HHS or Treasury notifies the state in writing of the requirements that the state plan did not meet and provides the state with information used in making such a determination, and (3) the state is given an opportunity to appeal. Requires the Secretary of HHS or Treasury to reconsider the determination in the event of an appeal and issue a written decision within 60 days.</summary>
+</bill>

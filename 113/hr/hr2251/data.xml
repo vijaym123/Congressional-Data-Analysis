@@ -1,0 +1,95 @@
+<bill session="113" type="h" number="2251" updated="2013-11-02T06:37:58-04:00">
+  <state datetime="2013-09-28T21:34:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-09-28T21:34:00-04:00"/>
+  </status>
+  <introduced datetime="2013-06-04"/>
+  <titles>
+    <title type="official" as="introduced">To designate the United States courthouse located at 118 South Mill Street, in Fergus Falls, Minnesota, as the "Edward J. Devitt United States Courthouse".</title>
+    <title type="official" as="amended by house">To designate the United States courthouse and Federal building located at 118 South Mill Street, in Fergus Falls, Minnesota, as the "Edward J. Devitt United States Courthouse and Federal Building.".</title>
+  </titles>
+  <sponsor id="400316"/>
+  <cosponsors>
+    <cosponsor id="412216" joined="2013-06-04"/>
+    <cosponsor id="412215" joined="2013-06-04"/>
+    <cosponsor id="400224" joined="2013-06-04"/>
+    <cosponsor id="400259" joined="2013-06-04"/>
+    <cosponsor id="408211" joined="2013-06-04"/>
+    <cosponsor id="412303" joined="2013-06-04"/>
+    <cosponsor id="412214" joined="2013-06-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-04" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-06-05">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2013-07-18">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2013-07-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar datetime="2013-07-18" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2013-09-27T09:19:00-04:00">
+      <text>Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 113-234.</text>
+    </action>
+    <calendar datetime="2013-09-27T09:19:00-04:00" calendar="House" number="59">
+      <text>Placed on the House Calendar, Calendar No. 59.</text>
+    </calendar>
+    <action datetime="2013-09-27T09:21:00-04:00">
+      <text>Mr. Barletta moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2013-09-27T09:21:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5890-5892" label="consideration"/>
+    </action>
+    <action datetime="2013-09-27T09:21:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2251.</text>
+    </action>
+    <action datetime="2013-09-27T09:29:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-09-28T21:27:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5985" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="496" datetime="2013-09-28T21:34:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 4 (Roll no. 496).</text>
+      <reference ref="CR 9/27/2013 H5890-5891" label="text"/>
+    </vote>
+    <action datetime="2013-09-28T21:34:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-09-30">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="711"/>
+    <bill relation="unknown" session="113" type="s" number="711"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="House of Representatives"/>
+    <term name="Members of Congress"/>
+    <term name="Minnesota"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/2013--Passed House amended.
+(This measure has not been amended since it was reported to the House on September 27, 2013. The summary of that version is repeated here.) Designates the U.S. courthouse and federal building located at 118 South Mill Street, Fergus Falls, Minnesota, as the "Edward J. Devitt United States Courthouse and Federal Building."</summary>
+</bill>

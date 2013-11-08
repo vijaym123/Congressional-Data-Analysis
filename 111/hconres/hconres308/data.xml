@@ -1,0 +1,41 @@
+<bill session="111" type="hc" number="308" updated="2013-07-20T00:15:40-04:00">
+  <state datetime="2010-07-29">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2010-07-29"/>
+  </status>
+  <introduced datetime="2010-07-29"/>
+  <titles>
+    <title as="introduced" type="official">Providing for a conditional adjournment of the House of Representatives.</title>
+  </titles>
+  <sponsor id="400170"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2010-07-29T12:52:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H6306-6307" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-07-29T13:23:00-04:00" how="roll" result="pass" roll="483" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 231 - 189 (Roll no. 483).</text>
+      <reference ref="CR H6306" label="text"/>
+    </vote>
+    <action datetime="2010-07-29T13:23:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2010-07-29" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6539" label="consideration"/>
+    </vote>
+    <action datetime="2010-07-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional operations and organization"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/2010--Passed Senate without amendment.
+Declares that when the House adjourns on any legislative day from Thursday, July 29, 2010, through Tuesday, August 3, 2010, it stand adjourned until 2 p.m. on Tuesday, September 14, 2010.</summary>
+</bill>

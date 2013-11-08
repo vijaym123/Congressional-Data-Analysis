@@ -1,0 +1,37 @@
+<bill session="111" type="hr" number="1100" updated="2013-07-19T23:05:36-04:00">
+  <state datetime="2010-02-23">REFERRED</state>
+  <status>
+    <introduced datetime="2010-02-23"/>
+  </status>
+  <introduced datetime="2010-02-23"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of the House of Representatives that the National Institutes of Health and the Centers for Disease Control and Prevention should expand and intensify programs of research and related activities regarding the population of older individuals living with or at risk for HIV.</title>
+  </titles>
+  <sponsor id="412258"/>
+  <cosponsors>
+    <cosponsor id="400170" joined="2010-03-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-02-23">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2010-02-24">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Aging"/>
+    <term name="HIV/AIDS"/>
+    <term name="Medical research"/>
+  </subjects>
+  <amendments/>
+  <summary>2/23/2010--Introduced.
+Urges the National Institutes of Health (NIH) and the Centers for Disease Control and Prevention (CDC) to expand and intensify programs of research and related activities regarding the population of older individuals living with or at risk for HIV.</summary>
+</bill>

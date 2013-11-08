@@ -1,0 +1,63 @@
+<bill session="113" type="hc" number="14" updated="2013-11-02T06:48:57-04:00">
+  <state datetime="2013-03-11">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2013-03-11"/>
+  </status>
+  <introduced datetime="2013-02-13"/>
+  <titles>
+    <title type="official" as="introduced">Permitting the use of the rotunda of the Capitol for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.</title>
+  </titles>
+  <sponsor id="412451"/>
+  <cosponsors>
+    <cosponsor id="400195" joined="2013-02-13"/>
+    <cosponsor id="412466" joined="2013-02-13"/>
+    <cosponsor id="400425" joined="2013-02-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-13" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2013-03-06T11:59:00-05:00">
+      <text>Mr. Harper asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2013-03-06T11:59:00-05:00">
+      <text>Committee on House Administration discharged.</text>
+    </action>
+    <action datetime="2013-03-06T11:59:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H997" label="consideration"/>
+    </action>
+    <vote how="without objection" type="vote" datetime="2013-03-06T12:00:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H997" label="text"/>
+    </vote>
+    <action datetime="2013-03-06T12:00:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-03-07">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2013-03-11" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S1668" label="consideration"/>
+    </vote>
+    <action datetime="2013-03-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Crime victims"/>
+    <term name="Religion"/>
+    <term name="U.S. Capitol"/>
+    <term name="War crimes, genocide, crimes against humanity"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/2013--Passed Senate without amendment.
+Authorizes the use of the Capitol rotunda on April 11, 2013, for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.</summary>
+</bill>

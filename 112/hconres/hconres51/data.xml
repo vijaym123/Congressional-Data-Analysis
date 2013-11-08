@@ -1,0 +1,82 @@
+<bill session="112" type="hc" number="51" updated="2013-07-20T02:09:26-04:00">
+  <state datetime="2011-06-03T13:46:00-04:00">FAIL:ORIGINATING:HOUSE</state>
+  <status>
+    <unknown datetime="2011-06-03T13:46:00-04:00"/>
+  </status>
+  <introduced datetime="2011-05-23"/>
+  <titles>
+    <title as="introduced" type="official">Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove the United States Armed Forces from Libya.</title>
+  </titles>
+  <sponsor id="400227"/>
+  <cosponsors>
+    <cosponsor id="412208" joined="2011-06-03"/>
+    <cosponsor id="400055" joined="2011-05-23"/>
+    <cosponsor id="400063" joined="2011-05-23"/>
+    <cosponsor id="400080" joined="2011-06-02"/>
+    <cosponsor id="400207" joined="2011-06-01"/>
+    <cosponsor id="400209" joined="2011-06-02"/>
+    <cosponsor id="400237" joined="2011-05-31"/>
+    <cosponsor id="412295" joined="2011-06-02"/>
+    <cosponsor id="400311" joined="2011-06-02"/>
+    <cosponsor id="400387" joined="2011-06-02"/>
+    <cosponsor id="400436" joined="2011-06-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-05-23">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2011-06-02T20:11:00-04:00">
+      <text>Rules Committee Resolution H. Res. 294 Reported to House. Rule provides for consideration of H. Res. 292 and H. Con. Res. 51. Previous question shall be considered as ordered without intervening motions. The resolution provides 1 hour of debate for H. Res. 292. It also provides for 1 hour of debate for H. Con. Res. 51. It waives all points of order against consideration on both H. Res. 292 and H. Con. Res. 51. And, both shall be considered as read.</text>
+    </action>
+    <action datetime="2011-06-03T10:42:00-04:00">
+      <text>Rule H. Res. 294 passed House.</text>
+    </action>
+    <action datetime="2011-06-03T11:59:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 294.</text>
+      <reference ref="CR H4010-4020" label="consideration"/>
+      <reference ref="CR H4010" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2011-06-03T11:59:00-04:00">
+      <text>Rule provides for consideration of H. Res. 292 and H. Con. Res. 51. Previous question shall be considered as ordered without intervening motions. The resolution provides 1 hour of debate for H. Res. 292. It also provides for 1 hour for H. Con. Res. 51. It waives all points of order against consideration on both H. Res. 292 and H. Con. Res. 51. And, both shall be considered as read.</text>
+    </action>
+    <action datetime="2011-06-03T12:00:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H. Con. Res. 51.</text>
+    </action>
+    <action datetime="2011-06-03T13:15:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H4020" label="consideration"/>
+    </action>
+    <action datetime="2011-06-03T13:15:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.Con.Res. 51, the Chair put the question on agreeing to the resolution and by voice vote, announced the noes had prevailed. Mr. Kucinich demanded the yeas and nays and the Chair postponed further proceedings on the question of agreeing to the resolution until a time to be announced.</text>
+    </action>
+    <action datetime="2011-06-03T13:39:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4021" label="consideration"/>
+    </action>
+    <vote state="FAIL:ORIGINATING:HOUSE" datetime="2011-06-03T13:46:00-04:00" how="roll" result="fail" roll="412" type="vote" where="h">
+      <text>On agreeing to the resolution Failed by the Yeas and Nays: 148 - 265 (Roll no. 412).</text>
+    </vote>
+    <action datetime="2011-06-03T13:46:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="hc" number="57"/>
+    <bill relation="rule" session="112" type="hr" number="294"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Africa"/>
+    <term name="Congressional oversight"/>
+    <term name="Libya"/>
+    <term name="Middle East"/>
+    <term name="Military operations and strategy"/>
+    <term name="War and emergency powers"/>
+  </subjects>
+  <amendments/>
+  <summary>5/23/2011--Introduced.
+Directs the President, pursuant to the War Powers Resolution, to remove U.S. Armed Forces from Libya within 15 days after the adoption of this resolution.</summary>
+</bill>

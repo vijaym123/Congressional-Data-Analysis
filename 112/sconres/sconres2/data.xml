@@ -1,0 +1,60 @@
+<bill session="112" type="sc" number="2" updated="2013-07-20T02:16:00-04:00">
+  <state datetime="2011-01-18T14:15:00-05:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2011-01-18T14:15:00-05:00"/>
+  </status>
+  <introduced datetime="2011-01-05"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution authorizing the use of the rotunda of the Capitol for an event marking the 50th anniversary of the inaugural address of President John F. Kennedy.</title>
+  </titles>
+  <sponsor id="300060"/>
+  <cosponsors/>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2011-01-05" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S68" label="consideration"/>
+      <reference ref="CR S68" label="text as passed Senate"/>
+      <reference ref="CR S67-68" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2011-01-06T12:57:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2011-01-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2011-01-06T13:16:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2011-01-18T14:10:00-05:00">
+      <text>Mr. Harper moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2011-01-18T14:10:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H206-207" label="consideration"/>
+    </action>
+    <action datetime="2011-01-18T14:10:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 2.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2011-01-18T14:15:00-05:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H206" label="text"/>
+    </vote>
+    <action datetime="2011-01-18T14:15:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="identical" session="112" type="hc" number="6"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="U.S. Capitol"/>
+    <term name="U.S. history"/>
+  </subjects>
+  <amendments/>
+  <summary>1/18/2011--Passed House without amendment.
+Authorizes use of the rotunda of the Capitol on January 20, 2011, for a ceremony in honor of the 50th anniversary of the inaugural address of President John F. Kennedy.</summary>
+</bill>

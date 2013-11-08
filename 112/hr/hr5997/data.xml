@@ -1,0 +1,71 @@
+<bill session="112" type="h" number="5997" updated="2013-07-20T02:01:47-04:00">
+  <state datetime="2012-11-27T18:57:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-11-27T18:57:00-05:00"/>
+  </status>
+  <introduced datetime="2012-06-21"/>
+  <titles>
+    <title as="introduced" type="short">Medical Preparedness Allowable Use Act</title>
+    <title as="passed house" type="short">Medical Preparedness Allowable Use Act</title>
+    <title as="introduced" type="official">To amend the Homeland Security Act of 2002 to codify authority under existing grant guidance authorizing use of Urban Area Security Initiative and State Homeland Security Grant Program funding for enhancing medical preparedness, medical surge capacity, and mass prophylaxis capabilities.</title>
+  </titles>
+  <sponsor id="412250"/>
+  <cosponsors>
+    <cosponsor id="412440" joined="2012-06-21"/>
+    <cosponsor id="400219" joined="2012-06-28"/>
+    <cosponsor id="400341" joined="2012-06-21"/>
+    <cosponsor id="412499" joined="2012-06-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-06-21">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2012-11-27T17:07:00-05:00">
+      <text>Mr. Bilirakis moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-11-27T17:07:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6439-6440" label="consideration"/>
+    </action>
+    <action datetime="2012-11-27T17:07:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5997.</text>
+    </action>
+    <action datetime="2012-11-27T17:15:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2012-11-27T18:31:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6442-6443" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-11-27T18:57:00-05:00" how="roll" result="pass" roll="609" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 1 (Roll no. 609).</text>
+      <reference ref="CR H6439" label="text"/>
+    </vote>
+    <action datetime="2012-11-27T18:57:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-11-28">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Drug and radiation therapy"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="First responders and emergency personnel"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Infectious and parasitic diseases"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>11/27/2012--Passed House amended.
+Medical Preparedness Allowable Use Act - Amends the Homeland Security Act of 2002 to authorize the use of Urban Area Security Initiative and State Homeland Security Grant Program funding for enhancing medical preparedness, medical surge capacity, and mass prophylaxis capabilities, including the development and maintenance of an initial pharmaceutical stockpile, including medical kits, and diagnostics sufficient to protect first responders, their families, and immediate victims from a chemical or biological event.</summary>
+</bill>

@@ -1,0 +1,75 @@
+<bill session="112" type="s" number="1239" updated="2013-07-20T02:27:10-04:00">
+  <state datetime="2011-09-09">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2011-09-09"/>
+  </status>
+  <introduced datetime="2011-06-21"/>
+  <titles>
+    <title as="introduced" type="short">Fallen Heroes of 9/11 Act</title>
+    <title as="passed senate" type="short">Fallen Heroes of 9/11 Act</title>
+    <title as="introduced" type="official">A bill to provide for a medal of appropriate design to be awarded by the President to the memorials established at the 3 sites honoring the men and women who perished as a result of the terrorist attacks on the United States on September 11, 2001.</title>
+  </titles>
+  <sponsor id="412246"/>
+  <cosponsors>
+    <cosponsor id="412326" joined="2011-09-08"/>
+    <cosponsor id="412390" joined="2011-09-09"/>
+    <cosponsor id="412223" joined="2011-09-08"/>
+    <cosponsor id="412324" joined="2011-09-06"/>
+    <cosponsor id="300051" joined="2011-09-06"/>
+    <cosponsor id="300056" joined="2011-09-12"/>
+    <cosponsor id="400194" joined="2011-09-06"/>
+    <cosponsor id="412242" joined="2011-09-06"/>
+    <cosponsor id="300065" joined="2011-09-06"/>
+    <cosponsor id="300067" joined="2011-09-08"/>
+    <cosponsor id="400272" joined="2011-09-08"/>
+    <cosponsor id="300087" joined="2011-09-06"/>
+    <cosponsor id="400408" joined="2011-06-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-06-21">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+    <action datetime="2011-09-09">
+      <text>Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.</text>
+      <reference ref="CR S5479-5480" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2011-09-09" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S5480" label="text"/>
+    </vote>
+    <action datetime="2011-09-09">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2011-09-12T12:01:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2011-09-12">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Discharged"/>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="h" number="2864"/>
+    <bill relation="unknown" session="112" type="h" number="3421"/>
+    <bill relation="unknown" session="112" type="h" number="3421"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Congressional tributes"/>
+    <term name="Crime victims"/>
+    <term name="Department of Defense"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Monuments and memorials"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+    <term name="New York City"/>
+    <term name="Pennsylvania"/>
+    <term name="Terrorism"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>9/9/2011--Passed Senate without amendment.
+Fallen Heroes of 9/11 Act - Authorizes the President to award a Fallen Heroes of 9/11 Congressional Medal to: (1) the Flight 93 National Memorial in Pennsylvania, (2) the National September 11 Memorial and Museum in New York, and (3) the Pentagon Memorial. Instructs the Secretary of the Treasury to strike three designs of such gold medal to honor, respectively: (1) those who lost their lives in the the attack at the World Trade Center, (2) the passengers and crew aboard United Airlines Flight 93 that was brought down in rural Pennsylvania, and (3) those who lost their lives at the Pentagon. Authorizes the Secretary to strike and sell bronze duplicates of such medals and to distribute any funds from such sales exceeding costs equally between the three memorial sites.</summary>
+</bill>

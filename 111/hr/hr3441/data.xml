@@ -1,0 +1,65 @@
+<bill session="111" type="h" number="3441" updated="2013-07-19T23:43:11-04:00">
+  <state datetime="2009-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2009-07-31"/>
+  </status>
+  <introduced datetime="2009-07-31"/>
+  <titles>
+    <title as="introduced" type="official">To provide for automatic enrollment of veterans returning from combat zones into the VA medical system, and for other purposes.</title>
+  </titles>
+  <sponsor id="412224"/>
+  <cosponsors>
+    <cosponsor id="400030" joined="2010-04-27"/>
+    <cosponsor id="412266" joined="2009-07-31"/>
+    <cosponsor id="412234" joined="2010-04-26"/>
+    <cosponsor id="412236" joined="2010-06-29"/>
+    <cosponsor id="400080" joined="2010-09-16"/>
+    <cosponsor id="400090" joined="2010-06-23"/>
+    <cosponsor id="400133" joined="2009-07-31"/>
+    <cosponsor id="400178" joined="2010-04-27"/>
+    <cosponsor id="412240" joined="2009-07-31"/>
+    <cosponsor id="412285" joined="2010-05-05"/>
+    <cosponsor id="400630" joined="2010-05-27"/>
+    <cosponsor id="412297" joined="2009-07-31"/>
+    <cosponsor id="412299" joined="2009-07-31"/>
+    <cosponsor id="400271" joined="2010-04-26"/>
+    <cosponsor id="400274" joined="2010-05-12"/>
+    <cosponsor id="412300" joined="2009-07-31"/>
+    <cosponsor id="400282" joined="2009-10-06"/>
+    <cosponsor id="412233" joined="2009-07-31"/>
+    <cosponsor id="400295" joined="2010-05-19"/>
+    <cosponsor id="412301" joined="2010-06-14"/>
+    <cosponsor id="412383" joined="2009-12-08"/>
+    <cosponsor id="412192" joined="2010-05-20"/>
+    <cosponsor id="412186" joined="2009-07-31"/>
+    <cosponsor id="412228" joined="2010-12-02"/>
+    <cosponsor id="412316" joined="2010-08-10"/>
+    <cosponsor id="412214" joined="2010-05-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-31">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-09-11">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-10-01">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military operations and strategy"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>7/31/2009--Introduced.
+Directs the Secretary of Veterans Affairs to automatically enroll in the Department of Veterans Affairs (VA) medical system certain veterans who served on active duty in combat operations during a period of war after the Persian Gulf War or in combat against a hostile force during a period of hostilities after November 11, 1998. Gives such veterans the option of declining enrollment.</summary>
+</bill>

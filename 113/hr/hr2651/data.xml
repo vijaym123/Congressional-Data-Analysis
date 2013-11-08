@@ -1,0 +1,50 @@
+<bill session="113" type="h" number="2651" updated="2013-11-02T06:41:19-04:00">
+  <state datetime="2013-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-10"/>
+  </status>
+  <introduced datetime="2013-07-10"/>
+  <titles>
+    <title type="short" as="introduced">Critical Care Assessment and Improvement Act of 2013</title>
+    <title type="official" as="introduced">To improve the understanding and coordination of critical care health services.</title>
+  </titles>
+  <sponsor id="412303"/>
+  <cosponsors>
+    <cosponsor id="400255" joined="2013-07-10"/>
+    <cosponsor id="400349" joined="2013-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-10" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-07-10">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-07-10">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-07-12">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care quality"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Medical research"/>
+    <term name="Public-private cooperation"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,122 @@
+<bill session="113" type="s" number="459" updated="2013-11-02T06:56:03-04:00">
+  <state datetime="2013-09-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2013-09-18"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title type="short" as="introduced">Minuteman Missile National Historic Site Boundary Modification Act</title>
+    <title type="short" as="reported to house">Minuteman Missile National Historic Site Boundary Modification Act</title>
+    <title type="short" as="passed house">Minuteman Missile National Historic Site Boundary Modification Act</title>
+    <title type="short" as="reported to senate">Minuteman Missile National Historic Site Boundary Modification Act</title>
+    <title type="short" as="passed senate">Minuteman Missile National Historic Site Boundary Modification Act</title>
+    <title type="short" as="enacted">Minuteman Missile National Historic Site Boundary Modification Act</title>
+    <title type="official" as="introduced">A bill to modify the boundary of the Minuteman Missile National Historic Site in the State of South Dakota, and for other purposes.</title>
+  </titles>
+  <sponsor id="300058"/>
+  <cosponsors>
+    <cosponsor id="400546" joined="2013-03-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <calendar datetime="2013-03-14" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2013-04-22">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-32.</text>
+    </action>
+    <calendar datetime="2013-04-22" calendar="Senate Legislative" under="General Orders" number="63">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 63.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2013-06-19" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4717-4722" label="consideration"/>
+      <reference ref="CR S4722" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2013-06-20T14:00:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2013-06-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2013-06-20">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-06-21">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-07-19">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-07-24">
+      <text>Subcommittee on Public Lands and Environmental Regulation Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-07-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar datetime="2013-07-24">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2013-09-10T13:10:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 113-193.</text>
+    </action>
+    <calendar datetime="2013-09-10T13:10:00-04:00" calendar="Union" number="140">
+      <text>Placed on the Union Calendar, Calendar No. 140.</text>
+    </calendar>
+    <action datetime="2013-09-10T13:20:00-04:00">
+      <text>Mr. Hastings (WA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-09-10T13:20:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5454-5455" label="consideration"/>
+    </action>
+    <action datetime="2013-09-10T13:20:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 459.</text>
+    </action>
+    <action datetime="2013-09-10T13:22:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-09-10T17:08:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5459-5460" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote2" roll="455" datetime="2013-09-10T17:16:00-04:00" where="h" result="pass" suspension="1" state="PASSED:BILL">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 5 (Roll no. 455).</text>
+      <reference ref="CR H5454" label="text"/>
+    </vote>
+    <topresident datetime="2013-09-12">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2013-09-18">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-36" type="public" datetime="2013-09-18" state="ENACTED:SIGNED">
+      <text>Became Public Law No: 113-36.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Land transfers"/>
+    <term name="Military facilities and property"/>
+    <term name="South Dakota"/>
+  </subjects>
+  <amendments/>
+  <summary>9/18/2013--Public Law.
+Minuteman Missile National Historic Site Boundary Modification Act - Amends the Minuteman Missile National Historic Site Establishment Act of 1999 to modify the boundary of the Minuteman Missile National Historic Site in South Dakota by including in the Historic Site a visitor facility and administrative site located on a specified parcel of land that consists of: (1) approximately 25 acres of land within the Buffalo Gap National Grassland in Jackson County, South Dakota, and (2) approximately 3.65 acres of land at the Delta 1 Launch Control Facility for the construction and use of a parking lot and for other administrative uses. Transfers administrative jurisdiction over such land from the Secretary of Agriculture (USDA) to the Secretary of the Interior. Modifies the boundary of the Buffalo Gap National Grassland to exclude the transferred land.</summary>
+</bill>

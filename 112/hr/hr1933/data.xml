@@ -1,0 +1,79 @@
+<bill session="112" type="h" number="1933" updated="2013-07-20T01:27:00-04:00">
+  <state datetime="2011-08-01T14:53:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2011-08-01T14:53:00-04:00"/>
+  </status>
+  <introduced datetime="2011-05-23"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Immigration and Nationality Act to modify the requirements for admission of nonimmigrant nurses in health professional shortage areas.</title>
+  </titles>
+  <sponsor id="400381"/>
+  <cosponsors>
+    <cosponsor id="400657" joined="2011-05-23"/>
+    <cosponsor id="400179" joined="2011-07-06"/>
+    <cosponsor id="412202" joined="2011-05-23"/>
+    <cosponsor id="400350" joined="2011-06-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-05-23">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2011-06-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-06-23">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2011-07-19T15:10:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 112-153.</text>
+    </action>
+    <calendar datetime="2011-07-19T15:12:00-04:00" calendar="Union" number="99">
+      <text>Placed on the Union Calendar, Calendar No. 99.</text>
+    </calendar>
+    <action datetime="2011-08-01T12:33:00-04:00">
+      <text>Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2011-08-01T12:33:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5821-5822" label="consideration"/>
+    </action>
+    <action datetime="2011-08-01T12:33:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1933.</text>
+    </action>
+    <action datetime="2011-08-01T12:38:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2011-08-01T14:45:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5830-5831" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-08-01T14:53:00-04:00" how="roll" result="pass" roll="685" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 17 (Roll no. 685).</text>
+      <reference ref="CR H5821" label="text"/>
+    </vote>
+    <action datetime="2011-08-01T14:53:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-08-01">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Nursing"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/2011--Passed House amended.
+Amends the Immigration and Nationality Act with respect to the admission of nonimmigrant nurses (H-1C visa) in health professional shortage areas to: (1) permit a one-time three-year extension of admission, and (2) reduce the maximum number of such visas per fiscal year to 300. Authorizes such nonimmigrant alien to accept new employment as a registered nurse at any facility which qualifies for the H-1C program upon a prospective employer's filing of a new petition. Continues employment authorization until adjudication of a new petition. Terminates such authorization if a petition is denied. Requires such nonimmigrant alien: (1) to have been lawfully admitted to the United States; (2) to have not been employed without authorization since admission; and (3) to have had a prospective employer file a petition for new employment before the date of expiration of the authorized period of stay, except that if the alien is terminated or laid off by his or her employer such new employment petition shall be filed during the ensuing 45-day period.</summary>
+</bill>

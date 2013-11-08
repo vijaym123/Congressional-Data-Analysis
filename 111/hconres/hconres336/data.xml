@@ -1,0 +1,45 @@
+<bill session="111" type="hc" number="336" updated="2013-07-20T00:15:54-04:00">
+  <state datetime="2010-12-22">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2010-12-22"/>
+  </status>
+  <introduced datetime="2010-12-17"/>
+  <titles>
+    <title as="introduced" type="official">Providing for the sine die adjournment of the second session of the One Hundred Eleventh Congress.</title>
+  </titles>
+  <sponsor id="412308"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2010-12-17T15:31:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H8765" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-12-17T16:04:00-05:00" how="roll" result="pass" roll="652" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 196 - 153 (Roll no. 652).</text>
+      <reference ref="CR H8765" label="text"/>
+    </vote>
+    <action datetime="2010-12-17T16:04:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-12-17">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2010-12-22" how="by Voice Vote" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Voice Vote.</text>
+      <reference ref="CR S10999" label="consideration"/>
+      <reference ref="CR S10999" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2010-12-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional operations and organization"/>
+  </subjects>
+  <amendments/>
+  <summary>12/22/2010--Passed Senate without amendment.
+Declares that when the House adjourns on any legislative day from Friday, December 17, 2010, through Friday, December 24, 2010, it stand adjourned sine die. Declares that when the Senate adjourns on any day from Sunday, December 19, 2010, through 11:59 a.m. on Monday, January 3, 2011, it stand adjourned sine die.</summary>
+</bill>

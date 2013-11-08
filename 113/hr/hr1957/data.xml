@@ -1,0 +1,50 @@
+<bill session="113" type="h" number="1957" updated="2013-11-02T06:35:30-04:00">
+  <state datetime="2013-05-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-13"/>
+  </status>
+  <introduced datetime="2013-05-13"/>
+  <titles>
+    <title type="short" as="introduced">Volunteer Veterans for Cemetery Service Act</title>
+    <title type="official" as="introduced">To amend titles 10 and 38, United States Code, to authorize the Secretary of Defense and the Secretary of Veterans Affairs to accept voluntary services from veterans and veterans service organizations at national cemeteries.</title>
+  </titles>
+  <sponsor id="412569"/>
+  <cosponsors>
+    <cosponsor id="412509" joined="2013-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-13" state="REFERRED">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-05-13">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2013-05-13">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2013-05-24">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2013-06-20">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/2013--Introduced.
+Volunteer Veterans for Cemetery Service Act - Authorizes the Secretary of Veterans Affairs (VA) or the Secretary of the military department concerned to accept voluntary services performed by a veteran or veterans organization at a national cemetery, including the veteran's sharing with visitors of the story of the veteran's military service.</summary>
+</bill>

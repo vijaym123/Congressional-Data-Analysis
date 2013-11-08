@@ -1,0 +1,55 @@
+<bill session="111" type="hr" number="822" updated="2013-07-19T23:03:10-04:00">
+  <state datetime="2009-10-13T15:35:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2009-10-13T15:35:00-04:00"/>
+  </status>
+  <introduced datetime="2009-10-13"/>
+  <titles>
+    <title as="introduced" type="official">Expressing support for students to learn about Christopher Columbus.</title>
+  </titles>
+  <sponsor id="412317"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-10-13">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2009-10-13T15:30:00-04:00">
+      <text>Mr. Sablan moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2009-10-13T15:30:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11191" label="consideration"/>
+    </action>
+    <action datetime="2009-10-13T15:30:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 822.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2009-10-13T15:35:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H11191" label="text"/>
+    </vote>
+    <action datetime="2009-10-13T15:35:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-11-16">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral"/>
+    <committee activity="Referral" code="HSED14" subcommittee="Early Childhood, Elementary, and Secondary Education" name="House Education and Labor"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hr" number="815"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social sciences and history"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Higher education"/>
+    <term name="U.S. history"/>
+    <term name="World history"/>
+  </subjects>
+  <amendments/>
+  <summary>10/13/2009--Passed House without amendment.
+Supports the recognition of Christopher Columbus and his role in the discovery and history of the United States. Recognizes that it is important for young people to learn about Christopher Columbus and the discovery, heritage, and history of the nation. Encourages all people to take advantage of educational opportunities in high schools and institutions of higher education to learn about Christopher Columbus' discovery of the Americas and U.S. history.</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="4041" updated="2013-07-19T23:48:38-04:00">
+  <state datetime="2009-11-06">REFERRED</state>
+  <status>
+    <introduced datetime="2009-11-06"/>
+  </status>
+  <introduced datetime="2009-11-06"/>
+  <titles>
+    <title as="introduced" type="official">To authorize certain improvements in the Federal Recovery Coordinator Program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400628"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-11-06">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-11-13">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-09-29">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medical education"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>11/6/2009--Introduced.
+Directs the Secretary of Veterans Affairs (VA) to provide collaborative recovery coordinator training at a qualified nursing or medical school. Authorizes the qualified nursing or medical school to train 45 recovery coordinators.</summary>
+</bill>

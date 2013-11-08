@@ -1,0 +1,63 @@
+<bill session="111" type="h" number="3485" updated="2013-07-19T23:43:34-04:00">
+  <state datetime="2009-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2009-07-31"/>
+  </status>
+  <introduced datetime="2009-07-31"/>
+  <titles>
+    <title as="introduced" type="short">Veterans Pensions Protection Act</title>
+    <title as="introduced" type="official">To amend title 38, United States Code, to provide that monetary benefits paid to veterans by States and municipalities shall be excluded from consideration as income for purposes of pension benefits paid by the Secretary of Veterans Affairs.</title>
+  </titles>
+  <sponsor id="400641"/>
+  <cosponsors>
+    <cosponsor id="400063" joined="2009-10-29"/>
+    <cosponsor id="400087" joined="2009-07-31"/>
+    <cosponsor id="400140" joined="2009-11-02"/>
+    <cosponsor id="400145" joined="2009-10-29"/>
+    <cosponsor id="412222" joined="2009-09-22"/>
+    <cosponsor id="400178" joined="2009-09-22"/>
+    <cosponsor id="400184" joined="2009-10-20"/>
+    <cosponsor id="412290" joined="2009-11-18"/>
+    <cosponsor id="412291" joined="2010-02-02"/>
+    <cosponsor id="400253" joined="2009-11-04"/>
+    <cosponsor id="400263" joined="2009-10-20"/>
+    <cosponsor id="400301" joined="2009-11-04"/>
+    <cosponsor id="400647" joined="2009-11-18"/>
+    <cosponsor id="400407" joined="2009-12-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-31">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-09-11">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-10-08">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-10-21">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-10-21">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3118"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/31/2009--Introduced.
+Veterans Pensions Protection Act - Excludes monetary veterans' benefits paid to a veteran from a state or municipality from consideration as income for purposes of pension benefits paid by the Secretary of Veterans Affairs (VA).</summary>
+</bill>

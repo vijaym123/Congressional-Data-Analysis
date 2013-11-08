@@ -1,0 +1,35 @@
+<bill session="113" type="h" number="3141" updated="2013-11-02T06:45:27-04:00">
+  <state datetime="2013-09-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-19"/>
+  </status>
+  <introduced datetime="2013-09-19"/>
+  <titles>
+    <title type="short" as="introduced">Biometric Exit Improvement Act of 2013</title>
+    <title type="official" as="introduced">To require the Secretary of Homeland Security to establish a biometric exit data system, and for other purposes.</title>
+  </titles>
+  <sponsor id="400276"/>
+  <cosponsors>
+    <cosponsor id="400199" joined="2013-09-19"/>
+    <cosponsor id="400219" joined="2013-09-19"/>
+    <cosponsor id="400654" joined="2013-09-19"/>
+    <cosponsor id="400356" joined="2013-09-19"/>
+    <cosponsor id="400402" joined="2013-09-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-19" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2013-09-27">
+      <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM11" subcommittee="Border and Maritime Security" name="House Homeland Security"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,61 @@
+<bill session="111" type="h" number="1280" updated="2013-07-19T23:23:21-04:00">
+  <state datetime="2009-06-02T14:35:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-06-02T14:35:00-04:00"/>
+  </status>
+  <introduced datetime="2009-03-03"/>
+  <titles>
+    <title as="introduced" type="official">To modify a land grant patent issued by the Secretary of the Interior.</title>
+  </titles>
+  <sponsor id="400391"/>
+  <cosponsors>
+    <cosponsor id="400058" joined="2009-03-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-03">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-03-06">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-06-02T14:29:00-04:00">
+      <text>Mrs. Christensen moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-06-02T14:30:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6021-6022" label="consideration"/>
+    </action>
+    <action datetime="2009-06-02T14:30:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1280.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-06-02T14:35:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6021-6022" label="text"/>
+    </vote>
+    <action datetime="2009-06-02T14:35:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-06-03">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="1378"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Land transfers"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Michigan"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+  </subjects>
+  <amendments/>
+  <summary>6/2/2009--Passed House without amendment.
+Modifies a land grant patent issued by the Secretary of the Interior to the Great Lakes Shipwreck Historical Society, Chippewa County, Michigan.</summary>
+</bill>

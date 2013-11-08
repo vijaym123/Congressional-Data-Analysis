@@ -1,0 +1,108 @@
+<bill session="112" type="h" number="670" updated="2013-07-20T01:16:04-04:00">
+  <state datetime="2011-10-03T19:09:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2011-10-03T19:09:00-04:00"/>
+  </status>
+  <introduced datetime="2011-02-11"/>
+  <titles>
+    <title as="introduced" type="official">To convey certain submerged lands to the Commonwealth of the Northern Mariana Islands in order to give that territory the same benefits in its submerged lands as Guam, the Virgin Islands, and American Samoa have in their submerged lands.</title>
+  </titles>
+  <sponsor id="412312"/>
+  <cosponsors>
+    <cosponsor id="400009" joined="2011-02-11"/>
+    <cosponsor id="400041" joined="2011-02-11"/>
+    <cosponsor id="400645" joined="2011-02-11"/>
+    <cosponsor id="400073" joined="2011-02-11"/>
+    <cosponsor id="400128" joined="2011-02-11"/>
+    <cosponsor id="400134" joined="2011-02-11"/>
+    <cosponsor id="400653" joined="2011-02-11"/>
+    <cosponsor id="400162" joined="2011-02-11"/>
+    <cosponsor id="400163" joined="2011-02-11"/>
+    <cosponsor id="412200" joined="2011-02-11"/>
+    <cosponsor id="400185" joined="2011-02-11"/>
+    <cosponsor id="400216" joined="2011-02-11"/>
+    <cosponsor id="400237" joined="2011-02-11"/>
+    <cosponsor id="400278" joined="2011-02-11"/>
+    <cosponsor id="400290" joined="2011-02-11"/>
+    <cosponsor id="412306" joined="2011-02-11"/>
+    <cosponsor id="400331" joined="2011-02-11"/>
+    <cosponsor id="400364" joined="2011-02-11"/>
+    <cosponsor id="400440" joined="2011-02-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-02-11">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2011-02-16">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-05-12">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-06-15">
+      <text>Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-06-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-06-15">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2011-07-20T12:56:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 112-162.</text>
+    </action>
+    <calendar datetime="2011-07-20T12:56:00-04:00" calendar="Union" number="107">
+      <text>Placed on the Union Calendar, Calendar No. 107.</text>
+    </calendar>
+    <action datetime="2011-10-03T16:45:00-04:00">
+      <text>Mr. Bishop (UT) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2011-10-03T16:45:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6480-6481" label="consideration"/>
+    </action>
+    <action datetime="2011-10-03T16:45:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 670.</text>
+    </action>
+    <action datetime="2011-10-03T16:52:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2011-10-03T19:02:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6487" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-10-03T19:09:00-04:00" how="roll" result="pass" roll="744" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 397 - 0 (Roll no. 744).</text>
+      <reference ref="CR H6480" label="text"/>
+    </vote>
+    <action datetime="2011-10-03T19:09:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-10-04">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII22" subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="590"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Land transfers"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Northern Mariana Islands"/>
+    <term name="U.S. territories and protectorates"/>
+  </subjects>
+  <amendments/>
+  <summary>10/3/2011--Passed House without amendment.
+Conveys to the government of the Commonwealth of the Northern Mariana Islands submerged lands surrounding such Islands and extending three geographical miles outward from their coastlines.</summary>
+</bill>

@@ -1,0 +1,82 @@
+<bill session="111" type="sj" number="9" updated="2013-07-20T00:15:58-04:00">
+  <state datetime="2009-09-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2009-09-18"/>
+  </status>
+  <introduced datetime="2009-02-10"/>
+  <titles>
+    <title as="introduced" type="official">A joint resolution providing for the appointment of France A. Cordova as a citizen regent of the Board of Regents of the Smithsonian Institution.</title>
+  </titles>
+  <sponsor id="300065"/>
+  <cosponsors>
+    <cosponsor id="300023" joined="2009-02-10"/>
+    <cosponsor id="300034" joined="2009-02-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-10">
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+    <action datetime="2009-03-17">
+      <text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text>
+      <reference ref="CR S3320" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2009-03-17" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S3320" label="text"/>
+    </vote>
+    <action datetime="2009-03-18T10:22:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2009-03-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2009-03-18">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2009-09-09T11:58:00-04:00">
+      <text>Mr. Brady (PA) moved to suspend the rules and pass the resolution.</text>
+    </action>
+    <action datetime="2009-09-09T11:58:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9365-9366" label="consideration"/>
+    </action>
+    <action datetime="2009-09-09T11:58:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S.J. Res. 9.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2009-09-09T12:02:00-04:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H9365" label="text"/>
+    </vote>
+    <action datetime="2009-09-09T12:02:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2009-09-09">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2009-09-11">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2009-09-18">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2009-09-18" type="public" number="111-64">
+      <text>Became Public Law No: 111-64.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Discharged"/>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hj" number="25"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Federal officials"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+    <term name="Smithsonian Institution"/>
+  </subjects>
+  <amendments/>
+  <summary>9/18/2009--Public Law.
+Appoints France A. Cordova as a citizen regent of the Board of Regents of the Smithsonian Institution.</summary>
+</bill>

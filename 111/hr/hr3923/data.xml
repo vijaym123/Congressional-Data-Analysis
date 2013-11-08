@@ -1,0 +1,71 @@
+<bill session="111" type="h" number="3923" updated="2013-07-19T23:47:30-04:00">
+  <state datetime="2010-07-13T14:14:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-07-13T14:14:00-04:00"/>
+  </status>
+  <introduced datetime="2009-10-23"/>
+  <titles>
+    <title as="introduced" type="short">Sugar Loaf Fire Protection District Land Exchange Act of 2009</title>
+    <title as="reported to house" type="short">Sugar Loaf Fire Protection District Land Exchange Act</title>
+    <title as="passed house" type="short">Sugar Loaf Fire Protection District Land Exchange Act</title>
+    <title as="introduced" type="official">To provide for the exchange of certain land located in the Arapaho-Roosevelt National Forests in the State of Colorado, and for other purposes.</title>
+  </titles>
+  <sponsor id="412308"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-10-23">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-10-26">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-04-27">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-07-13T13:30:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-525.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2010-07-13T13:30:00-04:00" calendar="Union" number="298">
+      <text>Placed on the Union Calendar, Calendar No. 298.</text>
+    </calendar>
+    <action datetime="2010-07-13T14:07:00-04:00">
+      <text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-07-13T14:07:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5506-5507" label="consideration"/>
+    </action>
+    <action datetime="2010-07-13T14:07:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3923.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-07-13T14:14:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5506" label="text"/>
+    </vote>
+    <action datetime="2010-07-13T14:14:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="2010-07-14" calendar="Senate Legislative" under="General Orders" number="462">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 462.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Reporting"/>
+    <committee activity="Referral, Hearings" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="555"/>
+    <bill relation="unknown" session="111" type="s" number="555"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Colorado"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+  <summary>7/13/2010--Passed House amended.
+Sugar Loaf Fire Protection District Land Exchange Act - Requires the Secretary of Agriculture, if the Sugar Loaf Fire Protection District of Boulder, Colorado, offers to convey non-federal land that is located in unincorporated Boulder County and the offer is acceptable, to accept the offer and, on receipt of acceptable title to the non-federal land, to convey federal land in the Arapaho-Roosevelt National Forests in Colorado. Applies provisions of the Federal Land Policy and Management Act of 1976 relating to the exchange of public lands and interests within the National Forest System to the land exchange authorized under this Act, except that: (1) the Secretary may accept a cash equalization payment in excess of 25% of the value of the federal land; and (2) the District shall pay costs relating to any land surveys and appraisals of the federal and non-federal lands and enter into an agreement that allocates any other administrative costs between the Secretary and the District. Expresses the intent of Congress that such land exchange be completed within one year of enactment of this Act. Authorizes the Secretary to offer to sell the federal land to the District if the exchange is not completed by such deadline. Permits the Secretary to offer to sell such land to the District for its fair market value. Sets forth requirements for the disposition and use of the proceeds received as the result of any cash equalization payment or any sale specified above. Requires the acquired non-federal land to become part of the Arapaho-Roosevelt National Forests. Revokes any public orders withdrawing the federal land from entry, appropriation, or disposal under the public land laws to the extent necessary to permit the conveyance of the federal land to the District. Withdraws such land on the date of enactment, if it is not already withdrawn or segregated from entry and appropriation under the public land laws and the Geothermal Steam Act of 1970, until it is conveyed to the District.</summary>
+</bill>

@@ -1,0 +1,93 @@
+<bill session="112" type="h" number="1311" updated="2013-07-20T01:21:42-04:00">
+  <state datetime="2011-04-01">REFERRED</state>
+  <status>
+    <introduced datetime="2011-04-01"/>
+  </status>
+  <introduced datetime="2011-04-01"/>
+  <titles>
+    <title as="introduced" type="short">Medical Foods Equity Act of 2011</title>
+    <title as="introduced" type="official">To provide for the coverage of medically necessary food under Federal health programs and private health insurance.</title>
+  </titles>
+  <sponsor id="400013"/>
+  <cosponsors>
+    <cosponsor id="400009" joined="2012-07-19"/>
+    <cosponsor id="400033" joined="2011-06-24"/>
+    <cosponsor id="400042" joined="2011-05-24"/>
+    <cosponsor id="412407" joined="2011-07-25"/>
+    <cosponsor id="412195" joined="2011-05-11"/>
+    <cosponsor id="412215" joined="2012-08-02"/>
+    <cosponsor id="412327" joined="2011-06-01"/>
+    <cosponsor id="400163" joined="2011-06-15"/>
+    <cosponsor id="400199" joined="2011-04-01"/>
+    <cosponsor id="400204" joined="2011-04-01"/>
+    <cosponsor id="412199" joined="2011-04-01"/>
+    <cosponsor id="412435" joined="2012-01-17"/>
+    <cosponsor id="400240" joined="2011-06-15"/>
+    <cosponsor id="400246" joined="2011-05-24"/>
+    <cosponsor id="400283" joined="2011-05-26"/>
+    <cosponsor id="412308" joined="2011-04-01"/>
+    <cosponsor id="412212" joined="2011-06-15"/>
+    <cosponsor id="400623" joined="2011-04-06"/>
+    <cosponsor id="400436" joined="2011-07-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-04-01">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Armed Services, and Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-04-01">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2011-04-01">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2011-04-01">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2011-04-01">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2011-04-04">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2011-04-07">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Ways and Means"/>
+    </action>
+    <action datetime="2011-04-15">
+      <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+      <committee name="House Education and the Workforce"/>
+    </action>
+    <action datetime="2011-05-18">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Health, Employment, Labor, and Pensions" name="House Education and the Workforce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="311"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Food assistance and relief"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Medicare"/>
+    <term name="Nutrition and diet"/>
+    <term name="Poverty and welfare assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>4/1/2011--Introduced.
+Medical Foods Equity Act of 2011 - Amends titles XVIII (Medicare), XIX (Medicaid), and XXI (Children's Health Insurance Program) (CHIP, formerly known as SCHIP) of the Social Security Act to include coverage of: (1) medically necessary food and food modified to be low protein that is formulated to be consumed or administered under the supervision of a physician and the medical equipment and supplies necessary to administer such food; and (2) pharmacological doses of vitamins and amino acids used for the treatment of inborn errors of metabolism. Applies such coverage requirements to the TRICARE program (military health care). Amends the Employee Retirement Income Security Act (ERISA), the Public Health Service Act, and the Internal Revenue Code to require health plans to provide coverage of such food, vitamins, and amino acids. Requires the Secretary of Health and Human Services (HHS) to determine the minimum yearly coverage for all health insurance plans based upon the expanded coverage provided by this Act. Authorizes the Secretary to establish age-specific minimum levels of coverage. Declares that the minimum yearly coverage determined by the Secretary shall not preempt any state standards that require a higher minimum yearly coverage level for the same services and benefits.</summary>
+</bill>

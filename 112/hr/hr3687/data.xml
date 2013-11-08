@@ -1,0 +1,58 @@
+<bill session="112" type="h" number="3687" updated="2013-07-20T01:42:02-04:00">
+  <state datetime="2011-12-15">REFERRED</state>
+  <status>
+    <introduced datetime="2011-12-15"/>
+  </status>
+  <introduced datetime="2011-12-15"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to provide for coverage under the beneficiary travel program of the Department of Veterans Affairs of certain disabled veterans for travel for certain special disabilities rehabilitation, and for other purposes.</title>
+  </titles>
+  <sponsor id="400274"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2012-08-07"/>
+    <cosponsor id="412436" joined="2012-01-25"/>
+    <cosponsor id="400048" joined="2012-08-07"/>
+    <cosponsor id="400077" joined="2012-03-29"/>
+    <cosponsor id="412193" joined="2011-12-15"/>
+    <cosponsor id="400103" joined="2012-05-15"/>
+    <cosponsor id="400133" joined="2012-01-25"/>
+    <cosponsor id="400140" joined="2012-03-20"/>
+    <cosponsor id="400162" joined="2012-05-15"/>
+    <cosponsor id="400227" joined="2012-08-07"/>
+    <cosponsor id="400630" joined="2012-08-07"/>
+    <cosponsor id="400262" joined="2012-08-07"/>
+    <cosponsor id="400301" joined="2012-05-15"/>
+    <cosponsor id="400333" joined="2012-05-15"/>
+    <cosponsor id="400337" joined="2012-01-25"/>
+    <cosponsor id="400355" joined="2012-01-18"/>
+    <cosponsor id="412214" joined="2012-08-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-12-15">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2011-12-23">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="1755"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disability and paralysis"/>
+    <term name="Hearing, speech, and vision care"/>
+    <term name="Neurological disorders"/>
+    <term name="Transportation costs"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>12/15/2011--Introduced.
+Authorizes payment under the Department of Veterans Affairs (VA) beneficiary travel program of travel expenses in connection with medical examination, treatment, or care of a veteran with vision impairment, a spinal cord injury or disorder, or double or multiple amputations whose travel is in connection with inpatient care in a VA special disabilities rehabilitation program.</summary>
+</bill>

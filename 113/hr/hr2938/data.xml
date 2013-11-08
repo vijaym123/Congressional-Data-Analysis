@@ -1,0 +1,47 @@
+<bill session="113" type="h" number="2938" updated="2013-11-02T06:43:45-04:00">
+  <state datetime="2013-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-01"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="short" as="introduced">Exchange Sunset Act of 2013</title>
+    <title type="official" as="introduced">To provide that certain requirements of the Patient Protection and Affordable Care Act do not apply if the American Health Benefit Exchanges are not operating on October 1, 2013.</title>
+  </titles>
+  <sponsor id="412284"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-08-01" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="1154"/>
+    <bill relation="identical" session="113" type="s" number="1272"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Comprehensive health care"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/2013--Introduced.
+Exchange Sunset Act of 2013 - Amends the Patient Protection and Affordable Care Act to make inapplicable provisions concerning Health Benefit Exchanges if one or more Exchanges fail to accept applications for enrollment in qualified health plans beginning on October 1, 2013. Amends the Internal Revenue Code to terminate the requirement that individuals maintain minimum essential coverage upon such a determination by the Secretary of the Treasury.</summary>
+</bill>

@@ -1,0 +1,162 @@
+<bill session="112" type="h" number="514" updated="2013-07-20T01:10:57-04:00">
+  <state datetime="2011-02-25">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2011-02-25"/>
+  </status>
+  <introduced datetime="2011-01-26"/>
+  <titles>
+    <title as="passed senate" type="short">FISA Sunsets Extension Act of 2011</title>
+    <title as="enacted" type="short">FISA Sunsets Extension Act of 2011</title>
+    <title as="introduced" type="official">To extend expiring provisions of the USA PATRIOT Improvement and Reauthorization Act of 2005 and Intelligence Reform and Terrorism Prevention Act of 2004 relating to access to business records, individual terrorists as agents of foreign powers, and roving wiretaps until December 8, 2011.</title>
+  </titles>
+  <sponsor id="400365"/>
+  <cosponsors>
+    <cosponsor id="400342" joined="2011-01-26"/>
+    <cosponsor id="400381" joined="2011-01-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-01-26">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-01-26">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2011-01-26">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="2011-02-07">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <action datetime="2011-02-08T14:26:00-05:00">
+      <text>Mr. Smith (TX) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2011-02-08T14:26:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H520-527" label="consideration"/>
+      <reference ref="CR H520" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2011-02-08T14:26:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 514.</text>
+    </action>
+    <action datetime="2011-02-08T15:10:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2011-02-08T18:31:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H527-528" label="consideration"/>
+    </action>
+    <vote state="PROV_KILL:SUSPENSIONFAILED" datetime="2011-02-08T19:03:00-05:00" how="roll" result="fail" roll="26" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 277 - 148 (Roll no. 26).</text>
+    </vote>
+    <action datetime="2011-02-09T16:01:00-05:00">
+      <text>Rules Committee Resolution H. Res. 79 Reported to House. Rule provides for consideration of H.R. 514 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against provisions in the bill are waived.</text>
+    </action>
+    <action datetime="2011-02-10T15:10:00-05:00">
+      <text>Rule H. Res. 79 passed House.</text>
+    </action>
+    <action datetime="2011-02-14T17:13:00-05:00">
+      <text>Considered under the provisions of rule H. Res. 79.</text>
+      <reference ref="CR H731-745" label="consideration"/>
+    </action>
+    <action datetime="2011-02-14T17:13:00-05:00">
+      <text>Rule provides for consideration of H.R. 514 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against provisions in the bill are waived.</text>
+    </action>
+    <action datetime="2011-02-14T17:13:00-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 514.</text>
+    </action>
+    <action datetime="2011-02-14T18:21:00-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H742" label="consideration"/>
+    </action>
+    <action datetime="2011-02-14T18:22:00-05:00">
+      <text>Mr. Thompson (CA) moved to recommit with instructions to Judiciary.</text>
+      <reference ref="CR H742-744" label="consideration"/>
+      <reference ref="CR H742" label="text"/>
+    </action>
+    <action datetime="2011-02-14T18:24:00-05:00">
+      <text>DEBATE - The House proceeded with ten minutes of debate on the motion to recommit with instructions. Pending the reservation of a point of order, subsequently the reservation was withdrawn.</text>
+    </action>
+    <action datetime="2011-02-14T18:33:00-05:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H743" label="consideration"/>
+    </action>
+    <action datetime="2011-02-14T18:54:00-05:00">
+      <text>On motion to recommit with instructions Failed by the Yeas and Nays: 186 - 234 (Roll no. 35).</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-02-14T19:03:00-05:00" how="roll" result="pass" roll="36" type="vote" where="h">
+      <text>On passage Passed by recorded vote: 275 - 144 (Roll no. 36).</text>
+      <reference ref="CR H731" label="text"/>
+    </vote>
+    <action datetime="2011-02-14T19:03:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-02-15">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2011-02-15">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S727-731" label="consideration"/>
+    </action>
+    <vote state="PASS_BACK:SENATE" datetime="2011-02-15" how="roll" result="pass" roll="19" type="vote2" where="s">
+      <text>Passed Senate with an amendment by Yea-Nay Vote. 86 - 12. Record Vote Number: 19.</text>
+    </vote>
+    <action datetime="2011-02-15">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2011-02-17T09:16:00-05:00">
+      <text>Mr. Smith (TX) moved that the House agree to the Senate amendment.</text>
+      <reference ref="CR H1075-1080" label="consideration"/>
+    </action>
+    <action datetime="2011-02-17T09:16:00-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on the motion to concur in the Senate amendment to H.R. 514.</text>
+    </action>
+    <action datetime="2011-02-17T09:42:00-05:00">
+      <text>The previous question was ordered without objection.</text>
+      <reference ref="CR H1079" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2011-02-17T10:09:00-05:00" how="roll" result="pass" roll="66" type="pingpong" where="h">
+      <text>On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 279 - 143 (Roll no. 66).</text>
+      <reference ref="CR H1075" label="text as House agreed to Senate amendment"/>
+    </vote>
+    <action datetime="2011-02-17T10:09:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2011-02-23">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2011-02-25">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2011-02-25" type="public" number="112-3">
+      <text>Became Public Law No: 112-3.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="112" type="hr" number="79"/>
+    <bill relation="unknown" session="112" type="hr" number="93"/>
+    <bill relation="unknown" session="112" type="h" number="67"/>
+    <bill relation="unknown" session="112" type="h" number="1800"/>
+    <bill relation="unknown" session="112" type="h" number="1963"/>
+    <bill relation="unknown" session="112" type="s" number="1038"/>
+    <bill relation="unknown" session="112" type="s" number="1114"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Homeland security"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments>
+    <amendment number="s90"/>
+  </amendments>
+  <summary>2/25/2011--Public Law.
+FISA Sunsets Extension Act of 2011 - Amends the USA PATRIOT Improvement and Reauthorization Act of 2005 to extend until May 27, 2011, provisions concerning roving electronic surveillance orders and requests for the production of business records and other tangible things. Amends the Intelligence Reform and Terrorism Prevention Act of 2004 to extend until May 27, 2011, a provision revising the definition of an "agent of a foreign power" to include any non-U.S. person who engages in international terrorism or preparatory activities ("lone wolf" provision).</summary>
+</bill>

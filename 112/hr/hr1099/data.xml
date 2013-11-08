@@ -1,0 +1,56 @@
+<bill session="112" type="h" number="1099" updated="2013-07-20T01:19:52-04:00">
+  <state datetime="2011-03-15">REFERRED</state>
+  <status>
+    <introduced datetime="2011-03-15"/>
+  </status>
+  <introduced datetime="2011-03-15"/>
+  <titles>
+    <title as="introduced" type="short">Taxpayers' Freedom of Conscience Act of 2011</title>
+    <title as="introduced" type="official">To prohibit any Federal official from expending any Federal funds for any population control or population planning program or any family planning activity.</title>
+  </titles>
+  <sponsor id="400311"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2011-03-15">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E491"/>
+    </action>
+    <action state="REFERRED" datetime="2011-03-15">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-03-15">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2011-03-15">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2011-03-21">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2011-03-29">
+      <text>Referred to the Subcommittee on Africa, Global Health, and Human Rights.</text>
+      <committee name="House Foreign Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA16" subcommittee="Africa, Global Health, and Human Rights" name="House Foreign Affairs"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="6389"/>
+    <bill relation="unknown" session="112" type="s" number="3473"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Abortion"/>
+    <term name="Family planning and birth control"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Health programs administration and funding"/>
+  </subjects>
+  <amendments/>
+  <summary>3/15/2011--Introduced.
+Taxpayers' Freedom of Conscience Act of 2011 - Prohibits a federal official from expending federal funds for any foreign or domestic population control or population planning program or family planning activity (including any abortion procedure).</summary>
+</bill>

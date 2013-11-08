@@ -1,0 +1,39 @@
+<bill session="113" type="h" number="3194" updated="2013-11-02T06:45:53-04:00">
+  <state datetime="2013-09-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-26"/>
+  </status>
+  <introduced datetime="2013-09-26"/>
+  <titles>
+    <title type="short" as="introduced">Bureau of Consumer Financial Protection Judicial Fairness Act</title>
+    <title type="official" as="introduced">To amend the Dodd-Frank Wall Street Reform and Consumer Protection Act to remove certain special deference provided by courts to the Bureau of Consumer Financial Protection when the Bureau is interpreting provisions of a Federal consumer financial law.</title>
+  </titles>
+  <sponsor id="412488"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-09-26" state="REFERRED">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-09-26">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2013-09-26">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-10-15">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="605"/>
+    <bill relation="unknown" session="113" type="h" number="2385"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

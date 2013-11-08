@@ -1,0 +1,82 @@
+<bill session="112" type="h" number="828" updated="2013-07-20T01:17:28-04:00">
+  <state datetime="2012-07-31T19:14:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-07-31T19:14:00-04:00"/>
+  </status>
+  <introduced datetime="2011-02-28"/>
+  <titles>
+    <title as="introduced" type="short">Federal Employee Tax Accountability Act of 2011</title>
+    <title as="reported to house" type="short">Federal Employee Tax Accountability Act of 2011</title>
+    <title as="passed house" type="short">Federal Employee Tax Accountability Act of 2012</title>
+    <title as="introduced" type="official">To amend title 5, United States Code, to provide that persons having seriously delinquent tax debts shall be ineligible for Federal employment.</title>
+  </titles>
+  <sponsor id="412270"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2011-02-28">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2011-03-18">
+      <text>Referred to the Subcommittee on Federal Workforce, U.S. Postal Service, and Labor Policy.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <action datetime="2011-04-13">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-04-13">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2011-06-23T18:25:00-04:00">
+      <text>Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-115.</text>
+    </action>
+    <calendar datetime="2011-06-23T18:26:00-04:00" calendar="Union" number="66">
+      <text>Placed on the Union Calendar, Calendar No. 66.</text>
+    </calendar>
+    <action datetime="2012-07-31T15:59:00-04:00">
+      <text>Mr. Chaffetz moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-07-31T16:00:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5414-5416" label="consideration"/>
+    </action>
+    <action datetime="2012-07-31T16:00:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 828.</text>
+    </action>
+    <action datetime="2012-07-31T16:11:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2012-07-31T19:08:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5449-5450" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-07-31T19:14:00-04:00" how="roll" result="pass" roll="538" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 263 - 114 (Roll no. 538).</text>
+      <reference ref="CR H5414" label="text"/>
+    </vote>
+    <action datetime="2012-07-31T19:14:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-08-01">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSGO25" subcommittee="Federal Workforce, U.S. Postal Service, and Labor Policy" name="House Oversight and Government Reform"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="376"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Right of privacy"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>7/31/2012--Passed House amended.
+Federal Employee Tax Accountability Act of 2012 - Makes any person who has a seriously delinquent tax debt ineligible for federal employment or to continue serving as a federal employee. Defines "seriously delinquent tax debt" as an outstanding tax debt for which a notice of lien has been filed in public records. Exempts a tax debt: (1) that is being paid in a timely manner under an approved installment payment agreement or an offer-in-compromise, (2) for which a collection due process hearing has been requested or pending, (3) for which a levy has been issued or agreed to by an applicant for employment, or (4) that is determined to be an economic hardship to the taxpayer. Requires each federal agency to: (1) ensure that applicants for employment certify that they do not have a seriously delinquent tax debt, (2) review public records to determine if a notice of lien has been filed against an employee or applicant, and (3) restrict access to and use of information obtained under this Act. Authorizes an agency, if a tax lien against a federal employee or applicant is discovered in any public record, to: (1) request such employee or applicant to execute and submit a form authorizing the Secretary of the Treasury to disclose to an agency head information describing whether the employee or applicant has a seriously delinquent tax debt, and (2) contact the Secretary to request tax information about a seriously delinquent tax debt of an employee or applicant. Requires the Office of Personnel Management (OPM) to promulgate regulations to carry out this Act that provide taxpayers with all due process rights and to report to Congress annually on the number of exemptions granted for financial hardship. Grants federal employees or applicants 180 days to demonstrate that their tax debts are exempt from classification as a seriously delinquent tax debt under this Act. Makes this Act effective nine months after its enactment.</summary>
+</bill>

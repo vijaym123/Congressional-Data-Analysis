@@ -1,0 +1,43 @@
+<bill session="111" type="s" number="737" updated="2013-07-20T00:30:01-04:00">
+  <state datetime="2009-03-30">REFERRED</state>
+  <status>
+    <introduced datetime="2009-03-30"/>
+  </status>
+  <introduced datetime="2009-03-30"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend the Energy Independence and Security Act of 2007 to authorize the Secretary of Energy to conduct research, development, and demonstration to make biofuels more compatible with small nonroad engines, and for other purposes.</title>
+  </titles>
+  <sponsor id="300025"/>
+  <cosponsors>
+    <cosponsor id="400412" joined="2009-03-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-03-30">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3993"/>
+    </action>
+    <action state="REFERRED" datetime="2009-03-30">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <reference ref="CR S3993" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2009-12-08">
+      <text>Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held. With printed Hearing: S.Hrg. 111-330.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSEG01" subcommittee="Energy" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Energy research"/>
+    <term name="Energy storage, supplies, demand"/>
+    <term name="Research and development"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/2009--Introduced.
+Amends the Energy Independence and Security Act of 2007 to require the program of research, development, and demonstration relating to existing transportation fuel distribution infrastructure and new alternative distribution infrastructure to address: (1) the effects of such infrastructure on small engines; and (2) efforts to prevent or mitigate against adverse impacts of the use of biofuels in small nonroad engines.</summary>
+</bill>

@@ -1,0 +1,55 @@
+<bill session="111" type="h" number="2185" updated="2013-07-19T23:31:20-04:00">
+  <state datetime="2009-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2009-04-30"/>
+  </status>
+  <introduced datetime="2009-04-30"/>
+  <titles>
+    <title as="introduced" type="short">Architect of the Capitol Appointment Act of 2009</title>
+    <title as="introduced" type="official">To provide for the joint appointment of the Architect of the Capitol by the Speaker of the House of Representatives, the Majority Leader of the Senate, the Minority Leaders of the House of Representatives and Senate, and the chairs and ranking minority members of the committees of Congress with jurisdiction over the Office of the Architect of the Capitol, and for other purposes.</title>
+  </titles>
+  <sponsor id="400623"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2009-04-30"/>
+    <cosponsor id="400047" joined="2009-04-30"/>
+    <cosponsor id="400119" joined="2009-04-30"/>
+    <cosponsor id="400234" joined="2009-04-30"/>
+    <cosponsor id="400617" joined="2009-04-30"/>
+    <cosponsor id="400421" joined="2009-04-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-04-30">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-04-30">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2009-04-30">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2009-05-01">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="2843"/>
+    <bill relation="unknown" session="111" type="h" number="2843"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Architect of the Capitol"/>
+    <term name="Congressional agencies"/>
+    <term name="Congressional officers and employees"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2009--Introduced.
+Architect of the Capitol Appointment Act of 2009 - Requires the Architect of the Capitol (AOC) to be appointed jointly by the Speaker of the House of Representatives, the Majority Leader of the Senate, the Minority Leaders of the House of Representatives and Senate, the chair and ranking Minority Members of the congressional appropriations committees, the chair and ranking Minority Member of the House Committee on House Administration, and the chair and ranking Minority Member of the Senate Committee on Rules and Administration. Establishes a 10-year term for the AOC, as under current law, but permits additional reappointments. Repeals the requirement of the Legislative Branch Appropriations Act, 1990 that the AOC be appointed by the President, by and with the advice and consent of the Senate.</summary>
+</bill>

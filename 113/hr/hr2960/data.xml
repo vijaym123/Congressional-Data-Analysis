@@ -1,0 +1,58 @@
+<bill session="113" type="h" number="2960" updated="2013-11-02T06:43:56-04:00">
+  <state datetime="2013-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-01"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Prescription Drug Integrity Act of 2013</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to require sponsors of Medicare prescription drug plans to implement procedures to prevent fraud and abuse, and for other purposes.</title>
+  </titles>
+  <sponsor id="400308"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-08-01" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Business records"/>
+    <term name="Crime prevention"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government information and archives"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health information and medical records"/>
+    <term name="Insurance industry and regulation"/>
+    <term name="Licensing and registrations"/>
+    <term name="Medicare"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+</bill>

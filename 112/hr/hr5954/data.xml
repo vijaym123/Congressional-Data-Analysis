@@ -1,0 +1,106 @@
+<bill session="112" type="h" number="5954" updated="2013-07-20T02:01:24-04:00">
+  <state datetime="2012-12-28">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2012-12-28"/>
+  </status>
+  <introduced datetime="2012-06-18"/>
+  <titles>
+    <title as="introduced" type="official">To designate the facility of the United States Postal Service located at 320 7th Street in Ellwood City, Pennsylvania, as the "Sergeant Leslie H. Sabo, Jr. Post Office Building".</title>
+  </titles>
+  <sponsor id="412231"/>
+  <cosponsors>
+    <cosponsor id="412469" joined="2012-06-29"/>
+    <cosponsor id="400047" joined="2012-06-29"/>
+    <cosponsor id="412386" joined="2012-06-29"/>
+    <cosponsor id="400648" joined="2012-06-29"/>
+    <cosponsor id="400114" joined="2012-06-29"/>
+    <cosponsor id="400130" joined="2012-06-29"/>
+    <cosponsor id="400646" joined="2012-06-29"/>
+    <cosponsor id="400147" joined="2012-06-18"/>
+    <cosponsor id="400183" joined="2012-06-29"/>
+    <cosponsor id="412465" joined="2012-06-29"/>
+    <cosponsor id="412468" joined="2012-06-29"/>
+    <cosponsor id="412466" joined="2012-06-29"/>
+    <cosponsor id="400285" joined="2012-06-29"/>
+    <cosponsor id="400320" joined="2012-06-29"/>
+    <cosponsor id="400321" joined="2012-06-29"/>
+    <cosponsor id="400647" joined="2012-06-29"/>
+    <cosponsor id="409888" joined="2012-06-29"/>
+    <cosponsor id="412317" joined="2012-06-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-06-18">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2012-09-20">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2012-09-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <action datetime="2012-11-28T14:19:00-05:00">
+      <text>Mr. Gosar moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-11-28T14:19:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6484-6485" label="consideration"/>
+    </action>
+    <action datetime="2012-11-28T14:19:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5954.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-11-28T14:28:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6484" label="text"/>
+    </vote>
+    <action datetime="2012-11-28T14:28:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-11-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2012-12-06">
+      <text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+    <action datetime="2012-12-19">
+      <text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text>
+      <reference ref="CR S8230" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2012-12-19" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2012-12-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2012-12-21">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2012-12-28">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2012-12-28" type="public" number="112-225">
+      <text>Became Public Law No: 112-225.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="SSGA09" subcommittee="Federal Financial Management, Government Information, Federal Services, and International Security" name="Senate Homeland Security and Governmental Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="3386"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Pennsylvania"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>12/28/2012--Public Law.
+Designates the facility of the United States Postal Service located at 320 7th Street in Ellwood City, Pennsylvania, as the "Sergeant Leslie H. Sabo, Jr. Post Office Building."</summary>
+</bill>

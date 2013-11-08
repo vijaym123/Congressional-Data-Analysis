@@ -1,0 +1,69 @@
+<bill session="111" type="h" number="6016" updated="2013-07-20T00:06:54-04:00">
+  <state datetime="2010-09-28T20:12:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-09-28T20:12:00-04:00"/>
+  </status>
+  <introduced datetime="2010-07-30"/>
+  <titles>
+    <title as="introduced" type="short">Audit the BP Fund Act of 2010</title>
+    <title as="passed house" type="short">Audit the BP Fund Act of 2010</title>
+    <title as="introduced" type="official">To provide for a GAO investigation and audit of the operations of the fund created by BP to compensate persons affected by the Gulf oil spill.</title>
+  </titles>
+  <sponsor id="400046"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-30">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2010-08-02">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-08-02">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-09-28T20:07:00-04:00">
+      <text>Mr. McMahon moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-09-28T20:07:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7143-7144" label="consideration"/>
+    </action>
+    <action datetime="2010-09-28T20:07:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6016.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-09-28T20:12:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7143" label="text"/>
+    </vote>
+    <action datetime="2010-09-28T20:12:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-09-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Accidents"/>
+    <term name="Accounting and auditing"/>
+    <term name="Corporate finance and management"/>
+    <term name="Foreign and international corporations"/>
+    <term name="Government studies and investigations"/>
+    <term name="Gulf of Mexico"/>
+    <term name="Marine pollution"/>
+    <term name="Oil and gas"/>
+    <term name="Pollution liability"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/2010--Passed House amended.
+Audit the BP Fund Act of 2010 - Directs the Comptroller General to: (1) conduct an ongoing independent investigation and audit of the fund and claims process created by BP to compensate persons affected by the BP Deepwater Horizon oil spill in the Gulf of Mexico beginning on April 20, 2010, to determine the effectiveness of fund operations, including the timeliness of claim payments and the accuracy of determining amounts of damages compensated; and (2) report to Congress on the effectiveness of the operations until they are completed. Authorizes the Comptroller General to use any investigative powers, including subpoena power, in conducting such investigation and audit. Expresses the sense of Congress that: (1) BP should fully cooperate with the Comptroller General to assure that the fund is accurately, expediently, and efficiently compensating victims for their losses; and (2) the costs incurred by the Comptroller General to carry out responsibilities under this Act should be reimbursed by BP.</summary>
+</bill>

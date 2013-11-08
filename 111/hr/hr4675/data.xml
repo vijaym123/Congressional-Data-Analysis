@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="4675" updated="2013-07-19T23:54:38-04:00">
+  <state datetime="2010-02-24">REFERRED</state>
+  <status>
+    <introduced datetime="2010-02-24"/>
+  </status>
+  <introduced datetime="2010-02-24"/>
+  <titles>
+    <title as="introduced" type="official">To prohibit the further extension or establishment of national monuments in Nevada except by express authorization of Congress.</title>
+  </titles>
+  <sponsor id="412218"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-02-24">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2010-02-25">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3041"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Congressional oversight"/>
+    <term name="Monuments and memorials"/>
+    <term name="Nevada"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/2010--Introduced.
+Prohibits any further extension or establishment of national parks and monuments in Nevada from being undertaken except by express authorization of Congress.</summary>
+</bill>

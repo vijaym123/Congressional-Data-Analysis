@@ -1,0 +1,49 @@
+<bill session="112" type="h" number="6188" updated="2013-07-20T02:03:22-04:00">
+  <state datetime="2012-07-25">REFERRED</state>
+  <status>
+    <introduced datetime="2012-07-25"/>
+  </status>
+  <introduced datetime="2012-07-25"/>
+  <titles>
+    <title as="introduced" type="short">Military Family Leave Act of 2012</title>
+    <title as="introduced" type="official">To amend title 38, United States Code, to grant family of members of the uniformed services temporary annual leave during the deployment of such members, and for other purposes.</title>
+  </titles>
+  <sponsor id="400638"/>
+  <cosponsors>
+    <cosponsor id="400062" joined="2012-09-11"/>
+    <cosponsor id="412379" joined="2012-08-01"/>
+    <cosponsor id="400133" joined="2012-07-25"/>
+    <cosponsor id="400185" joined="2012-07-25"/>
+    <cosponsor id="412287" joined="2012-07-25"/>
+    <cosponsor id="400263" joined="2012-07-25"/>
+    <cosponsor id="400295" joined="2012-07-25"/>
+    <cosponsor id="400333" joined="2012-07-25"/>
+    <cosponsor id="400436" joined="2012-07-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-07-25">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2012-09-21">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="1112"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Employee leave"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Military operations and strategy"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>7/25/2012--Introduced.
+Military Family Leave Act of 2012 - Entitles an employed family member of a member of the Armed Forces who receives notification of a call or order to active duty in support of a contingency operation, or who is deployed in connection with a contingency operation, to two workweeks of leave per year for each family member who is so called or deployed. Allows such leave to: (1) be taken intermittently or on a reduced leave schedule; and (2) consist of paid or unpaid leave, as the employer considers appropriate. Allows an employer to require certification of entitlement to such leave within a leave request. Provides employment and benefits protection for employees upon their return from such leave. Prohibits an employer from interfering with or otherwise denying the exercise of such leave rights.</summary>
+</bill>

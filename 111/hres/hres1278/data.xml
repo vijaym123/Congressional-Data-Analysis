@@ -1,0 +1,86 @@
+<bill session="111" type="hr" number="1278" updated="2013-07-19T23:07:12-04:00">
+  <state datetime="2010-05-05T15:09:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2010-05-05T15:09:00-04:00"/>
+  </status>
+  <introduced datetime="2010-04-20"/>
+  <titles>
+    <title as="introduced" type="official">In support and recognition of National Safe Digging Month, April, 2010.</title>
+  </titles>
+  <sponsor id="409888"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-04-20">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2010-04-20">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2010-04-20">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2010-04-21">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-04-29">
+      <text>Subcommittee on Railroads, Pipelines, and Hazardous Materials Discharged.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-04-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-04-29">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2010-05-04T15:01:00-04:00">
+      <text>Reported (Amended) by the Committee on Transportation. H. Rept. 111-473, Part I.</text>
+    </action>
+    <action datetime="2010-05-04T15:01:00-04:00">
+      <text>Committee on Energy and Commerce discharged.</text>
+    </action>
+    <calendar datetime="2010-05-04T15:01:00-04:00" calendar="House" number="191">
+      <text>Placed on the House Calendar, Calendar No. 191.</text>
+    </calendar>
+    <action datetime="2010-05-05T15:04:00-04:00">
+      <text>Ms. Brown, Corrine moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2010-05-05T15:04:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3171-3172" label="consideration"/>
+    </action>
+    <action datetime="2010-05-05T15:04:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1278.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2010-05-05T15:09:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H3171" label="text"/>
+    </vote>
+    <action datetime="2010-05-05T15:09:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW14" subcommittee="Railroads, Pipelines, and Hazardous Materials" name="House Transportation and Infrastructure"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="sr" number="472"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Broadcasting, cable, digital technologies"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Emergency communications systems"/>
+    <term name="Pipelines"/>
+    <term name="Public utilities and utility rates"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <summary>5/5/2010--Passed House amended.
+Expresses support for the goals and ideals of National Safe Digging Month. Encourages homeowners and excavators to call 811 before conducting any digging or excavation activities.</summary>
+</bill>

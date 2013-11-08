@@ -1,0 +1,43 @@
+<bill session="113" type="h" number="3168" updated="2013-11-02T06:45:40-04:00">
+  <state datetime="2013-09-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-20"/>
+  </status>
+  <introduced datetime="2013-09-20"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Established Provider Act of 2013</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for a Medicare established provider system under which providers of services and suppliers representing a low risk for submitting fraudulent Medicare claims are provided certain claim review protections.</title>
+  </titles>
+  <sponsor id="412578"/>
+  <cosponsors>
+    <cosponsor id="412480" joined="2013-09-20"/>
+    <cosponsor id="400157" joined="2013-09-20"/>
+    <cosponsor id="400441" joined="2013-09-27"/>
+    <cosponsor id="412417" joined="2013-10-10"/>
+    <cosponsor id="410396" joined="2013-09-20"/>
+    <cosponsor id="400404" joined="2013-09-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-20" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-09-20">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-09-20">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-09-27">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

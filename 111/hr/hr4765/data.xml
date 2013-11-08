@@ -1,0 +1,65 @@
+<bill session="111" type="h" number="4765" updated="2013-07-19T23:55:26-04:00">
+  <state datetime="2010-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2010-03-04"/>
+  </status>
+  <introduced datetime="2010-03-04"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to authorize individuals who are pursuing programs of rehabilitation, education, or training under laws administered by the Secretary of Veterans Affairs to receive work-study allowances for certain outreach services provided through congressional offices, and for other purposes.</title>
+  </titles>
+  <sponsor id="400100"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2010-03-04"/>
+    <cosponsor id="400041" joined="2010-03-04"/>
+    <cosponsor id="412234" joined="2010-03-04"/>
+    <cosponsor id="412193" joined="2010-03-04"/>
+    <cosponsor id="412215" joined="2010-03-09"/>
+    <cosponsor id="400133" joined="2010-03-04"/>
+    <cosponsor id="412222" joined="2010-03-04"/>
+    <cosponsor id="400443" joined="2010-03-04"/>
+    <cosponsor id="412304" joined="2010-03-04"/>
+    <cosponsor id="412315" joined="2010-03-04"/>
+    <cosponsor id="400419" joined="2010-03-04"/>
+    <cosponsor id="400437" joined="2010-03-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-03-04">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2010-03-05">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-06-10">
+      <text>Committee Hearings Held.</text>
+    </action>
+    <action datetime="2010-06-10">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-07-15">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-07-15">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Hearings, In Committee"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3082"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional officers and employees"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2010--Introduced.
+Includes within authorized work-study activities, for individuals entitled to work-study allowances through the Department of Veterans Affairs (VA) in connection with VA rehabilitation, education, or training programs, the following activities carried out at offices of Members of Congress: (1) the distribution of information to members of the Armed Forces, veterans, and their dependents concerning available benefits and services under governmental and nongovernmental programs; and (2) the preparation and processing of papers and other documents, including those used to assist in the preparation and presentation of veterans' benefits claims.</summary>
+</bill>

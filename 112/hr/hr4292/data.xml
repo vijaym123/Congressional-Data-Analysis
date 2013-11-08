@@ -1,0 +1,53 @@
+<bill session="112" type="h" number="4292" updated="2013-07-20T01:47:11-04:00">
+  <state datetime="2012-03-28">REFERRED</state>
+  <status>
+    <introduced datetime="2012-03-28"/>
+  </status>
+  <introduced datetime="2012-03-28"/>
+  <titles>
+    <title as="introduced" type="short">ID MEDS Act</title>
+    <title as="introduced" type="short">Interstate Drug Monitoring Efficiency and Data Sharing Act of 2012</title>
+    <title as="introduced" type="official">To direct the Attorney General to establish uniform standards for the exchange of controlled substance and prescription information for the purpose of preventing diversion, fraud, and abuse of controlled substances and other prescription drugs.</title>
+  </titles>
+  <sponsor id="400340"/>
+  <cosponsors>
+    <cosponsor id="412265" joined="2012-03-28"/>
+    <cosponsor id="400641" joined="2012-05-08"/>
+    <cosponsor id="400249" joined="2012-05-08"/>
+    <cosponsor id="400331" joined="2012-05-08"/>
+    <cosponsor id="400435" joined="2012-03-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-03-28">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2012-03-30">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="2254"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Justice"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Health information and medical records"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Prescription drugs"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>3/28/2012--Introduced.
+Interstate Drug Monitoring Efficiency and Data Sharing Act of 2012 or the ID MEDS Act - Directs the Attorney General to establish national interoperability standards to facilitate the exchange of prescription information by states receiving grant funds under the Harold Rogers Prescription Drug Monitoring Program (Rogers Program) and the Controlled Substance Monitoring Program (CS Program). Directs the Attorney General to ensure that such standards: (1) implement open standards that are freely available to promote broad implementation; (2) provide for the use of exchange intermediaries to facilitate interstate interoperability; (3) support transmissions that are fully secured, using industry standard methods of encryption, to ensure that protected health information and personally identifiable information are not compromised during transmission; and (4) employ access control methodologies to share protected information solely in accordance with state laws and regulations. Requires a grant recipient under the Rogers Program to ensure that the state databases comply with the national interoperability standards. Allows a recipient of an enhancement grant under such Program to use grant funds to standardize the technology architecture used by the recipient to comply with such standards. Amends the Public Health Service Act to require states to ensure that databases established under the CS Program comply with such standards. Directs the Attorney General to report on enhancing the interoperability of state prescription monitoring programs with other technologies and databases used for detecting and reducing fraud, diversion, and abuse of prescription drugs.</summary>
+</bill>

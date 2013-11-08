@@ -1,0 +1,61 @@
+<bill session="112" type="h" number="3574" updated="2013-07-20T01:41:03-04:00">
+  <state datetime="2011-12-06">REFERRED</state>
+  <status>
+    <introduced datetime="2011-12-06"/>
+  </status>
+  <introduced datetime="2011-12-06"/>
+  <titles>
+    <title as="introduced" type="official">To revise the formula for allocating funding to States under the Low-Income Home Energy Assistance Act of 1981.</title>
+  </titles>
+  <sponsor id="412393"/>
+  <cosponsors>
+    <cosponsor id="412231" joined="2011-12-06"/>
+    <cosponsor id="412456" joined="2011-12-06"/>
+    <cosponsor id="400122" joined="2011-12-06"/>
+    <cosponsor id="412453" joined="2011-12-06"/>
+    <cosponsor id="412451" joined="2011-12-06"/>
+    <cosponsor id="412454" joined="2011-12-06"/>
+    <cosponsor id="400641" joined="2011-12-06"/>
+    <cosponsor id="400178" joined="2011-12-06"/>
+    <cosponsor id="412497" joined="2011-12-06"/>
+    <cosponsor id="400219" joined="2011-12-06"/>
+    <cosponsor id="400257" joined="2011-12-09"/>
+    <cosponsor id="412383" joined="2011-12-06"/>
+    <cosponsor id="400331" joined="2011-12-09"/>
+    <cosponsor id="400378" joined="2011-12-06"/>
+    <cosponsor id="412319" joined="2011-12-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-12-06">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-12-06">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2011-12-06">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2011-12-09">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2012-03-29">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+      <committee name="House Education and the Workforce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education and Workforce Training" name="House Education and the Workforce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy assistance for the poor and aged"/>
+  </subjects>
+  <amendments/>
+  <summary>12/6/2011--Introduced.
+Amends the Low-Income Home Energy Assistance Act of 1981 to revise the formula for a state's allotment percentage for low-income home energy assistance to make it the percentage the state would have received under such Act as originally enacted in the Omnibus Budget Reconciliation Act of 1981.</summary>
+</bill>

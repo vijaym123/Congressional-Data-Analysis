@@ -1,0 +1,77 @@
+<bill session="112" type="sc" number="28" updated="2013-07-20T02:16:13-04:00">
+  <state datetime="2011-09-21T15:44:00-04:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2011-09-21T15:44:00-04:00"/>
+  </status>
+  <introduced datetime="2011-08-02"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution authorizing the use of Emancipation Hall in the Capitol Visitor Center for an event to award the Congressional Gold Medal, collectively, to the 100th Infantry Battalion, 442nd Regimental Combat Team, and the Military Intelligence Service, United States Army, in recognition of their dedicated service during World War II.</title>
+  </titles>
+  <sponsor id="300056"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2011-08-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-08-02">
+      <text>Referred to the Committee on Rules and Administration.</text>
+      <reference ref="CR S5270" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2011-09-08">
+      <text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text>
+      <reference ref="CR S5464" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2011-09-08" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S5464" label="text"/>
+    </vote>
+    <action datetime="2011-09-09">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2011-09-09T11:40:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2011-09-09">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2011-09-21T12:37:00-04:00">
+      <text>Mr. Harper moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2011-09-21T12:37:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6284-6288" label="consideration"/>
+    </action>
+    <action datetime="2011-09-21T12:37:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 28.</text>
+    </action>
+    <action datetime="2011-09-21T12:55:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2011-09-21T15:37:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6314" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2011-09-21T15:44:00-04:00" how="roll" result="pass" roll="717" type="vote2" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 717).</text>
+      <reference ref="CR H6284" label="text"/>
+    </vote>
+    <action datetime="2011-09-21T15:44:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Discharged"/>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Military history"/>
+    <term name="Military personnel and dependents"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+  <summary>9/21/2011--Passed House without amendment.
+Authorizes the use of Emancipation Hall in the Capitol Visitor Center for an event on November 2, 2011, to award the Congressional Gold Medal, collectively, to the 100th Infantry Battalion, 442nd Regimental Combat Team, and the Military Intelligence Service, U.S. Army, in recognition of their dedicated service during World War II.</summary>
+</bill>

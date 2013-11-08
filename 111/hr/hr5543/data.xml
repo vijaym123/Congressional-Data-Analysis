@@ -1,0 +1,46 @@
+<bill session="111" type="h" number="5543" updated="2013-07-20T00:02:38-04:00">
+  <state datetime="2010-06-16">REFERRED</state>
+  <status>
+    <introduced datetime="2010-06-16"/>
+  </status>
+  <introduced datetime="2010-06-16"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to repeal the prohibition on collective bargaining with respect to matters and questions regarding compensation of employees of the Department of Veterans Affairs other than rates of basic pay, and for other purposes.</title>
+  </titles>
+  <sponsor id="400133"/>
+  <cosponsors>
+    <cosponsor id="400048" joined="2010-07-29"/>
+    <cosponsor id="412222" joined="2010-07-29"/>
+    <cosponsor id="412287" joined="2010-07-29"/>
+    <cosponsor id="400299" joined="2010-07-29"/>
+    <cosponsor id="412319" joined="2010-09-16"/>
+    <cosponsor id="400409" joined="2010-12-22"/>
+    <cosponsor id="412214" joined="2010-07-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-06-16">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2010-09-29">
+      <text>Hearings Held by the Subcommittee on Health Prior to Referral.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3486"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Labor-management relations"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/2010--Introduced.
+Prohibits collective bargaining with respect to matters and questions concerning rates of basic pay (under current law, concerning compensation) of employees of the Department of Veterans Affairs (VA). (Permits collective bargaining concerning compensation, other than basic rates of pay, with respect to such employees.)</summary>
+</bill>

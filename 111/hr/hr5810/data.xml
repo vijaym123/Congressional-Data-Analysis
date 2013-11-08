@@ -1,0 +1,58 @@
+<bill session="111" type="h" number="5810" updated="2013-07-20T00:05:02-04:00">
+  <state datetime="2010-07-27T14:11:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-07-27T14:11:00-04:00"/>
+  </status>
+  <introduced datetime="2010-07-21"/>
+  <titles>
+    <title as="introduced" type="short">Securing Aircraft Cockpits Against Lasers Act of 2010</title>
+    <title as="passed house" type="short">Securing Aircraft Cockpits Against Lasers Act of 2010</title>
+    <title as="introduced" type="official">To amend title 18, United States Code, to provide penalties for aiming laser pointers at airplanes, and for other purposes.</title>
+  </titles>
+  <sponsor id="400617"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-21">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2010-07-26">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2010-07-27T14:02:00-04:00">
+      <text>Mr. Scott (VA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-07-27T14:02:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6100-6101" label="consideration"/>
+    </action>
+    <action datetime="2010-07-27T14:02:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5810.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-07-27T14:11:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6100" label="text"/>
+    </vote>
+    <action datetime="2010-07-27T14:11:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-07-28">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Aviation and airports"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>7/27/2010--Passed House amended.
+Securing Aircraft Cockpits Against Lasers Act of 2010 - Amends the federal criminal code to prohibit the aiming of the beam of a laser pointer at an aircraft or in its flight path. Imposes a fine and/or prison term of up to five years. Exempts from such prohibition: (1) individuals conducting research and development or flight test operations for an aircraft manufacturer or the Federal Aviation Administration (FAA); (2) Department of Defense (DOD) or Department of Homeland Security (DHS) personnel conducting research, development, operations, testing or training; or (3) an individual using a laser emergency signaling device to send a distress signal. Authorizes the Attorney General to provide additional exemptions by regulation upon notification of proposed regulations to the Judiciary Committees of Congress, the House Committee on Transportation and Infrastructure and the Senate Committee on Commerce, Science and Transportation not less than 90 days before such regulations become final. Provides for compliance of the budgetary effects of this Act with the Statutory Pay-As-You-Go Act of 2010.</summary>
+</bill>

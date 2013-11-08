@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="5144" updated="2013-07-19T23:58:47-04:00">
+  <state datetime="2010-04-27">REFERRED</state>
+  <status>
+    <introduced datetime="2010-04-27"/>
+  </status>
+  <introduced datetime="2010-04-27"/>
+  <titles>
+    <title as="introduced" type="short">Buffalo Bayou National Heritage Area Act</title>
+    <title as="introduced" type="official">To establish the Buffalo Bayou National Heritage Area in the State of Texas, and for other purposes.</title>
+  </titles>
+  <sponsor id="400160"/>
+  <cosponsors>
+    <cosponsor id="400118" joined="2010-05-06"/>
+    <cosponsor id="400653" joined="2010-05-04"/>
+    <cosponsor id="400199" joined="2010-04-29"/>
+    <cosponsor id="412302" joined="2010-05-06"/>
+    <cosponsor id="400652" joined="2010-04-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-04-27">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2010-04-29">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3261"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Texas"/>
+  </subjects>
+  <amendments/>
+  <summary>4/27/2010--Introduced.
+Buffalo Bayou National Heritage Area Act - Establishes the Buffalo Bayou National Heritage Area in Texas. Designates the Buffalo Bayou National Heritage Area Corporation as the management entity for the Heritage Area. Requires the Corporation to submit a management plan for the Heritage Area. Requires the federal cost share of any activity carried out using assistance under this Act to be half of that activity's cost. Sets forth requirements for the approval or disapproval of the management plan by the Secretary of the Interior. Specifies this Act's effect on private property protections and water rights with regard to the Heritage Area. Bars anything in this Act from being meant as modifying the Rio Grande Natural Area Act.</summary>
+</bill>

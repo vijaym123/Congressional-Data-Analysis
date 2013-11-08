@@ -1,0 +1,102 @@
+<bill session="111" type="h" number="3885" updated="2013-07-19T23:47:10-04:00">
+  <state datetime="2010-05-25T18:00:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-05-25T18:00:00-04:00"/>
+  </status>
+  <introduced datetime="2009-10-21"/>
+  <titles>
+    <title as="introduced" type="short">Veterans Dog Training Therapy Act</title>
+    <title as="reported to house" type="short">Veterans Dog Training Therapy Act</title>
+    <title as="passed house" type="short">Veterans Dog Training Therapy Act</title>
+    <title as="introduced" type="official">To direct the Secretary of Veterans Affairs to carry out a pilot program on dog training therapy.</title>
+  </titles>
+  <sponsor id="400049"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2009-10-27"/>
+    <cosponsor id="412236" joined="2009-11-02"/>
+    <cosponsor id="400216" joined="2009-11-05"/>
+    <cosponsor id="412287" joined="2009-10-26"/>
+    <cosponsor id="400253" joined="2009-10-26"/>
+    <cosponsor id="400271" joined="2009-10-27"/>
+    <cosponsor id="400274" joined="2009-10-22"/>
+    <cosponsor id="412300" joined="2009-10-27"/>
+    <cosponsor id="400295" joined="2009-11-02"/>
+    <cosponsor id="400339" joined="2009-10-26"/>
+    <cosponsor id="412311" joined="2010-01-20"/>
+    <cosponsor id="400435" joined="2009-11-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-10-21">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-10-22">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-10-22">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-10-22">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-05-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-05-12">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2010-05-20T16:07:00-04:00">
+      <text>Reported by the Committee on Veterans' Affairs. H. Rept. 111-490.</text>
+    </action>
+    <calendar datetime="2010-05-20T16:07:00-04:00" calendar="Union" number="278">
+      <text>Placed on the Union Calendar, Calendar No. 278.</text>
+    </calendar>
+    <action datetime="2010-05-24T15:18:00-04:00">
+      <text>Mr. Filner moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-05-24T15:18:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3720-3721" label="consideration"/>
+    </action>
+    <action datetime="2010-05-24T15:18:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3885.</text>
+    </action>
+    <action datetime="2010-05-24T15:25:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-05-25T17:32:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3788-3789" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-05-25T18:00:00-04:00" how="roll" result="pass" roll="298" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 4 (Roll no. 298).</text>
+      <reference ref="CR 5/24/2010 H3720-3721" label="text"/>
+    </vote>
+    <action datetime="2010-05-25T18:00:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-05-26">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Disability assistance"/>
+    <term name="Mental health"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>5/25/2010--Passed House without amendment.
+Veterans Dog Training Therapy Act - Directs the Secretary of Veterans Affairs (VA) to carry out a pilot program for assessing the effectiveness of addressing post-deployment mental health and post-traumatic stress disorder (PTSD) symptoms through a therapeutic medium of assistance dog training and handling for veterans with disabilities. Requires the pilot program to be carried out at: (1) at least three and not more than five VA medical centers over a five-year period; and (2) centers that provide a training area for educating veterans with mental health conditions in the art and science of assistance dog training and handling. Directs the Secretary, in hiring instructors under the program, to give a preference to veterans who have successfully graduated from PTSD or other residential treatment programs and received certification in assistance dog training. Requires the Secretary to report annually to Congress during the duration of the program.</summary>
+</bill>

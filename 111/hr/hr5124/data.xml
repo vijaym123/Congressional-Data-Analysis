@@ -1,0 +1,58 @@
+<bill session="111" type="h" number="5124" updated="2013-07-19T23:58:37-04:00">
+  <state datetime="2010-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="2010-04-22"/>
+  </status>
+  <introduced datetime="2010-04-22"/>
+  <titles>
+    <title as="introduced" type="official">To prohibit the use, production, sale, importation, or exportation of any pesticide containing atrazine.</title>
+  </titles>
+  <sponsor id="412215"/>
+  <cosponsors>
+    <cosponsor id="400227" joined="2010-07-30"/>
+    <cosponsor id="400283" joined="2010-06-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-04-22">
+      <text>Referred to the Committee on Agriculture, and in addition to the Committees on Energy and Commerce, Ways and Means, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2010-04-22">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2010-04-22">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2010-04-22">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2010-04-22">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2010-05-03">
+      <text>Referred to the Subcommittee on Trade.</text>
+      <committee name="House Ways and Means"/>
+    </action>
+    <action datetime="2010-06-18">
+      <text>Referred to the Subcommittee on Horticulture and Organic Agriculture.</text>
+      <committee name="House Agriculture"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG03" subcommittee="Horticulture and Organic Agriculture" name="House Agriculture"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Pest management"/>
+    <term name="Product safety and quality"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/2010--Introduced.
+Prohibits the use, production, sale, importation, or exportation of atrazine (pesticide) or an atrazine product.</summary>
+</bill>

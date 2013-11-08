@@ -1,0 +1,51 @@
+<bill session="111" type="h" number="1688" updated="2013-07-19T23:26:57-04:00">
+  <state datetime="2009-03-24">REFERRED</state>
+  <status>
+    <introduced datetime="2009-03-24"/>
+  </status>
+  <introduced datetime="2009-03-24"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 10, United States Code, to ensure that commissioned officers who serve in a reserve component of the Armed Forces are able to retire in the highest grade in which they have successfully served.</title>
+  </titles>
+  <sponsor id="400041"/>
+  <cosponsors>
+    <cosponsor id="400001" joined="2009-12-15"/>
+    <cosponsor id="412231" joined="2009-04-23"/>
+    <cosponsor id="412265" joined="2009-03-24"/>
+    <cosponsor id="412266" joined="2009-06-09"/>
+    <cosponsor id="400633" joined="2009-06-03"/>
+    <cosponsor id="412278" joined="2009-06-03"/>
+    <cosponsor id="412222" joined="2009-04-21"/>
+    <cosponsor id="412280" joined="2009-05-12"/>
+    <cosponsor id="400321" joined="2009-04-23"/>
+    <cosponsor id="400340" joined="2009-06-09"/>
+    <cosponsor id="412229" joined="2009-05-12"/>
+    <cosponsor id="412239" joined="2009-04-23"/>
+    <cosponsor id="412211" joined="2009-06-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-24">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2009-04-27">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="794"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military personnel and dependents"/>
+    <term name="National Guard and reserves"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/2009--Introduced.
+Allows an individual to elect to receive retired pay for non-regular (reserve) service upon retirement for service performed in an active reserve status after attaining eligibility for regular retirement, as long as the individual successfully completes at least two years of active reserve status service. Allows the Secretary of the military department concerned to reduce the two-year active reserve status requirement in certain cases. Requires the recomputation of reserve retired pay and, if appropriate, the adjustment of the retired grade of reserve retirees to reflect the successful completion of at least two years of post-retirement service in an active reserve status.</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="113" type="hj" number="52" updated="2013-11-02T06:48:25-04:00">
+  <state datetime="2013-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-24"/>
+  </status>
+  <introduced datetime="2013-07-24"/>
+  <titles>
+    <title type="official" as="introduced">Proposing an amendment to the Constitution of the United States allowing the States to call a limited convention solely for the purposes of considering whether to propose a specific amendment to the Constitution.</title>
+  </titles>
+  <sponsor id="400089"/>
+  <cosponsors>
+    <cosponsor id="400029" joined="2013-07-24"/>
+    <cosponsor id="400657" joined="2013-07-24"/>
+    <cosponsor id="400381" joined="2013-09-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-24" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Intergovernmental relations"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>7/24/2013--Introduced.
+Constitutional Amendment - Requires Congress, on application of the legislatures of two-thirds of the several states, each of which contains an identical amendment to the Constitution, to call a convention solely to decide whether to propose that specific amendment to the states.</summary>
+</bill>

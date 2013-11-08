@@ -1,0 +1,50 @@
+<bill session="113" type="s" number="155" updated="2013-11-02T06:53:30-04:00">
+  <state datetime="2013-06-18">REPORTED</state>
+  <status>
+    <unknown datetime="2013-06-18"/>
+  </status>
+  <introduced datetime="2013-01-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate a mountain in the State of Alaska as Denali.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors>
+    <cosponsor id="412326" joined="2013-04-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S330"/>
+    </action>
+    <action datetime="2013-01-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2013-04-23">
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 113-27.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2013-06-18" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2013-09-10">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-93.</text>
+    </action>
+    <calendar datetime="2013-09-10" calendar="Senate Legislative" under="General Orders" number="171">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 171.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="National Parks" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Alaska"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments/>
+  <summary>9/10/2013--Reported to Senate without amendment.
+Designates a specified mountain in Alaska as "Denali."</summary>
+</bill>

@@ -1,0 +1,79 @@
+<bill session="111" type="h" number="2247" updated="2013-07-19T23:32:02-04:00">
+  <state datetime="2009-06-16T14:33:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-06-16T14:33:00-04:00"/>
+  </status>
+  <introduced datetime="2009-05-05"/>
+  <titles>
+    <title as="introduced" type="short">Congressional Review Act Improvement Act</title>
+    <title as="reported to house" type="short">Congressional Review Act Improvement Act</title>
+    <title as="passed house" type="short">Congressional Review Act Improvement Act</title>
+    <title as="introduced" type="official">To amend title 5, United States Code, to make technical amendments to certain provisions of title 5, United States Code, enacted by the Congressional Review Act.</title>
+  </titles>
+  <sponsor id="412236"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2009-05-05"/>
+    <cosponsor id="400141" joined="2009-05-05"/>
+    <cosponsor id="400381" joined="2009-05-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-05-05">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2009-05-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-05-20">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2009-06-12T13:36:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 111-150.</text>
+    </action>
+    <calendar datetime="2009-06-12T13:36:00-04:00" calendar="Union" number="74">
+      <text>Placed on the Union Calendar, Calendar No. 74.</text>
+    </calendar>
+    <action datetime="2009-06-15T17:01:00-04:00">
+      <text>Mr. Cohen moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-06-15T17:02:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6773-6775" label="consideration"/>
+    </action>
+    <action datetime="2009-06-15T17:02:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2247.</text>
+    </action>
+    <action datetime="2009-06-15T17:06:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2009-06-16T14:27:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6849" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-06-16T14:33:00-04:00" how="roll" result="pass" roll="343" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 343).</text>
+      <reference ref="CR 6/15/2009 H6773-6774" label="text"/>
+    </vote>
+    <action datetime="2009-06-16T14:33:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-06-17">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Government information and archives"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/2009--Passed House amended.
+Congressional Review Act Improvement Act - Eliminates a requirement that federal agencies must submit specified information about a rule to both Houses of Congress before such rule can take effect (thus requiring that the information be submitted to only the Comptroller General). Requires the Comptroller General to submit to each House a weekly report containing a list of the rules received, including a notation identifying each major rule. Requires the Speaker of the House of Representatives to publish such report in the Congressional Record.</summary>
+</bill>

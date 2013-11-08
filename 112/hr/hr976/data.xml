@@ -1,0 +1,47 @@
+<bill session="112" type="h" number="976" updated="2013-07-20T01:18:47-04:00">
+  <state datetime="2011-03-09">REFERRED</state>
+  <status>
+    <introduced datetime="2011-03-09"/>
+  </status>
+  <introduced datetime="2011-03-09"/>
+  <titles>
+    <title as="introduced" type="official">To terminate certain hydropower reservations, and for other purposes.</title>
+  </titles>
+  <sponsor id="412403"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2011-03-09">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2011-03-11">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-03-11">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-12-02">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee activity="Referral, Hearings" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="524"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Land transfers"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <summary>3/9/2011--Introduced.
+Terminates certain hydropower reservations relating to specified Bureau of Land Management patents affecting certain lands in Madera County, California: (1) now owned by named individuals; and (2) conveyed to other named individuals.</summary>
+</bill>

@@ -1,0 +1,66 @@
+<bill session="113" type="h" number="2472" updated="2013-11-02T06:39:48-04:00">
+  <state datetime="2013-06-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-20"/>
+  </status>
+  <introduced datetime="2013-06-20"/>
+  <titles>
+    <title type="official" as="introduced">To amend the National Labor Relations Act and the Railway Labor Act to prohibit the preemption of State stalking laws.</title>
+  </titles>
+  <sponsor id="400626"/>
+  <cosponsors>
+    <cosponsor id="412547" joined="2013-06-20"/>
+    <cosponsor id="400029" joined="2013-06-20"/>
+    <cosponsor id="400032" joined="2013-06-20"/>
+    <cosponsor id="412252" joined="2013-06-25"/>
+    <cosponsor id="400141" joined="2013-06-20"/>
+    <cosponsor id="412437" joined="2013-06-27"/>
+    <cosponsor id="400221" joined="2013-06-20"/>
+    <cosponsor id="412552" joined="2013-06-27"/>
+    <cosponsor id="400320" joined="2013-06-20"/>
+    <cosponsor id="412314" joined="2013-07-11"/>
+    <cosponsor id="400627" joined="2013-06-20"/>
+    <cosponsor id="400433" joined="2013-06-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-20" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-06-20">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2013-06-20">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2013-06-21">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2013-07-08">
+      <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+      <committee name="House Education and the Workforce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Health, Employment, Labor, and Pensions" name="House Education and the Workforce"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW14" subcommittee="Railroads, Pipelines, and Hazardous Materials" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="2473"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Civil actions and liability"/>
+    <term name="Federal preemption"/>
+    <term name="Labor-management relations"/>
+    <term name="Railroads"/>
+    <term name="State and local government operations"/>
+    <term name="Transportation employees"/>
+  </subjects>
+  <amendments/>
+  <summary>6/20/2013--Introduced.
+Amends the National Labor Relations Act and the Railway Labor Act to declare that nothing in those Acts shall be construed to preempt a law of any state, U.S. territory, or the District of Columbia that prohibits, criminalizes, or creates a civil cause of action for stalking, cyberstalking, or harassment.</summary>
+</bill>

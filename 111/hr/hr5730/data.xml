@@ -1,0 +1,75 @@
+<bill session="111" type="h" number="5730" updated="2013-07-20T00:04:18-04:00">
+  <state datetime="2010-07-27T16:11:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-07-27T16:11:00-04:00"/>
+  </status>
+  <introduced datetime="2010-07-14"/>
+  <titles>
+    <title as="introduced" type="short">Surface Transportation Earmark Rescission, Savings, and Accountability Act</title>
+    <title as="passed house" type="short">Surface Transportation Earmark Rescission, Savings, and Accountability Act</title>
+    <title as="introduced" type="official">To rescind earmarks for certain surface transportation projects.</title>
+  </titles>
+  <sponsor id="412298"/>
+  <cosponsors>
+    <cosponsor id="400134" joined="2010-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2010-07-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1313"/>
+    </action>
+    <action state="REFERRED" datetime="2010-07-14">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2010-07-15">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-07-27T11:19:00-04:00">
+      <text>Ms. Markey (CO) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-07-27T11:20:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6068-6071" label="consideration"/>
+    </action>
+    <action datetime="2010-07-27T11:20:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5730.</text>
+    </action>
+    <action datetime="2010-07-27T11:34:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-07-27T16:05:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6112-6113" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-07-27T16:11:00-04:00" how="roll" result="pass" roll="471" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 394 - 23 (Roll no. 471).</text>
+      <reference ref="CR H6068" label="text"/>
+    </vote>
+    <action datetime="2010-07-27T16:11:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-07-28">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2010-08-03">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Appropriations"/>
+    <term name="Pennsylvania"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation programs funding"/>
+  </subjects>
+  <amendments/>
+  <summary>7/27/2010--Passed House without amendment.
+Surface Transportation Earmark Rescission, Savings, and Accountability Act - Rescinds certain unobligated amounts allocated under the Intermodal Surface Transportation Efficiency Act of 1991 (ISTEA) for: (1) high cost bridge projects; (2) congestion relief projects; (3) high priority corridor segments on the National Highway System; (4) rural and urban access projects and urban mobility projects; (5) innovative projects; and (6) priority intermodal transportation projects. Rescinds certain unobligated amounts allocated under the Surface Transportation and Uniform Relocation Assistance Act of 1987 (STURAA) for federal-aid system demonstration projects. Rescinds unobligated amounts under the Transportation Equity Act for the 21st Century (TEA-21) for certain high priority projects in which less than 10% of the amount authorized for such projects has been obligated. Repeals the designation of a specified segment of U.S. Route 322 as an addition to Corridor O in Pennsylvania on the Appalachian development highway system. Rescinds a specified amount of unallocated funds authorized for FY2005-FY2009 under the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (SAFETEA-LU) for the high priority projects program. Requires the Secretary of Transportation (DOT) to report to Congress on each authorized project in the following categories that has inactive funds or that has been completed in the previous fiscal year: (1) each high priority project authorization under TEA-21; (2) each project of national and regional significance, highway construction project in a corridor of national significance, high priority project authorization, and transportation improvement project under SAFETEA-LU; and (3) specified bridge program set-aside projects. Requires such report also to specify for each project the amount of funds authorized, any unobligated balance of funds, and a reference to its public law and section and project number.</summary>
+</bill>

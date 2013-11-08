@@ -1,0 +1,45 @@
+<bill session="111" type="h" number="3418" updated="2013-07-19T23:42:59-04:00">
+  <state datetime="2009-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2009-07-30"/>
+  </status>
+  <introduced datetime="2009-07-30"/>
+  <titles>
+    <title as="introduced" type="short">Medicare Prescription Drug Cost Equalization Act</title>
+    <title as="introduced" type="official">To amend part D of title XVIII of the Social Security Act to apply the exceptions process for tiered formulary drugs to specialty tier drugs.</title>
+  </titles>
+  <sponsor id="412206"/>
+  <cosponsors>
+    <cosponsor id="412267" joined="2009-09-14"/>
+    <cosponsor id="412287" joined="2010-04-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-30">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-07-30">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-07-30">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2009-07-31">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Medicare"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+  <summary>7/30/2009--Introduced.
+Medicare Prescription Drug Cost Equalization Act - Amends part D (Voluntary Prescription Drug Benefit Program) of title XVIII (Medicare) of the Social Security Act to require application to specialty tier drugs (very high cost and unique items) of the process for exception from the tiered cost-sharing for drugs included within a formulary. (Under an exception, a nonpreferred drug could be covered under the terms applicable for preferred drugs if the prescribing physician determines that the preferred drug for treatment of the same condition either would not be as effective for the individual, or would have adverse effects for the individual, or both.)</summary>
+</bill>

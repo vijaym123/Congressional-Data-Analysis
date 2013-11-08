@@ -1,0 +1,68 @@
+<bill session="112" type="h" number="6633" updated="2013-07-20T02:07:10-04:00">
+  <state datetime="2012-12-19T15:33:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-12-19T15:33:00-05:00"/>
+  </status>
+  <introduced datetime="2012-12-05"/>
+  <titles>
+    <title as="introduced" type="official">To designate the United States courthouse located at 101 East Pecan Street in Sherman, Texas, as the "Paul Brown United States Courthouse".</title>
+  </titles>
+  <sponsor id="400165"/>
+  <cosponsors>
+    <cosponsor id="400046" joined="2012-12-12"/>
+    <cosponsor id="400655" joined="2012-12-05"/>
+    <cosponsor id="400089" joined="2012-12-12"/>
+    <cosponsor id="400651" joined="2012-12-12"/>
+    <cosponsor id="400157" joined="2012-12-12"/>
+    <cosponsor id="400175" joined="2012-12-12"/>
+    <cosponsor id="400206" joined="2012-12-12"/>
+    <cosponsor id="400656" joined="2012-12-12"/>
+    <cosponsor id="400311" joined="2012-12-12"/>
+    <cosponsor id="400381" joined="2012-12-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-12-05">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2012-12-06">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2012-12-19T15:33:00-05:00">
+      <text>Mr. Denham asked unanimous consent to discharge from committee and consider.</text>
+      <reference ref="CR H7318" label="consideration"/>
+    </action>
+    <action datetime="2012-12-19T15:33:00-05:00">
+      <text>Committee on Transportation discharged.</text>
+    </action>
+    <action datetime="2012-12-19T15:33:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H7318" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-12-19T15:33:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H7318" label="text"/>
+    </vote>
+    <action datetime="2012-12-19T15:33:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-12-20">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Judges"/>
+    <term name="Texas"/>
+  </subjects>
+  <amendments/>
+  <summary>12/19/2012--Passed House without amendment.
+Designates the U.S. courthouse located at 101 East Pecan Street in Sherman, Texas, as the "Paul Brown United States Courthouse."</summary>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="111" type="h" number="1163" updated="2013-07-19T23:22:20-04:00">
+  <state datetime="2009-02-24">REFERRED</state>
+  <status>
+    <introduced datetime="2009-02-24"/>
+  </status>
+  <introduced datetime="2009-02-24"/>
+  <titles>
+    <title as="introduced" type="official">To direct the Secretary of Veterans Affairs to establish a national cemetery in the Sarpy County region to serve veterans in eastern Nebraska, western Iowa, and northwest Missouri.</title>
+  </titles>
+  <sponsor id="400400"/>
+  <cosponsors>
+    <cosponsor id="400640" joined="2009-02-24"/>
+    <cosponsor id="400220" joined="2009-02-24"/>
+    <cosponsor id="412217" joined="2009-02-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-24">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-02-24">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2009-02-24">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2009-02-27">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="746"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Iowa"/>
+    <term name="Missouri"/>
+    <term name="Nebraska"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/2009--Introduced.
+Directs the Secretary of Veterans Affairs to establish a national cemetery in the Sarpy County, Nebraska, region to serve the needs of veterans and their families in Nebraska, Iowa, and Missouri.</summary>
+</bill>

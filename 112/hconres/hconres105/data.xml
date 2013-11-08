@@ -1,0 +1,70 @@
+<bill session="112" type="hc" number="105" updated="2013-07-20T02:09:53-04:00">
+  <state datetime="2012-05-09">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2012-05-09"/>
+  </status>
+  <introduced datetime="2012-02-28"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of Emancipation Hall in the Capitol Visitor Center for an event to celebrate the birthday of King Kamehameha.</title>
+  </titles>
+  <sponsor id="412418"/>
+  <cosponsors>
+    <cosponsor id="412200" joined="2012-02-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-02-28">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2012-05-07T16:01:00-04:00">
+      <text>Mr. Harper moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2012-05-07T16:02:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2292-2295" label="consideration"/>
+    </action>
+    <action datetime="2012-05-07T16:02:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 105.</text>
+    </action>
+    <action datetime="2012-05-07T16:20:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2012-05-07T18:32:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2301" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-05-07T18:56:00-04:00" how="roll" result="pass" roll="196" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 376 - 0 (Roll no. 196).</text>
+      <reference ref="CR H2292" label="text"/>
+    </vote>
+    <action datetime="2012-05-07T18:56:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-05-08">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2012-05-09" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S3049" label="consideration"/>
+    </vote>
+    <action datetime="2012-05-10">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="sc" number="16"/>
+    <bill relation="unknown" session="112" type="sc" number="16"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Hawaii"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+  <summary>5/9/2012--Passed Senate without amendment.
+Authorizes the use of Emancipation Hall in the Capitol Visitor Center for an event on June 24, 2012, to celebrate the birthday of King Kamehameha (Hawaii).</summary>
+</bill>

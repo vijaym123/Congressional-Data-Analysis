@@ -1,0 +1,121 @@
+<bill session="111" type="h" number="860" updated="2013-07-19T23:19:39-04:00">
+  <state datetime="2009-09-22T14:25:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-09-22T14:25:00-04:00"/>
+  </status>
+  <introduced datetime="2009-02-04"/>
+  <titles>
+    <title as="introduced" type="short">Coral Reef Conservation Act Reauthorization and Enhancement Amendments of 2009</title>
+    <title as="reported to house" type="short">Coral Reef Conservation Act Reauthorization and Enhancement Amendments of 2009</title>
+    <title as="reported to house" partial="1" type="short">Coral Reef Conservation Amendments Act of 2009</title>
+    <title as="passed house" type="short">Coral Reef Conservation Act Reauthorization and Enhancement Amendments of 2009</title>
+    <title as="introduced" type="official">To reauthorize the Coral Reef Conservation Act of 2000, and for other purposes.</title>
+  </titles>
+  <sponsor id="400041"/>
+  <cosponsors>
+    <cosponsor id="400001" joined="2009-02-04"/>
+    <cosponsor id="400009" joined="2009-04-21"/>
+    <cosponsor id="400062" joined="2009-02-04"/>
+    <cosponsor id="412195" joined="2009-02-09"/>
+    <cosponsor id="400073" joined="2009-02-04"/>
+    <cosponsor id="400128" joined="2009-02-04"/>
+    <cosponsor id="400129" joined="2009-02-04"/>
+    <cosponsor id="400162" joined="2009-02-04"/>
+    <cosponsor id="400170" joined="2009-02-04"/>
+    <cosponsor id="400178" joined="2009-02-04"/>
+    <cosponsor id="412200" joined="2009-02-04"/>
+    <cosponsor id="400185" joined="2009-02-04"/>
+    <cosponsor id="400222" joined="2009-02-04"/>
+    <cosponsor id="412198" joined="2009-02-04"/>
+    <cosponsor id="400237" joined="2009-02-04"/>
+    <cosponsor id="412306" joined="2009-02-09"/>
+    <cosponsor id="400344" joined="2009-02-04"/>
+    <cosponsor id="412312" joined="2009-02-04"/>
+    <cosponsor id="400623" joined="2009-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-02-04">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E212"/>
+    </action>
+    <action state="REFERRED" datetime="2009-02-04">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-02-06">
+      <text>Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-02-25">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-04-22">
+      <text>Subcommittee on Insular Affairs, Oceans and Wildlife Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-04-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-04-22">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2009-07-10T13:06:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-196.</text>
+    </action>
+    <calendar datetime="2009-07-10T13:07:00-04:00" calendar="Union" number="103">
+      <text>Placed on the Union Calendar, Calendar No. 103.</text>
+    </calendar>
+    <action datetime="2009-09-22T14:17:00-04:00">
+      <text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-09-22T14:17:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9744-9750" label="consideration"/>
+    </action>
+    <action datetime="2009-09-22T14:17:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 860.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-09-22T14:25:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H9744-9748" label="text"/>
+    </vote>
+    <action datetime="2009-09-22T14:25:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-09-23">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII22" subcommittee="Insular Affairs, Oceans and Wildlife" name="House Natural Resources"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="2859"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Aquatic ecology"/>
+    <term name="Department of Commerce"/>
+    <term name="Department of the Interior"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Government trust funds"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Licensing and registrations"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Marine pollution"/>
+    <term name="Research administration and funding"/>
+    <term name="User charges and fees"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+  <summary>9/22/2009--Passed House amended.
+Coral Reef Conservation Act Reauthorization and Enhancement Amendments of 2009 - Title I: Amendments to the Coral Reef Conservation Act - (Sec. 101) Amends the Coral Reef Conservation Act of 2000 to extend the award of remaining coral reef conservation program grant funds to appropriate projects, including monitoring and assessment, research, pollution reduction, education, and technical support. (Sec. 102) Authorizes actions to: (1) minimize injury to a coral reef or loss of an ecosystem function from vessel impacts, derelict fishing gear, vessel anchors and anchor chains, and from unforeseen or disaster-related circumstances as a result of human activities; and (2) stabilize, repair, or restore the reef, including vessel removal and emergency stabilization of the vessel or reef. Deems specified terms (such as "sanctuary resources" and "national marine sanctuary") to include any coral reef that is subject to the jurisdiction of the United States or (subject to state consent) any state, regardless of whether the reef is in a national marine sanctuary. Makes the destruction, loss, or injury of a coral reef not unlawful in certain circumstances, including if it was: (1) caused by fishing gear used in a way that is not prohibited by the Magnuson-Stevens Fishery Conservation and Management Act; (2) caused by activity authorized by federal or state law; (3) subject to exception, the necessary result of marine scientific research (including such research approved by federal, state, or local permits); (4) caused by a federal agency in certain circumstances; or (5) unavoidable. (Sec. 103) Modifies the Act's purposes, the goals and objectives of the national coral reef action strategy, and the Act's authorized activities. Directs the Secretary of Commerce to provide for the long-term stewardship of environmental data. (Sec. 104) Requires a report every five years to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives regarding all strategy implementation activities. (Sec. 105) Allows the Coral Reef Conservation Fund to be used to address emergency response actions. Authorizes the Administrator of the National Oceanic and Atmospheric Administration (NOAA) to: (1) make community-based planning grants for increased protection of high priority coral reefs; (2) maintain an inventory of all vessel grounding incidents involving coral reefs; (3) identify all coral reefs with a high incidence of vessel impacts; and (4) identify measures to reduce such impacts. Directs the Secretary to submit an international coral reef ecosystem strategy to specified congressional committees. Authorizes the Secretary to establish an international coral reef ecosystem partnership program to provide support, including funding and technical assistance, for activities that implement the strategy. Requires that priority be given to regional initiatives and projects that states are participating in with other nations. Authorizes issuance of research permits and the assessment of related fees. Requires coral reef conservation programs and projects to be applied in accordance with international law. (Sec. 107) Authorizes appropriations for FY2010-FY2014 to the Secretaries of Commerce and the Interior to carry out the Act. Title II: United States Coral Reef Task Force - (Sec. 201) Establishes the U.S. Coral Reef Task Force to coordinate federal actions regarding such ecosystems. Title III: Department of the Interior Coral Reef Authorities - (Sec. 301) Amends the Fish and Wildlife Coordination Act to include in the definition of "wildlife" and "wildlife resources" coral reef ecosystems located in the National Park System, the National Wildlife Refuge System, or any Marine National Monument designated under the Act popularly known as the Antiquities Act. Requires, regarding authorities under the Fish and Wildlife Act of 1956 and the Fish and Wildlife Improvement Act of 1978, that references to "wildlife" and "fish and wildlife" be construed to include such ecosystems located in those systems or any such monument. Authorizes the Secretary of the Interior, subject to appropriations, to provide financial assistance for coral reef conservation.</summary>
+</bill>

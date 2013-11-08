@@ -1,0 +1,89 @@
+<bill session="113" type="h" number="1162" updated="2013-11-02T06:28:44-04:00">
+  <state datetime="2013-04-15T18:57:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-04-15T18:57:00-04:00"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title type="short" as="introduced">Government Accountability Office Improvement Act</title>
+    <title type="short" as="reported to house">Government Accountability Office Improvement Act</title>
+    <title type="short" as="passed house">Government Accountability Office Improvement Act</title>
+    <title type="official" as="introduced">To amend title 31, United States Code, to make improvements in the Government Accountability Office.</title>
+  </titles>
+  <sponsor id="400196"/>
+  <cosponsors>
+    <cosponsor id="400090" joined="2013-03-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-14" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2013-03-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar datetime="2013-03-20" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2013-04-12T13:06:00-04:00">
+      <text>Reported by the Committee on Oversight and Government Reform. H. Rept. 113-36.</text>
+    </action>
+    <calendar datetime="2013-04-12T13:06:00-04:00" calendar="Union" number="22">
+      <text>Placed on the Union Calendar, Calendar No. 22.</text>
+    </calendar>
+    <action datetime="2013-04-15T17:02:00-04:00">
+      <text>Mr. Issa moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2013-04-15T17:02:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1998-1999" label="consideration"/>
+    </action>
+    <action datetime="2013-04-15T17:02:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1162.</text>
+    </action>
+    <action datetime="2013-04-15T17:11:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-04-15T18:32:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2010-2011" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="103" datetime="2013-04-15T18:57:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 103).</text>
+      <reference ref="CR H1998" label="text"/>
+    </vote>
+    <action datetime="2013-04-15T18:57:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-04-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2013-07-31">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, Reporting"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Civil actions and liability"/>
+    <term name="Congressional agencies"/>
+    <term name="Congressional oversight"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government Accountability Office (GAO)"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Trade secrets and economic espionage"/>
+  </subjects>
+  <amendments/>
+  <summary>4/15/2013--Passed House amended.
+Government Accountability Office Improvement Act - Authorizes the Comptroller General to: (1) obtain federal agency records required to discharge his or her duties (including audit, evaluation, and investigative duties), including through bringing civil actions under this Act, (2) make and retain copies of agency records, and (3) administer oaths when investigating fraud or federal employee misconduct. States that no provision of the Social Security Act or the Federal Food, Drug, and Cosmetic Act shall be construed to limit, amend, or supersede the Comptroller General's authority to obtain any information, inspect, or copy any record under this Act. Requires the Comptroller General to prescribe policies and procedures to protect from public disclosure proprietary or trade secret information obtained pursuant to the authority of the Government Accountability Office (GAO). Declares that nothing in this Act shall be construed to: (1) alter or amend the prohibitions against the disclosure of trade secret or other sensitive information prohibited by federal and other applicable laws; or (2) affect the applicability of this Act, including the protections against unauthorized disclosure to obtained information. Requires agency statements on actions taken or planned in response to Comptroller General recommendations to be submitted to the congressional committees with jurisdiction over the pertinent agency program or activity and to GAO.</summary>
+</bill>

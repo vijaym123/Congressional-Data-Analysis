@@ -1,0 +1,58 @@
+<bill session="111" type="h" number="3136" updated="2013-07-19T23:40:18-04:00">
+  <state datetime="2009-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2009-07-08"/>
+  </status>
+  <introduced datetime="2009-07-08"/>
+  <titles>
+    <title as="introduced" type="official">To extend the program to provide grants for specified energy property in lieu of tax credits.</title>
+  </titles>
+  <sponsor id="412214"/>
+  <cosponsors>
+    <cosponsor id="400042" joined="2009-07-08"/>
+    <cosponsor id="400259" joined="2009-07-08"/>
+    <cosponsor id="400262" joined="2009-09-23"/>
+    <cosponsor id="400266" joined="2009-07-08"/>
+    <cosponsor id="400299" joined="2009-07-08"/>
+    <cosponsor id="412303" joined="2009-07-27"/>
+    <cosponsor id="412304" joined="2009-07-08"/>
+    <cosponsor id="400316" joined="2009-07-08"/>
+    <cosponsor id="400339" joined="2009-07-08"/>
+    <cosponsor id="412232" joined="2009-09-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-08">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-07-08">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2009-07-08">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-07-09">
+      <text>Referred to the Subcommittee on Energy and Environment.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="5252"/>
+    <bill relation="unknown" session="111" type="h" number="5931"/>
+    <bill relation="unknown" session="111" type="s" number="2899"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Business investment and capital"/>
+    <term name="Income tax credits"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>7/8/2009--Introduced.
+Amends the American Recovery and Reinvestment Tax Act of 2009 to extend the grant program for investment in renewable energy property, including renewable resources used to produce electricity and fuel cell, solar, wind, geothermal, and microturbine property, in lieu of tax credits, by extending the placed-in-service deadline for such property through 2012. Extends through September 30, 2013, the deadline for submitting grant applications for such program.</summary>
+</bill>

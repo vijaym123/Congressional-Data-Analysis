@@ -1,0 +1,44 @@
+<bill session="111" type="h" number="1071" updated="2013-07-19T23:21:29-04:00">
+  <state datetime="2009-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2009-02-13"/>
+  </status>
+  <introduced datetime="2009-02-13"/>
+  <titles>
+    <title as="introduced" type="short">Keeping America's Freeways Free Act</title>
+    <title as="introduced" type="official">To prohibit the imposition and collection of tolls on certain highways constructed using Federal funds.</title>
+  </titles>
+  <sponsor id="412317"/>
+  <cosponsors>
+    <cosponsor id="400133" joined="2009-06-10"/>
+    <cosponsor id="400654" joined="2009-06-10"/>
+    <cosponsor id="400339" joined="2009-02-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-13">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2009-02-14">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="1115"/>
+    <bill relation="unknown" session="111" type="s" number="1115"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation costs"/>
+    <term name="Transportation programs funding"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2009--Introduced.
+Keeping America's Freeways Free Act - Prohibits, with a specified exception, the imposition or collection of a toll on any portion of a federal highway facility: (1) that is in existence upon enactment of this Act; and (2) on which no toll is imposed or collected under a tolling provision on such enactment.</summary>
+</bill>

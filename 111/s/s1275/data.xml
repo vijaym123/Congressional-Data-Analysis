@@ -1,0 +1,102 @@
+<bill session="111" type="s" number="1275" updated="2013-07-20T00:34:56-04:00">
+  <state datetime="2010-12-22">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2010-12-22"/>
+  </status>
+  <introduced datetime="2009-06-16"/>
+  <titles>
+    <title as="introduced" type="short">National Foundation on Physical Fitness and Sports Establishment Act</title>
+    <title as="passed house" type="short">National Foundation on Fitness, Sports, and Nutrition Establishment Act</title>
+    <title as="reported to senate" type="short">National Foundation on Fitness, Sports, and Nutrition Establishment Act</title>
+    <title as="passed senate" type="short">National Foundation on Fitness, Sports, and Nutrition Establishment Act</title>
+    <title as="enacted" type="short">National Foundation on Fitness, Sports, and Nutrition Establishment Act</title>
+    <title as="introduced" type="official">A bill to establish a National Foundation on Physical Fitness and Sports to carry out activities to support and supplement the mission of the President's Council on Physical Fitness and Sports.</title>
+  </titles>
+  <sponsor id="412321"/>
+  <cosponsors>
+    <cosponsor id="300006" joined="2010-04-13"/>
+    <cosponsor id="412326" joined="2010-09-29"/>
+    <cosponsor id="412384" joined="2010-09-16"/>
+    <cosponsor id="412328" joined="2010-04-21"/>
+    <cosponsor id="400064" joined="2010-08-02"/>
+    <cosponsor id="300019" joined="2010-04-29"/>
+    <cosponsor id="300056" joined="2010-06-21"/>
+    <cosponsor id="300070" joined="2010-05-07"/>
+    <cosponsor id="412325" joined="2010-06-28"/>
+    <cosponsor id="400412" joined="2010-03-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-16">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2010-12-01">
+      <text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment favorably.</text>
+      <committee name="Committee on Health, Education, Labor, and Pensions"/>
+    </calendar>
+    <action datetime="2010-12-07">
+      <text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="2010-12-07" calendar="Senate Legislative" under="General Orders" number="677">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 677.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2010-12-09" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S8690-6892" label="consideration"/>
+      <reference ref="CR S8691-8692" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2010-12-10">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2010-12-13T10:02:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2010-12-13T11:55:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2010-12-14T16:14:00-05:00">
+      <text>Mr. Grijalva moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-12-14T16:14:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8321-8324" label="consideration"/>
+    </action>
+    <action datetime="2010-12-14T16:14:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 1275.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2010-12-14T16:28:00-05:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H8322-8323" label="text"/>
+    </vote>
+    <action datetime="2010-12-14T16:28:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2010-12-14">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2010-12-16">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2010-12-22">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2010-12-22" type="public" number="111-332">
+      <text>Became Public Law No: 111-332.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="4322"/>
+  </relatedbills>
+  <subjects>
+    <term name="Sports and recreation"/>
+    <term name="Intellectual property"/>
+    <term name="Marketing and advertising"/>
+    <term name="Physical fitness and lifestyle"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>12/22/2010--Public Law.
+National Foundation on Fitness, Sports, and Nutrition Establishment Act - Establishes the National Foundation on Fitness, Sports, and Nutrition as a charitable, nonprofit corporation: (1) to develop, in conjunction with the Office of the President's Council on Fitness, Sports and Nutrition, a list and description of activities which would further the purposes and functions outlined in Executive Order 13265 (established the President's Council on Physical Fitness and Sports) and with respect to which combined private and governmental efforts would be beneficial; (2) to promote private organization participation in, and private gifts to support, those activities; and (3) in consultation with such Office, to undertake and support activities to further the purposes and functions of such Executive Order. Prohibits the Foundation from accepting any federal funds.</summary>
+</bill>

@@ -1,0 +1,57 @@
+<bill session="112" type="hc" number="138" updated="2013-07-20T02:10:10-04:00">
+  <state datetime="2012-09-20">REFERRED</state>
+  <status>
+    <introduced datetime="2012-09-20"/>
+  </status>
+  <introduced datetime="2012-09-20"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing Birmingham, Alabama, as the home to the first and longest running celebration of Veterans Day.</title>
+  </titles>
+  <sponsor id="400010"/>
+  <cosponsors>
+    <cosponsor id="412396" joined="2012-09-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-09-20">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2012-09-20">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2012-09-20">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2012-10-11">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2012-10-19">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Armed Services"/>
+    </action>
+    <action datetime="2013-01-02">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="sr" number="591"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Alabama"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>9/20/2012--Introduced.
+Recognizes Birmingham, Alabama, as the home to the first and longest running celebration of Veterans Day. Recognizes Raymond Weeks for his pioneering efforts in the establishment of Veterans Day. Honors the sacrifices and pays tribute to the men and women in uniform at home and overseas.</summary>
+</bill>

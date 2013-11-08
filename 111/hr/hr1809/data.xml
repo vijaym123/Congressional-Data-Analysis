@@ -1,0 +1,41 @@
+<bill session="111" type="h" number="1809" updated="2013-07-19T23:28:03-04:00">
+  <state datetime="2009-03-31">REFERRED</state>
+  <status>
+    <introduced datetime="2009-03-31"/>
+  </status>
+  <introduced datetime="2009-03-31"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 10, United States Code, to expand the geographical coverage of TRICARE Prime to include Puerto Rico and Guam.</title>
+  </titles>
+  <sponsor id="412306"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2009-03-31"/>
+    <cosponsor id="412276" joined="2010-12-01"/>
+    <cosponsor id="412312" joined="2009-04-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-31">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2009-04-27">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Caribbean area"/>
+    <term name="Guam"/>
+    <term name="Health care coverage and access"/>
+    <term name="Military medicine"/>
+    <term name="Puerto Rico"/>
+  </subjects>
+  <amendments/>
+  <summary>3/31/2009--Introduced.
+Includes Puerto Rico and Guam within the coverage area of TRICARE Prime (a Department of Defense [DOD] managed health care program).</summary>
+</bill>

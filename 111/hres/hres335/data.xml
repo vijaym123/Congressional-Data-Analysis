@@ -1,0 +1,62 @@
+<bill session="111" type="hr" number="335" updated="2013-07-19T22:58:53-04:00">
+  <state datetime="2009-04-27T19:18:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2009-04-27T19:18:00-04:00"/>
+  </status>
+  <introduced datetime="2009-04-21"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals and ideals of National Volunteer Week.</title>
+  </titles>
+  <sponsor id="400321"/>
+  <cosponsors>
+    <cosponsor id="400663" joined="2009-04-21"/>
+    <cosponsor id="400326" joined="2009-04-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-04-21">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2009-04-27T14:28:00-04:00">
+      <text>Mr. Sablan moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2009-04-27T14:29:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4741-4742" label="consideration"/>
+    </action>
+    <action datetime="2009-04-27T14:29:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 335.</text>
+    </action>
+    <action datetime="2009-04-27T14:35:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Sablan objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2009-04-27T19:10:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4752-4753" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2009-04-27T19:18:00-04:00" how="roll" result="pass" roll="209" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 396 - 0 (Roll no. 209).</text>
+      <reference ref="CR H4741" label="text"/>
+    </vote>
+    <action datetime="2009-04-27T19:18:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-06-04">
+      <text>Referred to the Subcommittee on Healthy Families and Communities.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral"/>
+    <committee activity="Referral" code="HSED04" subcommittee="Healthy Families and Communities" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="National and community service"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/27/2009--Passed House without amendment.
+Supports the goals and ideals of National Volunteer Week. Recognizes the critical role of our national and community service programs. Honors the contributions of all those hard-working American volunteers who make a difference in their communities every day of the year. Invites all Americans to answer the call to serve through volunteerism in any form.</summary>
+</bill>

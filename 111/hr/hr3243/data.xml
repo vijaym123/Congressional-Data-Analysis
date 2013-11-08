@@ -1,0 +1,93 @@
+<bill session="111" type="h" number="3243" updated="2013-07-19T23:41:19-04:00">
+  <state datetime="2010-09-30T00:36:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-09-30T00:36:00-04:00"/>
+  </status>
+  <introduced datetime="2009-07-16"/>
+  <titles>
+    <title as="introduced" type="official">To amend section 5542 of title 5, United States Code, to provide that any hours worked by Federal firefighters under a qualified trade-of-time arrangement shall be excluded for purposes of determinations relating to overtime pay.</title>
+  </titles>
+  <sponsor id="412212"/>
+  <cosponsors>
+    <cosponsor id="400062" joined="2010-09-16"/>
+    <cosponsor id="412272" joined="2010-04-14"/>
+    <cosponsor id="400144" joined="2009-07-16"/>
+    <cosponsor id="400178" joined="2009-10-29"/>
+    <cosponsor id="400295" joined="2010-09-23"/>
+    <cosponsor id="400321" joined="2010-03-25"/>
+    <cosponsor id="412219" joined="2010-04-13"/>
+    <cosponsor id="412255" joined="2010-04-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-07-16">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1822"/>
+    </action>
+    <action state="REFERRED" datetime="2009-07-16">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2009-07-31">
+      <text>Referred to the Subcommittee on Federal Workforce, Post Office, and the District of Columbia.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <action datetime="2010-05-27">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <action datetime="2010-05-27">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <action datetime="2010-09-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-09-23">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2010-09-28T15:10:00-04:00">
+      <text>Ms. Chu moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-09-28T15:10:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7038-7039" label="consideration"/>
+    </action>
+    <action datetime="2010-09-28T15:10:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3243.</text>
+    </action>
+    <action datetime="2010-09-28T15:14:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Bilbray objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2010-09-30T00:36:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7379" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-09-30T00:36:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR 9/28/2010 H7038" label="text"/>
+    </vote>
+    <action datetime="2010-09-30T00:36:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-11-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+    <committee activity="Referral, Markup, Reporting" code="HSGO25" subcommittee="Federal Workforce, Post Office, and the District of Columbia" name="House Oversight and Government Reform"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3365"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Fires"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+  </subjects>
+  <amendments/>
+  <summary>9/30/2010--Passed House without amendment.
+Requires disregard of any hours worked by a firefighter under a qualified trade-of-time arrangement for purposes of any determination relating to federal eligibility for or the amount of any overtime pay.</summary>
+</bill>

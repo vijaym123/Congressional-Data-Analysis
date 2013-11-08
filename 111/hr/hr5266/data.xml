@@ -1,0 +1,83 @@
+<bill session="111" type="h" number="5266" updated="2013-07-19T23:59:52-04:00">
+  <state datetime="2010-07-20T14:21:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-07-20T14:21:00-04:00"/>
+  </status>
+  <introduced datetime="2010-05-11"/>
+  <titles>
+    <title as="introduced" type="short">National Commission on Children and Disasters Reauthorization Act of 2010</title>
+    <title as="reported to house" type="short">National Commission on Children and Disasters Reauthorization Act of 2010</title>
+    <title as="passed house" type="short">National Commission on Children and Disasters Reauthorization Act of 2010</title>
+    <title as="introduced" type="official">To extend the final report deadline and otherwise reauthorize the National Commission on Children and Disasters.</title>
+  </titles>
+  <sponsor id="400048"/>
+  <cosponsors>
+    <cosponsor id="400290" joined="2010-07-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-05-11">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2010-05-12">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-07-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-07-01">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2010-07-01">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-07-19T14:32:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 111-548.</text>
+    </action>
+    <calendar datetime="2010-07-19T14:32:00-04:00" calendar="Union" number="313">
+      <text>Placed on the Union Calendar, Calendar No. 313.</text>
+    </calendar>
+    <action datetime="2010-07-20T14:09:00-04:00">
+      <text>Ms. Norton moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-07-20T14:10:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5740-5743" label="consideration"/>
+    </action>
+    <action datetime="2010-07-20T14:10:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5266.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-07-20T14:21:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H5740-5641" label="text"/>
+    </vote>
+    <action datetime="2010-07-20T14:21:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-07-21">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Other Legislative Involvement"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="3897"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Advisory bodies"/>
+    <term name="Child safety and welfare"/>
+    <term name="Congressional oversight"/>
+    <term name="Natural disasters"/>
+  </subjects>
+  <amendments/>
+  <summary>7/20/2010--Passed House without amendment.
+National Commission on Children and Disasters Reauthorization Act of 2010 - Amends the Kids in Disasters Well-being, Safety, and Health Act of 2007 to authorize appropriations for the National Commission on Children and Disasters through FY2013. Requires any vacancy in the Commission to be filled within 90 days after the date of the vacancy. Requires the Commission to submit: (1) interim reports to the President and Congress annually; and (2) its final report by December 31, 2012.</summary>
+</bill>

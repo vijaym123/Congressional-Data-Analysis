@@ -1,0 +1,86 @@
+<bill session="112" type="s" number="1639" updated="2013-07-20T02:30:35-04:00">
+  <state datetime="2011-12-13">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2011-12-13"/>
+  </status>
+  <introduced datetime="2011-10-03"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend title 36, United States Code, to authorize the American Legion under its Federal charter to provide guidance and leadership to the individual departments and posts of the American Legion, and for other purposes.</title>
+  </titles>
+  <sponsor id="412244"/>
+  <cosponsors>
+    <cosponsor id="412326" joined="2011-10-06"/>
+    <cosponsor id="412246" joined="2011-10-06"/>
+    <cosponsor id="412218" joined="2011-10-03"/>
+    <cosponsor id="300065" joined="2011-10-05"/>
+    <cosponsor id="300091" joined="2011-10-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-10-03">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2011-10-06">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S6352" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2011-10-06" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6352" label="text"/>
+    </vote>
+    <action datetime="2011-10-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2011-10-11T14:02:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2011-10-11">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2011-10-24">
+      <text>Referred to the Subcommittee on Immigration Policy and Enforcement.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2011-12-06T16:48:00-05:00">
+      <text>Mr. Gohmert moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2011-12-06T16:48:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8172-8173" label="consideration"/>
+    </action>
+    <action datetime="2011-12-06T16:48:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 1639.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2011-12-06T16:59:00-05:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H8172" label="text"/>
+    </vote>
+    <action datetime="2011-12-06T16:59:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2011-12-08">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2011-12-13">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2011-12-13" type="public" number="112-66">
+      <text>Became Public Law No: 112-66.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration Policy and Enforcement" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="2369"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Federally chartered organizations"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>12/13/2011--Public Law.
+Authorizes the American Legion under its federal charter to provide guidance and leadership to its state and territorial organizations and local chapters. Prohibits it from controlling or otherwise influencing their specific activities and conduct.</summary>
+</bill>

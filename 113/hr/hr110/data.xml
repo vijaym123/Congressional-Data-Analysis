@@ -1,0 +1,52 @@
+<bill session="113" type="h" number="110" updated="2013-11-02T06:19:55-04:00">
+  <state datetime="2013-01-03">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-03"/>
+  </status>
+  <introduced datetime="2013-01-03"/>
+  <titles>
+    <title type="official" as="introduced">To require the Secretary of the Army to determine the validity of the claims of certain Filipinos that they performed military service on behalf of the United States during World War II.</title>
+  </titles>
+  <sponsor id="412418"/>
+  <cosponsors>
+    <cosponsor id="412379" joined="2013-01-22"/>
+    <cosponsor id="400128" joined="2013-01-22"/>
+    <cosponsor id="412318" joined="2013-01-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-03" state="REFERRED">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-01-03">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2013-01-03">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2013-01-11">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2013-01-31">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Asia"/>
+    <term name="Military history"/>
+    <term name="Philippines"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/3/2013--Introduced.
+Directs the Secretary of the Army to issue a certificate of service to any Filipino national who the Secretary determines performed any military service in the Philippine Islands during World War II qualifying such person or such person's survivor to receive any military, veterans', or other benefits under U.S. laws.</summary>
+</bill>

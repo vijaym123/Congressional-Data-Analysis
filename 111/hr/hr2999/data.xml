@@ -1,0 +1,131 @@
+<bill session="111" type="h" number="2999" updated="2013-07-19T23:38:58-04:00">
+  <state datetime="2010-09-30T00:39:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-09-30T00:39:00-04:00"/>
+  </status>
+  <introduced datetime="2009-06-23"/>
+  <titles>
+    <title as="introduced" type="short">Veterinary Public Health Workforce and Education Act</title>
+    <title as="reported to house" type="short">Veterinary Public Health Amendments Act of 2010</title>
+    <title as="passed house" type="short">Veterinary Public Health Amendments Act of 2010</title>
+    <title as="introduced" type="official">To amend the Public Health Service Act to enhance and increase the number of veterinarians trained in veterinary public health.</title>
+  </titles>
+  <sponsor id="400013"/>
+  <cosponsors>
+    <cosponsor id="400628" joined="2009-10-27"/>
+    <cosponsor id="400030" joined="2010-03-11"/>
+    <cosponsor id="400645" joined="2010-04-20"/>
+    <cosponsor id="400073" joined="2010-09-14"/>
+    <cosponsor id="400129" joined="2009-10-27"/>
+    <cosponsor id="400140" joined="2010-04-26"/>
+    <cosponsor id="412188" joined="2009-07-07"/>
+    <cosponsor id="400160" joined="2009-10-08"/>
+    <cosponsor id="412281" joined="2010-01-12"/>
+    <cosponsor id="400443" joined="2010-01-12"/>
+    <cosponsor id="400207" joined="2009-07-31"/>
+    <cosponsor id="412298" joined="2010-02-04"/>
+    <cosponsor id="400253" joined="2010-04-22"/>
+    <cosponsor id="400259" joined="2010-04-20"/>
+    <cosponsor id="400263" joined="2009-10-27"/>
+    <cosponsor id="412189" joined="2010-06-24"/>
+    <cosponsor id="400274" joined="2009-11-03"/>
+    <cosponsor id="400282" joined="2009-12-16"/>
+    <cosponsor id="400284" joined="2009-11-03"/>
+    <cosponsor id="400285" joined="2009-06-23"/>
+    <cosponsor id="400290" joined="2009-10-27"/>
+    <cosponsor id="400291" joined="2010-03-11"/>
+    <cosponsor id="400308" joined="2009-06-23"/>
+    <cosponsor id="400328" joined="2010-03-16"/>
+    <cosponsor id="400342" joined="2009-10-27"/>
+    <cosponsor id="400360" joined="2010-08-10"/>
+    <cosponsor id="412315" joined="2009-06-23"/>
+    <cosponsor id="412232" joined="2009-09-24"/>
+    <cosponsor id="412239" joined="2009-11-19"/>
+    <cosponsor id="400439" joined="2009-10-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-23">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2009-06-24">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2010-09-15">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2010-09-16">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2010-09-16">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2010-09-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-09-23">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2010-09-28T15:26:00-04:00">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-634.</text>
+    </action>
+    <calendar datetime="2010-09-28T15:27:00-04:00" calendar="Union" number="374">
+      <text>Placed on the Union Calendar, Calendar No. 374.</text>
+    </calendar>
+    <action datetime="2010-09-28T21:28:00-04:00">
+      <text>Mr. Pallone moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-09-28T21:28:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7178" label="consideration"/>
+    </action>
+    <action datetime="2010-09-28T21:28:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2999.</text>
+    </action>
+    <action datetime="2010-09-28T21:32:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Burgess objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2010-09-30T00:38:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7379" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-09-30T00:39:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR 9/28/2010 H7178" label="text"/>
+    </vote>
+    <action datetime="2010-09-30T00:39:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-11-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Environmental health"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Food supply, safety, and labeling"/>
+    <term name="Homeland security"/>
+    <term name="Infectious and parasitic diseases"/>
+    <term name="Medical education"/>
+    <term name="Student aid and college costs"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Veterinary medicine and animal diseases"/>
+  </subjects>
+  <amendments/>
+  <summary>9/30/2010--Passed House amended.
+Veterinary Public Health Amendments Act of 2010 - Amends the Public Health Service Act to revise a public health workforce grant program designed to increase the number of individuals in the public health workforce to include a health professions school or program of veterinary public health. Defines "veterinary public health" to include veterinarians engaged in one or more of the following areas to the extent such areas have an impact on human health: biodefense and emergency preparedness; emerging and reemerging infection diseases; environmental health; ecosystem health pre- and post-harvest food protection; regulatory medicine; diagnostic laboratory medicine; veterinary pathology; biomedical research; the practice of food animal medicine in rural areas; and government practice. Expands the public health workforce loan repayment program to make such veterinarians eligible for the program.</summary>
+</bill>

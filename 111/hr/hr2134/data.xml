@@ -1,0 +1,125 @@
+<bill session="111" type="h" number="2134" updated="2013-07-19T23:30:53-04:00">
+  <state datetime="2009-12-08T11:10:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-12-08T11:10:00-05:00"/>
+  </status>
+  <introduced datetime="2009-04-28"/>
+  <titles>
+    <title as="introduced" type="short">Western Hemisphere Drug Policy Commission Act of 2009</title>
+    <title as="passed house" type="short">Western Hemisphere Drug Policy Commission Act of 2009</title>
+    <title as="introduced" type="official">To establish the Western Hemisphere Drug Policy Commission.</title>
+  </titles>
+  <sponsor id="400122"/>
+  <cosponsors>
+    <cosponsor id="400024" joined="2009-05-21"/>
+    <cosponsor id="400025" joined="2009-04-28"/>
+    <cosponsor id="400039" joined="2009-04-28"/>
+    <cosponsor id="400055" joined="2009-04-28"/>
+    <cosponsor id="412221" joined="2009-05-12"/>
+    <cosponsor id="400657" joined="2009-05-12"/>
+    <cosponsor id="400093" joined="2009-05-12"/>
+    <cosponsor id="400102" joined="2009-04-28"/>
+    <cosponsor id="400129" joined="2009-05-12"/>
+    <cosponsor id="412188" joined="2009-05-12"/>
+    <cosponsor id="400160" joined="2009-05-12"/>
+    <cosponsor id="400178" joined="2009-06-04"/>
+    <cosponsor id="400179" joined="2009-05-12"/>
+    <cosponsor id="400185" joined="2009-05-12"/>
+    <cosponsor id="400198" joined="2009-12-01"/>
+    <cosponsor id="400204" joined="2009-05-21"/>
+    <cosponsor id="400622" joined="2009-04-28"/>
+    <cosponsor id="400271" joined="2009-05-12"/>
+    <cosponsor id="400283" joined="2009-05-19"/>
+    <cosponsor id="400312" joined="2009-05-19"/>
+    <cosponsor id="412306" joined="2009-04-28"/>
+    <cosponsor id="400333" joined="2009-05-19"/>
+    <cosponsor id="400337" joined="2009-05-12"/>
+    <cosponsor id="400343" joined="2009-05-12"/>
+    <cosponsor id="400347" joined="2009-05-12"/>
+    <cosponsor id="400350" joined="2009-10-22"/>
+    <cosponsor id="400371" joined="2009-05-12"/>
+    <cosponsor id="412186" joined="2009-05-12"/>
+    <cosponsor id="400395" joined="2009-05-12"/>
+    <cosponsor id="400430" joined="2009-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-04-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E992-993"/>
+    </action>
+    <action state="REFERRED" datetime="2009-04-28">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-04-28">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2009-04-28">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2009-04-28">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-04-29">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2009-06-12">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <action datetime="2009-07-13">
+      <text>Referred to the Subcommittee on the Western Hemisphere.</text>
+      <committee name="House Foreign Affairs"/>
+    </action>
+    <action datetime="2009-10-15">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Foreign Affairs"/>
+    </action>
+    <action datetime="2009-10-15">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) .</text>
+      <committee name="House Foreign Affairs"/>
+    </action>
+    <action datetime="2009-12-08T11:01:00-05:00">
+      <text>Mr. Engel moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-12-08T11:01:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H13560-13563" label="consideration"/>
+    </action>
+    <action datetime="2009-12-08T11:01:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2134.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-12-08T11:10:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H13560-13561" label="text"/>
+    </vote>
+    <action datetime="2009-12-08T11:10:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-12-09">
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral, Markup, Reporting" code="HSFA07" subcommittee="Western Hemisphere" name="House Foreign Affairs"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Advisory bodies"/>
+    <term name="Caribbean area"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Latin America"/>
+    <term name="Western Hemisphere"/>
+  </subjects>
+  <amendments/>
+  <summary>12/8/2009--Passed House amended.
+Western Hemisphere Drug Policy Commission Act of 2009 - Establishes the Western Hemisphere Drug Policy Commission, which shall: (1) review and evaluate U.S. policy regarding illicit drug supply reduction and interdiction, with particular emphasis on international drug policies and programs directed toward the countries of the Western Hemisphere; (2) review and evaluate foreign and domestic demand reduction policies and programs; and (3) identify policy and program options to improve existing international and domestic counternarcotics policy. Sets forth Commission duties. Authorizes appropriations. Terminates the Commission 60 days after submission of the report required under this Act.</summary>
+</bill>

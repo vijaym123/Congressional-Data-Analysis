@@ -1,0 +1,42 @@
+<bill session="112" type="h" number="3073" updated="2013-07-20T01:36:49-04:00">
+  <state datetime="2011-09-29">REFERRED</state>
+  <status>
+    <introduced datetime="2011-09-29"/>
+  </status>
+  <introduced datetime="2011-09-29"/>
+  <titles>
+    <title as="introduced" type="official">To designate the Haqqani network as a foreign terrorist organization.</title>
+  </titles>
+  <sponsor id="400652"/>
+  <cosponsors>
+    <cosponsor id="400654" joined="2012-05-30"/>
+    <cosponsor id="400371" joined="2011-10-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-09-29">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2011-10-12">
+      <text>Referred to the Subcommittee on Immigration Policy and Enforcement.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration Policy and Enforcement" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="3366"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Afghanistan"/>
+    <term name="Asia"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Pakistan"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>9/29/2011--Introduced.
+Directs the Secretary of State to designate the Haqqani network (an insurgent network operating in Pakistan and Afghanistan) as a foreign terrorist organization.</summary>
+</bill>

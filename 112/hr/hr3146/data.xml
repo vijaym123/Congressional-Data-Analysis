@@ -1,0 +1,81 @@
+<bill session="112" type="h" number="3146" updated="2013-07-20T01:37:26-04:00">
+  <state datetime="2011-10-11">REFERRED</state>
+  <status>
+    <introduced datetime="2011-10-11"/>
+  </status>
+  <introduced datetime="2011-10-11"/>
+  <titles>
+    <title as="introduced" type="short">American Innovation and Education Act of 2011</title>
+    <title as="introduced" type="official">To amend the Immigration and Nationality Act to promote innovation, investment, and research in the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="412419"/>
+  <cosponsors>
+    <cosponsor id="412420" joined="2011-10-11"/>
+    <cosponsor id="412401" joined="2011-10-11"/>
+    <cosponsor id="412486" joined="2012-06-28"/>
+    <cosponsor id="412411" joined="2011-10-11"/>
+    <cosponsor id="400365" joined="2011-10-11"/>
+    <cosponsor id="412430" joined="2011-10-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-10-11">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Science, Space, and Technology, and Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-10-11">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2011-10-11">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+    <action datetime="2011-10-11">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2011-10-24">
+      <text>Referred to the Subcommittee on Immigration Policy and Enforcement.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <action datetime="2011-11-18">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+      <committee name="House Education and the Workforce"/>
+    </action>
+    <action datetime="2011-11-18">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+      <committee name="House Education and the Workforce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration Policy and Enforcement" name="House Judiciary"/>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral, In Committee"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED14" subcommittee="Early Childhood, Elementary, and Secondary Education" name="House Education and the Workforce"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education and Workforce Training" name="House Education and the Workforce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="2161"/>
+    <bill relation="unknown" session="112" type="s" number="1986"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Department of Labor"/>
+    <term name="Education of the disadvantaged"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Employment and training programs"/>
+    <term name="Foreign labor"/>
+    <term name="Higher education"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Minority education"/>
+    <term name="Science and engineering education"/>
+    <term name="Student aid and college costs"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="User charges and fees"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>10/11/2011--Introduced.
+American Innovation and Education Act of 2011 - Amends the Immigration and Nationality Act to establish a priority worker immigrant visa for an alien who has a qualifying: (1) master's or higher degree in a field of science, technology, engineering, or mathematics (STEM degree) from a U.S. institution of higher education; and (2) employment offer from a U.S. employer. Eliminates the foreign residency requirement for certain foreign students. Revises per country (and dependent) area limits to: (1) eliminate employment-based limits, and (2) increase family-based limits. Amends the Chinese Student Protection Act of 1992 to eliminate the provision requiring the reduction of annual Chinese (PRC) immigrant visas to offset status adjustments under such Act. Establishes in the Treasury the STEM Education and Training Account. Sets aside specified Account funds for: (1) a STEM scholarship program for low-income U.S. students enrolled in degree programs in science, technology, engineering, or mathematics; (2) a grant program to improve K-12 education, including through private-public partnerships; and (3) programs for STEM capacity building at minority-serving institutions of higher education. Revises labor certification provisions, including: (1) requiring the Department of Labor to adjudicate an application within 120 days, and (2) creating an Established U.S. Recruiter designation for recruiters who regularly recruit U.S. workers. Establishes in the Treasury the Labor Certification Application Fee Account. Directs the Secretary of Homeland Security (DHS) to establish a pre-certification procedure for employers who file multiple petitions for employment-based immigrants or for certain nonimmigrant workers. Makes the discretionary fee for employment-based petitions and applications mandatory.</summary>
+</bill>

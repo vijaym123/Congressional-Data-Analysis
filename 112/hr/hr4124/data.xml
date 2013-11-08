@@ -1,0 +1,106 @@
+<bill session="112" type="h" number="4124" updated="2013-07-20T01:45:45-04:00">
+  <state datetime="2012-09-19T21:27:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-09-19T21:27:00-04:00"/>
+  </status>
+  <introduced datetime="2012-03-01"/>
+  <titles>
+    <title as="introduced" type="short">Veteran Emergency Medical Technician Support Act of 2012</title>
+    <title as="passed house" type="short">Veteran Emergency Medical Technician Support Act of 2012</title>
+    <title as="introduced" type="official">To amend the Public Health Service Act to provide grants to States to streamline State requirements and procedures for veterans with military emergency medical training to become civilian emergency medical technicians.</title>
+  </titles>
+  <sponsor id="412421"/>
+  <cosponsors>
+    <cosponsor id="412208" joined="2012-07-24"/>
+    <cosponsor id="400052" joined="2012-07-10"/>
+    <cosponsor id="400616" joined="2012-03-01"/>
+    <cosponsor id="400062" joined="2012-03-01"/>
+    <cosponsor id="412379" joined="2012-03-05"/>
+    <cosponsor id="400110" joined="2012-07-12"/>
+    <cosponsor id="412205" joined="2012-05-16"/>
+    <cosponsor id="412482" joined="2012-09-11"/>
+    <cosponsor id="400147" joined="2012-03-22"/>
+    <cosponsor id="412453" joined="2012-04-17"/>
+    <cosponsor id="412454" joined="2012-03-21"/>
+    <cosponsor id="400178" joined="2012-06-25"/>
+    <cosponsor id="412200" joined="2012-07-17"/>
+    <cosponsor id="412422" joined="2012-03-01"/>
+    <cosponsor id="412283" joined="2012-03-01"/>
+    <cosponsor id="400219" joined="2012-05-08"/>
+    <cosponsor id="400234" joined="2012-04-16"/>
+    <cosponsor id="400274" joined="2012-04-24"/>
+    <cosponsor id="412307" joined="2012-05-15"/>
+    <cosponsor id="400326" joined="2012-04-17"/>
+    <cosponsor id="412331" joined="2012-04-24"/>
+    <cosponsor id="400333" joined="2012-04-16"/>
+    <cosponsor id="412253" joined="2012-03-05"/>
+    <cosponsor id="400345" joined="2012-03-26"/>
+    <cosponsor id="400360" joined="2012-07-09"/>
+    <cosponsor id="412423" joined="2012-03-01"/>
+    <cosponsor id="412314" joined="2012-03-01"/>
+    <cosponsor id="400379" joined="2012-03-05"/>
+    <cosponsor id="412259" joined="2012-03-05"/>
+    <cosponsor id="400387" joined="2012-03-26"/>
+    <cosponsor id="400388" joined="2012-09-12"/>
+    <cosponsor id="400409" joined="2012-03-01"/>
+    <cosponsor id="412413" joined="2012-03-05"/>
+    <cosponsor id="412255" joined="2012-03-27"/>
+    <cosponsor id="412430" joined="2012-04-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-03-01">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2012-03-02">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2012-09-11">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2012-09-11">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) .</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2012-09-19T21:17:00-04:00">
+      <text>Mr. Pitts moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-09-19T21:17:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6142-6144" label="consideration"/>
+    </action>
+    <action datetime="2012-09-19T21:17:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4124.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-09-19T21:27:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6142" label="text"/>
+    </vote>
+    <action datetime="2012-09-19T21:27:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-09-20">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Licensing and registrations"/>
+    <term name="Medical education"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>9/19/2012--Passed House amended.
+Veteran Emergency Medical Technician Support Act of 2012 - Amends the Public Health Service Act to direct the Secretary of Health and Human Services (HHS) to establish a program consisting of awarding demonstration grants to states that demonstrate a shortage of emergency medical technicians (EMTs) to streamline state requirements and procedures in order to assist veterans who completed military EMT training while serving in the Armed Forces to meet state EMT certification, licensure, and other requirements. Requires $1 million of the amount authorized to carry out the area health education center program to be authorized to carry out this Act for FY2013-FY2017.</summary>
+</bill>

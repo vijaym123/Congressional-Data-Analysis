@@ -1,0 +1,44 @@
+<bill session="112" type="hc" number="9" updated="2013-07-20T02:09:05-04:00">
+  <state datetime="2011-01-19">REFERRED</state>
+  <status>
+    <introduced datetime="2011-01-19"/>
+  </status>
+  <introduced datetime="2011-01-19"/>
+  <titles>
+    <title as="introduced" type="official">Honoring the service and sacrifice of Army Staff Sergeant Salvatore Giunta, a native of Hiawatha, Iowa, and the first living recipient of the Medal of Honor since the Vietnam War.</title>
+  </titles>
+  <sponsor id="412209"/>
+  <cosponsors>
+    <cosponsor id="400042" joined="2011-01-19"/>
+    <cosponsor id="412208" joined="2011-01-19"/>
+    <cosponsor id="400220" joined="2011-01-19"/>
+    <cosponsor id="400234" joined="2011-01-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-01-19">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2011-02-04">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="sc" number="3"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Afghanistan"/>
+    <term name="Asia"/>
+    <term name="Congressional tributes"/>
+    <term name="Military operations and strategy"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>1/19/2011--Introduced.
+Honors the service and sacrifice of Staff Sergeant Salvatore Giunta, U.S. Army, the first living recipient of the Medal of Honor since the Vietnam War. Encourages the people of the United States to recognize his valor and heroism.</summary>
+</bill>

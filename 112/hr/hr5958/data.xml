@@ -1,0 +1,83 @@
+<bill session="112" type="h" number="5958" updated="2013-07-20T02:01:26-04:00">
+  <state datetime="2012-07-23T15:53:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-07-23T15:53:00-04:00"/>
+  </status>
+  <introduced datetime="2012-06-18"/>
+  <titles>
+    <title as="introduced" type="official">To name the Jamaica Bay Wildlife Refuge Visitor Contact Station of the Jamaica Bay Wildlife Refuge unit of Gateway National Recreation Area in honor of James L. Buckley.</title>
+  </titles>
+  <sponsor id="412499"/>
+  <cosponsors>
+    <cosponsor id="412451" joined="2012-06-18"/>
+    <cosponsor id="400219" joined="2012-06-18"/>
+    <cosponsor id="412393" joined="2012-06-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-06-18">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2012-06-26">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-06-28">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-07-11">
+      <text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-07-11">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2012-07-19T17:40:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 112-608.</text>
+    </action>
+    <calendar datetime="2012-07-19T17:40:00-04:00" calendar="House" number="148">
+      <text>Placed on the House Calendar, Calendar No. 148.</text>
+    </calendar>
+    <action datetime="2012-07-23T15:47:00-04:00">
+      <text>Mr. Hastings (WA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-07-23T15:48:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5086-5087" label="consideration"/>
+    </action>
+    <action datetime="2012-07-23T15:48:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5958.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-07-23T15:53:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H5086" label="text"/>
+    </vote>
+    <action datetime="2012-07-23T15:53:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-07-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Judges"/>
+    <term name="Members of Congress"/>
+    <term name="New York City"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Senate"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+  <summary>7/23/2012--Passed House without amendment.
+Designates the Jamaica Bay Wildlife Refuge Visitor Contact Station of the Jamaica Bay Wildlife Refuge unit of Gateway National Recreation Area in the state of New York as the "James L. Buckley Visitor Contact Station."</summary>
+</bill>

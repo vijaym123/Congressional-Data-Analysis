@@ -1,0 +1,37 @@
+<bill session="111" type="h" number="6023" updated="2013-07-20T00:06:58-04:00">
+  <state datetime="2010-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2010-07-30"/>
+  </status>
+  <introduced datetime="2010-07-30"/>
+  <titles>
+    <title as="introduced" type="official">To deauthorize a portion of the project for navigation, Chicago Harbor, Illinois, under the jurisdiction of the Corps of Engineers.</title>
+  </titles>
+  <sponsor id="400093"/>
+  <cosponsors>
+    <cosponsor id="400630" joined="2010-07-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-30">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2010-08-02">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Illinois"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="Water resources funding"/>
+  </subjects>
+  <amendments/>
+  <summary>7/30/2010--Introduced.
+Deauthorizes a portion of the project for navigation, Chicago Harbor, Illinois, authorized by the Acts of March 3, 1899, and March 2, 1919.</summary>
+</bill>

@@ -1,0 +1,127 @@
+<bill session="112" type="h" number="3158" updated="2013-07-20T01:37:32-04:00">
+  <state datetime="2012-08-01T19:50:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-08-01T19:50:00-04:00"/>
+  </status>
+  <introduced datetime="2011-10-12"/>
+  <titles>
+    <title as="introduced" type="short">Farmers Undertake Environmental Land Stewardship Act</title>
+    <title as="introduced" type="short">FUELS Act</title>
+    <title as="reported to house" type="short">Farmers Undertake Environmental Land Stewardship Act</title>
+    <title as="reported to house" type="short">FUELS Act</title>
+    <title as="passed house" type="short">Farmers Undertake Environmental Land Stewardship Act</title>
+    <title as="passed house" type="short">FUELS Act</title>
+    <title as="introduced" type="official">To direct the Administrator of the Environmental Protection Agency to change the Spill Prevention, Control, and Countermeasure rule with respect to certain farms.</title>
+  </titles>
+  <sponsor id="412400"/>
+  <cosponsors>
+    <cosponsor id="412469" joined="2012-07-31"/>
+    <cosponsor id="412458" joined="2011-10-12"/>
+    <cosponsor id="400645" joined="2011-11-10"/>
+    <cosponsor id="400042" joined="2012-06-19"/>
+    <cosponsor id="412481" joined="2011-10-26"/>
+    <cosponsor id="400068" joined="2011-10-12"/>
+    <cosponsor id="412269" joined="2011-10-12"/>
+    <cosponsor id="400077" joined="2011-10-12"/>
+    <cosponsor id="412441" joined="2012-07-26"/>
+    <cosponsor id="412403" joined="2011-10-12"/>
+    <cosponsor id="400121" joined="2011-10-12"/>
+    <cosponsor id="412482" joined="2012-07-24"/>
+    <cosponsor id="412479" joined="2011-10-12"/>
+    <cosponsor id="412476" joined="2011-10-12"/>
+    <cosponsor id="412401" joined="2011-10-12"/>
+    <cosponsor id="412437" joined="2011-11-10"/>
+    <cosponsor id="412422" joined="2012-07-24"/>
+    <cosponsor id="412460" joined="2011-11-01"/>
+    <cosponsor id="400207" joined="2011-10-12"/>
+    <cosponsor id="400209" joined="2011-11-10"/>
+    <cosponsor id="412287" joined="2012-06-19"/>
+    <cosponsor id="400224" joined="2011-11-29"/>
+    <cosponsor id="412464" joined="2011-10-26"/>
+    <cosponsor id="400234" joined="2011-11-16"/>
+    <cosponsor id="412256" joined="2011-10-12"/>
+    <cosponsor id="412445" joined="2011-10-26"/>
+    <cosponsor id="400247" joined="2011-10-12"/>
+    <cosponsor id="400266" joined="2012-06-19"/>
+    <cosponsor id="400274" joined="2012-07-31"/>
+    <cosponsor id="400276" joined="2012-06-01"/>
+    <cosponsor id="412442" joined="2011-10-31"/>
+    <cosponsor id="400316" joined="2012-07-24"/>
+    <cosponsor id="400335" joined="2011-11-16"/>
+    <cosponsor id="412489" joined="2011-10-12"/>
+    <cosponsor id="400345" joined="2011-10-12"/>
+    <cosponsor id="412217" joined="2011-10-12"/>
+    <cosponsor id="400400" joined="2011-10-12"/>
+    <cosponsor id="400402" joined="2011-10-12"/>
+    <cosponsor id="412424" joined="2011-10-12"/>
+    <cosponsor id="400627" joined="2011-10-12"/>
+    <cosponsor id="412402" joined="2011-10-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-10-12">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2011-10-14">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2012-07-26">
+      <text>Subcommittee on Water Resources and Environment Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2012-07-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-07-26">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2012-08-01T11:18:00-04:00">
+      <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-643.</text>
+    </action>
+    <calendar datetime="2012-08-01T11:18:00-04:00" calendar="Union" number="462">
+      <text>Placed on the Union Calendar, Calendar No. 462.</text>
+    </calendar>
+    <action datetime="2012-08-01T19:41:00-04:00">
+      <text>Mr. Crawford moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-08-01T19:41:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5608-5609" label="consideration"/>
+    </action>
+    <action datetime="2012-08-01T19:41:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3158.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-08-01T19:50:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5608" label="text"/>
+    </vote>
+    <action datetime="2012-08-01T19:50:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-08-02">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="3559"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Agricultural conservation and pollution"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Oil and gas"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/2012--Passed House amended.
+Farmers Undertake Environmental Land Stewardship Act or the FUELS Act - Requires the Administrator of the Environmental Protection Agency (EPA), in implementing the Spill Prevention, Control, and Countermeasure rule with respect to any farm, to require certification of compliance with such rule by: (1) a professional engineer for a farm with an individual tank with an aboveground storage capacity greater than 10,000 gallons, an aggregate aboveground storage capacity of at least 42,000 gallons, or a history that includes a spill; or (2) the owner or operator of the farm (via self-certification) for a farm with an aggregate aboveground storage capacity greater than 10,000 gallons but less than 42,000 gallons and no history of spills. Exempts from all requirements of such rule any farm with an aggregate aboveground storage capacity of at least 10,000 gallons and no history of spills. Excludes all containers on separate parcels that have a capacity that is less than 1,320 gallons from the aggregate aboveground storage capacity of a farm.</summary>
+</bill>

@@ -1,0 +1,101 @@
+<bill session="111" type="h" number="1622" updated="2013-07-19T23:26:24-04:00">
+  <state datetime="2009-07-21T16:10:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-07-21T16:10:00-04:00"/>
+  </status>
+  <introduced datetime="2009-03-19"/>
+  <titles>
+    <title as="introduced" type="official">To provide for a program of research, development, and demonstration on natural gas vehicles.</title>
+  </titles>
+  <sponsor id="400392"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2009-04-21"/>
+    <cosponsor id="400645" joined="2009-03-19"/>
+    <cosponsor id="400052" joined="2009-04-02"/>
+    <cosponsor id="400108" joined="2009-06-26"/>
+    <cosponsor id="400160" joined="2009-03-19"/>
+    <cosponsor id="400165" joined="2009-03-19"/>
+    <cosponsor id="400247" joined="2009-05-06"/>
+    <cosponsor id="412293" joined="2009-06-18"/>
+    <cosponsor id="412299" joined="2009-04-02"/>
+    <cosponsor id="400260" joined="2009-04-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-19">
+      <text>Referred to the House Committee on Science and Technology.</text>
+    </action>
+    <action datetime="2009-03-26">
+      <text>Referred to the Subcommittee on Energy and Environment.</text>
+      <committee name="House Committee on Science and Technology"/>
+    </action>
+    <action datetime="2009-06-16">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Science and Technology"/>
+    </action>
+    <action datetime="2009-06-16">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Science and Technology"/>
+    </action>
+    <action datetime="2009-06-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Science and Technology"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-06-24">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Science and Technology"/>
+    </calendar>
+    <action datetime="2009-07-14T12:39:00-04:00">
+      <text>Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-206.</text>
+    </action>
+    <calendar datetime="2009-07-14T12:39:00-04:00" calendar="Union" number="112">
+      <text>Placed on the Union Calendar, Calendar No. 112.</text>
+    </calendar>
+    <action datetime="2009-07-20T14:22:00-04:00">
+      <text>Mr. Lujan moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-07-20T14:23:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8364-8367" label="consideration"/>
+    </action>
+    <action datetime="2009-07-20T14:23:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1622.</text>
+    </action>
+    <action datetime="2009-07-20T14:43:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2009-07-21T16:03:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H8446-8447" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-07-21T16:10:00-04:00" how="roll" result="pass" roll="598" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 35 (Roll no. 598).</text>
+      <reference ref="CR 7/20/2009 H8364-8365" label="text"/>
+    </vote>
+    <action datetime="2009-07-21T16:10:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-07-22">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science and Technology" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSSY20" subcommittee="Energy and Environment" name="House Science and Technology"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Air quality"/>
+    <term name="Department of Energy"/>
+    <term name="Energy research"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Hybrid, electric, and advanced technology vehicles"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+  </subjects>
+  <amendments/>
+  <summary>7/21/2009--Passed House amended.
+Directs the Secretary of Energy (DOE) to: (1) conduct a five-year program of natural gas vehicle research, development, and demonstration; (2) coordinate with the Administrator of the Environmental Protection Agency (EPA) regarding such program; (3) coordinate with the natural gas vehicle industry to ensure cooperation between the public and the private sector; and (4) report to Congress on implementing such program. Includes among program objectives: (1) the continued improvement and development of new, cleaner, more efficient light-, medium-, and heavy-duty natural gas vehicle engines for onroad and offroad applications; (2) the development and improvement of nationally recognized standards for the safe operation of natural gas vehicles and their components; (3) improvement in the reliability and efficiency of, and certification of, natural gas fueling station infrastructure; (4) the improvement of existing natural gas fuel storage systems and the development of new storage materials; and (5) the use of natural gas engines in hybrid vehicles. Authorizes appropriations.</summary>
+</bill>

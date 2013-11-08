@@ -1,0 +1,79 @@
+<bill session="112" type="h" number="4086" updated="2013-07-20T01:45:27-04:00">
+  <state datetime="2012-03-19T17:13:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-03-19T17:13:00-04:00"/>
+  </status>
+  <introduced datetime="2012-02-24"/>
+  <titles>
+    <title as="introduced" type="short">Foreign Cultural Exchange Jurisdictional Immunity Clarification Act</title>
+    <title as="reported to house" type="short">Foreign Cultural Exchange Jurisdictional Immunity Clarification Act</title>
+    <title as="passed house" type="short">Foreign Cultural Exchange Jurisdictional Immunity Clarification Act</title>
+    <title as="introduced" type="official">To amend chapter 97 of title 28, United States Code, to clarify the exception to foreign sovereign immunity set forth in section 1605(a)(3) of such title.</title>
+  </titles>
+  <sponsor id="400071"/>
+  <cosponsors>
+    <cosponsor id="412236" joined="2012-02-24"/>
+    <cosponsor id="400080" joined="2012-02-24"/>
+    <cosponsor id="400381" joined="2012-02-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-02-24">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2012-02-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-02-28">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2012-03-19T16:19:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 112-413.</text>
+    </action>
+    <calendar datetime="2012-03-19T16:20:00-04:00" calendar="Union" number="285">
+      <text>Placed on the Union Calendar, Calendar No. 285.</text>
+    </calendar>
+    <action datetime="2012-03-19T17:04:00-04:00">
+      <text>Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-03-19T17:04:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1370-1372" label="consideration"/>
+    </action>
+    <action datetime="2012-03-19T17:04:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4086.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-03-19T17:13:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H1370" label="text"/>
+    </vote>
+    <action datetime="2012-03-19T17:13:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-03-20">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="2212"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Art, artists, authorship"/>
+    <term name="Cultural exchanges and relations"/>
+    <term name="Government liability"/>
+    <term name="International law and treaties"/>
+    <term name="Jurisdiction and venue"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+    <term name="Property rights"/>
+    <term name="War crimes, genocide, crimes against humanity"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2012--Passed House amended.
+Foreign Cultural Exchange Jurisdictional Immunity Clarification Act - Amends the federal judicial code with respect to denial of a foreign state's immunity from the jurisdiction of U.S. or state courts (under the Foreign Sovereign Immunities Act) in cases where rights in property taken in violation of international law are in issue and that property (or any property exchanged for it) is: (1) present in the United States in connection with a commercial activity carried on by the foreign state in the United States; or (2) owned by an agency or instrumentality of the foreign state, and that agency or instrumentality is engaged in a commercial activity in the United States. Prohibits consideration as a commercial activity (excluded from jurisdictional immunity) any activity in the United States of a foreign state, or of any carrier, associated with a temporary exhibition or display if: (1) the work of art (or other object of cultural significance) in question is imported into the United States from any foreign country pursuant to an agreement for its temporary exhibition or display between a foreign state that is its owner or custodian and the United States or cultural or educational institutions within it; and (2) the President has determined, with notice in the Federal Register, that such work is culturally significant and its temporary exhibition or display is in the national interest. (Thus grants jurisdictional immunity to the foreign state and associated carrier for such works.) Denies application of this prohibition to cases in which: (1) the civil action filed is based upon a claim that the work was taken in Europe in violation of international law by the Nazi government of Germany or governments occupied, assisted, or allied by the Nazi government between January 30, 1933, and May 8, 1945; (2) the court determines that the activity associated with the exhibition or display is commercial; and (3) that determination is necessary for the court to exercise jurisdiction over the foreign state.</summary>
+</bill>

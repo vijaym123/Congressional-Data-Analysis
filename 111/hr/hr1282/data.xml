@@ -1,0 +1,40 @@
+<bill session="111" type="h" number="1282" updated="2013-07-19T23:23:22-04:00">
+  <state datetime="2009-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="2009-03-03"/>
+  </status>
+  <introduced datetime="2009-03-03"/>
+  <titles>
+    <title as="introduced" type="official">To authorize the Commandant of the Coast Guard to convey to the City of Marquette, Michigan, certain real property under the administrative control of the Coast Guard, and for other purposes.</title>
+  </titles>
+  <sponsor id="400391"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-03">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2009-03-04">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-03-04">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Land transfers"/>
+    <term name="Michigan"/>
+    <term name="Military facilities and property"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/2009--Introduced.
+Authorizes the Commandant of the Coast Guard to convey real property commonly identified as Coast Guard Station Marquette and Lighthouse Point to the city of Marquette, Michigan.</summary>
+</bill>

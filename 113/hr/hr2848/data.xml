@@ -1,0 +1,113 @@
+<bill session="113" type="h" number="2848" updated="2013-11-02T06:43:00-04:00">
+  <state datetime="2013-09-29T00:30:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-09-29T00:30:00-04:00"/>
+  </status>
+  <introduced datetime="2013-07-30"/>
+  <titles>
+    <title type="short" as="introduced">Department of State Operations and Embassy Security Authorization Act, Fiscal Year 2014</title>
+    <title type="short" as="reported to house">Department of State Operations and Embassy Security Authorization Act, Fiscal Year 2014</title>
+    <title type="official" as="introduced">To authorize appropriations for the Department of State for fiscal year 2014, and for other purposes.</title>
+  </titles>
+  <sponsor id="400348"/>
+  <cosponsors>
+    <cosponsor id="400122" joined="2013-07-30"/>
+    <cosponsor id="400128" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-30" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Foreign Affairs"/>
+    </action>
+    <calendar datetime="2013-08-01" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Foreign Affairs"/>
+    </calendar>
+    <action datetime="2013-09-25T12:30:00-04:00">
+      <text>Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 113-226.</text>
+    </action>
+    <calendar datetime="2013-09-25T12:30:00-04:00" calendar="Union" number="166">
+      <text>Placed on the Union Calendar, Calendar No. 166.</text>
+    </calendar>
+    <action datetime="2013-09-28T14:35:00-04:00">
+      <text>Mr. Royce moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2013-09-28T14:35:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5965-6075" label="consideration"/>
+    </action>
+    <action datetime="2013-09-28T14:35:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2848.</text>
+    </action>
+    <action datetime="2013-09-28T15:15:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-09-29T00:24:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR 9/28/2013 H6010" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="500" datetime="2013-09-29T00:30:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 37 (Roll no. 500).</text>
+      <reference ref="CR 9/28/2013 H5965-5971" label="text"/>
+    </vote>
+    <action datetime="2013-09-30">
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup, Reporting"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="731"/>
+    <bill relation="unknown" session="113" type="h" number="2099"/>
+    <bill relation="unknown" session="113" type="s" number="978"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Advisory bodies"/>
+    <term name="Canada"/>
+    <term name="Competition and antitrust"/>
+    <term name="Congressional oversight"/>
+    <term name="Crimes against property"/>
+    <term name="Cultural exchanges and relations"/>
+    <term name="Department of State"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Foreign language and bilingual programs"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="General foreign operations matters"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government studies and investigations"/>
+    <term name="Human rights"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="International exchange and broadcasting"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Law enforcement officers"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Mexico"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Performance measurement"/>
+    <term name="Political movements and philosophies"/>
+    <term name="Protection of officials"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Reconstruction and stabilization"/>
+    <term name="Sex offenses"/>
+    <term name="Terrorism"/>
+    <term name="Transportation safety and security"/>
+    <term name="Travel and tourism"/>
+    <term name="United Nations"/>
+    <term name="User charges and fees"/>
+    <term name="Visas and passports"/>
+    <term name="Water quality"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+</bill>

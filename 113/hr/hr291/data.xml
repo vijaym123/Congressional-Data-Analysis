@@ -1,0 +1,87 @@
+<bill session="113" type="h" number="291" updated="2013-11-02T06:21:25-04:00">
+  <state datetime="2013-05-06T19:07:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-05-06T19:07:00-04:00"/>
+  </status>
+  <introduced datetime="2013-01-15"/>
+  <titles>
+    <title type="short" as="introduced">Black Hills Cemetery Act</title>
+    <title type="short" as="reported to house">Black Hills Cemetery Act</title>
+    <title type="official" as="introduced">To provide for the conveyance of certain cemeteries that are located on National Forest System land in Black Hills National Forest, South Dakota.</title>
+  </titles>
+  <sponsor id="412475"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-01-15" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-01-31">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-03-20">
+      <text>Subcommittee on Public Lands and Environmental Regulation Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-03-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar datetime="2013-03-20" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2013-04-09T15:12:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 113-26.</text>
+    </action>
+    <calendar datetime="2013-04-09T15:13:00-04:00" calendar="Union" number="14">
+      <text>Placed on the Union Calendar, Calendar No. 14.</text>
+    </calendar>
+    <action datetime="2013-05-06T17:13:00-04:00">
+      <text>Mr. Young (AK) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-05-06T17:13:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2410-2411" label="consideration"/>
+    </action>
+    <action datetime="2013-05-06T17:13:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 291.</text>
+    </action>
+    <action datetime="2013-05-06T17:17:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-05-06T18:58:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2413" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="130" datetime="2013-05-06T19:07:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 2 (Roll no. 130).</text>
+      <reference ref="CR H2410" label="text"/>
+    </vote>
+    <action datetime="2013-05-06T19:07:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-05-07">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="447"/>
+    <bill relation="unknown" session="113" type="s" number="447"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Land transfers"/>
+    <term name="South Dakota"/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/2013--Passed House without amendment.
+Black Hills Cemetery Act - Directs the Secretary of Agriculture (USDA) to convey, to the local communities in South Dakota that are currently managing specified community cemeteries, all interest of the United States in: (1) the parcels of National Forest System land that contain the cemeteries, and (2) up to an additional two acres adjoining each cemetery to ensure that such conveyances include unmarked gravesites and allow for the expansion of those cemeteries. Requires: (1) each such conveyance to be subject to the condition that the recipient accept the conveyed real property in the condition it is in at the time of conveyance, (2) the conveyed lands to continue to be used in the same manner and for the same purposes as they were used immediately before their conveyance, and (3) the recipients of the parcels of the real property conveyed under this Act to bear the cost of the survey for their particular parcel.</summary>
+</bill>

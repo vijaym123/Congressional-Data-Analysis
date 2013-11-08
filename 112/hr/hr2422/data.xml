@@ -1,0 +1,127 @@
+<bill session="112" type="h" number="2422" updated="2013-07-20T01:31:17-04:00">
+  <state datetime="2012-01-03">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2012-01-03"/>
+  </status>
+  <introduced datetime="2011-07-06"/>
+  <titles>
+    <title as="introduced" type="official">To designate the facility of the United States Postal Service located at 45 Bay Street, Suite 2, in Staten Island, New York, as the "Sergeant Angel Mendez Post Office".</title>
+  </titles>
+  <sponsor id="412451"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="2011-07-06"/>
+    <cosponsor id="400031" joined="2011-07-06"/>
+    <cosponsor id="412456" joined="2011-07-06"/>
+    <cosponsor id="412221" joined="2011-07-06"/>
+    <cosponsor id="400087" joined="2011-07-06"/>
+    <cosponsor id="400122" joined="2011-07-06"/>
+    <cosponsor id="412453" joined="2011-07-06"/>
+    <cosponsor id="412454" joined="2011-07-06"/>
+    <cosponsor id="412452" joined="2011-07-06"/>
+    <cosponsor id="400641" joined="2011-07-06"/>
+    <cosponsor id="400178" joined="2011-07-06"/>
+    <cosponsor id="412497" joined="2011-07-06"/>
+    <cosponsor id="400195" joined="2011-07-06"/>
+    <cosponsor id="400219" joined="2011-07-06"/>
+    <cosponsor id="400246" joined="2011-07-06"/>
+    <cosponsor id="400251" joined="2011-07-06"/>
+    <cosponsor id="400257" joined="2011-07-06"/>
+    <cosponsor id="400271" joined="2011-07-06"/>
+    <cosponsor id="400289" joined="2011-07-06"/>
+    <cosponsor id="412383" joined="2011-07-06"/>
+    <cosponsor id="400333" joined="2011-07-06"/>
+    <cosponsor id="412393" joined="2011-07-06"/>
+    <cosponsor id="400366" joined="2011-07-06"/>
+    <cosponsor id="400378" joined="2011-07-06"/>
+    <cosponsor id="412319" joined="2011-07-06"/>
+    <cosponsor id="400409" joined="2011-07-06"/>
+    <cosponsor id="400416" joined="2011-07-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-07-06">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2011-11-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-11-03">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2011-11-14T17:16:00-05:00">
+      <text>Mr. Farenthold moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2011-11-14T17:16:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7413-7414" label="consideration"/>
+    </action>
+    <action datetime="2011-11-14T17:16:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2422.</text>
+    </action>
+    <action datetime="2011-11-14T17:24:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2011-11-14T19:01:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7419-7420" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-11-14T19:07:00-05:00" how="roll" result="pass" roll="839" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 839).</text>
+      <reference ref="CR H7413" label="text"/>
+    </vote>
+    <action datetime="2011-11-14T19:07:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-11-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2011-11-30">
+      <text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+    <calendar datetime="2011-12-14">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2011-12-15">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2011-12-15" calendar="Senate Legislative" under="General Orders" number="259">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 259.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="2011-12-17" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S8782" label="consideration"/>
+    </vote>
+    <action datetime="2011-12-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2011-12-23">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2012-01-03">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2012-01-03" type="public" number="112-89">
+      <text>Became Public Law No: 112-89.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSGA09" subcommittee="Federal Financial Management, Government Information, Federal Services, and International Security" name="Senate Homeland Security and Governmental Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Military personnel and dependents"/>
+    <term name="New York City"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>1/3/2012--Public Law.
+Designates the facility of the United States Postal Service located at 45 Bay Street, Suite 2, in Staten Island, New York, as the "Sergeant Angel Mendez Post Office."</summary>
+</bill>

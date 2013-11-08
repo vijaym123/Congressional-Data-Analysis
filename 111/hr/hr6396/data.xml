@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="6396" updated="2013-07-20T00:10:16-04:00">
+  <state datetime="2010-11-15">REFERRED</state>
+  <status>
+    <introduced datetime="2010-11-15"/>
+  </status>
+  <introduced datetime="2010-11-15"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Immigration and Nationality Act to toll, during active-duty service abroad in the Armed Forces, the periods of time to file a petition and appear for an interview to remove the conditional basis for permanent resident status, and for other purposes.</title>
+  </titles>
+  <sponsor id="400245"/>
+  <cosponsors>
+    <cosponsor id="400381" joined="2010-11-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-11-15">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2010-11-15">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2010-11-15">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2010-12-20">
+      <text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Citizenship, Refugees, Border Security, and International Law" name="House Judiciary"/>
+    <committee code="HSBU" name="House Budget" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>11/15/2010--Introduced.
+Amends the Immigration and Nationality Act to toll, during active-duty service abroad in the Armed Forces, the periods of time for an alien spouse or petitioning spouse to file a petition and appear for an interview to remove the conditional basis for permanent resident status.</summary>
+</bill>

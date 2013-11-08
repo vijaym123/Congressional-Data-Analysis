@@ -1,0 +1,63 @@
+<bill session="111" type="h" number="3579" updated="2013-07-19T23:44:23-04:00">
+  <state datetime="2010-03-04">REPORTED</state>
+  <status>
+    <unknown datetime="2010-03-04"/>
+  </status>
+  <introduced datetime="2009-09-16"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to provide for an increase in the amount of the reporting fees payable to educational institutions that enroll veterans receiving educational assistance from the Department of Veterans Affairs, and for other purposes.</title>
+  </titles>
+  <sponsor id="400133"/>
+  <cosponsors>
+    <cosponsor id="412281" joined="2010-03-10"/>
+    <cosponsor id="412316" joined="2010-03-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-09-16">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-09-18">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-09-24">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-02-25">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-03-04">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-03-04">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-03-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-03-04">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, In Committee"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Government information and archives"/>
+    <term name="User charges and fees"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>9/16/2009--Introduced.
+Amends the Montgomery GI Bill educational assistance program for veterans to increase the reporting fee payable to educational institutions that enroll veterans receiving assistance.</summary>
+</bill>

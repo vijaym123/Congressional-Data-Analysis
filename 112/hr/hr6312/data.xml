@@ -1,0 +1,54 @@
+<bill session="112" type="h" number="6312" updated="2013-07-20T02:04:28-04:00">
+  <state datetime="2012-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2012-08-02"/>
+  </status>
+  <introduced datetime="2012-08-02"/>
+  <titles>
+    <title as="introduced" type="short">Synthetic Cathinones Control Act of 2012</title>
+    <title as="introduced" type="official">To amend the Controlled Substances Act to place certain synthetic drugs in Schedule I.</title>
+  </titles>
+  <sponsor id="400121"/>
+  <cosponsors>
+    <cosponsor id="400648" joined="2012-09-21"/>
+    <cosponsor id="412445" joined="2012-10-09"/>
+    <cosponsor id="400274" joined="2012-10-09"/>
+    <cosponsor id="412303" joined="2012-11-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-08-02">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2012-08-02">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2012-08-02">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2012-08-03">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2012-09-07">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="1254"/>
+    <bill relation="unknown" session="112" type="s" number="3189"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Drug trafficking and controlled substances"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/2012--Introduced.
+Synthetic Cathinones Control Act of 2012 - Amends the Controlled Substances Act to add as schedule I controlled substances specified additional hallucinogenic substances (or the salts, isomers, or salts of isomers thereof).</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="111" type="hc" number="196" updated="2013-07-20T00:14:41-04:00">
+  <state datetime="2009-12-09">REFERRED</state>
+  <status>
+    <introduced datetime="2009-12-09"/>
+  </status>
+  <introduced datetime="2009-10-08"/>
+  <titles>
+    <title as="introduced" type="official">Making corrections in the enrollment of the bill H.R. 2647.</title>
+  </titles>
+  <sponsor id="400377"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2009-10-08T15:24:00-04:00">
+      <text>Pursuant to the provisions of H. Res. 808, H. Con. Res. 196 is considered passed House.</text>
+      <reference ref="CR H11142" label="consideration"/>
+      <reference ref="CR H11142" label="text as passed House"/>
+    </action>
+    <action datetime="2009-10-08">
+      <text>Received in the Senate.</text>
+    </action>
+    <action state="REFERRED" datetime="2009-12-09">
+      <text>Referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hr" number="808"/>
+    <bill relation="unknown" session="111" type="hr" number="808"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Defense spending"/>
+  </subjects>
+  <amendments/>
+  <summary>10/8/2009--Passed House without amendment.
+Directs the Clerk of the House of Representatives to make technical corrections in the enrollment of H.R. 2647 (National Defense Authorization Act for Fiscal Year 2010).</summary>
+</bill>

@@ -1,0 +1,58 @@
+<bill session="113" type="h" number="288" updated="2013-11-02T06:21:24-04:00">
+  <state datetime="2013-01-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-15"/>
+  </status>
+  <introduced datetime="2013-01-15"/>
+  <titles>
+    <title type="short" as="introduced">CHAMPVA Children's Protection Act of 2013</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to increase the maximum age for children eligible for medical care under the CHAMPVA program.</title>
+  </titles>
+  <sponsor id="400274"/>
+  <cosponsors>
+    <cosponsor id="412502" joined="2013-05-06"/>
+    <cosponsor id="412470" joined="2013-03-06"/>
+    <cosponsor id="412272" joined="2013-06-03"/>
+    <cosponsor id="400162" joined="2013-05-06"/>
+    <cosponsor id="400218" joined="2013-02-15"/>
+    <cosponsor id="412557" joined="2013-05-09"/>
+    <cosponsor id="400283" joined="2013-02-12"/>
+    <cosponsor id="412575" joined="2013-03-06"/>
+    <cosponsor id="400310" joined="2013-02-12"/>
+    <cosponsor id="412585" joined="2013-03-12"/>
+    <cosponsor id="400331" joined="2013-04-09"/>
+    <cosponsor id="400360" joined="2013-09-10"/>
+    <cosponsor id="412509" joined="2013-06-03"/>
+    <cosponsor id="400407" joined="2013-06-05"/>
+    <cosponsor id="412214" joined="2013-01-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-15" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-02-04">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2013-05-21">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Child health"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>1/15/2013--Introduced.
+CHAMPVA Children's Protection Act of 2013 - Increases from 23 to 26 the maximum age of eligibility for certain dependent children of veterans for medical care under CHAMPVA (the Civilian Health and Medical Program of the Department of Veterans Affairs [VA]).</summary>
+</bill>

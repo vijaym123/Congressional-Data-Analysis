@@ -1,0 +1,97 @@
+<bill session="111" type="h" number="1172" updated="2013-07-19T23:22:25-04:00">
+  <state datetime="2009-06-23T19:23:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-06-23T19:23:00-04:00"/>
+  </status>
+  <introduced datetime="2009-02-25"/>
+  <titles>
+    <title as="introduced" type="official">To direct the Secretary of Veterans Affairs to include on the Internet website of the Department of Veterans Affairs a list of organizations that provide scholarships to veterans and their survivors.</title>
+  </titles>
+  <sponsor id="400040"/>
+  <cosponsors>
+    <cosponsor id="400056" joined="2009-02-25"/>
+    <cosponsor id="400652" joined="2009-06-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-25">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-02-27">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-05-21">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-05-22">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-06-04">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-06-04">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-06-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-06-10">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2009-06-18T21:17:00-04:00">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-164.</text>
+    </action>
+    <calendar datetime="2009-06-18T21:17:00-04:00" calendar="Union" number="82">
+      <text>Placed on the Union Calendar, Calendar No. 82.</text>
+    </calendar>
+    <action datetime="2009-06-23T12:17:00-04:00">
+      <text>Mr. Filner moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-06-23T12:17:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7093-7094" label="consideration"/>
+    </action>
+    <action datetime="2009-06-23T12:18:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1172.</text>
+    </action>
+    <action datetime="2009-06-23T12:26:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2009-06-23T19:17:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7111" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-06-23T19:23:00-04:00" how="roll" result="pass" roll="422" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 422).</text>
+      <reference ref="CR H7093" label="text"/>
+    </vote>
+    <action datetime="2009-06-23T19:23:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-06-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Government information and archives"/>
+    <term name="Higher education"/>
+    <term name="Student aid and college costs"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/23/2009--Passed House amended.
+Directs the Secretary of Veterans Affairs (VA) to include on the VA Internet website: (1) a list of organizations that provide scholarships to veterans and their survivors and, for each such organization, a link to their Internet website; (2) a statement that such list is not all-inclusive of scholarships available to veterans and their survivors; and (3) a statement that the Secretary has not verified information on the organizations' websites, and that the Secretary does not endorse any offer made by any website sponsor. Requires the Secretary to make reasonable efforts to notify schools and other appropriate entities of the opportunity to be included on the VA list.</summary>
+</bill>

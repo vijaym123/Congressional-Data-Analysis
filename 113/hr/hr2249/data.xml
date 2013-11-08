@@ -1,0 +1,55 @@
+<bill session="113" type="h" number="2249" updated="2013-11-02T06:37:57-04:00">
+  <state datetime="2013-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-04"/>
+  </status>
+  <introduced datetime="2013-06-04"/>
+  <titles>
+    <title type="short" as="introduced">Disabled Military Child Protection Act of 2013</title>
+    <title type="official" as="introduced">To amend title 10, United States Code, to provide for the payment of monthly annuities under the Survivor Benefit Plan to a supplemental or special needs trust established for the sole benefit of a disabled dependent child of a participant in the Survivor Benefit Plan.</title>
+  </titles>
+  <sponsor id="400283"/>
+  <cosponsors>
+    <cosponsor id="412272" joined="2013-06-04"/>
+    <cosponsor id="412257" joined="2013-06-04"/>
+    <cosponsor id="412583" joined="2013-07-30"/>
+    <cosponsor id="412557" joined="2013-10-22"/>
+    <cosponsor id="400263" joined="2013-09-18"/>
+    <cosponsor id="412575" joined="2013-10-22"/>
+    <cosponsor id="412308" joined="2013-06-04"/>
+    <cosponsor id="400333" joined="2013-06-04"/>
+    <cosponsor id="400352" joined="2013-06-04"/>
+    <cosponsor id="400407" joined="2013-09-18"/>
+    <cosponsor id="400435" joined="2013-09-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-04">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E788"/>
+    </action>
+    <action datetime="2013-06-04" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2013-08-29">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="1076"/>
+    <bill relation="unknown" session="113" type="s" number="1197"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disability assistance"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/2013--Introduced.
+Disabled Military Child Protection Act of 2013 - Authorizes monthly annuity payments under the Survivor Benefit Plan (SBP) to a supplemental or special needs trust established for the sole benefit of a disabled dependent child who is incapable of self-support because of mental or physical incapacity.</summary>
+</bill>

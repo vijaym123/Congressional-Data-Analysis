@@ -1,0 +1,66 @@
+<bill session="111" type="h" number="1393" updated="2013-07-19T23:24:20-04:00">
+  <state datetime="2009-06-02T14:29:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-06-02T14:29:00-04:00"/>
+  </status>
+  <introduced datetime="2009-03-09"/>
+  <titles>
+    <title as="introduced" type="short">Lower Rio Grande Valley Water Resources Conservation and Improvement Act of 2009</title>
+    <title as="passed house" type="short">Lower Rio Grande Valley Water Resources Conservation and Improvement Act of 2009</title>
+    <title as="introduced" type="official">To amend the Lower Rio Grande Valley Water Resources Conservation and Improvement Act of 2000 to authorize additional projects and activities under that Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="400179"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-09">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-03-13">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-06-02T14:21:00-04:00">
+      <text>Mrs. Christensen moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-06-02T14:22:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6020-6021" label="consideration"/>
+    </action>
+    <action datetime="2009-06-02T14:22:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1393.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-06-02T14:29:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6020-6021" label="text"/>
+    </vote>
+    <action datetime="2009-06-02T14:29:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-06-03">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2010-04-27">
+      <text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSEG07" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Department of the Interior"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Pipelines"/>
+    <term name="Texas"/>
+    <term name="Water resources funding"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <summary>6/2/2009--Passed House without amendment.
+Lower Rio Grande Valley Water Resources Conservation and Improvement Act of 2009 - Amends the Lower Rio Grande Valley Water Resources Conservation and Improvement Act of 2000 to authorize specified additional projects, including projects for water conservation and improvement in Cameron, Hidalgo, Willacy, Hudspeth, and El Paso counties, Texas. Permits each project that the Secretary of the Interior, acting through the Commissioner of the Bureau of Reclamation, conducts or participates in to include: (1) the replacement of irrigation canals and lateral canals with buried pipelines; (2) the impervious lining of irrigation canals and lateral canals; (3) the installation of water level, flow measurement, pump control, and telemetry systems; (4) the renovation and replacement of pumping plants; and (5) other activities that will result in water conservation or an improved water supply. Authorizes the Secretary to transfer among projects up to 10% of amounts made available for such additional projects. Authorizes appropriations for such additional projects.</summary>
+</bill>

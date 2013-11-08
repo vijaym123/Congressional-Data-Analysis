@@ -1,0 +1,93 @@
+<bill session="112" type="h" number="5044" updated="2013-07-20T01:53:36-04:00">
+  <state datetime="2012-09-19T18:52:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-09-19T18:52:00-04:00"/>
+  </status>
+  <introduced datetime="2012-04-27"/>
+  <titles>
+    <title as="introduced" type="short">Andrew P. Carpenter Tax Act</title>
+    <title as="passed house" type="short">Andrew P. Carpenter Tax Act</title>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to exclude from gross income any discharge of indebtedness income on education loans of deceased veterans.</title>
+  </titles>
+  <sponsor id="412477"/>
+  <cosponsors>
+    <cosponsor id="412478" joined="2012-04-27"/>
+    <cosponsor id="400032" joined="2012-04-27"/>
+    <cosponsor id="400046" joined="2012-08-02"/>
+    <cosponsor id="400081" joined="2012-04-27"/>
+    <cosponsor id="400116" joined="2012-04-27"/>
+    <cosponsor id="412479" joined="2012-04-27"/>
+    <cosponsor id="412476" joined="2012-04-27"/>
+    <cosponsor id="412401" joined="2012-05-31"/>
+    <cosponsor id="412283" joined="2012-04-27"/>
+    <cosponsor id="412460" joined="2012-05-10"/>
+    <cosponsor id="400206" joined="2012-08-02"/>
+    <cosponsor id="412226" joined="2012-05-17"/>
+    <cosponsor id="400224" joined="2012-04-27"/>
+    <cosponsor id="412292" joined="2012-05-17"/>
+    <cosponsor id="400267" joined="2012-04-27"/>
+    <cosponsor id="400277" joined="2012-05-31"/>
+    <cosponsor id="400279" joined="2012-05-10"/>
+    <cosponsor id="412310" joined="2012-04-27"/>
+    <cosponsor id="400343" joined="2012-05-17"/>
+    <cosponsor id="412261" joined="2012-05-10"/>
+    <cosponsor id="400411" joined="2012-05-17"/>
+    <cosponsor id="412214" joined="2012-04-27"/>
+    <cosponsor id="412413" joined="2012-04-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-04-27">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2012-05-02">
+      <text>Referred to the Subcommittee on Trade     .</text>
+      <committee name="House Committee on Ways and Means"/>
+    </action>
+    <action datetime="2012-09-19T16:46:00-04:00">
+      <text>Mr. Johnson, Sam moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-09-19T16:46:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6101-6104" label="consideration"/>
+    </action>
+    <action datetime="2012-09-19T16:46:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5044.</text>
+    </action>
+    <action datetime="2012-09-19T17:07:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2012-09-19T18:27:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6119-6120" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-09-19T18:52:00-04:00" how="roll" result="pass" roll="585" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 585).</text>
+      <reference ref="CR H6101-6102" label="text"/>
+    </vote>
+    <action datetime="2012-09-19T18:52:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-09-20">
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Disability and paralysis"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Higher education"/>
+    <term name="Income tax exclusion"/>
+    <term name="Student aid and college costs"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+  </subjects>
+  <amendments/>
+  <summary>9/19/2012--Passed House amended.
+Andrew P. Carpenter Tax Act - Amends the Internal Revenue Code to: (1) exclude from the gross income of any cosigner of a student loan of a veteran who died as a result of a service-connected disability any amount attributable to the discharge of the indebtedness on such loan, and (2) subject accounts in the Thrift Savings Fund to a federal tax levy. Provides that any potential revenue gain from the enactment of this Act shall be deposited in the general fund of the Treasury and shall be used solely for deficit reduction.</summary>
+</bill>

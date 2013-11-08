@@ -1,0 +1,81 @@
+<bill session="112" type="h" number="3298" updated="2013-07-20T01:38:44-04:00">
+  <state datetime="2012-03-27T14:24:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-03-27T14:24:00-04:00"/>
+  </status>
+  <introduced datetime="2011-11-01"/>
+  <titles>
+    <title as="introduced" type="short">Homes for Heroes Act of 2011</title>
+    <title as="passed house" type="short">Homes for Heroes Act of 2011</title>
+    <title as="introduced" type="official">To establish the position of Special Assistant for Veterans Affairs in the Department of Housing and Urban Development, and for other purposes.</title>
+  </titles>
+  <sponsor id="400653"/>
+  <cosponsors>
+    <cosponsor id="400027" joined="2012-01-31"/>
+    <cosponsor id="400041" joined="2012-03-26"/>
+    <cosponsor id="400048" joined="2012-03-26"/>
+    <cosponsor id="400160" joined="2012-03-26"/>
+    <cosponsor id="412451" joined="2011-11-01"/>
+    <cosponsor id="400179" joined="2011-12-13"/>
+    <cosponsor id="412200" joined="2012-03-26"/>
+    <cosponsor id="400371" joined="2011-12-13"/>
+    <cosponsor id="400422" joined="2011-12-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-11-01">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2011-12-08">
+      <text>Consideration and Mark-up Session Held by the Subcommittee on Insurance, Housing and Community Opportunity Prior to Referral.</text>
+    </action>
+    <action datetime="2011-12-08">
+      <text>Subcommittee Consideration and Mark-up Session Held and Forwarded to Full Committee by the Subcommittee on Insurance, Housing and Community Opportunity Prior to Referral The subcommittee on Insurance, Housing and Community Opportunity ordered HR3298 favorably reported to the Full Committee on December 8, 2011.</text>
+    </action>
+    <action datetime="2012-03-26T15:40:00-04:00">
+      <text>Mrs. Biggert moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-03-26T15:40:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1553-1555" label="consideration"/>
+    </action>
+    <action datetime="2012-03-26T15:40:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3298.</text>
+    </action>
+    <action datetime="2012-03-26T15:50:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mrs. Biggert objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2012-03-27T14:16:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H1598-1599" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-03-27T14:24:00-04:00" how="roll" result="pass" roll="133" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 414 - 5 (Roll no. 133).</text>
+      <reference ref="CR 3/26/2012 H1553-1554" label="text"/>
+    </vote>
+    <action datetime="2012-03-27T14:24:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-03-28">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee activity="Markup" code="HSBA04" subcommittee="Insurance, Housing and Community Opportunity" name="House Financial Services"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="287"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/27/2012--Passed House without amendment.
+Homes for Heroes Act of 2011 - Amends the Department of Housing and Urban Development Act to establish in the Department of Housing and Urban Development (HUD) a Special Assistant for Veterans Affairs to: (1) ensure veterans fair access to HUD housing and homeless assistance programs, (2) coordinate all HUD programs and activities relating to veterans, and (3) serve as a HUD liaison with the Department of Veterans Affairs (VA). Directs the Secretaries of HUD and VA to report annually to Congress with respect to veterans homelessness and housing assistance.</summary>
+</bill>

@@ -1,0 +1,66 @@
+<bill session="111" type="h" number="3139" updated="2013-07-19T23:40:19-04:00">
+  <state datetime="2009-07-29T11:22:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-07-29T11:22:00-04:00"/>
+  </status>
+  <introduced datetime="2009-07-09"/>
+  <titles>
+    <title as="passed house" type="short">National Flood Insurance Program Extension Act of 2009</title>
+    <title as="introduced" type="official">To extend the authorization of the National Flood Insurance Program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400422"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2009-07-09"/>
+    <cosponsor id="400061" joined="2009-07-09"/>
+    <cosponsor id="400140" joined="2009-07-09"/>
+    <cosponsor id="400147" joined="2009-07-09"/>
+    <cosponsor id="400179" joined="2009-07-09"/>
+    <cosponsor id="400209" joined="2009-07-09"/>
+    <cosponsor id="400210" joined="2009-07-09"/>
+    <cosponsor id="400663" joined="2009-07-09"/>
+    <cosponsor id="412259" joined="2009-07-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-09">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2009-07-29T11:08:00-04:00">
+      <text>Mr. Frank (MA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-07-29T11:08:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8973-8975" label="consideration"/>
+    </action>
+    <action datetime="2009-07-29T11:08:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3139.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-07-29T11:22:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H8973-8974" label="text"/>
+    </vote>
+    <action datetime="2009-07-29T11:22:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-07-30">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="5650"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Emergency Management Agency (FEMA)"/>
+    <term name="Floods and storm protection"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/2009--Passed House amended.
+National Flood Insurance Program Extension Act of 2009 - (Sec. 2) Amends the National Flood Insurance Act of 1968 to extend the national flood insurance program from September 30, 2008, through March 31, 2010. (Sec. 3) Extends through FY2010 the pilot program for mitigation of severe repetitive loss properties. Repeals the termination date for, and thus makes permanent, the authority of the Director of the Federal Emergency Management Agency (FEMA) to provide assistance to any state or community. (Sec. 4) Extends eligibility for flood insurance at specified maximum premium rates to any community that has made adequate progress on construction (as under current law), reconstruction, or improvement of a flood protection system which will afford flood protection for the one-hundred year frequency flood (without respect to the level of federal investment or participation). Revises the requirement that a revised Flood Insurance Rate Map be prepared for the community to delineate as Zone AR the areas of special flood hazard that result from the disaccreditation of the flood protection system. Specifies that the areas of special flood hazard may be either coastal or riverine. Revises the requirement that a community will be considered to be in the process of restoration if its flood protection system has been deemed restorable by a federal agency in consultation with the local project sponsor. Replaces a federal agency as the deeming authority with the entity or entities that own, operate, maintain, or repair the system. (Sec. 5) Instructs the FEMA Administrator to implement this Act in a manner that will not materially weaken the financial position of the National Flood Insurance Program, or increase the risk of financial liability to federal taxpayers.</summary>
+</bill>

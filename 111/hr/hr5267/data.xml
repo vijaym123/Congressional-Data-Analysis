@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="5267" updated="2013-07-19T23:59:52-04:00">
+  <state datetime="2010-05-11">REFERRED</state>
+  <status>
+    <introduced datetime="2010-05-11"/>
+  </status>
+  <introduced datetime="2010-05-11"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Gulf of Mexico Energy Security Act of 2006 to accelerate the increase in the amount of Gulf of Mexico oil and gas lease revenues that is shared with States.</title>
+  </titles>
+  <sponsor id="412268"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-05-11">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2010-05-12">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="3391"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy revenues and royalties"/>
+    <term name="Gulf of Mexico"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Oil and gas"/>
+    <term name="State and local finance"/>
+  </subjects>
+  <amendments/>
+  <summary>5/11/2010--Introduced.
+Amends the Gulf of Mexico Energy Security Act of 2006 to accelerate from FY2017 to FY2011 the allocation of certain Gulf of Mexico oil and gas lease revenues from covered leases among the affected states (thus increasing each state's share).</summary>
+</bill>

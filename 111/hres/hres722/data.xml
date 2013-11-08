@@ -1,0 +1,102 @@
+<bill session="111" type="hr" number="722" updated="2013-07-19T23:02:17-04:00">
+  <state datetime="2009-09-09T15:28:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2009-09-09T15:28:00-04:00"/>
+  </status>
+  <introduced datetime="2009-09-08"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of the House of Representatives regarding the terrorist attacks launched against the United States on September 11, 2001.</title>
+  </titles>
+  <sponsor id="400189"/>
+  <cosponsors>
+    <cosponsor id="400036" joined="2009-09-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-09-08">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Foreign Affairs, Armed Services, Transportation and Infrastructure, the Judiciary, Homeland Security, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-09-08">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2009-09-08">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2009-09-08">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2009-09-08">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2009-09-08">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2009-09-08">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2009-09-08">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="2009-09-09">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-09-09T13:28:00-04:00">
+      <text>Mr. Berman moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2009-09-09T13:28:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9379-9387" label="consideration"/>
+    </action>
+    <action datetime="2009-09-09T13:28:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 722.</text>
+    </action>
+    <action datetime="2009-09-09T14:27:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2009-09-09T15:10:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H9389" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2009-09-09T15:28:00-04:00" how="roll" result="pass" roll="693" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 693).</text>
+      <reference ref="CR H9379" label="text"/>
+    </vote>
+    <action datetime="2009-09-09T15:28:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hr" number="1610"/>
+    <bill relation="unknown" session="111" type="hr" number="1610"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Crime victims"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Law enforcement officers"/>
+    <term name="Military personnel and dependents"/>
+    <term name="New York City"/>
+    <term name="Pennsylvania"/>
+    <term name="Rule of law and government transparency"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Terrorism"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>9/9/2009--Passed House without amendment.
+Recognizes September 11 as both a day to mourn and remember those taken from their loved ones and fellow citizens, and a day for the people of the United States to recommit to the nation and to each other. Extends once again deepest sympathies to friends, families, and loved ones of the innocent victims of the September 11, 2001, terrorist attacks. Honors the heroic service and sacrifices of first responders, law enforcement personnel, state and local officials, volunteers and others who aided the victims and, in doing so, risked and often sacrificed their own lives and health. Expresses gratitude to foreign leaders and citizens who have assisted and continue to assist the United States against the international scourge of terrorism. Asserts that the fight against terrorism is not a war on any nation, people, or faith. Recognizes the heroic service, actions, and sacrifices of U.S. Armed Forces and civilian personnel to defend their country against terrorists. Vows to continue to identify, intercept, and defeat terrorists. Calls on all Americans to renew their devotion to the universal ideals that make the nation great: freedom, pluralism, equality, and the rule of law.</summary>
+</bill>

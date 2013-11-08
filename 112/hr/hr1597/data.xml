@@ -1,0 +1,40 @@
+<bill session="112" type="h" number="1597" updated="2013-07-20T01:24:08-04:00">
+  <state datetime="2011-04-15">REFERRED</state>
+  <status>
+    <introduced datetime="2011-04-15"/>
+  </status>
+  <introduced datetime="2011-04-15"/>
+  <titles>
+    <title as="introduced" type="short">California Ocean and Coastal Protection Act</title>
+    <title as="introduced" type="official">To permanently prohibit oil and gas leasing off the coast of the State of California, and for other purposes.</title>
+  </titles>
+  <sponsor id="400062"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2011-04-15">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2011-04-22">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="264"/>
+    <bill relation="unknown" session="112" type="s" number="171"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="California"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Oil and gas"/>
+    <term name="Pacific Ocean"/>
+  </subjects>
+  <amendments/>
+  <summary>4/15/2011--Introduced.
+California Ocean and Coastal Protection Act - Amends the Outer Continental Shelf Lands Act to prohibit oil and gas preleasing, leasing, and related activities in areas of the Outer Continental Shelf located off the coast of California.</summary>
+</bill>

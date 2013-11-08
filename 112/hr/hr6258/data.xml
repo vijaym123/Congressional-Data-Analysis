@@ -1,0 +1,41 @@
+<bill session="112" type="h" number="6258" updated="2013-07-20T02:04:01-04:00">
+  <state datetime="2012-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2012-08-01"/>
+  </status>
+  <introduced datetime="2012-08-01"/>
+  <titles>
+    <title as="introduced" type="short">Start Healthy Act of 2012</title>
+    <title as="introduced" type="official">To amend title XIX of the Social Security Act to provide medical assistance to uninsured newborns under the Medicaid program.</title>
+  </titles>
+  <sponsor id="400101"/>
+  <cosponsors>
+    <cosponsor id="412195" joined="2012-08-01"/>
+    <cosponsor id="412312" joined="2012-11-27"/>
+    <cosponsor id="400360" joined="2012-08-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-08-01">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2012-08-03">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Medicaid"/>
+    <term name="State and local finance"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/2012--Introduced.
+Start Healthy Act of 2012 - Amends title XIX (Medicaid) of the Social Security Act to provide: (1) mandatory coverage of qualified (uninsured) newborns, and (2) 100% federal medical assistance percentage (FMAP) for temporary coverage of such newborns.</summary>
+</bill>

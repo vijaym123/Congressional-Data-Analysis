@@ -1,0 +1,130 @@
+<bill session="113" type="hc" number="41" updated="2013-11-02T06:49:10-04:00">
+  <state datetime="2013-08-01">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2013-08-01"/>
+  </status>
+  <introduced datetime="2013-06-25"/>
+  <titles>
+    <title type="official" as="introduced">Encouraging peace and reunification on the Korean Peninsula.</title>
+  </titles>
+  <sponsor id="400333"/>
+  <cosponsors>
+    <cosponsor id="412502" joined="2013-07-18"/>
+    <cosponsor id="412404" joined="2013-07-23"/>
+    <cosponsor id="400033" joined="2013-07-18"/>
+    <cosponsor id="400041" joined="2013-07-09"/>
+    <cosponsor id="412567" joined="2013-07-16"/>
+    <cosponsor id="412258" joined="2013-07-30"/>
+    <cosponsor id="412571" joined="2013-07-17"/>
+    <cosponsor id="412379" joined="2013-07-31"/>
+    <cosponsor id="400076" joined="2013-06-27"/>
+    <cosponsor id="400080" joined="2013-06-27"/>
+    <cosponsor id="412513" joined="2013-07-18"/>
+    <cosponsor id="400081" joined="2013-07-11"/>
+    <cosponsor id="412535" joined="2013-07-22"/>
+    <cosponsor id="400128" joined="2013-07-10"/>
+    <cosponsor id="412532" joined="2013-07-16"/>
+    <cosponsor id="400653" joined="2013-07-31"/>
+    <cosponsor id="412418" joined="2013-07-16"/>
+    <cosponsor id="400170" joined="2013-07-31"/>
+    <cosponsor id="400185" joined="2013-07-09"/>
+    <cosponsor id="400195" joined="2013-07-11"/>
+    <cosponsor id="400199" joined="2013-07-11"/>
+    <cosponsor id="400204" joined="2013-07-30"/>
+    <cosponsor id="412199" joined="2013-07-10"/>
+    <cosponsor id="400206" joined="2013-06-27"/>
+    <cosponsor id="400209" joined="2013-07-18"/>
+    <cosponsor id="412465" joined="2013-07-31"/>
+    <cosponsor id="400230" joined="2013-07-22"/>
+    <cosponsor id="400232" joined="2013-07-16"/>
+    <cosponsor id="400233" joined="2013-07-22"/>
+    <cosponsor id="400237" joined="2013-07-10"/>
+    <cosponsor id="412521" joined="2013-07-11"/>
+    <cosponsor id="400262" joined="2013-07-11"/>
+    <cosponsor id="400263" joined="2013-07-16"/>
+    <cosponsor id="400271" joined="2013-07-23"/>
+    <cosponsor id="412560" joined="2013-07-16"/>
+    <cosponsor id="400283" joined="2013-07-18"/>
+    <cosponsor id="400295" joined="2013-07-31"/>
+    <cosponsor id="412575" joined="2013-07-24"/>
+    <cosponsor id="400309" joined="2013-07-31"/>
+    <cosponsor id="412523" joined="2013-07-23"/>
+    <cosponsor id="400344" joined="2013-07-16"/>
+    <cosponsor id="412202" joined="2013-07-16"/>
+    <cosponsor id="400350" joined="2013-07-17"/>
+    <cosponsor id="400355" joined="2013-07-16"/>
+    <cosponsor id="400356" joined="2013-07-10"/>
+    <cosponsor id="400361" joined="2013-07-31"/>
+    <cosponsor id="412396" joined="2013-07-16"/>
+    <cosponsor id="400371" joined="2013-07-30"/>
+    <cosponsor id="400415" joined="2013-07-17"/>
+    <cosponsor id="412579" joined="2013-07-31"/>
+    <cosponsor id="412412" joined="2013-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-25" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-06-25">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2013-06-25">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2013-07-09">
+      <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+      <committee name="House Foreign Affairs"/>
+    </action>
+    <action datetime="2013-07-31T20:08:00-04:00">
+      <text>Mr. Royce moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2013-07-31T20:08:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5254-5256" label="consideration"/>
+    </action>
+    <action datetime="2013-07-31T20:08:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 41.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2013-07-31T20:26:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5254" label="text"/>
+    </vote>
+    <action datetime="2013-07-31T20:26:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2013-08-01" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Received in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S6257" label="consideration"/>
+    </vote>
+    <action datetime="2013-08-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA05" subcommittee="Asia and the Pacific" name="House Foreign Affairs"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="sc" number="20"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Alliances"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Asia"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional tributes"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="International law and treaties"/>
+    <term name="Military history"/>
+    <term name="Military personnel and dependents"/>
+    <term name="North Korea"/>
+    <term name="Nuclear weapons"/>
+    <term name="South Korea"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/2013--Passed Senate without amendment.
+Recognizes the historical importance of the Korean War, which began on June 25, 1950. Honors the service and sacrifice of the U.S. Armed Forces and the armed forces of allied countries that have served in Korea since 1950. Reaffirms the commitment of the United States to its alliance with South Korea. Calls on North Korea to respect the fundamental human rights of its citizens, dismantle its nuclear weapons program, and end its nuclear and missile proliferation as integral steps toward peace and eventual reunification.</summary>
+</bill>

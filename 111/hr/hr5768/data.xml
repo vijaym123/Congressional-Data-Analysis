@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="5768" updated="2013-07-20T00:04:40-04:00">
+  <state datetime="2010-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2010-07-15"/>
+  </status>
+  <introduced datetime="2010-07-15"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to authorize the waiver of the collection of copayments for telehealth and telemedicine visits of veterans, and for other purposes.</title>
+  </titles>
+  <sponsor id="412239"/>
+  <cosponsors>
+    <cosponsor id="400040" joined="2010-07-15"/>
+    <cosponsor id="400041" joined="2010-07-15"/>
+    <cosponsor id="400274" joined="2010-07-15"/>
+    <cosponsor id="412312" joined="2010-07-22"/>
+    <cosponsor id="412316" joined="2010-07-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-15">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2010-07-16">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3325"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>7/15/2010--Introduced.
+Authorizes the Secretary of Veterans Affairs (VA) to waive the imposition or collection of copayments for telehealth and telemedicine visits of veterans.</summary>
+</bill>

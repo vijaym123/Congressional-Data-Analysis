@@ -1,0 +1,48 @@
+<bill session="113" type="h" number="2969" updated="2013-11-02T06:44:01-04:00">
+  <state datetime="2013-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-01"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Patient Access to Hospice Act of 2013</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for the recognition of attending physician assistants as attending physicians to serve hospice patients.</title>
+  </titles>
+  <sponsor id="400400"/>
+  <cosponsors>
+    <cosponsor id="412446" joined="2013-09-09"/>
+    <cosponsor id="400403" joined="2013-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-01" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="2867"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health personnel"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/2013--Introduced.
+Medicare Patient Access to Hospice Act of 2013 - Amends title XVIII (Medicare) of the Social Security Act to recognize attending physician assistants as attending physicians to serve hospice patients.</summary>
+</bill>

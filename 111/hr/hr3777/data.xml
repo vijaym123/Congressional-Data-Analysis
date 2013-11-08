@@ -1,0 +1,45 @@
+<bill session="111" type="h" number="3777" updated="2013-07-19T23:46:11-04:00">
+  <state datetime="2009-10-08">REFERRED</state>
+  <status>
+    <introduced datetime="2009-10-08"/>
+  </status>
+  <introduced datetime="2009-10-08"/>
+  <titles>
+    <title as="introduced" type="short">Drug Price Competition Act of 2009</title>
+    <title as="introduced" type="official">To amend the Federal Food, Drug, and Cosmetic Act to define the term "first applicant" for purposes of filing an abbreviated application for a new drug.</title>
+  </titles>
+  <sponsor id="400170"/>
+  <cosponsors>
+    <cosponsor id="400378" joined="2010-02-02"/>
+    <cosponsor id="400399" joined="2009-10-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-10-08">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E2487-2488"/>
+    </action>
+    <action state="REFERRED" datetime="2009-10-08">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2009-10-09">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="1315"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Intellectual property"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+  <summary>10/8/2009--Introduced.
+Drug Price Competition Act of 2009 - Amends the Federal Food, Drug, and Cosmetic Act to expand the definition of "first applicant" under such Act to allow a generic drug manufacturer that is currently considered an applicant subsequent to a brand-name manufacturer's 180-day exclusivity period to qualify as a first applicant for purposes of filing an abbreviated application for a new drug. Requires such applicant to submit a substantially complete application that contains and lawfully maintains a certification for such drug.</summary>
+</bill>

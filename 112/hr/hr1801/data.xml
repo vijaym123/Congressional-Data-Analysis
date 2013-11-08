@@ -1,0 +1,143 @@
+<bill session="112" type="h" number="1801" updated="2013-07-20T01:25:52-04:00">
+  <state datetime="2012-01-03">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2012-01-03"/>
+  </status>
+  <introduced datetime="2011-05-10"/>
+  <titles>
+    <title as="introduced" type="short">Risk-Based Security Screening for Members of The Armed Forces Act</title>
+    <title as="reported to house" type="short">Risk-Based Security Screening for Members of the Armed Forces Act</title>
+    <title as="passed house" type="short">Risk-Based Security Screening for Members of the Armed Forces Act</title>
+    <title as="passed senate" type="short">Risk-Based Security Screening for Members of the Armed Forces Act</title>
+    <title as="enacted" type="short">Risk-Based Security Screening for Members of the Armed Forces Act</title>
+    <title as="introduced" type="official">To amend title 49, United States Code, to provide for expedited security screenings for members of the Armed Forces.</title>
+  </titles>
+  <sponsor id="412441"/>
+  <cosponsors>
+    <cosponsor id="400010" joined="2011-05-10"/>
+    <cosponsor id="412250" joined="2011-09-20"/>
+    <cosponsor id="400199" joined="2011-05-12"/>
+    <cosponsor id="400341" joined="2011-05-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-05-10">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2011-05-11">
+      <text>Referred to the Subcommittee on Transportation Security.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2011-05-12">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2011-05-12">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2011-09-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-09-21">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </calendar>
+    <action datetime="2011-11-04T15:18:00-04:00">
+      <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 112-271.</text>
+    </action>
+    <calendar datetime="2011-11-04T15:18:00-04:00" calendar="Union" number="182">
+      <text>Placed on the Union Calendar, Calendar No. 182.</text>
+    </calendar>
+    <action datetime="2011-11-29T16:34:00-05:00">
+      <text>Mr. Cravaack moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2011-11-29T16:35:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7907-7908" label="consideration"/>
+    </action>
+    <action datetime="2011-11-29T16:35:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1801.</text>
+    </action>
+    <action datetime="2011-11-29T16:45:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2011-11-29T19:03:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7917-7918" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-11-29T19:10:00-05:00" how="roll" result="pass" roll="862" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 862).</text>
+      <reference ref="CR H7907" label="text"/>
+    </vote>
+    <action datetime="2011-11-29T19:10:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-11-30">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <action datetime="2011-12-12">
+      <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2011-12-12">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S8485-8486" label="consideration"/>
+    </action>
+    <vote state="PASS_BACK:SENATE" datetime="2011-12-12" how="by Voice Vote" result="pass" type="vote2" where="s">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="2011-12-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2011-12-19T16:26:00-05:00">
+      <text>Mr. Cravaack moved that the House suspend the rules and agree to the Senate amendment.</text>
+      <reference ref="CR H9936-9937" label="consideration"/>
+    </action>
+    <action datetime="2011-12-19T16:27:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on agreeing to the Senate amendment to H.R. 1801.</text>
+    </action>
+    <action datetime="2011-12-19T16:38:00-05:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Cravaack objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2011-12-20T16:17:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H9999" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2011-12-20T16:17:00-05:00" how="by voice vote" result="pass" type="pingpong" where="h">
+      <text>On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.</text>
+      <reference ref="CR 12/19/2011 H9936" label="text as House agreed to Senate amendment"/>
+    </vote>
+    <action datetime="2011-12-20T16:17:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2011-12-23">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2012-01-03">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2012-01-03" type="public" number="112-86">
+      <text>Became Public Law No: 112-86.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSHM" subcommittee="Transportation Security and Infrastructure Protection" name="House Homeland Security"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="3011"/>
+    <bill relation="unknown" session="112" type="s" number="1954"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Aviation and airports"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1458"/>
+  </amendments>
+  <summary>1/3/2012--Public Law.
+Risk-Based Security Screening for Members of the Armed Forces Act - Directs the Assistant Secretary of Homeland Security (Transportation Security Administration [TSA]) to develop and implement a plan for expedited security screening services for a uniformed Armed Forces member, and, to the extent possible, accompanying family, if the member, while in uniform, presents documentation indicating official orders for air transportation departing from a primary airport. Requires the Assistant Secretary to consider certain protocols in developing the plan. Declares that nothing in this Act shall affect the Assistant Secretary's authority to require additional screening of an Armed Forces member if intelligence or law enforcement information indicates that it is necessary.</summary>
+</bill>

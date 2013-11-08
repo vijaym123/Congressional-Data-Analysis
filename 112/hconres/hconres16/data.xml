@@ -1,0 +1,69 @@
+<bill session="112" type="hc" number="16" updated="2013-07-20T02:09:08-04:00">
+  <state datetime="2011-05-12">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2011-05-12"/>
+  </status>
+  <introduced datetime="2011-02-09"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box Derby.</title>
+  </titles>
+  <sponsor id="400189"/>
+  <cosponsors>
+    <cosponsor id="412272" joined="2011-02-09"/>
+    <cosponsor id="412263" joined="2011-02-09"/>
+    <cosponsor id="400283" joined="2011-02-09"/>
+    <cosponsor id="400295" joined="2011-02-09"/>
+    <cosponsor id="400415" joined="2011-02-09"/>
+    <cosponsor id="400435" joined="2011-02-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-02-09">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2011-02-10">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2011-05-11T15:31:00-04:00">
+      <text>Mr. Denham asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2011-05-11T15:31:00-04:00">
+      <text>Committee on Transportation discharged.</text>
+    </action>
+    <action datetime="2011-05-11T15:31:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H3188-3189" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-05-11T15:31:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H3188-3189" label="text"/>
+    </vote>
+    <action datetime="2011-05-11T15:31:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2011-05-12" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S2971-2972" label="consideration"/>
+    </vote>
+    <action datetime="2011-05-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="hc" number="106"/>
+    <bill relation="unknown" session="112" type="hc" number="106"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Games and hobbies"/>
+    <term name="Outdoor recreation"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2011--Passed Senate without amendment.
+Permits the Greater Washington Soap Box Derby Association to sponsor soap box derby races as a free public event on the Capitol grounds on June 18, 2011.</summary>
+</bill>

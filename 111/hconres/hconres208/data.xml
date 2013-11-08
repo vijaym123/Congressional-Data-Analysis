@@ -1,0 +1,44 @@
+<bill session="111" type="hc" number="208" updated="2013-07-20T00:14:47-04:00">
+  <state datetime="2009-11-04">REFERRED</state>
+  <status>
+    <introduced datetime="2009-11-04"/>
+  </status>
+  <introduced datetime="2009-11-04"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals and ideals of a National Miner's Day to celebrate and honor the contributions of miners and encouraging the people of the United States to participate in local and National activities celebrating and honoring the contributions of miners.</title>
+  </titles>
+  <sponsor id="400331"/>
+  <cosponsors>
+    <cosponsor id="400061" joined="2009-11-04"/>
+    <cosponsor id="400281" joined="2009-11-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-11-04">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E2707"/>
+    </action>
+    <action state="REFERRED" datetime="2009-11-04">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2009-12-08">
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED10" subcommittee="Workforce Protections" name="House Education and Labor"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="sr" number="337"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Mining"/>
+    <term name="Worker safety and health"/>
+  </subjects>
+  <amendments/>
+  <summary>11/4/2009--Introduced.
+Supports the goals and ideals of a National Miner's Day.</summary>
+</bill>

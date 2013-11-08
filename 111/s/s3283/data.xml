@@ -1,0 +1,44 @@
+<bill session="111" type="s" number="3283" updated="2013-07-20T00:55:15-04:00">
+  <state datetime="2010-04-29">REFERRED</state>
+  <status>
+    <introduced datetime="2010-04-29"/>
+  </status>
+  <introduced datetime="2010-04-29"/>
+  <titles>
+    <title as="introduced" type="short">Mt. Andrea Lawrence Designation Act of 2010</title>
+    <title as="introduced" type="official">A bill to designate Mt. Andrea Lawrence.</title>
+  </titles>
+  <sponsor id="300011"/>
+  <cosponsors>
+    <cosponsor id="300043" joined="2010-05-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-04-29">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2010-09-29">
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <action datetime="2010-09-29">
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="National Parks" name="Senate Energy and Natural Resources"/>
+    <committee activity="Hearings" code="SSEG03" subcommittee="Public Lands and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="h" number="5194"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/2010--Introduced.
+Mt. Andrea Lawrence Designation Act of 2010 - Designates peak 12,240, which is located 0.6 miles northeast of Donahue Peak on the northern border of the Ansel Adams Wilderness and Yosemite National Park in California as Mt. Andrea Lawrence.</summary>
+</bill>

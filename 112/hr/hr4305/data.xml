@@ -1,0 +1,92 @@
+<bill session="112" type="h" number="4305" updated="2013-07-20T01:47:18-04:00">
+  <state datetime="2012-09-11T14:59:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-09-11T14:59:00-04:00"/>
+  </status>
+  <introduced datetime="2012-03-29"/>
+  <titles>
+    <title as="introduced" type="short">Child and Elderly Missing Alert Program</title>
+    <title as="reported to house" type="short">Child and Elderly Missing Alert Program</title>
+    <title as="passed house" type="short">Child and Elderly Missing Alert Program</title>
+    <title as="introduced" type="official">To authorize the Attorney General to provide a grant to assist Federal, State, tribal, and local law enforcement agencies in the rapid recovery of missing individuals.</title>
+  </titles>
+  <sponsor id="400071"/>
+  <cosponsors>
+    <cosponsor id="400645" joined="2012-06-05"/>
+    <cosponsor id="412272" joined="2012-06-28"/>
+    <cosponsor id="412385" joined="2012-03-29"/>
+    <cosponsor id="400121" joined="2012-06-05"/>
+    <cosponsor id="412287" joined="2012-06-28"/>
+    <cosponsor id="400235" joined="2012-07-26"/>
+    <cosponsor id="400345" joined="2012-05-09"/>
+    <cosponsor id="412314" joined="2012-07-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-03-29">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2012-04-16">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2012-07-26">
+      <text>Subcommittee on Crime, Terrorism, and Homeland Security Discharged.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2012-08-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-08-01">
+      <text>Ordered to be Reported in the Nature of a Substitute by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2012-09-10T15:09:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 112-649.</text>
+    </action>
+    <calendar datetime="2012-09-10T15:09:00-04:00" calendar="Union" number="467">
+      <text>Placed on the Union Calendar, Calendar No. 467.</text>
+    </calendar>
+    <action datetime="2012-09-11T14:46:00-04:00">
+      <text>Mr. Chabot moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-09-11T14:46:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5787-5790" label="consideration"/>
+    </action>
+    <action datetime="2012-09-11T14:46:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4305.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-09-11T14:59:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5787-5788" label="text"/>
+    </vote>
+    <action datetime="2012-09-11T14:59:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-09-12">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Aging"/>
+    <term name="Child safety and welfare"/>
+    <term name="Crimes against children"/>
+    <term name="Disability and paralysis"/>
+    <term name="Emergency communications systems"/>
+    <term name="Human trafficking"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Neurological disorders"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+  <summary>9/11/2012--Passed House amended.
+Child and Elderly Missing Alert Program - Amends the Omnibus Crime Control and Safe Streets Act of 1968 to authorize the Attorney General to award public safety and community policing grants to eligible nonprofit organizations to assist federal, state, tribal, and local law enforcement agencies in the rapid recovery of missing children and elderly and disabled individuals through the use of a rapid telephone and cellular alert call system. Defines an "elderly individual" as an individual 60 years of age or older. Permits the use of grant funds to: (1) maintain and expand technologies and techniques to ensure the highest level of performance of services; (2) provide both centralized and on-site training, and to distribute information, to law enforcement agency officials about missing individuals and use of a rapid telephone and cellular alert call system; (3) provide services to Child Abduction Response Teams; (4) assist law enforcement agencies to combat human trafficking through the use of rapid telephone and cellular alert calls; (5) share appropriate information on cases with the National Center for Missing and Exploited Children, the AMBER Alert, Silver Alert, and Blue Alert programs, and law enforcement; and (6) assist appropriate organizations with education and prevention programs related to missing individuals. Directs the Attorney General to annually: (1) require each grantee to submit the results of monitoring and evaluations of grant recipients, and (2) publish a report regarding such results and the effectiveness of activities carried out under each grant.</summary>
+</bill>

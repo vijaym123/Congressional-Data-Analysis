@@ -1,0 +1,41 @@
+<bill session="112" type="h" number="3279" updated="2013-07-20T01:38:34-04:00">
+  <state datetime="2011-10-27">REFERRED</state>
+  <status>
+    <introduced datetime="2011-10-27"/>
+  </status>
+  <introduced datetime="2011-10-27"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to clarify that caregivers for veterans with serious illnesses are eligible for assistance and support services provided by the Secretary of Veterans Affairs.</title>
+  </titles>
+  <sponsor id="400337"/>
+  <cosponsors>
+    <cosponsor id="400274" joined="2012-06-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-10-27">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2011-10-28">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2012-04-16">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Family relationships"/>
+    <term name="Home and outpatient care"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>10/27/2011--Introduced.
+Makes family caregivers of certain veterans with a serious illness eligible for a Department of Veterans Affairs (VA) program of comprehensive assistance and support services. (Under current law, only family caregivers of certain veterans with a serious injury are so eligible.)</summary>
+</bill>

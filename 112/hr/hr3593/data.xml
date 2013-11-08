@@ -1,0 +1,94 @@
+<bill session="112" type="h" number="3593" updated="2013-07-20T01:41:13-04:00">
+  <state datetime="2012-07-23T18:17:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-07-23T18:17:00-04:00"/>
+  </status>
+  <introduced datetime="2011-12-07"/>
+  <titles>
+    <title as="introduced" type="official">To designate the facility of the United States Postal Service located at 787 State Route 17M in Monroe, New York, as the "National Clandestine Service of the Central Intelligence Agency NCS Officer Gregg David Wenzel Memorial Post Office".</title>
+  </titles>
+  <sponsor id="412452"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="2011-12-07"/>
+    <cosponsor id="400031" joined="2011-12-16"/>
+    <cosponsor id="412456" joined="2011-12-07"/>
+    <cosponsor id="412221" joined="2011-12-16"/>
+    <cosponsor id="400087" joined="2011-12-16"/>
+    <cosponsor id="400122" joined="2011-12-07"/>
+    <cosponsor id="412453" joined="2011-12-07"/>
+    <cosponsor id="412451" joined="2011-12-07"/>
+    <cosponsor id="412454" joined="2011-12-07"/>
+    <cosponsor id="400641" joined="2011-12-16"/>
+    <cosponsor id="400178" joined="2011-12-16"/>
+    <cosponsor id="412497" joined="2011-12-07"/>
+    <cosponsor id="400195" joined="2011-12-16"/>
+    <cosponsor id="400219" joined="2011-12-07"/>
+    <cosponsor id="400246" joined="2011-12-07"/>
+    <cosponsor id="400251" joined="2011-12-07"/>
+    <cosponsor id="400257" joined="2011-12-07"/>
+    <cosponsor id="400271" joined="2011-12-16"/>
+    <cosponsor id="400289" joined="2011-12-16"/>
+    <cosponsor id="412383" joined="2011-12-07"/>
+    <cosponsor id="400333" joined="2011-12-07"/>
+    <cosponsor id="412393" joined="2011-12-07"/>
+    <cosponsor id="400366" joined="2011-12-07"/>
+    <cosponsor id="400378" joined="2011-12-16"/>
+    <cosponsor id="412319" joined="2011-12-07"/>
+    <cosponsor id="400409" joined="2011-12-16"/>
+    <cosponsor id="412499" joined="2011-12-16"/>
+    <cosponsor id="400416" joined="2011-12-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-12-07">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2012-02-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-02-07">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2012-07-23T18:12:00-04:00">
+      <text>Ms. Buerkle moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-07-23T18:12:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5112" label="consideration"/>
+    </action>
+    <action datetime="2012-07-23T18:12:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3593.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-07-23T18:17:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H5112" label="text"/>
+    </vote>
+    <action datetime="2012-07-23T18:17:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-07-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2012-08-29">
+      <text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSGA09" subcommittee="Federal Financial Management, Government Information, Federal Services, and International Security" name="Senate Homeland Security and Governmental Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="New York State"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>12/7/2011--Introduced.
+Designates the facility of the United States Postal Service located at 787 State Route 17M in Monroe, New York, as the "National Clandestine Service of the Central Intelligence Agency NCS Officer Gregg David Wenzel Memorial Post Office."</summary>
+</bill>

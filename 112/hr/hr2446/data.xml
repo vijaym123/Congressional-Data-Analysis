@@ -1,0 +1,128 @@
+<bill session="112" type="h" number="2446" updated="2013-07-20T01:31:29-04:00">
+  <state datetime="2012-08-01T20:16:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-08-01T20:16:00-04:00"/>
+  </status>
+  <introduced datetime="2011-07-07"/>
+  <titles>
+    <title as="introduced" type="short">RESPA Home Warranty Clarification Act of 2011</title>
+    <title as="reported to house" type="short">RESPA Home Warranty Clarification Act of 2012</title>
+    <title as="passed house" type="short">RESPA Home Warranty Clarification Act of 2012</title>
+    <title as="introduced" type="official">To clarify the treatment of homeowner warranties under current law, and for other purposes.</title>
+  </titles>
+  <sponsor id="400027"/>
+  <cosponsors>
+    <cosponsor id="400009" joined="2011-10-27"/>
+    <cosponsor id="400032" joined="2011-10-27"/>
+    <cosponsor id="400061" joined="2011-10-13"/>
+    <cosponsor id="400074" joined="2011-07-07"/>
+    <cosponsor id="400639" joined="2011-10-05"/>
+    <cosponsor id="412236" joined="2011-10-13"/>
+    <cosponsor id="400081" joined="2011-11-17"/>
+    <cosponsor id="412400" joined="2011-11-02"/>
+    <cosponsor id="412477" joined="2011-11-04"/>
+    <cosponsor id="412420" joined="2011-11-17"/>
+    <cosponsor id="400116" joined="2011-11-02"/>
+    <cosponsor id="412479" joined="2011-10-05"/>
+    <cosponsor id="412476" joined="2011-11-17"/>
+    <cosponsor id="412401" joined="2012-04-19"/>
+    <cosponsor id="412451" joined="2011-12-06"/>
+    <cosponsor id="412278" joined="2012-04-19"/>
+    <cosponsor id="412452" joined="2011-11-04"/>
+    <cosponsor id="400179" joined="2011-10-13"/>
+    <cosponsor id="412437" joined="2011-09-20"/>
+    <cosponsor id="412283" joined="2012-04-19"/>
+    <cosponsor id="400209" joined="2011-11-02"/>
+    <cosponsor id="400219" joined="2011-09-22"/>
+    <cosponsor id="400234" joined="2011-10-03"/>
+    <cosponsor id="400240" joined="2012-03-19"/>
+    <cosponsor id="412292" joined="2011-11-04"/>
+    <cosponsor id="400252" joined="2011-09-15"/>
+    <cosponsor id="400260" joined="2012-02-27"/>
+    <cosponsor id="400644" joined="2011-12-07"/>
+    <cosponsor id="400271" joined="2012-02-27"/>
+    <cosponsor id="400277" joined="2012-03-27"/>
+    <cosponsor id="400661" joined="2011-10-03"/>
+    <cosponsor id="412309" joined="2011-10-04"/>
+    <cosponsor id="412310" joined="2011-10-27"/>
+    <cosponsor id="400345" joined="2011-10-13"/>
+    <cosponsor id="400348" joined="2011-11-02"/>
+    <cosponsor id="400363" joined="2011-10-04"/>
+    <cosponsor id="412396" joined="2011-10-13"/>
+    <cosponsor id="400371" joined="2011-12-19"/>
+    <cosponsor id="412461" joined="2011-10-05"/>
+    <cosponsor id="400627" joined="2011-07-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-07-07">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2011-07-13">
+      <text>Hearings Held by the Subcommittee on Insurance, Housing and Community Opportunity Prior to Referral.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2011-07-19">
+      <text>Referred to the Subcommittee on Insurance, Housing and Community Opportunity.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2011-12-08">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2011-12-08">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2012-03-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-03-27">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Financial Services"/>
+    </calendar>
+    <action datetime="2012-07-31T14:52:00-04:00">
+      <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 112-633.</text>
+    </action>
+    <calendar datetime="2012-07-31T14:52:00-04:00" calendar="Union" number="455">
+      <text>Placed on the Union Calendar, Calendar No. 455.</text>
+    </calendar>
+    <action datetime="2012-08-01T20:05:00-04:00">
+      <text>Mrs. Biggert moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-08-01T20:06:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5612-5613" label="consideration"/>
+    </action>
+    <action datetime="2012-08-01T20:06:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2446.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-08-01T20:16:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5612" label="text"/>
+    </vote>
+    <action datetime="2012-08-01T20:16:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-08-02">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSBA04" subcommittee="Insurance, Housing and Community Opportunity" name="House Financial Services"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Consumer affairs"/>
+    <term name="Contracts and agency"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Real estate business"/>
+    <term name="Residential rehabilitation and home repair"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/2012--Passed House amended.
+RESPA Home Warranty Clarification Act of 2012 - Amends the Real Estate Settlement Procedures Act of 1974 (RESPA) to state that no prohibited kickback or unearned fee incident to a real estate settlement service involving a federally related mortgage loan shall be deemed to include, or be deemed to have included, homeowner warranties or similar residential service contracts for the repair or replacement of home system components or home appliances. Requires any person that pays another person not employed by the person for selling, advertising, marketing, or processing, or performing an inspection in connection with, a homeowner warranty or similar residential service contract for the repair or replacement of home system components or home appliances, to include a specified statement reflecting this Act in any such warranty or contract incident to a transaction involving the origination of a federally related mortgage loan. Requires any person who has contracted to receive payment from a provider of such services for recommending the purchase of a home warranty or similar residential service contract, and is not an employee of such provider, to give the potential purchaser, upon first recommending such a purchase, a written notice informing the individual that such person has received or will receive compensation from the warranty company for the residential service. Allows the individual to opt out of purchasing such a warranty or service contract, or to purchase it from another provider.</summary>
+</bill>

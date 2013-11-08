@@ -1,0 +1,41 @@
+<bill session="111" type="hc" number="194" updated="2013-07-20T00:14:40-04:00">
+  <state datetime="2009-10-06">REFERRED</state>
+  <status>
+    <introduced datetime="2009-10-06"/>
+  </status>
+  <introduced datetime="2009-10-06"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals and ideals of "Lights On Afterschool!", a national celebration of after-school programs.</title>
+  </titles>
+  <sponsor id="400246"/>
+  <cosponsors>
+    <cosponsor id="412193" joined="2009-12-07"/>
+    <cosponsor id="400254" joined="2009-12-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-10-06">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2009-11-16">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED14" subcommittee="Early Childhood, Elementary, and Secondary Education" name="House Education and Labor"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="hr" number="1633"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Child care and development"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Elementary and secondary education"/>
+    <term name="School administration"/>
+  </subjects>
+  <amendments/>
+  <summary>10/6/2009--Introduced.
+Supports the goals and ideals of "Lights On Afterschool!," a national celebration of after-school programs.</summary>
+</bill>

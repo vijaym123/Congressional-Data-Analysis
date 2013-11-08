@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="5337" updated="2013-07-20T00:00:28-04:00">
+  <state datetime="2010-05-18">REFERRED</state>
+  <status>
+    <introduced datetime="2010-05-18"/>
+  </status>
+  <introduced datetime="2010-05-18"/>
+  <titles>
+    <title as="introduced" type="short">Animal Torture Prevention Act of 2010</title>
+    <title as="introduced" type="official">To amend section 48 (relating to depiction of extreme animal cruelty) of title 18, United States Code, and for other purposes.</title>
+  </titles>
+  <sponsor id="412305"/>
+  <cosponsors>
+    <cosponsor id="412385" joined="2010-06-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-05-18">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2010-07-26">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="5092"/>
+    <bill relation="unknown" session="111" type="h" number="5566"/>
+    <bill relation="unknown" session="111" type="s" number="3841"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Crimes against animals and natural resources"/>
+    <term name="Internet and video services"/>
+  </subjects>
+  <amendments/>
+  <summary>5/18/2010--Introduced.
+Animal Torture Prevention Act of 2010 - Amends the federal criminal code to impose a fine and/or prison term of up to five years for creating, selling, distributing, or offering to sell or distribute a depiction of extreme animal cruelty. Defines "depiction of extreme animal cruelty" as any visual depiction of actual conduct in which one or more animals is tortured, maimed, mutilated, or subjected to other acts of extreme animal cruelty, that appeals to the prurient interest, and that, taken as a whole, does not have more than de minimis religious, political, scientific, educational, journalistic, historical, or artistic value.</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="113" type="h" number="3283" updated="2013-11-02T06:46:38-04:00">
+  <state datetime="2013-10-10">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-10"/>
+  </status>
+  <introduced datetime="2013-10-10"/>
+  <titles>
+    <title type="short" as="introduced">Integrated Public Alert and Warning System Modernization Act of 2013</title>
+    <title type="official" as="introduced">To amend the Homeland Security Act of 2002 to direct the Secretary of Homeland Security to modernize and implement the national integrated public alert and warning system to disseminate homeland security information and other information, and for other purposes.</title>
+  </titles>
+  <sponsor id="412250"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-10-10" state="REFERRED">
+      <text>Referred to the Committee on Homeland Security, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-10-10">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2013-10-10">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2013-10-15">
+      <text>Referred to the Subcommittee on Emergency Preparedness, Response and Communications.</text>
+      <committee name="House Homeland Security"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM12" subcommittee="Emergency Preparedness, Response, and Communications" name="House Homeland Security"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

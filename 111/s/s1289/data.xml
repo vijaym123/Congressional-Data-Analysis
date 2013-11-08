@@ -1,0 +1,96 @@
+<bill session="111" type="s" number="1289" updated="2013-07-20T00:35:04-04:00">
+  <state datetime="2009-10-19">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2009-10-19"/>
+  </status>
+  <introduced datetime="2009-06-18"/>
+  <titles>
+    <title as="introduced" type="short">Foreign Evidence Request Efficiency Act of 2009</title>
+    <title as="passed house" type="short">Foreign Evidence Request Efficiency Act of 2009</title>
+    <title as="passed senate" type="short">Foreign Evidence Request Efficiency Act of 2009</title>
+    <title as="enacted" type="short">Foreign Evidence Request Efficiency Act of 2009</title>
+    <title as="introduced" type="official">A bill to improve title 18 of the United States Code.</title>
+  </titles>
+  <sponsor id="412247"/>
+  <cosponsors>
+    <cosponsor id="300065" joined="2009-06-18"/>
+    <cosponsor id="300088" joined="2009-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-06-18">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S6809-6810"/>
+    </action>
+    <action state="REFERRED" datetime="2009-06-18">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2009-07-10">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S7373-7374" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2009-07-10" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S7373-7374" label="text"/>
+    </vote>
+    <action datetime="2009-07-10T14:32:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2009-07-10">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2009-07-10">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2009-08-19">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2009-09-30T12:27:00-04:00">
+      <text>Mr. Schiff moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-09-30T12:27:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10092-10094" label="consideration"/>
+    </action>
+    <action datetime="2009-09-30T12:27:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 1289.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2009-09-30T12:36:00-04:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H10092-10093" label="text"/>
+    </vote>
+    <action datetime="2009-09-30T12:36:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2009-09-30">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2009-10-07">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2009-10-19">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2009-10-19" type="public" number="111-79">
+      <text>Became Public Law No: 111-79.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="h" number="3133"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="International organizations and cooperation"/>
+  </subjects>
+  <amendments/>
+  <summary>10/19/2009--Public Law.
+Foreign Evidence Request Efficiency Act of 2009 - Amends the federal criminal code to: (1) allow any court of competent jurisdiction, as defined by this Act, to require the disclosure of stored wire or electronic communications for criminal investigations (currently, only a court with jurisdiction over the offense under investigation may issue an order for disclosure); and (2) authorize a federal judge to issue orders to execute requests from foreign judicial or law enforcement authorities for assistance in the investigation or prosecution of criminal offenses.</summary>
+</bill>

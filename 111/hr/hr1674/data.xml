@@ -1,0 +1,55 @@
+<bill session="111" type="h" number="1674" updated="2013-07-19T23:26:50-04:00">
+  <state datetime="2009-06-16T12:38:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-06-16T12:38:00-04:00"/>
+  </status>
+  <introduced datetime="2009-03-23"/>
+  <titles>
+    <title as="introduced" type="short">National Consumer Cooperative Bank Act Amendments of 2009</title>
+    <title as="passed house" type="short">National Consumer Cooperative Bank Act Amendments of 2009</title>
+    <title as="introduced" type="official">To amend the National Consumer Cooperative Bank Act to allow for the treatment of the nonprofit corporation affiliate of the Bank as a community development financial institution for purposes of the Community Development Banking and Financial Institutions Act of 1994.</title>
+  </titles>
+  <sponsor id="400251"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-23">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2009-06-16T12:29:00-04:00">
+      <text>Mrs. Maloney moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-06-16T12:30:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6832-6833" label="consideration"/>
+    </action>
+    <action datetime="2009-06-16T12:30:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1674.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-06-16T12:38:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6832" label="text"/>
+    </vote>
+    <action datetime="2009-06-16T12:38:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-06-17">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="1068"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Federally chartered organizations"/>
+    <term name="Financial services and investments"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/2009--Passed House without amendment.
+National Consumer Cooperative Bank Act Amendments of 2009 - Amends the National Consumer Cooperative Bank Act to declare that a nonprofit corporation (established to succeed the abolished Office of Self-Help Development and Technical Assistance) shall be deemed to be a community development financial institution, unless the National Consumer Cooperative Bank or any of its affiliates participates in certain depository institution incentives under the Community Development Banking and Financial Institutions Act of 1994.</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="113" type="h" number="3061" updated="2013-11-02T06:44:47-04:00">
+  <state datetime="2013-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-02"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="short" as="introduced">Youth Corps Act of 2013</title>
+    <title type="official" as="introduced">To amend the Workforce Investment Act of 1998 to provide for the establishment of Youth Corps programs and provide for wider dissemination of the Youth Corps model.</title>
+  </titles>
+  <sponsor id="412412"/>
+  <cosponsors>
+    <cosponsor id="412236" joined="2013-08-02"/>
+    <cosponsor id="412272" joined="2013-08-02"/>
+    <cosponsor id="400130" joined="2013-08-02"/>
+    <cosponsor id="400240" joined="2013-08-02"/>
+    <cosponsor id="412209" joined="2013-08-02"/>
+    <cosponsor id="412293" joined="2013-08-02"/>
+    <cosponsor id="400290" joined="2013-10-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+      <committee name="House Committee on Education and the Workforce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education and Workforce Training" name="House Education and the Workforce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Employment and training programs"/>
+    <term name="Indian social and development programs"/>
+    <term name="Land use and conservation"/>
+    <term name="National and community service"/>
+    <term name="Youth employment and child labor"/>
+  </subjects>
+  <amendments/>
+</bill>

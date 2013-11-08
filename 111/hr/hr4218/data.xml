@@ -1,0 +1,75 @@
+<bill session="111" type="h" number="4218" updated="2013-07-19T23:50:24-04:00">
+  <state datetime="2009-12-15">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2009-12-15"/>
+  </status>
+  <introduced datetime="2009-12-08"/>
+  <titles>
+    <title as="introduced" type="short">No Social Security Benefits for Prisoners Act of 2009</title>
+    <title as="passed house" type="short">No Social Security Benefits for Prisoners Act of 2009</title>
+    <title as="passed senate" type="short">No Social Security Benefits for Prisoners Act of 2009</title>
+    <title as="enacted" type="short">No Social Security Benefits for Prisoners Act of 2009</title>
+    <title as="introduced" type="official">To amend titles II and XVI of the Social Security Act to prohibit retroactive payments to individuals during periods for which such individuals are prisoners, fugitive felons, or probation or parole violators.</title>
+  </titles>
+  <sponsor id="400395"/>
+  <cosponsors>
+    <cosponsor id="400206" joined="2009-12-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-12-08">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2009-12-08T15:32:00-05:00">
+      <text>Mr. Tanner moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-12-08T15:32:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H13596-13597" label="consideration"/>
+    </action>
+    <action datetime="2009-12-08T15:32:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4218.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-12-08T15:43:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H13596" label="text"/>
+    </vote>
+    <action datetime="2009-12-08T15:43:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-12-08">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2009-12-10" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S12969" label="consideration"/>
+    </vote>
+    <topresident datetime="2009-12-10">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2009-12-11">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2009-12-14">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2009-12-15">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2009-12-15" type="public" number="111-115">
+      <text>Became Public Law No: 111-115.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Social security and elderly assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>12/15/2009--Public Law.
+(This measure has not been amended since it was introduced. The summary of that version is repeated here.) No Social Security Benefits for Prisoners Act of 2009 - Amends titles II (Old Age, Survivors and Disability Insurance) (OASDI) and XVI (Supplemental Security Income) (SSI) of the Social Security Act to prohibit retroactive payments to individuals during periods for which such individuals are prisoners, fugitive felons, or probation or parole violators.</summary>
+</bill>

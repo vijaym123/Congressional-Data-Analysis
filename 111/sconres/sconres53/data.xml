@@ -1,0 +1,55 @@
+<bill session="111" type="sc" number="53" updated="2013-07-20T00:22:59-04:00">
+  <state datetime="2010-03-15">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2010-03-15"/>
+  </status>
+  <introduced datetime="2010-03-10"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution recognizing and congratulating the City of Colorado Springs, Colorado, as the new official site of the National Emergency Medical Services Memorial Service and the National Emergency Medical Services Memorial.</title>
+  </titles>
+  <sponsor id="412330"/>
+  <cosponsors>
+    <cosponsor id="400412" joined="2010-03-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-03-10">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S1367" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2010-03-15">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S1562-1563" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2010-03-15" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S1563" label="text"/>
+    </vote>
+    <action datetime="2010-03-16T12:02:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2010-03-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2010-03-16">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hc" number="161"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Colorado"/>
+    <term name="Congressional tributes"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Health personnel"/>
+    <term name="Monuments and memorials"/>
+  </subjects>
+  <amendments/>
+  <summary>3/15/2010--Passed Senate without amendment.
+Recognizes the City of Colorado Springs, Colorado, as the new official site of the National Emergency Medical Services Memorial Service and the National Emergency Medical Services Memorial.</summary>
+</bill>

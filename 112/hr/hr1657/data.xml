@@ -1,0 +1,93 @@
+<bill session="112" type="h" number="1657" updated="2013-07-20T01:24:38-04:00">
+  <state datetime="2011-05-23T19:08:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2011-05-23T19:08:00-04:00"/>
+  </status>
+  <introduced datetime="2011-04-15"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to revise the enforcement penalties for misrepresentation of a business concern as a small business concern owned and controlled by veterans or as a small business concern owned and controlled by service-disabled veterans.</title>
+  </titles>
+  <sponsor id="412392"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2011-04-15">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2011-04-29">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2011-05-03">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2011-05-05">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2011-05-05">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2011-05-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-05-12">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2011-05-20T12:22:00-04:00">
+      <text>Reported by the Committee on Veterans' Affairs. H. Rept. 112-85. Filed late, pursuant to previous special order.</text>
+    </action>
+    <calendar datetime="2011-05-20T12:22:00-04:00" calendar="Union" number="46">
+      <text>Placed on the Union Calendar, Calendar No. 46.</text>
+    </calendar>
+    <action datetime="2011-05-23T16:42:00-04:00">
+      <text>Mr. Miller (FL) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2011-05-23T16:42:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3316-3317" label="consideration"/>
+    </action>
+    <action datetime="2011-05-23T16:42:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1657.</text>
+    </action>
+    <action datetime="2011-05-23T16:53:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2011-05-23T19:02:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3321-3322" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-05-23T19:08:00-04:00" how="roll" result="pass" roll="332" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 385 - 1 (Roll no. 332).</text>
+      <reference ref="CR H3316" label="text"/>
+    </vote>
+    <action datetime="2011-05-23T19:08:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-05-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="1184"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disability and paralysis"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Small business"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/23/2011--Passed House without amendment.
+Directs that any business determined by the Secretary of Veterans Affairs (VA) to have misrepresented its status as a small business owned and controlled by veterans or service-disabled veterans in order to increase its contracting opportunities shall be debarred from contracting with the VA for not less than five years (under current law, for a reasonable period as determined by the Secretary). Requires the Secretary to commence the debarment action within 30 days after the misrepresentation determination, and to complete such action within 90 days after such determination. Includes in the debarment all principals in the business.</summary>
+</bill>

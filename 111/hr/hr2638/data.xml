@@ -1,0 +1,44 @@
+<bill session="111" type="h" number="2638" updated="2013-07-19T23:35:36-04:00">
+  <state datetime="2009-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2009-05-21"/>
+  </status>
+  <introduced datetime="2009-05-21"/>
+  <titles>
+    <title as="introduced" type="short">Veterans Stamp to Honor American Veterans Act</title>
+    <title as="introduced" type="official">To provide for the issuance of a veterans health care stamp.</title>
+  </titles>
+  <sponsor id="412225"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-05-21">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-05-21">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2009-05-21">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2009-05-22">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="3942"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Postal service"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2009--Introduced.
+Veterans Stamp to Honor American Veterans Act - Requires the U.S. Postal Service to provide for the issuance and sale of a veterans health care stamp to help fund veterans health care, including new shelters, improved medical facilities, and medical and prescription assistance.</summary>
+</bill>

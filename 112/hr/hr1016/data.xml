@@ -1,0 +1,118 @@
+<bill session="112" type="h" number="1016" updated="2013-07-20T01:19:09-04:00">
+  <state datetime="2011-05-10T17:32:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2011-05-10T17:32:00-04:00"/>
+  </status>
+  <introduced datetime="2011-03-10"/>
+  <titles>
+    <title as="introduced" type="short">Assessing Progress in Haiti Act</title>
+    <title as="passed house" type="short">Assessing Progress in Haiti Act</title>
+    <title as="reported to senate" type="short">Assessing Progress in Haiti Act</title>
+    <title as="introduced" type="official">To measure the progress of relief, recovery, reconstruction, and development efforts in Haiti following the earthquake of January 12, 2010, and for other purposes.</title>
+  </titles>
+  <sponsor id="400237"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2011-03-16"/>
+    <cosponsor id="400048" joined="2011-03-16"/>
+    <cosponsor id="400616" joined="2011-03-16"/>
+    <cosponsor id="400063" joined="2011-03-16"/>
+    <cosponsor id="412221" joined="2011-03-16"/>
+    <cosponsor id="400090" joined="2011-03-31"/>
+    <cosponsor id="400130" joined="2011-04-13"/>
+    <cosponsor id="400133" joined="2011-03-31"/>
+    <cosponsor id="400653" joined="2011-04-13"/>
+    <cosponsor id="400162" joined="2011-03-16"/>
+    <cosponsor id="400185" joined="2011-03-31"/>
+    <cosponsor id="412199" joined="2011-05-10"/>
+    <cosponsor id="400263" joined="2011-03-16"/>
+    <cosponsor id="400661" joined="2011-03-16"/>
+    <cosponsor id="400295" joined="2011-03-31"/>
+    <cosponsor id="400312" joined="2011-04-13"/>
+    <cosponsor id="400333" joined="2011-03-16"/>
+    <cosponsor id="400350" joined="2011-03-16"/>
+    <cosponsor id="400364" joined="2011-03-16"/>
+    <cosponsor id="400402" joined="2011-03-16"/>
+    <cosponsor id="400409" joined="2011-03-16"/>
+    <cosponsor id="400422" joined="2011-05-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-03-10">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2011-03-29">
+      <text>Referred to the Subcommittee on the Western Hemisphere.</text>
+      <committee name="House Committee on Foreign Affairs"/>
+    </action>
+    <action datetime="2011-03-31">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Foreign Affairs"/>
+    </action>
+    <action datetime="2011-04-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Foreign Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-04-14">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Foreign Affairs"/>
+    </calendar>
+    <action datetime="2011-05-10T17:06:00-04:00">
+      <text>Ms. Ros-Lehtinen moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2011-05-10T17:06:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3126-3131" label="consideration"/>
+    </action>
+    <action datetime="2011-05-10T17:06:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1016.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-05-10T17:32:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H3127" label="text"/>
+    </vote>
+    <action datetime="2011-05-10T17:32:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-05-11">
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <calendar datetime="2012-04-26">
+      <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Foreign Relations"/>
+    </calendar>
+    <action datetime="2012-04-26">
+      <text>Committee on Foreign Relations. Reported by Senator Kerry without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2012-04-26" calendar="Senate Legislative" under="General Orders" number="387">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 387.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral, Hearings" code="HSFA07" subcommittee="Western Hemisphere" name="House Foreign Affairs"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="1576"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Caribbean area"/>
+    <term name="Congressional oversight"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Haiti"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Infectious and parasitic diseases"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Latin America"/>
+    <term name="Multilateral development programs"/>
+    <term name="Natural disasters"/>
+    <term name="Reconstruction and stabilization"/>
+    <term name="Refugees, asylum, displaced persons"/>
+    <term name="United Nations"/>
+    <term name="World health"/>
+  </subjects>
+  <amendments/>
+  <summary>4/26/2012--Reported to Senate without amendment.
+Assessing Progress in Haiti Act - Directs the President to report to Congress on the status of post-earthquake humanitarian, reconstruction, and development efforts in Haiti, including efforts to prevent the spread of cholera and treat persons infected with the disease. Requires such report to evaluate: (1) the overall progress of relief, recovery, and reconstruction in Haiti, including U.S. government programs, programs to protect vulnerable populations, and projects to improve water, sanitation, and health; (2) the extent to which U.S. and international efforts are in line with the government of Haiti's priorities and are working through Haitian ministries and local authorities; (3) coordination among U.S. government agencies and coordination between the U.S. government and U.N. agencies, international financial institutions, and other bilateral donors; (4) mechanisms for communicating the progress of recovery and reconstruction to Haitian citizens; (5) mechanisms through which Haitian civil society and the Haitian diaspora are participating in recovery and reconstruction; and (6) Haiti's suitability to receive aliens who are removed, excluded, or deported from the United States and steps Haiti is taking to strengthen its capacity in this regard.</summary>
+</bill>

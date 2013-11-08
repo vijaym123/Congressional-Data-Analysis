@@ -1,0 +1,72 @@
+<bill session="112" type="h" number="1234" updated="2013-07-20T01:21:03-04:00">
+  <state datetime="2011-03-29">REFERRED</state>
+  <status>
+    <introduced datetime="2011-03-29"/>
+  </status>
+  <introduced datetime="2011-03-29"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Act of June 18, 1934, to reaffirm the authority of the Secretary of the Interior to take land into trust for Indian tribes.</title>
+  </titles>
+  <sponsor id="400216"/>
+  <cosponsors>
+    <cosponsor id="400009" joined="2011-04-12"/>
+    <cosponsor id="400021" joined="2011-06-21"/>
+    <cosponsor id="400033" joined="2011-04-06"/>
+    <cosponsor id="400645" joined="2011-04-04"/>
+    <cosponsor id="400073" joined="2011-04-06"/>
+    <cosponsor id="400109" joined="2011-07-29"/>
+    <cosponsor id="400128" joined="2011-04-04"/>
+    <cosponsor id="400162" joined="2011-04-07"/>
+    <cosponsor id="412281" joined="2011-04-15"/>
+    <cosponsor id="400185" joined="2011-04-04"/>
+    <cosponsor id="400193" joined="2011-03-31"/>
+    <cosponsor id="412435" joined="2011-07-15"/>
+    <cosponsor id="400232" joined="2011-04-08"/>
+    <cosponsor id="412293" joined="2011-03-31"/>
+    <cosponsor id="400249" joined="2011-03-31"/>
+    <cosponsor id="400251" joined="2011-03-31"/>
+    <cosponsor id="400253" joined="2011-04-07"/>
+    <cosponsor id="400259" joined="2011-03-31"/>
+    <cosponsor id="400263" joined="2011-04-15"/>
+    <cosponsor id="400274" joined="2011-04-12"/>
+    <cosponsor id="400278" joined="2011-04-14"/>
+    <cosponsor id="400661" joined="2011-06-15"/>
+    <cosponsor id="400283" joined="2011-07-08"/>
+    <cosponsor id="400308" joined="2011-07-11"/>
+    <cosponsor id="400333" joined="2011-06-22"/>
+    <cosponsor id="400335" joined="2011-04-05"/>
+    <cosponsor id="412253" joined="2011-03-31"/>
+    <cosponsor id="412312" joined="2011-04-14"/>
+    <cosponsor id="412225" joined="2011-06-21"/>
+    <cosponsor id="412254" joined="2011-12-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-03-29">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2011-03-31">
+      <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-07-12">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII24" subcommittee="Indian and Alaska Native Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="1291"/>
+    <bill relation="unknown" session="112" type="s" number="676"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Indian lands and resources rights"/>
+  </subjects>
+  <amendments/>
+  <summary>3/29/2011--Introduced.
+Amends the Act commonly known as the Indian Reorganization Act to apply the Act to all federally recognized Indian tribes, regardless of when any tribe became recognized. (This effectively overrules the Supreme Court's decision in Carcieri v. Salazar, which held that the Secretary of the Interior could not take land into trust for a specified tribe because that tribe had not been under federal jurisdiction when the Act was enacted.) Ratifies and confirms any action taken by the Secretary pursuant to such Act for any Indian tribe that was federally recognized on the date of that action.</summary>
+</bill>

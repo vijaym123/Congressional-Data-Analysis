@@ -1,0 +1,66 @@
+<bill session="111" type="hr" number="1652" updated="2013-07-19T23:10:33-04:00">
+  <state datetime="2010-11-16T16:19:00-05:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2010-11-16T16:19:00-05:00"/>
+  </status>
+  <introduced datetime="2010-09-23"/>
+  <titles>
+    <title as="introduced" type="official">Expressing support for designation of the month of October 2010 as National Principals Month.</title>
+  </titles>
+  <sponsor id="400097"/>
+  <cosponsors>
+    <cosponsor id="400162" joined="2010-09-23"/>
+    <cosponsor id="412200" joined="2010-11-16"/>
+    <cosponsor id="400321" joined="2010-09-23"/>
+    <cosponsor id="412186" joined="2010-09-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2010-09-23">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1720"/>
+    </action>
+    <action state="REFERRED" datetime="2010-09-23">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2010-11-16T16:12:00-05:00">
+      <text>Ms. Hirono moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2010-11-16T16:12:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7474" label="consideration"/>
+    </action>
+    <action datetime="2010-11-16T16:12:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1652.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2010-11-16T16:19:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7474-7475" label="text"/>
+    </vote>
+    <action datetime="2010-11-16T16:19:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-11-18">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral"/>
+    <committee activity="Referral" code="HSED14" subcommittee="Early Childhood, Elementary, and Secondary Education" name="House Education and Labor"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hr" number="811"/>
+    <bill relation="unknown" session="111" type="hr" number="811"/>
+    <bill relation="unknown" session="111" type="sr" number="607"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Elementary and secondary education"/>
+    <term name="School administration"/>
+  </subjects>
+  <amendments/>
+  <summary>11/16/2010--Passed House amended.
+Recognizes school principals' and assistant principals' contribution to the success of elementary and secondary school students. Supports the designation of National Principals Month.</summary>
+</bill>

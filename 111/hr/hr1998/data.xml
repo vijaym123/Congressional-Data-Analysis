@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="1998" updated="2013-07-19T23:29:42-04:00">
+  <state datetime="2009-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="2009-04-21"/>
+  </status>
+  <introduced datetime="2009-04-21"/>
+  <titles>
+    <title as="introduced" type="short">Health Care Safety Net Enhancement Act of 2009</title>
+    <title as="introduced" type="official">To improve access to emergency medical services, and for other purposes.</title>
+  </titles>
+  <sponsor id="400155"/>
+  <cosponsors>
+    <cosponsor id="400657" joined="2009-04-28"/>
+    <cosponsor id="400648" joined="2009-04-21"/>
+    <cosponsor id="412275" joined="2009-04-28"/>
+    <cosponsor id="400367" joined="2009-12-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-04-21">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2009-04-22">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Civil actions and liability"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health personnel"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/2009--Introduced.
+Health Care Safety Net Enhancement Act of 2009 - Amends the Public Health Service Act to deem a hospital or an emergency department and a physician or physician group of such hospital or emergency department to be an employee of the Public Health Service for purposes of any civil action that may arise due to providing emergency and post-stabilization services on or after January 1, 2010.</summary>
+</bill>

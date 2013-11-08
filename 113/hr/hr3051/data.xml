@@ -1,0 +1,57 @@
+<bill session="113" type="h" number="3051" updated="2013-11-02T06:44:42-04:00">
+  <state datetime="2013-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-02"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="short" as="introduced">Coastal States Extension Act of 2013</title>
+    <title type="official" as="introduced">To extend State jurisdiction over submerged lands and to allow States to grant oil and natural gas leases in the extended area.</title>
+  </titles>
+  <sponsor id="400607"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-08-13">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2013-08-13">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2013-08-13">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Regulatory Reform, Commercial And Antitrust Law" name="House Judiciary"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+    <committee activity="Referral" code="HSII22" subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="General public lands matters"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Oil and gas"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+</bill>

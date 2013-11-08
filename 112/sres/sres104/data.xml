@@ -1,0 +1,48 @@
+<bill session="112" type="sr" number="104" updated="2013-07-20T02:11:33-04:00">
+  <state datetime="2011-08-02">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2011-08-02"/>
+  </status>
+  <introduced datetime="2011-03-17"/>
+  <titles>
+    <title as="introduced" type="official">A resolution designating September 2011 as "Campus Fire Safety Month".</title>
+  </titles>
+  <sponsor id="300064"/>
+  <cosponsors>
+    <cosponsor id="300025" joined="2011-03-17"/>
+    <cosponsor id="300066" joined="2011-03-17"/>
+    <cosponsor id="400272" joined="2011-03-17"/>
+    <cosponsor id="400357" joined="2011-03-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-03-17">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S1851" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2011-08-02">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S5283-5284" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2011-08-02" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S5283-5284" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="sr" number="549"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Fires"/>
+    <term name="Higher education"/>
+    <term name="Housing industry and standards"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/2011--Passed Senate without amendment.
+Designates September 2011 as Campus Fire Safety Month. Encourages administrators of institutions of higher education and municipalities to provide fire safety education and implement certain fire prevention measures.</summary>
+</bill>

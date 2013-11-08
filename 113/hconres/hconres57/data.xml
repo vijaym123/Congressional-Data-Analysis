@@ -1,0 +1,39 @@
+<bill session="113" type="hc" number="57" updated="2013-11-02T06:49:19-04:00">
+  <state datetime="2013-09-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-20"/>
+  </status>
+  <introduced datetime="2013-09-20"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the opposition of the Congress to the Environmental Protection Agency's proposed rule establishing new source performance standards to limit greenhouse gas emissions from new power plants.</title>
+  </titles>
+  <sponsor id="400331"/>
+  <cosponsors>
+    <cosponsor id="412535" joined="2013-09-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-20" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-09-27">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Air quality"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Public utilities and utility rates"/>
+  </subjects>
+  <amendments/>
+</bill>

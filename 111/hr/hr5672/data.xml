@@ -1,0 +1,63 @@
+<bill session="111" type="h" number="5672" updated="2013-07-20T00:03:46-04:00">
+  <state datetime="2010-07-01">REFERRED</state>
+  <status>
+    <introduced datetime="2010-07-01"/>
+  </status>
+  <introduced datetime="2010-07-01"/>
+  <titles>
+    <title as="introduced" type="official">To protect the use of traditional hunting and fishing equipment on Federal lands and to prevent unnecessary and unwarranted restrictions on the implements and equipment used by hunting and fishing communities.</title>
+  </titles>
+  <sponsor id="412252"/>
+  <cosponsors>
+    <cosponsor id="412231" joined="2010-07-01"/>
+    <cosponsor id="400029" joined="2010-07-01"/>
+    <cosponsor id="400040" joined="2010-07-01"/>
+    <cosponsor id="400645" joined="2010-07-01"/>
+    <cosponsor id="412262" joined="2010-07-01"/>
+    <cosponsor id="400279" joined="2010-07-01"/>
+    <cosponsor id="400335" joined="2010-07-01"/>
+    <cosponsor id="400345" joined="2010-07-01"/>
+    <cosponsor id="412261" joined="2010-07-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-01">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2010-07-01">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2010-07-01">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2010-07-07">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2010-07-07">
+      <text>Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2010-11-16">
+      <text>Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry.</text>
+      <committee name="House Agriculture"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee activity="Referral" code="HSII22" subcommittee="Insular Affairs, Oceans and Wildlife" name="House Natural Resources"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG22" subcommittee="Department Operations, Oversight, Nutrition and Forestry" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Appropriations"/>
+    <term name="Firearms and explosives"/>
+    <term name="Outdoor recreation"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>7/1/2010--Introduced.
+Prohibits the use of federal funds appropriated or made available to the Department of the Interior or the Department of Agriculture to prohibit, limit, or control, based on material composition, the type of firearm ammunition or fishing tackle used on federal lands managed by such Departments, except: (1) if the best scientific evidence available demonstrates that the material composition of the ammunition or fishing tackle is having or is likely to have a substantially detrimental effect on the health of a local fish or wildlife population; or (2) to the extent that a specific regulation is in effect on the date of enactment of this Act.</summary>
+</bill>

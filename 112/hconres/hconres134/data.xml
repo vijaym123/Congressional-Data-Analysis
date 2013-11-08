@@ -1,0 +1,68 @@
+<bill session="112" type="hc" number="134" updated="2013-07-20T02:10:08-04:00">
+  <state datetime="2012-07-26">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2012-07-26"/>
+  </status>
+  <introduced datetime="2012-07-24"/>
+  <titles>
+    <title as="introduced" type="official">Condemning, in the strongest possible terms, the heinous atrocities that occurred in Aurora, Colorado.</title>
+  </titles>
+  <sponsor id="412192"/>
+  <cosponsors>
+    <cosponsor id="412271" joined="2012-07-24"/>
+    <cosponsor id="400101" joined="2012-07-24"/>
+    <cosponsor id="412406" joined="2012-07-24"/>
+    <cosponsor id="412191" joined="2012-07-24"/>
+    <cosponsor id="412308" joined="2012-07-24"/>
+    <cosponsor id="412405" joined="2012-07-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-07-24">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2012-07-26T09:15:00-04:00">
+      <text>Pursuant to the order of the House of July 25, 2012, the House proceeded with consideration of H. Con. Res. 134.</text>
+      <reference ref="CR H5297-5302" label="consideration"/>
+    </action>
+    <action datetime="2012-07-26T09:15:00-04:00">
+      <text>DEBATE - The House proceeded with 30 minutes of debate on H. Con. Res. 134.</text>
+    </action>
+    <action datetime="2012-07-26T09:53:00-04:00">
+      <text>The previous question was ordered pursuant to a previous  order of the House.</text>
+      <reference ref="CR H5302" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-07-26T09:53:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H5297" label="text"/>
+    </vote>
+    <action datetime="2012-07-26T09:54:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2012-07-26" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S5628" label="consideration"/>
+    </vote>
+    <action datetime="2012-07-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="sc" number="53"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Colorado"/>
+    <term name="Congressional tributes"/>
+    <term name="Crime victims"/>
+    <term name="Federal officials"/>
+    <term name="First responders and emergency personnel"/>
+    <term name="State and local government operations"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>7/26/2012--Passed Senate without amendment.
+Condemns the atrocities that occurred in Aurora, Colorado, on July 20, 2012. Offers condolences to the families, friends, and loved ones of those who were killed and expresses hope for the rapid and complete recovery of the wounded. Applauds the hard work and dedication exhibited by the hundreds of officials and others who offered their support and assistance. Honors the resilience of the community of Aurora and Colorado.</summary>
+</bill>

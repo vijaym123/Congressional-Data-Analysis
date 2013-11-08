@@ -1,0 +1,122 @@
+<bill session="113" type="h" number="1256" updated="2013-11-02T06:29:31-04:00">
+  <state datetime="2013-06-12T17:25:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-06-12T17:25:00-04:00"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Swap Jurisdiction Certainty Act</title>
+    <title type="short" as="reported to house">Swap Jurisdiction Certainty Act</title>
+    <title type="short" as="passed house">Swap Jurisdiction Certainty Act</title>
+    <title type="official" as="introduced">To direct the Securities and Exchange Commission and the Commodity Futures Trading Commission to jointly adopt rules setting forth the application to cross-border swaps transactions of certain provisions relating to swaps that were enacted as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act.</title>
+  </titles>
+  <sponsor id="400145"/>
+  <cosponsors>
+    <cosponsor id="412407" joined="2013-03-19"/>
+    <cosponsor id="400655" joined="2013-03-19"/>
+    <cosponsor id="400363" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-19" state="REFERRED">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-19">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2013-03-19">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2013-03-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Agriculture"/>
+    </action>
+    <calendar datetime="2013-03-20" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Agriculture"/>
+    </calendar>
+    <action datetime="2013-04-11">
+      <text>Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Referral.</text>
+    </action>
+    <action datetime="2013-05-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2013-05-07">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 48 - 11.</text>
+    </calendar>
+    <action datetime="2013-06-10T15:20:00-04:00">
+      <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 113-103, Part I.</text>
+    </action>
+    <action datetime="2013-06-10T15:20:00-04:00">
+      <text>Reported by the Committee on Agriculture. H. Rept. 113-103, Part II.</text>
+    </action>
+    <calendar datetime="2013-06-10T15:21:00-04:00" calendar="Union" number="72">
+      <text>Placed on the Union Calendar, Calendar No. 72.</text>
+    </calendar>
+    <action datetime="2013-06-11T19:15:00-04:00">
+      <text>Rules Committee Resolution H. Res. 256 Reported to House. Resolution provides for one hour of general debate on H.R. 1960. Resolution also provides for one hour of general debate on H.R. 1256 under a closed rule.</text>
+    </action>
+    <action datetime="2013-06-12T15:11:00-04:00">
+      <text>Rule H. Res. 256 passed House.</text>
+    </action>
+    <action datetime="2013-06-12T15:28:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 256.</text>
+      <reference ref="CR H3317-3332" label="consideration"/>
+    </action>
+    <action datetime="2013-06-12T15:28:00-04:00">
+      <text>Resolution provides for one hour of general debate on H.R. 1960. Resolution also provides for one hour of general debate on H.R. 1256 under a closed rule.</text>
+    </action>
+    <action datetime="2013-06-12T15:30:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 1256.</text>
+    </action>
+    <action datetime="2013-06-12T16:42:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H3330" label="consideration"/>
+    </action>
+    <action datetime="2013-06-12T16:42:00-04:00">
+      <text>Mr. Maloney, Sean moved to recommit with instructions to Financial Services.</text>
+      <reference ref="CR H3330-3332" label="consideration"/>
+      <reference ref="CR H3330-3331" label="text"/>
+    </action>
+    <action datetime="2013-06-12T16:43:00-04:00">
+      <text>DEBATE - The House proceeded with 10 minutes of debate on the Sean Maloney motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House forthwith with an amendment to require the Securities and Exchange Commission (SEC) and Commodity Futures Trading Commission (CFTC) to rule that foreign entities are not broadly equivalent to U.S. swaps requirements if they: (1) engage in cyber attacks against the U.S. (including U.S. persons and businesses), do not have or enforce laws to deter cyber attacks, or have ever been the subject of a civil or criminal proceeding for cyber attacks; or (2) are in violation of, do not enforce comparable restrictions to, or have ever been the subject of a civil or criminal proceeding for violating Iran Sanctions.</text>
+    </action>
+    <action datetime="2013-06-12T17:17:00-04:00">
+      <text>On motion to recommit with instructions Failed by the Yeas and Nays: 194 - 230 (Roll no. 217).</text>
+      <reference ref="CR H3332" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="218" datetime="2013-06-12T17:25:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by recorded vote: 301 - 124 (Roll no. 218).</text>
+      <reference ref="CR H3318" label="text"/>
+    </vote>
+    <action datetime="2013-06-12T17:25:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-06-13">
+      <text>Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee activity="Hearings" code="HSBA16" subcommittee="Capital Markets and Government Sponsored Enterprises" name="House Financial Services"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="hr" number="256"/>
+    <bill relation="rule" session="113" type="hr" number="256"/>
+    <bill relation="unknown" session="113" type="s" number="469"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Commodities markets"/>
+    <term name="Commodity Futures Trading Commission"/>
+    <term name="Securities"/>
+    <term name="Securities and Exchange Commission (SEC)"/>
+  </subjects>
+  <amendments>
+    <amendment number="h140"/>
+  </amendments>
+  <summary>6/12/2013--Passed House amended.
+Swap Jurisdiction Certainty Act - Directs the Securities and Exchange Commission (SEC) and the Commodity Futures Trading Commission (CFTC) to issue jointly rules governing the application of swaps requirements of the Securities Exchange Act of 1934 and the Commodity Exchange Act, relating to cross-border swaps and security-based swaps transactions involving U.S. persons or non-U.S. persons. Requires such rules to be identical (except to the extent necessary to accommodate differences in other underlying statutory requirements), and to address: (1) the nature of the connections to the United States that require a non-U.S. person to register as a swap dealer, major swap participant, security-based swap dealer, or security-based swap participant under each Commission's respective Acts and related regulations; (2) the extent to which U.S. swaps requirements shall apply to the swap and security-based swap activities of non-U.S. persons, U.S. persons, and their branches, agencies, subsidiaries, and affiliates outside the United States; and (3) the circumstances under which a non-U.S. person in compliance with the regulatory requirements of a foreign jurisdiction shall be exempt from U.S. swaps requirements. Directs the Commissions to exempt from U.S. swaps requirements any non-U.S. person in compliance with the swaps regulatory requirements of a country or administrative region having one of the nine largest combined swap and security-based swap markets by notional amount in the calendar year preceding issuance of such rules (unless the Commissions jointly determine that such requirements are not broadly equivalent to U.S. swaps requirements). Requires the Commissions to report to Congress if they determine jointly that the regulatory requirements of such foreign jurisdictions are not broadly equivalent to U.S. swaps requirements.</summary>
+</bill>

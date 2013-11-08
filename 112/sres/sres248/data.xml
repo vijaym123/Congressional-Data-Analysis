@@ -1,0 +1,46 @@
+<bill session="112" type="sr" number="248" updated="2013-07-20T02:12:45-04:00">
+  <state datetime="2011-09-23">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2011-09-23"/>
+  </status>
+  <introduced datetime="2011-08-01"/>
+  <titles>
+    <title as="introduced" type="official">A resolution supporting the goals and ideals of National Brain Aneurysm Awareness Month.</title>
+  </titles>
+  <sponsor id="300060"/>
+  <cosponsors>
+    <cosponsor id="412384" joined="2011-09-19"/>
+    <cosponsor id="300091" joined="2011-09-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-08-01">
+      <text>Referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S5195-5196" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2011-09-23">
+      <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+      <reference ref="CR S5933" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2011-09-23" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S5933" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="hr" number="341"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cardiovascular and respiratory health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Medical research"/>
+    <term name="Neurological disorders"/>
+  </subjects>
+  <amendments/>
+  <summary>9/23/2011--Passed Senate without amendment.
+Expresses support for: (1) the goals and ideals of National Brain Aneurysm Awareness Month, and (2) research to prevent and treat brain aneurysms.</summary>
+</bill>

@@ -1,0 +1,91 @@
+<bill session="111" type="h" number="2864" updated="2013-07-19T23:37:38-04:00">
+  <state datetime="2010-07-14T13:46:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-07-14T13:46:00-04:00"/>
+  </status>
+  <introduced datetime="2009-06-12"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Hydrographic Services Improvement Act of 1998 to authorize funds to acquire hydrographic data and provide hydrographic services specific to the Arctic for safe navigation, delineating the United States extended continental shelf, and the monitoring and description of coastal changes.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-12">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-06-16">
+      <text>Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-05-06">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-06-16">
+      <text>Subcommittee on Insular Affairs, Oceans and Wildlife Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-06-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-06-16">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2010-07-13T15:00:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-532.</text>
+    </action>
+    <calendar datetime="2010-07-13T15:00:00-04:00" calendar="Union" number="305">
+      <text>Placed on the Union Calendar, Calendar No. 305.</text>
+    </calendar>
+    <action datetime="2010-07-13T15:03:00-04:00">
+      <text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-07-13T15:03:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5516-5517" label="consideration"/>
+    </action>
+    <action datetime="2010-07-13T15:03:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2864.</text>
+    </action>
+    <action datetime="2010-07-13T15:08:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-07-14T13:39:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5576-5577" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-07-14T13:46:00-04:00" how="roll" result="pass" roll="439" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 439).</text>
+      <reference ref="CR 7/13/2010 H5516-5517" label="text"/>
+    </vote>
+    <action datetime="2010-07-14T13:46:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-07-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII22" subcommittee="Insular Affairs, Oceans and Wildlife" name="House Natural Resources"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="1515"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Arctic Ocean"/>
+    <term name="Department of Commerce"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Hydrology and hydrography"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>7/14/2010--Passed House amended.
+Amends the Hydrographic Services Improvement Act of 1998 to authorize appropriations to the Administrator of the National Oceanic and Atmospheric Administration (NOAA) for FY2011-FY2012 for use to acquire (1) hydrographic data, provide hydrographic services, and conduct coastal change analyses necessary to ensure safe navigation, and to improve the management of coastal change in the Arctic; and (2) hydrographic data and provide hydrographic services in the Arctic necessary to delineate the U.S. extended continental shelf.</summary>
+</bill>

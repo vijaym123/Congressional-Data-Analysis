@@ -1,0 +1,44 @@
+<bill session="111" type="h" number="5248" updated="2013-07-19T23:59:41-04:00">
+  <state datetime="2010-05-06">REFERRED</state>
+  <status>
+    <introduced datetime="2010-05-06"/>
+  </status>
+  <introduced datetime="2010-05-06"/>
+  <titles>
+    <title as="introduced" type="short">No New Drilling Act of 2010</title>
+    <title as="introduced" type="official">To amend the Outer Continental Shelf Lands Act to prohibit the leasing of any area of the outer Continental Shelf for the exploration, development, or production of oil, gas, or any other mineral.</title>
+  </titles>
+  <sponsor id="400308"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2010-05-18"/>
+    <cosponsor id="412195" joined="2010-05-06"/>
+    <cosponsor id="400074" joined="2010-07-13"/>
+    <cosponsor id="412382" joined="2010-05-06"/>
+    <cosponsor id="400184" joined="2010-07-22"/>
+    <cosponsor id="400422" joined="2010-05-24"/>
+    <cosponsor id="400426" joined="2010-06-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-05-06">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2010-05-10">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Mining"/>
+    <term name="Oil and gas"/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/2010--Introduced.
+No New Drilling Act of 2010 - Amends the Outer Continental Shelf Lands Act to prohibit the issuance of any lease for the exploration, development, or production of oil, gas, or any other mineral on the outer Continental Shelf.</summary>
+</bill>

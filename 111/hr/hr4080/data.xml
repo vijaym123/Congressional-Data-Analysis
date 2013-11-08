@@ -1,0 +1,48 @@
+<bill session="111" type="h" number="4080" updated="2013-07-19T23:49:04-04:00">
+  <state datetime="2009-11-16">REFERRED</state>
+  <status>
+    <introduced datetime="2009-11-16"/>
+  </status>
+  <introduced datetime="2009-11-16"/>
+  <titles>
+    <title as="introduced" type="short">Criminal Justice Reinvestment Act of 2009</title>
+    <title as="introduced" type="official">To establish a criminal justice reinvestment grant program to help States and local jurisdictions reduce spending on corrections, control growth in the prison and jail populations, and increase public safety.</title>
+  </titles>
+  <sponsor id="400361"/>
+  <cosponsors>
+    <cosponsor id="400240" joined="2010-06-14"/>
+    <cosponsor id="400617" joined="2009-11-16"/>
+    <cosponsor id="412306" joined="2010-05-13"/>
+    <cosponsor id="400364" joined="2010-05-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-11-16">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2010-01-04">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2010-05-11">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="2772"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Performance measurement"/>
+    <term name="State and local finance"/>
+  </subjects>
+  <amendments/>
+  <summary>11/16/2009--Introduced.
+Criminal Justice Reinvestment Act of 2009 - Authorizes the Attorney General to make grants to states, local governments, territories, or Indian tribes to: (1) analyze and improve the cost-effectiveness of state and local spending on prisons, jails, and community corrections; and (2) assist in managing the growth in spending on corrections and increase public safety.</summary>
+</bill>

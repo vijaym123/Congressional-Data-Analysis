@@ -1,0 +1,71 @@
+<bill session="111" type="h" number="1219" updated="2013-07-19T23:22:50-04:00">
+  <state datetime="2009-04-21T19:32:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-04-21T19:32:00-04:00"/>
+  </status>
+  <introduced datetime="2009-02-26"/>
+  <titles>
+    <title as="introduced" type="short">Lake Hodges Surface Water Improvement and Reclamation Act of 2009</title>
+    <title as="passed house" type="short">Lake Hodges Surface Water Improvement and Reclamation Act of 2009</title>
+    <title as="introduced" type="official">To make amendments to the Reclamation Projects Authorization and Adjustment Act of 1992.</title>
+  </titles>
+  <sponsor id="400570"/>
+  <cosponsors>
+    <cosponsor id="400097" joined="2009-02-26"/>
+    <cosponsor id="400133" joined="2009-02-26"/>
+    <cosponsor id="412283" joined="2009-03-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-26">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-03-03">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-04-21T14:52:00-04:00">
+      <text>Mrs. Christensen moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-04-21T14:53:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4537-4538" label="consideration"/>
+    </action>
+    <action datetime="2009-04-21T14:53:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1219.</text>
+    </action>
+    <action datetime="2009-04-21T15:00:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2009-04-21T19:23:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4551" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-04-21T19:32:00-04:00" how="roll" result="pass" roll="195" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 362 - 43 (Roll no. 195).</text>
+      <reference ref="CR H4537" label="text"/>
+    </vote>
+    <action datetime="2009-04-21T19:32:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-04-22">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="California"/>
+    <term name="Lakes and rivers"/>
+    <term name="Water quality"/>
+    <term name="Water resources funding"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/2009--Passed House without amendment.
+Lake Hodges Surface Water Improvement and Reclamation Act of 2009 - Amends the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Secretary of the Interior, in cooperation with the Olivenhain Municipal Water District, California, to participate in the design, planning, and construction of projects to treat, reclaim, and reuse impaired surface water from Lake Hodges in San Diego County, California. Limits the federal share to 25% of the total project costs. Prohibits the Secretary from providing funds for project operation or maintenance.</summary>
+</bill>

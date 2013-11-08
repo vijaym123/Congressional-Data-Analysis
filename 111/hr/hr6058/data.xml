@@ -1,0 +1,67 @@
+<bill session="111" type="h" number="6058" updated="2013-07-20T00:07:16-04:00">
+  <state datetime="2010-09-28T18:20:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-09-28T18:20:00-04:00"/>
+  </status>
+  <introduced datetime="2010-07-30"/>
+  <titles>
+    <title as="introduced" type="short">Wounded Warrior and Military Survivor Housing Assistance Act of 2010</title>
+    <title as="passed house" type="short">Wounded Warrior and Military Survivor Housing Assistance Act of 2010</title>
+    <title as="introduced" type="official">To ensure that the housing assistance programs of the Department of Housing and Urban Development and the Department of Veterans Affairs are available to veterans and members of the Armed Forces who have service-connected injuries and to survivors and dependents of veterans and members of the Armed Forces.</title>
+  </titles>
+  <sponsor id="412303"/>
+  <cosponsors>
+    <cosponsor id="412300" joined="2010-07-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-30">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2010-07-30">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2010-07-30">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2010-09-17">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-09-28T18:14:00-04:00">
+      <text>Mr. Minnick moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-09-28T18:14:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7082-7083" label="consideration"/>
+    </action>
+    <action datetime="2010-09-28T18:14:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6058.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-09-28T18:20:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H7082" label="text"/>
+    </vote>
+    <action datetime="2010-09-28T18:21:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-09-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/2010--Passed House without amendment.
+Wounded Warrior and Military Survivor Housing Assistance Act of 2010 - Directs the Secretaries of Housing and Urban Development (HUD) and of Veterans Affairs (VA) to ensure that the housing assistance programs they administer, including mortgage insurance and home loan programs, are accessible by and available to, and address the particular needs and circumstances of, veterans and members of the Armed Forces who have service-connected injuries and survivors and dependents of such veterans and members.</summary>
+</bill>

@@ -1,0 +1,69 @@
+<bill session="113" type="h" number="668" updated="2013-11-02T06:24:34-04:00">
+  <state datetime="2013-03-05T14:28:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-03-05T14:28:00-05:00"/>
+  </status>
+  <introduced datetime="2013-02-13"/>
+  <titles>
+    <title type="official" as="introduced">To amend section 1105(a) of title 31, United States Code, to require that annual budget submissions of the President to Congress provide an estimate of the cost per taxpayer of the deficit, and for other purposes.</title>
+  </titles>
+  <sponsor id="412540"/>
+  <cosponsors>
+    <cosponsor id="412250" joined="2013-02-25"/>
+    <cosponsor id="412555" joined="2013-03-04"/>
+    <cosponsor id="412474" joined="2013-02-13"/>
+    <cosponsor id="412572" joined="2013-03-04"/>
+    <cosponsor id="412426" joined="2013-03-04"/>
+    <cosponsor id="412428" joined="2013-02-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-13" state="REFERRED">
+      <text>Referred to the House Committee on the Budget.</text>
+    </action>
+    <action datetime="2013-03-05T12:34:00-05:00">
+      <text>Mr. Messer moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-03-05T12:34:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H958-965" label="consideration"/>
+    </action>
+    <action datetime="2013-03-05T12:34:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 668.</text>
+    </action>
+    <action datetime="2013-03-05T13:27:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-03-05T14:01:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H967" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="57" datetime="2013-03-05T14:28:00-05:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 392 - 28, 1 Present (Roll no. 57).</text>
+      <reference ref="CR H958-959" label="text"/>
+    </vote>
+    <action datetime="2013-03-05T14:28:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-03-07">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Budget.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBU" name="House Budget" activity="Referral"/>
+    <committee code="SSBU" name="Senate Budget" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="1270"/>
+    <bill relation="identical" session="113" type="s" number="581"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Budget process"/>
+    <term name="Government information and archives"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/2013--Passed House without amendment.
+Requires the President's annual buget submission to Congress to provide an estimate of the pro rata cost to individuals who file an income tax return of any projected deficit for the fiscal year.</summary>
+</bill>

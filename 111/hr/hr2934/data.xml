@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="2934" updated="2013-07-19T23:38:18-04:00">
+  <state datetime="2009-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2009-06-18"/>
+  </status>
+  <introduced datetime="2009-06-18"/>
+  <titles>
+    <title as="introduced" type="short">Common Sense in Sentencing Act of 2009</title>
+    <title as="introduced" type="official">To amend title 18, United States Code, to prevent unjust and irrational criminal punishments.</title>
+  </titles>
+  <sponsor id="400364"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2009-06-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-18">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2009-07-10">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2009-07-14">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="3327"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal procedure and sentencing"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/2009--Introduced.
+Common Sense in Sentencing Act of 2009 - Amends the federal criminal code to authorize a federal court to impose a sentence below a statutory minimum if necessary to avoid violating federal provisions prescribing factors courts must consider in imposing a sentence.</summary>
+</bill>

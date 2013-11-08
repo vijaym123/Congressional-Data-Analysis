@@ -1,0 +1,47 @@
+<bill session="111" type="hr" number="663" updated="2013-07-19T23:01:46-04:00">
+  <state datetime="2009-07-21">REFERRED</state>
+  <status>
+    <introduced datetime="2009-07-21"/>
+  </status>
+  <introduced datetime="2009-07-21"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of the House of Representatives that any savings under the Medicare Program should be invested back into the Medicare Program, rather than creating new entitlement programs.</title>
+  </titles>
+  <sponsor id="400284"/>
+  <cosponsors>
+    <cosponsor id="400051" joined="2009-07-23"/>
+    <cosponsor id="400279" joined="2009-07-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-21">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-07-21">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-07-21">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2009-07-22">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="sr" number="212"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>7/21/2009--Introduced.
+Expresses the sense of the House of Representatives that: (1) any savings under title XVIII (Medicare) of the Social Security Act (SSA) should be invested back into the Medicare program, rather than be used to create new entitlement programs; and (2) any savings under SSA title XIX (Medicaid) should be used to increase the federal medical assistance percentage (FMAP).</summary>
+</bill>

@@ -1,0 +1,56 @@
+<bill session="113" type="h" number="999" updated="2013-11-02T06:27:22-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 49, United States Code, to require that individuals seeking training in the operation of certain aircraft be checked against immigration information in the possession of the Secretary of Homeland Security to ensure that such individuals are citizens or nationals of the United States, lawful permanent resident aliens, or nonimmigrants admitted for a limited period to obtain such training, and for other purposes.</title>
+  </titles>
+  <sponsor id="412478"/>
+  <cosponsors>
+    <cosponsor id="400652" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-06" state="REFERRED">
+      <text>Referred to the Committee on Homeland Security, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2013-03-07">
+      <text>Referred to the Subcommittee on Aviation.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2013-03-12">
+      <text>Referred to the Subcommittee on Transportation Security.</text>
+      <committee name="House Homeland Security"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSHM07" subcommittee="Transportation Security" name="House Homeland Security"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="1245"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Aviation and airports"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Government information and archives"/>
+    <term name="Homeland security"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Licensing and registrations"/>
+    <term name="Transportation safety and security"/>
+    <term name="Vocational education"/>
+  </subjects>
+  <amendments/>
+  <summary>3/6/2013--Introduced.
+Revises requirements with respect to the training of aliens and other individuals designated by the Secretary of Homeland Security (DHS) in the operation of certain aircraft. Authorizes a flight instructor, pilot school, or aviation training center to provide training to an individual in the operation of an aircraft with a takeoff weight of more than 12,500 pounds only if that individual has been checked against databases available to the Assistant Secretary of Homeland Security (Transportation Security Administration [TSA]) that he or she is: (1) a U.S. citizen, (2) a U.S. national, (3) a permanent resident, or (4) an alien temporarily admitted to the United States as a nonimmigrant for the purpose of obtaining such training. Directs the Secretary to require Federal Aviation Administration (FAA) certification of flight schools.</summary>
+</bill>

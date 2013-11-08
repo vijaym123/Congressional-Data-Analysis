@@ -1,0 +1,72 @@
+<bill session="112" type="h" number="6410" updated="2013-07-20T02:05:18-04:00">
+  <state datetime="2012-09-19T16:45:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-09-19T16:45:00-04:00"/>
+  </status>
+  <introduced datetime="2012-09-14"/>
+  <titles>
+    <title as="introduced" type="short">Buffett Rule Act of 2012</title>
+    <title as="passed house" type="short">Buffett Rule Act of 2012</title>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to provide for taxpayers making donations with their returns of income tax to the Federal Government to pay down the public debt.</title>
+  </titles>
+  <sponsor id="412261"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2012-09-14"/>
+    <cosponsor id="412395" joined="2012-09-14"/>
+    <cosponsor id="400055" joined="2012-09-14"/>
+    <cosponsor id="400108" joined="2012-09-14"/>
+    <cosponsor id="400151" joined="2012-09-14"/>
+    <cosponsor id="412434" joined="2012-09-14"/>
+    <cosponsor id="412444" joined="2012-09-14"/>
+    <cosponsor id="412429" joined="2012-09-14"/>
+    <cosponsor id="412460" joined="2012-09-14"/>
+    <cosponsor id="412292" joined="2012-09-14"/>
+    <cosponsor id="400288" joined="2012-09-14"/>
+    <cosponsor id="412426" joined="2012-09-14"/>
+    <cosponsor id="400373" joined="2012-09-14"/>
+    <cosponsor id="400627" joined="2012-09-14"/>
+    <cosponsor id="400439" joined="2012-09-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-09-14">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2012-09-19T16:23:00-04:00">
+      <text>Mr. Camp moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-09-19T16:23:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6099-6101" label="consideration"/>
+    </action>
+    <action datetime="2012-09-19T16:23:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6410.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-09-19T16:45:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6099" label="text"/>
+    </vote>
+    <action datetime="2012-09-19T16:45:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-09-20">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="2214"/>
+    <bill relation="unknown" session="112" type="h" number="3099"/>
+    <bill relation="unknown" session="112" type="s" number="1676"/>
+    <bill relation="unknown" session="112" type="s" number="1931"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>9/19/2012--Passed House without amendment.
+Buffett Rule Act of 2012 - Amends the Internal Revenue Code to allow taxpayers to donate an amount (not less than $1), in addition to any tax owed, which shall be deposited in the general fund of the Treasury and transferred to an account used to reduce the public debt.&#160; Requires such donation to be designated on&#160;a taxpayer's income tax return at the time such return is filed.</summary>
+</bill>

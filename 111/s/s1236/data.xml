@@ -1,0 +1,41 @@
+<bill session="111" type="s" number="1236" updated="2013-07-20T00:34:36-04:00">
+  <state datetime="2009-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="2009-06-11"/>
+  </status>
+  <introduced datetime="2009-06-11"/>
+  <titles>
+    <title as="introduced" type="short">GPCI Justice Act of 2009</title>
+    <title as="introduced" type="official">A bill to amend title XVIII of the Social Security Act to transition to the use of metropolitan statistical areas as fee schedule areas for the physician fee schedule in California under the Medicare program.</title>
+  </titles>
+  <sponsor id="300043"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2009-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-06-11">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S6545"/>
+    </action>
+    <action state="REFERRED" datetime="2009-06-11">
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <reference ref="CR S6545-6546" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="h" number="2820"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="California"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health personnel"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>6/11/2009--Introduced.
+GPCI Justice Act of 2009 - Amends title XVIII (Medicare) of the Social Security Act, with respect to the geographic practice cost index (GPCI) for adjustments to physician fee schedule areas, to direct the Secretary of Health and Human Services to revise the fee schedule areas for California to use the Metropolitan Statistical Area (MSA) iterative Geographic Adjustment Factor methodology, in accordance with specified requirements.</summary>
+</bill>

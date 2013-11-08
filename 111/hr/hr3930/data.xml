@@ -1,0 +1,63 @@
+<bill session="111" type="h" number="3930" updated="2013-07-19T23:47:34-04:00">
+  <state datetime="2009-10-26">REFERRED</state>
+  <status>
+    <introduced datetime="2009-10-26"/>
+  </status>
+  <introduced datetime="2009-10-26"/>
+  <titles>
+    <title as="introduced" type="short">Extended COBRA Continuation Protection Act of 2009</title>
+    <title as="introduced" type="official">To extend for 6 months the maximum COBRA continuation coverage period for individuals who were involuntarily terminated between April 1, 2009, and December 31, 2009, and to amend the American Reinvestment and Recovery Act of 2009 to extend the eligibility period and maximum assistance period for COBRA premium assistance under such Act.</title>
+  </titles>
+  <sponsor id="412232"/>
+  <cosponsors>
+    <cosponsor id="400102" joined="2009-12-02"/>
+    <cosponsor id="400111" joined="2009-12-08"/>
+    <cosponsor id="400137" joined="2009-12-11"/>
+    <cosponsor id="400140" joined="2009-12-08"/>
+    <cosponsor id="400147" joined="2009-12-11"/>
+    <cosponsor id="400240" joined="2009-12-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-10-26">
+      <text>Referred to the Committee on Education and Labor, and in addition to the Committees on Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-10-26">
+      <text>Referred to House Education and Labor</text>
+    </action>
+    <action datetime="2009-10-26">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-10-26">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2009-10-27">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2009-12-08">
+      <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+      <committee name="House Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Health, Employment, Labor, and Pensions" name="House Education and Labor"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="3966"/>
+    <bill relation="unknown" session="111" type="s" number="2730"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <summary>10/26/2009--Introduced.
+Extended COBRA Continuation Protection Act of 2009 - Extends COBRA coverage (health insurance continuation benefits) from 18 months to 24 months for an individual whose COBRA coverage was a consequence of termination (or reduction of hours) of employment occurring on or after April 1, 2008, and before January 1, 2010. Allows an individual to elect to continue and extend such coverage through an election similar to that permitted under the American Recovery and Reinvestment Act of 2009 (ARRA). Declares that the extended period of continuation under this Act shall not exceed six months. Amends ARRA to extend: (1) until June 30, 2010, the period to determine eligibility for COBRA premium assistance; and (2) the period for which premium assistance is provided to an eligible individual. Makes this Act effective as if included in the enactment of ARRA.</summary>
+</bill>

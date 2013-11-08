@@ -1,0 +1,62 @@
+<bill session="112" type="h" number="6602" updated="2013-07-20T02:06:54-04:00">
+  <state datetime="2012-12-05T11:51:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-12-05T11:51:00-05:00"/>
+  </status>
+  <introduced datetime="2012-11-16"/>
+  <titles>
+    <title as="introduced" type="official">To make revisions in title 36, United States Code, as necessary to keep the title current and make technical corrections and improvements.</title>
+  </titles>
+  <sponsor id="400381"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2012-11-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-11-16">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2012-12-05T10:18:00-05:00">
+      <text>Mr. Smith (TX) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-12-05T10:19:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6647-6650" label="consideration"/>
+    </action>
+    <action datetime="2012-12-05T10:19:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6602.</text>
+    </action>
+    <action datetime="2012-12-05T10:23:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2012-12-05T11:51:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6657-6658" label="consideration"/>
+    </action>
+    <action datetime="2012-12-05T11:51:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-12-05T11:51:00-05:00" how="roll" result="pass" roll="618" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 392 - 0 (Roll no. 618).</text>
+      <reference ref="CR H6647-6649" label="text"/>
+    </vote>
+    <action datetime="2012-12-06">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Federally chartered organizations"/>
+    <term name="National symbols"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>12/5/2012--Passed House without amendment.
+Amends title 36 of the United States Code (Patriotic and National Observances, Ceremonies, and Organizations) to revise and expand the tables of contents for such title and its subtitles, revise the formatting of the chapter headings, and make technical corrections to subtitle and chapter headings.</summary>
+</bill>

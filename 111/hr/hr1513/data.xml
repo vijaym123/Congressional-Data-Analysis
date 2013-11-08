@@ -1,0 +1,93 @@
+<bill session="111" type="h" number="1513" updated="2013-07-19T23:25:27-04:00">
+  <state datetime="2009-03-30T14:40:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-03-30T14:40:00-04:00"/>
+  </status>
+  <introduced datetime="2009-03-16"/>
+  <titles>
+    <title as="introduced" type="short">Veterans' Compensation Cost-of-Living Adjustment Act of 2009</title>
+    <title as="reported to house" type="short">Veterans' Compensation Cost-of-Living Adjustment Act of 2009</title>
+    <title as="passed house" type="short">Veterans' Compensation Cost-of-Living Adjustment Act of 2009</title>
+    <title as="introduced" type="official">To increase, effective as of December 1, 2009, the rates of disability compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for survivors of certain service-connected disabled veterans, and for other purposes.</title>
+  </titles>
+  <sponsor id="412286"/>
+  <cosponsors>
+    <cosponsor id="412205" joined="2009-03-16"/>
+    <cosponsor id="400133" joined="2009-03-16"/>
+    <cosponsor id="412188" joined="2009-03-26"/>
+    <cosponsor id="412222" joined="2009-03-16"/>
+    <cosponsor id="412279" joined="2009-03-16"/>
+    <cosponsor id="412293" joined="2009-03-26"/>
+    <cosponsor id="400274" joined="2009-03-26"/>
+    <cosponsor id="412187" joined="2009-03-16"/>
+    <cosponsor id="400339" joined="2009-03-16"/>
+    <cosponsor id="412232" joined="2009-03-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-16">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-03-20">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-03-20">
+      <text>Subcommittee on Disability Assistance and Memorial Affairs Discharged.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-03-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-03-25">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2009-03-26T12:59:00-04:00">
+      <text>Reported by the Committee on Veterans' Affairs. H. Rept. 111-56.</text>
+    </action>
+    <calendar datetime="2009-03-26T13:00:00-04:00" calendar="Union" number="23">
+      <text>Placed on the Union Calendar, Calendar No. 23.</text>
+    </calendar>
+    <action datetime="2009-03-30T14:30:00-04:00">
+      <text>Mrs. Halvorson moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-03-30T14:30:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4070-4072" label="consideration"/>
+    </action>
+    <action datetime="2009-03-30T14:30:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1513.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-03-30T14:40:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H5779" label="text"/>
+    </vote>
+    <action datetime="2009-03-30T14:40:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-03-31">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="4667"/>
+    <bill relation="unknown" session="111" type="h" number="4667"/>
+    <bill relation="unknown" session="111" type="s" number="407"/>
+    <bill relation="unknown" session="111" type="s" number="407"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disability assistance"/>
+    <term name="Inflation and prices"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/2009--Passed House without amendment.
+Veterans' Compensation Cost-of-Living Adjustment Act of 2009 - Directs the Secretary of Veterans Affairs to increase, as of December 1, 2009, the rates of veterans' disability compensation, additional compensation for dependents, the clothing allowance for certain disabled veterans, and dependency and indemnity compensation for surviving spouses and children. Requires each such increase to be the same percentage as the increase in benefits provided under title II (Old Age, Survivors and Disability Insurance) of the Social Security Act, on the same effective date.</summary>
+</bill>

@@ -1,0 +1,63 @@
+<bill session="113" type="h" number="3174" updated="2013-11-02T06:45:43-04:00">
+  <state datetime="2013-09-30T10:50:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-09-30T10:50:00-04:00"/>
+  </status>
+  <introduced datetime="2013-09-25"/>
+  <titles>
+    <title type="official" as="introduced">To authorize the Secretary of Transportation to obligate funds for emergency relief projects arising from damage caused by severe weather events in 2013, and for other purposes.</title>
+  </titles>
+  <sponsor id="412406"/>
+  <cosponsors>
+    <cosponsor id="412271" joined="2013-09-25"/>
+    <cosponsor id="400101" joined="2013-09-25"/>
+    <cosponsor id="412191" joined="2013-09-25"/>
+    <cosponsor id="412192" joined="2013-09-25"/>
+    <cosponsor id="412308" joined="2013-09-25"/>
+    <cosponsor id="412405" joined="2013-09-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-25" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-09-26">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2013-09-30T10:24:00-04:00">
+      <text>Mr. Petri moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-09-30T10:25:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6016-6019" label="consideration"/>
+    </action>
+    <action datetime="2013-09-30T10:25:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3174.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2013-09-30T10:50:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6016" label="text"/>
+    </vote>
+    <action datetime="2013-10-01">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="1560"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Appropriations"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Floods and storm protection"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation programs funding"/>
+  </subjects>
+  <amendments/>
+  <summary>9/30/2013--Passed House without amendment.
+Authorizes the Secretary of Transportation (DOT) to obligate any funds made available to implement federal-aid highway emergency relief for projects arising from damage caused by severe weather events in 2013, without any limitation on obligations for such projects resulting from a single natural disaster or catastrophic failure in a state.</summary>
+</bill>

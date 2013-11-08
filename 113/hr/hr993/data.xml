@@ -1,0 +1,91 @@
+<bill session="113" type="h" number="993" updated="2013-11-02T06:27:19-04:00">
+  <state datetime="2013-06-11T17:16:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-06-11T17:16:00-04:00"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title type="short" as="introduced">Fruit Heights Land Conveyance Act</title>
+    <title type="short" as="reported to house">Fruit Heights Land Conveyance Act</title>
+    <title type="short" as="passed house">Fruit Heights Land Conveyance Act</title>
+    <title type="official" as="introduced">To provide for the conveyance of certain parcels of National Forest System land to the city of Fruit Heights, Utah.</title>
+  </titles>
+  <sponsor id="400029"/>
+  <cosponsors>
+    <cosponsor id="412581" joined="2013-03-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-06" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-03-12">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-04-18">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-04-24">
+      <text>Subcommittee on Public Lands and Environmental Regulation Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-04-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar datetime="2013-04-24" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2013-05-17T14:38:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 113-65.</text>
+    </action>
+    <calendar datetime="2013-05-17T14:38:00-04:00" calendar="Union" number="41">
+      <text>Placed on the Union Calendar, Calendar No. 41.</text>
+    </calendar>
+    <action datetime="2013-06-11T17:11:00-04:00">
+      <text>Mr. Hastings (WA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-06-11T17:11:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3265-3266" label="consideration"/>
+    </action>
+    <action datetime="2013-06-11T17:11:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 993.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2013-06-11T17:16:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H3265" label="text"/>
+    </vote>
+    <action datetime="2013-06-11T17:16:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-06-12">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2013-07-30">
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+    <committee activity="Hearings" code="SSEG03" subcommittee="Public Lands, Forests, and Mining" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="509"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Land transfers"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Utah"/>
+  </subjects>
+  <amendments/>
+  <summary>6/11/2013--Passed House without amendment.
+Fruit Heights Land Conveyance Act - Directs the Secretary of Agriculture (USDA) to convey to the city of Fruit Heights, Utah, all interest of the United States in approximately 100 acres of identified National Forest System land. Requires the Secretary to reserve an easement to such land for the Bonneville Shoreline Trail. Requires the city to use such land only for public purposes. Provides for such land to revert, at the Secretary's election, to the Secretary, if it is used for other than such a purpose.</summary>
+</bill>

@@ -1,0 +1,85 @@
+<bill session="111" type="h" number="3014" updated="2013-07-19T23:39:13-04:00">
+  <state datetime="2009-11-18T11:36:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-11-18T11:36:00-05:00"/>
+  </status>
+  <introduced datetime="2009-06-24"/>
+  <titles>
+    <title as="introduced" type="short">Small Business Health Information Technology Financing Act</title>
+    <title as="passed house" type="short">Small Business Health Information Technology Financing Act</title>
+    <title as="introduced" type="official">To amend the Small Business Act to provide loan guarantees for the acquisition of health information technology by eligible professionals in solo and small group practices, and for other purposes.</title>
+  </titles>
+  <sponsor id="412273"/>
+  <cosponsors>
+    <cosponsor id="412231" joined="2009-06-24"/>
+    <cosponsor id="412221" joined="2009-06-24"/>
+    <cosponsor id="412206" joined="2009-06-24"/>
+    <cosponsor id="412301" joined="2009-06-24"/>
+    <cosponsor id="412315" joined="2009-06-24"/>
+    <cosponsor id="412225" joined="2009-06-24"/>
+    <cosponsor id="400416" joined="2009-06-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-24">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+    <action datetime="2009-06-24">
+      <text>Referred to the Subcommittee on Finance and Tax.</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+    <action datetime="2009-10-08">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+    <action datetime="2009-10-08">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+    <action datetime="2009-10-21">
+      <text>Provisions of Measure Incorporated into H.R. 3854.</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+    <action datetime="2009-11-18T11:25:00-05:00">
+      <text>Ms. Velazquez moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-11-18T11:25:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H13084-13086" label="consideration"/>
+    </action>
+    <action datetime="2009-11-18T11:25:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3014.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-11-18T11:36:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H13084-13085" label="text"/>
+    </vote>
+    <action datetime="2009-11-18T11:36:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-11-19">
+      <text>Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral"/>
+    <committee activity="Referral, Markup, Reporting" code="HSSM19" subcommittee="Finance and Tax" name="House Small Business"/>
+    <committee code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="3854"/>
+    <bill relation="unknown" session="111" type="s" number="2765"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Computers and information technology"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Health information and medical records"/>
+    <term name="Health personnel"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Medicare"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>11/18/2009--Passed House amended.
+Small Business Health Information Technology Financing Act - Amends the Small Business Act to authorize the Administrator of the Small Business Administration (SBA) to guarantee up to 90% of the amount of a loan, up to specified loan amounts, to a small business health professional to be used for the acquisition and installation of health information technology for the professional's medical practice. Defines the term "health information technology" to mean computer hardware, software, and related technology that supports the meaningful electronic health record use requirements of title XVIII (Medicare) of the Social Security Act and is purchased by an eligible professional to aid in the provision of health care, including electronic medical records, but excludes information technology whose sole use is financial management, maintenance of inventory of basic supplies, or appointment scheduling. Sets loan limits at $350,000 for an individual professional and $2 million for a group of affiliated professionals. Authorizes the Administrator to impose a guarantee fee on such borrowers, but prohibits any service, processing, or other fees. Allows such loans for a period of not less than one year or more than three years. Authorizes appropriations.</summary>
+</bill>

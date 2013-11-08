@@ -1,0 +1,90 @@
+<bill session="112" type="h" number="1076" updated="2013-07-20T01:19:41-04:00">
+  <state datetime="2011-03-17T15:23:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2011-03-17T15:23:00-04:00"/>
+  </status>
+  <introduced datetime="2011-03-15"/>
+  <titles>
+    <title as="introduced" type="official">To prohibit Federal funding of National Public Radio and the use of Federal funds to acquire radio content.</title>
+  </titles>
+  <sponsor id="412191"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2011-03-15">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2011-03-15">
+      <text>Referred to the Subcommittee on Communications and Technology.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2011-03-15">
+      <text>Subcommittee on Communications and Technology Discharged.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2011-03-16T18:57:00-04:00">
+      <text>Rules Committee Resolution H. Res. 174 Reported to House. Rule provides for consideration of H.R. 1076 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments. The resolution waives all points of order against consideration of the bill. Although the rule waives all points of order against consideration of the bill, the Committee is not aware of any points of order. The waiver is prophylactic in nature. Although the rule waives all points of order against provisions in the bill, the Committee is not aware of any points of order against any of the provisions in the bill. The waiver of all points of order against provisions in the bill is prophylactic in nature.</text>
+    </action>
+    <action datetime="2011-03-17T10:57:00-04:00">
+      <text>Rule H. Res. 174 passed House.</text>
+    </action>
+    <action datetime="2011-03-17T13:26:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 174.</text>
+      <reference ref="CR H1953-1967" label="consideration"/>
+    </action>
+    <action datetime="2011-03-17T13:26:00-04:00">
+      <text>Rule provides for consideration of H.R. 1076 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments. The resolution waives all points of order against consideration of the bill. Although the rule waives all points of order against consideration of the bill, the Committee is not aware of any points of order. The waiver is prophylactic in nature. Although the rule waives all points of order against provisions in the bill, the Committee is not aware of any points of order against any of the provisions in the bill. The waiver of all points of order against provisions in the bill is prophylactic in nature.</text>
+    </action>
+    <action datetime="2011-03-17T13:26:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 1076.</text>
+    </action>
+    <action datetime="2011-03-17T14:42:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H1965" label="consideration"/>
+    </action>
+    <action datetime="2011-03-17T14:43:00-04:00">
+      <text>Ms. Sutton moved to recommit with instructions to Energy and Commerce.</text>
+      <reference ref="CR H1965-1967" label="consideration"/>
+      <reference ref="CR H1965" label="text"/>
+    </action>
+    <action datetime="2011-03-17T14:44:00-04:00">
+      <text>DEBATE - The House proceeded with 10 minutes of debate on the Sutton motion to recommit with instructions. The instructions contained in the motion seek to report the bill back to the House with an amendment to prohibit the underlying legislation from limiting the eligibility of non-commercial educational radio programs from receiving Federal funds to broadcast or disseminate alerts issued by the AMBER Alert communications network regarding abducted children.</text>
+    </action>
+    <action datetime="2011-03-17T14:51:00-04:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H1966" label="consideration"/>
+    </action>
+    <action datetime="2011-03-17T15:15:00-04:00">
+      <text>On motion to recommit with instructions Failed by the Yeas and Nays: 184 - 235 (Roll no. 191).</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-03-17T15:23:00-04:00" how="roll" result="pass" roll="192" type="vote" where="h">
+      <text>On passage Passed by recorded vote: 228 - 192, 1 Present (Roll no. 192).</text>
+      <reference ref="CR H1953-1954" label="text"/>
+    </vote>
+    <action datetime="2011-03-17T15:23:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-03-17">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral, Discharged" code="HSIF16" subcommittee="Communications and Technology" name="House Energy and Commerce"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="112" type="hr" number="174"/>
+    <bill relation="unknown" session="112" type="h" number="69"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Broadcasting, cable, digital technologies"/>
+    <term name="Corporation for Public Broadcasting"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Government trust funds"/>
+    <term name="International exchange and broadcasting"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/2011--Passed House without amendment.
+Prohibits federal funding to organizations incorporated for specified purposes related to: (1) broadcasting, transmitting, and programming over noncommercial educational radio broadcast stations, networks, and systems; (2) cooperating with foreign broadcasting systems and networks in international radio programming and broadcasting; (3) assisting and supporting such noncommercial educational radio broadcasting pursuant to the Public Broadcasting Act of 1967; (4) paying dues to such organizations; or (5) acquiring radio programs by or for the use of a radio broadcast station that is a public broadcast station as defined in the Communications Act of 1934. Revises the Public Broadcasting Fund allocation formula.</summary>
+</bill>

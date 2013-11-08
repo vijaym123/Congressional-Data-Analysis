@@ -1,0 +1,81 @@
+<bill session="111" type="h" number="5873" updated="2013-07-20T00:05:36-04:00">
+  <state datetime="2010-09-15T14:34:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-09-15T14:34:00-04:00"/>
+  </status>
+  <introduced datetime="2010-07-27"/>
+  <titles>
+    <title as="introduced" type="official">To designate the facility of the United States Postal Service located at 218 North Milwaukee Street in Waterford, Wisconsin, as the "Captain Rhett W. Schiller Post Office".</title>
+  </titles>
+  <sponsor id="400351"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2010-07-27"/>
+    <cosponsor id="412240" joined="2010-07-27"/>
+    <cosponsor id="400218" joined="2010-07-27"/>
+    <cosponsor id="400661" joined="2010-07-27"/>
+    <cosponsor id="400300" joined="2010-07-27"/>
+    <cosponsor id="400318" joined="2010-07-27"/>
+    <cosponsor id="400365" joined="2010-07-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-27">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2010-07-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-07-28">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2010-09-15T11:13:00-04:00">
+      <text>Mr. Clay moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-09-15T11:13:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6697-6699" label="consideration"/>
+    </action>
+    <action datetime="2010-09-15T11:13:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5873.</text>
+    </action>
+    <action datetime="2010-09-15T11:27:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-09-15T14:24:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6722" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-09-15T14:34:00-04:00" how="roll" result="pass" roll="522" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 522).</text>
+      <reference ref="CR H6697-6698" label="text"/>
+    </vote>
+    <action datetime="2010-09-15T14:34:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-09-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2010-09-21">
+      <text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSGA09" subcommittee="Federal Financial Management, Government Information, Federal Services, and International Security" name="Senate Homeland Security and Governmental Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Postal service"/>
+    <term name="Wisconsin"/>
+  </subjects>
+  <amendments/>
+  <summary>7/27/2010--Introduced.
+Designates the facility of the United States Postal Service located at 218 North Milwaukee Street in Waterford, Wisconsin, as the "Captain Rhett W. Schiller Post Office."</summary>
+</bill>

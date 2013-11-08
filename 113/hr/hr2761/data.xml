@@ -1,0 +1,57 @@
+<bill session="113" type="h" number="2761" updated="2013-11-02T06:42:14-04:00">
+  <state datetime="2013-07-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-19"/>
+  </status>
+  <introduced datetime="2013-07-19"/>
+  <titles>
+    <title type="short" as="introduced">Presidential Appointment of FISA Court Judges Act</title>
+    <title type="official" as="introduced">To require Presidential appointment and Senate confirmation of Foreign Intelligence Surveillance Court judges.</title>
+  </titles>
+  <sponsor id="400361"/>
+  <cosponsors>
+    <cosponsor id="412272" joined="2013-07-25"/>
+    <cosponsor id="412385" joined="2013-08-02"/>
+    <cosponsor id="400184" joined="2013-07-19"/>
+    <cosponsor id="412511" joined="2013-07-19"/>
+    <cosponsor id="400663" joined="2013-08-02"/>
+    <cosponsor id="400652" joined="2013-07-19"/>
+    <cosponsor id="400360" joined="2013-07-25"/>
+    <cosponsor id="412509" joined="2013-07-25"/>
+    <cosponsor id="400415" joined="2013-07-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-19" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-07-19">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-07-19">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Judges"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="Specialized courts"/>
+  </subjects>
+  <amendments/>
+  <summary>7/19/2013--Introduced.
+Presidential Appointment of FISA Court Judges Act - Amends the Foreign Intelligence Surveillance Act of 1978 (FISA) to require the President, with the advice and consent of the Senate, to publicly designate: (1) the 11 district court judges constituting the Foreign Intelligence Surveillance Court with jurisdiction over applications for electronic surveillance, (2) the 3 judges of the Foreign Intelligence Surveillance Court of Review, and (3) the presiding judges of such Courts. (Currently, such judges are designated by the Chief Justice.) Permits existing FISA judges to complete their terms.</summary>
+</bill>

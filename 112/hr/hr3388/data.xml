@@ -1,0 +1,90 @@
+<bill session="112" type="h" number="3388" updated="2013-07-20T01:39:29-04:00">
+  <state datetime="2012-07-23T16:00:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-07-23T16:00:00-04:00"/>
+  </status>
+  <introduced datetime="2011-11-04"/>
+  <titles>
+    <title as="introduced" type="short">Wood-Pawcatuck Watershed Protection Act</title>
+    <title as="reported to house" type="short">Wood-Pawcatuck Watershed Protection Act</title>
+    <title as="passed house" type="short">Wood-Pawcatuck Watershed Protection Act</title>
+    <title as="introduced" type="official">To amend the Wild and Scenic Rivers Act to designate a segment of the Beaver, Chipuxet, Queen, Wood, and Pawcatuck Rivers in the States of Connecticut and Rhode Island for study for potential addition to the National Wild and Scenic Rivers System, and for other purposes.</title>
+  </titles>
+  <sponsor id="400230"/>
+  <cosponsors>
+    <cosponsor id="412470" joined="2011-11-16"/>
+    <cosponsor id="412193" joined="2011-11-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-11-04">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2011-11-29">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-04-17">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-06-07">
+      <text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-06-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-06-07">
+      <text>Ordered to be Reported (Amended).</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2012-07-17T18:11:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-603.</text>
+    </action>
+    <calendar datetime="2012-07-17T18:12:00-04:00" calendar="Union" number="438">
+      <text>Placed on the Union Calendar, Calendar No. 438.</text>
+    </calendar>
+    <action datetime="2012-07-23T15:53:00-04:00">
+      <text>Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-07-23T15:54:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5087-5088" label="consideration"/>
+    </action>
+    <action datetime="2012-07-23T15:54:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3388.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-07-23T16:00:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5087" label="text"/>
+    </vote>
+    <action datetime="2012-07-23T16:00:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-07-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="3423"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Connecticut"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Government studies and investigations"/>
+    <term name="Lakes and rivers"/>
+    <term name="Land use and conservation"/>
+    <term name="Rhode Island"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+  <summary>7/23/2012--Passed House amended.
+Wood-Pawcatuck Watershed Protection Act - Amends the Wild and Scenic Rivers Act to designate for study for potential addition to the national wild and scenic rivers system specified segments of the Beaver, Chipuxet, Queen, Wood, and Pawcatuck Rivers in Rhode Island and Connecticut. Requires the study of such rivers' designation to: (1) include the effect of designation on existing commercial and recreational activities, energy production and transmission infrastructure, and the authority of state and local governments to manage such activities; and (2) identify authorities allowing the influence of local land use decisions or restrictions on non-federal land, condemnation authorities, and all private property located in the study area.</summary>
+</bill>

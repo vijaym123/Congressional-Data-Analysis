@@ -1,0 +1,49 @@
+<bill session="111" type="h" number="1386" updated="2013-07-19T23:24:16-04:00">
+  <state datetime="2009-03-09">REFERRED</state>
+  <status>
+    <introduced datetime="2009-03-09"/>
+  </status>
+  <introduced datetime="2009-03-09"/>
+  <titles>
+    <title as="introduced" type="short">Pay for all your Undocumented Procedures (PAY UP!) Act of 2009</title>
+    <title as="introduced" type="official">To amend section 1011 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108-173) to make permanent the program of Federal reimbursement of emergency health services furnished to undocumented aliens.</title>
+  </titles>
+  <sponsor id="400133"/>
+  <cosponsors>
+    <cosponsor id="400009" joined="2009-03-18"/>
+    <cosponsor id="400570" joined="2009-03-31"/>
+    <cosponsor id="412188" joined="2009-04-02"/>
+    <cosponsor id="400162" joined="2009-03-18"/>
+    <cosponsor id="400302" joined="2009-03-18"/>
+    <cosponsor id="400339" joined="2009-03-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-09">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2009-03-10">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2009-03-10">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E606"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Immigrant health and welfare"/>
+    <term name="State and local finance"/>
+  </subjects>
+  <amendments/>
+  <summary>3/9/2009--Introduced.
+Pay for all your Undocumented Procedures (PAY UP!) Act of 2009 - Amends the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 to make permanent the program of federal reimbursement of emergency health services furnished to undocumented aliens. Requires a reallotment of unspent program funds in a fiscal year among eligible providers in full expenditure states according to a specified ratio. Requires addition of such funds to the aggregate amount available for allotment for the succeeding fiscal year in the event there is no full expenditure state.</summary>
+</bill>

@@ -1,0 +1,70 @@
+<bill session="112" type="h" number="6612" updated="2013-07-20T02:06:59-04:00">
+  <state datetime="2012-12-31T18:16:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-12-31T18:16:00-05:00"/>
+  </status>
+  <introduced datetime="2012-11-29"/>
+  <titles>
+    <title as="introduced" type="official">To redesignate the Dryden Flight Research Center as the Neil A. Armstrong Flight Research Center and the Western Aeronautical Test Range as the Hugh L. Dryden Aeronautical Test Range.</title>
+  </titles>
+  <sponsor id="412190"/>
+  <cosponsors>
+    <cosponsor id="400057" joined="2012-11-29"/>
+    <cosponsor id="400165" joined="2012-11-30"/>
+    <cosponsor id="400267" joined="2012-11-29"/>
+    <cosponsor id="412443" joined="2012-11-29"/>
+    <cosponsor id="400343" joined="2012-11-29"/>
+    <cosponsor id="400361" joined="2012-11-29"/>
+    <cosponsor id="400381" joined="2012-11-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-11-29">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2012-12-31T10:58:00-05:00">
+      <text>Mr. Hall moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-12-31T10:59:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7485-7491" label="consideration"/>
+    </action>
+    <action datetime="2012-12-31T10:59:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6612.</text>
+    </action>
+    <action datetime="2012-12-31T11:19:00-05:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Edwards objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.</text>
+    </action>
+    <action datetime="2012-12-31T18:09:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7512-7513" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-12-31T18:16:00-05:00" how="roll" result="pass" roll="653" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 653).</text>
+      <reference ref="CR H7485" label="text"/>
+    </vote>
+    <action datetime="2012-12-31T18:16:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-01-01">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="California"/>
+    <term name="Congressional tributes"/>
+    <term name="Federal officials"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="National Aeronautics and Space Administration"/>
+    <term name="Research administration and funding"/>
+    <term name="Space flight and exploration"/>
+  </subjects>
+  <amendments/>
+  <summary>12/31/2012--Passed House without amendment.
+Redesignates: (1) the National Aeronautics and Space Administration (NASA) Hugh L. Dryden Flight Research Center in Edwards, California, as the "NASA Neil A. Armstrong Flight Research Center," and (2) the National Aeronautics and Space Administration Western Aeronautical Test Range in California as the "NASA Hugh L. Dryden Aeronautical Test Range."</summary>
+</bill>

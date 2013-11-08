@@ -1,0 +1,116 @@
+<bill session="111" type="h" number="3393" updated="2013-07-19T23:42:45-04:00">
+  <state datetime="2010-04-28T10:41:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-04-28T10:41:00-04:00"/>
+  </status>
+  <introduced datetime="2009-07-29"/>
+  <titles>
+    <title as="introduced" type="short">Improper Payments Elimination and Recovery Act of 2009</title>
+    <title as="passed house" type="short">Improper Payments Elimination and Recovery Act of 2010</title>
+    <title as="introduced" type="official">To amend the Improper Payments Information Act of 2002 (31 U.S.C. 3321 note) in order to prevent the loss of billions in taxpayer dollars.</title>
+  </titles>
+  <sponsor id="412233"/>
+  <cosponsors>
+    <cosponsor id="412231" joined="2010-04-21"/>
+    <cosponsor id="412224" joined="2010-04-27"/>
+    <cosponsor id="400628" joined="2010-04-21"/>
+    <cosponsor id="400631" joined="2010-04-26"/>
+    <cosponsor id="400570" joined="2009-07-29"/>
+    <cosponsor id="400030" joined="2010-04-27"/>
+    <cosponsor id="400032" joined="2009-12-09"/>
+    <cosponsor id="400042" joined="2010-04-27"/>
+    <cosponsor id="400044" joined="2010-01-27"/>
+    <cosponsor id="412267" joined="2010-04-14"/>
+    <cosponsor id="400065" joined="2010-03-11"/>
+    <cosponsor id="412234" joined="2010-04-27"/>
+    <cosponsor id="400442" joined="2010-04-14"/>
+    <cosponsor id="412262" joined="2010-04-27"/>
+    <cosponsor id="400081" joined="2010-04-14"/>
+    <cosponsor id="400657" joined="2010-03-25"/>
+    <cosponsor id="412273" joined="2010-03-17"/>
+    <cosponsor id="400096" joined="2010-04-20"/>
+    <cosponsor id="412205" joined="2010-01-27"/>
+    <cosponsor id="412274" joined="2009-12-11"/>
+    <cosponsor id="412257" joined="2009-12-11"/>
+    <cosponsor id="400155" joined="2010-02-26"/>
+    <cosponsor id="400166" joined="2010-04-22"/>
+    <cosponsor id="400443" joined="2010-03-11"/>
+    <cosponsor id="400177" joined="2010-02-26"/>
+    <cosponsor id="400209" joined="2009-12-09"/>
+    <cosponsor id="412285" joined="2010-04-26"/>
+    <cosponsor id="412289" joined="2010-04-27"/>
+    <cosponsor id="412298" joined="2010-01-27"/>
+    <cosponsor id="400255" joined="2010-02-26"/>
+    <cosponsor id="400266" joined="2010-03-25"/>
+    <cosponsor id="400274" joined="2010-04-28"/>
+    <cosponsor id="412300" joined="2010-02-26"/>
+    <cosponsor id="412187" joined="2010-04-22"/>
+    <cosponsor id="400282" joined="2010-02-26"/>
+    <cosponsor id="412332" joined="2009-12-09"/>
+    <cosponsor id="412301" joined="2010-04-27"/>
+    <cosponsor id="400311" joined="2009-12-11"/>
+    <cosponsor id="400316" joined="2010-04-27"/>
+    <cosponsor id="400321" joined="2009-12-11"/>
+    <cosponsor id="400323" joined="2010-04-27"/>
+    <cosponsor id="412331" joined="2010-02-26"/>
+    <cosponsor id="400345" joined="2010-04-27"/>
+    <cosponsor id="400356" joined="2010-01-27"/>
+    <cosponsor id="400361" joined="2010-04-14"/>
+    <cosponsor id="412315" joined="2010-02-26"/>
+    <cosponsor id="400363" joined="2010-04-27"/>
+    <cosponsor id="412225" joined="2010-03-11"/>
+    <cosponsor id="412229" joined="2010-03-17"/>
+    <cosponsor id="400395" joined="2010-04-14"/>
+    <cosponsor id="412318" joined="2010-04-26"/>
+    <cosponsor id="412227" joined="2010-02-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-29">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2009-10-23">
+      <text>Referred to the Subcommittee on Government Management, Organization, and Procurement.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <action datetime="2010-04-28T10:23:00-04:00">
+      <text>Mr. Towns moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-04-28T10:23:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2942-2947" label="consideration"/>
+    </action>
+    <action datetime="2010-04-28T10:23:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3393.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-04-28T10:41:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H2942-2945" label="text"/>
+    </vote>
+    <action datetime="2010-04-28T10:41:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-04-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee activity="Referral" code="HSGO24" subcommittee="Government Management, Organization, and Procurement" name="House Oversight and Government Reform"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="1508"/>
+    <bill relation="unknown" session="111" type="s" number="1508"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Accounting and auditing"/>
+    <term name="Congressional oversight"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2010--Passed House amended.
+Improper Payments Elimination and Recovery Act of 2010 - (Sec. 2) Amends the Improper Payments Information Act of 2002 to expand requirements for identifying programs and activities susceptible to improper payments by requiring the head of each federal agency, during the year after the enactment of this Act and at least once every three fiscal years thereafter, to review and identify agency programs and activities that may be susceptible to significant improper payments. Defines "significant" to mean: (1) improper payments in the preceding fiscal year that may have exceeded $100 million or $10 million of all program and activity payments and 2.5% of program outlays; and (2) for fiscal years prior to FY2013, improper payments that may have exceeded $100 million or $10 million of all program and activity payments and 1.5% of program outlays. Sets forth risk factors to be considered in conducting improper payment reviews, including: (1) whether the program or activity reviewed is new to the agency; (2) the complexity of the program or activity; (3) the volume of payments made; (4) whether payment or payment eligibility decisions are made outside of the agency; (5) recent major changes in program funding, authorities, practices, or procedures; (6) the level, experience, and quality of personnel training; and (7) significant deficiencies in auditing practices. Revises requirements for estimating improper payments to require agency heads to: (1) produce a statistically valid estimate of the improper payments in their agencies; and (2) include such estimates in their annual financial statements. Expands agency reporting requirements on actions to reduce improper payments to require a statement of whether the agency has sufficient resources with respect to internal controls, human capital, and information systems and other infrastructure to prevent improper payments. Requires reports on actions to recover improper payments. Requires the Director of the Office of Management and Budget (OMB) to: (1) report each fiscal year to the House Committee on Oversight and Government Reform and the Senate Committee on Homeland Security and Governmental Affairs on actions agencies have taken to report information relating to improper payments and to recover such payments; (2) prescribe guidance to agencies to implement requirements of this Act; and (3) develop specific criteria as to when an agency should be required to obtain an opinion on internal control over financial reporting. Requires agency heads to: (1) conduct recovery audits for agency programs that expend $1 million or more annually if such audits would be cost-effective; and (2) conduct financial management improvement programs that address problems that contribute directly to agency improper payments. Requires the Chief Financial Officers Council to conduct a study of the implementation and cost effectiveness of recovery audits and report on such study to the House Committee on Oversight and Government Reform, the Senate Committee on Homeland Security and Governmental Affairs, and the Comptroller General. (Sec. 3) Requires the Inspector General of each federal agency in each fiscal year to determine whether such agency is in compliance with the requirements of this Act and submit a report on that determination to the head of the agency, the House Committee on Oversight and Government Reform, the Senate Committee on Homeland Security and Governmental Affairs, and the Comptroller General. Deems an agency to be in compliance if such agency has conducted a program specific risk assessment and has published specified information, including improper payment estimates for all programs and activities, a corrective action plan, and improper payment reduction targets. Sets forth requirements for bringing noncompliant agencies into compliance. Authorizes the OMB Director to establish one or more pilot programs for testing accountability mechanisms for compliance with this Act and report to Congress on such programs. Requires the Chief Financial Officers Council and the Council of Inspectors General on Integrity and Efficiency to: (1) jointly examine the lessons learned in implementing the Chief Financial Officers Act of 1990 and identify reforms or improvements in federal financial management; and (2) report on such examination to the House Committee on Oversight and Government Reform, the Senate Committee on Homeland Security and Governmental Affairs, and the Comptroller General.</summary>
+</bill>

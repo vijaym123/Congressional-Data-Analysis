@@ -1,0 +1,63 @@
+<bill session="113" type="h" number="2904" updated="2013-11-02T06:43:28-04:00">
+  <state datetime="2013-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-01"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="short" as="introduced">Nuclear Workers Compensation Act</title>
+    <title type="official" as="introduced">To provide for payment to the survivor or surviving family members of compensation otherwise payable to a contractor employee of the Department of Energy who dies after application for compensation under the Energy Employees Occupational Illness Compensation Program Act of 2000, and for other purposes.</title>
+  </titles>
+  <sponsor id="400431"/>
+  <cosponsors>
+    <cosponsor id="412516" joined="2013-08-01"/>
+    <cosponsor id="412271" joined="2013-08-01"/>
+    <cosponsor id="400101" joined="2013-08-01"/>
+    <cosponsor id="400185" joined="2013-08-01"/>
+    <cosponsor id="400211" joined="2013-08-01"/>
+    <cosponsor id="412543" joined="2013-09-28"/>
+    <cosponsor id="412209" joined="2013-08-01"/>
+    <cosponsor id="412293" joined="2013-08-01"/>
+    <cosponsor id="412192" joined="2013-08-01"/>
+    <cosponsor id="412308" joined="2013-08-01"/>
+    <cosponsor id="400407" joined="2013-09-10"/>
+    <cosponsor id="400439" joined="2013-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-01" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+      <committee name="House Education and the Workforce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED10" subcommittee="Workforce Protections" name="House Education and the Workforce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Government liability"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Military procurement, research, weapons development"/>
+    <term name="Nuclear weapons"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Worker safety and health"/>
+  </subjects>
+  <amendments/>
+</bill>

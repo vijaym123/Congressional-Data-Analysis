@@ -1,0 +1,45 @@
+<bill session="113" type="h" number="1004" updated="2013-11-02T06:27:25-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title type="short" as="introduced">Sacramento-San Joaquin Delta National Heritage Area Establishment Act</title>
+    <title type="official" as="introduced">To establish the Sacramento-San Joaquin Delta National Heritage Area.</title>
+  </titles>
+  <sponsor id="412382"/>
+  <cosponsors>
+    <cosponsor id="400663" joined="2013-03-06"/>
+    <cosponsor id="412189" joined="2013-03-06"/>
+    <cosponsor id="400278" joined="2013-03-06"/>
+    <cosponsor id="400403" joined="2013-03-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-06" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-03-11">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="2200"/>
+    <bill relation="identical" session="113" type="s" number="228"/>
+    <bill relation="unknown" session="113" type="s" number="1237"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Lakes and rivers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/6/2013--Introduced.
+Sacramento-San Joaquin Delta National Heritage Area Establishment Act - Establishes the Sacramento-San Joaquin Delta National Heritage Area in California. Designates the Delta Protection Commission as the management entity for the Heritage Area. Requires the Commission to submit a proposed management plan for the Heritage Area to the Secretary of the Interior for approval. Bars approval of the management plan until the Secretary has received certification from the Commission that the Delta Stewardship Council has reviewed such plan for consistency with the plan adopted by the Council pursuant to state law.</summary>
+</bill>

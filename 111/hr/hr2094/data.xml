@@ -1,0 +1,46 @@
+<bill session="111" type="h" number="2094" updated="2013-07-19T23:30:32-04:00">
+  <state datetime="2009-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="2009-04-23"/>
+  </status>
+  <introduced datetime="2009-04-23"/>
+  <titles>
+    <title as="introduced" type="short">Physician Training Promotion Act of 2009</title>
+    <title as="introduced" type="official">To amend title XVIII of the Social Security Act to increase the per resident payment floor for direct graduate medical education payments under the Medicare Program.</title>
+  </titles>
+  <sponsor id="400309"/>
+  <cosponsors>
+    <cosponsor id="400129" joined="2009-04-27"/>
+    <cosponsor id="400284" joined="2009-04-23"/>
+    <cosponsor id="400440" joined="2009-04-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-04-23">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-04-23">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2009-04-23">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-04-27">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Medical education"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2009--Introduced.
+Physician Training Promotion Act of 2009 - Amends title XVIII (Medicare) of the Social Security Act to increase, between FY2009 and FY2011, from 90% to 100% of the locality adjusted national average per resident amount the payment floor for direct graduate medical education (GME) payments under the Medicare program.</summary>
+</bill>

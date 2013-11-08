@@ -1,0 +1,65 @@
+<bill session="111" type="h" number="844" updated="2013-07-19T23:19:30-04:00">
+  <state datetime="2009-03-02T14:41:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-03-02T14:41:00-05:00"/>
+  </status>
+  <introduced datetime="2009-02-03"/>
+  <titles>
+    <title as="introduced" type="short">Marine Mammal Rescue Assistance Amendments of 2009</title>
+    <title as="passed house" type="short">Marine Mammal Rescue Assistance Amendments of 2009</title>
+    <title as="introduced" type="official">To amend the provisions of law relating to the John H. Prescott Marine Mammal Rescue Assistance Grant Program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-03">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-02-06">
+      <text>Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-03-02T14:37:00-05:00">
+      <text>Mr. Holt moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-03-02T14:37:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2883-2884" label="consideration"/>
+    </action>
+    <action datetime="2009-03-02T14:37:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 844.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-03-02T14:41:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2883-2884" label="text"/>
+    </vote>
+    <action datetime="2009-03-02T14:42:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-03-03">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII22" subcommittee="Insular Affairs, Oceans and Wildlife" name="House Natural Resources"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="859"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Department of Commerce"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Government trust funds"/>
+    <term name="Mammals"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>3/2/2009--Passed House without amendment.
+Marine Mammal Rescue Assistance Amendments of 2009 - Amends the Marine Mammal Protection Act of 1972 to require the collection and updating of existing practices and procedures for rescuing and rehabilitating stranded or entangled (under current law, only stranded) marine mammals. Authorizes entanglement response agreements. Authorizes appropriations (at an increased annual level) through FY2013 to carry out the existing John H. Prescott Marine Mammal Rescue Assistance Grant Program. Authorizes cooperative agreements, contracts, or other agreements or arrangements to address stranding events requiring emergency assistance. Authorizes appropriations through FY2013 to the Marine Mammal Unusual Mortality Event Fund.</summary>
+</bill>

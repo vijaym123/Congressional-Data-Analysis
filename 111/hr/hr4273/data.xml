@@ -1,0 +1,45 @@
+<bill session="111" type="h" number="4273" updated="2013-07-19T23:50:53-04:00">
+  <state datetime="2009-12-10">REFERRED</state>
+  <status>
+    <introduced datetime="2009-12-10"/>
+  </status>
+  <introduced datetime="2009-12-10"/>
+  <titles>
+    <title as="introduced" type="short">Pediatric Workforce Investment Act</title>
+    <title as="introduced" type="official">To establish and carry out a pediatric specialty loan repayment program.</title>
+  </titles>
+  <sponsor id="400217"/>
+  <cosponsors>
+    <cosponsor id="400162" joined="2009-12-10"/>
+    <cosponsor id="412227" joined="2009-12-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-12-10">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2009-12-11">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="1206"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Medical education"/>
+    <term name="Mental health"/>
+    <term name="Student aid and college costs"/>
+    <term name="Surgery and anesthesia"/>
+  </subjects>
+  <amendments/>
+  <summary>12/10/2009--Introduced.
+Pediatric Workforce Investment Act - Directs the Secretary of Health and Human Services (HHS), acting through the Administrator of the Health Resources and Services Administration, to establish and carry out a pediatric specialty loan repayment program under which a qualified physician agrees to be employed full-time for not less than two years in providing pediatric medical subspecialty, surgical specialty, or psychiatric subspecialty care in a shortage area in exchange for repayment of educational loans. Requires an area to be determined to be a shortage area based on: (1) waiting times for patient care; (2) recruitment for unfilled positions; or (3) the ratio of the number of children who reside in the area who are in need of such pediatric subspecialty care to the number of pediatric subspecialists furnishing such services within 100 miles of the area.</summary>
+</bill>

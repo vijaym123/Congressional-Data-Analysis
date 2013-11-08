@@ -1,0 +1,65 @@
+<bill session="111" type="hc" number="243" updated="2013-07-20T00:15:06-04:00">
+  <state datetime="2010-04-19">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2010-04-19"/>
+  </status>
+  <introduced datetime="2010-02-25"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of Emancipation Hall in the Capitol Visitor Center for an event to celebrate the birthday of King Kamehameha.</title>
+  </titles>
+  <sponsor id="412200"/>
+  <cosponsors>
+    <cosponsor id="400001" joined="2010-02-25"/>
+    <cosponsor id="400041" joined="2010-02-25"/>
+    <cosponsor id="400128" joined="2010-02-25"/>
+    <cosponsor id="412312" joined="2010-02-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-02-25">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2010-04-14T12:47:00-04:00">
+      <text>Mr. Brady (PA) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2010-04-14T12:47:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2530-2531" label="consideration"/>
+    </action>
+    <action datetime="2010-04-14T12:47:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 243.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-04-14T12:54:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H2530" label="text"/>
+    </vote>
+    <action datetime="2010-04-14T12:54:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-04-15">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2010-04-19" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S2431" label="consideration"/>
+    </vote>
+    <action datetime="2010-04-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hc" number="80"/>
+    <bill relation="unknown" session="111" type="hc" number="80"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Hawaii"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+  <summary>4/19/2010--Passed Senate without amendment.
+Authorizes the use of Emancipation Hall in the Capitol Visitor Center on June 6, 2010, to celebrate the birthday of King Kamehameha.</summary>
+</bill>

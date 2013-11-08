@@ -1,0 +1,64 @@
+<bill session="111" type="h" number="4307" updated="2013-07-19T23:51:11-04:00">
+  <state datetime="2010-06-30T11:34:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-06-30T11:34:00-04:00"/>
+  </status>
+  <introduced datetime="2009-12-14"/>
+  <titles>
+    <title as="introduced" type="official">To name the Department of Veterans Affairs community-based outpatient clinic in Artesia, New Mexico, as the "Alejandro Renteria Ruiz Department of Veterans Affairs Clinic".</title>
+  </titles>
+  <sponsor id="412316"/>
+  <cosponsors>
+    <cosponsor id="412281" joined="2010-06-21"/>
+    <cosponsor id="412293" joined="2010-06-21"/>
+    <cosponsor id="400403" joined="2009-12-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-12-14">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2010-06-29T12:30:00-04:00">
+      <text>Mr. Filner moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-06-29T12:30:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4919-4921" label="consideration"/>
+    </action>
+    <action datetime="2010-06-29T12:30:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4307.</text>
+    </action>
+    <action datetime="2010-06-29T12:37:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-06-30T11:28:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5211-5212" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-06-30T11:34:00-04:00" how="roll" result="pass" roll="405" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 405).</text>
+      <reference ref="CR 6/29/2010 H4920" label="text"/>
+    </vote>
+    <action datetime="2010-06-30T11:34:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-07-12">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional tributes"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Military personnel and dependents"/>
+    <term name="New Mexico"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>6/30/2010--Passed House without amendment.
+Designates the Department of Veterans Affairs community-based outpatient clinic in Artesia, New Mexico, as the "Alejandro Renteria Ruiz Department of Veterans Affairs Clinic."</summary>
+</bill>

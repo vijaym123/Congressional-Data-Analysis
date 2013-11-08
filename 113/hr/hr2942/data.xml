@@ -1,0 +1,36 @@
+<bill session="113" type="h" number="2942" updated="2013-11-02T06:43:47-04:00">
+  <state datetime="2013-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-01"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to reestablish the Professional Certification and Licensure Advisory Committee of the Department of Veterans Affairs.</title>
+  </titles>
+  <sponsor id="412286"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-08-01" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-08-13">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="1796"/>
+    <bill relation="unknown" session="113" type="s" number="700"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Advisory bodies"/>
+    <term name="Licensing and registrations"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+</bill>

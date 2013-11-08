@@ -1,0 +1,53 @@
+<bill session="111" type="sc" number="78" updated="2013-07-20T00:23:14-04:00">
+  <state datetime="2010-12-22">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2010-12-22"/>
+  </status>
+  <introduced datetime="2010-12-17"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution honoring the work and mission of the Delta Regional Authority on the occasion of the 10th anniversary of the Federal-State partnership created to uplift the 8-State Delta region.</title>
+  </titles>
+  <sponsor id="300023"/>
+  <cosponsors>
+    <cosponsor id="300068" joined="2010-12-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-12-17">
+      <text>Referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="2010-12-22">
+      <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.</text>
+      <reference ref="CR S11053-11054" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2010-12-22" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S11053-11054" label="text"/>
+    </vote>
+    <action datetime="2010-12-23">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Alabama"/>
+    <term name="Arkansas"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Delta Regional Authority"/>
+    <term name="Economic development"/>
+    <term name="Illinois"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Kentucky"/>
+    <term name="Louisiana"/>
+    <term name="Mississippi"/>
+    <term name="Missouri"/>
+    <term name="Tennessee"/>
+  </subjects>
+  <amendments/>
+  <summary>12/22/2010--Passed Senate without amendment.
+Recognizes the 10th anniversary of the founding of the Delta Regional Authority.Honors the Authority's first decade of work to improve the economy and well-being of the eight-state Delta region (Alabama, Arkansas, Illinois, Kentucky, Louisiana, Mississippi, Missouri, and Tennessee) and the promise of its continued work in the future.</summary>
+</bill>

@@ -1,0 +1,128 @@
+<bill session="111" type="h" number="885" updated="2013-07-19T23:19:52-04:00">
+  <state datetime="2009-06-08T15:29:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-06-08T15:29:00-04:00"/>
+  </status>
+  <introduced datetime="2009-02-04"/>
+  <titles>
+    <title as="introduced" type="short">Improved Financial and Commodity Markets Oversight and Accountability Act</title>
+    <title as="reported to house" type="short">Improved Financial and Commodity Markets Oversight and Accountability Act</title>
+    <title as="passed house" type="short">Improved Financial and Commodity Markets Oversight and Accountability Act</title>
+    <title as="reported to senate" type="short">Improved Financial and Commodity Markets Oversight and Accountability Act</title>
+    <title as="introduced" type="official">To elevate the Inspector General of certain Federal entities to an Inspector General appointed pursuant to section 3 of the Inspector General Act of 1978.</title>
+  </titles>
+  <sponsor id="400233"/>
+  <cosponsors>
+    <cosponsor id="400031" joined="2009-03-19"/>
+    <cosponsor id="412266" joined="2009-03-05"/>
+    <cosponsor id="400046" joined="2009-03-19"/>
+    <cosponsor id="400047" joined="2009-04-21"/>
+    <cosponsor id="400063" joined="2009-03-05"/>
+    <cosponsor id="400639" joined="2009-03-18"/>
+    <cosponsor id="412193" joined="2009-03-18"/>
+    <cosponsor id="400093" joined="2009-03-18"/>
+    <cosponsor id="400100" joined="2009-02-04"/>
+    <cosponsor id="400103" joined="2009-03-19"/>
+    <cosponsor id="400114" joined="2009-03-18"/>
+    <cosponsor id="400124" joined="2009-03-19"/>
+    <cosponsor id="400152" joined="2009-03-18"/>
+    <cosponsor id="400653" joined="2009-03-18"/>
+    <cosponsor id="400170" joined="2009-03-18"/>
+    <cosponsor id="400641" joined="2009-03-19"/>
+    <cosponsor id="400178" joined="2009-02-04"/>
+    <cosponsor id="400184" joined="2009-02-04"/>
+    <cosponsor id="400198" joined="2009-03-18"/>
+    <cosponsor id="400218" joined="2009-03-17"/>
+    <cosponsor id="400244" joined="2009-04-01"/>
+    <cosponsor id="400271" joined="2009-03-18"/>
+    <cosponsor id="400274" joined="2009-03-19"/>
+    <cosponsor id="412194" joined="2009-03-17"/>
+    <cosponsor id="400286" joined="2009-03-18"/>
+    <cosponsor id="412301" joined="2009-02-04"/>
+    <cosponsor id="400309" joined="2009-03-05"/>
+    <cosponsor id="400312" joined="2009-03-18"/>
+    <cosponsor id="400321" joined="2009-04-21"/>
+    <cosponsor id="400352" joined="2009-03-05"/>
+    <cosponsor id="400355" joined="2009-03-18"/>
+    <cosponsor id="400361" joined="2009-04-23"/>
+    <cosponsor id="400391" joined="2009-03-05"/>
+    <cosponsor id="400399" joined="2009-03-18"/>
+    <cosponsor id="400409" joined="2009-02-04"/>
+    <cosponsor id="400424" joined="2009-03-18"/>
+    <cosponsor id="400430" joined="2009-03-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-04">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2009-05-06">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-05-06">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2009-05-18T19:20:00-04:00">
+      <text>Reported (Amended) by the Committee on Oversight and Government. H. Rept. 111-114.</text>
+    </action>
+    <calendar datetime="2009-05-18T19:20:00-04:00" calendar="Union" number="57">
+      <text>Placed on the Union Calendar, Calendar No. 57.</text>
+    </calendar>
+    <action datetime="2009-06-08T15:13:00-04:00">
+      <text>Mr. Lynch moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-06-08T15:13:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6284-6286" label="consideration"/>
+    </action>
+    <action datetime="2009-06-08T15:13:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 885.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-06-08T15:29:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6284" label="text"/>
+    </vote>
+    <action datetime="2009-06-08T15:29:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-06-10">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2009-07-22">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2009-07-29">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2010-03-16">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. Without written report.</text>
+    </action>
+    <calendar datetime="2010-03-16" calendar="Senate Legislative" under="General Orders" number="320">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 320.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, Reporting"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="1354"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Commodity Futures Trading Commission"/>
+    <term name="Congressional oversight"/>
+    <term name="Federal Reserve System"/>
+    <term name="Federal officials"/>
+    <term name="Government studies and investigations"/>
+    <term name="National Credit Union Administration"/>
+    <term name="Pension Benefit Guaranty Corporation"/>
+    <term name="Securities and Exchange Commission (SEC)"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/2010--Reported to Senate amended.
+Improved Financial and Commodity Markets Oversight and Accountability Act - Amends the Inspector General Act of 1978 to include the Board of Governors of the Federal Reserve System, the Commodity Futures Trading Commission (CFTC), the National Credit Union Administration (NCUA), the Pension Benefit Guaranty Corporation (PBGC), and the Securities and Exchange Commission (SEC) as establishments the Inspector Generals of which shall be appointed by the President. Applies existing pay requirements under the Inspector General Reform Act of 2008 to the Inspectors General of such entities. Permits such Inspectors General to select, appoint, and employ such officers and employees as necessary and to obtain services of experts or consultants.Authorizes such Inspectors General to subpoena records and testimony necessary in the performance of their assigned functions.Requires the heads of those entities to: (1) take action to address deficiencies identified by their Inspector General; or (2) certify to both Houses of Congress that no action is necessary or appropriate.</summary>
+</bill>

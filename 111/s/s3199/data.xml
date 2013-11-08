@@ -1,0 +1,108 @@
+<bill session="111" type="s" number="3199" updated="2013-07-20T00:54:28-04:00">
+  <state datetime="2010-12-22">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2010-12-22"/>
+  </status>
+  <introduced datetime="2010-04-14"/>
+  <titles>
+    <title as="introduced" type="short">Early Hearing Detection and Intervention Act of 2010</title>
+    <title as="passed house" type="short">Early Hearing Detection and Intervention Act of 2010</title>
+    <title as="reported to senate" type="short">Early Hearing Detection and Intervention Act of 2010</title>
+    <title as="passed senate" type="short">Early Hearing Detection and Intervention Act of 2010</title>
+    <title as="introduced" type="official">A bill to amend the Public Health Service Act regarding early detection, diagnosis, and treatment of hearing loss.</title>
+  </titles>
+  <sponsor id="300091"/>
+  <cosponsors>
+    <cosponsor id="300007" joined="2010-05-05"/>
+    <cosponsor id="412328" joined="2010-07-13"/>
+    <cosponsor id="300021" joined="2010-05-27"/>
+    <cosponsor id="300051" joined="2010-04-14"/>
+    <cosponsor id="300058" joined="2010-07-15"/>
+    <cosponsor id="300068" joined="2010-05-05"/>
+    <cosponsor id="400272" joined="2010-07-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-04-14">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2010-12-01">
+      <text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Health, Education, Labor, and Pensions"/>
+    </calendar>
+    <action datetime="2010-12-06">
+      <text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="2010-12-06" calendar="Senate Legislative" under="General Orders" number="673">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 673.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2010-12-07" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S8601-8602" label="consideration"/>
+      <reference ref="CR S8602" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2010-12-08T10:04:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2010-12-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2010-12-08T18:28:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2010-12-15T11:48:00-05:00">
+      <text>Mr. Pallone moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-12-15T11:48:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8372-8374" label="consideration"/>
+    </action>
+    <action datetime="2010-12-15T11:48:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 3199.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2010-12-15T12:02:00-05:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H8372-8373" label="text"/>
+    </vote>
+    <action datetime="2010-12-15T12:02:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2010-12-15">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2010-12-17">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2010-12-22">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2010-12-22" type="public" number="111-337">
+      <text>Became Public Law No: 111-337.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="1246"/>
+    <bill relation="unknown" session="111" type="h" number="1246"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Hearing, speech, and vision care"/>
+    <term name="Medical education"/>
+    <term name="Medical research"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>12/22/2010--Public Law.
+(This measure has not been amended since it was reported to the Senate on December 6, 2010. The summary of that version is repeated here.) Early Hearing Detection and Intervention Act of 2010 - Amends the Public Health Service Act to expand the newborns and infants hearing loss program to include diagnostic services among the services provided. Requires the Secretary of Health and Human Services (HHS), acting through the Administrator of the Health Resources and Services Administration (HRSA), to assist in the recruitment, retention, education, and training of qualified personnel and health care providers. Includes within the purposes of such program: (1) prompt evaluation and diagnosis of children referred from screening programs; (2) appropriate education, audiological, and medical interventions for children identified with hearing loss; and (3) other activities, which may include developing efficient models to ensure that newborns and infants who are identified with a hearing loss through screening receive follow-up by a qualified health care provider. Amends the definition of "early intervention" to require that families be given the opportunity to obtain the full range of appropriate early intervention services, educational and program placements, and other options for their child from highly qualified providers. Authorizes appropriations for FY2011-FY2015 for hearing screening programs and research.</summary>
+</bill>

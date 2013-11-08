@@ -1,0 +1,90 @@
+<bill session="111" type="hr" number="970" updated="2013-07-19T23:04:28-04:00">
+  <state datetime="2010-01-13T11:21:00-05:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2010-01-13T11:21:00-05:00"/>
+  </status>
+  <introduced datetime="2009-12-15"/>
+  <titles>
+    <title as="introduced" type="official">Congratulating Flint native, University of Alabama sophomore, and running back Mark Ingram on winning the 2009 Heisman Trophy and honoring both his athletic and academic achievements.</title>
+  </titles>
+  <sponsor id="400216"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2009-12-15"/>
+    <cosponsor id="400009" joined="2009-12-15"/>
+    <cosponsor id="400010" joined="2009-12-15"/>
+    <cosponsor id="400038" joined="2009-12-15"/>
+    <cosponsor id="400645" joined="2009-12-15"/>
+    <cosponsor id="400058" joined="2009-12-15"/>
+    <cosponsor id="400080" joined="2009-12-15"/>
+    <cosponsor id="400092" joined="2009-12-15"/>
+    <cosponsor id="400110" joined="2009-12-15"/>
+    <cosponsor id="400119" joined="2009-12-15"/>
+    <cosponsor id="412277" joined="2009-12-15"/>
+    <cosponsor id="412204" joined="2009-12-15"/>
+    <cosponsor id="400178" joined="2009-12-15"/>
+    <cosponsor id="400182" joined="2009-12-15"/>
+    <cosponsor id="412226" joined="2010-01-12"/>
+    <cosponsor id="400217" joined="2009-12-15"/>
+    <cosponsor id="400218" joined="2009-12-15"/>
+    <cosponsor id="400238" joined="2009-12-15"/>
+    <cosponsor id="400260" joined="2009-12-15"/>
+    <cosponsor id="400276" joined="2009-12-16"/>
+    <cosponsor id="400282" joined="2009-12-15"/>
+    <cosponsor id="412305" joined="2009-12-15"/>
+    <cosponsor id="400341" joined="2009-12-15"/>
+    <cosponsor id="400342" joined="2009-12-15"/>
+    <cosponsor id="400352" joined="2009-12-15"/>
+    <cosponsor id="400360" joined="2009-12-15"/>
+    <cosponsor id="412313" joined="2009-12-15"/>
+    <cosponsor id="412225" joined="2009-12-15"/>
+    <cosponsor id="400391" joined="2009-12-15"/>
+    <cosponsor id="400414" joined="2009-12-15"/>
+    <cosponsor id="400417" joined="2009-12-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-12-15">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2010-01-13T11:00:00-05:00">
+      <text>Mr. Kildee moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2010-01-13T11:01:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H51-53" label="consideration"/>
+    </action>
+    <action datetime="2010-01-13T11:01:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 970.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2010-01-13T11:21:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H51" label="text"/>
+    </vote>
+    <action datetime="2010-01-13T11:21:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-02-23">
+      <text>Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education, Lifelong Learning, and Competitiveness" name="House Education and Labor"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="hr" number="969"/>
+    <bill relation="unknown" session="111" type="hr" number="972"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Alabama"/>
+    <term name="Athletes"/>
+    <term name="Congressional tributes"/>
+    <term name="Higher education"/>
+    <term name="Michigan"/>
+    <term name="School athletics"/>
+  </subjects>
+  <amendments/>
+  <summary>1/13/2010--Passed House without amendment.
+Congratulates Flint native and running back Mark Ingram on winning the 2009 Heisman Trophy. Honors both his athletic and academic achievements.</summary>
+</bill>

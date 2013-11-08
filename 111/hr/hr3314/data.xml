@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="3314" updated="2013-07-19T23:42:04-04:00">
+  <state datetime="2009-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2009-07-23"/>
+  </status>
+  <introduced datetime="2009-07-23"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 23, United States Code, to assist States with a high unemployment rate under the equity bonus program, and for other purposes.</title>
+  </titles>
+  <sponsor id="412313"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2009-07-23"/>
+    <cosponsor id="400110" joined="2009-07-23"/>
+    <cosponsor id="400216" joined="2009-07-23"/>
+    <cosponsor id="400217" joined="2009-07-23"/>
+    <cosponsor id="400238" joined="2009-07-23"/>
+    <cosponsor id="412305" joined="2009-07-23"/>
+    <cosponsor id="400391" joined="2009-07-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-23">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2009-07-24">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation programs funding"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <summary>7/23/2009--Introduced.
+Revises requirements for the equity bonus program for specified federal-aid highway programs for FY2010-FY2015 with respect to any state with an unemployment rate equal to or exceeding 12% at any time during FY2009. Increases from 92% to 105% the percentage for such a state of the total fiscal year apportionments for the programs.</summary>
+</bill>

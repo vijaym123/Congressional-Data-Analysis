@@ -1,0 +1,84 @@
+<bill session="111" type="h" number="2340" updated="2013-07-19T23:32:54-04:00">
+  <state datetime="2010-07-01T11:05:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-07-01T11:05:00-04:00"/>
+  </status>
+  <introduced datetime="2009-05-07"/>
+  <titles>
+    <title as="introduced" type="short">Salmon Lake Land Selection Resolution Act</title>
+    <title as="reported to house" type="short">Salmon Lake Land Selection Resolution Act</title>
+    <title as="passed house" type="short">Salmon Lake Land Selection Resolution Act</title>
+    <title as="introduced" type="official">To resolve the claims of the Bering Straits Native Corporation and the State of Alaska to land adjacent to Salmon Lake in the State of Alaska and to provide for the conveyance to the Bering Straits Native Corporation of certain other public land in partial satisfaction of the land entitlement of the Corporation under the Alaska Native Claims Settlement Act.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-05-07">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2010-04-21">
+      <text>Committee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-06-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-06-16">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2010-06-28T15:20:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-514.</text>
+    </action>
+    <calendar datetime="2010-06-28T15:21:00-04:00" calendar="Union" number="294">
+      <text>Placed on the Union Calendar, Calendar No. 294.</text>
+    </calendar>
+    <action datetime="2010-06-29T13:32:00-04:00">
+      <text>Mr. Heinrich moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-06-29T13:32:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4929-4930" label="consideration"/>
+    </action>
+    <action datetime="2010-06-29T13:32:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2340.</text>
+    </action>
+    <action datetime="2010-06-29T13:35:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Heinrich objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2010-07-01T10:57:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5309-5310" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-07-01T11:05:00-04:00" how="roll" result="pass" roll="416" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 410 - 0 (Roll No. 416).</text>
+      <reference ref="CR 6/29/2010 H4929" label="text"/>
+    </vote>
+    <action datetime="2010-07-01T11:05:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="2010-07-12" calendar="Senate Legislative" under="General Orders" number="457">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 457.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="522"/>
+    <bill relation="unknown" session="111" type="s" number="522"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Alaska"/>
+    <term name="Alaska Natives and Hawaiians"/>
+    <term name="Indian claims"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Lakes and rivers"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+  <summary>7/1/2010--Passed House amended.
+Salmon Lake Land Selection Resolution Act - Ratifies the Salmon Lake Area Land Ownership Consolidation Agreement, which was executed between the United States, the State of Alaska, and the Bering Straits Native Corporation on July 18, 2007. Requires the land conveyance to the Bering Straits Native Corporation to include the reservation of specified easements that were developed by the parties to the Agreement in accordance with the Alaska Native Claims Settlement Act. Authorizes the Secretary of the Interior to carry out all actions allowed or required under the Agreement.</summary>
+</bill>

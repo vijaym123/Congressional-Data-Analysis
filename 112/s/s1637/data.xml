@@ -1,0 +1,87 @@
+<bill session="112" type="s" number="1637" updated="2013-07-20T02:30:34-04:00">
+  <state datetime="2011-11-29">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2011-11-29"/>
+  </status>
+  <introduced datetime="2011-10-03"/>
+  <titles>
+    <title as="introduced" type="short">Appeal Time Clarification Act of 2011</title>
+    <title as="passed house" type="short">Appeal Time Clarification Act of 2011</title>
+    <title as="reported to senate" type="short">Appeal Time Clarification Act of 2011</title>
+    <title as="passed senate" type="short">Appeal Time Clarification Act of 2011</title>
+    <title as="enacted" type="short">Appeal Time Clarification Act of 2011</title>
+    <title as="introduced" type="official">A bill to clarify appeal time limits in civil actions to which United States officers or employees are parties.</title>
+  </titles>
+  <sponsor id="412242"/>
+  <cosponsors>
+    <cosponsor id="300088" joined="2011-10-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-10-03">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2011-10-13">
+      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2011-10-17">
+      <text>Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2011-10-17" calendar="Senate Legislative" under="General Orders" number="196">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 196.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2011-10-31" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6925" label="consideration"/>
+      <reference ref="CR S6925" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2011-11-01">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2011-11-01T12:02:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2011-11-01T16:40:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2011-11-18T10:06:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H7841" label="consideration"/>
+    </action>
+    <action datetime="2011-11-18T10:06:00-05:00">
+      <text>Mr. Smith (TX) asked unanimous consent to take from the Speaker's table and consider.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2011-11-18T10:07:00-05:00" how="without objection" result="pass" type="vote2" where="h">
+      <text>On passage Passed without objection.</text>
+      <reference ref="H7841" label="text"/>
+    </vote>
+    <action datetime="2011-11-18T10:07:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2011-11-18">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2011-11-29">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2011-11-29" type="public" number="112-62">
+      <text>Became Public Law No: 112-62.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="2633"/>
+    <bill relation="unknown" session="112" type="h" number="2633"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Government liability"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Judicial review and appeals"/>
+  </subjects>
+  <amendments/>
+  <summary>11/29/2011--Public Law.
+Appeal Time Clarification Act of 2011 -Amends federal judicial code requirements concerning the time limits for the filing of appeals to any judgment, order, or decree in a civil action, suit, or proceeding in which the United States or a U.S. officer or agency is a party. Revises the requirement that an appeal in any such action, suit, or proceeding be filed within 60 days after entry of judgment, order, or decree. Extends application of the 60-day filing deadline to any civil action, suit, or proceeding in which one of the parties is: (1) a U.S. employee sued in an official capacity; or (2) a current or former U.S. officer or employee sued in an individual capacity for an act or omission occurring in connection with duties performed on behalf of the United States, including all instances in which the United States represents that officer or employee when the judgment, order, or decree is entered or files the appeal for that person. Sets forth the finding of Congress that the application of the 60-day deadline: (1) is not limited to civil actions in which representation of the United States is provided by the Department of Justice (DOJ); and (2) includes all civil actions in which the representation of the United States is provided by a federal legal officer acting in an official capacity, including civil actions in which a Member, officer, or employee of the Senate or the House of Representatives is represented by the Office of Senate Legal Counsel or the House's Office of General Counsel.</summary>
+</bill>

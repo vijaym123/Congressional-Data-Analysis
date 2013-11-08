@@ -1,0 +1,91 @@
+<bill session="111" type="hc" number="248" updated="2013-07-20T00:15:08-04:00">
+  <state datetime="2010-03-10T18:22:00-05:00">FAIL:ORIGINATING:HOUSE</state>
+  <status>
+    <unknown datetime="2010-03-10T18:22:00-05:00"/>
+  </status>
+  <introduced datetime="2010-03-04"/>
+  <titles>
+    <title as="introduced" type="official">Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove the United States Armed Forces from Afghanistan.</title>
+  </titles>
+  <sponsor id="400227"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2010-03-04"/>
+    <cosponsor id="400063" joined="2010-03-04"/>
+    <cosponsor id="412221" joined="2010-03-04"/>
+    <cosponsor id="400080" joined="2010-03-04"/>
+    <cosponsor id="400093" joined="2010-03-04"/>
+    <cosponsor id="412263" joined="2010-03-10"/>
+    <cosponsor id="400129" joined="2010-03-09"/>
+    <cosponsor id="400133" joined="2010-03-04"/>
+    <cosponsor id="412276" joined="2010-03-04"/>
+    <cosponsor id="400162" joined="2010-03-04"/>
+    <cosponsor id="400207" joined="2010-03-04"/>
+    <cosponsor id="400209" joined="2010-03-04"/>
+    <cosponsor id="412240" joined="2010-03-10"/>
+    <cosponsor id="400237" joined="2010-03-04"/>
+    <cosponsor id="412299" joined="2010-03-04"/>
+    <cosponsor id="400274" joined="2010-03-04"/>
+    <cosponsor id="400311" joined="2010-03-04"/>
+    <cosponsor id="412307" joined="2010-03-04"/>
+    <cosponsor id="400366" joined="2010-03-04"/>
+    <cosponsor id="400387" joined="2010-03-09"/>
+    <cosponsor id="400436" joined="2010-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2010-03-02">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H1001"/>
+    </action>
+    <action state="REFERRED" datetime="2010-03-04">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2010-03-09">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H1176"/>
+    </action>
+    <action datetime="2010-03-09T18:56:00-05:00">
+      <text>Rules Committee Resolution H. Res. 1146 Reported to House. Rule provides for consideration of H. Con. Res. 248 with 3 hours of general debate. Previous question shall be considered as ordered without intervening motions. Measure will be considered read. Bill is closed to amendments.</text>
+    </action>
+    <action datetime="2010-03-10T13:54:00-05:00">
+      <text>Rule H. Res. 1146 passed House.</text>
+    </action>
+    <action datetime="2010-03-10T14:10:00-05:00">
+      <text>Considered under the provisions of rule H. Res. 1146.</text>
+      <reference ref="CR H1251-1286" label="consideration"/>
+      <reference ref="CR H1251" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2010-03-10T14:10:00-05:00">
+      <text>Rule provides for consideration of H. Con. Res. 248 with 3 hours of general debate. Previous question shall be considered as ordered without intervening motions. Measure will be considered read. Bill is closed to amendments.</text>
+    </action>
+    <action datetime="2010-03-10T14:11:00-05:00">
+      <text>DEBATE - The House proceeded with three hours of debate on H. Con. Res. 248.</text>
+    </action>
+    <action datetime="2010-03-10T17:53:00-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H1285" label="consideration"/>
+    </action>
+    <vote state="FAIL:ORIGINATING:HOUSE" datetime="2010-03-10T18:22:00-05:00" how="roll" result="fail" roll="98" type="vote" where="h">
+      <text>On agreeing to the resolution Failed by the Yeas and Nays: 65 - 356 (Roll no. 98).</text>
+    </vote>
+    <action datetime="2010-03-10T18:22:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="111" type="hr" number="1146"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Afghanistan"/>
+    <term name="Asia"/>
+    <term name="Congressional oversight"/>
+    <term name="Military operations and strategy"/>
+    <term name="War and emergency powers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2010--Introduced.
+Directs the President, pursuant to the War Powers Resolution, to remove the U.S. Armed Forces from Afghanistan: (1) by no later than 30 days after this resolution is adopted; or (2) if the President determines that it is not safe to remove them by such date, by no later than December 31, 2010, or such earlier date that the President determines that they can be safely removed.</summary>
+</bill>

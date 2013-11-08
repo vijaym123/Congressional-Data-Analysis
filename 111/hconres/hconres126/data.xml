@@ -1,0 +1,115 @@
+<bill session="111" type="hc" number="126" updated="2013-07-20T00:14:05-04:00">
+  <state datetime="2010-07-19T18:40:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-07-19T18:40:00-04:00"/>
+  </status>
+  <introduced datetime="2009-05-13"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the 50th anniversary of Title VI international education programs within the Department of Education.</title>
+  </titles>
+  <sponsor id="400423"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2009-05-14"/>
+    <cosponsor id="400616" joined="2009-05-13"/>
+    <cosponsor id="412221" joined="2009-05-13"/>
+    <cosponsor id="400074" joined="2009-05-13"/>
+    <cosponsor id="400639" joined="2009-05-13"/>
+    <cosponsor id="412272" joined="2009-05-14"/>
+    <cosponsor id="400080" joined="2009-05-13"/>
+    <cosponsor id="400618" joined="2009-07-22"/>
+    <cosponsor id="400093" joined="2009-05-13"/>
+    <cosponsor id="400101" joined="2009-05-13"/>
+    <cosponsor id="412263" joined="2009-05-13"/>
+    <cosponsor id="412215" joined="2009-05-13"/>
+    <cosponsor id="412276" joined="2009-05-14"/>
+    <cosponsor id="400653" joined="2009-05-13"/>
+    <cosponsor id="400163" joined="2009-05-13"/>
+    <cosponsor id="412204" joined="2009-05-13"/>
+    <cosponsor id="400170" joined="2009-05-14"/>
+    <cosponsor id="400179" joined="2009-05-14"/>
+    <cosponsor id="400199" joined="2009-05-13"/>
+    <cosponsor id="400204" joined="2009-05-13"/>
+    <cosponsor id="400217" joined="2009-05-13"/>
+    <cosponsor id="400237" joined="2009-05-14"/>
+    <cosponsor id="400663" joined="2009-05-14"/>
+    <cosponsor id="400257" joined="2009-05-13"/>
+    <cosponsor id="400259" joined="2009-05-13"/>
+    <cosponsor id="400262" joined="2009-07-23"/>
+    <cosponsor id="400263" joined="2009-05-13"/>
+    <cosponsor id="400271" joined="2009-07-22"/>
+    <cosponsor id="400278" joined="2009-05-13"/>
+    <cosponsor id="400661" joined="2009-05-13"/>
+    <cosponsor id="400283" joined="2009-05-14"/>
+    <cosponsor id="400312" joined="2009-05-13"/>
+    <cosponsor id="412253" joined="2009-05-13"/>
+    <cosponsor id="400348" joined="2009-07-22"/>
+    <cosponsor id="400350" joined="2009-05-13"/>
+    <cosponsor id="412232" joined="2009-05-14"/>
+    <cosponsor id="412186" joined="2009-07-22"/>
+    <cosponsor id="400383" joined="2009-07-23"/>
+    <cosponsor id="400396" joined="2009-05-13"/>
+    <cosponsor id="400422" joined="2009-05-13"/>
+    <cosponsor id="400424" joined="2009-05-13"/>
+    <cosponsor id="400425" joined="2009-05-13"/>
+    <cosponsor id="400436" joined="2009-05-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-05-13">
+      <text>Referred to the Committee on Education and Labor, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-05-13">
+      <text>Referred to House Education and Labor</text>
+    </action>
+    <action datetime="2009-05-13">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2009-06-11">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+      <committee name="House Education and Labor"/>
+    </action>
+    <action datetime="2010-07-19T14:17:00-04:00">
+      <text>Mr. Loebsack moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2010-07-19T14:17:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5681-5683" label="consideration"/>
+    </action>
+    <action datetime="2010-07-19T14:17:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 126.</text>
+    </action>
+    <action datetime="2010-07-19T14:23:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-07-19T18:34:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5692" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-07-19T18:40:00-04:00" how="roll" result="pass" roll="449" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 355 - 16 (Roll no. 449).</text>
+      <reference ref="CR H5681-5682" label="text"/>
+    </vote>
+    <action datetime="2010-07-19T18:40:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-07-20">
+      <text>Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral"/>
+    <committee activity="Referral" code="HSED14" subcommittee="Early Childhood, Elementary, and Secondary Education" name="House Education and Labor"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Area studies and international education"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Education programs funding"/>
+    <term name="Higher education"/>
+  </subjects>
+  <amendments/>
+  <summary>7/19/2010--Passed House amended.
+Supports the goals and ideals of Title VI (International Education Programs) of the Higher Education Act of 1965. Recognizes the need to continue to develop and promote international educational programs.</summary>
+</bill>

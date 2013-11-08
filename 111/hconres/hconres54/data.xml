@@ -1,0 +1,62 @@
+<bill session="111" type="hc" number="54" updated="2013-07-20T00:13:23-04:00">
+  <state datetime="2009-04-01">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2009-04-01"/>
+  </status>
+  <introduced datetime="2009-02-13"/>
+  <titles>
+    <title as="introduced" type="official">Permitting the use of the Rotunda of the Capitol for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.</title>
+  </titles>
+  <sponsor id="400425"/>
+  <cosponsors>
+    <cosponsor id="400060" joined="2009-02-13"/>
+    <cosponsor id="400235" joined="2009-02-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-13">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2009-03-31T15:06:00-04:00">
+      <text>Mr. Brady (PA) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2009-03-31T15:06:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4188" label="consideration"/>
+    </action>
+    <action datetime="2009-03-31T15:06:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 54.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-03-31T15:12:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H4188" label="text"/>
+    </vote>
+    <action datetime="2009-03-31T15:12:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2009-04-01" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4226" label="consideration"/>
+    </vote>
+    <action datetime="2009-04-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hc" number="236"/>
+    <bill relation="unknown" session="111" type="hc" number="236"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Crime victims"/>
+    <term name="Religion"/>
+    <term name="U.S. Capitol"/>
+    <term name="War crimes, genocide, crimes against humanity"/>
+  </subjects>
+  <amendments/>
+  <summary>4/1/2009--Passed Senate without amendment.
+Authorizes the use of the Capitol rotunda on April 23, 2009, for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.</summary>
+</bill>

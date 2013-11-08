@@ -1,0 +1,47 @@
+<bill session="111" type="s" number="1221" updated="2013-07-20T00:34:27-04:00">
+  <state datetime="2009-06-09">REFERRED</state>
+  <status>
+    <introduced datetime="2009-06-09"/>
+  </status>
+  <introduced datetime="2009-06-09"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend title XVIII of the Social Security Act to ensure more appropriate payment amounts for drugs and biologicals under part B of the Medicare Program by excluding customary prompt pay discounts extended to wholesalers from the manufacturer's average sales price.</title>
+  </titles>
+  <sponsor id="300092"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2009-09-29"/>
+    <cosponsor id="300007" joined="2009-06-23"/>
+    <cosponsor id="400050" joined="2009-06-18"/>
+    <cosponsor id="400054" joined="2010-02-24"/>
+    <cosponsor id="412246" joined="2009-08-04"/>
+    <cosponsor id="412324" joined="2010-12-09"/>
+    <cosponsor id="300064" joined="2009-07-20"/>
+    <cosponsor id="300068" joined="2009-06-10"/>
+    <cosponsor id="300083" joined="2009-06-09"/>
+    <cosponsor id="300093" joined="2010-03-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-06-09">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S6383-6384"/>
+    </action>
+    <action state="REFERRED" datetime="2009-06-09">
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <reference ref="CR S6384" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="h" number="1392"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Medicare"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/9/2009--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act with respect to the use of average sales price methodology for calculating payments for drugs and biologicals under Medicare part B (Supplementary Medical Insurance). Excludes from the manufacturer's average sales price when calculating such payments any customary prompt pay discounts extended to wholesalers.</summary>
+</bill>

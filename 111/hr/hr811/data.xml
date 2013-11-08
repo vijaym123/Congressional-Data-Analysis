@@ -1,0 +1,56 @@
+<bill session="111" type="h" number="811" updated="2013-07-19T23:19:13-04:00">
+  <state datetime="2009-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="2009-02-03"/>
+  </status>
+  <introduced datetime="2009-02-03"/>
+  <titles>
+    <title as="introduced" type="short">Retired Pay Restoration Act</title>
+    <title as="introduced" type="official">To amend title 10, United States Code, to permit certain retired members of the uniformed services who have a service-connected disability to receive both disability compensation from the Department of Veterans Affairs for their disability and either retired pay by reason of their years of military service or Combat-Related Special Compensation.</title>
+  </titles>
+  <sponsor id="412250"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2009-07-31"/>
+    <cosponsor id="400042" joined="2009-09-15"/>
+    <cosponsor id="400640" joined="2009-04-27"/>
+    <cosponsor id="400274" joined="2010-03-24"/>
+    <cosponsor id="412301" joined="2009-09-30"/>
+    <cosponsor id="400316" joined="2009-09-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-03">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-02-03">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2009-02-03">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2009-02-06">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-02-24">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="303"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disability and paralysis"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/2009--Introduced.
+Retired Pay Restoration Act - Allows the receipt of both military retired pay and veterans' disability compensation with respect to any service-connected disability (under current law, only a disability rated at 50% or more). Provides a phase-in for the concurrent receipt of retired pay with respect to retirees with service-connected disabilities rated at 40% or less. Makes eligible for the full concurrent receipt of both veterans' disability compensation and either military retired pay or combat-related special pay those individuals who were retired or separated from military service due to a service-connected disability.</summary>
+</bill>

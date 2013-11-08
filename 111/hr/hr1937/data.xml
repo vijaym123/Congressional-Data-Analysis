@@ -1,0 +1,41 @@
+<bill session="111" type="h" number="1937" updated="2013-07-19T23:29:10-04:00">
+  <state datetime="2009-04-02">REFERRED</state>
+  <status>
+    <introduced datetime="2009-04-02"/>
+  </status>
+  <introduced datetime="2009-04-02"/>
+  <titles>
+    <title as="introduced" type="official">To require the Nuclear Regulatory Commission to retain and redistribute certain amounts collected as fines.</title>
+  </titles>
+  <sponsor id="400246"/>
+  <cosponsors>
+    <cosponsor id="400122" joined="2009-04-02"/>
+    <cosponsor id="412222" joined="2009-04-02"/>
+    <cosponsor id="400178" joined="2009-04-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-04-02">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2009-04-21">
+      <text>Referred to the Subcommittee on Energy and Environment.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Nuclear power"/>
+    <term name="Radioactive wastes and releases"/>
+    <term name="State and local finance"/>
+  </subjects>
+  <amendments/>
+  <summary>4/2/2009--Introduced.
+Requires the Nuclear Regulatory Commission (NRC) to retain amounts collected for safety-related fines and to distribute them to counties for maintaining radiological emergency preparedness plans required in connection with the nuclear facility with respect to which the fines were collected.</summary>
+</bill>

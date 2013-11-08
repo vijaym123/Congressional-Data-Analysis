@@ -1,0 +1,56 @@
+<bill session="112" type="h" number="978" updated="2013-07-20T01:18:48-04:00">
+  <state datetime="2011-03-09">REFERRED</state>
+  <status>
+    <introduced datetime="2011-03-09"/>
+  </status>
+  <introduced datetime="2011-03-09"/>
+  <titles>
+    <title as="introduced" type="official">To amend title II of the Social Security Act to preclude use of the social security account number on Government-issued identification cards issued in connection with Medicare, Medicaid, and SCHIP benefits and for other purposes.</title>
+  </titles>
+  <sponsor id="400195"/>
+  <cosponsors>
+    <cosponsor id="400640" joined="2012-03-05"/>
+    <cosponsor id="400178" joined="2012-08-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-03-09">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-03-09">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2011-03-09">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2011-03-14">
+      <text>Referred to the Subcommittee on Social Security.</text>
+      <committee name="House Ways and Means"/>
+    </action>
+    <action datetime="2011-03-15">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Child health"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Crime prevention"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government information and archives"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+    <term name="Social security and elderly assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>3/9/2011--Introduced.
+Seniors' Identity Protection Act of 2011 - Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act (SSA) to prohibit the use of Social Security account numbers on identification cards issued by the U.S. government in connection with benefits under SSA titles XVIII (Medicare), XIX (Medicaid), and XXI (Children's Health Insurance Program) (CHIP, formerly known as SCHIP). Declares the sense of Congress that private entities should not use Social Security account numbers as a method identifying individuals on documents made available to the public or on personal identification cards.</summary>
+</bill>

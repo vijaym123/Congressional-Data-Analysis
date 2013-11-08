@@ -1,0 +1,48 @@
+<bill session="113" type="h" number="2340" updated="2013-11-02T06:38:42-04:00">
+  <state datetime="2013-06-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-12"/>
+  </status>
+  <introduced datetime="2013-06-12"/>
+  <titles>
+    <title type="short" as="introduced">State Ethics Law Protection Act of 2013</title>
+    <title type="official" as="introduced">To amend title 23, United States Code, to protect States that have in effect laws or orders with respect to pay to play reform, and for other purposes.</title>
+  </titles>
+  <sponsor id="412331"/>
+  <cosponsors>
+    <cosponsor id="412533" joined="2013-06-12"/>
+    <cosponsor id="412257" joined="2013-06-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-12" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-06-13">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2013-06-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H3292-3293"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="1146"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Roads and highways"/>
+    <term name="State and local government operations"/>
+    <term name="Transportation programs funding"/>
+  </subjects>
+  <amendments/>
+  <summary>6/12/2013--Introduced.
+State Ethics Law Protection Act of 2013 - Considers a state transportation department not to have violated federal contract requirements for the construction of a federal-aid highway project solely because the state in which the department is located, or a local government within that state, has in effect a law or order that limits the amount of money an individual or entity doing business with a state or local agency with respect to such a project may contribute to a political party, campaign, or elected official (pay to play).</summary>
+</bill>

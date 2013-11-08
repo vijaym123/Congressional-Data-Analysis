@@ -1,0 +1,62 @@
+<bill session="113" type="sc" number="5" updated="2013-11-02T06:52:00-04:00">
+  <state datetime="2013-04-17">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2013-04-17"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of Congress that John Arthur "Jack" Johnson should receive a posthumous pardon for the racially motivated conviction in 1913 that diminished the athletic, cultural, and historic significance of Jack Johnson and unduly tarnished his reputation.</title>
+  </titles>
+  <sponsor id="300071"/>
+  <cosponsors>
+    <cosponsor id="412586" joined="2013-03-05"/>
+    <cosponsor id="300082" joined="2013-03-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1134-1135"/>
+    </action>
+    <action datetime="2013-03-05" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S1134" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2013-04-17">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S2773-2774" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2013-04-17" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2013-04-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2013-04-18T10:21:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2013-04-18">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="hc" number="21"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Athletes"/>
+    <term name="Congressional tributes"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="Professional sports"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="U.S. history"/>
+  </subjects>
+  <amendments/>
+  <summary>4/17/2013--Passed Senate without amendment.
+Expresses the sense of Congress that Jack Johnson (the first African-American professional boxer to hold the title of Heavyweight Champion of the World) should receive a posthumous pardon to expunge from the annals of American criminal justice a racially motivated abuse of the federal government's prosecutorial authority and to recognize his athletic and cultural contributions to society.</summary>
+</bill>

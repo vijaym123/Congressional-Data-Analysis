@@ -1,0 +1,58 @@
+<bill session="111" type="sc" number="9" updated="2013-07-20T00:22:33-04:00">
+  <state datetime="2009-03-02">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2009-03-02"/>
+  </status>
+  <introduced datetime="2009-03-02"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution supporting the goals and ideals of Multiple Sclerosis Awareness Week.</title>
+  </titles>
+  <sponsor id="412246"/>
+  <cosponsors>
+    <cosponsor id="300037" joined="2009-03-02"/>
+    <cosponsor id="300063" joined="2009-03-02"/>
+    <cosponsor id="300064" joined="2009-03-02"/>
+    <cosponsor id="300080" joined="2009-03-02"/>
+    <cosponsor id="400357" joined="2009-03-02"/>
+    <cosponsor id="300091" joined="2009-03-02"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2009-03-02" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S2644-2645" label="consideration"/>
+      <reference ref="CR S2644-2645" label="text as passed"/>
+      <reference ref="CR S2641-2642" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2009-03-03T10:31:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2009-03-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2009-03-03">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hc" number="14"/>
+    <bill relation="unknown" session="111" type="hc" number="14"/>
+    <bill relation="unknown" session="111" type="hr" number="1116"/>
+    <bill relation="unknown" session="111" type="hr" number="1116"/>
+    <bill relation="identical" session="111" type="sr" number="435"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Health personnel"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Medical research"/>
+    <term name="Neurological disorders"/>
+  </subjects>
+  <amendments/>
+  <summary>3/2/2009--Passed Senate without amendment.
+Expresses support for the goals and ideals of Multiple Sclerosis Awareness Week. Commends the efforts of states, U.S. territories and possessions, and local communities that support such goals and ideals.Reaffirms the U.S. people's commitment to combating multiple sclerosis by promoting awareness about its causes and risks, promoting new education programs, supporting research, and expanding access to medical treatment.Recognizes people living with multiple sclerosis and salutes the health care professionals and medical researchers who assist those living with multiple sclerosisand continue to work to find cures and improve treatments.</summary>
+</bill>

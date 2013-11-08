@@ -1,0 +1,53 @@
+<bill session="111" type="h" number="3467" updated="2013-07-19T23:43:24-04:00">
+  <state datetime="2009-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2009-07-31"/>
+  </status>
+  <introduced datetime="2009-07-31"/>
+  <titles>
+    <title as="introduced" type="short">Veterans Education Enhancement and Fairness Act of 2009</title>
+    <title as="introduced" type="official">To amend title 38, United States Code, to provide for a monthly housing stipend under the Post-9/11 Educational Assistance Program of the Department of Veterans Affairs for individuals pursuing programs of education offered through distance learning, and for other purposes.</title>
+  </titles>
+  <sponsor id="412234"/>
+  <cosponsors>
+    <cosponsor id="400043" joined="2009-09-14"/>
+    <cosponsor id="400047" joined="2009-09-08"/>
+    <cosponsor id="400125" joined="2009-09-14"/>
+    <cosponsor id="400183" joined="2009-10-22"/>
+    <cosponsor id="412286" joined="2009-10-22"/>
+    <cosponsor id="412289" joined="2009-10-23"/>
+    <cosponsor id="412209" joined="2009-09-08"/>
+    <cosponsor id="412299" joined="2009-09-29"/>
+    <cosponsor id="400659" joined="2009-09-10"/>
+    <cosponsor id="412301" joined="2009-09-14"/>
+    <cosponsor id="400380" joined="2009-09-08"/>
+    <cosponsor id="412228" joined="2009-10-22"/>
+    <cosponsor id="412239" joined="2010-02-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-31">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-09-11">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="3661"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Educational technology and distance education"/>
+    <term name="National Guard and reserves"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+  </subjects>
+  <amendments/>
+  <summary>7/31/2009--Introduced.
+Veterans Education Enhancement and Fairness Act of 2009 - Provides for a monthly housing stipend under the Post-9/11 Educational Assistance Program for individuals pursuing education programs offered through distance learning. Includes in the definition of "active duty" for purposes of Program eligibility for members of the Army National Guard or Air National Guard full-time duty, including duty in support of any homeland security operation, natural disaster related operation, counter-narcotic operation, or border security operation, and duty in the Active Guard Reserve.</summary>
+</bill>

@@ -1,0 +1,96 @@
+<bill session="112" type="h" number="5797" updated="2013-07-20T02:00:03-04:00">
+  <state datetime="2012-08-01T19:39:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-08-01T19:39:00-04:00"/>
+  </status>
+  <introduced datetime="2012-05-17"/>
+  <titles>
+    <title as="introduced" type="short">Mille Lacs Lake Freedom To Fish Act of 2012</title>
+    <title as="reported to house" type="short">Mille Lacs Lake Freedom To Fish Act of 2012</title>
+    <title as="passed house" type="short">Mille Lacs Lake Freedom To Fish Act of 2012</title>
+    <title as="introduced" type="official">To amend title 46, United States Code, with respect to Mille Lacs Lake, Minnesota, and for other purposes.</title>
+    <title as="amended by house" type="official">To exempt the owners and operators of vessels operating on Mille Lacs Lake, Minnesota, from certain Federal requirements.</title>
+  </titles>
+  <sponsor id="412441"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2012-05-17">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2012-05-18">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2012-05-18">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2012-07-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-07-26">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2012-07-26">
+      <text>Subcommittee on Water Resources and Environment Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2012-07-26">
+      <text>Subcommittee on Coast Guard and Maritime Transportation Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2012-07-31T14:54:00-04:00">
+      <text>Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 112-634.</text>
+    </action>
+    <calendar datetime="2012-07-31T14:54:00-04:00" calendar="Union" number="456">
+      <text>Placed on the Union Calendar, Calendar No. 456.</text>
+    </calendar>
+    <action datetime="2012-08-01T19:31:00-04:00">
+      <text>Mr. Cravaack moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-08-01T19:32:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5606-5608" label="consideration"/>
+    </action>
+    <action datetime="2012-08-01T19:32:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5797.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-08-01T19:39:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5606" label="text"/>
+    </vote>
+    <action datetime="2012-08-01T19:39:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-08-01T19:39:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-08-02">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral, Discharged" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="3251"/>
+    <bill relation="unknown" session="112" type="s" number="3251"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Hunting and fishing"/>
+    <term name="Lakes and rivers"/>
+    <term name="Licensing and registrations"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Minnesota"/>
+    <term name="Navigation, waterways, harbors"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/2012--Passed House amended.
+Mille Lacs Lake Freedom To Fish Act of 2012 - Exempts from certain federal vessel licensing and safety inspection requirements owners or operators of vessels operating on Mille Lacs Lake, Minnesota.</summary>
+</bill>

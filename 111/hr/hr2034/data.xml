@@ -1,0 +1,63 @@
+<bill session="111" type="h" number="2034" updated="2013-07-19T23:30:00-04:00">
+  <state datetime="2009-07-29T10:57:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-07-29T10:57:00-04:00"/>
+  </status>
+  <introduced datetime="2009-04-22"/>
+  <titles>
+    <title as="introduced" type="short">Rural Homeowners Protection Act of 2009</title>
+    <title as="passed house" type="short">Rural Homeowners Protection Act of 2009</title>
+    <title as="introduced" type="official">To permit refinancing of certain loans under the Rural Housing Service program for guaranteed loans for rural housing, and for other purposes.</title>
+  </titles>
+  <sponsor id="400074"/>
+  <cosponsors>
+    <cosponsor id="400061" joined="2009-06-26"/>
+    <cosponsor id="400140" joined="2009-04-22"/>
+    <cosponsor id="400653" joined="2009-04-28"/>
+    <cosponsor id="400163" joined="2009-04-22"/>
+    <cosponsor id="400179" joined="2009-04-22"/>
+    <cosponsor id="412220" joined="2009-04-22"/>
+    <cosponsor id="400271" joined="2009-04-22"/>
+    <cosponsor id="400422" joined="2009-04-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-04-22">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2009-07-29T10:51:00-04:00">
+      <text>Mr. Moore (KS) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-07-29T10:51:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8971" label="consideration"/>
+    </action>
+    <action datetime="2009-07-29T10:51:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2034.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-07-29T10:57:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H8971" label="text"/>
+    </vote>
+    <action datetime="2009-07-29T10:57:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-07-30">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Rural conditions and development"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/2009--Passed House without amendment.
+Rural Homeowners Protection Act of 2009 - Amends the Doug Bereuter Section 502 Single Family Housing Loan Guarantee Act and the Housing Act of 1949 to: (1) increase from 1% to 2% the guarantee fee on loans for housing and buildings on adequate farms; and (2) authorize the Secretary of Agriculture to guarantee a loan made to refinance one made by a private lender to an individual to acquire or construct a single-family residence located in a rural area. Requires the Secretary to charge a guarantee fee for refinancing such a loan at levels necessary, but no higher than needed, to allow such class of loans to be guaranteed without resulting in a need for an appropriation for a credit subsidy.</summary>
+</bill>

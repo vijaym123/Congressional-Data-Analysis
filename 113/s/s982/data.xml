@@ -1,0 +1,83 @@
+<bill session="113" type="s" number="982" updated="2013-11-02T07:00:34-04:00">
+  <state datetime="2013-06-03">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2013-06-03"/>
+  </status>
+  <introduced datetime="2013-05-16"/>
+  <titles>
+    <title type="short" as="introduced">Freedom to Fish Act</title>
+    <title type="short" as="passed house">Freedom to Fish Act</title>
+    <title type="short" as="passed senate">Freedom to Fish Act</title>
+    <title type="short" as="enacted">Freedom to Fish Act</title>
+    <title type="official" as="introduced">A bill to prohibit the Corps of Engineers from taking certain actions to establish a restricted area prohibiting public access to waters downstream of a dam, and for other purposes.</title>
+  </titles>
+  <sponsor id="300002"/>
+  <cosponsors>
+    <cosponsor id="412248" joined="2013-05-16"/>
+    <cosponsor id="300072" joined="2013-05-16"/>
+    <cosponsor id="412492" joined="2013-05-16"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Unanimous Consent" type="vote" datetime="2013-05-16" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S3584-3585" label="consideration"/>
+      <reference ref="CR S3585" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2013-05-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2013-05-20T14:12:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2013-05-20T16:58:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2013-05-21T13:50:00-04:00">
+      <text>Mr. Shuster moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-05-21T13:50:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2825-2827" label="consideration"/>
+    </action>
+    <action datetime="2013-05-21T13:50:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 982.</text>
+    </action>
+    <vote how="by voice vote" type="vote2" datetime="2013-05-21T14:10:00-04:00" where="h" result="pass" state="PASSED:BILL">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2825" label="text"/>
+    </vote>
+    <action datetime="2013-05-21T14:10:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2013-05-22">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2013-06-03">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-13" type="public" datetime="2013-06-03" state="ENACTED:SIGNED">
+      <text>Became Public Law No: 113-13.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Other Legislative Involvement"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="601"/>
+    <bill relation="unknown" session="113" type="s" number="601"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Army Corps of Engineers"/>
+    <term name="Dams and canals"/>
+    <term name="Department of Defense"/>
+    <term name="Hunting and fishing"/>
+    <term name="Kentucky"/>
+    <term name="Lakes and rivers"/>
+    <term name="Tennessee"/>
+  </subjects>
+  <amendments/>
+  <summary>6/3/2013--Public Law.
+Freedom to Fish Act - Requires the Chief of the Army Corps of Engineers to: (1) cease implementing and enforcing, until two years after enactment of this Act, any restricted area for hazardous waters at dams and other civil works structures in the Cumberland River Basin that the Chief established or modified between August 1, 2012, and the day before the enactment of this Act; and (2) remove any permanent physical barriers constructed in connection with such area. Requires the Chief, before establishing any such restricted area after this Act's enactment, to: (1) ensure that any restrictions are based on operational conditions that create hazardous waters, and (2) publish and seek and consider public comment on a draft describing the restricted area. Prohibits the Chief from: (1) implementing or enforcing the restricted area until two years after this Act's enactment, or (2) taking any action to establish a permanent physical barrier in connection with such area. (Excludes the installation and maintenance of measures for alerting the public of hazardous water conditions as such a permanent physical barrier.) Makes enforcement of a restricted area the sole responsibility of the state in which such area is located. Prohibits the Chief from assessing any penalty for entering a restricted area of public park and recreational facilities at water resource development projects.</summary>
+</bill>

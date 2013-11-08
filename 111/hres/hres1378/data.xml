@@ -1,0 +1,91 @@
+<bill session="111" type="hr" number="1378" updated="2013-07-19T23:08:04-04:00">
+  <state datetime="2010-09-28T12:46:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2010-09-28T12:46:00-04:00"/>
+  </status>
+  <introduced datetime="2010-05-19"/>
+  <titles>
+    <title as="introduced" type="official">Condemning the theft from the Mojave National Preserve of the national Mojave Cross memorial honoring American soldiers who died in World War I.</title>
+  </titles>
+  <sponsor id="400239"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2010-05-20"/>
+    <cosponsor id="400009" joined="2010-05-28"/>
+    <cosponsor id="400016" joined="2010-06-30"/>
+    <cosponsor id="400026" joined="2010-06-30"/>
+    <cosponsor id="400039" joined="2010-09-28"/>
+    <cosponsor id="412252" joined="2010-05-25"/>
+    <cosponsor id="400055" joined="2010-05-20"/>
+    <cosponsor id="400057" joined="2010-05-19"/>
+    <cosponsor id="400137" joined="2010-09-28"/>
+    <cosponsor id="400651" joined="2010-06-30"/>
+    <cosponsor id="400209" joined="2010-09-28"/>
+    <cosponsor id="400221" joined="2010-05-25"/>
+    <cosponsor id="412191" joined="2010-05-25"/>
+    <cosponsor id="400267" joined="2010-05-19"/>
+    <cosponsor id="400288" joined="2010-05-24"/>
+    <cosponsor id="400295" joined="2010-06-30"/>
+    <cosponsor id="400315" joined="2010-05-24"/>
+    <cosponsor id="400340" joined="2010-05-25"/>
+    <cosponsor id="400341" joined="2010-05-20"/>
+    <cosponsor id="400377" joined="2010-05-24"/>
+    <cosponsor id="400433" joined="2010-05-20"/>
+    <cosponsor id="400435" joined="2010-05-28"/>
+    <cosponsor id="400440" joined="2010-05-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-05-19">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2010-05-19">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2010-05-19">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2010-05-21">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2010-07-26">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <action datetime="2010-09-28T12:44:00-04:00">
+      <text>Mrs. Christensen moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2010-09-28T12:44:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7007" label="consideration"/>
+    </action>
+    <action datetime="2010-09-28T12:44:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1378.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2010-09-28T12:46:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H7007" label="text"/>
+    </vote>
+    <action datetime="2010-09-28T12:46:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Crimes against property"/>
+    <term name="Monuments and memorials"/>
+    <term name="Religion"/>
+    <term name="Veterans' organizations and recognition"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/2010--Passed House without amendment.
+Condemns the illegal removal from the Mojave National Preserve of the Mojave Cross memorial and urges the National Park Service and federal law enforcement agencies to continue working with the Veterans of Foreign Wars to recover the memorial.</summary>
+</bill>

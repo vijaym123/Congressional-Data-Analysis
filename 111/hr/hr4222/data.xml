@@ -1,0 +1,60 @@
+<bill session="111" type="h" number="4222" updated="2013-07-19T23:50:26-04:00">
+  <state datetime="2009-12-08">REFERRED</state>
+  <status>
+    <introduced datetime="2009-12-08"/>
+  </status>
+  <introduced datetime="2009-12-08"/>
+  <titles>
+    <title as="introduced" type="short">Prevent Health Care Fraud Act of 2009</title>
+    <title as="introduced" type="official">To provide for the establishment of the Office of Deputy Secretary for Health Care Fraud Prevention.</title>
+  </titles>
+  <sponsor id="400051"/>
+  <cosponsors>
+    <cosponsor id="412196" joined="2009-12-08"/>
+    <cosponsor id="400107" joined="2009-12-08"/>
+    <cosponsor id="400108" joined="2009-12-08"/>
+    <cosponsor id="400121" joined="2009-12-08"/>
+    <cosponsor id="412240" joined="2010-03-11"/>
+    <cosponsor id="400622" joined="2009-12-08"/>
+    <cosponsor id="400328" joined="2009-12-08"/>
+    <cosponsor id="412311" joined="2009-12-08"/>
+    <cosponsor id="412202" joined="2009-12-08"/>
+    <cosponsor id="400385" joined="2009-12-08"/>
+    <cosponsor id="412255" joined="2010-03-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-12-08">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2009-12-09">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="2128"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Child health"/>
+    <term name="Crime prevention"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health information and medical records"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>12/8/2009--Introduced.
+Prevent Health Care Fraud Act of 2009 - Establishes in the Department of Health and Human Services (HHS) the Office of the Deputy Secretary for Health Care Fraud Prevention. Requires the Office to: (1) direct the implementation within HHS of health care fraud prevention and detection recommendations made by federal and private sector antifraud and oversight entities; (2) routinely consult with HHS's Office of the Inspector General, the Attorney General, and private sector health care antifraud entities to identify emerging fraud issues requiring immediate action; (3) provide for the design, development, and operation of a predictive model antifraud system to analyze health care claims data in real-time to identify high risk claims activity and develop a comprehensive antifraud database for federal health agency activities; (4) promulgate and enforce regulations relating to the reporting of data claims to such system by federal health agencies; (5) establish thresholds for fraudulent, wasteful, or abusive claims for excluding providers or suppliers from participation in federal health programs and for the referral of claims to law enforcement entities; and (6) share antifraud information and best practices. Sets forth requirements for the fraud prevention system, including that it shall: (1) allow viewing of all provider and patient activities across all federal health program payers; (2) provide for a centralized file for data from all government health insurance claims data sources; (3) provide real-time ability to identify high-risk behavior patterns across markets, geographies, and specialty group providers; (4) involve the implementation of a predictive modeling technology that is designed to prevent waste, fraud, and abuse; (5) systematically present scores, reason codes, and treatment actions for high-risk scored transactions; (6) monitor consumer transactions in real-time and monitor provider behavior at different stages within the transaction flow based upon provider, transaction, and consumer trends; and (7) not be designed to deny health care services or to negatively impact prompt-pay laws because assessments are late. Directs the Deputy Secretary to: (1) prohibit the payment of any health care claim identified as potentially fraudulent, wasteful, or abusive until the claim has been verified as valid; and (2) provide maximum protection of personal privacy consistent with carrying out the Office's responsibilities. Directs the Secretary to establish procedures for the implementation of fraud and abuse detection methods under all federal health programs.</summary>
+</bill>

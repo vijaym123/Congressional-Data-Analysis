@@ -1,0 +1,47 @@
+<bill session="111" type="hr" number="972" updated="2013-07-19T23:04:29-04:00">
+  <state datetime="2009-12-15">REFERRED</state>
+  <status>
+    <introduced datetime="2009-12-15"/>
+  </status>
+  <introduced datetime="2009-12-15"/>
+  <titles>
+    <title as="introduced" type="official">Commending University of Alabama Running Back Mark Ingram on winning the 2009 Heisman Trophy.</title>
+  </titles>
+  <sponsor id="400092"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2009-12-15"/>
+    <cosponsor id="400010" joined="2009-12-15"/>
+    <cosponsor id="400038" joined="2009-12-15"/>
+    <cosponsor id="412267" joined="2009-12-15"/>
+    <cosponsor id="412277" joined="2009-12-15"/>
+    <cosponsor id="400341" joined="2009-12-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-12-15">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2010-02-23">
+      <text>Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education, Lifelong Learning, and Competitiveness" name="House Education and Labor"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hr" number="969"/>
+    <bill relation="unknown" session="111" type="hr" number="970"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Alabama"/>
+    <term name="Athletes"/>
+    <term name="Congressional tributes"/>
+    <term name="Higher education"/>
+    <term name="School athletics"/>
+  </subjects>
+  <amendments/>
+  <summary>12/15/2009--Introduced.
+Congratulates Mark Ingram (University of Alabama running back) for winning the 2009 Heisman Trophy and for his academic and athletic accomplishments.</summary>
+</bill>

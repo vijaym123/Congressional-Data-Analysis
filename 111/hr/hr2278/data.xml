@@ -1,0 +1,63 @@
+<bill session="111" type="h" number="2278" updated="2013-07-19T23:32:20-04:00">
+  <state datetime="2009-12-08T16:19:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-12-08T16:19:00-05:00"/>
+  </status>
+  <introduced datetime="2009-05-06"/>
+  <titles>
+    <title as="introduced" type="official">To direct the President to transmit to Congress a report on anti-American incitement to violence in the Middle East, and for other purposes.</title>
+  </titles>
+  <sponsor id="412250"/>
+  <cosponsors>
+    <cosponsor id="400087" joined="2009-05-06"/>
+    <cosponsor id="400344" joined="2009-12-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-05-06">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2009-12-08T10:47:00-05:00">
+      <text>Mr. Costa moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-12-08T10:47:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H13558-13560" label="consideration"/>
+    </action>
+    <action datetime="2009-12-08T10:47:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2278.</text>
+    </action>
+    <action datetime="2009-12-08T11:00:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2009-12-08T16:11:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H13598-13599" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-12-08T16:19:00-05:00" how="roll" result="pass" roll="936" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 3, 9 Present (Roll no. 936).</text>
+      <reference ref="CR H13558" label="text"/>
+    </vote>
+    <action datetime="2009-12-08T16:19:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-12-09">
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Congressional oversight"/>
+    <term name="Middle East"/>
+    <term name="News media and reporting"/>
+    <term name="Terrorism"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>12/8/2009--Passed House amended.
+Directs the President to submit an annual report to Congress regarding anti-American incitement to violence in the Middle East. Requires that such report include a country-by-country list of media outlets and satellite companies that engage in such incitement.</summary>
+</bill>

@@ -1,0 +1,90 @@
+<bill session="112" type="h" number="2745" updated="2013-07-20T01:34:02-04:00">
+  <state datetime="2012-05-16T15:21:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-05-16T15:21:00-04:00"/>
+  </status>
+  <introduced datetime="2011-08-01"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Mesquite Lands Act of 1986 to facilitate implementation of a multispecies habitat conservation plan for the Virgin River in Clark County, Nevada.</title>
+  </titles>
+  <sponsor id="412446"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2011-09-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-08-01">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2011-08-04">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-12-02">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-02-29">
+      <text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-02-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-02-29">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2012-05-10T15:24:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-474.</text>
+    </action>
+    <calendar datetime="2012-05-10T15:24:00-04:00" calendar="Union" number="332">
+      <text>Placed on the Union Calendar, Calendar No. 332.</text>
+    </calendar>
+    <action datetime="2012-05-15T17:15:00-04:00">
+      <text>Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-05-15T17:15:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2680-2681" label="consideration"/>
+    </action>
+    <action datetime="2012-05-15T17:15:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2745.</text>
+    </action>
+    <action datetime="2012-05-15T17:21:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Heinrich objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2012-05-16T15:21:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2745" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-05-16T15:21:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR 5/15/2012 H2680" label="text"/>
+    </vote>
+    <action datetime="2012-05-16T15:22:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-05-17">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="1473"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Lakes and rivers"/>
+    <term name="Land transfers"/>
+    <term name="Nevada"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>5/16/2012--Passed House amended.
+Amends Public Law 99-548, commonly known as the Mesquite Lands Act of 1986 (the Act), to require proceeds from sales in the fourth area to be used for the implementation of a multispecies habitat conservation plan for the Virgin River in Clark County, Nevada, including any associated groundwater monitoring plan. Extends, until November 29, 2020, withdrawal and purchase authority with respect to the fifth and sixth areas. Amends the Act to provide for the conveyance to the city of Mesquite, Nevada, of the approximately 218 acres of land identified as Hiatus on the map entitled "Mesquite Airport Conveyance " and dated January 13, 2012, from among the up to 2,560 acres of public land to be selected by the city from the sixth area. Amends the Act to require, if the public land conveyed to the city of Mesquite from the sixth area is not being used by the city as an airport or for another public purpose, such land to revert to the United States, at the option of the Secretary of the Interior, except that the city shall have an exclusive right to purchase the land. Grants the city of Mesquite, until November 29, 2020, the exclusive right to purchase the parcels of public land from the sixth area that the Secretary did not convey to the city pursuant to the Act. Requires the proceeds from the sale of each parcel to be deposited into the General Treasury.</summary>
+</bill>

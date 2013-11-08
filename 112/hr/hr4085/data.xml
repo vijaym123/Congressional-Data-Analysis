@@ -1,0 +1,45 @@
+<bill session="112" type="h" number="4085" updated="2013-07-20T01:45:26-04:00">
+  <state datetime="2012-02-17">REFERRED</state>
+  <status>
+    <introduced datetime="2012-02-17"/>
+  </status>
+  <introduced datetime="2012-02-17"/>
+  <titles>
+    <title as="introduced" type="short">MILC Continuation Act of 2012</title>
+    <title as="introduced" type="official">To amend the Food, Conservation, and Energy Act of 2008 to extend and improve the milk income loss contract program.</title>
+  </titles>
+  <sponsor id="412239"/>
+  <cosponsors>
+    <cosponsor id="412193" joined="2012-02-17"/>
+    <cosponsor id="400641" joined="2012-02-17"/>
+    <cosponsor id="412497" joined="2012-02-17"/>
+    <cosponsor id="400263" joined="2012-06-21"/>
+    <cosponsor id="400301" joined="2012-02-17"/>
+    <cosponsor id="412383" joined="2012-02-17"/>
+    <cosponsor id="412319" joined="2012-03-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-02-17">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2012-04-12">
+      <text>Referred to the Subcommittee on Livestock, Dairy, and Poultry.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG29" subcommittee="Livestock, Dairy, and Poultry" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="2126"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural marketing and promotion"/>
+    <term name="Agricultural prices, subsidies, credit"/>
+  </subjects>
+  <amendments/>
+  <summary>2/17/2012--Introduced.
+MILC Continuation Act of 2012 - Amends the Food, Conservation, and Energy Act of 2008 to extend, for one year, the milk income loss contract program.</summary>
+</bill>

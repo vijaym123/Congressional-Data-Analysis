@@ -1,0 +1,71 @@
+<bill session="113" type="h" number="1660" updated="2013-11-02T06:33:00-04:00">
+  <state datetime="2013-07-31T15:26:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-07-31T15:26:00-04:00"/>
+  </status>
+  <introduced datetime="2013-04-19"/>
+  <titles>
+    <title type="short" as="introduced">Government Customer Service Improvement Act of 2013</title>
+    <title type="short" as="passed house">Government Customer Service Improvement Act of 2013</title>
+    <title type="official" as="introduced">To require the establishment of Federal customer service standards and to improve the service provided by Federal agencies.</title>
+  </titles>
+  <sponsor id="400657"/>
+  <cosponsors>
+    <cosponsor id="412464" joined="2013-07-30"/>
+    <cosponsor id="400654" joined="2013-04-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-19" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2013-07-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar datetime="2013-07-24" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2013-07-31T15:17:00-04:00">
+      <text>Mr. Meadows moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2013-07-31T15:17:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5207-5209" label="consideration"/>
+    </action>
+    <action datetime="2013-07-31T15:17:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1660.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2013-07-31T15:26:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5207-5208" label="text"/>
+    </vote>
+    <action datetime="2013-07-31T15:26:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, In Committee"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="760"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Consumer affairs"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Office of Management and Budget (OMB)"/>
+    <term name="Performance measurement"/>
+  </subjects>
+  <amendments/>
+  <summary>7/31/2013--Passed House amended.
+Government Customer Service Improvement Act of 2013 - Requires the Director of the Office of Management and Budget (OMB) to develop government-wide standards for customer service delivery, which shall be included in the Federal Government Performance Plan. Requires such standards to include: (1) government-wide goals for continuous service improvements and efforts to modernize service delivery; and (2) government-wide target response times for telephone calls, electronic mail, mail, benefit processing, and payments. Directs: (1) the Performance Improvement Officer for each executive agency to establish customer service standards in accordance with such government-wide standards, which shall be included in agency performance plans; (2) the Director of OMB to establish a Customer Service Feedback Pilot Program which shall include participation by the Internal Revenue Service (IRS) and two additional agencies to collect information from agency customers on the quality of customer service provided; and (3) the Director to include agency achievements in meeting customer service performance standards in each required update on agency performance. Requires: (1) compliance with customer service standards developed under this Act to be included in agency employee appraisal systems, (2) the Director of OMB to establish a two-year Service Improvement Unit Pilot Program to provide assistance to agencies that do not meet such government-wide customer service standards, and (3) the Administrator of General Services (GSA) to provide administrative and other support to implement such Program. Requires the Director of the Office of Personnel Management (OPM) to: (1) submit to Congress and the Comptroller General (GAO) and issue publicly every month a report on information submitted by each federal agency about its employees who are retiring and pending applications for retirement benefits, (2) establish a timetable for completion of OPM's customer-focused retirement processing system and a deadline by which all federal payroll processing entities will electronically transmit all personnel data to OPM, and (3) include in each OPM annual budget request a statement on progress in completing its customer-focused retirement processing system.</summary>
+</bill>

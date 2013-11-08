@@ -1,0 +1,55 @@
+<bill session="113" type="h" number="3093" updated="2013-11-02T06:45:03-04:00">
+  <state datetime="2013-09-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-12"/>
+  </status>
+  <introduced datetime="2013-09-12"/>
+  <titles>
+    <title type="short" as="introduced">Union Bailout Prevention Act of 2013</title>
+    <title type="official" as="introduced">To exclude individuals who receive health insurance coverage pursuant to the terms of a collective bargaining agreement from tax credits and reductions in cost-sharing under the Patient Protection and Affordable Care Act.</title>
+  </titles>
+  <sponsor id="412478"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2013-09-12"/>
+    <cosponsor id="412427" joined="2013-09-19"/>
+    <cosponsor id="412400" joined="2013-09-12"/>
+    <cosponsor id="412526" joined="2013-09-18"/>
+    <cosponsor id="400116" joined="2013-09-12"/>
+    <cosponsor id="412476" joined="2013-09-12"/>
+    <cosponsor id="412401" joined="2013-09-12"/>
+    <cosponsor id="400220" joined="2013-09-19"/>
+    <cosponsor id="412191" joined="2013-09-25"/>
+    <cosponsor id="400627" joined="2013-09-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-12" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-09-12">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-09-12">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="1487"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Income tax credits"/>
+    <term name="Labor-management relations"/>
+  </subjects>
+  <amendments/>
+</bill>

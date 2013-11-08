@@ -1,0 +1,70 @@
+<bill session="111" type="h" number="1858" updated="2013-07-19T23:28:29-04:00">
+  <state datetime="2009-09-08T14:43:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-09-08T14:43:00-04:00"/>
+  </status>
+  <introduced datetime="2009-04-01"/>
+  <titles>
+    <title as="introduced" type="official">To provide for a boundary adjustment and land conveyances involving Roosevelt National Forest, Colorado, to correct the effects of an erroneous land survey that resulted in approximately 7 acres of the Crystal Lakes Subdivision, Ninth Filing, encroaching on National Forest System land, and for other purposes.</title>
+  </titles>
+  <sponsor id="412298"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2009-04-01">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E843"/>
+    </action>
+    <action state="REFERRED" datetime="2009-04-01">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-04-07">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-09-08T14:37:00-04:00">
+      <text>Mr. Grijalva moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-09-08T14:38:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9292-9293" label="consideration"/>
+    </action>
+    <action datetime="2009-09-08T14:38:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1858.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-09-08T14:43:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H9292" label="text"/>
+    </vote>
+    <action datetime="2009-09-08T14:43:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-09-09">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2010-09-29">
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <action datetime="2010-09-29">
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="National Parks" name="Senate Energy and Natural Resources"/>
+    <committee activity="Hearings" code="SSEG03" subcommittee="Public Lands and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Colorado"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+  <summary>9/8/2009--Passed House amended.
+Modifies the boundaries of Roosevelt National Forest, Colorado, to exclude from it a parcel of real property consisting of approximately seven acres that was erroneously included within the Crystal Lakes Subdivision, North Filing, as a result of the failure of a 1975 survey of the Subdivision to correctly locate the original quarter corners as specified. Directs the Secretary of Agriculture to use the authority provided by the Small Tracts Act to convey all interest of the United States in and to the real property excluded from the boundaries of Roosevelt National Forest under this Act to the landowners whose real property adjoins the excluded land and who have occupied the excluded land in good faith reliance on the erroneous survey. Reduces by a specified amount, and cancels the amount so reduced, the amount available for obligation from the unobligated balance in the special account for the deposit and expenditure of fees and revenues established for the Forest Service under the Federal Lands Recreation Enhancement Act.</summary>
+</bill>

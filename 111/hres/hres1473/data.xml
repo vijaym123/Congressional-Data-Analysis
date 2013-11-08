@@ -1,0 +1,80 @@
+<bill session="111" type="hr" number="1473" updated="2013-07-19T23:08:54-04:00">
+  <state datetime="2010-09-15T16:10:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2010-09-15T16:10:00-04:00"/>
+  </status>
+  <introduced datetime="2010-06-24"/>
+  <titles>
+    <title as="introduced" type="official">Supporting backcountry airstrips and recreational aviation.</title>
+  </titles>
+  <sponsor id="400335"/>
+  <cosponsors>
+    <cosponsor id="400044" joined="2010-06-24"/>
+    <cosponsor id="412267" joined="2010-07-13"/>
+    <cosponsor id="412270" joined="2010-06-29"/>
+    <cosponsor id="400119" joined="2010-06-24"/>
+    <cosponsor id="400158" joined="2010-06-29"/>
+    <cosponsor id="412300" joined="2010-06-24"/>
+    <cosponsor id="412302" joined="2010-06-29"/>
+    <cosponsor id="400316" joined="2010-07-19"/>
+    <cosponsor id="400620" joined="2010-07-01"/>
+    <cosponsor id="400376" joined="2010-06-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-06-24">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2010-06-25">
+      <text>Referred to the Subcommittee on Aviation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-07-29">
+      <text>Subcommittee on Aviation Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-07-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-07-29">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2010-09-14T19:37:00-04:00">
+      <text>Reported (Amended) by the Committee on Transportation. H. Rept. 111-593.</text>
+    </action>
+    <calendar datetime="2010-09-14T19:38:00-04:00" calendar="House" number="235">
+      <text>Placed on the House Calendar, Calendar No. 235.</text>
+    </calendar>
+    <action datetime="2010-09-15T16:05:00-04:00">
+      <text>Ms. Hirono moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2010-09-15T16:05:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6725-6726" label="consideration"/>
+    </action>
+    <action datetime="2010-09-15T16:05:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1473.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2010-09-15T16:10:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6725" label="text"/>
+    </vote>
+    <action datetime="2010-09-15T16:10:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW05" subcommittee="Aviation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Aviation and airports"/>
+    <term name="Congressional tributes"/>
+  </subjects>
+  <amendments/>
+  <summary>9/15/2010--Passed House amended.
+Recognizes the value of recreational aviation and backcountry airstrips located on the nation's public lands. Commends aviators and the various private organizations that maintain these airstrips for public use.</summary>
+</bill>

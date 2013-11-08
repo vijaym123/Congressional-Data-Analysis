@@ -1,0 +1,58 @@
+<bill session="113" type="h" number="1265" updated="2013-11-02T06:29:35-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title type="official" as="introduced">To require the continuation of tuition assistance programs for members of the Armed Forces for the remainder of fiscal year 2013.</title>
+  </titles>
+  <sponsor id="412575"/>
+  <cosponsors>
+    <cosponsor id="400010" joined="2013-03-20"/>
+    <cosponsor id="412571" joined="2013-04-18"/>
+    <cosponsor id="412532" joined="2013-03-21"/>
+    <cosponsor id="412453" joined="2013-03-19"/>
+    <cosponsor id="400179" joined="2013-03-20"/>
+    <cosponsor id="412557" joined="2013-03-20"/>
+    <cosponsor id="400240" joined="2013-03-21"/>
+    <cosponsor id="400263" joined="2013-03-21"/>
+    <cosponsor id="412518" joined="2013-04-15"/>
+    <cosponsor id="400295" joined="2013-03-20"/>
+    <cosponsor id="400326" joined="2013-03-20"/>
+    <cosponsor id="400349" joined="2013-03-20"/>
+    <cosponsor id="412219" joined="2013-03-21"/>
+    <cosponsor id="412318" joined="2013-03-20"/>
+    <cosponsor id="412522" joined="2013-04-15"/>
+    <cosponsor id="400433" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-19">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H1644"/>
+    </action>
+    <action datetime="2013-03-19" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2013-04-08">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="933"/>
+    <bill relation="identical" session="113" type="s" number="614"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2013--Introduced.
+Directs the Secretaries of the military departments to carry out tuition assistance programs for members of the Armed Forces during the remainder of FY2013, using funds appropriated for such programs under the Consolidated and Further Continuing Appropriations Act, 2013 reduced by a specified budget sequestration percentage.</summary>
+</bill>

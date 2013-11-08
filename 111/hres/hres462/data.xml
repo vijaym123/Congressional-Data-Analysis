@@ -1,0 +1,58 @@
+<bill session="111" type="hr" number="462" updated="2013-07-19T22:59:59-04:00">
+  <state datetime="2009-06-10">REPORTED</state>
+  <status>
+    <unknown datetime="2009-06-10"/>
+  </status>
+  <introduced datetime="2009-05-20"/>
+  <titles>
+    <title as="introduced" type="official">Requesting that the President transmit to the House of Representatives all information in his possession relating to specific communications with Chrysler LLC ("Chrysler").</title>
+  </titles>
+  <sponsor id="400235"/>
+  <cosponsors>
+    <cosponsor id="400055" joined="2009-05-20"/>
+    <cosponsor id="400061" joined="2009-05-20"/>
+    <cosponsor id="400082" joined="2009-06-04"/>
+    <cosponsor id="400651" joined="2009-05-20"/>
+    <cosponsor id="412294" joined="2009-05-20"/>
+    <cosponsor id="400260" joined="2009-05-20"/>
+    <cosponsor id="412202" joined="2009-05-20"/>
+    <cosponsor id="412317" joined="2009-05-20"/>
+    <cosponsor id="400406" joined="2009-05-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-05-20">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2009-06-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-06-10">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2009-06-12T12:17:00-04:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 111-147.</text>
+    </action>
+    <calendar datetime="2009-06-12T12:17:00-04:00" calendar="House" number="71">
+      <text>Placed on the House Calendar, Calendar No. 71.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Congressional oversight"/>
+    <term name="Corporate finance and management"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Industrial facilities"/>
+    <term name="Manufacturing"/>
+    <term name="Motor vehicles"/>
+  </subjects>
+  <amendments/>
+  <summary>6/12/2009--Reported to House without amendment.
+Directs the President to transmit to the House of Representatives copies of all documents, records, and communications in the President's possession referring or relating to certain scheduled plant closings of Chrysler LLC.</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="113" type="h" number="3066" updated="2013-11-02T06:44:49-04:00">
+  <state datetime="2013-09-09">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-09"/>
+  </status>
+  <introduced datetime="2013-09-09"/>
+  <titles>
+    <title type="short" as="introduced">No Special Deal for D.C. Insiders Act of 2013</title>
+    <title type="official" as="introduced">To amend the Patient Protection and Affordable Care Act to prohibit a government subsidy or contribution for the premiums of a health plan by a Member of Congress or Members' staff or congressional leadership or committee staff.</title>
+  </titles>
+  <sponsor id="412508"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-09-09" state="REFERRED">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-09-09">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2013-09-09">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Congressional officers and employees"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+</bill>

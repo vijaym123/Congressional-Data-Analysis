@@ -1,0 +1,94 @@
+<bill session="112" type="h" number="6025" updated="2013-07-20T02:02:01-04:00">
+  <state datetime="2012-11-27T16:42:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-11-27T16:42:00-05:00"/>
+  </status>
+  <introduced datetime="2012-06-26"/>
+  <titles>
+    <title as="introduced" type="short">Mandatory Operational Control Reporting and Performance Measures Act of 2012</title>
+    <title as="passed house" type="short">Mandatory Operational Control Reporting and Performance Measures Act of 2012</title>
+    <title as="introduced" type="official">To provide for annual reports on the status of operational control of the international land and maritime borders of the United States and unlawful entries, and for other purposes.</title>
+  </titles>
+  <sponsor id="400276"/>
+  <cosponsors>
+    <cosponsor id="400055" joined="2012-07-09"/>
+    <cosponsor id="412481" joined="2012-07-24"/>
+    <cosponsor id="400068" joined="2012-07-23"/>
+    <cosponsor id="400076" joined="2012-07-31"/>
+    <cosponsor id="412441" joined="2012-07-23"/>
+    <cosponsor id="400657" joined="2012-06-28"/>
+    <cosponsor id="400089" joined="2012-08-02"/>
+    <cosponsor id="400134" joined="2012-06-26"/>
+    <cosponsor id="400141" joined="2012-07-23"/>
+    <cosponsor id="412397" joined="2012-08-01"/>
+    <cosponsor id="400224" joined="2012-07-18"/>
+    <cosponsor id="412445" joined="2012-07-18"/>
+    <cosponsor id="400313" joined="2012-07-12"/>
+    <cosponsor id="412398" joined="2012-06-28"/>
+    <cosponsor id="412399" joined="2012-07-11"/>
+    <cosponsor id="412417" joined="2012-07-18"/>
+    <cosponsor id="400627" joined="2012-07-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-06-26">
+      <text>Referred to the Committee on Homeland Security, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2012-06-26">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2012-06-26">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2012-07-09">
+      <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+      <committee name="House Homeland Security"/>
+    </action>
+    <action datetime="2012-07-11">
+      <text>Referred to the Subcommittee on Immigration Policy and Enforcement.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <action datetime="2012-11-27T16:35:00-05:00">
+      <text>Mrs. Miller (MI) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-11-27T16:35:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6432-6434" label="consideration"/>
+    </action>
+    <action datetime="2012-11-27T16:35:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6025.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-11-27T16:42:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6432-6433" label="text"/>
+    </vote>
+    <action datetime="2012-11-27T16:42:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-11-28">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM11" subcommittee="Border and Maritime Security" name="House Homeland Security"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration Policy and Enforcement" name="House Judiciary"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Canada"/>
+    <term name="Congressional oversight"/>
+    <term name="Government information and archives"/>
+    <term name="Homeland security"/>
+    <term name="Latin America"/>
+    <term name="Mexico"/>
+    <term name="Performance measurement"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>11/27/2012--Passed House amended.
+Mandatory Operational Control Reporting and Performance Measures Act of 2012 - Directs the Secretary of Homeland Security (DHS), as part of DHS's annual performance report, to submit annual reports to Congress on: (1) the number of miles of the international land and maritime border between the United States and Canada and the United States and Mexico that are under operational DHS control, cumulatively and by sector; and (2) the estimated number of unlawful entries between ports of entry along the international land and maritime borders of the United States during the period covered by the report, determined using all available sources of data.</summary>
+</bill>

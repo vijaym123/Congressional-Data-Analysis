@@ -1,0 +1,45 @@
+<bill session="111" type="h" number="1544" updated="2013-07-19T23:25:42-04:00">
+  <state datetime="2009-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="2009-03-17"/>
+  </status>
+  <introduced datetime="2009-03-17"/>
+  <titles>
+    <title as="introduced" type="short">Veterans Mental Health Accessibility Act</title>
+    <title as="introduced" type="official">To amend title 38, United States Code, to provide for unlimited eligibility for health care for mental illnesses for veterans of combat service during certain periods of hostilities and war.</title>
+  </titles>
+  <sponsor id="412274"/>
+  <cosponsors>
+    <cosponsor id="412193" joined="2009-05-06"/>
+    <cosponsor id="400215" joined="2009-03-17"/>
+    <cosponsor id="400217" joined="2009-03-17"/>
+    <cosponsor id="412301" joined="2009-06-08"/>
+    <cosponsor id="400352" joined="2009-06-10"/>
+    <cosponsor id="400387" joined="2009-04-21"/>
+    <cosponsor id="412228" joined="2009-09-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-17">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-03-20">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Conflicts and wars"/>
+    <term name="Health care coverage and access"/>
+    <term name="Mental health"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/2009--Introduced.
+Veterans Mental Health Accessibility Act - Makes any veteran who served on active duty in a theater of combat operations during World War II, the Korean conflict, the Vietnam era, the Persian Gulf War, Operations Iraqi Freedom or Enduring Freedom, or any other period of war after the Persian Gulf War, or in combat against a hostile force during a period of hostilities, eligible for hospital care, medical services, and nursing home care for any mental illness through the Department of Veterans Affairs (VA), notwithstanding insufficient medical evidence to conclude that the mental illness is attributable to such service.</summary>
+</bill>

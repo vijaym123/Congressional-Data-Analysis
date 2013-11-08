@@ -1,0 +1,71 @@
+<bill session="113" type="h" number="3077" updated="2013-11-02T06:44:55-04:00">
+  <state datetime="2013-09-10">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-10"/>
+  </status>
+  <introduced datetime="2013-09-10"/>
+  <titles>
+    <title type="short" as="introduced">TELE-MED Act of 2013</title>
+    <title type="short" as="introduced">TELEmedicine for MEDicare Act of 2013</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to permit certain Medicare providers licensed in a State to provide telemedicine services to certain Medicare beneficiaries in a different State.</title>
+  </titles>
+  <sponsor id="400297"/>
+  <cosponsors>
+    <cosponsor id="400010" joined="2013-09-25"/>
+    <cosponsor id="412563" joined="2013-10-28"/>
+    <cosponsor id="412406" joined="2013-09-27"/>
+    <cosponsor id="412401" joined="2013-10-15"/>
+    <cosponsor id="400165" joined="2013-10-11"/>
+    <cosponsor id="412280" joined="2013-09-17"/>
+    <cosponsor id="400185" joined="2013-10-11"/>
+    <cosponsor id="412465" joined="2013-09-19"/>
+    <cosponsor id="412421" joined="2013-10-28"/>
+    <cosponsor id="412290" joined="2013-09-19"/>
+    <cosponsor id="412445" joined="2013-09-18"/>
+    <cosponsor id="412293" joined="2013-10-22"/>
+    <cosponsor id="400656" joined="2013-09-19"/>
+    <cosponsor id="400654" joined="2013-10-15"/>
+    <cosponsor id="400273" joined="2013-09-20"/>
+    <cosponsor id="412302" joined="2013-10-02"/>
+    <cosponsor id="400308" joined="2013-09-10"/>
+    <cosponsor id="400309" joined="2013-10-16"/>
+    <cosponsor id="412523" joined="2013-10-23"/>
+    <cosponsor id="412462" joined="2013-09-25"/>
+    <cosponsor id="412310" joined="2013-10-08"/>
+    <cosponsor id="412202" joined="2013-10-28"/>
+    <cosponsor id="412314" joined="2013-10-11"/>
+    <cosponsor id="412186" joined="2013-10-08"/>
+    <cosponsor id="400400" joined="2013-10-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-10" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-09-10">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-09-10">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Computers and information technology"/>
+    <term name="Health information and medical records"/>
+    <term name="Health personnel"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Internet and video services"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+</bill>

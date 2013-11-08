@@ -1,0 +1,54 @@
+<bill session="111" type="h" number="3550" updated="2013-07-19T23:44:08-04:00">
+  <state datetime="2009-09-10">REFERRED</state>
+  <status>
+    <introduced datetime="2009-09-10"/>
+  </status>
+  <introduced datetime="2009-09-10"/>
+  <titles>
+    <title as="introduced" type="short">Senior Investor Protections Enhancement Act of 2009</title>
+    <title as="introduced" type="official">To enhance penalties for violations of securities protections that involve targeting seniors.</title>
+  </titles>
+  <sponsor id="412220"/>
+  <cosponsors>
+    <cosponsor id="412200" joined="2009-09-15"/>
+    <cosponsor id="400661" joined="2009-09-10"/>
+    <cosponsor id="400360" joined="2009-09-15"/>
+    <cosponsor id="412319" joined="2010-01-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-09-10">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-09-10">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2009-09-10">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2009-10-19">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="1659"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Aging"/>
+    <term name="Civil actions and liability"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Financial services and investments"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Securities"/>
+    <term name="U.S. Sentencing Commission"/>
+  </subjects>
+  <amendments/>
+  <summary>9/10/2009--Introduced.
+Senior Investor Protections Enhancement Act of 2009 - Amends the Securities Act of 1933, the Securities Exchange Act of 1934, the Investment Company Act of 1940, and the Investment Advisers Act of 1940 to authorize the Securities and Exchange Commission (SEC) to impose, in addition to any other civil penalty, a maximum civil penalty of $50,000 for each violation that is directed toward, targets, or is committed against a person who at the time of the violation is age 62 or older. Directs the United States Sentencing Commission to review and amend federal sentencing guidelines and policy statements to ensure that guideline offense levels and enhancements appropriately punish criminal violations of the securities laws against seniors.</summary>
+</bill>

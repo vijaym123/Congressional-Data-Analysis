@@ -1,0 +1,105 @@
+<bill session="111" type="hc" number="258" updated="2013-07-20T00:15:14-04:00">
+  <state datetime="2010-07-27T11:57:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-07-27T11:57:00-04:00"/>
+  </status>
+  <introduced datetime="2010-03-25"/>
+  <titles>
+    <title as="introduced" type="official">Congratulating the Commandant of the Coast Guard and the Superintendent of the Coast Guard Academy and its staff for 100 years of operation of the Coast Guard Academy in New London, Connecticut, and for other purposes.</title>
+  </titles>
+  <sponsor id="412193"/>
+  <cosponsors>
+    <cosponsor id="400017" joined="2010-03-25"/>
+    <cosponsor id="400031" joined="2010-03-25"/>
+    <cosponsor id="400041" joined="2010-03-25"/>
+    <cosponsor id="400047" joined="2010-03-25"/>
+    <cosponsor id="400616" joined="2010-03-25"/>
+    <cosponsor id="400076" joined="2010-03-25"/>
+    <cosponsor id="400655" joined="2010-03-25"/>
+    <cosponsor id="400103" joined="2010-03-25"/>
+    <cosponsor id="412222" joined="2010-03-25"/>
+    <cosponsor id="412200" joined="2010-03-25"/>
+    <cosponsor id="400199" joined="2010-04-13"/>
+    <cosponsor id="400217" joined="2010-03-25"/>
+    <cosponsor id="412191" joined="2010-03-25"/>
+    <cosponsor id="400230" joined="2010-03-25"/>
+    <cosponsor id="400233" joined="2010-03-25"/>
+    <cosponsor id="400273" joined="2010-03-25"/>
+    <cosponsor id="400274" joined="2010-03-25"/>
+    <cosponsor id="412194" joined="2010-03-25"/>
+    <cosponsor id="400331" joined="2010-04-20"/>
+    <cosponsor id="400347" joined="2010-03-25"/>
+    <cosponsor id="400356" joined="2010-03-25"/>
+    <cosponsor id="412219" joined="2010-03-25"/>
+    <cosponsor id="400399" joined="2010-03-25"/>
+    <cosponsor id="412255" joined="2010-03-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-03-25">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2010-03-26">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-07-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-07-01">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2010-07-01">
+      <text>Subcommittee on Coast Guard and Maritime Transportation Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-07-15T15:15:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 111-541.</text>
+    </action>
+    <calendar datetime="2010-07-15T15:15:00-04:00" calendar="House" number="216">
+      <text>Placed on the House Calendar, Calendar No. 216.</text>
+    </calendar>
+    <action datetime="2010-07-27T11:35:00-04:00">
+      <text>Mr. Cummings moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2010-07-27T11:35:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6071-6074" label="consideration"/>
+    </action>
+    <action datetime="2010-07-27T11:35:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 258.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-07-27T11:57:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H6071" label="text"/>
+    </vote>
+    <action datetime="2010-07-27T11:57:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-07-28">
+      <text>Received in the Senate and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="sc" number="56"/>
+    <bill relation="unknown" session="111" type="sc" number="56"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Coast guard"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Connecticut"/>
+    <term name="Military education and training"/>
+    <term name="Military history"/>
+  </subjects>
+  <amendments/>
+  <summary>7/27/2010--Passed House without amendment.
+Congratulates the Commandant of the Coast Guard and the Superintendent of the Coast Guard Academy and its staff for 100 years of operation of the Coast Guard Academy in New London, Connecticut.</summary>
+</bill>

@@ -1,0 +1,96 @@
+<bill session="111" type="s" number="3717" updated="2013-07-20T00:58:58-04:00">
+  <state datetime="2010-10-05">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2010-10-05"/>
+  </status>
+  <introduced datetime="2010-08-05"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend the Securities Exchange Act of 1934, the Investment Company Act of 1940, and the Investment Advisers Act of 1940 to provide for certain disclosures under section 552 of title 5, United States Code, (commonly referred to as the Freedom of Information Act), and for other purposes.</title>
+  </titles>
+  <sponsor id="300065"/>
+  <cosponsors>
+    <cosponsor id="300027" joined="2010-08-05"/>
+    <cosponsor id="300048" joined="2010-08-05"/>
+    <cosponsor id="412329" joined="2010-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2010-08-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S6889, S6889-6890"/>
+    </action>
+    <action state="REFERRED" datetime="2010-08-05">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S6889" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-09-16">
+      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2010-09-16">
+      <text>Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2010-09-16" calendar="Senate Legislative" under="General Orders" number="567">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 567.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2010-09-21" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S7298-7299" label="consideration"/>
+      <reference ref="CR S7299" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2010-09-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2010-09-22T14:05:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2010-09-22T15:30:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2010-09-23T16:57:00-04:00">
+      <text>Mr. Frank (MA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-09-23T16:57:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6952-6955" label="consideration"/>
+    </action>
+    <action datetime="2010-09-23T16:57:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 3717.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2010-09-23T17:21:00-04:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6952" label="text"/>
+    </vote>
+    <action datetime="2010-09-23T17:21:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2010-09-23">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2010-09-24">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2010-10-05">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2010-10-05" type="public" number="111-257">
+      <text>Became Public Law No: 111-257.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="h" number="6086"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Business records"/>
+    <term name="Financial services and investments"/>
+    <term name="Freedom of information"/>
+    <term name="Government information and archives"/>
+    <term name="Securities"/>
+  </subjects>
+  <amendments/>
+  <summary>10/5/2010--Public Law.
+Amends the Securities Exchange Act of 1934 to repeal the prohibition of the Dodd-Frank Wall Street Reform and Consumer Protection Act against compelling the Securities and Exchange Commission (SEC) to disclose records or information obtained from registered persons pursuant to its regulatory or oversight activities. Declares that for purposes of the Freedom of Information Act (FOIA): (1) the SEC is an agency responsible for the regulation or supervision of financial institutions; and (2) any entity for which the SEC is the responsible regulator, supervisor, or examiner under such Act is a financial institution. (Thus retains the general exemption from FOIA of matters contained in or related to examination, operating, or condition reports prepared by, on behalf of, or for the use of the SEC and any other agency responsible for the regulation or supervision of financial institutions.) Amends the Investment Company Act and the Investment Advisers Act to repeal similar prohibitions against compelling the SEC to disclose records or information provided to it by a registered investment company or investment adviser, or an underwriter, broker, dealer, or investment adviser that is a majority-owned subsidiary of such a company, for SEC use in furtherance of certain purposes, including surveillance, risk assessments, or other regulatory and oversight activities.</summary>
+</bill>

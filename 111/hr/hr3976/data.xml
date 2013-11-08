@@ -1,0 +1,102 @@
+<bill session="111" type="h" number="3976" updated="2013-07-19T23:47:59-04:00">
+  <state datetime="2010-03-23T16:33:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-03-23T16:33:00-04:00"/>
+  </status>
+  <introduced datetime="2009-10-29"/>
+  <titles>
+    <title as="introduced" type="short">Helping Heroes Keep Their Homes Act of 2009</title>
+    <title as="reported to house" type="short">Veterans Employment and Home Preservation Act of 2010</title>
+    <title as="passed house" type="short">Helping Heroes Keep Their Homes Act of 2010</title>
+    <title as="introduced" type="official">To extend certain expiring provisions providing enhanced protections for servicemembers relating to mortgages and mortgage foreclosure.</title>
+  </titles>
+  <sponsor id="412304"/>
+  <cosponsors>
+    <cosponsor id="400056" joined="2010-03-11"/>
+    <cosponsor id="412316" joined="2010-03-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-10-29">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-10-30">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-02-25">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-03-04">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-03-04">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-03-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-03-04">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2010-03-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar datetime="2010-03-10">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2010-03-22T14:44:00-04:00">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-451.</text>
+    </action>
+    <calendar datetime="2010-03-22T14:45:00-04:00" calendar="Union" number="260">
+      <text>Placed on the Union Calendar, Calendar No. 260.</text>
+    </calendar>
+    <action datetime="2010-03-22T14:52:00-04:00">
+      <text>Mr. Filner moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-03-22T14:52:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2183-2184" label="consideration"/>
+    </action>
+    <action datetime="2010-03-22T14:52:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3976.</text>
+    </action>
+    <action datetime="2010-03-22T14:57:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Filner objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2010-03-23T16:24:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2240-2241" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-03-23T16:33:00-04:00" how="roll" result="pass" roll="176" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 416 - 4 (Roll no. 176).</text>
+      <reference ref="CR 3/22/2010 H2183" label="text"/>
+    </vote>
+    <action datetime="2010-03-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="4058"/>
+    <bill relation="unknown" session="111" type="s" number="4058"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/2010--Passed House amended.
+Helping Heroes Keep Their Homes Act of 2010 - Amends the Housing and Economic Recovery Act of 2008 to extend through December 31, 2015, specified protections for servicemembers relating to mortgages and mortgage foreclosures. Delays until January 1, 1916, revival of provisions of the Servicemembers Civil Relief Act: (1) allowing, or upon servicemember application requiring, a stay of court proceedings to enforce and adjust a mortgage obligation when the servicemember's ability to comply with such obligation is materially affected by military service; and (2) invalidating the sale, foreclosure, or seizure of property due to a servicemember's breach of obligation, except in certain circumstances. Amends the Servicemembers Civil Relief Act to state that its requirements governing a servicemember's real or personal property secured by a mortgage apply also to the surviving spouse of a servicemember who dies while in military service and whose death is service-connected, if the spouse is the successor in interest to such property.</summary>
+</bill>

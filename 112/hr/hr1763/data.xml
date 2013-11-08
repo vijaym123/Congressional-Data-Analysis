@@ -1,0 +1,42 @@
+<bill session="112" type="h" number="1763" updated="2013-07-20T01:25:33-04:00">
+  <state datetime="2011-05-05">REFERRED</state>
+  <status>
+    <introduced datetime="2011-05-05"/>
+  </status>
+  <introduced datetime="2011-05-05"/>
+  <titles>
+    <title as="introduced" type="official">To close the loophole that allowed the 9/11 hijackers to obtain credit cards from United States banks that financed their terrorist activities, to ensure that illegal immigrants cannot obtain credit cards to evade United States immigration laws, and for other purposes.</title>
+  </titles>
+  <sponsor id="400636"/>
+  <cosponsors>
+    <cosponsor id="412395" joined="2011-07-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-05-05">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2011-07-29">
+      <text>Referred to the Subcommittee on Financial Institutions and Consumer Credit.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA15" subcommittee="Financial Institutions and Consumer Credit" name="House Financial Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="86"/>
+    <bill relation="identical" session="112" type="s" number="86"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Citizenship and naturalization"/>
+    <term name="Consumer credit"/>
+    <term name="Social security and elderly assistance"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>5/5/2011--Introduced.
+Authorizes a financial institution, when verifying the identity of a non-U.S. citizen or national who is seeking to open a bank account, to accept only: (1) a Social Security number, (2) a passport number and the country of issuance, (3) an alien identification card number, or (4) any combination of such items. Prohibits a financial institution, for such verification purposes, from accepting identification documents issued by a foreign government, other than an unexpired passport.</summary>
+</bill>

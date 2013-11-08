@@ -1,0 +1,46 @@
+<bill session="111" type="h" number="5683" updated="2013-07-20T00:03:52-04:00">
+  <state datetime="2010-07-01">REFERRED</state>
+  <status>
+    <introduced datetime="2010-07-01"/>
+  </status>
+  <introduced datetime="2010-07-01"/>
+  <titles>
+    <title as="introduced" type="official">To improve certain administrative operations of the Office of the Architect of the Capitol, and for other purposes.</title>
+  </titles>
+  <sponsor id="400047"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-01">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2010-07-01">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2010-07-01">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2010-07-02">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="6399"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Architect of the Capitol"/>
+    <term name="Congressional agencies"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>7/1/2010--Introduced.
+Amends the Legislative Branch Appropriations Act, 1991 to increase from up to 12 to up to 32 the number of positions under the Architect of the Capitol (AOC) jurisdiction for which the AOC may fix the rate of basic pay at a rate not to exceed the highest total rate of pay for the Senior Executive Service for the locality involved. Amends the Legislative Branch Appropriations Act, 2003 to specify that any multiyear contract for the acquisition of property the AOC is authorized to enter into may include a lease for between one and 10 program years.</summary>
+</bill>

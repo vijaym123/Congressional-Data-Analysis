@@ -1,0 +1,122 @@
+<bill session="113" type="h" number="992" updated="2013-11-02T06:27:19-04:00">
+  <state datetime="2013-10-30T14:28:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-10-30T14:28:00-04:00"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title type="short" as="introduced">Swaps Regulatory Improvement Act</title>
+    <title type="short" as="reported to house">Swaps Regulatory Improvement Act</title>
+    <title type="short" as="reported to house">Swaps Regulatory Improvement Act</title>
+    <title type="short" as="reported to house">Swaps Regulatory Improvement Act</title>
+    <title type="official" as="introduced">To amend provisions in section 716 of the Dodd-Frank Wall Street Reform and Consumer Protection Act relating to Federal assistance for swaps entities.</title>
+  </titles>
+  <sponsor id="412422"/>
+  <cosponsors>
+    <cosponsor id="400010" joined="2013-04-16"/>
+    <cosponsor id="400655" joined="2013-03-19"/>
+    <cosponsor id="400145" joined="2013-03-19"/>
+    <cosponsor id="412282" joined="2013-03-06"/>
+    <cosponsor id="412550" joined="2013-03-06"/>
+    <cosponsor id="412562" joined="2013-03-06"/>
+    <cosponsor id="412534" joined="2013-05-08"/>
+    <cosponsor id="400363" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-06" state="REFERRED">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Committee Hearings Held.</text>
+      <committee name="House Agriculture"/>
+    </action>
+    <action datetime="2013-03-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Agriculture"/>
+    </action>
+    <calendar datetime="2013-03-20" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 31 - 14.</text>
+      <committee name="House Agriculture"/>
+    </calendar>
+    <action datetime="2013-04-11">
+      <text>Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Referral.</text>
+    </action>
+    <action datetime="2013-05-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2013-05-07">
+      <text>Ordered to be Reported by the Yeas and Nays: 53 - 6.</text>
+    </calendar>
+    <action datetime="2013-09-25T19:25:00-04:00">
+      <text>Reported by the Committee on Financial Services. H. Rept. 113-229, Part I.</text>
+    </action>
+    <action datetime="2013-09-25T19:25:00-04:00">
+      <text>Reported by the Committee on Agriculture. H. Rept. 113-229, Part II.</text>
+    </action>
+    <calendar datetime="2013-09-25T19:26:00-04:00" calendar="Union" number="169">
+      <text>Placed on the Union Calendar, Calendar No. 169.</text>
+    </calendar>
+    <action datetime="2013-10-30T12:40:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 391.</text>
+      <reference ref="CR H6916-6928" label="consideration"/>
+    </action>
+    <action datetime="2013-10-30T12:40:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 992.</text>
+    </action>
+    <action datetime="2013-10-30T13:48:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H6925" label="consideration"/>
+    </action>
+    <action datetime="2013-10-30T13:49:00-04:00">
+      <text>Ms. Brownley (CA) moved to recommit with instructions to Financial Services.</text>
+      <reference ref="CR H6925-6927" label="consideration"/>
+      <reference ref="CR H6925" label="text"/>
+    </action>
+    <action datetime="2013-10-30T13:49:00-04:00">
+      <text>Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Brownley motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to prohibit any restriction on the ability of financial regulators to ensure that financial institutions comply with laws prohibiting the manipulation of commodity markets, especially with regard to speculation in oil and biofuel contracts.</text>
+    </action>
+    <action datetime="2013-10-30T13:56:00-04:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H6926" label="consideration"/>
+    </action>
+    <action datetime="2013-10-30T14:21:00-04:00">
+      <text>On motion to recommit with instructions Failed by the Yeas and Nays: 190 - 223 (Roll no. 568).</text>
+    </action>
+    <vote how="roll" type="vote" roll="569" datetime="2013-10-30T14:28:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by recorded vote: 292 - 122 (Roll no. 569).</text>
+      <reference ref="CR H6916" label="text"/>
+    </vote>
+    <action datetime="2013-10-30T14:28:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-10-31">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee activity="Hearings" code="HSBA16" subcommittee="Capital Markets and Government Sponsored Enterprises" name="House Financial Services"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Hearings, Markup, Reporting, In Committee"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="hr" number="391"/>
+    <bill relation="identical" session="113" type="s" number="474"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Financial crises and stabilization"/>
+    <term name="Financial services and investments"/>
+    <term name="Securities"/>
+  </subjects>
+  <amendments/>
+  <summary>3/6/2013--Introduced.
+Swaps Regulatory Improvement Act - Amends the Dodd-Frank Wall Street Reform and Consumer Protection Act with respect to the prohibition against certain federal assistance to swaps entities, namely the use of any advances from specified Federal Reserve credit facilities or discount windows, or Federal Deposit Insurance Corporation (FDIC) insurance or guarantees, for the purpose of: (1) making any loan to, or purchasing any stock, equity interest, or debt obligation of, any swaps entity; (2) purchasing the assets of any swaps entity; (3) guaranteeing any loan or debt issuance of any swaps entity; or (4) entering into any assistance arrangement (including tax breaks), loss sharing, or profit sharing with any swaps entity. Extends to any major swap participant or major security-based swap participant that is an uninsured U.S. branch or agency of a foreign bank the exemption from the prohibition against federal assistance to swaps entities which is currently limited to any major swap participant or major security-based swap participant that is an FDIC-insured bank or savings association. Designates both uninsured U.S. branches or agencies of a foreign bank and insured depository institutions as "covered depository institutions." Requires any covered depository institution exempted from the prohibition to limit its swap and security-based swap activities to hedging and similar risk mitigating activities (as under current law), non-structured finance swap activities, or certain structured finance swap activities. (Defines "structured finance swap" as a swap or security-based swap based on an asset-backed security [or group or index primarily composed of asset-backed securities].) Qualifies a structured finance swap activity for the exemption if: (1) it is undertaken for hedging or risk management purposes, or (2) each asset-backed security underlying the structured finance swap is of a credit quality and of a type or category with respect to which the prudential regulators have jointly adopted rules authorizing such a swap or security-based swap activity by covered depository institutions. Repeals the exemption from the prohibition for any insured depository institution that limits its swap and security-based swap activities to acting as a swaps entity for: (1) swaps or security-based swaps involving rates or reference assets that are permissible for investment by a national bank; or (2) credit default swaps, including those referencing the credit risk of asset-backed securities unless they are cleared by a derivatives clearing organization or a clearing agency registered, or exempt from registration, under the Commodity Exchange Act or the Securities Exchange Act.</summary>
+</bill>

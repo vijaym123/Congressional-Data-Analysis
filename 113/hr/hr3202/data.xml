@@ -1,0 +1,37 @@
+<bill session="113" type="h" number="3202" updated="2013-11-02T06:45:57-04:00">
+  <state datetime="2013-09-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-27"/>
+  </status>
+  <introduced datetime="2013-09-27"/>
+  <titles>
+    <title type="short" as="introduced">Essential Transportation Worker Identification Credential Assessment Act</title>
+    <title type="official" as="introduced">To require the Secretary of Homeland Security to prepare a comprehensive security assessment of the transportation security card program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400199"/>
+  <cosponsors>
+    <cosponsor id="400276" joined="2013-09-27"/>
+    <cosponsor id="400402" joined="2013-09-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-27" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2013-10-07">
+      <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2013-10-07">
+      <text>Referred to the Subcommittee on Transportation Security.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM11" subcommittee="Border and Maritime Security" name="House Homeland Security"/>
+    <committee activity="Referral" code="HSHM07" subcommittee="Transportation Security" name="House Homeland Security"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

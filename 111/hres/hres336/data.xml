@@ -1,0 +1,55 @@
+<bill session="111" type="hr" number="336" updated="2013-07-19T22:58:53-04:00">
+  <state datetime="2009-04-22T12:36:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2009-04-22T12:36:00-04:00"/>
+  </status>
+  <introduced datetime="2009-04-21"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals and ideals of National Library Week.</title>
+  </titles>
+  <sponsor id="400119"/>
+  <cosponsors>
+    <cosponsor id="400162" joined="2009-04-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-04-21">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2009-04-22T12:26:00-04:00">
+      <text>Mr. Tonko moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2009-04-22T12:26:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4613-4615" label="consideration"/>
+    </action>
+    <action datetime="2009-04-22T12:26:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 336.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2009-04-22T12:36:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H4613-4614" label="text"/>
+    </vote>
+    <action datetime="2009-04-22T12:36:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-06-04">
+      <text>Referred to the Subcommittee on Healthy Families and Communities.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral"/>
+    <committee activity="Referral" code="HSED04" subcommittee="Healthy Families and Communities" name="House Education and Labor"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hr" number="1222"/>
+  </relatedbills>
+  <subjects>
+    <term name="Arts, culture, religion"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Libraries and archives"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/2009--Passed House without amendment.
+Supports the goals and ideals of National Library Week (April 12-18, 2009).</summary>
+</bill>

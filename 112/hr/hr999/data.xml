@@ -1,0 +1,83 @@
+<bill session="112" type="h" number="999" updated="2013-07-20T01:18:59-04:00">
+  <state datetime="2011-03-10">REFERRED</state>
+  <status>
+    <introduced datetime="2011-03-10"/>
+  </status>
+  <introduced datetime="2011-03-10"/>
+  <titles>
+    <title as="introduced" type="short">Medicare Prescription Drug Savings and Choice Act of 2011</title>
+    <title as="introduced" type="official">To amend title XVIII of the Social Security Act to deliver a meaningful benefit and lower prescription drug prices under the Medicare Program.</title>
+  </titles>
+  <sponsor id="400360"/>
+  <cosponsors>
+    <cosponsor id="400062" joined="2011-03-10"/>
+    <cosponsor id="400638" joined="2011-03-16"/>
+    <cosponsor id="412195" joined="2011-06-21"/>
+    <cosponsor id="412236" joined="2011-03-16"/>
+    <cosponsor id="400080" joined="2011-08-16"/>
+    <cosponsor id="400100" joined="2011-05-10"/>
+    <cosponsor id="400101" joined="2011-03-10"/>
+    <cosponsor id="412385" joined="2011-03-16"/>
+    <cosponsor id="400129" joined="2011-03-10"/>
+    <cosponsor id="400140" joined="2011-03-10"/>
+    <cosponsor id="400162" joined="2011-03-10"/>
+    <cosponsor id="400641" joined="2011-06-15"/>
+    <cosponsor id="400178" joined="2011-03-10"/>
+    <cosponsor id="400185" joined="2011-03-10"/>
+    <cosponsor id="400227" joined="2011-03-14"/>
+    <cosponsor id="400237" joined="2011-03-10"/>
+    <cosponsor id="400240" joined="2011-08-16"/>
+    <cosponsor id="400630" joined="2011-03-10"/>
+    <cosponsor id="400246" joined="2011-03-16"/>
+    <cosponsor id="400251" joined="2011-03-10"/>
+    <cosponsor id="400259" joined="2011-03-10"/>
+    <cosponsor id="400278" joined="2011-03-10"/>
+    <cosponsor id="400312" joined="2011-03-10"/>
+    <cosponsor id="412307" joined="2011-03-10"/>
+    <cosponsor id="400326" joined="2011-03-10"/>
+    <cosponsor id="400366" joined="2011-03-10"/>
+    <cosponsor id="400387" joined="2011-03-10"/>
+    <cosponsor id="400425" joined="2011-03-10"/>
+    <cosponsor id="400426" joined="2011-03-10"/>
+    <cosponsor id="412412" joined="2011-03-14"/>
+    <cosponsor id="400436" joined="2011-03-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-03-10">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-03-10">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2011-03-10">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2011-03-14">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Ways and Means"/>
+    </action>
+    <action datetime="2011-03-15">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="560"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative remedies"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Medicare"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/2011--Introduced.
+Medicare Prescription Drug Savings and Choice Act of 2011 - Amends part D (Voluntary Prescription Drug Benefit Program) of title XVIII (Medicare) of the Social Security Act to provide for: (1) establishment of one or more Medicare operated prescription drug plan options; and (2) an appeals process for denials of benefits under a Medicare operated prescription drug plan.</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="113" type="h" number="3005" updated="2013-11-02T06:44:19-04:00">
+  <state datetime="2013-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-02"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="short" as="introduced">Medical Testing Availability Act of 2013</title>
+    <title type="official" as="introduced">To amend chapter V of the Federal Food, Drug, and Cosmetic Act to permit the sale of, and access to, "research use only" products in diagnostic tests.</title>
+  </titles>
+  <sponsor id="400052"/>
+  <cosponsors>
+    <cosponsor id="412516" joined="2013-10-07"/>
+    <cosponsor id="400124" joined="2013-09-18"/>
+    <cosponsor id="400157" joined="2013-09-26"/>
+    <cosponsor id="400641" joined="2013-09-26"/>
+    <cosponsor id="400185" joined="2013-09-10"/>
+    <cosponsor id="412259" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Consumer affairs"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Medical research"/>
+    <term name="Product safety and quality"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="111" type="h" number="2307" updated="2013-07-19T23:32:37-04:00">
+  <state datetime="2009-05-07">REFERRED</state>
+  <status>
+    <introduced datetime="2009-05-07"/>
+  </status>
+  <introduced datetime="2009-05-07"/>
+  <titles>
+    <title as="introduced" type="short">RE-Aligning Care Act</title>
+    <title as="introduced" type="short">Reaching Elders with Assessment and Chronic Care Management and Coordination Act</title>
+    <title as="introduced" type="official">To amend title XVIII of the Social Security Act to provide Medicare beneficiaries with access to geriatric assessments and chronic care management and coordination services, and for other purposes.</title>
+  </titles>
+  <sponsor id="400160"/>
+  <cosponsors>
+    <cosponsor id="400414" joined="2009-05-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-05-07">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-05-07">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-05-07">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2009-05-11">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="1004"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Aging"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health information and medical records"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>5/7/2009--Introduced.
+Reaching Elders with Assessment and Chronic Care Management and Coordination Act or RE-Aligning Care Act - Amends title XVIII (Medicare) of the Social Security Act to provide for Medicare part B (Supplementary Medical Insurance) coverage of geriatric assessments and chronic care management and coordination services. Directs the Secretary of Health and Human Services to conduct outreach activities to inform likely eligible individuals of such assessments and services. Authorizes Medicare coverage for telehealth services to furnish such assessments and services. Directs the Secretary to contract for a study and report to Congress and the Secretary on: (1) the effectiveness of such coverage in improving the quality of care provided to Medicare beneficiaries with chronic conditions; and (2) the impact of such assessments and services on reducing Medicare expenditures.</summary>
+</bill>

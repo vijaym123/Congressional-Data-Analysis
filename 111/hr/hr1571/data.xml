@@ -1,0 +1,49 @@
+<bill session="111" type="h" number="1571" updated="2013-07-19T23:25:56-04:00">
+  <state datetime="2009-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="2009-03-17"/>
+  </status>
+  <introduced datetime="2009-03-17"/>
+  <titles>
+    <title as="introduced" type="short">Private Investment in Commuter Vanpooling Act of 2009</title>
+    <title as="introduced" type="official">To amend title 49, United States Code, to permit certain revenues of private providers of public transportation by vanpool received from providing public transportation to be used for the purpose of acquiring rolling stock, and to permit certain expenditures of private vanpool contractors to be credited toward the local matching share of the costs of public transportation projects.</title>
+  </titles>
+  <sponsor id="400396"/>
+  <cosponsors>
+    <cosponsor id="400638" joined="2009-03-30"/>
+    <cosponsor id="400342" joined="2009-03-17"/>
+    <cosponsor id="412010" joined="2009-04-21"/>
+    <cosponsor id="412186" joined="2009-05-05"/>
+    <cosponsor id="400387" joined="2009-03-30"/>
+    <cosponsor id="400627" joined="2009-03-23"/>
+    <cosponsor id="400440" joined="2009-04-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-17">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2009-03-18">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="1795"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Commuting"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Motor carriers"/>
+    <term name="Public transit"/>
+    <term name="State and local finance"/>
+    <term name="Transportation programs funding"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/2009--Introduced.
+Private Investment in Commuter Vanpooling Act of 2009 - Allows the local matching share provided by a public transportation capital project assistance recipient to include expenditures by a private commuter vanpooling service provider to acquire rolling stock (vans). Authorizes such a private provider to use vanpool revenues exceeding operating costs to acquire such vans, if there is a binding agreement requiring the vans to be used in the state or local government's service area.</summary>
+</bill>

@@ -1,0 +1,53 @@
+<bill session="112" type="h" number="2081" updated="2013-07-20T01:28:15-04:00">
+  <state datetime="2011-06-01">REFERRED</state>
+  <status>
+    <introduced datetime="2011-06-01"/>
+  </status>
+  <introduced datetime="2011-06-01"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Federal Deposit Insurance Act to replace the Director of the Bureau of Consumer Financial Protection with the Chairman of the Board of Governors of the Federal Reserve System as a member of the Board of Directors of the Federal Deposit Insurance Corporation.</title>
+  </titles>
+  <sponsor id="412462"/>
+  <cosponsors>
+    <cosponsor id="412011" joined="2011-06-01"/>
+    <cosponsor id="412481" joined="2011-06-01"/>
+    <cosponsor id="400061" joined="2011-06-01"/>
+    <cosponsor id="400145" joined="2011-06-01"/>
+    <cosponsor id="412451" joined="2011-06-01"/>
+    <cosponsor id="412437" joined="2011-06-01"/>
+    <cosponsor id="400441" joined="2011-06-01"/>
+    <cosponsor id="400313" joined="2011-06-01"/>
+    <cosponsor id="400348" joined="2011-06-01"/>
+    <cosponsor id="412461" joined="2011-06-01"/>
+    <cosponsor id="400627" joined="2011-06-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-06-01">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2011-10-21">
+      <text>Referred to the Subcommittee on Financial Institutions and Consumer Credit.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2012-02-08">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSBA15" subcommittee="Financial Institutions and Consumer Credit" name="House Financial Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Consumer Financial Protection Bureau"/>
+    <term name="Department of the Treasury"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Deposit Insurance Corporation (FDIC)"/>
+    <term name="Federal Reserve System"/>
+  </subjects>
+  <amendments/>
+  <summary>6/1/2011--Introduced.
+Amends the Federal Deposit Insurance Act to remove the Director of the Consumer Financial Protection Bureau (CFPB) from membership on the Board of Directors of the Federal Deposit Insurance Corporation (FDIC) and substitute the Chairman of the Board of Governors of the Federal Reserve System (or a designee).</summary>
+</bill>

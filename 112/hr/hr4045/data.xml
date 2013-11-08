@@ -1,0 +1,119 @@
+<bill session="112" type="h" number="4045" updated="2013-07-20T01:45:05-04:00">
+  <state datetime="2012-05-25">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2012-05-25"/>
+  </status>
+  <introduced datetime="2012-02-15"/>
+  <titles>
+    <title as="introduced" type="official">To modify the Department of Defense Program Guidance relating to the award of Post-Deployment/Mobilization Respite Absence administrative absence days to members of the reserve components to exempt any member whose qualified mobilization commenced before October 1, 2011, and continued on or after that date, from the changes to the program guidance that took effect on that date.</title>
+  </titles>
+  <sponsor id="400224"/>
+  <cosponsors>
+    <cosponsor id="400008" joined="2012-03-22"/>
+    <cosponsor id="412216" joined="2012-03-28"/>
+    <cosponsor id="400041" joined="2012-03-22"/>
+    <cosponsor id="400042" joined="2012-02-27"/>
+    <cosponsor id="412208" joined="2012-03-26"/>
+    <cosponsor id="412271" joined="2012-03-22"/>
+    <cosponsor id="400077" joined="2012-03-22"/>
+    <cosponsor id="400655" joined="2012-03-29"/>
+    <cosponsor id="412272" joined="2012-05-07"/>
+    <cosponsor id="400081" joined="2012-03-22"/>
+    <cosponsor id="412441" joined="2012-02-16"/>
+    <cosponsor id="412215" joined="2012-03-26"/>
+    <cosponsor id="400121" joined="2012-03-22"/>
+    <cosponsor id="400137" joined="2012-03-22"/>
+    <cosponsor id="400640" joined="2012-03-29"/>
+    <cosponsor id="400141" joined="2012-03-29"/>
+    <cosponsor id="400651" joined="2012-03-29"/>
+    <cosponsor id="412401" joined="2012-04-16"/>
+    <cosponsor id="412200" joined="2012-04-17"/>
+    <cosponsor id="412283" joined="2012-03-26"/>
+    <cosponsor id="400209" joined="2012-03-20"/>
+    <cosponsor id="400218" joined="2012-05-10"/>
+    <cosponsor id="412191" joined="2012-03-29"/>
+    <cosponsor id="400234" joined="2012-03-22"/>
+    <cosponsor id="412256" joined="2012-03-26"/>
+    <cosponsor id="412209" joined="2012-03-20"/>
+    <cosponsor id="400259" joined="2012-02-27"/>
+    <cosponsor id="400283" joined="2012-04-16"/>
+    <cosponsor id="412443" joined="2012-04-27"/>
+    <cosponsor id="412303" joined="2012-02-16"/>
+    <cosponsor id="400316" joined="2012-02-28"/>
+    <cosponsor id="412307" joined="2012-04-24"/>
+    <cosponsor id="400652" joined="2012-03-26"/>
+    <cosponsor id="400352" joined="2012-03-20"/>
+    <cosponsor id="412312" joined="2012-03-26"/>
+    <cosponsor id="412423" joined="2012-03-29"/>
+    <cosponsor id="400376" joined="2012-03-22"/>
+    <cosponsor id="400392" joined="2012-04-16"/>
+    <cosponsor id="400400" joined="2012-03-29"/>
+    <cosponsor id="400404" joined="2012-03-22"/>
+    <cosponsor id="400411" joined="2012-03-20"/>
+    <cosponsor id="412213" joined="2012-03-29"/>
+    <cosponsor id="412214" joined="2012-02-27"/>
+    <cosponsor id="400627" joined="2012-04-16"/>
+    <cosponsor id="400433" joined="2012-03-22"/>
+    <cosponsor id="412255" joined="2012-03-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-02-15">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2012-03-15">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+    <action datetime="2012-05-15T19:12:00-04:00">
+      <text>Mr. Kline moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-05-15T19:12:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2695-2698" label="consideration"/>
+    </action>
+    <action datetime="2012-05-15T19:12:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4045.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-05-15T19:31:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H2695-2696" label="text"/>
+    </vote>
+    <action datetime="2012-05-15T19:31:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-05-16">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2012-05-17" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S3292" label="consideration"/>
+    </vote>
+    <action datetime="2012-05-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2012-05-18">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2012-05-25">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2012-05-25" type="public" number="112-120">
+      <text>Became Public Law No: 112-120.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="2121"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Employee leave"/>
+    <term name="National Guard and reserves"/>
+  </subjects>
+  <amendments/>
+  <summary>5/25/2012--Public Law.
+(This measure has not been amended since it was passed by the House on May 15, 2012. The summary of that version is repeated here.) Authorizes the Secretary of Defense to determine that the changes made to the program guidance relating to the award of Post-Deployment/Mobilization Respite Absence administrative absence days or other authorized benefits described herein to members and former members of the reserves under a specified Department of Defense (DOD) instruction shall not apply to current or former reservists whose qualified mobilization commenced before October 1, 2011, and continued until the termination of the mobilization. Includes within such authorized benefits: (1) the payment of up to $200 per day for each day the individual would have qualified for a day of administrative absence had the above changes not applied to the individual, in the case of a former member of the Armed Forces; (2) either one day of administrative absence or up to $200 per day as described above, in the case of a member on active duty at the time of the provision of benefits; and (3) either one day of administrative absence to be retained for future use or up to $200 per day as described above, in the case of a member serving in the Selected Reserve, Inactive National Guard, or Individual Ready Reserve at the time of the provision of benefits. Excludes such additional benefits for former members discharged or released under other than honorable conditions. Terminates the benefit authority under this Act on October 1, 2014. Directs the Secretary to transfer specified funds from the Pentagon Reservation Maintenance Revolving Fund as a funding offset for such benefits.</summary>
+</bill>

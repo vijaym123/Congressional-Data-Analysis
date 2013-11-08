@@ -1,0 +1,115 @@
+<bill session="111" type="h" number="2288" updated="2013-07-19T23:32:28-04:00">
+  <state datetime="2010-05-18T19:01:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-05-18T19:01:00-04:00"/>
+  </status>
+  <introduced datetime="2009-05-06"/>
+  <titles>
+    <title as="introduced" type="short">Endangered Fish Recovery Programs Improvement Act of 2009</title>
+    <title as="reported to house" type="short">Endangered Fish Recovery Programs Improvement Act of 2010</title>
+    <title as="passed house" type="short">Endangered Fish Recovery Programs Improvement Act of 2010</title>
+    <title as="introduced" type="official">To amend Public Law 106-392 to maintain annual base funding for the Upper Colorado and San Juan fish recovery programs through fiscal year 2023.</title>
+  </titles>
+  <sponsor id="400620"/>
+  <cosponsors>
+    <cosponsor id="400029" joined="2009-05-21"/>
+    <cosponsor id="412270" joined="2009-05-07"/>
+    <cosponsor id="412271" joined="2009-05-07"/>
+    <cosponsor id="400101" joined="2009-05-06"/>
+    <cosponsor id="412281" joined="2009-05-06"/>
+    <cosponsor id="412293" joined="2009-05-06"/>
+    <cosponsor id="412294" joined="2009-05-06"/>
+    <cosponsor id="412298" joined="2009-05-06"/>
+    <cosponsor id="400255" joined="2009-06-10"/>
+    <cosponsor id="412192" joined="2009-07-31"/>
+    <cosponsor id="412308" joined="2009-05-06"/>
+    <cosponsor id="412316" joined="2009-05-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-05-06">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1074"/>
+    </action>
+    <action state="REFERRED" datetime="2009-05-06">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-05-11">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-09-22">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-12-16">
+      <text>Subcommittee on Water and Power Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-12-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-12-16">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2010-05-18T14:00:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-481.</text>
+    </action>
+    <calendar datetime="2010-05-18T14:01:00-04:00" calendar="Union" number="272">
+      <text>Placed on the Union Calendar, Calendar No. 272.</text>
+    </calendar>
+    <action datetime="2010-05-18T14:15:00-04:00">
+      <text>Mrs. Napolitano moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-05-18T14:15:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3489-3491" label="consideration"/>
+    </action>
+    <action datetime="2010-05-18T14:15:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2288.</text>
+    </action>
+    <action datetime="2010-05-18T14:27:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-05-18T18:33:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3512" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-05-18T19:01:00-04:00" how="roll" result="pass" roll="273" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 264 - 122 (Roll no. 273).</text>
+      <reference ref="CR H3489" label="text"/>
+    </vote>
+    <action datetime="2010-05-18T19:01:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="2010-05-19" calendar="Senate Legislative" under="General Orders" number="399">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 399.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="1453"/>
+    <bill relation="unknown" session="111" type="s" number="1453"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Arizona"/>
+    <term name="Colorado"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Energy revenues and royalties"/>
+    <term name="Fishes"/>
+    <term name="Lakes and rivers"/>
+    <term name="New Mexico"/>
+    <term name="Utah"/>
+    <term name="Water use and supply"/>
+    <term name="Wildlife conservation and habitat protection"/>
+    <term name="Wyoming"/>
+  </subjects>
+  <amendments/>
+  <summary>5/18/2010--Passed House amended.
+Endangered Fish Recovery Programs Improvement Act of 2010 - Authorizes appropriations for FY2012-FY2023 to provide for the annual base funding for the intergovernmental recovery implementation program for the endangered fish species in the Upper Colorado River and the San Juan River, above and beyond the continued use of power revenues collected under the Colorado River Storage Project Act to fund the operation and maintenance of capital projects and monitoring.</summary>
+</bill>

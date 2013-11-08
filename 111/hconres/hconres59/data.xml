@@ -1,0 +1,122 @@
+<bill session="111" type="hc" number="59" updated="2013-07-20T00:13:25-04:00">
+  <state datetime="2009-09-23">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2009-09-23"/>
+  </status>
+  <introduced datetime="2009-02-24"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals and ideals of senior caregiving and affordability.</title>
+  </titles>
+  <sponsor id="400400"/>
+  <cosponsors>
+    <cosponsor id="400029" joined="2009-06-18"/>
+    <cosponsor id="400030" joined="2009-03-04"/>
+    <cosponsor id="400041" joined="2009-03-09"/>
+    <cosponsor id="400057" joined="2009-06-18"/>
+    <cosponsor id="400060" joined="2009-06-18"/>
+    <cosponsor id="400638" joined="2009-06-15"/>
+    <cosponsor id="400070" joined="2009-06-18"/>
+    <cosponsor id="412221" joined="2009-06-15"/>
+    <cosponsor id="400102" joined="2009-06-09"/>
+    <cosponsor id="412275" joined="2009-06-02"/>
+    <cosponsor id="400137" joined="2009-07-29"/>
+    <cosponsor id="400640" joined="2009-06-08"/>
+    <cosponsor id="400144" joined="2009-06-18"/>
+    <cosponsor id="400147" joined="2009-06-18"/>
+    <cosponsor id="400154" joined="2009-06-10"/>
+    <cosponsor id="400158" joined="2009-06-18"/>
+    <cosponsor id="412278" joined="2009-06-18"/>
+    <cosponsor id="412280" joined="2009-06-18"/>
+    <cosponsor id="400182" joined="2009-06-18"/>
+    <cosponsor id="400211" joined="2009-03-02"/>
+    <cosponsor id="400220" joined="2009-06-18"/>
+    <cosponsor id="412198" joined="2009-03-17"/>
+    <cosponsor id="400224" joined="2009-06-18"/>
+    <cosponsor id="412290" joined="2009-06-18"/>
+    <cosponsor id="400234" joined="2009-06-02"/>
+    <cosponsor id="400235" joined="2009-06-18"/>
+    <cosponsor id="412256" joined="2009-06-18"/>
+    <cosponsor id="412294" joined="2009-06-18"/>
+    <cosponsor id="412295" joined="2009-06-18"/>
+    <cosponsor id="400260" joined="2009-03-16"/>
+    <cosponsor id="400263" joined="2009-05-20"/>
+    <cosponsor id="400267" joined="2009-06-18"/>
+    <cosponsor id="400276" joined="2009-06-04"/>
+    <cosponsor id="400321" joined="2009-06-18"/>
+    <cosponsor id="400335" joined="2009-06-18"/>
+    <cosponsor id="400342" joined="2009-06-18"/>
+    <cosponsor id="400368" joined="2009-06-18"/>
+    <cosponsor id="412217" joined="2009-06-18"/>
+    <cosponsor id="400385" joined="2009-06-18"/>
+    <cosponsor id="412214" joined="2009-06-18"/>
+    <cosponsor id="412239" joined="2009-07-09"/>
+    <cosponsor id="400435" joined="2009-05-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-24">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2009-03-30">
+      <text>Referred to the Subcommittee on Healthy Families and Communities.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+    <action datetime="2009-09-14T14:45:00-04:00">
+      <text>Mr. Sablan moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2009-09-14T14:45:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9453-9455" label="consideration"/>
+    </action>
+    <action datetime="2009-09-14T14:45:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 59.</text>
+    </action>
+    <action datetime="2009-09-14T14:51:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2009-09-14T19:07:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H9464" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-09-14T19:14:00-04:00" how="roll" result="pass" roll="698" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 0 (Roll no. 698).</text>
+      <reference ref="CR H9453" label="text"/>
+    </vote>
+    <action datetime="2009-09-14T19:14:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-09-15">
+      <text>Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+    <action datetime="2009-09-23">
+      <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2009-09-23" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S9757-9758" label="consideration"/>
+    </vote>
+    <action datetime="2009-09-24">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral"/>
+    <committee activity="Referral" code="HSED04" subcommittee="Healthy Families and Communities" name="House Education and Labor"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="sc" number="37"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Adult day care"/>
+    <term name="Aging"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Home and outpatient care"/>
+  </subjects>
+  <amendments/>
+  <summary>9/23/2009--Passed Senate without amendment.
+Declares that Congress: (1) recognizes caregiving as a profession; (2) supports the private home car industry and the efforts of family caregivers nationwide by encouraging individuals to provide care to family, friends, and neighbors; (3) encourages accessible and affordable care for seniors; (4) reviews federal policies and supports current federal programs which address the needs of seniors and their family caregivers; and (5) encourages the Secretary of Health and Human Services to continue working to educate people on the impact of aging and the importance of knowing the options available to meet seniors' personal needs.</summary>
+</bill>

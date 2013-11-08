@@ -1,0 +1,61 @@
+<bill session="111" type="h" number="5825" updated="2013-07-20T00:05:11-04:00">
+  <state datetime="2010-07-27T12:39:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-07-27T12:39:00-04:00"/>
+  </status>
+  <introduced datetime="2010-07-22"/>
+  <titles>
+    <title as="introduced" type="short">Multi-State Disaster Relief Act</title>
+    <title as="passed house" type="short">Multi-State Disaster Relief Act</title>
+    <title as="introduced" type="official">To review, update, and revise the factors to measure the severity, magnitude, and impact of a disaster and to evaluate the need for assistance to individuals and households.</title>
+  </titles>
+  <sponsor id="400177"/>
+  <cosponsors>
+    <cosponsor id="412232" joined="2010-07-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-22">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2010-07-23">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-07-27T12:27:00-04:00">
+      <text>Mr. Costello moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-07-27T12:27:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6081-6083" label="consideration"/>
+    </action>
+    <action datetime="2010-07-27T12:27:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5825.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-07-27T12:39:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6081" label="text"/>
+    </vote>
+    <action datetime="2010-07-27T12:39:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-07-28">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Federal Emergency Management Agency (FEMA)"/>
+  </subjects>
+  <amendments/>
+  <summary>7/27/2010--Passed House without amendment.
+Multi-State Disaster Relief Act - Directs the Administrator of the Federal Emergency Management Agency (FEMA), in cooperation with representatives of state and local emergency management agencies, to review, update, and revise through rulemaking the factors considered, when evaluating a governor's request for a major disaster declaration, to measure the severity, magnitude, and impact of a disaster. Requires the Administrator to include as a factor whether a contiguous county in an adjacent state has been designated in a major disaster or emergency as a result of the same incident.Directs the Administrator to report to specified congressional committees on FEMA's current regulations, policies, procedures, and practices on: (1) recommending major disaster or emergency declarations in order to provide assistance to individuals and households; and (2) making post-declaration designations of the need for assistance to individuals and households in a county that is contiguous to a state that has received a major disaster or emergency declaration for the same incident.</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="112" type="h" number="1003" updated="2013-07-20T01:19:01-04:00">
+  <state datetime="2011-03-10">REFERRED</state>
+  <status>
+    <introduced datetime="2011-03-10"/>
+  </status>
+  <introduced datetime="2011-03-10"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 10, United States Code, to authorize space-available travel on military aircraft for reserve members, former members of a reserve component, and unremarried surviving spouses and dependents of such members and former members.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2011-03-31"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-03-10">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2011-03-18">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="542"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Aviation and airports"/>
+    <term name="Military personnel and dependents"/>
+    <term name="National Guard and reserves"/>
+    <term name="Transportation costs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/2011--Introduced.
+Authorizes space-available travel on military aircraft, on the same basis as active-duty members, for members of the reserves. Authorizes such travel, on the same basis as members entitled to retired pay, for: (1) a former member of the reserves who is entitled to retired pay but for attaining the required age (generally, 60); and (2) unremarried surviving spouses of such members or former members. Authorizes such travel for dependents of such members or former members, if accompanying the member.</summary>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="113" type="h" number="3113" updated="2013-11-02T06:45:13-04:00">
+  <state datetime="2013-09-17">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-17"/>
+  </status>
+  <introduced datetime="2013-09-17"/>
+  <titles>
+    <title type="short" as="introduced">Concussion Treatment and Care Tools Act of 2013</title>
+    <title type="short" as="introduced">ConTACT Act of 2013</title>
+    <title type="official" as="introduced">To amend title III of the Public Health Service Act to provide for the establishment and implementation of guidelines on best practices for diagnosis, treatment, and management of mild traumatic brain injuries (MTBIs) in school-aged children, and for other purposes.</title>
+  </titles>
+  <sponsor id="400309"/>
+  <cosponsors>
+    <cosponsor id="412311" joined="2013-09-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-17" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-09-20">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="1516"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Child health"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Neurological disorders"/>
+    <term name="School athletics"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="112" type="h" number="1168" updated="2013-07-20T01:20:28-04:00">
+  <state datetime="2011-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="2011-03-17"/>
+  </status>
+  <introduced datetime="2011-03-17"/>
+  <titles>
+    <title as="introduced" type="short">Lead By Example Act</title>
+    <title as="introduced" type="official">To amend title 5, United States Code, to provide that matching contributions to the Thrift Savings Fund for Members of Congress be made contingent on Congress completing action on a concurrent resolution on the budget, for the fiscal year involved, which reduces the deficit, and for other purposes.</title>
+  </titles>
+  <sponsor id="412483"/>
+  <cosponsors>
+    <cosponsor id="400017" joined="2011-05-05"/>
+    <cosponsor id="412395" joined="2012-02-03"/>
+    <cosponsor id="400076" joined="2011-03-17"/>
+    <cosponsor id="400651" joined="2011-05-05"/>
+    <cosponsor id="412409" joined="2011-05-05"/>
+    <cosponsor id="412309" joined="2011-03-17"/>
+    <cosponsor id="412489" joined="2011-03-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-03-17">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-03-17">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2011-03-17">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2011-04-01">
+      <text>Referred to the Subcommittee on Federal Workforce, U.S. Postal Service, and Labor Policy.</text>
+      <committee name="House Oversight and Government Reform"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO25" subcommittee="Federal Workforce, U.S. Postal Service, and Labor Policy" name="House Oversight and Government Reform"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Budget process"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/2011--Introduced.
+Lead By Example Act - Prohibits matching contributions to the Thrift Savings Fund for Members of Congress: (1) for any pay period beginning before the date on which Congress completes action on a budget resolution for the fiscal year in which the first day of such pay period occurs; and (2) unless the deficit for such fiscal year (as set forth in the budget resolution) is less than the deficit for the preceding fiscal year.</summary>
+</bill>

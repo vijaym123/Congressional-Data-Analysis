@@ -1,0 +1,57 @@
+<bill session="112" type="hc" number="135" updated="2013-07-20T02:10:08-04:00">
+  <state datetime="2012-08-02">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2012-08-02"/>
+  </status>
+  <introduced datetime="2012-07-31"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the rotunda of the Capitol for the presentation of the Congressional Gold Medal to Daw Aung San Suu Kyi, in recognition of her leadership and perseverance in the struggle for freedom and democracy in Burma.</title>
+  </titles>
+  <sponsor id="400087"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2012-07-31">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2012-08-01T14:22:00-04:00">
+      <text>Mr. Lungren, Daniel E. asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2012-08-01T14:22:00-04:00">
+      <text>Committee on House Administration discharged.</text>
+    </action>
+    <action datetime="2012-08-01T14:22:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H5552" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-08-01T14:23:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H5552" label="text"/>
+    </vote>
+    <action datetime="2012-08-01T14:23:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2012-08-02" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6013" label="consideration"/>
+    </vote>
+    <action datetime="2012-08-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Asia"/>
+    <term name="Burma"/>
+    <term name="Congressional tributes"/>
+    <term name="Human rights"/>
+    <term name="Political movements and philosophies"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/2012--Passed Senate without amendment.
+Authorizes the use of the Capitol rotunda on September 19, 2012, for the presentation of the Congressional Gold Medal to Daw Aung San Suu Kyi in recognition of her leadership and perseverance in the struggle for freedom and democracy in Burma.</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="113" type="h" number="257" updated="2013-11-02T06:21:08-04:00">
+  <state datetime="2013-01-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-15"/>
+  </status>
+  <introduced datetime="2013-01-15"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Health Equity Act of 2013</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to ensure that veterans in each of the 48 contiguous States are able to receive services in at least one full-service hospital of the Veterans Health Administration in the State or receive comparable services provided by contract in the State.</title>
+  </titles>
+  <sponsor id="412219"/>
+  <cosponsors>
+    <cosponsor id="412557" joined="2013-01-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-15" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-01-22">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="49"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Health care coverage and access"/>
+    <term name="Hospital care"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>1/15/2013--Introduced.
+Veterans Health Equity Act of 2013 - Requires the Secretary of Veterans Affairs, with respect to each of the 48 contiguous states, to ensure that veterans eligible for hospital care and medical services through the Department of Veterans Affairs (VA) have access to: (1) at least one full-service VA hospital in the state, or (2) hospital care and medical services comparable to that provided in full-service VA hospitals through contract with other health providers in the state. Directs the Secretary to report to Congress on compliance with such requirement, including its effect on improving the quality and standards of veterans' care.</summary>
+</bill>

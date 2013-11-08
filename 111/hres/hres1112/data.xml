@@ -1,0 +1,71 @@
+<bill session="111" type="hr" number="1112" updated="2013-07-19T23:05:42-04:00">
+  <state datetime="2010-03-02T15:58:00-05:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2010-03-02T15:58:00-05:00"/>
+  </status>
+  <introduced datetime="2010-02-25"/>
+  <titles>
+    <title as="introduced" type="official">Congratulating the Pennsylvania State University IFC/Panhellenic Dance Marathon (THON) on its continued success in support of the Four Diamonds Fund at Penn State Hershey Children's Hospital.</title>
+  </titles>
+  <sponsor id="412317"/>
+  <cosponsors>
+    <cosponsor id="412273" joined="2010-02-25"/>
+    <cosponsor id="400648" joined="2010-02-25"/>
+    <cosponsor id="400147" joined="2010-02-25"/>
+    <cosponsor id="400183" joined="2010-02-25"/>
+    <cosponsor id="400285" joined="2010-02-25"/>
+    <cosponsor id="412232" joined="2010-02-25"/>
+    <cosponsor id="409888" joined="2010-02-25"/>
+    <cosponsor id="400435" joined="2010-02-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-02-25">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2010-03-02T15:53:00-05:00">
+      <text>Mr. Courtney moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2010-03-02T15:53:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H994-995" label="consideration"/>
+    </action>
+    <action datetime="2010-03-02T15:53:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1112.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2010-03-02T15:58:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H994" label="text"/>
+    </vote>
+    <action datetime="2010-03-02T15:58:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-03-22">
+      <text>Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education, Lifelong Learning, and Competitiveness" name="House Education and Labor"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="sr" number="488"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Cancer"/>
+    <term name="Child health"/>
+    <term name="Congressional tributes"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Higher education"/>
+    <term name="Medical research"/>
+    <term name="Pennsylvania"/>
+    <term name="Research administration and funding"/>
+    <term name="School athletics"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>3/2/2010--Passed House without amendment.
+Congratulates the Pennsylvania State University IFC/Panhellenic Dance Marathon (THON) on its continued success in support of the Four Diamonds Fund at Penn State Hershey Children's Hospital. Commends the school's students, volunteers and supporting organizations for their hard work putting together another recordbreaking THON.</summary>
+</bill>

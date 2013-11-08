@@ -1,0 +1,50 @@
+<bill session="111" type="h" number="1384" updated="2013-07-19T23:24:16-04:00">
+  <state datetime="2009-03-09">REFERRED</state>
+  <status>
+    <introduced datetime="2009-03-09"/>
+  </status>
+  <introduced datetime="2009-03-09"/>
+  <titles>
+    <title as="introduced" type="official">To amend part B of title XVIII of the Social Security Act to remove limiting charges under the Medicare Program for non-participating physicians with beneficiary notice and to preempt State laws that prohibit balance billing.</title>
+  </titles>
+  <sponsor id="400626"/>
+  <cosponsors>
+    <cosponsor id="400005" joined="2009-03-30"/>
+    <cosponsor id="412275" joined="2009-04-27"/>
+    <cosponsor id="412191" joined="2009-04-27"/>
+    <cosponsor id="400279" joined="2009-03-30"/>
+    <cosponsor id="412310" joined="2010-03-15"/>
+    <cosponsor id="400433" joined="2009-03-30"/>
+    <cosponsor id="400440" joined="2009-03-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-09">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-03-09">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-03-09">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2009-03-10">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Federal preemption"/>
+    <term name="Health personnel"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>3/9/2009--Introduced.
+Amends part B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act to remove the limiting charges under the Medicare program for non-participating physicians who provide the beneficiary with a specified notice of non-participation and non-acceptance of Medicare payment on an assignment-related basis. Preempts state laws limiting charges for physicians' services.</summary>
+</bill>

@@ -1,0 +1,103 @@
+<bill session="111" type="h" number="5827" updated="2013-07-20T00:05:12-04:00">
+  <state datetime="2010-07-28T16:17:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-07-28T16:17:00-04:00"/>
+  </status>
+  <introduced datetime="2010-07-22"/>
+  <titles>
+    <title as="introduced" type="short">Protecting Gun Owners in Bankruptcy Act of 2010</title>
+    <title as="passed house" type="short">Protecting Gun Owners in Bankruptcy Act of 2010</title>
+    <title as="introduced" type="official">To amend title 11 of the United States Code to include firearms in the types of property allowable under the alternative provision for exempting property from the estate.</title>
+  </titles>
+  <sponsor id="412266"/>
+  <cosponsors>
+    <cosponsor id="400043" joined="2010-07-22"/>
+    <cosponsor id="400055" joined="2010-07-22"/>
+    <cosponsor id="400061" joined="2010-07-26"/>
+    <cosponsor id="400655" joined="2010-07-22"/>
+    <cosponsor id="400081" joined="2010-07-27"/>
+    <cosponsor id="412386" joined="2010-07-27"/>
+    <cosponsor id="400155" joined="2010-07-26"/>
+    <cosponsor id="412276" joined="2010-07-27"/>
+    <cosponsor id="400183" joined="2010-07-22"/>
+    <cosponsor id="412283" joined="2010-07-22"/>
+    <cosponsor id="400206" joined="2010-07-26"/>
+    <cosponsor id="400207" joined="2010-07-22"/>
+    <cosponsor id="412286" joined="2010-07-22"/>
+    <cosponsor id="412287" joined="2010-07-22"/>
+    <cosponsor id="400224" joined="2010-07-26"/>
+    <cosponsor id="400235" joined="2010-07-22"/>
+    <cosponsor id="412298" joined="2010-07-22"/>
+    <cosponsor id="412300" joined="2010-07-22"/>
+    <cosponsor id="412332" joined="2010-07-22"/>
+    <cosponsor id="412383" joined="2010-07-22"/>
+    <cosponsor id="412304" joined="2010-07-27"/>
+    <cosponsor id="400316" joined="2010-07-22"/>
+    <cosponsor id="400323" joined="2010-07-27"/>
+    <cosponsor id="400331" joined="2010-07-22"/>
+    <cosponsor id="400376" joined="2010-07-22"/>
+    <cosponsor id="412229" joined="2010-07-22"/>
+    <cosponsor id="400404" joined="2010-07-22"/>
+    <cosponsor id="400419" joined="2010-07-26"/>
+    <cosponsor id="412214" joined="2010-07-22"/>
+    <cosponsor id="400421" joined="2010-07-22"/>
+    <cosponsor id="400440" joined="2010-07-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-22">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2010-07-27T19:21:00-04:00">
+      <text>Mr. Scott (VA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-07-27T19:21:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6137-6139" label="consideration"/>
+    </action>
+    <action datetime="2010-07-27T19:21:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5827.</text>
+    </action>
+    <action datetime="2010-07-27T19:39:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-07-28T16:08:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6215-6216" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-07-28T16:17:00-04:00" how="roll" result="pass" roll="479" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 307 - 113 (Roll no. 479).</text>
+      <reference ref="CR 7/27/2010 H6137" label="text"/>
+    </vote>
+    <action datetime="2010-07-28T16:17:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-07-29">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2010-08-05">
+      <text>Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2010-08-12" calendar="Senate Legislative" under="General Orders" number="552">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 552.</text>
+    </calendar>
+    <action datetime="2010-09-20">
+      <text>Referred to the Subcommittee on Commercial and Administrative Law.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU09" subcommittee="Commercial and Administrative Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="3654"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bankruptcy"/>
+    <term name="Firearms and explosives"/>
+  </subjects>
+  <amendments/>
+  <summary>7/28/2010--Passed House amended.
+Protecting Gun Owners in Bankruptcy Act of 2010 - Amends federal bankruptcy law to permit an individual debtor to exempt from the property of the estate in bankruptcy the debtor's aggregate interest not to exceed $3,000 in value, in a single rifle, shotgun, or pistol or any combination of them. Declares the date of enactment as the effective date of this Act.</summary>
+</bill>

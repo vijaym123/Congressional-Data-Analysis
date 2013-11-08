@@ -1,0 +1,65 @@
+<bill session="111" type="s" number="2917" updated="2013-07-20T00:52:04-04:00">
+  <state datetime="2010-02-09">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2010-02-09"/>
+  </status>
+  <introduced datetime="2009-12-18"/>
+  <titles>
+    <title as="introduced" type="short">Small Business Penalty Fairness Act of 2009</title>
+    <title as="passed senate" type="short">Small Business Penalty Fairness Act of 2009</title>
+    <title as="introduced" type="official">A bill to amend the Internal Revenue Code of 1986 to modify the penalty for failure to disclose certain reportable transactions and the penalty for submitting a bad check to the Internal Revenue Service, to modify certain rules relating to Federal vendors, and for other purposes.</title>
+  </titles>
+  <sponsor id="300005"/>
+  <cosponsors>
+    <cosponsor id="300006" joined="2009-12-21"/>
+    <cosponsor id="300010" joined="2009-12-18"/>
+    <cosponsor id="300013" joined="2009-12-18"/>
+    <cosponsor id="300030" joined="2009-12-18"/>
+    <cosponsor id="300048" joined="2009-12-18"/>
+    <cosponsor id="300052" joined="2009-12-18"/>
+    <cosponsor id="412320" joined="2009-12-22"/>
+    <cosponsor id="300063" joined="2009-12-18"/>
+    <cosponsor id="300068" joined="2009-12-22"/>
+    <cosponsor id="300070" joined="2009-12-18"/>
+    <cosponsor id="300077" joined="2009-12-18"/>
+    <cosponsor id="300083" joined="2009-12-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-12-18">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <action datetime="2010-02-09">
+      <text>Senate Committee on Finance discharged by Unanimous Consent.</text>
+      <reference ref="CR S541-542" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2010-02-09" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S542" label="text"/>
+    </vote>
+    <action datetime="2010-02-11">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2010-02-22T14:03:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2010-02-22T18:35:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="4068"/>
+    <bill relation="unknown" session="111" type="h" number="5297"/>
+    <bill relation="unknown" session="111" type="s" number="2771"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Congressional oversight"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>2/9/2010--Passed Senate without amendment.
+Small Business Penalty Fairness Act of 2009 - Amends the Internal Revenue Code to limit the penalty for failure to disclose a reportable transaction (a transaction determined by the Internal Revenue Service [IRS] as having a potential for tax avoidance or evasion) to 75% of the decrease in tax shown on the return as a result of such transaction. Sets forth a maximum penalty for failure to report a reportable transaction and a minimum and maximum penalty for failure to report a listed transaction (a transaction specifically identified by the IRS as a tax avoidance transaction). Requires the Commissioner of Internal Revenue to report by June 1, 2010, and then annually, to Congress on penalties relating to abusive tax shelters and reportable transactions. Extends the penalty for tendering a bad check to the Internal Revenue Service to any commercially acceptable payment instrument (including electronic payments). Expands the continuous tax levy on payments to vendors for goods and services to include payments for all property, goods, or services.</summary>
+</bill>

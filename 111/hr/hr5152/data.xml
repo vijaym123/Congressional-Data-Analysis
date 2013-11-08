@@ -1,0 +1,87 @@
+<bill session="111" type="h" number="5152" updated="2013-07-19T23:58:51-04:00">
+  <state datetime="2010-09-22T15:15:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-09-22T15:15:00-04:00"/>
+  </status>
+  <introduced datetime="2010-04-27"/>
+  <titles>
+    <title as="introduced" type="short">Kennesaw Mountain National Battlefield Park Boundary Adjustment Act of 2010</title>
+    <title as="reported to house" type="short">Kennesaw Mountain National Battlefield Park Boundary Adjustment Act of 2010</title>
+    <title as="passed house" type="short">Kennesaw Mountain National Battlefield Park Boundary Adjustment Act of 2010</title>
+    <title as="introduced" type="official">To adjust the boundary of the Kennesaw Mountain National Battlefield Park to include the Wallis House and Harriston Hill, and for other purposes.</title>
+  </titles>
+  <sponsor id="400151"/>
+  <cosponsors>
+    <cosponsor id="400221" joined="2010-04-27"/>
+    <cosponsor id="400240" joined="2010-04-27"/>
+    <cosponsor id="400254" joined="2010-05-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-04-27">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2010-04-29">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-06-10">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-07-22">
+      <text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-07-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-07-22">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2010-09-16T15:31:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 111-606.</text>
+    </action>
+    <calendar datetime="2010-09-16T15:32:00-04:00" calendar="Union" number="351">
+      <text>Placed on the Union Calendar, Calendar No. 351.</text>
+    </calendar>
+    <action datetime="2010-09-22T15:13:00-04:00">
+      <text>Mrs. Christensen moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-09-22T15:13:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6828" label="consideration"/>
+    </action>
+    <action datetime="2010-09-22T15:13:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5152.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-09-22T15:15:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6828" label="text"/>
+    </vote>
+    <action datetime="2010-09-22T15:15:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-09-23">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Conflicts and wars"/>
+    <term name="Georgia"/>
+    <term name="Land transfers"/>
+    <term name="Military history"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments/>
+  <summary>9/22/2010--Passed House without amendment.
+Kennesaw Mountain National Battlefield Park Boundary Adjustment Act of 2010 - Modifies the boundary of the Kennesaw Mountain National Battlefield Park in Georgia to include approximately eight acres identified as the Wallis House and Harriston Hill on the map entitled "Kennesaw Mountain National Battlefield Park, Proposed Boundary Adjustment," and dated February 2010. Authorizes the Secretary of the Interior to acquire land or interests, by donation or exchange, from willing sellers only. Requires acquired lands and interests to be administered as part of the Kennesaw Mountain National Battlefield Park.</summary>
+</bill>

@@ -1,0 +1,67 @@
+<bill session="111" type="h" number="3744" updated="2013-07-19T23:45:54-04:00">
+  <state datetime="2009-10-07">REFERRED</state>
+  <status>
+    <introduced datetime="2009-10-07"/>
+  </status>
+  <introduced datetime="2009-10-07"/>
+  <titles>
+    <title as="introduced" type="short">Dairy and Sheep H-2A Visa Enhancement Act</title>
+    <title as="introduced" type="official">To amend the Immigration and Nationality Act to provide a special rule for the period of admission of H-2A nonimmigrants employed as dairy workers and sheepherders, and for other purposes.</title>
+  </titles>
+  <sponsor id="412224"/>
+  <cosponsors>
+    <cosponsor id="400017" joined="2009-10-08"/>
+    <cosponsor id="400068" joined="2009-10-08"/>
+    <cosponsor id="412193" joined="2009-10-08"/>
+    <cosponsor id="400641" joined="2009-10-08"/>
+    <cosponsor id="412291" joined="2009-10-07"/>
+    <cosponsor id="412299" joined="2009-10-08"/>
+    <cosponsor id="412383" joined="2010-09-29"/>
+    <cosponsor id="400339" joined="2009-10-08"/>
+    <cosponsor id="412239" joined="2010-09-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-10-07">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-10-07">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2009-10-07">
+      <text>Referred to House Education and Labor</text>
+    </action>
+    <action datetime="2009-10-19">
+      <text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <action datetime="2009-11-16">
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+      <committee name="House Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Citizenship, Refugees, Border Security, and International Law" name="House Judiciary"/>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED10" subcommittee="Workforce Protections" name="House Education and Labor"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="h" number="1660"/>
+    <bill relation="unknown" session="111" type="s" number="3858"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Labor"/>
+    <term name="Foreign labor"/>
+    <term name="Housing industry and standards"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Labor standards"/>
+    <term name="Livestock"/>
+    <term name="Migrant, seasonal, agricultural labor"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>10/7/2009--Introduced.
+Dairy and Sheep H-2A Visa Enhancement Act - Amends the Immigration and Nationality Act to include within the H-2A nonimmigrant visa category (temporary agricultural workers) an alien coming temporarily to the United States to work as a sheepherder or dairy worker. Provides for a three-year initial period of admission with additional three-year extensions. Directs the Secretary of Labor to issue housing regulations for workers engaged in the range production of livestock.</summary>
+</bill>

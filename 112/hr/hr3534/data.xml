@@ -1,0 +1,84 @@
+<bill session="112" type="h" number="3534" updated="2013-07-20T01:40:43-04:00">
+  <state datetime="2012-05-15T17:07:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-05-15T17:07:00-04:00"/>
+  </status>
+  <introduced datetime="2011-12-01"/>
+  <titles>
+    <title as="introduced" type="short">Security in Bonding Act of 2011</title>
+    <title as="reported to house" type="short">Security in Bonding Act of 2012</title>
+    <title as="passed house" type="short">Security in Bonding Act of 2012</title>
+    <title as="introduced" type="official">To amend title 31, United States Code, to revise requirements related to assets pledged by a surety, and for other purposes.</title>
+  </titles>
+  <sponsor id="412454"/>
+  <cosponsors>
+    <cosponsor id="412473" joined="2012-02-28"/>
+    <cosponsor id="412474" joined="2011-12-01"/>
+    <cosponsor id="412308" joined="2012-03-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-12-01">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2011-12-14">
+      <text>Referred to the Subcommittee on Courts, Commercial and Administrative Law.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2012-03-05">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2012-03-15">
+      <text>Subcommittee on Courts, Commercial and Administrative Law Discharged.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2012-03-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-03-20">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2012-04-27T13:15:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 112-460.</text>
+    </action>
+    <calendar datetime="2012-04-27T13:16:00-04:00" calendar="Union" number="322">
+      <text>Placed on the Union Calendar, Calendar No. 322.</text>
+    </calendar>
+    <action datetime="2012-05-15T16:55:00-04:00">
+      <text>Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-05-15T16:55:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2676-2678" label="consideration"/>
+    </action>
+    <action datetime="2012-05-15T16:55:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3534.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-05-15T17:07:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H2676-2677" label="text"/>
+    </vote>
+    <action datetime="2012-05-15T17:07:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-05-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSJU03" subcommittee="Courts, Commercial and Administrative Law" name="House Judiciary"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Contracts and agency"/>
+    <term name="Financial services and investments"/>
+  </subjects>
+  <amendments/>
+  <summary>5/15/2012--Passed House amended.
+Security in Bonding Act of 2012 - Revises requirements related to assets pledged by a surety. Declares that if another applicable law or regulation permits the acceptance of a bond from a surety that is not subject to specified federal law, and is based on a pledge of assets by the surety, the assets pledged by such surety shall: (1) consist of eligible obligations given as security instead of surety bonds; and (2) be submitted to the government official required to approve or accept the bond, who shall deposit the assets with a depository (the Secretary of the Treasury, a federal reserve bank, or a depository designated by the Secretary). Requires the Comptroller General to study: (1) all instances during the 10-year period before the enactment of this Act in which a surety bond proposed or issued by a surety in connection with a federal project was rejected by a federal contracting officer, or accepted but was later found to have been backed by insufficient collateral or to be otherwise deficient or with respect to which the surety did not perform; (2) the consequences to the federal government, subcontractors, and suppliers of such instances, and (3) the percentages of all federal contracts that were awarded to small disadvantaged businesses and disadvantaged business enterprises as prime contractors in the two-year period before and after the enactment of this Act, and an assessment of its impact upon such percentages.</summary>
+</bill>

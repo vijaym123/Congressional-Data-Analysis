@@ -1,0 +1,110 @@
+<bill session="112" type="h" number="1965" updated="2013-07-20T01:27:17-04:00">
+  <state datetime="2011-11-02T14:26:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2011-11-02T14:26:00-04:00"/>
+  </status>
+  <introduced datetime="2011-05-24"/>
+  <titles>
+    <title as="introduced" type="official">To amend the securities laws to establish certain thresholds for shareholder registration, and for other purposes.</title>
+  </titles>
+  <sponsor id="412282"/>
+  <cosponsors>
+    <cosponsor id="400074" joined="2011-10-03"/>
+    <cosponsor id="412272" joined="2011-10-25"/>
+    <cosponsor id="412420" joined="2011-10-04"/>
+    <cosponsor id="412434" joined="2011-09-21"/>
+    <cosponsor id="412486" joined="2011-10-11"/>
+    <cosponsor id="400179" joined="2011-10-05"/>
+    <cosponsor id="412484" joined="2011-09-07"/>
+    <cosponsor id="400207" joined="2011-09-21"/>
+    <cosponsor id="400224" joined="2011-10-27"/>
+    <cosponsor id="412445" joined="2011-09-19"/>
+    <cosponsor id="400251" joined="2011-09-21"/>
+    <cosponsor id="400659" joined="2011-10-11"/>
+    <cosponsor id="412474" joined="2011-10-25"/>
+    <cosponsor id="400441" joined="2011-10-04"/>
+    <cosponsor id="400349" joined="2011-11-02"/>
+    <cosponsor id="412399" joined="2011-10-25"/>
+    <cosponsor id="400379" joined="2011-10-05"/>
+    <cosponsor id="412402" joined="2011-05-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-05-24">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2011-07-19">
+      <text>Referred to the Subcommittee on Capital Markets and Government Sponsored Enterprises.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2011-09-21">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2011-10-05">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2011-10-05">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2011-10-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-10-26">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Financial Services"/>
+    </calendar>
+    <action datetime="2011-11-02T12:52:00-04:00">
+      <text>Mr. Schweikert moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2011-11-02T12:52:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7226-7229" label="consideration"/>
+    </action>
+    <action datetime="2011-11-02T12:52:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1965.</text>
+    </action>
+    <action datetime="2011-11-02T13:18:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2011-11-02T14:19:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7235-7236" label="consideration"/>
+    </action>
+    <action datetime="2011-11-02T14:26:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-11-02T14:26:00-04:00" how="roll" result="pass" roll="819" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 2 (Roll no. 819).</text>
+      <reference ref="CR H7226-7227" label="text"/>
+    </vote>
+    <action datetime="2011-11-03">
+      <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2011-11-07" calendar="Senate Legislative" under="General Orders" number="223">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 223.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSBA16" subcommittee="Capital Markets and Government Sponsored Enterprises" name="House Financial Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="4088"/>
+    <bill relation="identical" session="112" type="s" number="556"/>
+    <bill relation="unknown" session="112" type="s" number="1941"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Government studies and investigations"/>
+    <term name="Securities"/>
+    <term name="Securities and Exchange Commission (SEC)"/>
+  </subjects>
+  <amendments/>
+  <summary>11/2/2011--Passed House amended.
+Amends the Securities Exchange Act of 1934&#160;to increase from $1 million to $10 million the shareholder registration threshold for an issuer of securities. Requires an issuer that is either a bank or a bank holding company to register a security with the Securities and Exchange Commission (SEC) if its assets exceed $10 million and include a certain class of equity security held of record by 2,000 or more persons. Requires termination of a security registration in the case of a bank or a bank holding company if the number of holders of record of the class of security is reduced to less than 1,200. Repeals periodic reporting requirements also for such a bank or bank holding company. Directs the Chief Economist and the&#160;Director of the Division of Corporation Finance of the SEC to conduct a joint cost-benefit analysis of shareholder registration thresholds. Directs the SEC to issue final regulations to implement this Act not later than 1 year after its date of enactment.</summary>
+</bill>

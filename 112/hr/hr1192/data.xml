@@ -1,0 +1,64 @@
+<bill session="112" type="h" number="1192" updated="2013-07-20T01:20:40-04:00">
+  <state datetime="2012-05-16">REPORTED</state>
+  <status>
+    <unknown datetime="2012-05-16"/>
+  </status>
+  <introduced datetime="2011-03-17"/>
+  <titles>
+    <title as="introduced" type="short">Soda Ash Royalty Extension, Job Creation, and Export Enhancement Act of 2011</title>
+    <title as="reported to house" type="short">Soda Ash Royalty Extension, Job Creation, and Export Enhancement Act of 2012</title>
+    <title as="introduced" type="official">To extend the current royalty rate for soda ash.</title>
+  </titles>
+  <sponsor id="412294"/>
+  <cosponsors>
+    <cosponsor id="412501" joined="2012-06-20"/>
+    <cosponsor id="400267" joined="2011-06-15"/>
+    <cosponsor id="400437" joined="2011-03-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-03-17">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2011-03-28">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-04-26">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-05-16">
+      <text>Subcommittee on Energy and Mineral Resources Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-05-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-05-16">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 27 - 10.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2012-07-09T14:38:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-578.</text>
+    </action>
+    <calendar datetime="2012-07-09T14:38:00-04:00" calendar="Union" number="418">
+      <text>Placed on the Union Calendar, Calendar No. 418.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="1144"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Mining"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>7/9/2012--Reported to House amended.
+Soda Ash Royalty Extension, Job Creation, and Export Enhancement Act of 2012 - Amends the Soda Ash Royalty Reduction Act of 2006 to extend from October 12, 2011, through October 12, 2016, the reduced (2%) royalty rate for soda ash.</summary>
+</bill>

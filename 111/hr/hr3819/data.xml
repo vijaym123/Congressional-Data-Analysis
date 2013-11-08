@@ -1,0 +1,85 @@
+<bill session="111" type="h" number="3819" updated="2013-07-19T23:46:34-04:00">
+  <state datetime="2009-12-28">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2009-12-28"/>
+  </status>
+  <introduced datetime="2009-10-15"/>
+  <titles>
+    <title as="introduced" type="official">To extend the commercial space transportation liability regime.</title>
+  </titles>
+  <sponsor id="400155"/>
+  <cosponsors>
+    <cosponsor id="412188" joined="2009-10-15"/>
+    <cosponsor id="400165" joined="2009-10-15"/>
+    <cosponsor id="412302" joined="2009-10-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-10-15">
+      <text>Referred to the House Committee on Science and Technology.</text>
+    </action>
+    <action datetime="2009-10-20T14:42:00-04:00">
+      <text>Mr. Gordon (TN) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-10-20T14:42:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11470-11472" label="consideration"/>
+    </action>
+    <action datetime="2009-10-20T14:42:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3819.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-10-20T14:51:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H11471" label="text"/>
+    </vote>
+    <action datetime="2009-10-20T14:51:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-10-21">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2009-12-17">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Commerce, Science, and Transportation"/>
+    </calendar>
+    <action datetime="2009-12-22">
+      <text>Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2009-12-22" calendar="Senate Legislative" under="General Orders" number="249">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 249.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="2009-12-23" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S13887" label="consideration"/>
+    </vote>
+    <topresident datetime="2009-12-23">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2009-12-24">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2009-12-24">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2009-12-28">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2009-12-28" type="public" number="111-125">
+      <text>Became Public Law No: 111-125.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science and Technology" activity="Referral"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Civil actions and liability"/>
+    <term name="Life, casualty, property insurance"/>
+    <term name="Space flight and exploration"/>
+    <term name="Spacecraft and satellites"/>
+  </subjects>
+  <amendments/>
+  <summary>12/28/2009--Public Law.
+Extends through calendar 2012 the commercial space transportation liability regime (under which the United States shall pay up to $1.5 billion, adjusted for inflation, in excess of the amount covered by liability insurance or demonstrated financial responsibility with respect to a third party claim against a commercial space launch or reentry licensee, transferee, contractor, subcontractor, or customer for death, bodily injury, or property damage or loss resulting from an activity carried out under the license). Extends this guarantee to issued or transferred licenses for which the Secretary of Transportation receives a complete and valid application by December 31, 2012 (currently, by December 31, 2009).</summary>
+</bill>

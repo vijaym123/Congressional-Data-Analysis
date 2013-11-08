@@ -1,0 +1,45 @@
+<bill session="113" type="h" number="3176" updated="2013-11-02T06:45:44-04:00">
+  <state datetime="2013-09-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-25"/>
+  </status>
+  <introduced datetime="2013-09-25"/>
+  <titles>
+    <title type="official" as="introduced">To reauthorize the Reclamation States Emergency Drought Relief Act of 1991, and for other purposes.</title>
+  </titles>
+  <sponsor id="400100"/>
+  <cosponsors>
+    <cosponsor id="412379" joined="2013-09-25"/>
+    <cosponsor id="400618" joined="2013-09-25"/>
+    <cosponsor id="400162" joined="2013-09-25"/>
+    <cosponsor id="412418" joined="2013-09-25"/>
+    <cosponsor id="400179" joined="2013-09-25"/>
+    <cosponsor id="400184" joined="2013-09-25"/>
+    <cosponsor id="412293" joined="2013-09-25"/>
+    <cosponsor id="400290" joined="2013-09-25"/>
+    <cosponsor id="400333" joined="2013-09-25"/>
+    <cosponsor id="412312" joined="2013-09-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-25" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-10-01">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-10-10">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral, Hearings" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="659"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

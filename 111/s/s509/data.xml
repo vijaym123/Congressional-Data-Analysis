@@ -1,0 +1,84 @@
+<bill session="111" type="s" number="509" updated="2013-07-20T00:27:53-04:00">
+  <state datetime="2009-11-11">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2009-11-11"/>
+  </status>
+  <introduced datetime="2009-03-02"/>
+  <titles>
+    <title as="introduced" type="official">A bill to authorize a major medical facility project at the Department of Veterans Affairs Medical Center, Walla Walla, Washington, and for other purposes.</title>
+  </titles>
+  <sponsor id="300076"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-02">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-07-15">
+      <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text>
+      <reference ref="CR S7573" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2009-07-15" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S7573" label="text"/>
+    </vote>
+    <action datetime="2009-07-16T10:07:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2009-07-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2009-07-16">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-11-02T15:47:00-05:00">
+      <text>Mr. Walz moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-11-02T15:47:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H12165-12167" label="consideration"/>
+    </action>
+    <action datetime="2009-11-02T15:47:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 509.</text>
+    </action>
+    <action datetime="2009-11-02T15:55:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2009-11-02T19:08:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H12179" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2009-11-02T19:14:00-05:00" how="roll" result="pass" roll="834" type="vote2" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 352 - 0 (Roll no. 834).</text>
+      <reference ref="CR H12165" label="text"/>
+    </vote>
+    <action datetime="2009-11-02T19:14:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2009-11-02">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2009-11-04">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2009-11-11">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2009-11-11" type="public" number="111-98">
+      <text>Became Public Law No: 111-98.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Discharged"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Veterans' medical care"/>
+    <term name="Washington State"/>
+  </subjects>
+  <amendments/>
+  <summary>11/11/2009--Public Law.
+Authorizes the Secretary of Veterans Affairs (VA) to carry out a major medical facility project at the Department of Veterans Affairs Medical Center, Walla Walla, Washington. Authorizes appropriations.</summary>
+</bill>

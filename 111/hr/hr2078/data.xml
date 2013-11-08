@@ -1,0 +1,44 @@
+<bill session="111" type="h" number="2078" updated="2013-07-19T23:30:24-04:00">
+  <state datetime="2009-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="2009-04-23"/>
+  </status>
+  <introduced datetime="2009-04-23"/>
+  <titles>
+    <title as="introduced" type="short">National Commission on Employment and Economic Security Act</title>
+    <title as="introduced" type="official">To establish a commission to study employment and economic insecurity in the United States workforce.</title>
+  </titles>
+  <sponsor id="400170"/>
+  <cosponsors>
+    <cosponsor id="400162" joined="2009-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-04-23">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E957"/>
+    </action>
+    <action state="REFERRED" datetime="2009-04-23">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2009-06-04">
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED10" subcommittee="Workforce Protections" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Advisory bodies"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Government studies and investigations"/>
+    <term name="Mental health"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2009--Introduced.
+National Commission on Employment and Economic Security Act - Establishes the National Commission on Employment and Economic Security to: (1) examine the effects of economic and psychological insecurity caused by employment displacement and the decreasing number of well-paid jobs on U.S. workers and their families; and (2) recommend to the President and Congress potential solutions, including legislative and administrative action, to alleviate such problems.</summary>
+</bill>

@@ -1,0 +1,53 @@
+<bill session="111" type="h" number="1260" updated="2013-07-19T23:23:11-04:00">
+  <state datetime="2009-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="2009-03-03"/>
+  </status>
+  <introduced datetime="2009-03-03"/>
+  <titles>
+    <title as="introduced" type="short">Patent Reform Act of 2009</title>
+    <title as="introduced" type="official">To amend title 35, United States Code, to provide for patent reform.</title>
+  </titles>
+  <sponsor id="400080"/>
+  <cosponsors>
+    <cosponsor id="400025" joined="2009-03-03"/>
+    <cosponsor id="400154" joined="2009-03-03"/>
+    <cosponsor id="400199" joined="2009-03-03"/>
+    <cosponsor id="400376" joined="2009-03-05"/>
+    <cosponsor id="400381" joined="2009-03-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-03-03">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E536-537"/>
+    </action>
+    <action state="REFERRED" datetime="2009-03-03">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2009-04-30">
+      <text>Committee Hearings Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="515"/>
+    <bill relation="unknown" session="111" type="s" number="610"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Civil actions and liability"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Commerce"/>
+    <term name="Government studies and investigations"/>
+    <term name="Intellectual property"/>
+    <term name="Judges"/>
+    <term name="Jurisdiction and venue"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/2009--Introduced.
+Patent Reform Act of 2009 - Amends federal patent law to rewrite provisions concerning the conditions for patentability. Defines "effective filing date of a claimed invention" as the filing date of the patent or the application for patent containing the claim to the invention (thus establishing a first-to-file system). Revises various other rights and requirements related to patents, including regarding: (1) damages; (2) post-grant procedures; (3) citation of prior art; and (4) inter partes reexaminations; (5) preissuance submissions by third parties; (6) venue and jurisdiction; and (7) the regulatory authority of the Patent and Trademark Office. Replaces the Board of Patent Appeals and Interferences with the Patent Trial and Appeal Board. Revises provisions concerning the residency of federal circuit judges.</summary>
+</bill>

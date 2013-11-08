@@ -1,0 +1,67 @@
+<bill session="111" type="h" number="5355" updated="2013-07-20T00:00:48-04:00">
+  <state datetime="2010-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="2010-05-20"/>
+  </status>
+  <introduced datetime="2010-05-20"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Oil Pollution Act of 1990 to repeal the limitation of liability of a responsible party for a discharge or substantial threat of a discharge of oil from an offshore oil facility.</title>
+  </titles>
+  <sponsor id="400162"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="2010-06-08"/>
+    <cosponsor id="412208" joined="2010-06-08"/>
+    <cosponsor id="400638" joined="2010-06-10"/>
+    <cosponsor id="400101" joined="2010-05-25"/>
+    <cosponsor id="400140" joined="2010-06-14"/>
+    <cosponsor id="412276" joined="2010-05-25"/>
+    <cosponsor id="400163" joined="2010-05-25"/>
+    <cosponsor id="400178" joined="2010-06-10"/>
+    <cosponsor id="412200" joined="2010-05-27"/>
+    <cosponsor id="400216" joined="2010-06-08"/>
+    <cosponsor id="400251" joined="2010-05-24"/>
+    <cosponsor id="400290" joined="2010-05-27"/>
+    <cosponsor id="400295" joined="2010-07-30"/>
+    <cosponsor id="412308" joined="2010-05-27"/>
+    <cosponsor id="400352" joined="2010-06-08"/>
+    <cosponsor id="400360" joined="2010-06-08"/>
+    <cosponsor id="400422" joined="2010-06-14"/>
+    <cosponsor id="400423" joined="2010-05-25"/>
+    <cosponsor id="400426" joined="2010-06-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-05-20">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2010-05-21">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-05-21">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="3305"/>
+    <bill relation="unknown" session="111" type="s" number="3305"/>
+    <bill relation="unknown" session="111" type="s" number="3472"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Accidents"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Marine pollution"/>
+    <term name="Oil and gas"/>
+    <term name="Pollution liability"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2010--Introduced.
+Amends the Oil Pollution Act of 1990 to repeal the limitation on the liability (currently, the total of all removal costs plus $75 million) of the party responsible for an offshore facility, except a deepwater port, from which oil is discharged (or which poses a substantial threat of discharge) into or upon navigable waters or adjoining shorelines or the exclusive economic zone.</summary>
+</bill>

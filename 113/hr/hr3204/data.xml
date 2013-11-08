@@ -1,0 +1,89 @@
+<bill session="113" type="h" number="3204" updated="2013-11-07T04:46:21-05:00">
+  <state datetime="2013-09-28T14:34:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-09-28T14:34:00-04:00"/>
+  </status>
+  <introduced datetime="2013-09-27"/>
+  <titles>
+    <title type="short" as="introduced">Drug Quality and Security Act</title>
+    <title type="short" as="passed house">Drug Quality and Security Act</title>
+    <title type="short" as="passed house" partial="1">Compounding Quality Act</title>
+    <title type="short" as="passed house" partial="1">Drug Supply Chain Security Act</title>
+    <title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act with respect to human drug compounding and drug supply chain security, and for other purposes.</title>
+  </titles>
+  <sponsor id="400414"/>
+  <cosponsors>
+    <cosponsor id="400101" joined="2013-09-27"/>
+    <cosponsor id="400110" joined="2013-09-27"/>
+    <cosponsor id="400160" joined="2013-09-27"/>
+    <cosponsor id="412485" joined="2013-09-27"/>
+    <cosponsor id="412256" joined="2013-09-27"/>
+    <cosponsor id="400255" joined="2013-09-27"/>
+    <cosponsor id="400285" joined="2013-09-27"/>
+    <cosponsor id="400308" joined="2013-09-27"/>
+    <cosponsor id="400320" joined="2013-09-27"/>
+    <cosponsor id="400425" joined="2013-09-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-27" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-09-28T13:48:00-04:00">
+      <text>Mr. Upton moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-09-28T13:48:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5946-4965" label="consideration"/>
+    </action>
+    <action datetime="2013-09-28T13:48:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3204.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2013-09-28T14:34:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H5946-5960" label="text"/>
+    </vote>
+    <action datetime="2013-09-30">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2013-11-04">
+      <text>Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2013-11-05" calendar="Senate Legislative" under="General Orders" number="236">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 236.</text>
+    </calendar>
+    <action datetime="2013-11-06">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+    </action>
+    <action datetime="2013-11-06">
+      <text>Motion to proceed to consideration of measure withdrawn in Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Advisory bodies"/>
+    <term name="Business records"/>
+    <term name="Congressional oversight"/>
+    <term name="Consumer affairs"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Food and Drug Administration (FDA)"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Licensing and registrations"/>
+    <term name="Manufacturing"/>
+    <term name="Prescription drugs"/>
+    <term name="Public participation and lobbying"/>
+    <term name="Retail and wholesale trades"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2007"/>
+    <amendment number="s2008"/>
+  </amendments>
+</bill>

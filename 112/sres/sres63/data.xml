@@ -1,0 +1,49 @@
+<bill session="112" type="sr" number="63" updated="2013-07-20T02:11:12-04:00">
+  <state datetime="2011-03-09">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2011-03-09"/>
+  </status>
+  <introduced datetime="2011-02-17"/>
+  <titles>
+    <title as="introduced" type="official">A resolution designating the first week of April 2011 as "National Asbestos Awareness Week".</title>
+  </titles>
+  <sponsor id="300005"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2011-02-17"/>
+    <cosponsor id="300038" joined="2011-02-17"/>
+    <cosponsor id="300043" joined="2011-02-17"/>
+    <cosponsor id="400194" joined="2011-02-17"/>
+    <cosponsor id="300076" joined="2011-02-17"/>
+    <cosponsor id="300082" joined="2011-02-17"/>
+    <cosponsor id="412244" joined="2011-02-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-02-17">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S914" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2011-03-09">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S1512" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2011-03-09" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S1512" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="sr" number="389"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Health promotion and preventive care"/>
+  </subjects>
+  <amendments/>
+  <summary>3/9/2011--Passed Senate without amendment.
+Designates the first week of April 2011 as National Asbestos Awareness Week. Urges the Surgeon General to warn and educate people about asbestos exposure, which may be hazardous to their health.</summary>
+</bill>

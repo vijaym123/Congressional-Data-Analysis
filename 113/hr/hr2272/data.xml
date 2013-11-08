@@ -1,0 +1,39 @@
+<bill session="113" type="h" number="2272" updated="2013-11-02T06:38:08-04:00">
+  <state datetime="2013-06-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-06"/>
+  </status>
+  <introduced datetime="2013-06-06"/>
+  <titles>
+    <title type="official" as="introduced">To direct the Secretary of Defense to establish an electronic means by which members of the Ready Reserves of the Armed Forces may track their active-duty service.</title>
+  </titles>
+  <sponsor id="412487"/>
+  <cosponsors>
+    <cosponsor id="412383" joined="2013-06-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-06" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2013-08-29">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="1960"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Government information and archives"/>
+    <term name="National Guard and reserves"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/6/2013--Introduced.
+Directs the Secretary of Defense (DOD) to establish an electronic means by which members of the Ready Reserve of the Armed Forces can track their operational active-duty service performed after January 28, 2008. Requires the tour calculator to specify early retirement credit authorized for each qualifying tour of active duty, as well as cumulative early reserve retirement credit authorized to date.</summary>
+</bill>

@@ -1,0 +1,59 @@
+<bill session="113" type="h" number="3170" updated="2013-11-02T06:45:41-04:00">
+  <state datetime="2013-09-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-23"/>
+  </status>
+  <introduced datetime="2013-09-23"/>
+  <titles>
+    <title type="short" as="introduced">Health Care Regulator Accountability Act</title>
+    <title type="official" as="introduced">To provide that the only health plans that the Federal Government may make available to Federal employees responsible for the administration of the Patient Protection and Affordable Care Act are those created under such Act or offered through a health insurance exchange, and for other purposes.</title>
+  </titles>
+  <sponsor id="412309"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2013-10-03"/>
+    <cosponsor id="412480" joined="2013-09-27"/>
+    <cosponsor id="412463" joined="2013-09-27"/>
+    <cosponsor id="400651" joined="2013-10-03"/>
+    <cosponsor id="412434" joined="2013-10-03"/>
+    <cosponsor id="412429" joined="2013-10-03"/>
+    <cosponsor id="400279" joined="2013-09-23"/>
+    <cosponsor id="412310" joined="2013-10-03"/>
+    <cosponsor id="412311" joined="2013-09-23"/>
+    <cosponsor id="400606" joined="2013-10-03"/>
+    <cosponsor id="412213" joined="2013-10-03"/>
+    <cosponsor id="412574" joined="2013-09-27"/>
+    <cosponsor id="412410" joined="2013-10-01"/>
+    <cosponsor id="400627" joined="2013-10-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-23" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Energy and Commerce, House Administration, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-09-23">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2013-09-23">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-09-23">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2013-09-23">
+      <text>Referred to House Appropriations</text>
+    </action>
+    <action datetime="2013-09-27">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+    <committee code="HSAP" name="House Appropriations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

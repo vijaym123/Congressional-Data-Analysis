@@ -1,0 +1,137 @@
+<bill session="111" type="h" number="1178" updated="2013-07-19T23:22:29-04:00">
+  <state datetime="2009-05-12T15:44:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-05-12T15:44:00-04:00"/>
+  </status>
+  <introduced datetime="2009-02-25"/>
+  <titles>
+    <title as="introduced" type="official">To direct the Comptroller General of the United States to conduct a study on the use of Civil Air Patrol personnel and resources to support homeland security missions, and for other purposes.</title>
+  </titles>
+  <sponsor id="400648"/>
+  <cosponsors>
+    <cosponsor id="400017" joined="2009-02-25"/>
+    <cosponsor id="400032" joined="2009-02-25"/>
+    <cosponsor id="400033" joined="2009-04-02"/>
+    <cosponsor id="400047" joined="2009-02-25"/>
+    <cosponsor id="400049" joined="2009-04-02"/>
+    <cosponsor id="400055" joined="2009-04-02"/>
+    <cosponsor id="412234" joined="2009-04-02"/>
+    <cosponsor id="412258" joined="2009-04-02"/>
+    <cosponsor id="400070" joined="2009-04-02"/>
+    <cosponsor id="400076" joined="2009-04-02"/>
+    <cosponsor id="400657" joined="2009-02-25"/>
+    <cosponsor id="400116" joined="2009-02-25"/>
+    <cosponsor id="400119" joined="2009-04-02"/>
+    <cosponsor id="400121" joined="2009-02-25"/>
+    <cosponsor id="400147" joined="2009-02-25"/>
+    <cosponsor id="400155" joined="2009-04-02"/>
+    <cosponsor id="400443" joined="2009-04-02"/>
+    <cosponsor id="400183" joined="2009-02-25"/>
+    <cosponsor id="400199" joined="2009-04-02"/>
+    <cosponsor id="400224" joined="2009-04-22"/>
+    <cosponsor id="400276" joined="2009-04-02"/>
+    <cosponsor id="400310" joined="2009-04-02"/>
+    <cosponsor id="412303" joined="2009-04-02"/>
+    <cosponsor id="400321" joined="2009-04-02"/>
+    <cosponsor id="400341" joined="2009-02-25"/>
+    <cosponsor id="400343" joined="2009-04-02"/>
+    <cosponsor id="400414" joined="2009-04-02"/>
+    <cosponsor id="412214" joined="2009-04-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-25">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-02-25">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2009-02-25">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2009-02-26">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-02-26">
+      <text>Referred to the Subcommittee on Aviation.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-03-02">
+      <text>Referred to the Subcommittee on Emergency Communications, Preparedness, and Response.</text>
+      <committee name="House Homeland Security"/>
+    </action>
+    <action datetime="2009-04-02">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-04-02">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2009-04-02">
+      <text>Subcommittee on Aviation Discharged.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-04-02">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-05-04T18:29:00-04:00">
+      <text>Reported (Amended) by the Committee on Transportation. H. Rept. 111-93, Part I.</text>
+    </action>
+    <action datetime="2009-05-04T18:29:00-04:00">
+      <text>House Committee on Homeland Security Granted an extension for further consideration ending not later than June 3, 2009.</text>
+    </action>
+    <action datetime="2009-05-12T15:38:00-04:00">
+      <text>Mr. Walz moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-05-12T15:38:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5428-5430" label="consideration"/>
+    </action>
+    <action datetime="2009-05-12T15:38:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1178.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-05-12T15:44:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5428" label="text"/>
+    </vote>
+    <action datetime="2009-05-12T15:44:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-05-13">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral, Discharged" code="HSPW05" subcommittee="Aviation" name="House Transportation and Infrastructure"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM12" subcommittee="Emergency Communications, Preparedness, and Response" name="House Homeland Security"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="1627"/>
+    <bill relation="unknown" session="111" type="s" number="704"/>
+    <bill relation="unknown" session="111" type="s" number="704"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Aviation and airports"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Congressional oversight"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Government studies and investigations"/>
+    <term name="Homeland security"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Military civil functions"/>
+    <term name="Natural disasters"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2009--Passed House amended.
+Directs the Comptroller General of the United States to study and report to the Secretary of Homeland Security and specified congressional committees on the functions and capabilities of the Civil Air Patrol to support the homeland security missions of state, local, and tribal governments and the Department of Homeland Security (DHS). Requires the Comptroller General to review the process by which the Civil Air Patrol may provide assistance to the Secretary, other federal agencies, and states to support homeland security missions, including by providing: (1) aerial reconnaissance or communications capabilities for border security; (2) capabilities for collective response to an act of terrorism, natural disaster, or other man-made event by assisting in damage assessment and situational awareness, conducting search and rescue operations, assisting in evacuations, or transporting time-sensitive medical or other materials; or (3) assistance in the exercise and training of departmental resources responsible for the intercept of aviation threats to designated restricted areas. Directs the Comptroller General's report to include assessments of: (1) the feasibility and cost-effectiveness of using Civil Air Patrol assets; and (2) whether current mechanisms for requesting support from the Civil Air Patrol are sufficient. Requires the Secretary to analyze the study and report to the committees any recommendations for action that could affect DHS's organization and administration.</summary>
+</bill>

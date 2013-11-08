@@ -1,0 +1,66 @@
+<bill session="113" type="h" number="957" updated="2013-11-02T06:27:01-04:00">
+  <state datetime="2013-05-15">REPORTED</state>
+  <status>
+    <unknown datetime="2013-05-15"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title type="short" as="introduced">American Soda Ash Competitiveness Act</title>
+    <title type="short" as="reported to house">American Soda Ash Competitiveness Act</title>
+    <title type="official" as="introduced">To reduce temporarily the royalty required to be paid for sodium produced on Federal lands, and for other purposes.</title>
+  </titles>
+  <sponsor id="412294"/>
+  <cosponsors>
+    <cosponsor id="412501" joined="2013-03-05"/>
+    <cosponsor id="412513" joined="2013-03-05"/>
+    <cosponsor id="412282" joined="2013-03-05"/>
+    <cosponsor id="412190" joined="2013-03-05"/>
+    <cosponsor id="400267" joined="2013-03-15"/>
+    <cosponsor id="412515" joined="2013-05-15"/>
+    <cosponsor id="412574" joined="2013-05-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-05" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-03-07">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-05-15">
+      <text>Subcommittee on Energy and Mineral Resources Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-05-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar datetime="2013-05-15" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 28 - 13.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2013-07-22T19:19:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 113-169.</text>
+    </action>
+    <calendar datetime="2013-07-22T19:19:00-04:00" calendar="Union" number="123">
+      <text>Placed on the Union Calendar, Calendar No. 123.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Mining"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>7/22/2013--Reported to House without amendment.
+American Soda Ash Competitiveness Act - Sets at 2%, for a five-year period, the royalty rate on the quantity or gross value of the output of sodium compounds and related products at the point of shipment to market from federal land.</summary>
+</bill>

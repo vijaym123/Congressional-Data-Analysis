@@ -1,0 +1,67 @@
+<bill session="112" type="h" number="5934" updated="2013-07-20T02:01:14-04:00">
+  <state datetime="2012-11-14T13:17:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-11-14T13:17:00-05:00"/>
+  </status>
+  <introduced datetime="2012-06-08"/>
+  <titles>
+    <title as="introduced" type="short">Stop Tobacco Smuggling in the Territories Act of 2012</title>
+    <title as="passed house" type="short">Stop Tobacco Smuggling in the Territories Act of 2012</title>
+    <title as="introduced" type="official">To amend title 18, United States Code, to include certain territories and possessions of the United States in the definition of State for the purposes of chapter 114, relating to trafficking in contraband cigarettes and smokeless tobacco.</title>
+  </titles>
+  <sponsor id="400128"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2012-06-08"/>
+    <cosponsor id="412379" joined="2012-08-02"/>
+    <cosponsor id="412306" joined="2012-08-02"/>
+    <cosponsor id="412312" joined="2012-06-08"/>
+    <cosponsor id="400424" joined="2012-11-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-06-08">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2012-06-18">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2012-11-14T13:05:00-05:00">
+      <text>Mr. Coble moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-11-14T13:05:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6355-6357" label="consideration"/>
+    </action>
+    <action datetime="2012-11-14T13:05:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5934.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-11-14T13:17:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6355" label="text"/>
+    </vote>
+    <action datetime="2012-11-14T13:17:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-11-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="American Samoa"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Guam"/>
+    <term name="Northern Mariana Islands"/>
+    <term name="Smuggling and trafficking"/>
+    <term name="U.S. territories and protectorates"/>
+  </subjects>
+  <amendments/>
+  <summary>11/14/2012--Passed House without amendment.
+Stop Tobacco Smuggling in the Territories Act of 2012 - Amends the federal criminal code to include American Samoa, the Commonwealth of the Northern Mariana Islands, and Guam in the definition of "state" for purposes of provisions prohibiting trafficking in contraband cigarettes and smokeless tobacco.</summary>
+</bill>

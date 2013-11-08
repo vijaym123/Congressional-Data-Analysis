@@ -1,0 +1,59 @@
+<bill session="111" type="h" number="3018" updated="2013-07-19T23:39:15-04:00">
+  <state datetime="2009-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="2009-06-24"/>
+  </status>
+  <introduced datetime="2009-06-24"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Controlled Substances Act to address the use of intrathecal pumps.</title>
+  </titles>
+  <sponsor id="400651"/>
+  <cosponsors>
+    <cosponsor id="400018" joined="2009-10-01"/>
+    <cosponsor id="400052" joined="2009-10-01"/>
+    <cosponsor id="400152" joined="2010-02-22"/>
+    <cosponsor id="400160" joined="2010-04-14"/>
+    <cosponsor id="400165" joined="2009-10-01"/>
+    <cosponsor id="400654" joined="2010-04-20"/>
+    <cosponsor id="400652" joined="2009-07-16"/>
+    <cosponsor id="400364" joined="2009-06-24"/>
+    <cosponsor id="400381" joined="2009-06-24"/>
+    <cosponsor id="400406" joined="2009-10-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-24">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-06-24">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-06-24">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2009-06-25">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2009-07-23">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3274"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Health technology, devices, supplies"/>
+  </subjects>
+  <amendments/>
+  <summary>6/24/2009--Introduced.
+Amends the Controlled Substances Act to revise the definition of "dispense" to include the delivery of a controlled substance through the use of an intrathecal pump by a practitioner acting in the usual course of professional practice.</summary>
+</bill>

@@ -1,0 +1,105 @@
+<bill session="111" type="h" number="6198" updated="2013-07-20T00:08:31-04:00">
+  <state datetime="2010-12-22">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2010-12-22"/>
+  </status>
+  <introduced datetime="2010-09-23"/>
+  <titles>
+    <title as="introduced" type="short">Bankruptcy Technical Corrections Act of 2010</title>
+    <title as="passed house" type="short">Bankruptcy Technical Corrections Act of 2010</title>
+    <title as="passed senate" type="short">Bankruptcy Technical Corrections Act of 2010</title>
+    <title as="enacted" type="short">Bankruptcy Technical Corrections Act of 2010</title>
+    <title as="introduced" type="official">To amend title 11 of the United States Code to make technical corrections; and for related purposes.</title>
+  </titles>
+  <sponsor id="400080"/>
+  <cosponsors>
+    <cosponsor id="412236" joined="2010-09-28"/>
+    <cosponsor id="400381" joined="2010-09-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2010-09-23">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1730-1731"/>
+    </action>
+    <action state="REFERRED" datetime="2010-09-23">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2010-09-28T20:41:00-04:00">
+      <text>Mr. Scott (VA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-09-28T20:41:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7158-7161" label="consideration"/>
+    </action>
+    <action datetime="2010-09-28T20:41:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6198.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-09-28T20:45:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7158-7161" label="text"/>
+    </vote>
+    <action datetime="2010-09-28T20:45:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-09-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2010-11-19">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2010-11-19">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S8205" label="consideration"/>
+    </action>
+    <vote state="PASS_BACK:SENATE" datetime="2010-11-19" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2010-11-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2010-12-16T12:48:00-05:00">
+      <text>Ms. Chu moved that the House suspend the rules and agree to the Senate amendment.</text>
+    </action>
+    <action datetime="2010-12-16T12:48:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on the Senate amendment to H.R. 6198.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2010-12-16T12:53:00-05:00" how="by voice vote" result="pass" type="pingpong" where="h">
+      <text>On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.</text>
+      <reference ref="CR H8535" label="consideration"/>
+      <reference ref="CR H8535" label="text as House agreed to Senate amendment"/>
+    </vote>
+    <action datetime="2010-12-16T12:53:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2010-12-16">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2010-12-17">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2010-12-22">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2010-12-22" type="public" number="111-327">
+      <text>Became Public Law No: 111-327.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bankruptcy"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government information and archives"/>
+    <term name="Government liability"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments>
+    <amendment number="s4718"/>
+  </amendments>
+  <summary>12/22/2010--Public Law.
+Bankruptcy Technical Corrections Act of 2010 - Makes technical corrections to federal bankruptcy law, relating to amendments made by the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, with respect to: (1) the power of the court; (2) waiver of sovereign immunity; (3) public access to papers; (4) who may be a debtor; (5) penalties for fraudulent or negligent preparation of bankruptcy petitions; (6) debtor reporting requirements; (7) automatic stay; (8) case administration; (9) determination of tax liability; (10) priorities of creditors and claims; (11) debtor's duties; (12) exceptions to a discharge; (13) restrictions on debt relief agencies; (14) property of the estate; (15) abandonment of property of the estate; (16) treatment of certain liens; and (17) conversion or dismissal. Makes technical corrections to the federal criminal code relating to bankruptcy fraud. Makes technical corrections to the federal judicial code relating to appeals and to bankruptcy statistics.</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="2661" updated="2013-11-02T06:41:24-04:00">
+  <state datetime="2013-07-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-11"/>
+  </status>
+  <introduced datetime="2013-07-11"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Access to Timely Medical Appointments Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Veterans Affairs to establish a standardized scheduling policy for veterans enrolled in the health care system of the Department of Veterans Affairs, and for other purposes.</title>
+  </titles>
+  <sponsor id="412190"/>
+  <cosponsors>
+    <cosponsor id="400057" joined="2013-07-11"/>
+    <cosponsor id="412011" joined="2013-07-11"/>
+    <cosponsor id="412271" joined="2013-07-11"/>
+    <cosponsor id="400097" joined="2013-07-11"/>
+    <cosponsor id="412283" joined="2013-07-11"/>
+    <cosponsor id="400196" joined="2013-07-11"/>
+    <cosponsor id="400267" joined="2013-07-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-11" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care coverage and access"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+</bill>

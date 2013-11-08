@@ -1,0 +1,45 @@
+<bill session="111" type="h" number="3223" updated="2013-07-19T23:41:08-04:00">
+  <state datetime="2009-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2009-07-15"/>
+  </status>
+  <introduced datetime="2009-07-15"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to improve the Department of Veterans Affairs contracting goals and preferences for small business concerns owned and controlled by veterans.</title>
+  </titles>
+  <sponsor id="400056"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2009-07-31"/>
+    <cosponsor id="400040" joined="2009-07-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-15">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-07-17">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-09-24">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Competition and antitrust"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Government information and archives"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Small business"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/15/2009--Introduced.
+Requires (under current law, allows) a contracting officer of the Department of Veterans Affairs (VA) award a contract to a small business concern owned and controlled by veterans using other than competitive procedures (often referred to as a sole source contract) in specified circumstances. Prohibits using ownership and control by a veteran or veterans of more than one small business as grounds for disqualification from inclusion in an existing database of veteran-owned businesses.</summary>
+</bill>

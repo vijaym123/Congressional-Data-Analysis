@@ -1,0 +1,56 @@
+<bill session="111" type="hr" number="62" updated="2013-07-19T22:56:23-04:00">
+  <state datetime="2009-01-15T11:11:00-05:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2009-01-15T11:11:00-05:00"/>
+  </status>
+  <introduced datetime="2009-01-14"/>
+  <titles>
+    <title as="introduced" type="official">Providing for further consideration of the bill (H.R. 384) to reform the Troubled Assets Relief Program of the Secretary of the Treasury and ensure accountability under such Program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400263"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2009-01-14T18:18:00-05:00">
+      <text>The House Committee on Rules reported an original measure, H. Rept. 111-3, by Mr. McGovern.</text>
+    </action>
+    <action datetime="2009-01-14T18:18:00-05:00">
+      <text>The resolution provides for further consideration of H.R. 384 with no further general debate.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2009-01-14T18:18:00-05:00" calendar="House" number="3">
+      <text>Placed on the House Calendar, Calendar No. 3.</text>
+    </calendar>
+    <action datetime="2009-01-15T10:16:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H329-335" label="consideration"/>
+    </action>
+    <action datetime="2009-01-15T10:20:00-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H. Res. 62.</text>
+    </action>
+    <action datetime="2009-01-15T11:11:00-05:00">
+      <text>The previous question was ordered without objection.</text>
+      <reference ref="CR H335" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2009-01-15T11:11:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H329" label="text"/>
+    </vote>
+    <action datetime="2009-01-15T11:12:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hr" number="53"/>
+    <bill relation="ruled-by" session="111" type="h" number="384"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="House of Representatives"/>
+    <term name="Legislative rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>1/15/2009--Passed House without amendment.
+Sets forth the rule for consideration of H.R. 384 (TARP Reform and Accountability Act of 2009).</summary>
+</bill>

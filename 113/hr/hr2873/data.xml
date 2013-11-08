@@ -1,0 +1,66 @@
+<bill session="113" type="h" number="2873" updated="2013-11-02T06:43:13-04:00">
+  <state datetime="2013-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-31"/>
+  </status>
+  <introduced datetime="2013-07-31"/>
+  <titles>
+    <title type="short" as="introduced">E3 Initiative Evaluation Act</title>
+    <title type="official" as="introduced">To evaluate and authorize the continuation of the activities of the Economy, Energy, and Environment (E3) Initiative to Support Sustainable Manufacturing, and for other purposes.</title>
+  </titles>
+  <sponsor id="412524"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-07-31" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Science, Space, and Technology, Education and the Workforce, Small Business, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-07-31">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-07-31">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+    <action datetime="2013-07-31">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2013-07-31">
+      <text>Referred to House Small Business</text>
+    </action>
+    <action datetime="2013-07-31">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2013-08-13">
+      <text>Referred to the Subcommittee on Department Operations, Oversight, and Nutrition.</text>
+      <committee name="House Agriculture"/>
+    </action>
+    <action datetime="2013-09-24">
+      <text>Referred to the Subcommittee on Research and Technology.</text>
+      <committee name="House Science, Space, and Technology"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee activity="Referral" code="HSSY15" subcommittee="Research and Technology" name="House Science, Space, and Technology"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="HSSM" name="House Small Business" activity="Referral"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG22" subcommittee="Department Operations, Oversight, and Nutrition" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Congressional oversight"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Environmental technology"/>
+    <term name="Government studies and investigations"/>
+    <term name="Industrial policy and productivity"/>
+    <term name="Manufacturing"/>
+  </subjects>
+  <amendments/>
+</bill>

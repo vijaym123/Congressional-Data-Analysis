@@ -1,0 +1,53 @@
+<bill session="111" type="h" number="5376" updated="2013-07-20T00:01:00-04:00">
+  <state datetime="2010-05-25">REFERRED</state>
+  <status>
+    <introduced datetime="2010-05-25"/>
+  </status>
+  <introduced datetime="2010-05-25"/>
+  <titles>
+    <title as="introduced" type="short">Youth Corps Act of 2010</title>
+    <title as="introduced" type="official">To amend the Workforce Investment Act of 1998 to provide for the establishment of Youth Corps programs and provide for wider dissemination of the Youth Corps model.</title>
+  </titles>
+  <sponsor id="400008"/>
+  <cosponsors>
+    <cosponsor id="400618" joined="2010-09-22"/>
+    <cosponsor id="412327" joined="2010-05-25"/>
+    <cosponsor id="412204" joined="2010-05-25"/>
+    <cosponsor id="412200" joined="2010-11-29"/>
+    <cosponsor id="400216" joined="2010-05-25"/>
+    <cosponsor id="400233" joined="2010-05-25"/>
+    <cosponsor id="412253" joined="2010-05-25"/>
+    <cosponsor id="412313" joined="2010-09-22"/>
+    <cosponsor id="412319" joined="2010-05-25"/>
+    <cosponsor id="400416" joined="2010-05-25"/>
+    <cosponsor id="400436" joined="2010-09-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-05-25">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2010-06-29">
+      <text>Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education, Lifelong Learning, and Competitiveness" name="House Education and Labor"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3178"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Employment and training programs"/>
+    <term name="Indian social and development programs"/>
+    <term name="Land use and conservation"/>
+    <term name="National and community service"/>
+    <term name="Youth employment and child labor"/>
+  </subjects>
+  <amendments/>
+  <summary>5/25/2010--Introduced.
+Youth Corps Act of 2010 - Amends the Workforce Investment Act of 1998 to authorize the Secretary of Labor to make grants to eligible public or private nonprofit agencies or organizations to carry out Youth Corps programs that utilize the Youth Corps model to provide eligible youth age 16 through 24 with education and work readiness training to enable them to find employment in the economy of the 21st century, and instill in them a sense of civic engagement and environmental stewardship. Defines "Youth Corps model" as a youth education and training program for which an eligible entity provides eligible youth, among other things, with stipended or paid work experience and basic and technical skills training leading to: (1) enrollment in postsecondary education or training; (2) attainment of an industry-recognized certification or credential; (3) meaningful employment in the economy of the 21st century; or (4) military service.</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="111" type="hc" number="293" updated="2013-07-20T00:15:31-04:00">
+  <state datetime="2010-06-30">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2010-06-30"/>
+  </status>
+  <introduced datetime="2010-06-30"/>
+  <titles>
+    <title as="introduced" type="official">Providing for a conditional adjournment of the House of Representatives and a conditional recess or adjournment of the Senate.</title>
+  </titles>
+  <sponsor id="412192"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2010-06-30T14:47:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H5231-5232" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-06-30T15:15:00-04:00" how="roll" result="pass" roll="409" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 222 - 186 (Roll no. 409).</text>
+      <reference ref="CR H5231" label="text"/>
+    </vote>
+    <action datetime="2010-06-30T15:15:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2010-06-30" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S5717-5718" label="consideration"/>
+      <reference ref="CR S5717-5718" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2010-06-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional operations and organization"/>
+  </subjects>
+  <amendments/>
+  <summary>6/30/2010--Passed Senate without amendment.
+Declares that when the House adjourns on any legislative day from Thursday, July 1, 2010, through Saturday, July 3, 2010, it stand adjourned until 2 p.m. on Tuesday, July 13, 2010. Declares that when the Senate recesses or adjourns on any day from Wednesday, June 30, 2010, through Sunday, July 4, 2010, it shall stand recessed or adjourned until noon on Monday, July 12, 2010.</summary>
+</bill>

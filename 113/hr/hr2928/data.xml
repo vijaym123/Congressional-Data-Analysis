@@ -1,0 +1,39 @@
+<bill session="113" type="h" number="2928" updated="2013-11-02T06:43:40-04:00">
+  <state datetime="2013-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-01"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="short" as="introduced">Fair and Independent Redistricting (FAIR) Act</title>
+    <title type="official" as="introduced">To direct the Election Assistance Commission to develop and publish recommendations for best practices that States may use in establishing and operating independent Congressional redistricting commissions.</title>
+  </titles>
+  <sponsor id="412516"/>
+  <cosponsors>
+    <cosponsor id="412535" joined="2013-09-30"/>
+    <cosponsor id="412521" joined="2013-09-25"/>
+    <cosponsor id="412520" joined="2013-09-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-01" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional districts and representation"/>
+    <term name="Government information and archives"/>
+    <term name="Intergovernmental relations"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,58 @@
+<bill session="112" type="h" number="6605" updated="2013-07-20T02:06:56-04:00">
+  <state datetime="2012-12-05T10:28:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-12-05T10:28:00-05:00"/>
+  </status>
+  <introduced datetime="2012-11-27"/>
+  <titles>
+    <title as="introduced" type="official">To eliminate an unnecessary reporting requirement for an unfunded DNA Identification grant program.</title>
+  </titles>
+  <sponsor id="400080"/>
+  <cosponsors>
+    <cosponsor id="400381" joined="2012-11-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-11-27">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2012-12-05T10:24:00-05:00">
+      <text>Mr. Smith (TX) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-12-05T10:24:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6650" label="consideration"/>
+    </action>
+    <action datetime="2012-12-05T10:24:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6605.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-12-05T10:28:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6650" label="text"/>
+    </vote>
+    <action datetime="2012-12-05T10:28:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-12-06">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2012-12-07">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Government information and archives"/>
+    <term name="Law enforcement administration and funding"/>
+  </subjects>
+  <amendments/>
+  <summary>12/5/2012--Passed House without amendment.
+Amends the Omnibus Crime Control and Safe Streets Act of 1968 to repeal a reporting requirement under the DNA identification grant program that requires each state or local government that receives a grant to submit to the Attorney General, for each year in which funds are expended, a report on the activities carried out and an assessment of whether such activities are meeting the needs identified in the grant application.</summary>
+</bill>

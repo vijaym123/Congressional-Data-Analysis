@@ -1,0 +1,47 @@
+<bill session="113" type="h" number="3199" updated="2013-11-05T04:46:31-05:00">
+  <state datetime="2013-09-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-26"/>
+  </status>
+  <introduced datetime="2013-09-26"/>
+  <titles>
+    <title type="short" as="introduced">Safe Military Bases Act</title>
+    <title type="official" as="introduced">To safeguard military and civilian personnel on military bases by repealing bans on military personnel carrying firearms, and for other purposes.</title>
+  </titles>
+  <sponsor id="410396"/>
+  <cosponsors>
+    <cosponsor id="412547" joined="2013-10-30"/>
+    <cosponsor id="400029" joined="2013-10-30"/>
+    <cosponsor id="400052" joined="2013-09-26"/>
+    <cosponsor id="400651" joined="2013-09-26"/>
+    <cosponsor id="400165" joined="2013-10-30"/>
+    <cosponsor id="412510" joined="2013-09-26"/>
+    <cosponsor id="400279" joined="2013-10-02"/>
+    <cosponsor id="412302" joined="2013-09-26"/>
+    <cosponsor id="412309" joined="2013-09-26"/>
+    <cosponsor id="412574" joined="2013-09-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-26" state="REFERRED">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-09-26">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2013-09-26">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-10-24">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

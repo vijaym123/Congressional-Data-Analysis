@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="3363" updated="2013-07-19T23:42:30-04:00">
+  <state datetime="2009-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2009-07-28"/>
+  </status>
+  <introduced datetime="2009-07-28"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Small Business Act to improve the preference for small business concerns owned and controlled by veterans.</title>
+  </titles>
+  <sponsor id="412250"/>
+  <cosponsors>
+    <cosponsor id="412191" joined="2009-10-29"/>
+    <cosponsor id="400617" joined="2010-01-27"/>
+    <cosponsor id="400392" joined="2010-02-25"/>
+    <cosponsor id="400435" joined="2010-05-25"/>
+    <cosponsor id="400439" joined="2010-01-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-28">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+    <action datetime="2009-07-28">
+      <text>Referred to the Subcommittee on Contracting and Technology .</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSM23" subcommittee="Contracting and Technology" name="House Small Business"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Disability and paralysis"/>
+    <term name="Government information and archives"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Small business"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/28/2009--Introduced.
+Amends the Small Business Act to allow the head of an executive agency, in complying with a preference under any law for contracting with a small business owned and controlled by veterans or service-disabled veterans, to consider only a small business verified (or waiting to be verified) in the small business database maintained by the Secretary of Veterans Affairs (VA). Requires such agency head, when any prime contract requires the contractor to comply with such preference, to require the prime contractor, in awarding subcontracts, to consider only small business concerns that are verified in that database.</summary>
+</bill>

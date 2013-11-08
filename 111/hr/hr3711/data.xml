@@ -1,0 +1,45 @@
+<bill session="111" type="h" number="3711" updated="2013-07-19T23:45:36-04:00">
+  <state datetime="2009-10-01">REFERRED</state>
+  <status>
+    <introduced datetime="2009-10-01"/>
+  </status>
+  <introduced datetime="2009-10-01"/>
+  <titles>
+    <title as="introduced" type="short">Green Taxis Act of 2009</title>
+    <title as="introduced" type="official">To authorize States or political subdivisions thereof to regulate fuel economy and emissions standards for taxicabs.</title>
+  </titles>
+  <sponsor id="400289"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2009-10-23"/>
+    <cosponsor id="412296" joined="2009-10-13"/>
+    <cosponsor id="400366" joined="2009-11-18"/>
+    <cosponsor id="400426" joined="2009-10-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-10-01">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2009-10-02">
+      <text>Referred to the Subcommittee on Energy and Environment.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="1741"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Air quality"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Motor fuels"/>
+    <term name="Motor vehicles"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>10/1/2009--Introduced.
+Green Taxis Act of 2009 - Allows states or political subdivisions to prescribe requirements for fuel economy for taxicabs and other automobiles if such requirements are at least as stringent as federal requirements and if such vehicles: (1) are automobiles that are capable of transporting not more than 10 individuals, including the driver; (2) are commercially available or are designed and manufactured pursuant to a contract with such state or subdivision; (3) are operated for hire pursuant to a license, permit, or other authorization issued by such state or subdivision; (4) provide local transportation for a fare determined on the basis of the time or distance traveled; and (5) do not exclusively provide transportation to and from airports. Amends the Clean Air Act to allow states or political subdivisions to adopt and enforce standards for the control of emissions from new motor vehicles that are taxicabs and other vehicles if such standards will be at least as protective of public health and welfare as applicable federal standards and if such vehicles meet the other criteria specified above.</summary>
+</bill>

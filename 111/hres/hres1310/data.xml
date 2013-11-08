@@ -1,0 +1,55 @@
+<bill session="111" type="hr" number="1310" updated="2013-07-19T23:07:29-04:00">
+  <state datetime="2010-05-04T14:39:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2010-05-04T14:39:00-04:00"/>
+  </status>
+  <introduced datetime="2010-04-29"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the 50th anniversary of the laser.</title>
+  </titles>
+  <sponsor id="400119"/>
+  <cosponsors>
+    <cosponsor id="412382" joined="2010-05-04"/>
+    <cosponsor id="412188" joined="2010-04-29"/>
+    <cosponsor id="400165" joined="2010-04-29"/>
+    <cosponsor id="400649" joined="2010-04-29"/>
+    <cosponsor id="412288" joined="2010-05-04"/>
+    <cosponsor id="400437" joined="2010-04-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-04-29">
+      <text>Referred to the House Committee on Science and Technology.</text>
+    </action>
+    <action datetime="2010-05-04T14:33:00-04:00">
+      <text>Ms. Fudge moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2010-05-04T14:33:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3090-3091" label="consideration"/>
+    </action>
+    <action datetime="2010-05-04T14:33:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1310.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2010-05-04T14:39:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H3090" label="text"/>
+    </vote>
+    <action datetime="2010-05-04T14:39:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Research and development"/>
+  </subjects>
+  <amendments/>
+  <summary>5/4/2010--Passed House without amendment.
+Recognizes the 50th anniversary of the laser, and the need for continued support of scientific research to maintain America's future competitiveness.</summary>
+</bill>

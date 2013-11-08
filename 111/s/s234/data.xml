@@ -1,0 +1,100 @@
+<bill session="111" type="s" number="234" updated="2013-07-20T00:25:23-04:00">
+  <state datetime="2009-03-09">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2009-03-09"/>
+  </status>
+  <introduced datetime="2009-01-14"/>
+  <titles>
+    <title as="introduced" type="official">A bill to designate the facility of the United States Postal Service located at 2105 East Cook Street in Springfield, Illinois, as the "Colonel John H. Wilson, Jr. Post Office Building".</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors>
+    <cosponsor id="412328" joined="2009-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-01-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S389"/>
+    </action>
+    <action state="REFERRED" datetime="2009-01-14">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <reference ref="CR S389" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-02-11">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2009-02-11">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2009-02-11" calendar="Senate Legislative" under="General Orders" number="21">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 21.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2009-02-12" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S2254" label="consideration"/>
+      <reference ref="CR S2254" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2009-02-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2009-02-23T14:04:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2009-02-23T16:01:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2009-02-24T13:15:00-05:00">
+      <text>Mr. Lynch moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-02-24T13:15:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2619-2620" label="consideration"/>
+    </action>
+    <action datetime="2009-02-24T13:15:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 234.</text>
+    </action>
+    <action datetime="2009-02-24T13:24:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2009-02-24T14:25:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2624" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2009-02-24T14:31:00-05:00" how="roll" result="pass" roll="79" type="vote2" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 79).</text>
+      <reference ref="CR H2619" label="text"/>
+    </vote>
+    <action datetime="2009-02-24T14:31:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2009-02-24">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2009-02-26">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2009-03-09">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2009-03-09" type="public" number="111-7">
+      <text>Became Public Law No: 111-7.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="h" number="516"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Illinois"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>3/9/2009--Public Law.
+Designates the facility of the United States Postal Service located at 2105 East Cook Street in Springfield, Illinois, as the "Colonel John H. Wilson, Jr. Post Office Building."</summary>
+</bill>

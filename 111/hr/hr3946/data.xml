@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="3946" updated="2013-07-19T23:47:44-04:00">
+  <state datetime="2009-10-27">REFERRED</state>
+  <status>
+    <introduced datetime="2009-10-27"/>
+  </status>
+  <introduced datetime="2009-10-27"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Federal Water Pollution Control Act to prohibit the sale of dishwashing detergent in the United States if the detergent contains a high level of phosphorus, and for other purposes.</title>
+  </titles>
+  <sponsor id="400391"/>
+  <cosponsors>
+    <cosponsor id="400276" joined="2009-10-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-10-27">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2009-10-28">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="675"/>
+    <bill relation="unknown" session="111" type="s" number="675"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Congressional oversight"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Great Lakes"/>
+    <term name="Retail and wholesale trades"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments/>
+  <summary>10/27/2009--Introduced.
+Amends the Federal Water Pollution Control Act (commonly known as the Clean Water Act) to require the Administrator of the Environmental Protection Agency (EPA) to prohibit the sale in the United States of residential dishwashing detergent that contains phosphorus in any form in excess of 0.5% (by weight expressed as elemental phosphorus) beginning July 1, 2010. Requires the Administrator to: (1) review the available scientific information pertaining to nutrient excesses in the Great Lakes; and (2) recommend to Congress actions to be taken by EPA to address such nutrient excesses.</summary>
+</bill>

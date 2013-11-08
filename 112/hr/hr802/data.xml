@@ -1,0 +1,94 @@
+<bill session="112" type="h" number="802" updated="2013-07-20T01:17:13-04:00">
+  <state datetime="2011-06-01T15:32:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2011-06-01T15:32:00-04:00"/>
+  </status>
+  <introduced datetime="2011-02-18"/>
+  <titles>
+    <title as="introduced" type="official">To direct the Secretary of Veterans Affairs to establish a VetStar Award Program.</title>
+    <title as="amended by house" type="official">A bill to amend title 38, United States Code, to direct the Secretary of Veterans Affairs to establish a VetStar Award Program.</title>
+  </titles>
+  <sponsor id="400133"/>
+  <cosponsors>
+    <cosponsor id="412451" joined="2011-03-15"/>
+    <cosponsor id="412460" joined="2011-05-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-02-18">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2011-03-15">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2011-05-03">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2011-05-05">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2011-05-05">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2011-05-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-05-12">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2011-05-20T11:12:00-04:00">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 112-80. Filed late, pursuant to previous special order.</text>
+    </action>
+    <calendar datetime="2011-05-20T11:13:00-04:00" calendar="Union" number="41">
+      <text>Placed on the Union Calendar, Calendar No. 41.</text>
+    </calendar>
+    <action datetime="2011-05-31T18:00:00-04:00">
+      <text>Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2011-05-31T18:00:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3776-3777" label="consideration"/>
+    </action>
+    <action datetime="2011-05-31T18:00:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 802.</text>
+    </action>
+    <action datetime="2011-05-31T18:07:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2011-06-01T15:26:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3831-3832" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-06-01T15:32:00-04:00" how="roll" result="pass" roll="383" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 11 (Roll no. 383).</text>
+      <reference ref="CR 5/31/2011 H3777" label="text"/>
+    </vote>
+    <action datetime="2011-06-01T15:32:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-06-01T15:33:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-06-06">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/1/2011--Passed House amended.
+Directs the Secretary of Veterans Affairs (VA) to establish the VetStar Award Program, to annually recognize businesses for their contributions to veterans' employment.</summary>
+</bill>

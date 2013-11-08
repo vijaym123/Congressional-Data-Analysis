@@ -1,0 +1,59 @@
+<bill session="112" type="hc" number="99" updated="2013-07-20T02:09:50-04:00">
+  <state datetime="2012-02-15">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2012-02-15"/>
+  </status>
+  <introduced datetime="2012-02-09"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony to unveil the marker which acknowledges the role that slave labor played in the construction of the United States Capitol.</title>
+  </titles>
+  <sponsor id="400240"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2012-02-09">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2012-02-09T10:43:00-05:00">
+      <text>Mr. Lungren, Daniel E. asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2012-02-09T10:43:00-05:00">
+      <text>Committee on House Administration discharged.</text>
+    </action>
+    <action datetime="2012-02-09T10:43:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H658-659" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-02-09T10:43:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H658-659" label="text"/>
+    </vote>
+    <action datetime="2012-02-09T10:43:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-02-09">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2012-02-15" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S802-803" label="consideration"/>
+    </vote>
+    <action datetime="2012-02-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="U.S. Capitol"/>
+    <term name="U.S. history"/>
+  </subjects>
+  <amendments/>
+  <summary>2/15/2012--Passed Senate without amendment.
+Authorizes the use of Emancipation Hall in the Capitol Visitor Center for a ceremony to unveil a marker acknowledging the role of slave labor in the construction of the U.S. Capitol.</summary>
+</bill>

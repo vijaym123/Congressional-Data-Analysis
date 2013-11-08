@@ -1,0 +1,40 @@
+<bill session="112" type="h" number="691" updated="2013-07-20T01:16:15-04:00">
+  <state datetime="2011-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2011-02-14"/>
+  </status>
+  <introduced datetime="2011-02-14"/>
+  <titles>
+    <title as="introduced" type="short">Fairness in Lending Act of 2011</title>
+    <title as="introduced" type="official">To amend the Truth in Lending Act to prohibit issuance of residential mortgages to any individual who lacks a Social Security account number.</title>
+  </titles>
+  <sponsor id="400151"/>
+  <cosponsors>
+    <cosponsor id="412395" joined="2011-07-07"/>
+    <cosponsor id="400273" joined="2012-06-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-02-14">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2011-03-23">
+      <text>Referred to the Subcommittee on Financial Institutions and Consumer Credit.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA15" subcommittee="Financial Institutions and Consumer Credit" name="House Financial Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Consumer credit"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Social security and elderly assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>2/14/2011--Introduced.
+Fairness in Lending Act of 2011 - Amends the Truth in Lending Act to prohibit credit from being extended in any consumer credit transaction in which a security interest will be retained or acquired in property located within the United States which will be used as the consumer's principal residence if such consumer lacks a Social Security account number.</summary>
+</bill>

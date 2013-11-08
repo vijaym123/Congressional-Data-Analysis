@@ -1,0 +1,82 @@
+<bill session="111" type="h" number="2950" updated="2013-07-19T23:38:27-04:00">
+  <state datetime="2009-09-29T14:26:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-09-29T14:26:00-04:00"/>
+  </status>
+  <introduced datetime="2009-06-18"/>
+  <titles>
+    <title as="introduced" type="official">To direct the Secretary of the Interior to allow for prepayment of repayment contracts between the United States and the Uintah Water Conservancy District.</title>
+  </titles>
+  <sponsor id="400255"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-18">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-06-22">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-07-21">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-09-10">
+      <text>Subcommittee on Water and Power Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-09-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-09-10">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2009-09-29T14:19:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-269.</text>
+    </action>
+    <calendar datetime="2009-09-29T14:20:00-04:00" calendar="Union" number="150">
+      <text>Placed on the Union Calendar, Calendar No. 150.</text>
+    </calendar>
+    <action datetime="2009-09-29T14:21:00-04:00">
+      <text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-09-29T14:21:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10006-10007" label="consideration"/>
+    </action>
+    <action datetime="2009-09-29T14:21:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2950.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-09-29T14:26:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H10006" label="text"/>
+    </vote>
+    <action datetime="2009-09-29T14:26:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-09-30">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="1757"/>
+    <bill relation="unknown" session="111" type="s" number="1757"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Utah"/>
+    <term name="Water resources funding"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <summary>9/29/2009--Passed House amended.
+Directs the Secretary of the Interior to allow for prepayment of a specified contract between the United States and the Uintah Water Conservancy District providing for repayment of municipal and industrial water delivery facilities under terms and conditions similar to those used in implementing provisions of the Central Utah Project Completion Act. Provides that the prepayment: (1) shall result in the United States recovering the net present value of all repayment streams that would have been payable to the United States if this Act was not in effect; (2) may be provided in several installments to reflect substantial completion of the delivery facilities being prepaid and any increase in the repayment obligation resulting from delivery of water in addition to the water being delivered under this contract as of this Act's enactment date; (3) shall be adjusted to conform to a final cost allocation including costs incurred by the Bureau of Reclamation, but unallocated as of the date of enactment, that are allocable to the water delivered under this contract; (4) may not be adjusted on the basis of the type of prepayment financing utilized by the District; and (5) shall be made such that total repayment is made not later than September 30, 2019.</summary>
+</bill>

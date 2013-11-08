@@ -1,0 +1,32 @@
+<bill session="113" type="h" number="3208" updated="2013-11-02T06:46:00-04:00">
+  <state datetime="2013-09-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-27"/>
+  </status>
+  <introduced datetime="2013-09-27"/>
+  <titles>
+    <title type="official" as="introduced">To clarify that certain natural gas facilities are not subject to the Natural Gas Act.</title>
+  </titles>
+  <sponsor id="412487"/>
+  <cosponsors>
+    <cosponsor id="400114" joined="2013-09-27"/>
+    <cosponsor id="412460" joined="2013-09-27"/>
+    <cosponsor id="400352" joined="2013-09-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-27" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-10-03">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

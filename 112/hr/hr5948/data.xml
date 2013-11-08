@@ -1,0 +1,113 @@
+<bill session="112" type="h" number="5948" updated="2013-07-20T02:01:21-04:00">
+  <state datetime="2012-09-19T15:52:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-09-19T15:52:00-04:00"/>
+  </status>
+  <introduced datetime="2012-06-12"/>
+  <titles>
+    <title as="introduced" type="short">Veterans Fiduciary Reform Act of 2012</title>
+    <title as="passed house" type="short">Veterans Fiduciary Reform and Honoring Noble Service Act</title>
+    <title as="introduced" type="official">To amend title 38, United States Code, to improve the supervision of fiduciaries of veterans under the laws administered by the Secretary of Veterans Affairs, and for other purposes.</title>
+    <title as="amended by house" type="official">To amend title 38, United States Code, to improve the supervision of fiduciaries of veterans under the laws administered by the Secretary of Veterans Affairs, to establish a Place of Remembrance at Arlington National Cemetery, and for other purposes.</title>
+  </titles>
+  <sponsor id="412460"/>
+  <cosponsors>
+    <cosponsor id="412236" joined="2012-06-21"/>
+    <cosponsor id="400089" joined="2012-08-01"/>
+    <cosponsor id="412480" joined="2012-06-19"/>
+    <cosponsor id="400274" joined="2012-09-19"/>
+    <cosponsor id="400279" joined="2012-06-18"/>
+    <cosponsor id="412309" joined="2012-09-19"/>
+    <cosponsor id="412310" joined="2012-06-18"/>
+    <cosponsor id="412311" joined="2012-09-19"/>
+    <cosponsor id="412461" joined="2012-06-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-06-12">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2012-06-18">
+      <text>Referred to the Subcommittee on Oversight and Investigations.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2012-06-20">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2012-06-27">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2012-06-27">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2012-07-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-07-11">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2012-09-19T13:13:00-04:00">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 112-678.</text>
+    </action>
+    <calendar datetime="2012-09-19T13:13:00-04:00" calendar="Union" number="490">
+      <text>Placed on the Union Calendar, Calendar No. 490.</text>
+    </calendar>
+    <action datetime="2012-09-19T15:33:00-04:00">
+      <text>Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-09-19T15:33:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6088-6094" label="consideration"/>
+    </action>
+    <action datetime="2012-09-19T15:33:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5948.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-09-19T15:52:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6088-6092" label="text"/>
+    </vote>
+    <action datetime="2012-09-19T15:52:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-09-19T15:52:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-09-20">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR08" subcommittee="Oversight and Investigations" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative remedies"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Congressional oversight"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Disability assistance"/>
+    <term name="Financial services and investments"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Internet and video services"/>
+    <term name="Lawyers and legal services"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>9/19/2012--Passed House amended.
+Veterans Fiduciary Reform and Honoring Noble Service Act - (Sec. 2) Provides that, when in the opinion of the Secretary of Veterans Affairs (VA) a temporary fiduciary is needed to protect the benefits of a VA beneficiary while a determination of incompetency is being made or appealed or a fiduciary is appealing a determination of misuse, the Secretary may appoint one or more temporary fiduciaries for up to 120 days. Requires the Secretary to provide a written statement to a beneficiary determined by the Secretary to be mentally incompetent for purposes of appointing a fiduciary. Allows the beneficiary to appeal such determination. Allows a beneficiary for whom the Secretary appoints a fiduciary to, at any time, request the Secretary to remove such fiduciary and appoint a new one. Requires the Secretary to comply with any such request made in good faith. Prohibits any such removal or new appointment from delaying or interrupting the beneficiary's receipt of benefits. Requires a appointed fiduciary appointed by the Secretary to act independently of the VA and in the interest of the beneficiary. Provides for the predesignation of a fiduciary. Provides that, if a beneficiary does not designate a fiduciary, the Secretary shall appoint, to the extent possible, a fiduciary who is: (1) a relative, (2) a guardian, or (3) authorized to act on their behalf under a durable power of attorney. Provides for: (1) fiduciary commissions when necessary; and (2) the temporary payment of benefits to a person having custody and control of an incompetent or minor beneficiary, to be used solely for the benefit of the beneficiary. Directs the Secretary to maintain a list of state and local agencies and nonprofit social service agencies that are qualified to act as a fiduciary. Requires any certification of a fiduciary to be made on the basis of an inquiry or investigation of his or her fitness and qualifications. Requires the investigation to include a face-to-face interview and a background check. Allows a person convicted of a federal or state offense to serve as a fiduciary only when the Secretary finds such person to be appropriate under the circumstances. Requires each fiduciary to disclose the number of beneficiaries that the fiduciary acts on behalf of. Requires the Secretary to: (1) maintain records of any person who has previously served as a fiduciary and had such status revoked, and (2) notify the beneficiary within 14 days after learning that the fiduciary has been convicted of a crime. Directs the Secretary, upon reason to believe that a fiduciary may be misusing all or part of a beneficiary benefit, to: (1) conduct a thorough investigation, and (2) report results to the Attorney General and the head of each federal department or agency that pays a beneficiary benefit to such fiduciary. Requires each Veterans Benefits Administration regional office to maintain specified fiduciary information. Requires (under current law, permits) a fiduciary to file an annual accounting of the administration of beneficiary benefits. Requires the Secretary to conduct annual random audits of fiduciaries who receive a commission for such service. Requires fiduciary repayment of misused benefits. Requires a report from the Secretary to the congressional veterans committees on the implementation of this section. (Sec. 3) Authorizes the Secretary of the Army to establish at Arlington National Cemetery (Virginia) a Place of Remembrance for the interment of the unidentified remains of members of the Armed Forces who died while on active duty in a war or contingency operation, or in the line of duty. (Sec. 4) Directs the Secretary to furnish an appropriate casket or urn for the burial in a national cemetery of a deceased veteran with no known next of kin. (Sec. 5) Requires the Secretary, in the case of a deceased veteran with no apparent next of kin and without sufficient resources to cover funeral and burial expenses, to ensure that the entity responsible for transporting the body to a national cemetery for burial notifies the VA as to whether such veteran was cremated and steps taken to ensure that such veteran has no next of kin. (Sec. 6) Directs the Secretary to report to the veterans committees on VA compliance with industry standards for caskets and urns. (Sec. 7) Excludes from interment or memorialization in a national cemetery any person convicted of a tier III sex offender offense and sentenced to a minimum of life imprisonment. (Sec. 8) Directs the Secretary, with respect to the interment, funeral, memorial service, or ceremony (service) of a deceased veteran at a national cemetery, to ensure that: (1) the expressed wishes of the next of kin or other agent of such veteran are given deference when determining whether such service affects the safety and security of the cemetery and its visitors; (2) all appropriate public cemetery areas may be used by the family for contemplation, prayer, mourning, or reflection; and (3) during such service, the family may display any chosen religious or other symbols. (Sec. 9) Directs the Secretary to provide veterans' case-tracking information access to employees of a Member of Congress or of a state or local governmental agency who assist veterans with benefit claims. Directs the Secretary to ensure that such access does not: (1) allow the employee to modify the data in the case-tracking system, and (2) include access to medical records. (Sec. 10) Requires the Secretary, in the event of a data breach with respect to sensitive personal information that is processed or maintained by the Secretary, to notify Congress and each individual whose sensitive personal information is involved in the data breach. Directs the Secretary to make such notifications within: (1) 10 business days, or (2) 15 business days upon determining that providing the earlier notification is not feasible due to circumstances necessary to accurately identify the individuals whose sensitive personal information is involved or to prevent further breach or unauthorized disclosure and reasonably restore the integrity of the data system. Requires such notification, in writing or by email or other electronic means, to include: (1) a description of the sensitive personal information involved, (2) a telephone number that the individual may use to contact the VA, (3) notice that the individual is entitled to receive certain credit protection services at no cost, (4) the toll-free contact telephone numbers and addresses for the major credit reporting agencies, and (5) a toll-free telephone number and website address to obtain identity theft information. Directs the Secretary to notify the general public concerning any data breach involving sensitive personal information within 10 business days or as soon as possible under the infeasibility exception, above. (Sec. 11) Directs the Secretary to ensure that no VA employee who violates any federal civil law or regulation covered by the Federal Acquisition Regulation, or any internal VA policy, receives any retention incentive, payment, or award for or during the year of such violation. (Sec. 12) Places a specified limit, for each of FY2013-FY2017, on the total amount of awards and bonuses for VA employees.</summary>
+</bill>

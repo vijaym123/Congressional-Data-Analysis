@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="1702" updated="2013-11-02T06:33:20-04:00">
+  <state datetime="2013-04-24">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-24"/>
+  </status>
+  <introduced datetime="2013-04-24"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Transportation Service Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to make permanent the authority of the Secretary of Veterans Affairs to transport individuals to and from facilities of the Department of Veterans Affairs in connection with rehabilitation, counseling, examination, treatment, and care.</title>
+  </titles>
+  <sponsor id="412502"/>
+  <cosponsors>
+    <cosponsor id="400404" joined="2013-04-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-24" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-05-08">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2013-07-09">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="455"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Transportation costs"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>4/24/2013--Introduced.
+Veterans Transportation Service Act - Makes permanent (under current law, expires on January 10, 2014) the authority of the Secretary of Veterans Affairs to transport individuals to and from facilities of the Department of Veterans Affairs (VA) in connection with vocational rehabilitation, counseling, examination, treatment, or care.</summary>
+</bill>

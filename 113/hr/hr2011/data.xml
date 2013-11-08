@@ -1,0 +1,111 @@
+<bill session="113" type="h" number="2011" updated="2013-11-02T06:35:57-04:00">
+  <state datetime="2013-10-28T19:04:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-10-28T19:04:00-04:00"/>
+  </status>
+  <introduced datetime="2013-05-16"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Advisory Committee on Education Improvement Act of 2013</title>
+    <title type="short" as="reported to house">Veterans' Advisory Committee on Education Improvement Act of 2013</title>
+    <title type="short" as="passed house">Veterans' Advisory Committee on Education Improvement Act of 2013</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to provide for a two-year extension of the Veterans' Advisory Committee on Education.</title>
+  </titles>
+  <sponsor id="412544"/>
+  <cosponsors>
+    <cosponsor id="412502" joined="2013-06-06"/>
+    <cosponsor id="412407" joined="2013-07-25"/>
+    <cosponsor id="412571" joined="2013-07-25"/>
+    <cosponsor id="412535" joined="2013-07-09"/>
+    <cosponsor id="400640" joined="2013-09-12"/>
+    <cosponsor id="412446" joined="2013-06-18"/>
+    <cosponsor id="400209" joined="2013-07-19"/>
+    <cosponsor id="412583" joined="2013-06-13"/>
+    <cosponsor id="412521" joined="2013-07-19"/>
+    <cosponsor id="400271" joined="2013-07-10"/>
+    <cosponsor id="412575" joined="2013-06-18"/>
+    <cosponsor id="412462" joined="2013-05-16"/>
+    <cosponsor id="412509" joined="2013-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-16">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H2666"/>
+    </action>
+    <action datetime="2013-05-16" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-05-31">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2013-06-26">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2013-07-18">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2013-07-18">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar datetime="2013-08-01" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2013-09-17T16:50:00-04:00">
+      <text>Reported by the Committee on Veterans' Affairs. H. Rept. 113-211.</text>
+    </action>
+    <calendar datetime="2013-09-17T16:50:00-04:00" calendar="Union" number="155">
+      <text>Placed on the Union Calendar, Calendar No. 155.</text>
+    </calendar>
+    <action datetime="2013-10-28T17:37:00-04:00">
+      <text>Mr. Miller (FL) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-10-28T17:37:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6804-6806" label="consideration"/>
+    </action>
+    <action datetime="2013-10-28T17:37:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2011.</text>
+    </action>
+    <action datetime="2013-10-28T17:46:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-10-28T18:56:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6806-6807" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="562" datetime="2013-10-28T19:04:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 2 (Roll no. 562).</text>
+      <reference ref="CR H6804" label="text"/>
+    </vote>
+    <action datetime="2013-10-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Advisory bodies"/>
+    <term name="Afghanistan"/>
+    <term name="Asia"/>
+    <term name="Iraq"/>
+    <term name="Middle East"/>
+    <term name="Military operations and strategy"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/16/2013--Introduced.
+Veterans' Advisory Committee on Education Improvement Act of 2013 - Extends through the end of 2015 the Veterans' Advisory Committee on Education. Requires the Committee to include veterans representative of the post-9/11 operations in Iraq and Afghanistan.</summary>
+</bill>

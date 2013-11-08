@@ -1,0 +1,63 @@
+<bill session="113" type="h" number="2600" updated="2013-11-02T06:40:53-04:00">
+  <state datetime="2013-09-26T13:25:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-09-26T13:25:00-04:00"/>
+  </status>
+  <introduced datetime="2013-06-28"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Interstate Land Sales Full Disclosure Act to clarify how the Act applies to condominiums.</title>
+  </titles>
+  <sponsor id="400251"/>
+  <cosponsors>
+    <cosponsor id="412451" joined="2013-06-28"/>
+    <cosponsor id="400644" joined="2013-06-28"/>
+    <cosponsor id="400289" joined="2013-06-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1004-1005"/>
+    </action>
+    <action datetime="2013-06-28" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2013-09-25T18:17:00-04:00">
+      <text>Mr. McHenry moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-09-25T18:17:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5821-5823" label="consideration"/>
+    </action>
+    <action datetime="2013-09-25T18:17:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2600.</text>
+    </action>
+    <action datetime="2013-09-25T18:28:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-09-26T13:12:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5847-5848" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="487" datetime="2013-09-26T13:25:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 487).</text>
+      <reference ref="CR 9/25/2013 H5822" label="text"/>
+    </vote>
+    <action datetime="2013-09-27">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Cooperative and condominium housing"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Real estate business"/>
+  </subjects>
+  <amendments/>
+  <summary>9/26/2013--Passed House without amendment.
+Amends the Interstate Land Sales Full Disclosure Act to exempt from certain registration and disclosure requirements the sale or lease of a condominium unit not already exempt from coverage under such Act.</summary>
+</bill>

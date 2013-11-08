@@ -1,0 +1,54 @@
+<bill session="111" type="h" number="1371" updated="2013-07-19T23:24:08-04:00">
+  <state datetime="2009-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2009-03-05"/>
+  </status>
+  <introduced datetime="2009-03-05"/>
+  <titles>
+    <title as="introduced" type="short">COLA Fairness Act of 2009</title>
+    <title as="introduced" type="official">To require the establishment of regional consumer price indices to compute cost-of-living increases under the programs for Social Security and Medicare and other medical benefits under titles II and XVIII of the Social Security Act.</title>
+  </titles>
+  <sponsor id="400426"/>
+  <cosponsors>
+    <cosponsor id="400251" joined="2010-07-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-05">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-03-05">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2009-03-05">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-03-05">
+      <text>Referred to House Education and Labor</text>
+    </action>
+    <action datetime="2009-03-06">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2009-04-29">
+      <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+      <committee name="House Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Health, Employment, Labor, and Pensions" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Inflation and prices"/>
+    <term name="Medicare"/>
+    <term name="Social security and elderly assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/2009--Introduced.
+COLA Fairness Act of 2009 - Requires the Bureau of Labor Statistics of the Department of Labor to establish: (1) a mapping of the United States comprising 14 specified regions; and (2) particular monthly consumer price indices for such regions for computation of cost-of-living increases for Social Security and Medicare (title XVIII of the Social Security Act) benefits.</summary>
+</bill>

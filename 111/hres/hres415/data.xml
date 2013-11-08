@@ -1,0 +1,74 @@
+<bill session="111" type="hr" number="415" updated="2013-07-19T22:59:35-04:00">
+  <state datetime="2009-05-12T16:01:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2009-05-12T16:01:00-04:00"/>
+  </status>
+  <introduced datetime="2009-05-07"/>
+  <titles>
+    <title as="introduced" type="official">Commending the heroic efforts of the people fighting the floods in North Dakota and Minnesota.</title>
+  </titles>
+  <sponsor id="400323"/>
+  <cosponsors>
+    <cosponsor id="412216" joined="2009-05-12"/>
+    <cosponsor id="412215" joined="2009-05-12"/>
+    <cosponsor id="400224" joined="2009-05-12"/>
+    <cosponsor id="400259" joined="2009-05-12"/>
+    <cosponsor id="400299" joined="2009-05-12"/>
+    <cosponsor id="412303" joined="2009-05-12"/>
+    <cosponsor id="400316" joined="2009-05-12"/>
+    <cosponsor id="412214" joined="2009-05-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-05-07">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2009-05-08">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-05-08">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-05-12T15:45:00-04:00">
+      <text>Mr. Walz moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2009-05-12T15:45:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5430-5433" label="consideration"/>
+    </action>
+    <action datetime="2009-05-12T15:45:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 415.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2009-05-12T16:01:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H5430" label="text"/>
+    </vote>
+    <action datetime="2009-05-12T16:01:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hr" number="405"/>
+    <bill relation="unknown" session="111" type="hr" number="405"/>
+    <bill relation="unknown" session="111" type="hr" number="405"/>
+    <bill relation="unknown" session="111" type="hr" number="410"/>
+    <bill relation="unknown" session="111" type="sr" number="132"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Congressional tributes"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Floods and storm protection"/>
+    <term name="Natural disasters"/>
+    <term name="North Dakota"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2009--Passed House without amendment.
+Commends: (1) the people of North Dakota and Minnesota for their efforts in fighting the floods in those states; and (2) the people from around the United States who assisted them. Expresses appreciation to the officials of the federal agencies working in North Dakota and Minnesota for their effective response to the disaster. Expresses support for the efforts of the communities of North Dakota and Minnesota to recover from the 2009 flooding and to improve protections against flooding in the future.</summary>
+</bill>

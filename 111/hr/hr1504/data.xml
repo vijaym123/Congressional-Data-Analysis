@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="1504" updated="2013-07-19T23:25:21-04:00">
+  <state datetime="2009-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2009-03-12"/>
+  </status>
+  <introduced datetime="2009-03-12"/>
+  <titles>
+    <title as="introduced" type="official">To require that, in the questionnaires used in the taking of any decennial census of population, a checkbox or other similar option be included so that respondents may indicate Dominican extraction or descent.</title>
+  </titles>
+  <sponsor id="400333"/>
+  <cosponsors>
+    <cosponsor id="400093" joined="2009-06-24"/>
+    <cosponsor id="400366" joined="2009-04-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-12">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2009-05-04">
+      <text>Referred to the Subcommittee on Information Policy, Census, and National Archives.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO23" subcommittee="Information Policy, Census, and National Archives" name="House Oversight and Government Reform"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="2071"/>
+    <bill relation="unknown" session="111" type="s" number="1083"/>
+    <bill relation="identical" session="111" type="s" number="1084"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Caribbean area"/>
+    <term name="Census and government statistics"/>
+    <term name="Dominican Republic"/>
+    <term name="Latin America"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/2009--Introduced.
+Requires the Secretary of Commerce to include in any questionnaire used in a decennial census to determine state populations an option for respondents to indicate Dominican extraction or descent.</summary>
+</bill>

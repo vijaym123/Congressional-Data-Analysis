@@ -1,0 +1,38 @@
+<bill session="113" type="h" number="2986" updated="2013-11-02T06:44:09-04:00">
+  <state datetime="2013-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-02"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Access to Primary Care Act</title>
+    <title type="official" as="introduced">To amend title XIX of the Social Security Act to extend the temporary Medicare payment rate floor for primary care services of primary care physicians to nurse practitioners, clinical nurse specialists, physician assistants, and certified nurse-midwives under the Medicaid program, and for other purposes.</title>
+  </titles>
+  <sponsor id="412501"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2013-09-17"/>
+    <cosponsor id="400100" joined="2013-09-17"/>
+    <cosponsor id="400209" joined="2013-08-02"/>
+    <cosponsor id="412209" joined="2013-10-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health personnel"/>
+    <term name="Medicaid"/>
+  </subjects>
+  <amendments/>
+</bill>

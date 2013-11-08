@@ -1,0 +1,41 @@
+<bill session="111" type="h" number="1297" updated="2013-07-19T23:23:30-04:00">
+  <state datetime="2009-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2009-03-04"/>
+  </status>
+  <introduced datetime="2009-03-04"/>
+  <titles>
+    <title as="introduced" type="short">Hawai'i Capital National Heritage Area Establishment Act</title>
+    <title as="introduced" type="official">To establish the Hawai'i Capital National Heritage Area, and for other purposes.</title>
+  </titles>
+  <sponsor id="400001"/>
+  <cosponsors>
+    <cosponsor id="412200" joined="2009-03-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-04">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-03-09">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="359"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Hawaii"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Historical and cultural resources"/>
+    <term name="Outdoor recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2009--Introduced.
+Hawai'i Capital National Heritage Area Establishment Act - Establishes the Hawai'i Capital National Heritage Area in Hawai'i which shall consist of portions of Honolulu and the Honolulu Ahupua'a. Designates the Hawai'i Capital Cultural Coalition as the local coordinating entity for the Area. Requires the Coalition to prepare and submit a management plan for the Area.</summary>
+</bill>

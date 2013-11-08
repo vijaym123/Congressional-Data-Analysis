@@ -1,0 +1,107 @@
+<bill session="113" type="h" number="2189" updated="2013-11-02T06:37:26-04:00">
+  <state datetime="2013-10-28T18:56:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-10-28T18:56:00-04:00"/>
+  </status>
+  <introduced datetime="2013-05-23"/>
+  <titles>
+    <title type="official" as="introduced">To establish a commission or task force to evaluate the backlog of disability claims of the Department of Veterans Affairs.</title>
+    <title type="official" as="amended by house">To improve the processing of disability claims by the Department of Veterans Affairs, and for other purposes.</title>
+  </titles>
+  <sponsor id="400279"/>
+  <cosponsors>
+    <cosponsor id="400196" joined="2013-09-26"/>
+    <cosponsor id="400209" joined="2013-09-11"/>
+    <cosponsor id="412190" joined="2013-05-23"/>
+    <cosponsor id="400266" joined="2013-09-10"/>
+    <cosponsor id="412552" joined="2013-09-10"/>
+    <cosponsor id="412409" joined="2013-06-28"/>
+    <cosponsor id="412509" joined="2013-07-19"/>
+    <cosponsor id="400411" joined="2013-09-10"/>
+    <cosponsor id="412538" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-23" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-06-11">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2013-06-28">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2013-07-17">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2013-07-17">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar datetime="2013-08-01" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2013-09-27T10:51:00-04:00">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 113-236.</text>
+    </action>
+    <calendar datetime="2013-09-27T10:51:00-04:00" calendar="Union" number="171">
+      <text>Placed on the Union Calendar, Calendar No. 171.</text>
+    </calendar>
+    <action datetime="2013-10-28T16:29:00-04:00">
+      <text>Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2013-10-28T16:29:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6782-6794" label="consideration"/>
+    </action>
+    <action datetime="2013-10-28T16:29:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2189.</text>
+    </action>
+    <action datetime="2013-10-28T17:02:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-10-28T18:31:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6806" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="561" datetime="2013-10-28T18:56:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 1 (Roll no. 561).</text>
+      <reference ref="CR H6782-6790" label="text"/>
+    </vote>
+    <action datetime="2013-10-28T18:56:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-10-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Advisory bodies"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Disability assistance"/>
+    <term name="Government studies and investigations"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Performance measurement"/>
+    <term name="Specialized courts"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/23/2013--Introduced.
+Establishes within the Department of Veterans Affairs (VA) a commission or task force to: (1) evaluate the backlog of veterans' disability claims, including the current process used by the Secretary of Veterans Affairs to evaluate claims and appeals, the applicable laws and regulations, and the appeals process; (2) analyze possible improvements to the claims process; and (3) submit to the Secretary remedies and solutions for such backlog. Requires the Secretary implement such remedies and solutions as the Secretary determines appropriate and to submit to Congress a justification regarding those not implemented.</summary>
+</bill>

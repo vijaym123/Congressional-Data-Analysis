@@ -1,0 +1,64 @@
+<bill session="111" type="h" number="3822" updated="2013-07-19T23:46:35-04:00">
+  <state datetime="2009-10-15">REFERRED</state>
+  <status>
+    <introduced datetime="2009-10-15"/>
+  </status>
+  <introduced datetime="2009-10-15"/>
+  <titles>
+    <title as="introduced" type="official">To permit employers to provide contributions and assistance to certain employees who purchase individual health insurance.</title>
+  </titles>
+  <sponsor id="400099"/>
+  <cosponsors>
+    <cosponsor id="400018" joined="2009-10-15"/>
+    <cosponsor id="400034" joined="2009-10-15"/>
+    <cosponsor id="400039" joined="2009-11-05"/>
+    <cosponsor id="400052" joined="2009-10-15"/>
+    <cosponsor id="400056" joined="2009-10-15"/>
+    <cosponsor id="400154" joined="2009-11-03"/>
+    <cosponsor id="400441" joined="2010-01-26"/>
+    <cosponsor id="400320" joined="2009-10-15"/>
+    <cosponsor id="412309" joined="2009-11-16"/>
+    <cosponsor id="412217" joined="2009-11-02"/>
+    <cosponsor id="412255" joined="2009-11-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-10-15">
+      <text>Referred to the Committee on Education and Labor, and in addition to the Committees on Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-10-15">
+      <text>Referred to House Education and Labor</text>
+    </action>
+    <action datetime="2009-10-15">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-10-15">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2009-10-16">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2009-11-16">
+      <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+      <committee name="House Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Health, Employment, Labor, and Pensions" name="House Education and Labor"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Federal preemption"/>
+    <term name="Health care costs and insurance"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>10/15/2009--Introduced.
+Permits an employer that does not offer health benefits coverage to its employees as of this Act's enactment to provide tax-free defined contributions and administrative assistance to such employees who choose to purchase health insurance coverage in the individual market. Bars any state from prohibiting: (1) an employer from taking any such actions; or (2) the sale of health insurance coverage to employees where an employer's involvement is limited to withholding premiums from employee paychecks and sending the premium payments to the health insurance issuer on the employees' behalf. Makes federal rules relating to list billing (the sale of individual health plans to an employer's employees) inapplicable to actions described in this Act.</summary>
+</bill>

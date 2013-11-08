@@ -1,0 +1,77 @@
+<bill session="112" type="h" number="1950" updated="2013-07-20T01:27:09-04:00">
+  <state datetime="2012-08-01T20:46:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-08-01T20:46:00-04:00"/>
+  </status>
+  <introduced datetime="2011-05-23"/>
+  <titles>
+    <title as="introduced" type="official">To enact title 54, United States Code, "National Park System", as positive law.</title>
+  </titles>
+  <sponsor id="400381"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2011-05-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-05-23">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2012-07-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-07-10">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2012-07-31T14:47:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 112-631.</text>
+    </action>
+    <calendar datetime="2012-07-31T14:48:00-04:00" calendar="House" number="154">
+      <text>Placed on the House Calendar, Calendar No. 154.</text>
+    </calendar>
+    <action datetime="2012-07-31T19:36:00-04:00">
+      <text>Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-07-31T19:37:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5452-5504" label="consideration"/>
+    </action>
+    <action datetime="2012-07-31T19:37:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1950.</text>
+    </action>
+    <action datetime="2012-07-31T19:41:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Scott (VA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2012-08-01T20:46:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5619" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-08-01T20:46:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR 7/31/2012 H5452-5504" label="text"/>
+    </vote>
+    <action datetime="2012-08-01T20:46:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-08-02">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="General public lands matters"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Monuments and memorials"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Seashores and lakeshores"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/2012--Passed House amended.
+Enacts title 54 of the United States Code into positive law to be entitled "National Park Service and Related Programs." Makes conforming changes to existing law and repeals specified provisions of specified laws.</summary>
+</bill>

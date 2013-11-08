@@ -1,0 +1,59 @@
+<bill session="113" type="h" number="2952" updated="2013-11-02T06:43:52-04:00">
+  <state datetime="2013-10-29">REPORTED</state>
+  <status>
+    <unknown datetime="2013-10-29"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="short" as="introduced">CIRDA Act of 2013</title>
+    <title type="short" as="introduced">Critical Infrastructure Research and Development Advancement Act of 2013</title>
+    <title type="official" as="introduced">To amend the Homeland Security Act of 2002 to make certain improvements in the laws relating to the advancement of security technologies for critical infrastructure protection, and for other purposes.</title>
+  </titles>
+  <sponsor id="412466"/>
+  <cosponsors>
+    <cosponsor id="412221" joined="2013-09-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-01" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2013-08-09">
+      <text>Referred to the Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2013-09-18">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2013-09-18">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2013-10-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <calendar datetime="2013-10-29" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, Markup"/>
+    <committee activity="Referral, Markup, Reporting" code="HSHM08" subcommittee="Cybersecurity, Infrastructure Protection, and Security Technologies" name="House Homeland Security"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Government information and archives"/>
+    <term name="Homeland security"/>
+    <term name="Public-private cooperation"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+    <term name="Technology assessment"/>
+    <term name="Technology transfer and commercialization"/>
+  </subjects>
+  <amendments/>
+</bill>

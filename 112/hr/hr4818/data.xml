@@ -1,0 +1,49 @@
+<bill session="112" type="h" number="4818" updated="2013-07-20T01:51:41-04:00">
+  <state datetime="2012-04-26">REFERRED</state>
+  <status>
+    <introduced datetime="2012-04-26"/>
+  </status>
+  <introduced datetime="2012-04-26"/>
+  <titles>
+    <title as="introduced" type="short">Dental Insurance Fairness Act of 2012</title>
+    <title as="introduced" type="official">To amend the Employee Retirement Income Security Act of 1974 to ensure health care coverage value and transparency for dental benefits under group health plans.</title>
+  </titles>
+  <sponsor id="412397"/>
+  <cosponsors>
+    <cosponsor id="400616" joined="2012-09-19"/>
+    <cosponsor id="412272" joined="2012-07-19"/>
+    <cosponsor id="412287" joined="2012-07-17"/>
+    <cosponsor id="412209" joined="2012-08-02"/>
+    <cosponsor id="400363" joined="2012-07-26"/>
+    <cosponsor id="400376" joined="2012-05-29"/>
+    <cosponsor id="412408" joined="2012-05-16"/>
+    <cosponsor id="412405" joined="2012-08-02"/>
+    <cosponsor id="400440" joined="2012-07-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-04-26">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2012-09-26">
+      <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+      <committee name="House Committee on Education and the Workforce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Health, Employment, Labor, and Pensions" name="House Education and the Workforce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="1809"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Dental care"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+  </subjects>
+  <amendments/>
+  <summary>4/26/2012--Introduced.
+Dental Insurance Fairness Act of 2012 - Amends the Employee Retirement Income Security Act of 1974 (ERISA) to prescribe certain health care coverage value requirements for dental benefits under group health plans.</summary>
+</bill>

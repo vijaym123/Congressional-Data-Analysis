@@ -1,0 +1,92 @@
+<bill session="111" type="h" number="838" updated="2013-07-19T23:19:27-04:00">
+  <state datetime="2009-08-12">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2009-08-12"/>
+  </status>
+  <introduced datetime="2009-02-03"/>
+  <titles>
+    <title as="introduced" type="short">Miami Dade College Land Conveyance Act</title>
+    <title as="passed house" type="short">Miami Dade College Land Conveyance Act</title>
+    <title as="passed senate" type="short">Miami Dade College Land Conveyance Act</title>
+    <title as="enacted" type="short">Miami Dade College Land Conveyance Act</title>
+    <title as="introduced" type="official">To provide for the conveyance of a parcel of land held by the Bureau of Prisons of the Department of Justice in Miami Dade County, Florida, to facilitate the construction of a new educational facility that includes a secure parking area for the Bureau of Prisons, and for other purposes.</title>
+  </titles>
+  <sponsor id="400344"/>
+  <cosponsors>
+    <cosponsor id="400107" joined="2009-02-03"/>
+    <cosponsor id="400108" joined="2009-02-03"/>
+    <cosponsor id="400270" joined="2009-02-03"/>
+    <cosponsor id="400623" joined="2009-02-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-03">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2009-03-16">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2009-03-31T18:16:00-04:00">
+      <text>Ms. Jackson-Lee moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-03-31T18:16:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4214-4215" label="consideration"/>
+    </action>
+    <action datetime="2009-03-31T18:16:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 838.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-03-31T18:24:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4214" label="text"/>
+    </vote>
+    <action datetime="2009-03-31T18:24:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-04-01">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2009-07-28">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S8211" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2009-07-28" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S8211" label="text"/>
+    </vote>
+    <action datetime="2009-07-28">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2009-07-28">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2009-07-31">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2009-08-12">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2009-08-12" type="public" number="111-48">
+      <text>Became Public Law No: 111-48.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="814"/>
+    <bill relation="unknown" session="111" type="s" number="814"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Florida"/>
+    <term name="Higher education"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+  <summary>8/12/2009--Public Law.
+Miami Dade College Land Conveyance Act - Directs the Attorney General to convey a parcel of land held by the Bureau of Prisons to Miami Dade College in Miami-Dade County, Florida, so that the college can use the site for a new educational building that includes a parking area with designated parking spaces for the Bureau of Prisons. Permits the Attorney General to revert the land to the United States if it is not being used in accordance with the purpose specified above. Requires any determination of the Attorney General concerning such a reversion to be made on the record after an opportunity for a hearing. Allows the Attorney General to have the exact size and legal description of the land to be conveyed determined by a survey and requires the College to bear the cost of the survey. Makes inapplicable to such land conveyance requirements under the National Environmental Policy Act of 1969 for an environmental impact statement.</summary>
+</bill>

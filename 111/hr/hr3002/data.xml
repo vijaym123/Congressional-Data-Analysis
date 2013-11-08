@@ -1,0 +1,54 @@
+<bill session="111" type="h" number="3002" updated="2013-07-19T23:39:00-04:00">
+  <state datetime="2009-06-23">REFERRED</state>
+  <status>
+    <introduced datetime="2009-06-23"/>
+  </status>
+  <introduced datetime="2009-06-23"/>
+  <titles>
+    <title as="introduced" type="short">PATIENTS Act of 2009</title>
+    <title as="introduced" type="short">Preserving Access to Targeted, Individualized, and Effective New Treatments and Services (PATIENTS) of 2009</title>
+    <title as="introduced" type="official">To protect all patients by prohibiting the use of data obtained from comparative effectiveness research to deny coverage of items or services under Federal health care programs and to ensure that comparative effectiveness research accounts for advancements in personalized medicine and differences in patient treatment response.</title>
+  </titles>
+  <sponsor id="400036"/>
+  <cosponsors>
+    <cosponsor id="400034" joined="2009-10-01"/>
+    <cosponsor id="400060" joined="2009-06-23"/>
+    <cosponsor id="400154" joined="2009-11-05"/>
+    <cosponsor id="400320" joined="2009-11-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-23">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-06-23">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-06-23">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2009-06-24">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="1259"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Genetics"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health information and medical records"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medical research"/>
+    <term name="Minority health"/>
+  </subjects>
+  <amendments/>
+  <summary>6/23/2009--Introduced.
+Preserving Access to Targeted, Individualized, and Effective New Treatments and Services (PATIENTS) Act of 2009 or the PATIENTS Act of 2009 - Prohibits the Secretary of Health and Human Services (HHS) from using data obtained from the conduct of comparative effectiveness research, including such research that is conducted or supported using funds appropriated under the American Recovery and Reinvestment Act of 2009, to deny coverage of an item or service under a federal health care program. Requires the Secretary to ensure that comparative effectiveness research conducted or supported by the federal government accounts for factors contributing to differences in the treatment response and preferences of patients, including patient-reported outcomes, genomics and personalized medicine, the unique needs of health disparity populations, and indirect patient benefits.</summary>
+</bill>

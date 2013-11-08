@@ -1,0 +1,114 @@
+<bill session="113" type="h" number="2374" updated="2013-11-02T06:38:59-04:00">
+  <state datetime="2013-10-29T17:37:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-10-29T17:37:00-04:00"/>
+  </status>
+  <introduced datetime="2013-06-14"/>
+  <titles>
+    <title type="short" as="introduced">Retail Investor Protection Act</title>
+    <title type="short" as="reported to house">Retail Investor Protection Act</title>
+    <title type="official" as="introduced">To amend the Securities Exchange Act of 1934 to provide protections for retail customers, and for other purposes.</title>
+  </titles>
+  <sponsor id="412548"/>
+  <cosponsors>
+    <cosponsor id="412527" joined="2013-09-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-14" state="REFERRED">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-06-14">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2013-06-14">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2013-06-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Financial Services"/>
+    </action>
+    <calendar datetime="2013-06-19" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 44 - 13.</text>
+      <committee name="House Financial Services"/>
+    </calendar>
+    <action datetime="2013-09-25T19:23:00-04:00">
+      <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 113-228, Part I.</text>
+    </action>
+    <action datetime="2013-09-25T19:23:00-04:00">
+      <text>Committee on Education and the Workforce discharged.</text>
+    </action>
+    <calendar datetime="2013-09-25T19:23:00-04:00" calendar="Union" number="168">
+      <text>Placed on the Union Calendar, Calendar No. 168.</text>
+    </calendar>
+    <action datetime="2013-09-30T13:55:00-04:00">
+      <text>Supplemental report filed by the Committee on Financial Services, H. Rept. 113-228, Part II.</text>
+    </action>
+    <action datetime="2013-10-29T14:51:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 391.</text>
+      <reference ref="CR H6855-6859" label="consideration"/>
+    </action>
+    <action datetime="2013-10-29T14:52:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 2374.</text>
+    </action>
+    <action datetime="2013-10-29T16:01:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H.Res. 391, the House proceeded with 20 minutes of debate on the George Miller amendment.</text>
+    </action>
+    <action datetime="2013-10-29T16:25:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the George Miller amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. George Miller demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.</text>
+    </action>
+    <action datetime="2013-10-29T16:38:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6869-6972" label="consideration"/>
+    </action>
+    <action datetime="2013-10-29T16:38:00-04:00">
+      <text>UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the adoption of the George Miller amendment, which was debated earlier and on which further proceedings had been postponed.</text>
+    </action>
+    <action datetime="2013-10-29T17:09:00-04:00">
+      <text>Mr. Tierney moved to recommit with instructions to Education and the Workforce.</text>
+      <reference ref="CR H6869-6971" label="consideration"/>
+      <reference ref="CR H6870" label="text"/>
+    </action>
+    <action datetime="2013-10-29T17:10:00-04:00">
+      <text>DEBATE - The House proceeded with 10 minutes of debate on the Tierney motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add a new section to the bill titled Protecting Retirement Savings From Investment Fraud.</text>
+    </action>
+    <action datetime="2013-10-29T17:17:00-04:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H6870" label="consideration"/>
+    </action>
+    <action datetime="2013-10-29T17:28:00-04:00">
+      <text>On motion to recommit with instructions Failed by recorded vote: 195 - 223 (Roll no. 566).</text>
+    </action>
+    <vote how="roll" type="vote" roll="567" datetime="2013-10-29T17:37:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by recorded vote: 254 - 166 (Roll no. 567).</text>
+    </vote>
+    <action datetime="2013-10-29T17:37:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-10-30">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup, Reporting"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, Discharged"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="hr" number="391"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Department of Labor"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Financial services and investments"/>
+    <term name="Government studies and investigations"/>
+    <term name="Securities and Exchange Commission (SEC)"/>
+  </subjects>
+  <amendments>
+    <amendment number="h492"/>
+    <amendment number="h493"/>
+  </amendments>
+  <summary>9/25/2013--Reported to House amended, Part I.
+Retail Investor Protection Act - (Sec. 2) Prohibits the Secretary of Labor from prescribing any regulation under the Employee Retirement Income Security Act of 1974 (ERISA) defining the circumstances under which an individual is considered a fiduciary until 60 days after the Securities and Exchange Commission (SEC) issues a final rule governing standards of conduct for brokers and dealers under specified law. (Sec. 3) Amends the Securities Exchange Act of 1934 to prohibit the SEC from promulgating a rule establishing an investment advisor standard of conduct as the standard of conduct of brokers and dealers before it has ascertained: (1) if retail customers are systematically harmed or disadvantaged owing to the operation of brokers or dealers under different standards of conduct than those that apply to investment advisors under the Investment Advisers Act of 1940, and (2) whether adoption of a uniform fiduciary standard of care for brokers or dealers and investment advisors would adversely impact retail investor access or availability to personalized investment advice and recommendations. Requires the SEC: (1) to publish in the Federal Register formal findings that such rules would reduce retail customer confusion regarding standards of conduct applicable to brokers, dealers, and investment advisors; and (2) in proposing such rules, to consider the differences in the registration, supervision, and examination requirements applicable to brokers, dealers, and investment advisors.</summary>
+</bill>

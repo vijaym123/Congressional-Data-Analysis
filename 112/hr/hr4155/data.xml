@@ -1,0 +1,119 @@
+<bill session="112" type="h" number="4155" updated="2013-07-20T01:46:01-04:00">
+  <state datetime="2012-07-23">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2012-07-23"/>
+  </status>
+  <introduced datetime="2012-03-07"/>
+  <titles>
+    <title as="introduced" type="short">Veteran Skills to Jobs Act</title>
+    <title as="reported to house" type="short">Veteran Skills to Jobs Act</title>
+    <title as="passed house" type="short">Veteran Skills to Jobs Act</title>
+    <title as="passed senate" type="short">Veteran Skills to Jobs Act</title>
+    <title as="enacted" type="short">Veteran Skills to Jobs Act</title>
+    <title as="introduced" type="official">To direct the head of each Federal department and agency to treat relevant military training as sufficient to satisfy training or certification requirements for Federal licenses.</title>
+  </titles>
+  <sponsor id="412403"/>
+  <cosponsors>
+    <cosponsor id="412436" joined="2012-05-08"/>
+    <cosponsor id="400041" joined="2012-05-30"/>
+    <cosponsor id="412258" joined="2012-05-09"/>
+    <cosponsor id="400068" joined="2012-05-30"/>
+    <cosponsor id="412379" joined="2012-06-07"/>
+    <cosponsor id="412271" joined="2012-05-09"/>
+    <cosponsor id="412272" joined="2012-07-09"/>
+    <cosponsor id="412193" joined="2012-06-07"/>
+    <cosponsor id="400097" joined="2012-06-28"/>
+    <cosponsor id="412463" joined="2012-05-07"/>
+    <cosponsor id="412401" joined="2012-06-27"/>
+    <cosponsor id="412452" joined="2012-06-12"/>
+    <cosponsor id="412200" joined="2012-07-09"/>
+    <cosponsor id="412460" joined="2012-05-09"/>
+    <cosponsor id="400630" joined="2012-06-27"/>
+    <cosponsor id="400251" joined="2012-05-07"/>
+    <cosponsor id="400274" joined="2012-05-16"/>
+    <cosponsor id="400277" joined="2012-05-30"/>
+    <cosponsor id="412409" joined="2012-04-18"/>
+    <cosponsor id="400333" joined="2012-05-07"/>
+    <cosponsor id="400346" joined="2012-05-09"/>
+    <cosponsor id="412424" joined="2012-06-27"/>
+    <cosponsor id="412214" joined="2012-03-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-03-07">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2012-06-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-06-27">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2012-07-09T16:01:00-04:00">
+      <text>Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-585.</text>
+    </action>
+    <calendar datetime="2012-07-09T16:01:00-04:00" calendar="Union" number="424">
+      <text>Placed on the Union Calendar, Calendar No. 424.</text>
+    </calendar>
+    <action datetime="2012-07-09T16:02:00-04:00">
+      <text>Mr. Chaffetz moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-07-09T16:02:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4661-4663" label="consideration"/>
+    </action>
+    <action datetime="2012-07-09T16:02:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4155.</text>
+    </action>
+    <action datetime="2012-07-09T16:16:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2012-07-09T18:30:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4670" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-07-09T18:56:00-04:00" how="roll" result="pass" roll="452" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 369 - 0 (Roll no. 452).</text>
+      <reference ref="CR H4661" label="text"/>
+    </vote>
+    <action datetime="2012-07-09T18:56:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-07-10">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2012-07-11" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4916" label="consideration"/>
+    </vote>
+    <action datetime="2012-07-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2012-07-19">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2012-07-23">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2012-07-23" type="public" number="112-147">
+      <text>Became Public Law No: 112-147.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="2239"/>
+    <bill relation="unknown" session="112" type="s" number="2239"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Licensing and registrations"/>
+    <term name="Military education and training"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/23/2012--Public Law.
+(This measure has not been amended since it was passed by the House on July 9, 2012. The summary of that version is repeated here.) Veteran Skills to Jobs Act - Directs the head of each federal licensing authority to consider, and authorizes such official to accept, any relevant training received by an individual while serving as a member of the Armed Forces for the purpose of satisfying the license requirements.</summary>
+</bill>

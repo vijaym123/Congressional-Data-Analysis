@@ -1,0 +1,44 @@
+<bill session="111" type="h" number="1111" updated="2013-07-19T23:21:53-04:00">
+  <state datetime="2009-02-23">REFERRED</state>
+  <status>
+    <introduced datetime="2009-02-23"/>
+  </status>
+  <introduced datetime="2009-02-23"/>
+  <titles>
+    <title as="introduced" type="short">Wildfire Risk Reduction and Renewable Biomass Utilization Act</title>
+    <title as="introduced" type="official">To promote as a renewable energy source the use of biomass removed from forest lands in connection with hazardous fuel reduction projects on certain Federal land, and for other purposes.</title>
+  </titles>
+  <sponsor id="400335"/>
+  <cosponsors>
+    <cosponsor id="400029" joined="2009-05-05"/>
+    <cosponsor id="412271" joined="2009-06-24"/>
+    <cosponsor id="412275" joined="2009-05-21"/>
+    <cosponsor id="412191" joined="2009-05-05"/>
+    <cosponsor id="412294" joined="2009-05-21"/>
+    <cosponsor id="400376" joined="2009-05-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-23">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2009-02-24">
+      <text>Referred to the Subcommittee on Energy and Environment.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Air quality"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Fires"/>
+    <term name="Forests, forestry, trees"/>
+  </subjects>
+  <amendments/>
+  <summary>2/23/2009--Introduced.
+Wildfire Risk Reduction and Renewable Biomass Utilization Act - Amends the Clean Air Act to revise the definition of "renewable biomass" to include biomass removed from certain federal lands in connection with an authorized hazardous fuel reduction project.</summary>
+</bill>

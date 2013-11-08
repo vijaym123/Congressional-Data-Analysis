@@ -1,0 +1,73 @@
+<bill session="112" type="h" number="3835" updated="2013-07-20T01:43:18-04:00">
+  <state datetime="2012-02-01T19:12:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-02-01T19:12:00-05:00"/>
+  </status>
+  <introduced datetime="2012-01-27"/>
+  <titles>
+    <title as="introduced" type="official">To extend the pay limitation for Members of Congress and Federal employees.</title>
+  </titles>
+  <sponsor id="412488"/>
+  <cosponsors>
+    <cosponsor id="412438" joined="2012-01-31"/>
+    <cosponsor id="400646" joined="2012-01-31"/>
+    <cosponsor id="412302" joined="2012-01-31"/>
+    <cosponsor id="412411" joined="2012-01-31"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-01-27">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2012-01-27">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2012-01-27">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2012-02-01T12:32:00-05:00">
+      <text>Mr. Ross (FL) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-02-01T12:32:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H304-312" label="consideration"/>
+    </action>
+    <action datetime="2012-02-01T12:32:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3835.</text>
+    </action>
+    <action datetime="2012-02-01T13:17:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2012-02-01T19:05:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H354-355" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-02-01T19:12:00-05:00" how="roll" result="pass" roll="19" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 309 - 117 (Roll no. 19).</text>
+      <reference ref="CR H304" label="text"/>
+    </vote>
+    <action datetime="2012-02-01T19:12:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-02-02">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="2079"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional officers and employees"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Inflation and prices"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>2/1/2012--Passed House without amendment.
+Amends the Continuing Appropriations Act, 2011 (P.L. 111-242) to extend through December 31, 2013, the freeze on any cost-of-living adjustment (COLA) to the pay of certain federal civilian employees (thus extends such freeze from two to three calendar years). Extends through such date the prohibition against receipt by a senior executive or senior-level employee of any increase in the rate of basic pay absent a change of position that results in a substantial increase in responsibility or a promotion. Applies the pay limit freeze to Members of Congress. Declares that no statutory COLA for a legislative branch employee which would otherwise take effect during the period beginning on enactment of this Act and ending on December 31, 2013, shall be made.</summary>
+</bill>

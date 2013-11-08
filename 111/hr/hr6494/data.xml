@@ -1,0 +1,73 @@
+<bill session="111" type="h" number="6494" updated="2013-07-20T00:11:09-04:00">
+  <state datetime="2010-12-15T10:51:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-12-15T10:51:00-05:00"/>
+  </status>
+  <introduced datetime="2010-12-02"/>
+  <titles>
+    <title as="introduced" type="official">To amend the National Defense Authorization Act for Fiscal Year 2010 to improve the Littoral Combat Ship program of the Navy.</title>
+  </titles>
+  <sponsor id="400399"/>
+  <cosponsors>
+    <cosponsor id="412264" joined="2010-12-07"/>
+    <cosponsor id="400005" joined="2010-12-02"/>
+    <cosponsor id="400008" joined="2010-12-07"/>
+    <cosponsor id="400013" joined="2010-12-15"/>
+    <cosponsor id="400017" joined="2010-12-02"/>
+    <cosponsor id="400038" joined="2010-12-02"/>
+    <cosponsor id="400655" joined="2010-12-15"/>
+    <cosponsor id="412240" joined="2010-12-02"/>
+    <cosponsor id="400218" joined="2010-12-07"/>
+    <cosponsor id="400244" joined="2010-12-07"/>
+    <cosponsor id="400661" joined="2010-12-07"/>
+    <cosponsor id="400346" joined="2010-12-07"/>
+    <cosponsor id="400380" joined="2010-12-07"/>
+    <cosponsor id="400391" joined="2010-12-02"/>
+    <cosponsor id="412255" joined="2010-12-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-12-02">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2010-12-14">
+      <text>Referred to the Subcommittee on Seapower and Expeditionary Forces.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+    <action datetime="2010-12-15T10:31:00-05:00">
+      <text>Mr. Taylor moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-12-15T10:31:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8359-8362" label="consideration"/>
+    </action>
+    <action datetime="2010-12-15T10:31:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6494.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-12-15T10:51:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H8359" label="text"/>
+    </vote>
+    <action datetime="2010-12-15T10:51:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-12-16">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2010-12-22">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS28" subcommittee="Seapower and Expeditionary Forces" name="House Armed Services"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military procurement, research, weapons development"/>
+  </subjects>
+  <amendments/>
+  <summary>12/15/2010--Passed House amended.
+Amends provisions of the National Defense Authorization Act for Fiscal Year 2010 relating to the Navy's littoral combat ship program to: (1) increase from 10 to 20 the number of such ships authorized to be procured, including any ship control and weapons systems that the Secretary of the Navy determines necessary for such ships; (2) allow one or more contracts to be entered into for such procurement; and (3) require the government to be permitted to conduct a competition for an additional shipyard for ship construction, to build a design specification for that ship.</summary>
+</bill>

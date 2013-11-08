@@ -1,0 +1,104 @@
+<bill session="112" type="h" number="362" updated="2013-07-20T01:13:27-04:00">
+  <state datetime="2011-05-02T18:26:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2011-05-02T18:26:00-04:00"/>
+  </status>
+  <introduced datetime="2011-01-20"/>
+  <titles>
+    <title as="introduced" type="official">To redesignate the Federal building and United States Courthouse located at 200 East Wall Street in Midland, Texas, as the "George H. W. Bush and George W. Bush United States Courthouse and George Mahon Federal Building".</title>
+  </titles>
+  <sponsor id="400655"/>
+  <cosponsors>
+    <cosponsor id="400018" joined="2011-01-20"/>
+    <cosponsor id="400046" joined="2011-01-20"/>
+    <cosponsor id="400052" joined="2011-01-20"/>
+    <cosponsor id="412481" joined="2011-01-20"/>
+    <cosponsor id="400068" joined="2011-01-20"/>
+    <cosponsor id="400657" joined="2011-02-16"/>
+    <cosponsor id="400089" joined="2011-01-20"/>
+    <cosponsor id="412482" joined="2011-01-20"/>
+    <cosponsor id="412480" joined="2011-01-20"/>
+    <cosponsor id="400651" joined="2011-01-20"/>
+    <cosponsor id="400157" joined="2011-01-20"/>
+    <cosponsor id="400165" joined="2011-01-20"/>
+    <cosponsor id="400175" joined="2011-02-16"/>
+    <cosponsor id="400179" joined="2011-01-20"/>
+    <cosponsor id="400199" joined="2011-02-16"/>
+    <cosponsor id="400206" joined="2011-01-20"/>
+    <cosponsor id="400656" joined="2011-01-20"/>
+    <cosponsor id="400654" joined="2011-01-20"/>
+    <cosponsor id="400441" joined="2011-01-20"/>
+    <cosponsor id="412302" joined="2011-01-20"/>
+    <cosponsor id="400311" joined="2011-01-20"/>
+    <cosponsor id="400652" joined="2011-02-16"/>
+    <cosponsor id="400367" joined="2011-01-20"/>
+    <cosponsor id="400381" joined="2011-01-20"/>
+    <cosponsor id="400404" joined="2011-01-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-01-20">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2011-01-21">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2011-02-16">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2011-02-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-02-16">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2011-03-29T14:38:00-04:00">
+      <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-42.</text>
+    </action>
+    <calendar datetime="2011-03-29T14:38:00-04:00" calendar="House" number="20">
+      <text>Placed on the House Calendar, Calendar No. 20.</text>
+    </calendar>
+    <action datetime="2011-05-02T18:15:00-04:00">
+      <text>Mr. Hultgren moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2011-05-02T18:15:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2922-2923" label="consideration"/>
+    </action>
+    <action datetime="2011-05-02T18:15:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 362.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-05-02T18:26:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2922" label="text"/>
+    </vote>
+    <action datetime="2011-05-02T18:26:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-05-03">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="3304"/>
+    <bill relation="unknown" session="112" type="s" number="3687"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="Texas"/>
+  </subjects>
+  <amendments/>
+  <summary>5/2/2011--Passed House without amendment.
+Redesignates the federal building and courthouse located at 200 East Wall Street in Midland, Texas, known as the George Mahon Federal Building, as the "George H.W. Bush and George W. Bush United States Courthouse and George Mahon Federal Building."</summary>
+</bill>

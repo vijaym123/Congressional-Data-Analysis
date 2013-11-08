@@ -1,0 +1,65 @@
+<bill session="113" type="h" number="3229" updated="2013-11-02T06:46:11-04:00">
+  <state datetime="2013-10-01">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-01"/>
+  </status>
+  <introduced datetime="2013-10-01"/>
+  <titles>
+    <title type="short" as="introduced">Indian Health Service Advance Appropriations Act of 2013</title>
+    <title type="official" as="introduced">To amend the Indian Health Care Improvement Act to authorize advance appropriations for the Indian Health Service by providing 2-fiscal-year budget authority, and for other purposes.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors>
+    <cosponsor id="400100" joined="2013-10-14"/>
+    <cosponsor id="400162" joined="2013-10-14"/>
+    <cosponsor id="412511" joined="2013-10-22"/>
+    <cosponsor id="412293" joined="2013-10-01"/>
+    <cosponsor id="400259" joined="2013-10-22"/>
+    <cosponsor id="400661" joined="2013-10-14"/>
+    <cosponsor id="400333" joined="2013-10-14"/>
+    <cosponsor id="412519" joined="2013-10-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-01" state="REFERRED">
+      <text>Referred to the Committee on the Budget, and in addition to the Committees on Natural Resources, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-10-01">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2013-10-01">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-10-01">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-10-03">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2013-10-07">
+      <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBU" name="House Budget" activity="Referral"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII24" subcommittee="Indian and Alaska Native Affairs" name="House Natural Resources"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="1570"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Appropriations"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Indian social and development programs"/>
+    <term name="Minority health"/>
+  </subjects>
+  <amendments/>
+</bill>

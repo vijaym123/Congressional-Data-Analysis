@@ -1,0 +1,83 @@
+<bill session="112" type="hr" number="38" updated="2013-07-20T01:03:22-04:00">
+  <state datetime="2011-01-25T14:21:00-05:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2011-01-25T14:21:00-05:00"/>
+  </status>
+  <introduced datetime="2011-01-18"/>
+  <titles>
+    <title as="introduced" type="official">To reduce spending through a transition to non-security spending at fiscal year 2008 levels.</title>
+    <title as="amended by house" type="official">Reducing non-security spending to fiscal year 2008 levels or less.</title>
+  </titles>
+  <sponsor id="400115"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2011-01-18">
+      <text>Referred to the House Committee on Rules.</text>
+    </action>
+    <action datetime="2011-01-19T18:27:00-05:00">
+      <text>Reported (Amended) by the Committee on Rules. H. Rept. 112-3.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2011-01-19T18:28:00-05:00" calendar="House" number="3">
+      <text>Placed on the House Calendar, Calendar No. 3.</text>
+    </calendar>
+    <action datetime="2011-01-19T18:29:00-05:00">
+      <text>Rules Committee Resolution H. Res. 43 Reported to House. Rule provides for consideration of H. Res. 38 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The resolution provides that the amendment in the nature of a substitute recommended by the Committee on Rules shall be considered as adopted. All points of order against consideration of the resolution are waived.</text>
+    </action>
+    <action datetime="2011-01-24T19:09:00-05:00">
+      <text>Rule H. Res. 43 passed House.</text>
+    </action>
+    <action datetime="2011-01-25T12:41:00-05:00">
+      <text>Considered under the provisions of rule H. Res. 43.</text>
+      <reference ref="CR H446-456" label="consideration"/>
+    </action>
+    <action datetime="2011-01-25T12:42:00-05:00">
+      <text>Rule provides for consideration of H. Res. 38 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The resolution provides that the amendment in the nature of a substitute recommended by the Committee on Rules shall be considered as adopted. All points of order against consideration of the resolution are waived.</text>
+    </action>
+    <action datetime="2011-01-25T12:42:00-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H. Res. 38.</text>
+    </action>
+    <action datetime="2011-01-25T13:48:00-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H454" label="consideration"/>
+    </action>
+    <action datetime="2011-01-25T13:48:00-05:00">
+      <text>Mr. Bishop (NY) moved to recommit with instructions to Rules.</text>
+      <reference ref="CR H454-455" label="consideration"/>
+      <reference ref="CR H454" label="text"/>
+    </action>
+    <action datetime="2011-01-25T13:49:00-05:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H454" label="consideration"/>
+    </action>
+    <action datetime="2011-01-25T14:13:00-05:00">
+      <text>On motion to recommit with instructions Failed by the Yeas and Nays: 184 - 242, 1 Present (Roll no. 19).</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2011-01-25T14:21:00-05:00" how="roll" result="pass" roll="20" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 256 - 165 (Roll no. 20).</text>
+      <reference ref="CR H446" label="text"/>
+    </vote>
+    <action datetime="2011-01-25T14:21:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-01-25T14:21:00-05:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Referral, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="112" type="hr" number="43"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Executive agency funding and structure"/>
+  </subjects>
+  <amendments>
+    <amendment number="h4"/>
+  </amendments>
+  <summary>1/25/2011--Passed House amended.
+Requires the Chair of the House Committee on the Budget to include in the Congressional Record the contemplated allocation for the Committee on Appropriations for the remainder of FY2011 that assumes non-security spending at FY2008 levels or less.</summary>
+</bill>

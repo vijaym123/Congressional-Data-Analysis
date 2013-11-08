@@ -1,0 +1,96 @@
+<bill session="111" type="h" number="905" updated="2013-07-19T23:20:02-04:00">
+  <state datetime="2009-09-29T18:54:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-09-29T18:54:00-04:00"/>
+  </status>
+  <introduced datetime="2009-02-04"/>
+  <titles>
+    <title as="introduced" type="short">Thunder Bay National Marine Sanctuary and Underwater Preserve Boundary Modification Act</title>
+    <title as="reported to house" type="short">Thunder Bay National Marine Sanctuary and Underwater Preserve Boundary Modification Act</title>
+    <title as="passed house" type="short">Thunder Bay National Marine Sanctuary and Underwater Preserve Boundary Modification Act</title>
+    <title as="introduced" type="official">To expand the boundaries of the Thunder Bay National Marine Sanctuary and Underwater Preserve, and for other purposes.</title>
+  </titles>
+  <sponsor id="400391"/>
+  <cosponsors>
+    <cosponsor id="400119" joined="2009-07-23"/>
+    <cosponsor id="400216" joined="2009-02-04"/>
+    <cosponsor id="400260" joined="2009-02-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-04">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-02-11">
+      <text>Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-07-08">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-07-29">
+      <text>Subcommittee on Insular Affairs, Oceans and Wildlife Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-07-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-07-29">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2009-09-29T14:30:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-270.</text>
+    </action>
+    <calendar datetime="2009-09-29T14:31:00-04:00" calendar="Union" number="151">
+      <text>Placed on the Union Calendar, Calendar No. 151.</text>
+    </calendar>
+    <action datetime="2009-09-29T14:32:00-04:00">
+      <text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-09-29T14:32:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10007-10009" label="consideration"/>
+    </action>
+    <action datetime="2009-09-29T14:32:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 905.</text>
+    </action>
+    <action datetime="2009-09-29T14:39:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2009-09-29T18:29:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H10040" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-09-29T18:54:00-04:00" how="roll" result="pass" roll="740" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 286 - 107 (Roll no. 740).</text>
+      <reference ref="CR H10007-10008" label="text"/>
+    </vote>
+    <action datetime="2009-09-29T18:54:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="2009-09-30" calendar="Senate Legislative" under="General Orders" number="169">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 169.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII22" subcommittee="Insular Affairs, Oceans and Wildlife" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="380"/>
+    <bill relation="identical" session="111" type="s" number="380"/>
+    <bill relation="unknown" session="111" type="s" number="380"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Great Lakes"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Michigan"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments/>
+  <summary>9/29/2009--Passed House amended.
+Thunder Bay National Marine Sanctuary and Underwater Preserve Boundary Modification Act - Expands, notwithstanding any provision of law or regulation, the boundaries of the Thunder Bay National Marine Sanctuary and Underwater Preserve in Lake Huron.</summary>
+</bill>

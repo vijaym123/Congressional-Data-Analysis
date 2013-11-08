@@ -1,0 +1,98 @@
+<bill session="111" type="h" number="4592" updated="2013-07-19T23:53:53-04:00">
+  <state datetime="2010-03-23T16:40:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-03-23T16:40:00-04:00"/>
+  </status>
+  <introduced datetime="2010-02-03"/>
+  <titles>
+    <title as="introduced" type="short">Energy Jobs for Veterans Act</title>
+    <title as="reported to house" type="short">Energy Jobs for Veterans Act</title>
+    <title as="passed house" type="short">Energy Jobs for Veterans Act</title>
+    <title as="introduced" type="official">To provide for the establishment of a pilot program to encourage the employment of veterans in energy-related positions.</title>
+  </titles>
+  <sponsor id="412316"/>
+  <cosponsors>
+    <cosponsor id="400056" joined="2010-03-10"/>
+    <cosponsor id="412204" joined="2010-03-19"/>
+    <cosponsor id="412293" joined="2010-03-15"/>
+    <cosponsor id="412304" joined="2010-02-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-02-03">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2010-02-05">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-02-25">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-03-04">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-03-04">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-03-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-03-10">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2010-03-22T14:50:00-04:00">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-453.</text>
+    </action>
+    <calendar datetime="2010-03-22T14:51:00-04:00" calendar="Union" number="262">
+      <text>Placed on the Union Calendar, Calendar No. 262.</text>
+    </calendar>
+    <action datetime="2010-03-22T15:04:00-04:00">
+      <text>Mr. Filner moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-03-22T15:04:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2185-2188" label="consideration"/>
+    </action>
+    <action datetime="2010-03-22T15:04:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4592.</text>
+    </action>
+    <action datetime="2010-03-22T15:14:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Filner objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2010-03-23T16:33:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2241" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-03-23T16:40:00-04:00" how="roll" result="pass" roll="177" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 397 - 19 (Roll no. 177).</text>
+      <reference ref="CR 3/22/2010 H2185-2186" label="text"/>
+    </vote>
+    <action datetime="2010-03-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Building construction"/>
+    <term name="Employment and training programs"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Nuclear power"/>
+    <term name="Oil and gas"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/2010--Passed House amended.
+Energy Jobs for Veterans Act - Directs the Secretary of Labor to establish a five-year pilot program (to be known as the Veterans Energy-Related Employment Program) to award competitive grants to three states to establish and administer a program of grants to energy industry employers and labor management organizations that provide training, apprenticeships, and certification classes to veterans employed by an energy employer. Requires annual reports from the Secretary to Congress for the duration of the pilot program. Authorizes appropriations.</summary>
+</bill>

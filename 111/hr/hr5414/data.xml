@@ -1,0 +1,83 @@
+<bill session="111" type="h" number="5414" updated="2013-07-20T00:01:20-04:00">
+  <state datetime="2010-07-30T12:22:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-07-30T12:22:00-04:00"/>
+  </status>
+  <introduced datetime="2010-05-26"/>
+  <titles>
+    <title as="introduced" type="official">To provide for the conveyance of a small parcel of National Forest System land in the Francis Marion National Forest in South Carolina, and for other purposes.</title>
+  </titles>
+  <sponsor id="400049"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-05-26">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2010-06-18">
+      <text>Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-06-30">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2010-06-30">
+      <text>Subcommittee on Department Operations, Oversight, Nutrition and Forestry Discharged.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="2010-06-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <calendar datetime="2010-06-30">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Agriculture"/>
+    </calendar>
+    <action datetime="2010-07-30T00:40:00-04:00">
+      <text>Mr. Scott (GA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-07-30T00:40:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6444-6445" label="consideration"/>
+    </action>
+    <action datetime="2010-07-30T00:40:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5414.</text>
+    </action>
+    <action datetime="2010-07-30T00:43:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-07-30T12:16:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6485" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-07-30T12:22:00-04:00" how="roll" result="pass" roll="504" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 504).</text>
+      <reference ref="CR H6444" label="text"/>
+    </vote>
+    <action datetime="2010-07-30T12:22:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-08-02">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2010-08-05">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSAG22" subcommittee="Department Operations, Oversight, Nutrition and Forestry" name="House Agriculture"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+    <term name="Religion"/>
+    <term name="South Carolina"/>
+  </subjects>
+  <amendments/>
+  <summary>7/30/2010--Passed House amended.
+Directs the Secretary of Agriculture (USDA) to sell and quitclaim a parcel of National Forest System land in the Francis Marion National Forest in South Carolina to the First Baptist Church of Bonneau (the Bonneau Baptist Church) at 108 West Church Street in Bonneau, South Carolina. Requires the Bonneau Baptist Church to pay to the Secretary cash consideration in an amount equal to the market value of such land, to be determined by an appraisal. Requires deposit of the consideration received by the Secretary into a specified account in the Treasury and makes the monies so deposited available for the acquisition of lands and interests in the Francis Marion National Forest. Requires a survey of the land to be conveyed and subjects such survey and resulting land description to approval by the Secretary. Requires the Bonneau Baptist Church to pay all reasonable associated costs, including the appraisal and any environmental analyses required by law or regulation. Terminates the special use authorization provided to the Bonneau Baptist Church for use of the conveyed lands. Restricts use of such lands to cemetery purposes. Prohibits structures from being erected on the lands, other than for monumentation or cemetery maintenance facilities.</summary>
+</bill>

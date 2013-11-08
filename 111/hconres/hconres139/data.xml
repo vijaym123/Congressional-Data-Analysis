@@ -1,0 +1,120 @@
+<bill session="111" type="hc" number="139" updated="2013-07-20T00:14:11-04:00">
+  <state datetime="2009-11-05T14:28:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-11-05T14:28:00-05:00"/>
+  </status>
+  <introduced datetime="2009-06-03"/>
+  <titles>
+    <title as="introduced" type="official">Congratulating the first graduating class of the United States Air Force Academy on their 50th graduation anniversary and recognizing their contributions to the Nation.</title>
+  </titles>
+  <sponsor id="412191"/>
+  <cosponsors>
+    <cosponsor id="412264" joined="2009-10-08"/>
+    <cosponsor id="400016" joined="2009-10-15"/>
+    <cosponsor id="400029" joined="2009-09-29"/>
+    <cosponsor id="412266" joined="2009-09-14"/>
+    <cosponsor id="400041" joined="2009-06-03"/>
+    <cosponsor id="400645" joined="2009-09-29"/>
+    <cosponsor id="400044" joined="2009-10-08"/>
+    <cosponsor id="412267" joined="2009-09-29"/>
+    <cosponsor id="400057" joined="2009-09-14"/>
+    <cosponsor id="412268" joined="2009-10-15"/>
+    <cosponsor id="412271" joined="2009-06-03"/>
+    <cosponsor id="400655" joined="2009-10-08"/>
+    <cosponsor id="412193" joined="2009-10-08"/>
+    <cosponsor id="400101" joined="2009-11-04"/>
+    <cosponsor id="400109" joined="2009-09-29"/>
+    <cosponsor id="400640" joined="2009-10-08"/>
+    <cosponsor id="412188" joined="2009-09-29"/>
+    <cosponsor id="400151" joined="2009-09-14"/>
+    <cosponsor id="400178" joined="2009-09-14"/>
+    <cosponsor id="400649" joined="2009-10-14"/>
+    <cosponsor id="412199" joined="2009-10-15"/>
+    <cosponsor id="400209" joined="2009-09-14"/>
+    <cosponsor id="400224" joined="2009-06-03"/>
+    <cosponsor id="400656" joined="2009-07-24"/>
+    <cosponsor id="400254" joined="2009-07-24"/>
+    <cosponsor id="412299" joined="2009-06-03"/>
+    <cosponsor id="400654" joined="2009-06-03"/>
+    <cosponsor id="400267" joined="2009-09-14"/>
+    <cosponsor id="400659" joined="2009-06-03"/>
+    <cosponsor id="400279" joined="2009-10-08"/>
+    <cosponsor id="400441" joined="2009-11-02"/>
+    <cosponsor id="400320" joined="2009-09-14"/>
+    <cosponsor id="400339" joined="2009-07-24"/>
+    <cosponsor id="400341" joined="2009-10-08"/>
+    <cosponsor id="412311" joined="2009-06-03"/>
+    <cosponsor id="400349" joined="2009-07-24"/>
+    <cosponsor id="400356" joined="2009-07-24"/>
+    <cosponsor id="412261" joined="2009-07-31"/>
+    <cosponsor id="412232" joined="2009-06-03"/>
+    <cosponsor id="412219" joined="2009-10-08"/>
+    <cosponsor id="412225" joined="2009-10-14"/>
+    <cosponsor id="400377" joined="2009-09-29"/>
+    <cosponsor id="400379" joined="2009-09-29"/>
+    <cosponsor id="400386" joined="2009-06-03"/>
+    <cosponsor id="400388" joined="2009-10-14"/>
+    <cosponsor id="400404" joined="2009-07-24"/>
+    <cosponsor id="400405" joined="2009-07-24"/>
+    <cosponsor id="412254" joined="2009-06-03"/>
+    <cosponsor id="400421" joined="2009-06-03"/>
+    <cosponsor id="400433" joined="2009-06-03"/>
+    <cosponsor id="412255" joined="2009-09-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-03">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2009-06-24">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+    <action datetime="2009-11-04T15:53:00-05:00">
+      <text>Mrs. Davis (CA) moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2009-11-04T15:53:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H12327-12330" label="consideration"/>
+    </action>
+    <action datetime="2009-11-04T15:53:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 139.</text>
+    </action>
+    <action datetime="2009-11-04T16:07:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2009-11-05T14:22:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H12396-12397" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-11-05T14:28:00-05:00" how="roll" result="pass" roll="860" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 860).</text>
+      <reference ref="CR 11/4/2009 H12328" label="text"/>
+    </vote>
+    <action datetime="2009-11-05T14:28:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-11-06">
+      <text>Received in the Senate and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Colorado"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Higher education"/>
+    <term name="Military education and training"/>
+    <term name="Military facilities and property"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>11/5/2009--Passed House amended.
+Congratulates the 207 graduates of the first United States Air Force Academy class on the 50th anniversary of their graduation. Acknowledges the continued excellence of the Academy and its critical role in the defense of the United States. Recognizes the outstanding service that Academy graduates have provided.</summary>
+</bill>

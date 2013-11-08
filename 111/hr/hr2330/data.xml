@@ -1,0 +1,77 @@
+<bill session="111" type="h" number="2330" updated="2013-07-19T23:32:49-04:00">
+  <state datetime="2009-06-02T14:45:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-06-02T14:45:00-04:00"/>
+  </status>
+  <introduced datetime="2009-05-07"/>
+  <titles>
+    <title as="introduced" type="short">Camp Hale Study Act</title>
+    <title as="passed house" type="short">Camp Hale Study Act</title>
+    <title as="reported to senate" type="short">Camp Hale Study Act</title>
+    <title as="introduced" type="official">To direct the Secretary of the Interior to carry out a study to determine the suitability and feasibility of establishing Camp Hale as a unit of the National Park System.</title>
+  </titles>
+  <sponsor id="412191"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-05-07">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-05-11">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-06-02T14:41:00-04:00">
+      <text>Mrs. Christensen moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-06-02T14:42:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6023-6024" label="consideration"/>
+    </action>
+    <action datetime="2009-06-02T14:42:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2330.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-06-02T14:45:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6023-6024" label="text"/>
+    </vote>
+    <action datetime="2009-06-02T14:45:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-06-03">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2009-07-22">
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2009-12-16">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2010-03-02">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 111-154.</text>
+    </action>
+    <calendar datetime="2010-03-02" calendar="Senate Legislative" under="General Orders" number="304">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 304.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="National Parks" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="1418"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Colorado"/>
+    <term name="Government studies and investigations"/>
+    <term name="Military history"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments/>
+  <summary>3/2/2010--Reported to Senate amended.
+Camp Hale Study Act - Directs the Secretary of the Interior and the Secretary of Agriculture to conduct a study to determine: (1) the suitability and feasibility of designating Camp Hale, in Colorado, as a unit of the National Park System; or (2) any other designation or management option that would provide for the protection of resources within Camp Hale, including continued management of Camp Hale by the Forest Service. Requires the study to include the significance of Camp Hale in relation to national security during World War II and the Cold War, including: (1) the use of Camp Hale for training of the 10th Mountain Division and other elements of the U.S. Armed Forces; and (2) the use of Camp Hale for training by the Central Intelligence Agency (CIA) of Tibetan refugees seeking to resist the Chinese occupation of Tibet. Expresses the intent of Congress that the Secretaries not propose any designation that would affect valid existing rights, including: (1) all existing interstate water compacts; (2) water rights decreed at, or flowing within, below, or through Camp Hale; (3) water rights in Colorado; (4) U.S. water rights; and (5) the management and operation of any reservoir. Requires the Secretary to submit the study and any recommendations related to Camp Hale to Congress. Authorizes appropriations.</summary>
+</bill>

@@ -1,0 +1,60 @@
+<bill session="112" type="h" number="963" updated="2013-07-20T01:18:41-04:00">
+  <state datetime="2011-07-20">REPORTED</state>
+  <status>
+    <unknown datetime="2011-07-20"/>
+  </status>
+  <introduced datetime="2011-03-08"/>
+  <titles>
+    <title as="introduced" type="short">See Something, Say Something Act of 2011</title>
+    <title as="reported to house" type="short">See Something, Say Something Act of 2011</title>
+    <title as="introduced" type="official">To amend the Homeland Security Act of 2002 to provide immunity for reports of suspected terrorist activity or suspicious behavior and response.</title>
+  </titles>
+  <sponsor id="400381"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2011-03-08">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2011-03-21">
+      <text>Referred to the Subcommittee on the Constitution.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2011-06-24">
+      <text>Committee Hearings Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2011-07-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-07-20">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2011-09-12T14:14:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 112-204.</text>
+    </action>
+    <calendar datetime="2011-09-12T14:14:00-04:00" calendar="Union" number="131">
+      <text>Placed on the Union Calendar, Calendar No. 131.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Hearings, Markup, Reporting"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="495"/>
+    <bill relation="unknown" session="112" type="h" number="3116"/>
+    <bill relation="identical" session="112" type="s" number="505"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Civil actions and liability"/>
+    <term name="Law enforcement officers"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>9/12/2011--Reported to House without amendment.
+See Something, Say Something Act of 2011 - Amends the Homeland Security Act of 2002 to grant immunity from civil liability to persons who, in good faith and based on an objectively reasonable suspicion, report suspicious activity indicating that an individual may be engaging, or preparing to engage, in a violation of law relating to an act of terrorism. Grants an authorized official who observes, or receives a report of, such activity and takes reasonable action in good faith to respond qualified immunity from civil liability for such action. Provides that an authorized official not entitled to assert the defense of qualified immunity shall nonetheless be immune from civil immunity if that official takes reasonable action, in good faith, to respond to the reported activity. Entitles any authorized official or other person found to be immune from civil liability under this Act to recover all reasonable costs and attorney fees in any action against such official.</summary>
+</bill>

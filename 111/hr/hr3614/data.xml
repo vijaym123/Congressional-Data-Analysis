@@ -1,0 +1,105 @@
+<bill session="111" type="h" number="3614" updated="2013-07-19T23:44:45-04:00">
+  <state datetime="2009-09-30">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2009-09-30"/>
+  </status>
+  <introduced datetime="2009-09-22"/>
+  <titles>
+    <title as="introduced" type="official">To provide for an additional temporary extension of programs under the Small Business Act and the Small Business Investment Act of 1958, and for other purposes.</title>
+  </titles>
+  <sponsor id="400416"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-09-22">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+    <action datetime="2009-09-23T10:43:00-04:00">
+      <text>Ms. Velazquez moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-09-23T10:43:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9819-9821" label="consideration"/>
+    </action>
+    <action datetime="2009-09-23T10:43:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3614.</text>
+    </action>
+    <action datetime="2009-09-23T10:57:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2009-09-23T14:10:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H9843-9844" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-09-23T14:16:00-04:00" how="roll" result="pass" roll="726" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 2 (Roll no. 726).</text>
+      <reference ref="CR H9819" label="text"/>
+    </vote>
+    <action datetime="2009-09-23T14:16:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-09-23">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <action datetime="2009-09-25">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S9890" label="consideration"/>
+    </action>
+    <vote state="PASS_BACK:SENATE" datetime="2009-09-25" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S9890" label="text"/>
+    </vote>
+    <action datetime="2009-09-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2009-09-29T15:51:00-04:00">
+      <text>Ms. Velazquez moved that the House suspend the rules and agree to the Senate amendment.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2009-09-29T15:55:00-04:00" how="by voice vote" result="pass" type="pingpong" where="h">
+      <text>On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.</text>
+      <reference ref="CR H10021" label="consideration"/>
+      <reference ref="CR H10021" label="text as House agreed to Senate amendment"/>
+    </vote>
+    <action datetime="2009-09-29T15:55:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2009-09-29">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2009-09-30">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2009-09-30">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2009-09-30" type="public" number="111-66">
+      <text>Became Public Law No: 111-66.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="4508"/>
+    <bill relation="unknown" session="111" type="h" number="5849"/>
+    <bill relation="unknown" session="111" type="s" number="1513"/>
+    <bill relation="unknown" session="111" type="s" number="1513"/>
+    <bill relation="unknown" session="111" type="s" number="1929"/>
+    <bill relation="unknown" session="111" type="s" number="3253"/>
+    <bill relation="unknown" session="111" type="s" number="3839"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Business investment and capital"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Minority and disadvantaged businesses"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Securities"/>
+    <term name="Small business"/>
+    <term name="Women in business"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2556"/>
+  </amendments>
+  <summary>9/30/2009--Public Law.
+Extends through October 31, 2009, under the same terms and conditions, the authorization for any program, authority, or provision, including any pilot program, that is currently authorized through September 30, 2009, under the Small Business Act or the Small Business Investment Act of 1958.</summary>
+</bill>

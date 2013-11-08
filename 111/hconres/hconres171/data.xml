@@ -1,0 +1,62 @@
+<bill session="111" type="hc" number="171" updated="2013-07-20T00:14:29-04:00">
+  <state datetime="2009-08-05">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2009-08-05"/>
+  </status>
+  <introduced datetime="2009-07-29"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the Capitol Grounds for an event to honor military personnel who have died in service to the United States and to acknowledge the sacrifice of the families of those individuals as part of the National Weekend of Remembrance.</title>
+  </titles>
+  <sponsor id="412198"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-29">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2009-07-30">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-07-31T14:09:00-04:00">
+      <text>Mr. Oberstar asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2009-07-31T14:09:00-04:00">
+      <text>Committee on Transportation discharged.</text>
+    </action>
+    <action datetime="2009-07-31T14:09:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H9244" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-07-31T14:10:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H9244" label="text"/>
+    </vote>
+    <action datetime="2009-07-31T14:10:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-08-03">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2009-08-05" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S8889" label="consideration"/>
+    </vote>
+    <action datetime="2009-08-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Military personnel and dependents"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+  <summary>8/5/2009--Passed Senate without amendment.
+Permits the White House Commission on Remembrance to sponsor a free public event on the Capitol grounds on September 26, 2009, to honor military personnel who have died in service to the United States and to acknowledge the sacrifice of their families as part of the National Weekend of Remembrance.</summary>
+</bill>

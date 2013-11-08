@@ -1,0 +1,65 @@
+<bill session="111" type="h" number="2529" updated="2013-07-19T23:34:39-04:00">
+  <state datetime="2009-07-29T11:07:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-07-29T11:07:00-04:00"/>
+  </status>
+  <introduced datetime="2009-05-20"/>
+  <titles>
+    <title as="introduced" type="short">Neighborhood Preservation Act</title>
+    <title as="passed house" type="short">Neighborhood Preservation Act</title>
+    <title as="introduced" type="official">To amend the Federal Deposit Insurance Act to authorize depository institutions and depository institution holding companies to lease foreclosed property held by such institutions and companies for up to 5 years, and for other purposes.</title>
+  </titles>
+  <sponsor id="400277"/>
+  <cosponsors>
+    <cosponsor id="400010" joined="2009-07-16"/>
+    <cosponsor id="412205" joined="2009-05-20"/>
+    <cosponsor id="400140" joined="2009-07-17"/>
+    <cosponsor id="400653" joined="2009-07-28"/>
+    <cosponsor id="400179" joined="2009-07-27"/>
+    <cosponsor id="400204" joined="2009-07-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-05-20">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2009-07-29T10:58:00-04:00">
+      <text>Mr. Moore (KS) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-07-29T10:58:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8971-8973" label="consideration"/>
+    </action>
+    <action datetime="2009-07-29T10:58:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2529.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-07-29T11:07:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H8971-8973" label="text"/>
+    </vote>
+    <action datetime="2009-07-29T11:07:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-07-30">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Department of the Treasury"/>
+    <term name="Federal Deposit Insurance Corporation (FDIC)"/>
+    <term name="Federal Reserve System"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="National Credit Union Administration"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/2009--Passed House amended.
+Neighborhood Preservation Act - Amends the Federal Deposit Insurance Act to authorize any depository institution (or affiliate) to lease, including lease with an option to purchase, to any individual for up to five years an interest in residential property which: (1) was or is security for an extension of credit by such depository institution (or affiliate); and (2) came under the institution's or affiliate's ownership or control through foreclosure (or a deed in lieu of foreclosure) on the extension of credit. Directs the federal banking agencies to jointly prescribe specified safety and soundness regulations, including minimum capital requirements for such institutions or affiliates. Permits extension of such a lease beyond five years if any federal or state law, including the Bank Holding Company Act of 1956, so permits. States this Act applies only to leases entered into during the two-year period beginning on the date of the enactment of this Act. States the intent of the Congress that: (1) no permanent change in policy on leasing foreclosed property is being established with respect to depository institutions and depository institution holding companies; and (2) bank leasing of foreclosed property authorized under this Act should not apply to leases entered into after such two-year period.</summary>
+</bill>

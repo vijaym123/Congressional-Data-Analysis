@@ -1,0 +1,32 @@
+<bill session="112" type="h" number="5945" updated="2013-07-20T02:01:20-04:00">
+  <state datetime="2012-06-08">REFERRED</state>
+  <status>
+    <introduced datetime="2012-06-08"/>
+  </status>
+  <introduced datetime="2012-06-08"/>
+  <titles>
+    <title as="introduced" type="official">For the relief of Jing Roberts.</title>
+  </titles>
+  <sponsor id="412437"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2012-06-08">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2012-06-21">
+      <text>Referred to the Subcommittee on Immigration Policy and Enforcement.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration Policy and Enforcement" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/8/2012--Introduced.
+Provides for the relief of Jing Roberts.</summary>
+</bill>

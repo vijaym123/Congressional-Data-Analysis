@@ -1,0 +1,64 @@
+<bill session="111" type="h" number="6411" updated="2013-07-20T00:10:24-04:00">
+  <state datetime="2010-11-30T19:09:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-11-30T19:09:00-05:00"/>
+  </status>
+  <introduced datetime="2010-11-16"/>
+  <titles>
+    <title as="introduced" type="official">To provide for the approval of the Agreement Between the Government of the United States of America and the Government of Australia Concerning Peaceful Uses of Nuclear Energy.</title>
+  </titles>
+  <sponsor id="400344"/>
+  <cosponsors>
+    <cosponsor id="400025" joined="2010-11-16"/>
+    <cosponsor id="400055" joined="2010-11-16"/>
+    <cosponsor id="400640" joined="2010-11-16"/>
+    <cosponsor id="400348" joined="2010-11-16"/>
+    <cosponsor id="400371" joined="2010-11-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-11-16">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2010-11-30T19:01:00-05:00">
+      <text>Mr. Tanner moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-11-30T19:01:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7723-7724" label="consideration"/>
+    </action>
+    <action datetime="2010-11-30T19:01:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6411.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-11-30T19:09:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H7723" label="text"/>
+    </vote>
+    <action datetime="2010-11-30T19:09:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-12-01">
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3844"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Australia"/>
+    <term name="Congressional oversight"/>
+    <term name="International law and treaties"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Nuclear power"/>
+    <term name="Nuclear weapons"/>
+    <term name="Oceania"/>
+  </subjects>
+  <amendments/>
+  <summary>11/30/2010--Passed House without amendment.
+Authorizes the Agreement Between the Government of the United States of America and the Government of Australia Concerning Peaceful Uses of Nuclear Energy, done at New York May 4, 2010, to become effective on or after October 8, 2010, as if the congressional review requirements under the Atomic Energy Act of 1954 had been satisfied. Subjects such Agreement to the provisions of the Atomic Energy Act of 1954 and any other applicable U.S. law as if it had come into effect in accordance with such congressional review requirements.</summary>
+</bill>

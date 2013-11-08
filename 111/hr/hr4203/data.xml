@@ -1,0 +1,40 @@
+<bill session="111" type="h" number="4203" updated="2013-07-19T23:50:12-04:00">
+  <state datetime="2009-12-03">REFERRED</state>
+  <status>
+    <introduced datetime="2009-12-03"/>
+  </status>
+  <introduced datetime="2009-12-03"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to provide veterans certain educational assistance payments through direct deposit.</title>
+  </titles>
+  <sponsor id="412222"/>
+  <cosponsors>
+    <cosponsor id="412195" joined="2010-03-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-12-03">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-12-04">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-02-25">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>12/3/2009--Introduced.
+Directs the Secretary of Veterans Affairs (VA) to ensure that a veteran may receive Post-9/11 educational assistance payments through direct deposit.</summary>
+</bill>

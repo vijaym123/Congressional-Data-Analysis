@@ -1,0 +1,70 @@
+<bill session="112" type="h" number="2278" updated="2013-07-20T01:30:00-04:00">
+  <state datetime="2011-06-24T13:59:00-04:00">FAIL:ORIGINATING:HOUSE</state>
+  <status>
+    <unknown datetime="2011-06-24T13:59:00-04:00"/>
+  </status>
+  <introduced datetime="2011-06-22"/>
+  <titles>
+    <title as="introduced" type="official">To limit the use of funds appropriated to the Department of Defense for United States Armed Forces in support of North Atlantic Treaty Organization Operation Unified Protector with respect to Libya, unless otherwise specifically authorized by law.</title>
+  </titles>
+  <sponsor id="412311"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2011-06-22">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2011-06-23T17:57:00-04:00">
+      <text>Rules Committee Resolution H. Res. 328 Reported to House. Rule provides for consideration of H.J. Res. 68 and H.R. 2278 with 1 hour of general debate. Motion to recommit with or without installowed. Measure will be considered read. Bill is closed to amendments. The rule provides one hour of dbeate on H.J.Res. 68 with 40 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Foreign Affairs and 20 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Armed Services. All points of order against consideration and provisions are waived.</text>
+    </action>
+    <action datetime="2011-06-24T10:30:00-04:00">
+      <text>Rule H. Res. 328 passed House.</text>
+    </action>
+    <action datetime="2011-06-24T12:15:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 328.</text>
+      <reference ref="CR H4550-4564" label="consideration"/>
+      <reference ref="CR H4550" label="text as introduced in House"/>
+    </action>
+    <action datetime="2011-06-24T12:15:00-04:00">
+      <text>Rule provides for consideration of H.J. Res. 68 and H.R. 2278 with 1 hour of general debate. Motion to recommit with or without instructions is allowed. Will be considered read. Bill is closed to amendments. The rule provides one hour of debate on H.J.Res. 68 with 40 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Foreign Affairs and 20 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Armed Services. All points of order against consideration and provisions are waived.</text>
+    </action>
+    <action datetime="2011-06-24T12:18:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 2278.</text>
+    </action>
+    <action datetime="2011-06-24T13:35:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H4563" label="consideration"/>
+    </action>
+    <vote state="FAIL:ORIGINATING:HOUSE" datetime="2011-06-24T13:59:00-04:00" how="roll" result="fail" roll="494" type="vote" where="h">
+      <text>On passage Failed by recorded vote: 180 - 238 (Roll no. 494).</text>
+    </vote>
+    <action datetime="2011-06-24T13:59:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="112" type="hr" number="328"/>
+    <bill relation="unknown" session="112" type="h" number="2259"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Africa"/>
+    <term name="Alliances"/>
+    <term name="Appropriations"/>
+    <term name="Congressional oversight"/>
+    <term name="Defense spending"/>
+    <term name="Department of Defense"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Libya"/>
+    <term name="Middle East"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Military operations and strategy"/>
+    <term name="War and emergency powers"/>
+  </subjects>
+  <amendments/>
+  <summary>6/22/2011--Introduced.
+Prohibits, unless otherwise specifically authorized by law, funds appropriated or otherwise available to the Department of Defense (DOD) from being obligated or expended for U.S. Armed Forces in support of the North Atlantic Treaty Organization Operation Unified Protector with respect to Libya, except for: (1) search and rescue; (2) intelligence, surveillance, and reconnaissance; (3) aerial refueling; and (4) operational planning.</summary>
+</bill>

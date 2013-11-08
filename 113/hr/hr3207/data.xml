@@ -1,0 +1,54 @@
+<bill session="113" type="h" number="3207" updated="2013-11-02T06:46:00-04:00">
+  <state datetime="2013-09-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-27"/>
+  </status>
+  <introduced datetime="2013-09-27"/>
+  <titles>
+    <title type="short" as="introduced">Benefits Fairness for Filipino Veterans Act of 2013</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to modify the method of determining whether Filipino veterans are United States residents for purposes of eligibility for receipt of the full-dollar rate of compensation under the laws administered by the Secretary of Veterans Affairs.</title>
+  </titles>
+  <sponsor id="400163"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2013-09-27"/>
+    <cosponsor id="412537" joined="2013-09-27"/>
+    <cosponsor id="412517" joined="2013-09-27"/>
+    <cosponsor id="400093" joined="2013-10-23"/>
+    <cosponsor id="412533" joined="2013-09-27"/>
+    <cosponsor id="412535" joined="2013-09-27"/>
+    <cosponsor id="400128" joined="2013-09-28"/>
+    <cosponsor id="412257" joined="2013-10-08"/>
+    <cosponsor id="412418" joined="2013-09-27"/>
+    <cosponsor id="400185" joined="2013-09-27"/>
+    <cosponsor id="412521" joined="2013-09-27"/>
+    <cosponsor id="412518" joined="2013-10-08"/>
+    <cosponsor id="400350" joined="2013-10-23"/>
+    <cosponsor id="412312" joined="2013-09-27"/>
+    <cosponsor id="400360" joined="2013-09-28"/>
+    <cosponsor id="412522" joined="2013-09-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-27" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-10-14">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="1559"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Asia"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Philippines"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+</bill>

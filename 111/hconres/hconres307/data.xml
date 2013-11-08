@@ -1,0 +1,45 @@
+<bill session="111" type="hc" number="307" updated="2013-07-20T00:15:39-04:00">
+  <state datetime="2010-08-05">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2010-08-05"/>
+  </status>
+  <introduced datetime="2010-07-29"/>
+  <titles>
+    <title as="introduced" type="official">Providing for a conditional recess or adjournment of the Senate.</title>
+  </titles>
+  <sponsor id="400170"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2010-07-29T12:51:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H6306" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-07-29T12:51:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H6306" label="text"/>
+    </vote>
+    <action datetime="2010-07-29T12:51:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-07-29">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2010-08-05" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6981-6982" label="consideration"/>
+      <reference ref="CR S6982" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2010-08-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional operations and organization"/>
+  </subjects>
+  <amendments/>
+  <summary>8/5/2010--Passed Senate without amendment.
+Declares that when the Senate recesses or adjourns on any day from Thursday, August 5, 2010, through Saturday, August 14, 2010, it stand recessed or adjourned until noon on Monday, September 13, 2010.</summary>
+</bill>

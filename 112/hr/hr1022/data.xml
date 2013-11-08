@@ -1,0 +1,124 @@
+<bill session="112" type="h" number="1022" updated="2013-07-20T01:19:12-04:00">
+  <state datetime="2012-01-25T10:17:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-01-25T10:17:00-05:00"/>
+  </status>
+  <introduced datetime="2011-03-10"/>
+  <titles>
+    <title as="introduced" type="short">Buffalo Soldiers in the National Parks Study Act</title>
+    <title as="reported to house" type="short">Buffalo Soldiers in the National Parks Study Act</title>
+    <title as="passed house" type="short">Buffalo Soldiers in the National Parks Study Act</title>
+    <title as="introduced" type="official">To authorize the Secretary of the Interior to conduct a study of alternatives for commemorating and interpreting the role of the Buffalo Soldiers in the early years of the National Parks, and for other purposes.</title>
+  </titles>
+  <sponsor id="412259"/>
+  <cosponsors>
+    <cosponsor id="412265" joined="2011-03-10"/>
+    <cosponsor id="400024" joined="2011-03-10"/>
+    <cosponsor id="400030" joined="2011-04-07"/>
+    <cosponsor id="400041" joined="2011-03-10"/>
+    <cosponsor id="400616" joined="2011-03-10"/>
+    <cosponsor id="412221" joined="2011-03-10"/>
+    <cosponsor id="400639" joined="2011-04-07"/>
+    <cosponsor id="400080" joined="2011-03-10"/>
+    <cosponsor id="412215" joined="2011-03-17"/>
+    <cosponsor id="400124" joined="2011-03-10"/>
+    <cosponsor id="400129" joined="2011-03-10"/>
+    <cosponsor id="400133" joined="2011-06-16"/>
+    <cosponsor id="400653" joined="2011-03-10"/>
+    <cosponsor id="400199" joined="2011-03-10"/>
+    <cosponsor id="400198" joined="2011-03-10"/>
+    <cosponsor id="400237" joined="2011-03-10"/>
+    <cosponsor id="400240" joined="2011-03-10"/>
+    <cosponsor id="400245" joined="2011-03-10"/>
+    <cosponsor id="400262" joined="2011-03-10"/>
+    <cosponsor id="400278" joined="2011-03-10"/>
+    <cosponsor id="400661" joined="2011-03-10"/>
+    <cosponsor id="400290" joined="2011-03-10"/>
+    <cosponsor id="400295" joined="2011-03-17"/>
+    <cosponsor id="400333" joined="2011-03-10"/>
+    <cosponsor id="400337" joined="2011-03-10"/>
+    <cosponsor id="400371" joined="2011-03-10"/>
+    <cosponsor id="400402" joined="2011-03-10"/>
+    <cosponsor id="412412" joined="2011-03-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-03-10">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2011-03-14">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-05-04">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-06-15">
+      <text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-06-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-06-15">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2011-07-20T13:08:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 112-166.</text>
+    </action>
+    <calendar datetime="2011-07-20T13:08:00-04:00" calendar="Union" number="110">
+      <text>Placed on the Union Calendar, Calendar No. 110.</text>
+    </calendar>
+    <action datetime="2012-01-24T12:57:00-05:00">
+      <text>Mr. Johnson (OH) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-01-24T12:57:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H134-135" label="consideration"/>
+    </action>
+    <action datetime="2012-01-24T12:57:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1022.</text>
+    </action>
+    <action datetime="2012-01-24T13:03:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2012-01-25T09:45:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H166-167" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-01-25T10:17:00-05:00" how="roll" result="pass" roll="10" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 338 - 70 (Roll no. 10).</text>
+      <reference ref="CR 1/24/2012 H134" label="text"/>
+    </vote>
+    <action datetime="2012-01-25T10:17:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-01-26">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="544"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Government studies and investigations"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Military history"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="U.S. history"/>
+  </subjects>
+  <amendments/>
+  <summary>1/25/2012--Passed House without amendment.
+Buffalo Soldiers in the National Parks Study Act - Directs the Secretary of the Interior to study alternatives for the commemoration and interpretation of the role of the Buffalo Soldiers (African-American troops who, in the late 19th century and early 20th century, came to be known as the Buffalo Soldiers) in the early years of the National Parks, which shall include: (1) a historical assessment of the Buffalo Soldiers who served in National Parks in the years before the establishment of the National Park Service (NPS); (2) an evaluation of the suitability and feasibility of establishing a national historic trail commemorating the route traveled by the Buffalo Soldiers from their post in the Presidio in San Francisco to the Sequoia and Yosemite National Parks and to any other National Parks where they may have served; (3) identification of properties that could meet criteria for listing in the National Register of Historic Places or criteria for designation as National Historic Landmarks; and (4) an evaluation of ways of enhancing research, education, and awareness of the story of the Buffalo Soldiers' stewardship role in the National Parks. Requires the Secretary to submit to Congress a report on the findings and recommendations of such study.</summary>
+</bill>

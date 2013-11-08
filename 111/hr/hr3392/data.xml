@@ -1,0 +1,45 @@
+<bill session="111" type="h" number="3392" updated="2013-07-19T23:42:45-04:00">
+  <state datetime="2009-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2009-07-29"/>
+  </status>
+  <introduced datetime="2009-07-29"/>
+  <titles>
+    <title as="introduced" type="short">Fair and Cost Effective Federal Travel Act of 2009</title>
+    <title as="introduced" type="official">To prohibit any department or agency of the Federal Government from establishing a travel or conference policy that takes into account the perception of a location as a resort or vacation destination in determining the location for an event.</title>
+  </titles>
+  <sponsor id="412288"/>
+  <cosponsors>
+    <cosponsor id="400024" joined="2009-07-31"/>
+    <cosponsor id="400048" joined="2009-07-29"/>
+    <cosponsor id="412276" joined="2009-07-29"/>
+    <cosponsor id="412218" joined="2009-07-31"/>
+    <cosponsor id="412198" joined="2009-07-29"/>
+    <cosponsor id="400273" joined="2009-07-29"/>
+    <cosponsor id="412309" joined="2009-07-29"/>
+    <cosponsor id="412318" joined="2009-07-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-29">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2009-10-23">
+      <text>Referred to the Subcommittee on Government Management, Organization, and Procurement.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO24" subcommittee="Government Management, Organization, and Procurement" name="House Oversight and Government Reform"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Transportation costs"/>
+    <term name="Travel and tourism"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/2009--Introduced.
+Fair and Cost Effective Federal Travel Act of 2009 - Prohibits any federal department or agency from establishing a travel or conference policy that takes into account the perception of a location as a resort or vacation destination in determining the location for an event.</summary>
+</bill>

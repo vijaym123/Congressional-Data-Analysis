@@ -1,0 +1,43 @@
+<bill session="112" type="h" number="544" updated="2013-07-20T01:15:00-04:00">
+  <state datetime="2011-02-08">REFERRED</state>
+  <status>
+    <introduced datetime="2011-02-08"/>
+  </status>
+  <introduced datetime="2011-02-08"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Servicemembers Civil Relief Act to permanently extend the period of protections for servicemembers against mortgage foreclosures, and for other purposes.</title>
+  </titles>
+  <sponsor id="400133"/>
+  <cosponsors>
+    <cosponsor id="400048" joined="2011-03-01"/>
+    <cosponsor id="400638" joined="2011-03-15"/>
+    <cosponsor id="400080" joined="2012-05-09"/>
+    <cosponsor id="412498" joined="2012-01-18"/>
+    <cosponsor id="412483" joined="2012-03-27"/>
+    <cosponsor id="400355" joined="2011-03-01"/>
+    <cosponsor id="412214" joined="2011-03-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-02-08">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2011-03-15">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+  </subjects>
+  <amendments/>
+  <summary>2/8/2011--Introduced.
+Amends the Servicemembers Civil Relief Act to extend from 90 days to 9 months after military service the period of protection against mortgage sale or foreclosure, as well as the stay of proceedings, in the case of an obligation on real property of a servicemember that originated before the period of military service. (Under current law, such period reverted from 9 months to 90 days on January 1, 2011.)</summary>
+</bill>

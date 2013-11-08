@@ -1,0 +1,88 @@
+<bill session="111" type="hr" number="197" updated="2013-07-19T22:57:39-04:00">
+  <state datetime="2010-04-14T11:15:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2010-04-14T11:15:00-04:00"/>
+  </status>
+  <introduced datetime="2009-02-26"/>
+  <titles>
+    <title as="introduced" type="official">To commend the American Sail Training Association for its advancement of character building under sail and for its advancement of international goodwill.</title>
+  </titles>
+  <sponsor id="400215"/>
+  <cosponsors>
+    <cosponsor id="400049" joined="2009-03-30"/>
+    <cosponsor id="400102" joined="2009-10-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-26">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-02-26">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2009-02-26">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2009-02-27">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-01-27">
+      <text>Subcommittee on Coast Guard and Maritime Transportation Discharged.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-01-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-01-27">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2010-04-13T14:27:00-04:00">
+      <text>Reported (Amended) by the Committee on Transportation. H. Rept. 111-460, Part I.</text>
+    </action>
+    <action datetime="2010-04-13T14:32:00-04:00">
+      <text>Committee on Foreign Affairs discharged.</text>
+    </action>
+    <calendar datetime="2010-04-13T14:32:00-04:00" calendar="House" number="183">
+      <text>Placed on the House Calendar, Calendar No. 183.</text>
+    </calendar>
+    <action datetime="2010-04-14T11:07:00-04:00">
+      <text>Mr. Cummings moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2010-04-14T11:07:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2514-2516" label="consideration"/>
+    </action>
+    <action datetime="2010-04-14T11:07:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 197.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2010-04-14T11:15:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H2514-2515" label="text"/>
+    </vote>
+    <action datetime="2010-04-14T11:15:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="sr" number="158"/>
+    <bill relation="unknown" session="111" type="sr" number="158"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Congressional tributes"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Outdoor recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/14/2010--Passed House amended.
+Commends the American Sail Training Association: (1) for its advancement of character building experiences for youth at sea; and (2) as the national sail training association of the United States.</summary>
+</bill>

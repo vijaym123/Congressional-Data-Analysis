@@ -1,0 +1,58 @@
+<bill session="111" type="h" number="5432" updated="2013-07-20T00:01:39-04:00">
+  <state datetime="2010-05-27">REFERRED</state>
+  <status>
+    <introduced datetime="2010-05-27"/>
+  </status>
+  <introduced datetime="2010-05-27"/>
+  <titles>
+    <title as="introduced" type="short">Service for Healthier Kids Act</title>
+    <title as="introduced" type="official">To authorize the Secretary of Agriculture to enter into an interagency agreement with the Corporation for National and Community Service to support a Nutrition Corps.</title>
+  </titles>
+  <sponsor id="400257"/>
+  <cosponsors>
+    <cosponsor id="412221" joined="2010-05-28"/>
+    <cosponsor id="400179" joined="2010-05-27"/>
+    <cosponsor id="412319" joined="2010-05-28"/>
+    <cosponsor id="400437" joined="2010-05-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-05-27">
+      <text>Referred to the Committee on Education and Labor, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2010-05-27">
+      <text>Referred to House Education and Labor</text>
+    </action>
+    <action datetime="2010-05-27">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2010-06-29">
+      <text>Referred to the Subcommittee on Healthy Families and Communities.</text>
+      <committee name="House Education and Labor"/>
+    </action>
+    <action datetime="2010-06-30">
+      <text>Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry.</text>
+      <committee name="House Agriculture"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED04" subcommittee="Healthy Families and Communities" name="House Education and Labor"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG22" subcommittee="Department Operations, Oversight, Nutrition and Forestry" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="3449"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Child health"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Food assistance and relief"/>
+    <term name="National and community service"/>
+    <term name="Nutrition and diet"/>
+    <term name="Poverty and welfare assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>5/27/2010--Introduced.
+Service for Healthier Kids Act - Authorizes the Secretary of Agriculture to enter into an interagency agreement with the Corporation for National and Community Service that provides the Corporation with funding for a Nutrition Corps to carry out national service programs that: (1) increase access to, participation in, and the quality of, the nutrition assistance programs the Secretary administers; and (2) support local agriculture and farm to school initiatives undertaken by the Secretary.</summary>
+</bill>

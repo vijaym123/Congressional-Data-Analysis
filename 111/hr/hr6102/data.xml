@@ -1,0 +1,78 @@
+<bill session="111" type="h" number="6102" updated="2013-07-20T00:07:40-04:00">
+  <state datetime="2010-09-27">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2010-09-27"/>
+  </status>
+  <introduced datetime="2010-08-10"/>
+  <titles>
+    <title as="introduced" type="official">To amend the National Defense Authorization Act for Fiscal Year 2010 to extend the authority of the Secretary of the Navy to enter into multiyear contracts for F/A-18E, F/A-18F, and EA-18G aircraft.</title>
+  </titles>
+  <sponsor id="400399"/>
+  <cosponsors>
+    <cosponsor id="400005" joined="2010-08-10"/>
+    <cosponsor id="400254" joined="2010-08-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-08-10">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2010-09-14">
+      <text>Referred to the Subcommittee on Seapower and Expeditionary Forces.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+    <action datetime="2010-09-14T14:53:00-04:00">
+      <text>Mr. Taylor moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-09-14T14:53:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6639-6640" label="consideration"/>
+    </action>
+    <action datetime="2010-09-14T14:53:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6102.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-09-14T15:03:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6639" label="text"/>
+    </vote>
+    <action datetime="2010-09-14T15:03:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-09-15">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2010-09-16" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S7181" label="consideration"/>
+    </vote>
+    <action datetime="2010-09-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2010-09-16">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2010-09-23">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2010-09-27">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2010-09-27" type="public" number="111-238">
+      <text>Became Public Law No: 111-238.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS28" subcommittee="Seapower and Expeditionary Forces" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3782"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Aviation and airports"/>
+    <term name="Military procurement, research, weapons development"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/2010--Public Law.
+Amends the National Defense Authorization Act for Fiscal Year 2010 relating to the authority of the Secretary of the Navy to enter into multiyear contracts for the procurement of F/A-18E, F/A-18F, and EA-18G aircraft to: (1) extend from March 1, 2010, to September 1, 2010, the required date of a certification by the Secretary of Defense (DOD) that certain contract conditions have been met; and (2) provide that such contract authority shall be deemed to meet the requirement that a multiyear contract equal to or greater than $500 million may not be entered into unless the contract is specifically authorized by law and provided for in an appropriations Act.</summary>
+</bill>

@@ -1,0 +1,69 @@
+<bill session="112" type="h" number="3090" updated="2013-07-20T01:36:57-04:00">
+  <state datetime="2011-10-04">REFERRED</state>
+  <status>
+    <introduced datetime="2011-10-04"/>
+  </status>
+  <introduced datetime="2011-10-04"/>
+  <titles>
+    <title as="introduced" type="short">EDA Elimination Act of 2011</title>
+    <title as="introduced" type="official">To terminate the Economic Development Administration, and for other purposes.</title>
+  </titles>
+  <sponsor id="412431"/>
+  <cosponsors>
+    <cosponsor id="412438" joined="2012-05-07"/>
+    <cosponsor id="400046" joined="2011-10-12"/>
+    <cosponsor id="412252" joined="2011-10-14"/>
+    <cosponsor id="412270" joined="2011-10-06"/>
+    <cosponsor id="412472" joined="2011-10-12"/>
+    <cosponsor id="400134" joined="2011-10-12"/>
+    <cosponsor id="400141" joined="2011-10-06"/>
+    <cosponsor id="400651" joined="2011-10-12"/>
+    <cosponsor id="412437" joined="2011-10-12"/>
+    <cosponsor id="400206" joined="2011-11-15"/>
+    <cosponsor id="400224" joined="2011-10-12"/>
+    <cosponsor id="412191" joined="2011-10-26"/>
+    <cosponsor id="412295" joined="2011-10-12"/>
+    <cosponsor id="400311" joined="2011-10-12"/>
+    <cosponsor id="400320" joined="2011-10-06"/>
+    <cosponsor id="412471" joined="2011-11-15"/>
+    <cosponsor id="412424" joined="2011-10-14"/>
+    <cosponsor id="400627" joined="2011-11-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-10-04">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-10-04">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2011-10-04">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2011-10-05">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2011-10-21">
+      <text>Referred to the Subcommittee on Domestic Monetary Policy and Technology.</text>
+      <committee name="House Financial Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA19" subcommittee="Domestic Monetary Policy and Technology" name="House Financial Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="1869"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Department of Commerce"/>
+    <term name="Economic development"/>
+    <term name="Executive agency funding and structure"/>
+  </subjects>
+  <amendments/>
+  <summary>10/4/2011--Introduced.
+EDA Elimination Act of 2011 - Terminates the Economic Development Administration (EDA). Repeals the Public Works and Economic Development Act of 1965. Direct the Secretary of Commerce to take such actions as necessary and appropriate to conclude the outstanding affairs of the EDA, including dispositions of personnel, assets, and obligations.</summary>
+</bill>

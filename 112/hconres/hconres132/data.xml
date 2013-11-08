@@ -1,0 +1,61 @@
+<bill session="112" type="hc" number="132" updated="2013-07-20T02:10:07-04:00">
+  <state datetime="2012-09-10T17:13:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-09-10T17:13:00-04:00"/>
+  </status>
+  <introduced datetime="2012-07-17"/>
+  <titles>
+    <title as="introduced" type="official">Providing funding to ensure the printing and production of the authorized number of copies of the revised and updated version of the House document entitled "Hispanic Americans in Congress", and for other purposes.</title>
+  </titles>
+  <sponsor id="400617"/>
+  <cosponsors>
+    <cosponsor id="400366" joined="2012-07-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-07-17">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2012-07-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on House Administration"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-07-19">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on House Administration"/>
+    </calendar>
+    <action datetime="2012-09-10T17:07:00-04:00">
+      <text>Mr. Lungren, Daniel E. moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2012-09-10T17:07:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5744-5745" label="consideration"/>
+    </action>
+    <action datetime="2012-09-10T17:07:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 132.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-09-10T17:13:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H5744" label="text"/>
+    </vote>
+    <action datetime="2012-09-10T17:13:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-09-11">
+      <text>Received in the Senate and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Markup"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Government information and archives"/>
+    <term name="House of Representatives"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>9/10/2012--Passed House without amendment.
+Provides additional funding for the printing as a House document of an updated version of House Document 103-299 (as revised by the Library of Congress) entitled "Hispanic Americans in Congress." Requires the Public Printer, upon the request of the House Committee on House Administration, to publish and disseminate an electronic version of: (1) such House Document; (2) House Document 108-223, entitled "Women in Congress, 1917-2006"; and (3) House Document 108-224, entitled "Black Americans in Congress, 1870-2007."</summary>
+</bill>

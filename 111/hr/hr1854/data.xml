@@ -1,0 +1,65 @@
+<bill session="111" type="h" number="1854" updated="2013-07-19T23:28:27-04:00">
+  <state datetime="2009-12-08T14:08:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-12-08T14:08:00-05:00"/>
+  </status>
+  <introduced datetime="2009-04-01"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Water Resources Development Act of 1992 to modify an environmental infrastructure project for Big Bear Lake, California.</title>
+  </titles>
+  <sponsor id="400239"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-04-01">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2009-04-02">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-12-08T14:05:00-05:00">
+      <text>Mr. Larsen (WA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-12-08T14:05:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H13581-13582" label="consideration"/>
+    </action>
+    <action datetime="2009-12-08T14:05:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1854.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-12-08T14:08:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H13581" label="text"/>
+    </vote>
+    <action datetime="2009-12-08T14:08:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-12-09">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2010-01-20">
+      <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+      <reference ref="CR S49" label="consideration"/>
+    </action>
+    <action datetime="2010-01-20">
+      <text>Referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Discharged"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="California"/>
+    <term name="Infrastructure development"/>
+    <term name="Lakes and rivers"/>
+    <term name="Water resources funding"/>
+  </subjects>
+  <amendments/>
+  <summary>12/8/2009--Passed House without amendment.
+Amends the Water Resources Development Act of 1992 to provide specified funding for water supply infrastructure improvements for Big Bear Lake, California (in lieu of funding for water reclamation and distribution infrastructure for the Big Bear Area Regional Wastewater Agency).</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="4185" updated="2013-07-19T23:50:02-04:00">
+  <state datetime="2009-12-02">REFERRED</state>
+  <status>
+    <introduced datetime="2009-12-02"/>
+  </status>
+  <introduced datetime="2009-12-02"/>
+  <titles>
+    <title as="introduced" type="short">Local Officials Tax Relief Act of 2009</title>
+    <title as="introduced" type="official">To amend the Social Security Act and the Internal Revenue Code of 1986 to exempt certain employment as a member of a local governing board, commission, or committee from Social Security tax coverage.</title>
+  </titles>
+  <sponsor id="400323"/>
+  <cosponsors>
+    <cosponsor id="400443" joined="2009-12-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-12-02">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2009-12-08">
+      <text>Referred to the Subcommittee on Social Security.</text>
+      <committee name="House Committee on Ways and Means"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="492"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employment taxes"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Income tax exclusion"/>
+    <term name="Social security and elderly assistance"/>
+    <term name="State and local government operations"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>12/2/2009--Introduced.
+Local Officials Tax Relief Act of 2009 - Amends the Internal Revenue Code and Title II (Old Age, Survivors, and Disability Insurance) of the Social Security Act to exempt from social security taxes remuneration paid to any elected or appointed member of any general governing board, commission, or committee of any political subdivision of a state if such remuneration is not more than $1,300 and is paid for service performed on or after January 1, 2009.</summary>
+</bill>

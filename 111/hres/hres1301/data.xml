@@ -1,0 +1,81 @@
+<bill session="111" type="hr" number="1301" updated="2013-07-19T23:07:24-04:00">
+  <state datetime="2010-05-05T14:45:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2010-05-05T14:45:00-04:00"/>
+  </status>
+  <introduced datetime="2010-04-27"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals and ideals of National Train Day.</title>
+  </titles>
+  <sponsor id="400048"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-04-27">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2010-04-28">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-04-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-04-29">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2010-04-29">
+      <text>Subcommittee on Railroads, Pipelines, and Hazardous Materials Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-05-04T14:59:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 111-472.</text>
+    </action>
+    <calendar datetime="2010-05-04T14:59:00-04:00" calendar="House" number="190">
+      <text>Placed on the House Calendar, Calendar No. 190.</text>
+    </calendar>
+    <action datetime="2010-05-05T13:27:00-04:00">
+      <text>Ms. Brown, Corrine moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2010-05-05T13:27:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3163-3166" label="consideration"/>
+    </action>
+    <action datetime="2010-05-05T13:27:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1301.</text>
+    </action>
+    <action datetime="2010-05-05T13:50:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-05-05T14:35:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3168" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2010-05-05T14:45:00-04:00" how="roll" result="pass" roll="248" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 296 - 119 (Roll no. 248).</text>
+      <reference ref="CR H3163" label="text"/>
+    </vote>
+    <action datetime="2010-05-05T14:45:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW14" subcommittee="Railroads, Pipelines, and Hazardous Materials" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="hr" number="367"/>
+    <bill relation="unknown" session="111" type="hr" number="367"/>
+    <bill relation="unknown" session="111" type="sr" number="517"/>
+    <bill relation="unknown" session="111" type="s" number="517"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Railroads"/>
+  </subjects>
+  <amendments/>
+  <summary>5/5/2010--Passed House amended.
+Recognizes the important contributions trains and Amtrak make to the national transportation system. Supports the goals and ideals of National Train Day as designated by Amtrak. Urges the people of the United States to recognize such a day as an opportunity to celebrate passenger rail and to learn more about trains.</summary>
+</bill>

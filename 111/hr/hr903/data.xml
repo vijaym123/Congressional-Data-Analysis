@@ -1,0 +1,102 @@
+<bill session="111" type="h" number="903" updated="2013-07-19T23:20:01-04:00">
+  <state datetime="2010-09-28T22:50:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-09-28T22:50:00-04:00"/>
+  </status>
+  <introduced datetime="2009-02-04"/>
+  <titles>
+    <title as="introduced" type="short">Dental Emergency Responder Act of 2009</title>
+    <title as="reported to house" type="short">Dental Emergency Responder Act of 2010</title>
+    <title as="passed house" type="short">Dental Emergency Responder Act of 2010</title>
+    <title as="introduced" type="official">To amend the Public Health Service Act to enhance the roles of dentists and allied dental personnel in the Nation's disaster response framework, and for other purposes.</title>
+  </titles>
+  <sponsor id="400391"/>
+  <cosponsors>
+    <cosponsor id="400130" joined="2009-03-23"/>
+    <cosponsor id="400151" joined="2010-07-22"/>
+    <cosponsor id="400160" joined="2009-02-26"/>
+    <cosponsor id="400183" joined="2009-03-11"/>
+    <cosponsor id="400199" joined="2009-03-18"/>
+    <cosponsor id="412285" joined="2009-03-11"/>
+    <cosponsor id="412291" joined="2010-09-28"/>
+    <cosponsor id="400260" joined="2010-09-22"/>
+    <cosponsor id="400276" joined="2009-02-04"/>
+    <cosponsor id="400309" joined="2009-04-27"/>
+    <cosponsor id="400342" joined="2009-02-26"/>
+    <cosponsor id="400346" joined="2010-03-09"/>
+    <cosponsor id="412229" joined="2009-03-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-04">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2009-02-09">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2010-07-22">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2010-07-22">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2010-07-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-07-28">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2010-09-28T22:38:00-04:00">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-647.</text>
+    </action>
+    <calendar datetime="2010-09-28T22:39:00-04:00" calendar="Union" number="387">
+      <text>Placed on the Union Calendar, Calendar No. 387.</text>
+    </calendar>
+    <action datetime="2010-09-28T22:46:00-04:00">
+      <text>Mr. Pallone moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-09-28T22:46:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7197-7199" label="consideration"/>
+    </action>
+    <action datetime="2010-09-28T22:46:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 903.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-09-28T22:50:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7197-7198" label="text"/>
+    </vote>
+    <action datetime="2010-09-28T22:50:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-09-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Other Legislative Involvement"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Dental care"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Federal officials"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Homeland security"/>
+    <term name="Medical education"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/2010--Passed House amended.
+Dental Emergency Responder Act of 2010 - Amends the Public Health Service Act to authorize the inclusion of dental health facilities in the National Health Security Strategy for purposes of preparedness during public health emergencies. Includes dental entities among entities that may carry out education and training activities to improve responses to public health emergencies. Amends the Homeland Security Act of 2002 to: (1) define "emergency responder providers" to include federal, state, and local governmental and nongovernmental dental personnel, agencies, and authorities; and (2) require the Chief Medical Officer to serve as the Department of Homeland Security's (DHS) primary point of contact for the dental community, with respect to medical and public health matters. Amends the Post-Katrina Emergency Management Reform Act of 2006 to require operational plans developed under the National Response Plan to address the preparedness and deployment of dental resources.</summary>
+</bill>

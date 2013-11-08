@@ -1,0 +1,65 @@
+<bill session="113" type="hj" number="99" updated="2013-11-02T06:48:49-04:00">
+  <state datetime="2013-10-30T14:37:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-10-30T14:37:00-04:00"/>
+  </status>
+  <introduced datetime="2013-10-28"/>
+  <titles>
+    <title type="official" as="introduced">Relating to the disapproval of the President's exercise of authority to suspend the debt limit, as submitted under section 1002(b) of the Continuing Appropriations Act, 2014 on October 17, 2013.</title>
+  </titles>
+  <sponsor id="412428"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-10-28" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2013-10-29T17:39:00-04:00">
+      <text>Pursuant to H. Res. 931 and section 1002(e) of the Continuing Appropriations Act, 2014, Mr. Young (IN) moved that the House consider H.J.Res. 99.</text>
+      <reference ref="H6872" label="consideration"/>
+    </action>
+    <action datetime="2013-10-29T17:40:00-04:00">
+      <text>On motion to consider Agreed to by voice vote.</text>
+      <reference ref="CR H6872" label="consideration"/>
+    </action>
+    <action datetime="2013-10-29T17:40:00-04:00">
+      <text>Considered under the provisions of H.Res. 391 and section 1002(e) of the Continuing Appropriations Act, 2014.</text>
+      <reference ref="CR H6872-6876" label="consideration"/>
+    </action>
+    <action datetime="2013-10-29T17:41:00-04:00">
+      <text>DEBATE - Pursuant to H.Res. 391 and section 1002(e)(2)(c) of the Continuing Appropriations Act, 2014, the House proceeded with one hour of debate on H.J. Res. 99.</text>
+    </action>
+    <action datetime="2013-10-29T18:23:00-04:00">
+      <text>The previous question was ordered without objection.</text>
+      <reference ref="CR H6876" label="consideration"/>
+    </action>
+    <action datetime="2013-10-29T18:23:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.J.Res. 99, the Chair put the question on passage of the joint resolution and by voice vote, announced that the ayes had prevailed. Mr. Levin demanded the yeas and nays the Chair postponed further proceedings on the question of passage of the joint resolution until a time to be announced.</text>
+    </action>
+    <action datetime="2013-10-30T14:29:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6928" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="570" datetime="2013-10-30T14:37:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 222 - 191, 2 Present (Roll no. 570).</text>
+      <reference ref="CR 10/29/2013 H6872" label="text"/>
+    </vote>
+    <action datetime="2013-10-30T14:37:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-10-31">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 232, Pursuant to Sec. 1002 of Public Law 113-46.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="hr" number="391"/>
+    <bill relation="identical" session="113" type="sj" number="26"/>
+    <bill relation="unknown" session="113" type="sj" number="26"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>10/28/2013--Introduced.
+Disapproves of the President's exercise of authority to suspend the debt limit.</summary>
+</bill>

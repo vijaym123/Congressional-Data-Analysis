@@ -1,0 +1,103 @@
+<bill session="113" type="h" number="507" updated="2013-11-02T06:23:14-04:00">
+  <state datetime="2013-05-06T19:14:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-05-06T19:14:00-04:00"/>
+  </status>
+  <introduced datetime="2013-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Pascua Yaqui Tribe Trust Land Act</title>
+    <title type="short" as="reported to house">Pascua Yaqui Tribe Trust Land Act</title>
+    <title type="short" as="passed house">Pascua Yaqui Tribe Trust Land Act</title>
+    <title type="official" as="introduced">To provide for the conveyance of certain land inholdings owned by the United States to the Pascua Yaqui Tribe of Arizona, and for other purposes.</title>
+  </titles>
+  <sponsor id="400162"/>
+  <cosponsors>
+    <cosponsor id="412502" joined="2013-03-12"/>
+    <cosponsor id="400141" joined="2013-02-12"/>
+    <cosponsor id="412397" joined="2013-02-12"/>
+    <cosponsor id="412286" joined="2013-03-12"/>
+    <cosponsor id="400310" joined="2013-03-12"/>
+    <cosponsor id="400606" joined="2013-03-19"/>
+    <cosponsor id="412399" joined="2013-02-28"/>
+    <cosponsor id="412509" joined="2013-02-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-05" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-02-12">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-03-20">
+      <text>Subcommittee on Public Lands and Environmental Regulation Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-03-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar datetime="2013-03-20" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2013-04-09T15:18:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 113-27.</text>
+    </action>
+    <calendar datetime="2013-04-09T15:18:00-04:00" calendar="Union" number="15">
+      <text>Placed on the Union Calendar, Calendar No. 15.</text>
+    </calendar>
+    <action datetime="2013-05-06T17:17:00-04:00">
+      <text>Mr. Young (AK) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-05-06T17:17:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2411-2412" label="consideration"/>
+    </action>
+    <action datetime="2013-05-06T17:18:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 507.</text>
+    </action>
+    <action datetime="2013-05-06T17:21:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-05-06T19:07:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2413-2414" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="131" datetime="2013-05-06T19:14:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 2 (Roll no. 131).</text>
+      <reference ref="CR H2411" label="text"/>
+    </vote>
+    <action datetime="2013-05-06T19:14:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-05-07">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2013-07-30">
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSEG03" subcommittee="Public Lands, Forests, and Mining" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Arizona"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Gambling"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Infrastructure development"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/2013--Passed House without amendment.
+Pascua Yaqui Tribe Trust Land Act - Holds in trust for the Pascua Yaqui Tribe of Arizona all right, title, and interest of the United States in and to approximately 10 acres of federal land generally depicted as parcel A, and approximately 10 acres of federal land generally depicted as parcel B, on the map titled "PYT Land Department," dated January 15, 2013. Makes that conveyance effective on the day after the date on which: (1) the Tucson Unified School District relinquishes all right, title, and interest to the parcel B land; and (2) the Secretary of the Interior approves and records the lease agreement between the Tribe and the District for the construction and operation of a regional transportation facility located on the Tribe's restricted land. Prohibits gaming on the lands held in trust under this Act. Prohibits the forfeiture or abandonment of any water rights that are appurtenant to such lands.</summary>
+</bill>

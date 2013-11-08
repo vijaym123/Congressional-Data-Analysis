@@ -1,0 +1,44 @@
+<bill session="111" type="hr" number="345" updated="2013-07-19T22:58:58-04:00">
+  <state datetime="2009-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="2009-04-21"/>
+  </status>
+  <introduced datetime="2009-04-21"/>
+  <titles>
+    <title as="introduced" type="official">Establishing a select committee to make a thorough and complete investigation of the causes of the current financial crisis and other matters.</title>
+  </titles>
+  <sponsor id="400110"/>
+  <cosponsors>
+    <cosponsor id="412215" joined="2009-04-28"/>
+    <cosponsor id="400211" joined="2009-04-28"/>
+    <cosponsor id="400263" joined="2009-04-28"/>
+    <cosponsor id="412304" joined="2009-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-04-21">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H4553"/>
+    </action>
+    <action state="REFERRED" datetime="2009-04-21">
+      <text>Referred to the House Committee on Rules.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="sr" number="62"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional committees"/>
+    <term name="Congressional operations and organization"/>
+    <term name="Congressional oversight"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Financial crises and stabilization"/>
+    <term name="House of Representatives"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/2009--Introduced.
+Establishes a select committee in the House to investigate the causes of the current financial crisis and to report its findings during the current Congress.</summary>
+</bill>

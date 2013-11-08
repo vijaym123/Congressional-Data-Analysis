@@ -1,0 +1,89 @@
+<bill session="111" type="h" number="3738" updated="2013-07-19T23:45:50-04:00">
+  <state datetime="2009-11-18T11:24:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-11-18T11:24:00-05:00"/>
+  </status>
+  <introduced datetime="2009-10-07"/>
+  <titles>
+    <title as="introduced" type="short">Small Business Early-Stage Investment Act of 2009</title>
+    <title as="passed house" type="short">Small Business Early-Stage Investment Act of 2009</title>
+    <title as="introduced" type="official">To amend the Small Business Investment Act of 1958 to establish a program for the Small Business Administration to provide financing to support early-stage small businesses in targeted industries, and for other purposes.</title>
+  </titles>
+  <sponsor id="412301"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-10-07">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+    <action datetime="2009-10-07">
+      <text>Referred to the Subcommittee on Finance and Tax.</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+    <action datetime="2009-10-08">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+    <action datetime="2009-10-08">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+    <action datetime="2009-10-21">
+      <text>Provisions of Measure Incorporated into H.R. 3854.</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+    <action datetime="2009-11-18T11:08:00-05:00">
+      <text>Ms. Velazquez moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-11-18T11:08:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H13081-13084" label="consideration"/>
+    </action>
+    <action datetime="2009-11-18T11:08:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3738.</text>
+    </action>
+    <action datetime="2009-11-18T11:16:00-05:00">
+      <text>DEBATE - The House resumed debate on H.R. 3738.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-11-18T11:24:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H13081-13082" label="text"/>
+    </vote>
+    <action datetime="2009-11-18T11:24:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-11-19">
+      <text>Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral"/>
+    <committee activity="Referral, Markup, Reporting" code="HSSM19" subcommittee="Finance and Tax" name="House Small Business"/>
+    <committee code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="3854"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Agricultural practices and innovations"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Broadcasting, cable, digital technologies"/>
+    <term name="Business investment and capital"/>
+    <term name="Computers and information technology"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Energy research"/>
+    <term name="Environmental technology"/>
+    <term name="Financial services and investments"/>
+    <term name="Government trust funds"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Medical research"/>
+    <term name="Military procurement, research, weapons development"/>
+    <term name="Research and development"/>
+    <term name="Small business"/>
+    <term name="Technology transfer and commercialization"/>
+  </subjects>
+  <amendments/>
+  <summary>11/18/2009--Passed House amended.
+Small Business Early-Stage Investment Act of 2009 - Amends the Small Business Investment Act of 1958 to direct the Administrator of the Small Business Administration (SBA) to establish and carry out a program to provide equity investment financing to support early-stage small businesses in the following targeted industries: (1) agricultural technology; (2) energy technology; (3) environmental technology; (4) life science; (5) information technology; (6) digital media; (7) clean technology; (8) defense technology; and (9) photonics technology. Directs the Administrator to make grants to participating investment companies under the program and limits to $100 million the aggregate amount of all grants made to a participating investment company under the program. Requires, as a condition of receiving a grant under the program, all of the investments of participating investment companies to be in small businesses, and at least 50% to be in early-stage small businesses in the targeted industries. Directs the Administrator to monitory participant compliance with such requirements. Establishes a separate Treasury fund for such grants. Authorizes appropriations. Prohibits funds appropriated for such purpose from being used for a congressional earmark.</summary>
+</bill>

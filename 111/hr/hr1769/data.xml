@@ -1,0 +1,90 @@
+<bill session="111" type="h" number="1769" updated="2013-07-19T23:27:42-04:00">
+  <state datetime="2010-03-18T15:43:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-03-18T15:43:00-04:00"/>
+  </status>
+  <introduced datetime="2009-03-26"/>
+  <titles>
+    <title as="introduced" type="short">Alpine Lakes Wilderness Additions and Pratt and Middle Fork Snoqualmie Rivers Protection Act</title>
+    <title as="reported to house" type="short">Alpine Lakes Wilderness Additions and Pratt and Middle Fork Snoqualmie Rivers Protection Act</title>
+    <title as="passed house" type="short">Alpine Lakes Wilderness Additions and Pratt and Middle Fork Snoqualmie Rivers Protection Act</title>
+    <title as="introduced" type="official">To expand the Alpine Lakes Wilderness in the State of Washington, to designate the Middle Fork Snoqualmie River and Pratt River as wild and scenic rivers, and for other purposes.</title>
+  </titles>
+  <sponsor id="400660"/>
+  <cosponsors>
+    <cosponsor id="400011" joined="2009-03-26"/>
+    <cosponsor id="400193" joined="2009-03-26"/>
+    <cosponsor id="400198" joined="2009-10-06"/>
+    <cosponsor id="400262" joined="2009-03-26"/>
+    <cosponsor id="412331" joined="2009-09-29"/>
+    <cosponsor id="400379" joined="2009-03-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-26">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-03-30">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-11-05">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-02-24">
+      <text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-02-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-02-24">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2010-03-11T14:35:00-05:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-434.</text>
+    </action>
+    <calendar datetime="2010-03-11T14:36:00-05:00" calendar="Union" number="250">
+      <text>Placed on the Union Calendar, Calendar No. 250.</text>
+    </calendar>
+    <action datetime="2010-03-18T15:30:00-04:00">
+      <text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-03-18T15:30:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1619-1621" label="consideration"/>
+    </action>
+    <action datetime="2010-03-18T15:30:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1769.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-03-18T15:43:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H1619-1620" label="text"/>
+    </vote>
+    <action datetime="2010-03-18T15:43:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="2010-03-19" calendar="Senate Legislative" under="General Orders" number="325">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 325.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="721"/>
+    <bill relation="unknown" session="111" type="s" number="721"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Washington State"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/2010--Passed House amended.
+Alpine Lakes Wilderness Additions and Pratt and Middle Fork Snoqualmie Rivers Protection Act - Designates certain land in the Mount Baker-Snoqualmie National Forest in the state of Washington comprising approximately 22,173 acres within the proposed Alpine Lakes Wilderness additions boundary, which shall be considered to become a part of the Alpine Lakes Wilderness, as wilderness and as a component of the National Wilderness Preservation System. Makes any land and interests within the proposed additions boundary which are acquired by the United States part of such Wilderness. Amends the Wild and Scenic Rivers Act to designate the Middle Fork Snoqualmie and Pratt Rivers in Washington state as scenic and/or wild rivers.</summary>
+</bill>

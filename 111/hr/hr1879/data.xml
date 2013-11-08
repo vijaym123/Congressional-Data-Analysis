@@ -1,0 +1,121 @@
+<bill session="111" type="h" number="1879" updated="2013-07-19T23:28:40-04:00">
+  <state datetime="2010-03-24T15:53:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-03-24T15:53:00-04:00"/>
+  </status>
+  <introduced datetime="2009-04-02"/>
+  <titles>
+    <title as="introduced" type="short">National Guard Employment Protection Act of 2009</title>
+    <title as="reported to house" type="short">National Guard Employment Protection Act of 2010</title>
+    <title as="passed house" type="short">National Guard Employment Protection Act of 2010</title>
+    <title as="introduced" type="official">To amend title 38, United States Code, to provide for employment and reemployment rights for certain individuals ordered to full-time National Guard duty.</title>
+  </titles>
+  <sponsor id="412271"/>
+  <cosponsors>
+    <cosponsor id="400011" joined="2009-10-28"/>
+    <cosponsor id="400040" joined="2009-06-10"/>
+    <cosponsor id="400041" joined="2009-04-02"/>
+    <cosponsor id="400056" joined="2010-03-10"/>
+    <cosponsor id="412193" joined="2009-12-14"/>
+    <cosponsor id="412230" joined="2009-10-28"/>
+    <cosponsor id="400133" joined="2009-05-06"/>
+    <cosponsor id="412188" joined="2010-03-22"/>
+    <cosponsor id="400157" joined="2010-03-22"/>
+    <cosponsor id="412280" joined="2010-03-04"/>
+    <cosponsor id="412287" joined="2010-01-27"/>
+    <cosponsor id="400224" joined="2010-01-27"/>
+    <cosponsor id="412191" joined="2009-12-14"/>
+    <cosponsor id="400244" joined="2009-05-06"/>
+    <cosponsor id="412292" joined="2009-12-11"/>
+    <cosponsor id="400279" joined="2009-12-14"/>
+    <cosponsor id="400285" joined="2010-03-21"/>
+    <cosponsor id="412310" joined="2010-03-16"/>
+    <cosponsor id="400392" joined="2010-03-10"/>
+    <cosponsor id="412239" joined="2009-10-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-04-02">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-04-03">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-05-21">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-05-22">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-03-04">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-03-04">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-03-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-03-04">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2010-03-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar datetime="2010-03-10">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2010-03-22T14:31:00-04:00">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-450.</text>
+    </action>
+    <calendar datetime="2010-03-22T14:31:00-04:00" calendar="Union" number="259">
+      <text>Placed on the Union Calendar, Calendar No. 259.</text>
+    </calendar>
+    <action datetime="2010-03-22T14:34:00-04:00">
+      <text>Mr. Filner moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-03-22T14:34:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2181" label="consideration"/>
+    </action>
+    <action datetime="2010-03-22T14:34:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1879.</text>
+    </action>
+    <action datetime="2010-03-22T14:41:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Filner objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2010-03-24T15:46:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2299-2300" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-03-24T15:53:00-04:00" how="roll" result="pass" roll="184" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 1 (Roll no. 184).</text>
+      <reference ref="CR 3/22/2010 H2181" label="text"/>
+    </vote>
+    <action datetime="2010-03-25">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="National Guard and reserves"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/2010--Passed House amended.
+National Guard Employment Protection Act of 2010 - Provides employment and reemployment rights, beyond the Uniformed Services Employment and Reemployment Rights Act of 1994 (USERRA) five-year limit, for individuals ordered to full-time National Guard duty when the period of duty is expressly designated in writing by the Secretary of Defense (DOD).</summary>
+</bill>

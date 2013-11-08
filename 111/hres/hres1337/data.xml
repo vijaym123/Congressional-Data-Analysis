@@ -1,0 +1,71 @@
+<bill session="111" type="hr" number="1337" updated="2013-07-19T23:07:43-04:00">
+  <state datetime="2010-05-13T13:11:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2010-05-13T13:11:00-04:00"/>
+  </status>
+  <introduced datetime="2010-05-06"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sympathy and condolences of the House of Representatives to those people affected by the flooding in Tennessee, Kentucky, and Mississippi in May, 2010.</title>
+  </titles>
+  <sponsor id="400081"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2010-05-06"/>
+    <cosponsor id="412236" joined="2010-05-06"/>
+    <cosponsor id="400096" joined="2010-05-06"/>
+    <cosponsor id="400116" joined="2010-05-06"/>
+    <cosponsor id="400155" joined="2010-05-06"/>
+    <cosponsor id="412310" joined="2010-05-06"/>
+    <cosponsor id="400395" joined="2010-05-06"/>
+    <cosponsor id="400421" joined="2010-05-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-05-06">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2010-05-12">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-05-12T11:19:00-04:00">
+      <text>Mr. Cohen moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2010-05-12T11:19:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3333-3336" label="consideration"/>
+    </action>
+    <action datetime="2010-05-12T11:19:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1337.</text>
+    </action>
+    <action datetime="2010-05-12T11:39:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-05-13T13:04:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3458-3459" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2010-05-13T13:11:00-04:00" how="roll" result="pass" roll="272" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 272).</text>
+      <reference ref="CR 5/12/2010 H3333" label="text"/>
+    </vote>
+    <action datetime="2010-05-13T13:11:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Congressional tributes"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Floods and storm protection"/>
+    <term name="Kentucky"/>
+    <term name="Mississippi"/>
+    <term name="Tennessee"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/2010--Passed House without amendment.
+Expresses condolences to the families of those who lost their lives or property as the result of flooding beginning on May 2, 2010, in Tennessee, Kentucky, and Mississippi.Expresses: (1) appreciation to the people of Tennessee and the surrounding states who continue to work to protect people from the floodwaters and aid in recovery efforts; and (2) support as the Federal Emergency Management Agency (FEMA) continues to respond to needs of the affected communities.Honors the emergency responders across Tennessee for their bravery and sacrifice.</summary>
+</bill>

@@ -1,0 +1,92 @@
+<bill session="111" type="h" number="1110" updated="2013-07-19T23:21:53-04:00">
+  <state datetime="2009-12-16T14:07:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-12-16T14:07:00-05:00"/>
+  </status>
+  <introduced datetime="2009-02-23"/>
+  <titles>
+    <title as="introduced" type="short">PHONE Act of 2009</title>
+    <title as="introduced" type="short">Preventing Harassment through Outbound Number Enforcement Act of 2009</title>
+    <title as="reported to house" type="short">PHONE Act of 2009</title>
+    <title as="reported to house" type="short">Preventing Harassment through Outbound Number Enforcement Act of 2009</title>
+    <title as="passed house" type="short">PHONE Act of 2009</title>
+    <title as="passed house" type="short">Preventing Harassment through Outbound Number Enforcement Act of 2009</title>
+    <title as="introduced" type="official">To amend title 18, United States Code, to prevent caller ID spoofing, and for other purposes.</title>
+  </titles>
+  <sponsor id="400364"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2009-02-23"/>
+    <cosponsor id="400199" joined="2009-02-23"/>
+    <cosponsor id="400285" joined="2009-02-23"/>
+    <cosponsor id="400371" joined="2009-02-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-23">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2009-03-16">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2009-10-05">
+      <text>Subcommittee on Crime, Terrorism, and Homeland Security Discharged.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2009-10-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-10-07">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2009-11-02T14:22:00-05:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 111-321.</text>
+    </action>
+    <calendar datetime="2009-11-02T14:23:00-05:00" calendar="Union" number="183">
+      <text>Placed on the Union Calendar, Calendar No. 183.</text>
+    </calendar>
+    <action datetime="2009-12-15T11:35:00-05:00">
+      <text>Mr. Conyers moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-12-15T11:35:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H14896-14897" label="consideration"/>
+    </action>
+    <action datetime="2009-12-15T11:35:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1110.</text>
+    </action>
+    <action datetime="2009-12-15T11:41:00-05:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Conyers objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2009-12-16T14:00:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H15420" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-12-16T14:07:00-05:00" how="roll" result="pass" roll="986" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 418 - 1 (Roll no. 986).</text>
+      <reference ref="CR 12/15/2009 H14896" label="text"/>
+    </vote>
+    <action datetime="2009-12-16T14:07:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-12-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+  <summary>12/16/2009--Passed House amended.
+Preventing Harassment through Outbound Number Enforcement Act of 2009 or the PHONE Act of 2009 - Amends the federal criminal code to: (1) impose a fine, a five-year prison term, or both, on anyone who knowingly uses or provides to another, in interstate or foreign commerce, false caller ID information with intent to wrongfully obtain anything of value; and (2) impose a fine, a one-year prison term, or both, on anyone who knowingly provides caller ID information with the intent to deceive the recipient of the call about the identify of the caller. Exempts from such prohibitions authorized activities of a U.S. law enforcement or intelligence agency. Provides for criminal forfeiture of any gains from violations of this Act and of any equipment, software, or other technology used to commit such violations. Expands the definition of "telephone call," for purposes of this Act, to mean a call made or received using any real time voice communications service, regardless of the technology or network used. Establishes fraud crimes related to electronic mail and caller ID spoofing as predicates for money laundering prosecutions.</summary>
+</bill>

@@ -1,0 +1,99 @@
+<bill session="111" type="h" number="4003" updated="2013-07-19T23:48:13-04:00">
+  <state datetime="2010-03-19T13:57:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-03-19T13:57:00-04:00"/>
+  </status>
+  <introduced datetime="2009-11-03"/>
+  <titles>
+    <title as="introduced" type="short">Hudson River Valley Special Resource Study Act</title>
+    <title as="reported to house" type="short">Hudson River Valley Special Resource Study Act</title>
+    <title as="passed house" type="short">Hudson River Valley Special Resource Study Act</title>
+    <title as="introduced" type="official">To direct the Secretary of the Interior to conduct a special resource study to evaluate resources in the Hudson River Valley in the State of New York to determine the suitability and feasibility of establishing the site as a unit of the National Park System, and for other purposes.</title>
+  </titles>
+  <sponsor id="400178"/>
+  <cosponsors>
+    <cosponsor id="400122" joined="2009-11-03"/>
+    <cosponsor id="412222" joined="2010-01-20"/>
+    <cosponsor id="400246" joined="2009-11-03"/>
+    <cosponsor id="412332" joined="2010-01-19"/>
+    <cosponsor id="412319" joined="2009-11-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-11-03">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-11-05">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-01-21">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-02-24">
+      <text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-02-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-02-24">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2010-03-11T14:37:00-05:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-436.</text>
+    </action>
+    <calendar datetime="2010-03-11T14:37:00-05:00" calendar="Union" number="252">
+      <text>Placed on the Union Calendar, Calendar No. 252.</text>
+    </calendar>
+    <action datetime="2010-03-18T15:06:00-04:00">
+      <text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-03-18T15:06:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1616-1617" label="consideration"/>
+    </action>
+    <action datetime="2010-03-18T15:06:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4003.</text>
+    </action>
+    <action datetime="2010-03-18T15:18:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-03-19T13:49:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H1686-1687" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-03-19T13:57:00-04:00" how="roll" result="pass" roll="143" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 293 - 115 (Roll no. 143).</text>
+      <reference ref="CR 3/18/2010 H1616" label="text"/>
+    </vote>
+    <action datetime="2010-03-19T13:57:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-03-22">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3131"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Government studies and investigations"/>
+    <term name="Historical and cultural resources"/>
+    <term name="Lakes and rivers"/>
+    <term name="New York State"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Watersheds"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2010--Passed House amended.
+Hudson River Valley Special Resource Study Act - Directs the Secretary of the Interior to complete a special resource study of the Hudson River Valley in the state of New York to evaluate: (1) the national significance of the part of the Hudson River that flows from Rodgers Island at Fort Edward to the southern-most boundary of Westchester County, New York, including any relevant sites and landscapes within counties in New York that abut that part of the River (the study area); and (2) the suitability and feasibility of designating the study area as a unit of the National Park System (NPS). Instructs the Secretary, in conducting the study, to: (1) determine the effect of designation of the study area as a unit of the System on specified existing commercial and recreational activities and the effect on the authority of state and local governments to manage these activities; (2) identify any authorities that will compel or permit the Secretary to influence local land use decisions or place restrictions on non-federal land if the study area is designated as a System unit; and (3) closely examine park unit models that encompass large areas of non-federal lands within their designated boundaries, foster public and private collaborative arrangements for achieving NPS objectives, and protect and respect private landowners' rights. Requires the Secretary to submit a report to Congress on the findings, conclusions, and recommendations of such study.</summary>
+</bill>

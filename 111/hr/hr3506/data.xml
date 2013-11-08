@@ -1,0 +1,64 @@
+<bill session="111" type="h" number="3506" updated="2013-07-19T23:43:44-04:00">
+  <state datetime="2010-04-14T11:05:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-04-14T11:05:00-04:00"/>
+  </status>
+  <introduced datetime="2009-07-31"/>
+  <titles>
+    <title as="introduced" type="short">Eliminate Privacy Notice Confusion Act</title>
+    <title as="introduced" type="official">To amend the Gramm-Leach-Bliley Act to provide an exception from the continuing requirement for annual privacy notices for financial institutions which do not share personal information with affiliates, and for other purposes.</title>
+    <title as="amended by house" type="official">To amend the Gramm-Leach-Bliley Act to provide an exception from the continuing requirement for annual privacy notices for financial institutions which do not change their policies and practices with regard to disclosing nonpublic personal information from the policies and practices that were disclosed in the most recent disclosure sent to consumers, and for other purposes.</title>
+  </titles>
+  <sponsor id="412303"/>
+  <cosponsors>
+    <cosponsor id="412216" joined="2009-09-14"/>
+    <cosponsor id="400145" joined="2009-09-14"/>
+    <cosponsor id="412290" joined="2010-03-04"/>
+    <cosponsor id="400282" joined="2009-07-31"/>
+    <cosponsor id="400311" joined="2009-09-14"/>
+    <cosponsor id="412202" joined="2009-07-31"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-31">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2010-04-14T11:00:00-04:00">
+      <text>Mr. Moore (KS) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-04-14T11:00:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2513-2514" label="consideration"/>
+    </action>
+    <action datetime="2010-04-14T11:00:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3506.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-04-14T11:05:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H2513-2514" label="text"/>
+    </vote>
+    <action datetime="2010-04-14T11:05:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-04-14T11:05:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-04-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Consumer affairs"/>
+    <term name="Consumer credit"/>
+    <term name="Right of privacy"/>
+  </subjects>
+  <amendments/>
+  <summary>4/14/2010--Passed House amended.
+Eliminate Privacy Notice Confusion Act - Amends the Gramm-Leach-Bliley Act to exempt from its annual privacy policy notice requirement any financial institution which: (1) provides nonpublic personal information only in accordance with specified requirements; and (2) has not changed its policies and practices with regard to disclosing nonpublic personal information from those disclosed in the most recent disclosure sent to consumers.</summary>
+</bill>

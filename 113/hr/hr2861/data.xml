@@ -1,0 +1,35 @@
+<bill session="113" type="h" number="2861" updated="2013-11-02T06:43:07-04:00">
+  <state datetime="2013-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-30"/>
+  </status>
+  <introduced datetime="2013-07-30"/>
+  <titles>
+    <title type="official" as="introduced">To require the Nuclear Regulatory Commission to retain and redistribute certain amounts collected as fines.</title>
+  </titles>
+  <sponsor id="400246"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-07-30" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Nuclear power"/>
+    <term name="Radioactive wastes and releases"/>
+    <term name="State and local finance"/>
+  </subjects>
+  <amendments/>
+</bill>

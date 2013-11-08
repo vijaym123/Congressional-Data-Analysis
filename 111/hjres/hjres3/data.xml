@@ -1,0 +1,93 @@
+<bill session="111" type="hj" number="3" updated="2013-07-20T00:11:57-04:00">
+  <state datetime="2009-01-22T13:22:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-01-22T13:22:00-05:00"/>
+  </status>
+  <introduced datetime="2009-01-06"/>
+  <titles>
+    <title as="introduced" type="official">Relating to the disapproval of obligations under the Emergency Economic Stabilization Act of 2008.</title>
+  </titles>
+  <sponsor id="400643"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2009-01-15"/>
+    <cosponsor id="412216" joined="2009-01-06"/>
+    <cosponsor id="400570" joined="2009-01-13"/>
+    <cosponsor id="400032" joined="2009-01-06"/>
+    <cosponsor id="412252" joined="2009-01-13"/>
+    <cosponsor id="400051" joined="2009-01-13"/>
+    <cosponsor id="400055" joined="2009-01-13"/>
+    <cosponsor id="400068" joined="2009-01-13"/>
+    <cosponsor id="400655" joined="2009-01-13"/>
+    <cosponsor id="400089" joined="2009-01-13"/>
+    <cosponsor id="400134" joined="2009-01-06"/>
+    <cosponsor id="400137" joined="2009-01-13"/>
+    <cosponsor id="400141" joined="2009-01-13"/>
+    <cosponsor id="400651" joined="2009-01-13"/>
+    <cosponsor id="400154" joined="2009-01-15"/>
+    <cosponsor id="412218" joined="2009-01-13"/>
+    <cosponsor id="400211" joined="2009-01-06"/>
+    <cosponsor id="400220" joined="2009-01-06"/>
+    <cosponsor id="412191" joined="2009-01-06"/>
+    <cosponsor id="400234" joined="2009-01-09"/>
+    <cosponsor id="400242" joined="2009-01-09"/>
+    <cosponsor id="412294" joined="2009-01-13"/>
+    <cosponsor id="400622" joined="2009-01-22"/>
+    <cosponsor id="400252" joined="2009-01-13"/>
+    <cosponsor id="400654" joined="2009-01-06"/>
+    <cosponsor id="412295" joined="2009-01-13"/>
+    <cosponsor id="400267" joined="2009-01-13"/>
+    <cosponsor id="400441" joined="2009-01-13"/>
+    <cosponsor id="400311" joined="2009-01-06"/>
+    <cosponsor id="400321" joined="2009-01-06"/>
+    <cosponsor id="400652" joined="2009-01-13"/>
+    <cosponsor id="412309" joined="2009-01-21"/>
+    <cosponsor id="400626" joined="2009-01-13"/>
+    <cosponsor id="400343" joined="2009-01-22"/>
+    <cosponsor id="400365" joined="2009-01-13"/>
+    <cosponsor id="400367" joined="2009-01-15"/>
+    <cosponsor id="400440" joined="2009-01-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-01-06">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2009-01-22T10:23:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H447-468" label="consideration"/>
+    </action>
+    <action datetime="2009-01-22T10:23:00-05:00">
+      <text>DEBATE - The House proceeded with two hours of debate on H.J. Res. 3.</text>
+    </action>
+    <action datetime="2009-01-22T12:53:00-05:00">
+      <text>The previous question was ordered pursuant to the statute.</text>
+      <reference ref="CR H467" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-01-22T13:22:00-05:00" how="roll" result="pass" roll="27" type="vote" where="h">
+      <text>On passage Passed by the Yeas and Nays: 270 - 155 (Roll no. 27).</text>
+      <reference ref="CR H447" label="text"/>
+    </vote>
+    <action datetime="2009-01-22T13:22:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-01-26">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="sj" number="5"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Congressional oversight"/>
+    <term name="Financial crises and stabilization"/>
+    <term name="Housing finance and home ownership"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2009--Passed House without amendment.
+Disapproves the obligation of any amount to purchase troubled assets under the Emergency Economic Stabilization Act of 2008 exceeding those already obligated (namely, $250 billion, or upon presidential certification, $350 billion).</summary>
+</bill>

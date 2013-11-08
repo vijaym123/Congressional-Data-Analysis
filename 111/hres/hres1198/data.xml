@@ -1,0 +1,53 @@
+<bill session="111" type="hr" number="1198" updated="2013-07-19T23:06:28-04:00">
+  <state datetime="2010-04-13T14:47:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2010-04-13T14:47:00-04:00"/>
+  </status>
+  <introduced datetime="2010-03-18"/>
+  <titles>
+    <title as="introduced" type="official">Congratulating Lock Haven University of Pennsylvania for 140 years of excellence in higher education.</title>
+  </titles>
+  <sponsor id="412317"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-03-18">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2010-04-13T14:40:00-04:00">
+      <text>Ms. Chu moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2010-04-13T14:40:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2469-2470" label="consideration"/>
+    </action>
+    <action datetime="2010-04-13T14:40:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1198.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2010-04-13T14:47:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H2469" label="text"/>
+    </vote>
+    <action datetime="2010-04-13T14:47:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-04-30">
+      <text>Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education, Lifelong Learning, and Competitiveness" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Higher education"/>
+    <term name="Pennsylvania"/>
+  </subjects>
+  <amendments/>
+  <summary>4/13/2010--Passed House amended.
+Congratulates Lock Haven University of Pennsylvania, in Lock Haven, Pennsylvania, for 140 years of excellence in higher education.</summary>
+</bill>

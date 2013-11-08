@@ -1,0 +1,55 @@
+<bill session="112" type="s" number="3563" updated="2013-07-20T02:47:30-04:00">
+  <state datetime="2012-12-30">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2012-12-30"/>
+  </status>
+  <introduced datetime="2012-09-19"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend the Energy Policy Act of 2005 to modify the Pilot Project offices of the Federal Permit Streamlining Pilot Project.</title>
+  </titles>
+  <sponsor id="412494"/>
+  <cosponsors>
+    <cosponsor id="300026" joined="2012-09-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-09-19">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2012-12-30">
+      <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+      <reference ref="CR S8552, S8552-8556" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2012-12-30" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S8552" label="text"/>
+    </vote>
+    <action datetime="2012-12-31T12:04:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2012-12-31">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2012-12-31T17:28:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Colorado"/>
+    <term name="Department of the Interior"/>
+    <term name="Land use and conservation"/>
+    <term name="Licensing and registrations"/>
+    <term name="Montana"/>
+    <term name="New Mexico"/>
+    <term name="Oil and gas"/>
+    <term name="Utah"/>
+    <term name="Wyoming"/>
+  </subjects>
+  <amendments/>
+  <summary>12/30/2012--Passed Senate without amendment.
+Amends the Energy Policy Act of 2005 to revise the Federal Permit Streamlining Pilot Project offices to: (1) specify Field Office for each of the Bureau of Land Management (BLM) Offices designated; and (2) replace the Miles City, Montana, field office with the Montana/Dakotas State Office, Montana (Billings).</summary>
+</bill>

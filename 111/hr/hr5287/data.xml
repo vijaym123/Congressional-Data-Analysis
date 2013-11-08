@@ -1,0 +1,40 @@
+<bill session="111" type="h" number="5287" updated="2013-07-20T00:00:02-04:00">
+  <state datetime="2010-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="2010-05-12"/>
+  </status>
+  <introduced datetime="2010-05-12"/>
+  <titles>
+    <title as="introduced" type="short">East Coast and Gulf Coast Ocean Protection Act of 2010</title>
+    <title as="introduced" type="official">To amend the Outer Continental Shelf Lands Act to permanently prohibit the conduct of offshore drilling on the outer Continental Shelf of the Atlantic Ocean and Gulf of Mexico.</title>
+  </titles>
+  <sponsor id="400048"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-05-12">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2010-05-14">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="5213"/>
+    <bill relation="unknown" session="111" type="s" number="3358"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Atlantic Ocean"/>
+    <term name="Gulf of Mexico"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Oil and gas"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2010--Introduced.
+East Coast and Gulf Coast Ocean Protection Act of 2010 - Amends the Outer Continental Shelf Lands Act to prohibit the Secretary of the Interior from issuing a lease for the exploration, development, or production of oil or natural gas in any area on the outer Continental Shelf of the Atlantic Ocean or the Gulf of Mexico.</summary>
+</bill>

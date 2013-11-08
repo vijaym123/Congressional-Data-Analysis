@@ -1,0 +1,42 @@
+<bill session="113" type="h" number="2974" updated="2013-11-02T06:44:03-04:00">
+  <state datetime="2013-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-01"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to provide for the eligibility for beneficiary travel for veterans seeking treatment or care for military sexual trauma in specialized outpatient or residential programs at facilities of the Department of Veterans Affairs, and for other purposes.</title>
+  </titles>
+  <sponsor id="412538"/>
+  <cosponsors>
+    <cosponsor id="412516" joined="2013-09-28"/>
+    <cosponsor id="412557" joined="2013-08-01"/>
+    <cosponsor id="412521" joined="2013-10-08"/>
+    <cosponsor id="412518" joined="2013-09-30"/>
+    <cosponsor id="412475" joined="2013-09-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-01" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-08-13">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Home and outpatient care"/>
+    <term name="Mental health"/>
+    <term name="Sex offenses"/>
+    <term name="Transportation costs"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+</bill>

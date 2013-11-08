@@ -1,0 +1,64 @@
+<bill session="113" type="h" number="3035" updated="2013-11-02T06:44:34-04:00">
+  <state datetime="2013-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-02"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="short" as="introduced">Surveillance Order Reporting Act of 2013</title>
+    <title type="official" as="introduced">To permit periodic public reporting by electronic communications providers and remote computer service providers of certain estimates pertaining to requests or demands by Federal agencies under the provisions of certain surveillance laws where disclosure of such estimates is, or may be, otherwise prohibited by law.</title>
+  </titles>
+  <sponsor id="400245"/>
+  <cosponsors>
+    <cosponsor id="412438" joined="2013-08-02"/>
+    <cosponsor id="412270" joined="2013-08-02"/>
+    <cosponsor id="412531" joined="2013-10-28"/>
+    <cosponsor id="400080" joined="2013-08-02"/>
+    <cosponsor id="412505" joined="2013-08-02"/>
+    <cosponsor id="412482" joined="2013-08-02"/>
+    <cosponsor id="412199" joined="2013-09-17"/>
+    <cosponsor id="412503" joined="2013-08-02"/>
+    <cosponsor id="400289" joined="2013-08-02"/>
+    <cosponsor id="400652" joined="2013-08-02"/>
+    <cosponsor id="412308" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Intelligence (Permanent Select), and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral"/>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="1551"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Business records"/>
+    <term name="Civil actions and liability"/>
+    <term name="Consumer credit"/>
+    <term name="Government information and archives"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Internet and video services"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+</bill>

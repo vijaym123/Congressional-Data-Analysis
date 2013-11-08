@@ -1,0 +1,91 @@
+<bill session="112" type="h" number="2633" updated="2013-07-20T01:33:05-04:00">
+  <state datetime="2011-09-12T19:03:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2011-09-12T19:03:00-04:00"/>
+  </status>
+  <introduced datetime="2011-07-25"/>
+  <titles>
+    <title as="introduced" type="short">Appeal Time Clarification Act of 2011</title>
+    <title as="reported to house" type="short">Appeal Time Clarification Act of 2011</title>
+    <title as="passed house" type="short">Appeal Time Clarification Act of 2011</title>
+    <title as="reported to senate" type="short">Appeal Time Clarification Act of 2011</title>
+    <title as="introduced" type="official">To amend title 28, United States Code, to clarify the time limits for appeals in civil cases to which United States officers or employees are parties.</title>
+  </titles>
+  <sponsor id="400076"/>
+  <cosponsors>
+    <cosponsor id="412236" joined="2011-07-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-07-25">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2011-07-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-07-27">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2011-09-07T19:03:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 112-199.</text>
+    </action>
+    <calendar datetime="2011-09-07T19:03:00-04:00" calendar="Union" number="128">
+      <text>Placed on the Union Calendar, Calendar No. 128.</text>
+    </calendar>
+    <action datetime="2011-09-12T16:11:00-04:00">
+      <text>Mr. Coble moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2011-09-12T16:11:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6047-6048" label="consideration"/>
+    </action>
+    <action datetime="2011-09-12T16:11:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2633.</text>
+    </action>
+    <action datetime="2011-09-12T16:17:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2011-09-12T18:56:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6051" label="consideration"/>
+    </action>
+    <action datetime="2011-09-12T19:03:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-09-12T19:03:00-04:00" how="roll" result="pass" roll="700" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 0 (Roll no. 700).</text>
+      <reference ref="CR H6047" label="text"/>
+    </vote>
+    <action datetime="2011-09-13">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <calendar datetime="2011-10-13">
+      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2011-10-17">
+      <text>Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2011-10-17" calendar="Senate Legislative" under="General Orders" number="199">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 199.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="1637"/>
+    <bill relation="unknown" session="112" type="s" number="1637"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Government liability"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Judicial review and appeals"/>
+  </subjects>
+  <amendments/>
+  <summary>10/17/2011--Reported to Senate without amendment.
+(This measure has not been amended since it was passed by the House on September 12, 2011. The summary of that version is repeated here.) Appeal Time Clarification Act of 2011 - Amends federal judicial code requirements concerning the time limits for the filing of appeals to any judgment, order, or decree in a civil action, suit, or proceeding. Revises the requirement that an appeal in any such action, suit, or proceeding in which the United States or a U.S. officer or agency is a party be filed within 60 days after entry of judgment, order or decree. Extends application of the 60-day filing deadline to any civil action, suit, or proceeding in which one of the parties is: (1) a U.S. employee sued in an official capacity; or (2) a current or former U.S. officer or employee sued in an individual capacity for an act or omission occurring in connection with duties performed on behalf of the United States, including any instance in which the United States represents that person when the judgment, order, or decree is entered or files the appeal for that person. Sets forth the finding of Congress that the application of the 60-day deadline: (1) is not limited to civil actions in which representation of the United States is provided by the Department of Justice (DOJ); and (2) includes all civil actions in which the representation of the United States is provided by a federal legal officer acting in an official capacity, including civil actions in which a Member, officer, or employee of the Senate or the House of Representatives is represented by the Office of Senate Legal Counsel or the House's Office of General Counsel.</summary>
+</bill>

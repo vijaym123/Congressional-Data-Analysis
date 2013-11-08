@@ -1,0 +1,67 @@
+<bill session="111" type="h" number="3137" updated="2013-07-19T23:40:18-04:00">
+  <state datetime="2009-09-15T17:59:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-09-15T17:59:00-04:00"/>
+  </status>
+  <introduced datetime="2009-07-09"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 39, United States Code, to provide clarification relating to the authority of the United States Postal Service to accept donations as an additional source of funding for commemorative plaques.</title>
+  </titles>
+  <sponsor id="400196"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-09">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2009-07-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-07-10">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2009-09-15T13:12:00-04:00">
+      <text>Mr. Towns moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-09-15T13:12:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9506-9507, H9536" label="consideration"/>
+    </action>
+    <action datetime="2009-09-15T13:12:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3137.</text>
+    </action>
+    <action datetime="2009-09-15T13:21:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-09-15T17:59:00-04:00" how="roll" result="pass" roll="702" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 702).</text>
+      <reference ref="CR H9506" label="text"/>
+    </vote>
+    <action datetime="2009-09-15T17:59:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-09-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2009-10-19">
+      <text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSGA09" subcommittee="Federal Financial Management, Government Information, Federal Services, and International Security" name="Senate Homeland Security and Governmental Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>9/15/2009--Passed House without amendment.
+Allows the United States Postal Service (USPS) to accept monetary donations for the funding of plaques in connection with the commemorative designation of postal facilities. Requires the USPS to provide for a plaque after a law has been enacted for such designation and sufficient amounts have been received. Allows, with the donor's consent, use of amounts received in excess of those needed for funding a plaque for any other such designated facility. Prohibits construing this Act to: (1) affect the authority of the USPS regarding requirements concerning the design, placement, and limitation on costs relating to commemorative plaques, so long as the requirements are applied uniformly; or (2) limit, supersede, or render inapplicable any other authority or duty of the USPS regarding the commemorative designation of a facility or the funding, commissioning, or installation of a plaque in connection with such a designation.</summary>
+</bill>

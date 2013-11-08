@@ -1,0 +1,99 @@
+<bill session="111" type="h" number="4252" updated="2013-07-19T23:50:41-04:00">
+  <state datetime="2010-03-18T15:05:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-03-18T15:05:00-04:00"/>
+  </status>
+  <introduced datetime="2009-12-09"/>
+  <titles>
+    <title as="introduced" type="short">Inland Empire Perchlorate Ground Water Plume Assessment Act of 2009</title>
+    <title as="reported to house" type="short">Inland Empire Perchlorate Ground Water Plume Assessment Act of 2009</title>
+    <title as="passed house" type="short">Inland Empire Perchlorate Ground Water Plume Assessment Act of 2010</title>
+    <title as="reported to senate" type="short">Inland Empire Perchlorate Ground Water Plume Assessment Act of 2010</title>
+    <title as="introduced" type="official">To direct the Secretary of the Interior to conduct a study of water resources in the Rialto-Colton Basin in the State of California, and for other purposes.</title>
+  </titles>
+  <sponsor id="400009"/>
+  <cosponsors>
+    <cosponsor id="400290" joined="2009-12-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-12-09">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-12-11">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-02-24">
+      <text>Subcommittee on Water and Power Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-02-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-02-24">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2010-03-11T14:35:00-05:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 111-433.</text>
+    </action>
+    <calendar datetime="2010-03-11T14:35:00-05:00" calendar="Union" number="249">
+      <text>Placed on the Union Calendar, Calendar No. 249.</text>
+    </calendar>
+    <action datetime="2010-03-18T14:44:00-04:00">
+      <text>Ms. Bordallo moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-03-18T14:44:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1613-1616" label="consideration"/>
+    </action>
+    <action datetime="2010-03-18T14:44:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4252.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-03-18T15:05:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H1613-1614" label="text"/>
+    </vote>
+    <action datetime="2010-03-18T15:05:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-03-19">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2010-06-09">
+      <text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2010-07-21">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2010-09-27">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-328.</text>
+    </action>
+    <calendar datetime="2010-09-27" calendar="Senate Legislative" under="General Orders" number="614">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 614.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG07" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="2316"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="California"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Hydrology and hydrography"/>
+    <term name="Water quality"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/2010--Reported to Senate without amendment.
+Inland Empire Perchlorate Ground Water Plume Assessment Act of 2010 - Directs the Secretary of the Interior, acting through the Director of the United States Geological Survey (USGS), to complete a study of water resources in the Rialto-Colton Basin, California, including: (1) a survey of ground water resources in the Basin (including the identification of a recent surge in perchlorate concentrations in ground water); and (2) a characterization of surface and bedrock geology of the Basin, including the effect of the geology on ground water yield and quality. Directs the Secretary to: (1) carry out the study in coordination with California and any other appropriate entities, including other federal agencies and institutions of higher education; and (2) report to specified congressional committees on results of the study.</summary>
+</bill>

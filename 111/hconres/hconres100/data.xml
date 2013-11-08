@@ -1,0 +1,52 @@
+<bill session="111" type="hc" number="100" updated="2013-07-20T00:13:51-04:00">
+  <state datetime="2009-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="2009-04-21"/>
+  </status>
+  <introduced datetime="2009-04-21"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the support of the Congress regarding the need to facilitate State innovation in national health care reform.</title>
+  </titles>
+  <sponsor id="400013"/>
+  <cosponsors>
+    <cosponsor id="400055" joined="2009-04-21"/>
+    <cosponsor id="400655" joined="2009-04-21"/>
+    <cosponsor id="400160" joined="2009-04-21"/>
+    <cosponsor id="400184" joined="2009-04-21"/>
+    <cosponsor id="400218" joined="2009-04-21"/>
+    <cosponsor id="400242" joined="2009-04-21"/>
+    <cosponsor id="400318" joined="2009-04-21"/>
+    <cosponsor id="400626" joined="2009-04-21"/>
+    <cosponsor id="400367" joined="2009-04-21"/>
+    <cosponsor id="400385" joined="2009-04-21"/>
+    <cosponsor id="400396" joined="2009-04-21"/>
+    <cosponsor id="400627" joined="2009-04-21"/>
+    <cosponsor id="400437" joined="2009-04-21"/>
+    <cosponsor id="400440" joined="2009-04-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-04-21">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2009-04-22">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="hc" number="78"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Intergovernmental relations"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/2009--Introduced.
+Sets forth Congress's commitment to include within legislation authorizing national health care reform provisions that facilitate state innovation and that: (1) promote the unique role of states as innovators in health care reform; (2) feature flexibility for states in implementing national goals and objectives for health care reform; (3) facilitate state efforts to improve upon and expand the goals and objectives of national health reform; and (4) incorporate the principles of state innovation espoused in the Health Partnership Act and Health Partnership Through Creative Federalism Act.</summary>
+</bill>

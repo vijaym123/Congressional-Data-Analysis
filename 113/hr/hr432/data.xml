@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="432" updated="2013-11-02T06:22:36-04:00">
+  <state datetime="2013-01-29">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-29"/>
+  </status>
+  <introduced datetime="2013-01-29"/>
+  <titles>
+    <title type="official" as="introduced">To prohibit the further extension or establishment of national monuments in Nevada except by express authorization of Congress.</title>
+  </titles>
+  <sponsor id="412500"/>
+  <cosponsors>
+    <cosponsor id="412446" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-29" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-02-07">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-04-16">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="472"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Congressional oversight"/>
+    <term name="Monuments and memorials"/>
+    <term name="Nevada"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments/>
+  <summary>1/29/2013--Introduced.
+Prohibits any further extension or establishment of national parks and monuments in Nevada from being undertaken, except by express authorization of Congress.</summary>
+</bill>

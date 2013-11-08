@@ -1,0 +1,37 @@
+<bill session="111" type="h" number="1851" updated="2013-07-19T23:28:25-04:00">
+  <state datetime="2009-04-01">REFERRED</state>
+  <status>
+    <introduced datetime="2009-04-01"/>
+  </status>
+  <introduced datetime="2009-04-01"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 10, United States Code, to require that certain members of the Armed Forces receive employment assistance, job training assistance, and other transitional services provided by the Secretary of Labor before separating from active duty service.</title>
+  </titles>
+  <sponsor id="400443"/>
+  <cosponsors>
+    <cosponsor id="412205" joined="2009-04-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-04-01">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2009-04-27">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Employment and training programs"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/1/2009--Introduced.
+Modifies the requirement that the Secretary of Labor provide employment assistance, job training assistance, and other transitional services to members of the Armed Forces who are being separated from active duty (and the member's spouse). Directs the Secretary concerned (the Secretary of Defense, the Secretary of Homeland Security, the Secretary of Veterans Affairs), where such services are available on a routine basis, to require such members to receive them if they have been deployed for 180 days or more.</summary>
+</bill>

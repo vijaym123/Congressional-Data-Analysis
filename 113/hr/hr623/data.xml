@@ -1,0 +1,98 @@
+<bill session="113" type="h" number="623" updated="2013-11-02T06:24:12-04:00">
+  <state datetime="2013-10-29T14:34:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-10-29T14:34:00-04:00"/>
+  </status>
+  <introduced datetime="2013-02-12"/>
+  <titles>
+    <title type="short" as="introduced">Alaska Native Tribal Health Consortium Land Transfer Act</title>
+    <title type="short" as="reported to house">Alaska Native Tribal Health Consortium Land Transfer Act</title>
+    <title type="short" as="passed house">Alaska Native Tribal Health Consortium Land Transfer Act</title>
+    <title type="official" as="introduced">To provide for the conveyance of certain property located in Anchorage, Alaska, from the United States to the Alaska Native Tribal Health Consortium.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-02-12" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-12">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-02-12">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2013-02-21">
+      <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2013-05-16">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2013-07-31">
+      <text>Subcommittee Indian and Alaska Native Affairs Discharged.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2013-07-31">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <calendar datetime="2013-07-31" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Natural Resources"/>
+    </calendar>
+    <action datetime="2013-10-22T15:19:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-248, Part I.</text>
+    </action>
+    <action datetime="2013-10-22T15:19:00-04:00">
+      <text>Committee on Energy and Commerce discharged.</text>
+    </action>
+    <calendar datetime="2013-10-22T15:19:00-04:00" calendar="Union" number="176">
+      <text>Placed on the Union Calendar, Calendar No. 176.</text>
+    </calendar>
+    <action datetime="2013-10-29T14:30:00-04:00">
+      <text>Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2013-10-29T14:30:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6852-6853" label="consideration"/>
+    </action>
+    <action datetime="2013-10-29T14:30:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 623.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2013-10-29T14:34:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6852" label="text"/>
+    </vote>
+    <action datetime="2013-10-30">
+      <text>Received in the Senate and Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII24" subcommittee="Indian and Alaska Native Affairs" name="House Natural Resources"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Discharged, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="235"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Alaska"/>
+    <term name="Alaska Natives and Hawaiians"/>
+    <term name="Civil actions and liability"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2013--Introduced.
+Alaska Native Tribal Health Consortium Land Transfer Act - Directs the Secretary of Health and Human Services (HHS) to convey to the Alaska Native Tribal Health Consortium specified property in Anchorage, Alaska, for use in connection with health and related programs.</summary>
+</bill>

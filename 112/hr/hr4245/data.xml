@@ -1,0 +1,37 @@
+<bill session="112" type="h" number="4245" updated="2013-07-20T01:46:47-04:00">
+  <state datetime="2012-03-22">REFERRED</state>
+  <status>
+    <introduced datetime="2012-03-22"/>
+  </status>
+  <introduced datetime="2012-03-22"/>
+  <titles>
+    <title as="introduced" type="short">Veterans Co-Pay Fairness Act</title>
+    <title as="introduced" type="official">To amend title 38, United States Code, to require the Secretary of Veterans Affairs to reimburse eligible veterans who are entitled to Medicare benefits for Medicare deductibles and other expenses that are owed by the veterans for emergency medical treatment provided in non-Department of Veterans Affairs facilities.</title>
+  </titles>
+  <sponsor id="400100"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2012-03-22">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2012-03-30">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Health care coverage and access"/>
+    <term name="Medicare"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>3/22/2012--Introduced.
+Veterans Co-Pay Fairness Act - Directs the Secretary of Veterans Affairs (VA), in the case of a veteran entitled to benefits under part A (Hospital Insurance) of title XVIII (Medicare) of the Social Security Act or enrolled under Medicare part B (Supplemental Security Income), to reimburse such veteran for the Medicare deductibles, copayments, or coinsurance applied against such veteran with respect to emergency medical treatment items and services provided in non-VA facilities.</summary>
+</bill>

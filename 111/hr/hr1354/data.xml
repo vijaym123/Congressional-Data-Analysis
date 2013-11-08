@@ -1,0 +1,65 @@
+<bill session="111" type="h" number="1354" updated="2013-07-19T23:24:00-04:00">
+  <state datetime="2009-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2009-03-05"/>
+  </status>
+  <introduced datetime="2009-03-05"/>
+  <titles>
+    <title as="introduced" type="short">Veterans Eagle Parks Pass Act</title>
+    <title as="introduced" type="official">To make the National Parks and Federal Recreational Lands Pass available at a discount to certain veterans.</title>
+  </titles>
+  <sponsor id="400335"/>
+  <cosponsors>
+    <cosponsor id="400006" joined="2009-04-21"/>
+    <cosponsor id="400029" joined="2009-05-05"/>
+    <cosponsor id="400040" joined="2009-04-21"/>
+    <cosponsor id="400049" joined="2009-04-21"/>
+    <cosponsor id="412271" joined="2009-07-09"/>
+    <cosponsor id="412275" joined="2009-04-22"/>
+    <cosponsor id="412191" joined="2009-04-21"/>
+    <cosponsor id="412294" joined="2009-05-21"/>
+    <cosponsor id="412306" joined="2009-04-21"/>
+    <cosponsor id="412311" joined="2009-04-21"/>
+    <cosponsor id="412232" joined="2009-04-21"/>
+    <cosponsor id="400376" joined="2009-05-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-05">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-03-05">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2009-03-05">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2009-03-10">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2009-03-10">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H3111"/>
+    </action>
+    <action datetime="2009-04-23">
+      <text>Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry.</text>
+      <committee name="House Agriculture"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG22" subcommittee="Department Operations, Oversight, Nutrition and Forestry" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="User charges and fees"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/2009--Introduced.
+Veterans Eagle Parks Pass Act - Makes the National Parks and Federal Recreational Lands Pass available at a discount to certain veterans. Makes a National Parks and Federal Recreational Lands Pass made available under this Act valid for one year from the date of issuance.</summary>
+</bill>

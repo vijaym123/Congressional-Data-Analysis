@@ -1,0 +1,109 @@
+<bill session="112" type="s" number="99" updated="2013-07-20T02:17:24-04:00">
+  <state datetime="2011-11-17">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2011-11-17"/>
+  </status>
+  <introduced datetime="2011-01-25"/>
+  <titles>
+    <title as="introduced" type="short">American Medical Isotopes Production Act of 2011</title>
+    <title as="reported to senate" type="short">American Medical Isotopes Production Act of 2011</title>
+    <title as="passed senate" type="short">American Medical Isotopes Production Act of 2011</title>
+    <title as="introduced" type="official">A bill to promote the production of molybdenum-99 in the United States for medical isotope production, and to condition and phase out the export of highly enriched uranium for the production of medical isotopes.</title>
+  </titles>
+  <sponsor id="300009"/>
+  <cosponsors>
+    <cosponsor id="300075" joined="2011-01-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2011-01-25">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S188, S189-191"/>
+    </action>
+    <action state="REFERRED" datetime="2011-01-25">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <reference ref="CR S188-189" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2011-02-01">
+      <text>Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 112-4.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-04-12">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2011-05-18">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 112-17.</text>
+    </action>
+    <calendar datetime="2011-05-18" calendar="Senate Legislative" under="General Orders" number="53">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 53.</text>
+    </calendar>
+    <action datetime="2011-11-17">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S7778-7782" label="consideration"/>
+      <reference ref="CR S7778-7780" label="text of measure as reported in Senate"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2011-11-17" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S7780-7782" label="text"/>
+    </vote>
+    <action datetime="2011-11-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2011-11-18T10:04:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2011-11-18">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Science, Space, and Technology, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-11-18">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2011-11-18">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2011-11-18">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+    <action datetime="2011-11-18">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2011-12-02">
+      <text>Referred to the Subcommittee on Energy and Environment.</text>
+      <committee name="House Science, Space, and Technology"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings, Markup, Reporting"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSY20" subcommittee="Energy and Environment" name="House Science, Space, and Technology"/>
+    <committee code="HSBU" name="House Budget" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="4310"/>
+    <bill relation="unknown" session="112" type="s" number="3254"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Congressional oversight"/>
+    <term name="Government studies and investigations"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Licensing and registrations"/>
+    <term name="Manufacturing"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Nuclear power"/>
+    <term name="Nuclear weapons"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Radioactive wastes and releases"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1223"/>
+  </amendments>
+  <summary>11/17/2011--Passed Senate amended.
+American Medical Isotopes Production Act of 2011 - (Sec. 3) Directs the Secretary of Energy (DOE) to implement a technology-neutral program to evaluate and support projects for the production in the United States (except in certain circumstances without the use of highly enriched uranium) of significant quantities of molybdenum-99 for medical uses, implemented in cooperation with non-federal entities, whose costs shall be shared in accordance with certain cost sharing requirements of the Energy Policy Act of 2005. Directs the Secretary to: (1) develop and update annually a program plan through public workshops; (2) use the Nuclear Science Advisory Committee to conduct annual reviews of progress in achieving program goals; and (3) implement a program to provide assistance for the development of fuels, targets, and processes for domestic molybdenum-99 production that do not use highly enriched uranium, and for commercial operations using them.Requires the Secretary to establish a program to make low enriched uranium available, through lease contracts, for irradiation for molybdenum-99 production for medical uses. Requires such contracts to provide for the producers of the molybdenum-99 to take title to and be responsible for the molybdenum-99 created by the irradiation, processing, or purification of uranium leased under this Act. Requires the contracts to require the Secretary to: (1) retain responsibility for the final disposition of spent nuclear fuel created under this Act for medical isotopes production; and (2) take title to and be responsible for final disposition of radioactive waste created by the irradiation, processing, or purification of uranium leased under this Act for which the producer does not have access to a disposal path. Requires the producer of the spent nuclear fuel and radioactive waste to characterize accurately, package appropriately, and transport the spent nuclear fuel and radioactive waste before its acceptance by DOE. Prohibits the Secretary from exchanging uranium for specified services. Deems radioactive material resulting from the production of medical isotopes that has been permanently removed from a reactor or subcritical assembly, and for which there is no further use, to be low-level radioactive waste if it is acceptable under federal requirements for disposal as low-level radioactive waste. (Sec. 4) Amends the Atomic Energy Act of 1954 to: (1) prohibit the Nuclear Regulatory Commission (NRC) from issuing a license for the export of highly enriched uranium from the United States, beginning seven years after enactment of this Act; and (2) authorize an extension of this seven-year period for up to another six years if the Secretary makes specified certifications to certain congressional committees. Permits suspension of the export license restriction for a 12-month period if: (1) there is a critical shortage of molybdenum-99 to satisfy domestic U.S. medical isotope needs, (2) the Secretary certifies to Congress that the export of U.S.-origin highly enriched uranium for medical isotope production is the only effective temporary means to increase the supply of molybdenum-99 necessary to meet U.S. medical isotope needs during that period, and (3) Congress enacts a joint resolution approving the temporary suspension of such export license restriction. (Sec. 5) Requires the NRC Chairman to report to Congress on the current disposition of previous US exports of highly enriched uranium used as fuel or targets in a nuclear research or test reactor. (Sec. 6) Amends the Atomic Energy Act of 1954 to authorize the NRC to issue a license, or grant an amendment to an existing license, for use in the United States of highly enriched uranium as a target for medical isotope production in a nuclear reactor, but only if specified conditions are met, including certification by the Secretary that the federal government is actively supporting development of an alternative medical isotope production target that can be used in that reactor. (Sec. 7) Directs the Secretary to report to Congress annually for five years on DOE actions to support U.S. production of molybdenum-99 for medical uses without the use of highly enriched uranium. (Sec. 8) Instructs the Secretary to arrange with the National Academy of Sciences to study the state of molybdenum-99 production and utilization. (Sec. 9) Repeals the Nuclear Safety Research, Development, and Demonstration Act of 1980.</summary>
+</bill>

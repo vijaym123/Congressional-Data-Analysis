@@ -1,0 +1,99 @@
+<bill session="111" type="hr" number="631" updated="2013-07-19T23:01:28-04:00">
+  <state datetime="2009-07-29T14:04:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2009-07-29T14:04:00-04:00"/>
+  </status>
+  <introduced datetime="2009-07-10"/>
+  <titles>
+    <title as="introduced" type="official">Congratulating Continental Airlines on its 75th Anniversary.</title>
+  </titles>
+  <sponsor id="400160"/>
+  <cosponsors>
+    <cosponsor id="400018" joined="2009-07-21"/>
+    <cosponsor id="400041" joined="2009-07-13"/>
+    <cosponsor id="400046" joined="2009-07-10"/>
+    <cosponsor id="400052" joined="2009-07-13"/>
+    <cosponsor id="400068" joined="2009-07-13"/>
+    <cosponsor id="400657" joined="2009-07-14"/>
+    <cosponsor id="400089" joined="2009-07-13"/>
+    <cosponsor id="400116" joined="2009-07-13"/>
+    <cosponsor id="400118" joined="2009-07-10"/>
+    <cosponsor id="400119" joined="2009-07-13"/>
+    <cosponsor id="400152" joined="2009-07-14"/>
+    <cosponsor id="400653" joined="2009-07-14"/>
+    <cosponsor id="400179" joined="2009-07-10"/>
+    <cosponsor id="400204" joined="2009-07-21"/>
+    <cosponsor id="412290" joined="2009-07-13"/>
+    <cosponsor id="400235" joined="2009-07-14"/>
+    <cosponsor id="400244" joined="2009-07-13"/>
+    <cosponsor id="400654" joined="2009-07-13"/>
+    <cosponsor id="412302" joined="2009-07-10"/>
+    <cosponsor id="400302" joined="2009-07-14"/>
+    <cosponsor id="400308" joined="2009-07-13"/>
+    <cosponsor id="400309" joined="2009-07-13"/>
+    <cosponsor id="400311" joined="2009-07-13"/>
+    <cosponsor id="400312" joined="2009-07-13"/>
+    <cosponsor id="400652" joined="2009-07-15"/>
+    <cosponsor id="400346" joined="2009-07-10"/>
+    <cosponsor id="400352" joined="2009-07-15"/>
+    <cosponsor id="412186" joined="2009-07-13"/>
+    <cosponsor id="400380" joined="2009-07-21"/>
+    <cosponsor id="400406" joined="2009-07-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-10">
+      <text>Referred to the House Committee on Science and Technology.</text>
+    </action>
+    <action datetime="2009-07-14">
+      <text>Referred to the Subcommittee on Space and Aeronautics.</text>
+      <committee name="House Committee on Science and Technology"/>
+    </action>
+    <action datetime="2009-07-22T12:43:00-04:00">
+      <text>Mr. Gordon (TN) asked unanimous consent that the Committee on Science and Technology be discharged from public consideration of H.Res. 631 and that the resolution be referred to the Committee on Energy and Commerce. Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-07-22T12:43:00-04:00">
+      <text>Committee on Science and Technology discharged.</text>
+    </action>
+    <action datetime="2009-07-22">
+      <text>Rereferred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2009-07-23">
+      <text>Referred to the Subcommittee on Commerce, Trade and Consumer Protection.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2009-07-29T13:50:00-04:00">
+      <text>Mr. Green, Gene moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2009-07-29T13:51:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8988-8990" label="consideration"/>
+    </action>
+    <action datetime="2009-07-29T13:51:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 631.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2009-07-29T14:04:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H8988-8989" label="text"/>
+    </vote>
+    <action datetime="2009-07-29T14:04:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science and Technology" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSSY16" subcommittee="Space and Aeronautics" name="House Science and Technology"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Re-Referral"/>
+    <committee activity="Referral" code="HSIF17" subcommittee="Commerce, Trade and Consumer Protection" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Aviation and airports"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Transportation employees"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/2009--Passed House without amendment.
+Recognizes the 75th anniversary of operations by Continental Airlines. Congratulates the employees of Continental Airlines for the numerous awards and accolades they have earned for the company over the years.</summary>
+</bill>

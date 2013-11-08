@@ -1,0 +1,107 @@
+<bill session="111" type="h" number="4887" updated="2013-07-19T23:56:31-04:00">
+  <state datetime="2010-04-26">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2010-04-26"/>
+  </status>
+  <introduced datetime="2010-03-19"/>
+  <titles>
+    <title as="passed house" type="short">TRICARE Affirmation Act</title>
+    <title as="passed senate" type="short">TRICARE Affirmation Act</title>
+    <title as="enacted" type="short">TRICARE Affirmation Act</title>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to ensure that health coverage provided by the Department of Defense is treated as minimal essential coverage.</title>
+  </titles>
+  <sponsor id="400377"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2010-03-19"/>
+    <cosponsor id="400645" joined="2010-03-19"/>
+    <cosponsor id="400047" joined="2010-03-19"/>
+    <cosponsor id="400082" joined="2010-03-20"/>
+    <cosponsor id="400097" joined="2010-03-19"/>
+    <cosponsor id="412188" joined="2010-03-19"/>
+    <cosponsor id="412287" joined="2010-03-19"/>
+    <cosponsor id="400230" joined="2010-03-19"/>
+    <cosponsor id="400232" joined="2010-03-19"/>
+    <cosponsor id="412209" joined="2010-03-19"/>
+    <cosponsor id="412301" joined="2010-03-19"/>
+    <cosponsor id="400302" joined="2010-03-19"/>
+    <cosponsor id="412307" joined="2010-03-19"/>
+    <cosponsor id="400331" joined="2010-03-20"/>
+    <cosponsor id="400337" joined="2010-03-19"/>
+    <cosponsor id="400356" joined="2010-03-19"/>
+    <cosponsor id="412219" joined="2010-03-19"/>
+    <cosponsor id="400379" joined="2010-03-19"/>
+    <cosponsor id="400399" joined="2010-03-19"/>
+    <cosponsor id="412254" joined="2010-03-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-03-19">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2010-03-20T13:14:00-04:00">
+      <text>Mr. Levin moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-03-20T13:14:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1762-1767" label="consideration"/>
+    </action>
+    <action datetime="2010-03-20T13:14:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4887.</text>
+    </action>
+    <action datetime="2010-03-20T13:58:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-03-20T14:24:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H1771-1772" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-03-20T14:52:00-04:00" how="roll" result="pass" roll="152" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 152).</text>
+      <reference ref="CR H1762-1763" label="text"/>
+    </vote>
+    <action datetime="2010-03-20T14:52:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-03-22">
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <action datetime="2010-04-12">
+      <text>Senate Committee on Finance discharged by Unanimous Consent.</text>
+      <reference ref="CR S2213" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2010-04-12" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <topresident datetime="2010-04-12">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2010-04-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2010-04-14">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2010-04-26">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2010-04-26" type="public" number="111-159">
+      <text>Became Public Law No: 111-159.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3148"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>4/26/2010--Public Law.
+TRICARE Affirmation Act - Amends the Internal Revenue Code to provide that health care coverage provided by the TRICARE program and the Nonappropriated Fund Health Benefits Program of the Department of Defense (DOD) shall constitute minimal essential health care coverage as required by the Patient Protection and Affordable Care Act.</summary>
+</bill>

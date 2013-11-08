@@ -1,0 +1,57 @@
+<bill session="111" type="h" number="1333" updated="2013-07-19T23:23:49-04:00">
+  <state datetime="2009-09-30T13:11:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-09-30T13:11:00-04:00"/>
+  </status>
+  <introduced datetime="2009-03-05"/>
+  <titles>
+    <title as="introduced" type="official">To amend chapter 40 of title 18, United States Code, to exempt the transportation, shipment, receipt, or importation of explosive materials for delivery to a federally recognized Indian tribe or an agency of such a tribe from various Federal criminal prohibitions relating to explosives.</title>
+  </titles>
+  <sponsor id="400162"/>
+  <cosponsors>
+    <cosponsor id="400077" joined="2009-06-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-05">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2009-04-27">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2009-09-30T13:07:00-04:00">
+      <text>Mr. Schiff moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-09-30T13:07:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10101" label="consideration"/>
+    </action>
+    <action datetime="2009-09-30T13:07:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1333.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-09-30T13:11:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H10101" label="text"/>
+    </vote>
+    <action datetime="2009-09-30T13:11:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-10-01">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Firearms and explosives"/>
+  </subjects>
+  <amendments/>
+  <summary>9/30/2009--Passed House amended.
+Amends the federal criminal code to extend the exemption from prohibitions on the transportation, shipment, receipt, or importation of explosive materials to federally-recognized Indian tribes or agencies of such tribes. Defines "Indian tribe" as any Indian or Alaska Native tribe, band, nation, pueblo, village or community that the Secretary of the Interior acknowledges to exist as an Indian tribe.</summary>
+</bill>

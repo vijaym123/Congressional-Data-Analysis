@@ -1,0 +1,63 @@
+<bill session="113" type="h" number="2973" updated="2013-11-02T06:44:03-04:00">
+  <state datetime="2013-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-01"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="short" as="introduced">Hudson-Mohawk River Basin Act of 2013</title>
+    <title type="official" as="introduced">To authorize the Secretary of Interior to carry out projects and conduct research on water resources in the Hudson-Mohawk River Basin, to establish a Hudson-Mohawk River Basin Commission, and for other purposes.</title>
+  </titles>
+  <sponsor id="412319"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-08-01" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2013-08-19">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2013-08-19">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Connecticut"/>
+    <term name="Floods and storm protection"/>
+    <term name="Historical and cultural resources"/>
+    <term name="Hydrology and hydrography"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Lakes and rivers"/>
+    <term name="Massachusetts"/>
+    <term name="New Jersey"/>
+    <term name="New York State"/>
+    <term name="State and local government operations"/>
+    <term name="Vermont"/>
+    <term name="Water quality"/>
+    <term name="Water resources funding"/>
+    <term name="Water use and supply"/>
+    <term name="Watersheds"/>
+  </subjects>
+  <amendments/>
+</bill>

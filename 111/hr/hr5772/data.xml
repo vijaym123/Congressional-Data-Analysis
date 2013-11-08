@@ -1,0 +1,49 @@
+<bill session="111" type="h" number="5772" updated="2013-07-20T00:04:42-04:00">
+  <state datetime="2010-07-19">REFERRED</state>
+  <status>
+    <introduced datetime="2010-07-19"/>
+  </status>
+  <introduced datetime="2010-07-19"/>
+  <titles>
+    <title as="introduced" type="official">To limit the moratorium on certain permitting and drilling activities issued by the Secretary of the Interior, and for other purposes.</title>
+  </titles>
+  <sponsor id="412302"/>
+  <cosponsors>
+    <cosponsor id="400018" joined="2010-07-22"/>
+    <cosponsor id="412230" joined="2010-07-20"/>
+    <cosponsor id="412280" joined="2010-07-20"/>
+    <cosponsor id="400175" joined="2010-09-14"/>
+    <cosponsor id="400654" joined="2010-07-22"/>
+    <cosponsor id="400311" joined="2010-07-20"/>
+    <cosponsor id="400315" joined="2010-07-29"/>
+    <cosponsor id="400627" joined="2010-07-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-19">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2010-07-20">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3588"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Department of the Interior"/>
+    <term name="Licensing and registrations"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Oil and gas"/>
+  </subjects>
+  <amendments/>
+  <summary>7/19/2010--Introduced.
+Declares that a specified suspension of (moratorium on) certain offshore permitting and drilling activities on the Outer Continental Shelf shall not apply to a drill permit applicant that has complied with specified National Notices and has completed all required safety inspections. Instructs the Secretary of the Interior to make a determination on whether to issue a permit within 30 days after determining that the applicant is in compliance with such Notices and has completed such inspections.</summary>
+</bill>

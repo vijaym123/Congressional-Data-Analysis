@@ -1,0 +1,92 @@
+<bill session="111" type="h" number="118" updated="2013-07-19T23:12:54-04:00">
+  <state datetime="2009-12-07T13:24:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-12-07T13:24:00-05:00"/>
+  </status>
+  <introduced datetime="2009-01-06"/>
+  <titles>
+    <title as="introduced" type="official">To authorize the addition of 100 acres to Morristown National Historical Park.</title>
+  </titles>
+  <sponsor id="400142"/>
+  <cosponsors>
+    <cosponsor id="412264" joined="2009-06-26"/>
+    <cosponsor id="400008" joined="2009-06-26"/>
+    <cosponsor id="400145" joined="2009-02-26"/>
+    <cosponsor id="400184" joined="2009-02-11"/>
+    <cosponsor id="412290" joined="2009-03-06"/>
+    <cosponsor id="400244" joined="2009-02-03"/>
+    <cosponsor id="400308" joined="2009-06-26"/>
+    <cosponsor id="400309" joined="2009-04-01"/>
+    <cosponsor id="400312" joined="2009-03-16"/>
+    <cosponsor id="400346" joined="2009-06-26"/>
+    <cosponsor id="412186" joined="2009-06-26"/>
+    <cosponsor id="400380" joined="2009-06-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-01-06">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-02-04">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-10-01">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-10-28">
+      <text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-10-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-10-28">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2009-11-16T15:07:00-05:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-335.</text>
+    </action>
+    <calendar datetime="2009-11-16T15:08:00-05:00" calendar="Union" number="193">
+      <text>Placed on the Union Calendar, Calendar No. 193.</text>
+    </calendar>
+    <action datetime="2009-12-07T13:17:00-05:00">
+      <text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-12-07T13:17:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H13536-13537" label="consideration"/>
+    </action>
+    <action datetime="2009-12-07T13:17:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 118.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-12-07T13:24:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H13536" label="text"/>
+    </vote>
+    <action datetime="2009-12-07T13:24:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-12-08">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Land transfers"/>
+    <term name="Military history"/>
+    <term name="New Jersey"/>
+  </subjects>
+  <amendments/>
+  <summary>12/7/2009--Passed House amended.
+Authorizes the addition of certain lands to the Morristown National Historical Park in New Jersey from willing sellers only.</summary>
+</bill>

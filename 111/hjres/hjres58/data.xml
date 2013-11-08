@@ -1,0 +1,48 @@
+<bill session="111" type="hj" number="58" updated="2013-07-20T00:12:28-04:00">
+  <state datetime="2009-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="2009-06-24"/>
+  </status>
+  <introduced datetime="2009-06-24"/>
+  <titles>
+    <title as="introduced" type="official">Granting the consent and approval of Congress to amendments made by the State of Maryland, the Commonwealth of Virginia, and the District of Columbia to the Washington Metropolitan Area Transit Regulation Compact.</title>
+  </titles>
+  <sponsor id="400189"/>
+  <cosponsors>
+    <cosponsor id="412272" joined="2009-06-24"/>
+    <cosponsor id="412263" joined="2009-06-24"/>
+    <cosponsor id="400283" joined="2009-06-24"/>
+    <cosponsor id="400295" joined="2009-06-24"/>
+    <cosponsor id="400415" joined="2009-06-24"/>
+    <cosponsor id="400435" joined="2009-06-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-24">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2009-07-23">
+      <text>Referred to the Subcommittee on Commercial and Administrative Law.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU09" subcommittee="Commercial and Administrative Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="sj" number="19"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Congressional oversight"/>
+    <term name="District of Columbia"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Maryland"/>
+    <term name="Public transit"/>
+    <term name="State and local government operations"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>6/24/2009--Introduced.
+Grants the consent and approval of Congress to amendments made by Maryland, the Commonwealth of Virginia, and the District of Columbia to sections 5, 9, and 18 of title III of the Washington Metropolitan Area Transit Regulation Compact as specified in this Act.</summary>
+</bill>

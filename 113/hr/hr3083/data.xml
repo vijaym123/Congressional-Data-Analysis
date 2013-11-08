@@ -1,0 +1,37 @@
+<bill session="113" type="h" number="3083" updated="2013-11-02T06:44:58-04:00">
+  <state datetime="2013-09-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-11"/>
+  </status>
+  <introduced datetime="2013-09-11"/>
+  <titles>
+    <title type="short" as="introduced">Idaho Safe and Efficient Vehicle Act of 2013</title>
+    <title type="official" as="introduced">To amend title 23, United States Code, with respect to the operation of longer combination vehicles on the Interstate System in Idaho, and for other purposes.</title>
+  </titles>
+  <sponsor id="400376"/>
+  <cosponsors>
+    <cosponsor id="412419" joined="2013-10-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-11" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-09-12">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Idaho"/>
+    <term name="Motor carriers"/>
+    <term name="Motor vehicles"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+</bill>

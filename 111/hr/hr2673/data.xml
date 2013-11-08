@@ -1,0 +1,36 @@
+<bill session="111" type="h" number="2673" updated="2013-07-19T23:35:53-04:00">
+  <state datetime="2009-06-03">REFERRED</state>
+  <status>
+    <introduced datetime="2009-06-03"/>
+  </status>
+  <introduced datetime="2009-06-03"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to match the pension amount paid to surviving spouses of veterans who served during a period of war to the pension amount paid to such veterans.</title>
+  </titles>
+  <sponsor id="400100"/>
+  <cosponsors>
+    <cosponsor id="400026" joined="2009-06-03"/>
+    <cosponsor id="412312" joined="2010-09-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-03">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-06-05">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/3/2009--Introduced.
+Makes the pension amount payable to the surviving spouses of veterans who served during a period of war equal to the pension paid to such veterans.</summary>
+</bill>

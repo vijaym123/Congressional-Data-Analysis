@@ -1,0 +1,70 @@
+<bill session="112" type="h" number="5883" updated="2013-07-20T02:00:48-04:00">
+  <state datetime="2012-06-21">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2012-06-21"/>
+  </status>
+  <introduced datetime="2012-06-01"/>
+  <titles>
+    <title as="introduced" type="official">To make a technical correction in Public Law 112-108.</title>
+  </titles>
+  <sponsor id="400077"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2012-06-01">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2012-06-05T18:30:00-04:00">
+      <text>Mr. Cole asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2012-06-05T18:30:00-04:00">
+      <text>Committee on Oversight and Government discharged.</text>
+    </action>
+    <action datetime="2012-06-05T18:30:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H3444" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-06-05T18:31:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H3444" label="text"/>
+    </vote>
+    <action datetime="2012-06-05T18:31:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-06-06">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2012-06-07" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S3871" label="consideration"/>
+    </vote>
+    <action datetime="2012-06-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2012-06-11">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2012-06-21">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2012-06-21" type="public" number="112-135">
+      <text>Became Public Law No: 112-135.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="1423"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Oklahoma"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>6/21/2012--Public Law.
+Amends P.L. 112-108 to change the street number of the post office designated as the "Specialist Micheal E. Phillips Post Office" from 115 4th Avenue Southwest to 208 1st Avenue Southwest in Ardmore, Oklahoma.</summary>
+</bill>

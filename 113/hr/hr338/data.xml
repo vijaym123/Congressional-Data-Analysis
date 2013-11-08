@@ -1,0 +1,73 @@
+<bill session="113" type="h" number="338" updated="2013-11-02T06:21:49-04:00">
+  <state datetime="2013-03-05T14:36:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-03-05T14:36:00-05:00"/>
+  </status>
+  <introduced datetime="2013-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Stop Tobacco Smuggling in the Territories Act of 2013</title>
+    <title type="short" as="passed house">Stop Tobacco Smuggling in the Territories Act of 2013</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to include certain territories and possessions of the United States in the definition of State for the purposes of chapter 114, relating to trafficking in contraband cigarettes and smokeless tobacco.</title>
+  </titles>
+  <sponsor id="400128"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2013-01-22"/>
+    <cosponsor id="400073" joined="2013-03-05"/>
+    <cosponsor id="412306" joined="2013-01-22"/>
+    <cosponsor id="412312" joined="2013-01-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-22" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2013-03-05T13:28:00-05:00">
+      <text>Mr. Goodlatte moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-03-05T13:28:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H965-966" label="consideration"/>
+    </action>
+    <action datetime="2013-03-05T13:28:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 338.</text>
+    </action>
+    <action datetime="2013-03-05T13:39:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-03-05T14:28:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H967-968" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="58" datetime="2013-03-05T14:36:00-05:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 421 - 5 (Roll no. 58).</text>
+      <reference ref="CR H965" label="text"/>
+    </vote>
+    <action datetime="2013-03-05T14:36:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-03-07">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="American Samoa"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Guam"/>
+    <term name="Northern Mariana Islands"/>
+    <term name="Smuggling and trafficking"/>
+    <term name="U.S. territories and protectorates"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/2013--Passed House without amendment.
+Stop Tobacco Smuggling in the Territories Act of 2013 - Amends the federal criminal code to include American Samoa, the Commonwealth of the Northern Mariana Islands, and Guam in the definition of "state" for purposes of provisions prohibiting trafficking in contraband cigarettes and smokeless tobacco.</summary>
+</bill>

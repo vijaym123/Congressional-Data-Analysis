@@ -1,0 +1,119 @@
+<bill session="112" type="h" number="1509" updated="2013-07-20T01:23:24-04:00">
+  <state datetime="2012-12-20T21:02:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-12-20T21:02:00-05:00"/>
+  </status>
+  <introduced datetime="2011-04-13"/>
+  <titles>
+    <title as="introduced" type="short">Medicare Identity Theft Prevention Act of 2011</title>
+    <title as="passed house" type="short">Medicare Identity Theft Prevention Act of 2012</title>
+    <title as="introduced" type="official">To amend title II of the Social Security Act to prohibit the inclusion of Social Security account numbers on Medicare cards.</title>
+  </titles>
+  <sponsor id="400206"/>
+  <cosponsors>
+    <cosponsor id="400018" joined="2011-10-06"/>
+    <cosponsor id="412458" joined="2011-09-15"/>
+    <cosponsor id="412478" joined="2011-09-15"/>
+    <cosponsor id="400032" joined="2011-06-03"/>
+    <cosponsor id="400636" joined="2011-09-15"/>
+    <cosponsor id="400046" joined="2011-06-15"/>
+    <cosponsor id="400047" joined="2011-06-03"/>
+    <cosponsor id="412196" joined="2011-09-20"/>
+    <cosponsor id="400055" joined="2011-06-03"/>
+    <cosponsor id="412271" joined="2012-05-08"/>
+    <cosponsor id="400077" joined="2011-06-03"/>
+    <cosponsor id="400655" joined="2011-09-15"/>
+    <cosponsor id="400633" joined="2011-09-20"/>
+    <cosponsor id="400097" joined="2012-02-28"/>
+    <cosponsor id="412385" joined="2011-06-03"/>
+    <cosponsor id="400111" joined="2011-04-13"/>
+    <cosponsor id="412482" joined="2011-09-15"/>
+    <cosponsor id="400147" joined="2011-07-26"/>
+    <cosponsor id="412444" joined="2011-11-15"/>
+    <cosponsor id="412284" joined="2011-06-21"/>
+    <cosponsor id="412460" joined="2011-10-12"/>
+    <cosponsor id="400218" joined="2012-08-01"/>
+    <cosponsor id="400219" joined="2012-09-10"/>
+    <cosponsor id="400224" joined="2011-11-15"/>
+    <cosponsor id="412290" joined="2011-12-14"/>
+    <cosponsor id="412292" joined="2011-06-03"/>
+    <cosponsor id="412294" joined="2011-06-24"/>
+    <cosponsor id="400656" joined="2011-06-03"/>
+    <cosponsor id="400288" joined="2011-11-29"/>
+    <cosponsor id="412475" joined="2011-06-03"/>
+    <cosponsor id="400311" joined="2011-09-20"/>
+    <cosponsor id="412303" joined="2011-08-05"/>
+    <cosponsor id="400313" joined="2011-06-03"/>
+    <cosponsor id="400320" joined="2011-06-03"/>
+    <cosponsor id="412309" joined="2011-09-22"/>
+    <cosponsor id="412393" joined="2011-09-29"/>
+    <cosponsor id="400660" joined="2011-07-19"/>
+    <cosponsor id="400341" joined="2011-06-03"/>
+    <cosponsor id="412202" joined="2011-10-03"/>
+    <cosponsor id="400347" joined="2011-06-03"/>
+    <cosponsor id="412261" joined="2011-06-03"/>
+    <cosponsor id="400360" joined="2011-09-07"/>
+    <cosponsor id="412314" joined="2011-07-19"/>
+    <cosponsor id="400647" joined="2012-12-18"/>
+    <cosponsor id="412217" joined="2011-09-21"/>
+    <cosponsor id="400392" joined="2011-06-03"/>
+    <cosponsor id="400406" joined="2011-06-21"/>
+    <cosponsor id="400411" joined="2011-06-03"/>
+    <cosponsor id="412213" joined="2011-06-03"/>
+    <cosponsor id="400623" joined="2012-03-06"/>
+    <cosponsor id="412430" joined="2011-08-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-04-13">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2011-04-19">
+      <text>Referred to the Subcommittee on Social Security.</text>
+      <committee name="House Committee on Ways and Means"/>
+    </action>
+    <action datetime="2012-12-19T14:41:00-05:00">
+      <text>Mr. Johnson, Sam moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-12-19T14:41:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7309-7313" label="consideration"/>
+    </action>
+    <action datetime="2012-12-19T14:41:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1509.</text>
+    </action>
+    <action datetime="2012-12-19T15:11:00-05:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Doggett objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.</text>
+    </action>
+    <action datetime="2012-12-20T21:02:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7416" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-12-20T21:02:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR 12/19/2012 H7309-7310" label="text"/>
+    </vote>
+    <action datetime="2012-12-20T21:02:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-12-21">
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Crime prevention"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government information and archives"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>12/20/2012--Passed House amended.
+Medicare Identity Theft Prevention Act of 2012 - Directs the Secretary of Health and Human Services (HHS) to establish cost-effective procedures to ensure that: (1) a Social Security account number (or any derivative) is not displayed, coded, or embedded on the Medicare card issued to an individual entitled to benefits under part A (Hospital Insurance) of title XVIII (Medicare) of the Social Security Act or enrolled under Medicare part B (Supplementary Medical Insurance); and (2) any other identifier displayed on such card is easily identifiable as not being the Social Security account number (or a derivative). Requires the Secretary, in implementing this Act, to: (1) establish a cost-effective process that involves the least amount of disruption to Medicare beneficiaries and health care providers; and (2) consider implementing a process similar to the one involving Railroad Retirement Board beneficiaries under which the Medicare beneficiary identifier used is not a Social Security account number (or derivative), is external to HHS, and is convertible over to a Social Security account number (or derivative) for use internal to HHS and the Social Security Administration. Applies these requirements to Medicare cards issued on and after an effective date, specified by the Secretary, which shall not be later than three years after enactment of this Act. Requires reissuance of existing Medicare cards within those three years to comply with this Act, but also permits individuals to apply for reissuance earlier than the official reissuance date. Makes amounts from the Medicare Improvement Fund available for transfer to the Centers for Medicare &amp; Medicaid Services (CMS) Program Management Account to offset the costs of implementing this Act. Requires the Commissioner of Social Security and the Secretary to enter into an agreement for such funding, and keep a detailed accounting for submission to Congress. Directs the Comptroller General (GAO) to examine whether the Medicare program should use smart card technology for Medicare beneficiary cards and provider membership cards.</summary>
+</bill>

@@ -1,0 +1,55 @@
+<bill session="111" type="h" number="5929" updated="2013-07-20T00:06:06-04:00">
+  <state datetime="2010-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2010-07-29"/>
+  </status>
+  <introduced datetime="2010-07-29"/>
+  <titles>
+    <title as="introduced" type="short">Computer Science Education Act of 2010</title>
+    <title as="introduced" type="official">To provide grants to State educational agencies and institutions of higher education to strengthen elementary and secondary computer science education, and for other purposes.</title>
+  </titles>
+  <sponsor id="412308"/>
+  <cosponsors>
+    <cosponsor id="400133" joined="2010-09-29"/>
+    <cosponsor id="400215" joined="2010-09-22"/>
+    <cosponsor id="400253" joined="2010-07-30"/>
+    <cosponsor id="400337" joined="2010-09-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-29">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2010-10-13">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+    <action datetime="2010-10-13">
+      <text>Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED14" subcommittee="Early Childhood, Elementary, and Secondary Education" name="House Education and Labor"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education, Lifelong Learning, and Competitiveness" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Advisory bodies"/>
+    <term name="Computers and information technology"/>
+    <term name="Education of the disadvantaged"/>
+    <term name="Education programs funding"/>
+    <term name="Educational technology and distance education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Higher education"/>
+    <term name="Licensing and registrations"/>
+    <term name="Performance measurement"/>
+    <term name="Science and engineering education"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/2010--Introduced.
+Computer Science Education Act of 2010 - Directs the Secretary of Education to award states: (1) two-year grants to develop comprehensive plans to strengthen elementary and secondary computer science education; and (2) five-year matching grants to implement the improvements proposed in their comprehensive plans. Requires such improvements to include: (1) challenging and grade-appropriate academic content standards for computer science; (2) grade-appropriate assessments of computer science learning; (3) programs to increase disadvantaged students' access to computer science courses; (4) computer science teacher training programs; (5) improved certification requirements and processes for such teachers; (6) programs to ensure that computer science courses are considered an integral part of the secondary school curriculum; (7) effective computer science curricula; and (8) computer science distance learning programs. Requires states to partner with institutions of higher education (IHEs) and local educational agencies in implementing such measures. Directs the Secretary to establish a Blue Ribbon Commission on Computer Science Education to provide recommendations to the Secretary and Congress for expanding and improving computer science education. Authorizes the Secretary to award five-year grants to IHEs to improve computer science teacher training.</summary>
+</bill>

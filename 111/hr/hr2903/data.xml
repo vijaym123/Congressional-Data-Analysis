@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="2903" updated="2013-07-19T23:38:01-04:00">
+  <state datetime="2009-06-16">REFERRED</state>
+  <status>
+    <introduced datetime="2009-06-16"/>
+  </status>
+  <introduced datetime="2009-06-16"/>
+  <titles>
+    <title as="introduced" type="short">DTV Cliff Effect Assistance Act of 2009</title>
+    <title as="introduced" type="official">To establish an assistance program for the construction of digital TV translators to fill coverage gaps that are created from the transition from analog to digital signals.</title>
+  </titles>
+  <sponsor id="400274"/>
+  <cosponsors>
+    <cosponsor id="412240" joined="2009-10-01"/>
+    <cosponsor id="400299" joined="2009-10-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-16">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2009-06-17">
+      <text>Referred to the Subcommittee on Communications, Technology, and the Internet.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF16" subcommittee="Communications, Technology, and the Internet" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="899"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Broadcasting, cable, digital technologies"/>
+    <term name="Internet and video services"/>
+    <term name="State and local finance"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/2009--Introduced.
+DTV Cliff Effect Assistance Act of 2009 - Directs the Assistant Secretary for Communications and Information of the Department of Commerce to make payments (not to exceed $125 million in the aggregate) during FY2009-FY2012 from the Digital Television Transition and Public Safety Fund for a program through which a local civil government body may receive funding for the construction and equipment of digital TV translators to fill gaps in the digital coverage for full-power stations where the gaps were created from the conversion of the signal from analog to digital. Requires any translator tower built under this Act to reasonably facilitate the collocation of any wireless communications or broadband equipment (unless there is clear evidence of unresolvable signal interference issues).</summary>
+</bill>

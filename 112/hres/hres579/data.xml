@@ -1,0 +1,39 @@
+<bill session="112" type="hr" number="579" updated="2013-07-20T01:07:57-04:00">
+  <state datetime="2012-03-08">REFERRED</state>
+  <status>
+    <introduced datetime="2012-03-08"/>
+  </status>
+  <introduced datetime="2012-03-08"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of the House of Representatives regarding hydroelectric power.</title>
+  </titles>
+  <sponsor id="412486"/>
+  <cosponsors>
+    <cosponsor id="400109" joined="2012-03-08"/>
+    <cosponsor id="400171" joined="2012-03-08"/>
+    <cosponsor id="400232" joined="2012-03-08"/>
+    <cosponsor id="400659" joined="2012-03-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-03-08">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2012-03-09">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Dams and canals"/>
+    <term name="Electric power generation and transmission"/>
+  </subjects>
+  <amendments/>
+  <summary>3/8/2012--Introduced.
+Expresses the sense of the House of Representatives that hydroelectric power is the most abundant source of clean, renewable energy in the United States and should be fully utilized in the pursuit of energy independence and affordable energy for the people of the United States.</summary>
+</bill>

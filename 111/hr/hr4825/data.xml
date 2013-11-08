@@ -1,0 +1,71 @@
+<bill session="111" type="h" number="4825" updated="2013-07-19T23:55:59-04:00">
+  <state datetime="2010-03-17T17:02:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-03-17T17:02:00-04:00"/>
+  </status>
+  <introduced datetime="2010-03-11"/>
+  <titles>
+    <title as="introduced" type="official">To require any amounts remaining in a Member's Representational Allowance at the end of a fiscal year to be deposited in the Treasury and used for deficit reduction or to reduce the Federal debt.</title>
+    <title as="amended by house" type="official">To direct unused appropriations for Members' Representational Allowances to be deposited in the Treasury and used for deficit reduction or to reduce the Federal debt.</title>
+  </titles>
+  <sponsor id="412286"/>
+  <cosponsors>
+    <cosponsor id="400638" joined="2010-03-17"/>
+    <cosponsor id="412220" joined="2010-03-15"/>
+    <cosponsor id="400218" joined="2010-03-15"/>
+    <cosponsor id="412305" joined="2010-03-16"/>
+    <cosponsor id="412331" joined="2010-03-16"/>
+    <cosponsor id="412227" joined="2010-03-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-03-11">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2010-03-17T14:21:00-04:00">
+      <text>Mr. Brady (PA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-03-17T14:21:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1542-1544" label="consideration"/>
+    </action>
+    <action datetime="2010-03-17T14:21:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4825.</text>
+    </action>
+    <action datetime="2010-03-17T14:36:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-03-17T16:55:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H1561" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-03-17T17:02:00-04:00" how="roll" result="pass" roll="127" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 1 (Roll no. 127).</text>
+      <reference ref="CR H1543" label="text"/>
+    </vote>
+    <action datetime="2010-03-17T17:02:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-03-17T17:02:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-03-18">
+      <text>Received in the Senate and Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="2656"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Congressional operations and organization"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/2010--Passed House without amendment.
+Requires any amounts remaining of House Members' Representational Allowances after all payments are made for the year to be deposited in the Treasury and used for deficit reduction or, in fiscal years for which there is no federal budget deficit, to reduce the federal debt.</summary>
+</bill>

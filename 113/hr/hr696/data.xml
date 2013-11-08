@@ -1,0 +1,47 @@
+<bill session="113" type="h" number="696" updated="2013-11-02T06:24:48-04:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title type="short" as="introduced">Lyon County Economic Development and Conservation Act</title>
+    <title type="official" as="introduced">To designate the Wovoka Wilderness and provide for certain land conveyances in Lyon County, Nevada, and for other purposes.</title>
+  </titles>
+  <sponsor id="412559"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2013-02-14"/>
+    <cosponsor id="412446" joined="2013-02-14"/>
+    <cosponsor id="412318" joined="2013-03-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-14" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-04-18">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="159"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Land transfers"/>
+    <term name="Nevada"/>
+    <term name="Water use and supply"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+  <summary>2/14/2013--Introduced.
+Lyon County Economic Development and Conservation Act - Directs the Secretary of the Interior to convey to the city of Yerington, Nevada, identified federal land in Lyon and Mineral Counties. Designates identified federal land in Nevada managed by the Forest Service, to be known as the Wovoka Wilderness, as wilderness and as a component of the National Wilderness Preservation System.</summary>
+</bill>

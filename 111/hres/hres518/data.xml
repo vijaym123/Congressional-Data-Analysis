@@ -1,0 +1,76 @@
+<bill session="111" type="hr" number="518" updated="2013-07-19T23:00:28-04:00">
+  <state datetime="2010-06-08T18:34:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2010-06-08T18:34:00-04:00"/>
+  </status>
+  <introduced datetime="2009-06-08"/>
+  <titles>
+    <title as="introduced" type="official">Honoring the life of Jacques-Yves Cousteau, explorer, researcher, and pioneer in the field of marine conservation.</title>
+  </titles>
+  <sponsor id="400344"/>
+  <cosponsors>
+    <cosponsor id="400001" joined="2009-06-09"/>
+    <cosponsor id="400011" joined="2009-06-08"/>
+    <cosponsor id="400041" joined="2009-06-08"/>
+    <cosponsor id="400062" joined="2009-06-08"/>
+    <cosponsor id="400119" joined="2009-06-08"/>
+    <cosponsor id="400128" joined="2010-06-08"/>
+    <cosponsor id="400129" joined="2009-06-24"/>
+    <cosponsor id="412200" joined="2009-06-08"/>
+    <cosponsor id="400183" joined="2009-06-08"/>
+    <cosponsor id="400284" joined="2009-06-09"/>
+    <cosponsor id="400308" joined="2009-06-08"/>
+    <cosponsor id="412232" joined="2009-06-24"/>
+    <cosponsor id="400403" joined="2009-06-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-08">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-06-10">
+      <text>Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-06-08T14:39:00-04:00">
+      <text>Ms. Bordallo moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2010-06-08T14:39:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4225-4227" label="consideration"/>
+    </action>
+    <action datetime="2010-06-08T14:39:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 518.</text>
+    </action>
+    <action datetime="2010-06-08T14:47:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-06-08T18:27:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4227-4228" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2010-06-08T18:34:00-04:00" how="roll" result="pass" roll="338" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 354 - 0 (Roll no. 338).</text>
+      <reference ref="CR H4225" label="text"/>
+    </vote>
+    <action datetime="2010-06-08T18:34:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII22" subcommittee="Insular Affairs, Oceans and Wildlife" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Aquatic ecology"/>
+    <term name="Congressional tributes"/>
+    <term name="Europe"/>
+    <term name="France"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>6/8/2010--Passed House amended.
+Honors the life, achievements, and distinguished career of Jacques-Yves Cousteau, explorer, researcher, and pioneer in the field of marine conservation.</summary>
+</bill>

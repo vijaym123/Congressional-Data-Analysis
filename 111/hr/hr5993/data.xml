@@ -1,0 +1,93 @@
+<bill session="111" type="h" number="5993" updated="2013-07-20T00:06:41-04:00">
+  <state datetime="2010-09-29T15:54:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-09-29T15:54:00-04:00"/>
+  </status>
+  <introduced datetime="2010-07-30"/>
+  <titles>
+    <title as="introduced" type="short">SAVINGS Act of 2010</title>
+    <title as="introduced" type="short">Securing America's Veterans Insurance Needs and Goals Act of 2010</title>
+    <title as="reported to house" type="short">SAVINGS Act of 2010</title>
+    <title as="reported to house" type="short">Securing America's Veterans Insurance Needs and Goals Act of 2010</title>
+    <title as="passed house" type="short">SAVINGS Act of 2010</title>
+    <title as="passed house" type="short">Securing America's Veterans Insurance Needs and Goals Act of 2010</title>
+    <title as="introduced" type="official">To amend title 38, United States Code, to ensure that beneficiaries of Servicemembers' Group Life Insurance receive financial counseling and disclosure information regarding life insurance payments, and for other purposes.</title>
+  </titles>
+  <sponsor id="412279"/>
+  <cosponsors>
+    <cosponsor id="400090" joined="2010-09-28"/>
+    <cosponsor id="400133" joined="2010-07-30"/>
+    <cosponsor id="412382" joined="2010-08-10"/>
+    <cosponsor id="412222" joined="2010-07-30"/>
+    <cosponsor id="400274" joined="2010-09-28"/>
+    <cosponsor id="412307" joined="2010-07-30"/>
+    <cosponsor id="400378" joined="2010-09-28"/>
+    <cosponsor id="412318" joined="2010-08-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-30">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2010-09-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-09-15">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2010-09-28T12:37:00-04:00">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-628.</text>
+    </action>
+    <calendar datetime="2010-09-28T12:38:00-04:00" calendar="Union" number="368">
+      <text>Placed on the Union Calendar, Calendar No. 368.</text>
+    </calendar>
+    <action datetime="2010-09-28T13:24:00-04:00">
+      <text>Mr. Filner moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-09-28T13:24:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7020-7027" label="consideration"/>
+    </action>
+    <action datetime="2010-09-28T13:24:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5993.</text>
+    </action>
+    <action datetime="2010-09-28T13:57:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-09-29T15:46:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7258" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-09-29T15:54:00-04:00" how="roll" result="pass" roll="552" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 358 - 66 (Roll no. 552).</text>
+      <reference ref="CR 9/28/2010 H7020-7021" label="text"/>
+    </vote>
+    <action datetime="2010-09-29T15:54:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-09-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="3718"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Consumer affairs"/>
+    <term name="Financial literacy"/>
+    <term name="Insurance industry and regulation"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Life, casualty, property insurance"/>
+    <term name="User charges and fees"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>9/29/2010--Passed House amended.
+Securing America's Veterans Insurance Needs and Goals Act of 2010 or SAVINGS Act of 2010 - Requires a life insurance company, in order to provide life insurance for veterans under the Servicemembers' Group Life Insurance program, to: (1) provide financial counseling to the beneficiary or other person entitled to payment upon the establishment of a valid claim; and (2) include full disclosure with respect to such payment, including specified information with respect to interest payable and the various methods of receiving payment(s). Prohibits a company from charging fees to a payee for maintaining such payment with the company. Directs the Secretary of Veterans Affairs (VA) to include in each annual performance and accountability report submitted to Congress information concerning individuals receiving the counseling and disclosures required under this Act. Requires: (1) the Director of the VA's Office of Survivor Assistance to attend each meeting of the Advisory Council on Servicemembers' Group Life Insurance; and (2) the Secretary to ensure that such Office has the necessary personnel to provide information on the receipt of such counseling.</summary>
+</bill>

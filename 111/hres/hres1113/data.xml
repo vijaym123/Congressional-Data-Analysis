@@ -1,0 +1,55 @@
+<bill session="111" type="hr" number="1113" updated="2013-07-19T23:05:42-04:00">
+  <state datetime="2010-02-26T10:11:00-05:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2010-02-26T10:11:00-05:00"/>
+  </status>
+  <introduced datetime="2010-02-25"/>
+  <titles>
+    <title as="introduced" type="official">Providing for further consideration of the bill (H.R. 2701) to authorize appropriations for fiscal year 2010 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.</title>
+  </titles>
+  <sponsor id="400065"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2010-02-25T21:28:00-05:00">
+      <text>The House Committee on Rules reported an original measure, H. Rept. 111-421, by Mr. Cardoza.</text>
+    </action>
+    <action datetime="2010-02-25T21:28:00-05:00">
+      <text>The resolution provides for further consideration of H.R. 2701, the "Intelligence Authorization Act for Fiscal Year 2010." The resolution provides that amendment number 1 printed in House Report 111-419 shall be modified by striking the matter proposed to be inserted as section 506.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2010-02-25T21:28:00-05:00" calendar="House" number="165">
+      <text>Placed on the House Calendar, Calendar No. 165.</text>
+    </calendar>
+    <action datetime="2010-02-26T09:14:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H936-942" label="consideration"/>
+    </action>
+    <action datetime="2010-02-26T09:15:00-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H. Res. 1113.</text>
+    </action>
+    <action datetime="2010-02-26T10:11:00-05:00">
+      <text>The previous question was ordered without objection.</text>
+      <reference ref="CR H942" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2010-02-26T10:11:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H937" label="text"/>
+    </vote>
+    <action datetime="2010-02-26T10:12:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="111" type="h" number="2701"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="House of Representatives"/>
+    <term name="Legislative rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/2010--Introduced.
+Sets forth the rule for consideration of H.R. 2701 (Intelligence Authorization Act for Fiscal Year 2010).</summary>
+</bill>

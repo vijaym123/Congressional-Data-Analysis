@@ -1,0 +1,56 @@
+<bill session="113" type="hr" number="260" updated="2013-11-02T06:17:49-04:00">
+  <state datetime="2013-06-13T14:33:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2013-06-13T14:33:00-04:00"/>
+  </status>
+  <introduced datetime="2013-06-12"/>
+  <titles>
+    <title type="official" as="introduced">Providing for further consideration of the bill (H.R. 1960) to authorize appropriations for fiscal year 2014 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+  </titles>
+  <sponsor id="412409"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-06-13T03:00:00-04:00">
+      <text>The House Committee on Rules reported an original measure, H. Rept. 113-108, by Mr. Nugent.</text>
+    </action>
+    <action datetime="2013-06-13T03:00:00-04:00">
+      <text>The resolution makes in order only those further amendments printed in part B of this report and amendments en bloc described in Section 3 of this resolution.</text>
+    </action>
+    <calendar datetime="2013-06-13T03:00:00-04:00" state="REPORTED" calendar="House" number="32">
+      <text>Placed on the House Calendar, Calendar No. 32.</text>
+    </calendar>
+    <action datetime="2013-06-13T12:46:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H3372-3382" label="consideration"/>
+    </action>
+    <action datetime="2013-06-13T12:50:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H. Res. 260.</text>
+    </action>
+    <action datetime="2013-06-13T14:24:00-04:00">
+      <text>On ordering the previous question Agreed to by the Yeas and Nays: 233 - 195 (Roll no. 220).</text>
+      <reference ref="CR H3379-3381" label="consideration"/>
+      <reference ref="CR H3380" label="text"/>
+    </action>
+    <action datetime="2013-06-13T14:33:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote how="roll" type="vote" roll="221" datetime="2013-06-13T14:33:00-04:00" where="h" result="pass" state="PASSED:SIMPLERES">
+      <text>On agreeing to the resolution Agreed to by recorded vote: 238 - 189 (Roll no. 221).</text>
+      <reference ref="CR H3372" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="113" type="h" number="1960"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="House of Representatives"/>
+    <term name="Legislative rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>6/12/2013--Introduced.
+Sets forth the rule for consideration of H.R. 1960 (National Defense Authorization Act for Fiscal Year 2014).</summary>
+</bill>

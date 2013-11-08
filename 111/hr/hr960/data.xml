@@ -1,0 +1,56 @@
+<bill session="111" type="h" number="960" updated="2013-07-19T23:20:31-04:00">
+  <state datetime="2009-02-10">REFERRED</state>
+  <status>
+    <introduced datetime="2009-02-10"/>
+  </status>
+  <introduced datetime="2009-02-10"/>
+  <titles>
+    <title as="introduced" type="short">District of Columbia Legislative Autonomy Act of 2009</title>
+    <title as="introduced" type="official">To amend the District of Columbia Home Rule Act to eliminate Congressional review of newly-passed District laws.</title>
+  </titles>
+  <sponsor id="400295"/>
+  <cosponsors>
+    <cosponsor id="412272" joined="2009-12-02"/>
+    <cosponsor id="412306" joined="2009-12-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-02-10">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E236"/>
+    </action>
+    <action state="REFERRED" datetime="2009-02-10">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-02-10">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2009-02-10">
+      <text>Referred to House Rules</text>
+    </action>
+    <action datetime="2009-05-04">
+      <text>Referred to the Subcommittee on Federal Workforce, Post Office, and the District of Columbia.</text>
+      <committee name="House Oversight and Government Reform"/>
+    </action>
+    <action datetime="2009-11-18">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Oversight and Government Reform"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSGO25" subcommittee="Federal Workforce, Post Office, and the District of Columbia" name="House Oversight and Government Reform"/>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="h" number="830"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional oversight"/>
+    <term name="District of Columbia"/>
+    <term name="Intergovernmental relations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/10/2009--Introduced.
+District of Columbia Legislative Autonomy Act of 2009 - Amends the District of Columbia Home Rule Act to eliminate congressional review of newly-passed District laws.</summary>
+</bill>

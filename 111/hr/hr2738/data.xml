@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="2738" updated="2013-07-19T23:36:27-04:00">
+  <state datetime="2009-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2009-06-04"/>
+  </status>
+  <introduced datetime="2009-06-04"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to provide travel expenses for family caregivers accompanying veterans to medical treatment facilities.</title>
+  </titles>
+  <sponsor id="412316"/>
+  <cosponsors>
+    <cosponsor id="400339" joined="2009-07-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-04">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-06-05">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-06-18">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disability and paralysis"/>
+    <term name="Family relationships"/>
+    <term name="Transportation costs"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/2009--Introduced.
+Directs the Secretary of Veterans Affairs (VA) to reimburse family caregivers of disabled veterans for travel expenses, including lodging and subsistence, in connection with authorized VA treatment for such veterans.</summary>
+</bill>

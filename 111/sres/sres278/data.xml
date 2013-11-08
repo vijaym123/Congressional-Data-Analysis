@@ -1,0 +1,48 @@
+<bill session="111" type="sr" number="278" updated="2013-07-20T00:18:43-04:00">
+  <state datetime="2010-09-29">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2010-09-29"/>
+  </status>
+  <introduced datetime="2009-09-21"/>
+  <titles>
+    <title as="introduced" type="official">A resolution honoring the Hudson River School painters for their contributions to the United States Senate.</title>
+  </titles>
+  <sponsor id="412223"/>
+  <cosponsors>
+    <cosponsor id="300034" joined="2009-11-09"/>
+    <cosponsor id="300083" joined="2010-09-27"/>
+    <cosponsor id="400357" joined="2010-05-05"/>
+    <cosponsor id="300087" joined="2009-09-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-09-21">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S9591-9592" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2010-09-29">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S7770" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2010-09-29" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S7770" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="hr" number="753"/>
+    <bill relation="identical" session="111" type="hr" number="762"/>
+  </relatedbills>
+  <subjects>
+    <term name="Arts, culture, religion"/>
+    <term name="Art, artists, authorship"/>
+    <term name="Congressional tributes"/>
+    <term name="Lakes and rivers"/>
+    <term name="New York State"/>
+  </subjects>
+  <amendments/>
+  <summary>9/29/2010--Passed Senate without amendment.
+Recognizes and honors the Hudson River School painters for their contributions to the United States.</summary>
+</bill>

@@ -1,0 +1,57 @@
+<bill session="111" type="h" number="4279" updated="2013-07-19T23:50:56-04:00">
+  <state datetime="2009-12-10">REFERRED</state>
+  <status>
+    <introduced datetime="2009-12-10"/>
+  </status>
+  <introduced datetime="2009-12-10"/>
+  <titles>
+    <title as="introduced" type="official">To amend titles 38 and 10, United States Code, to authorize accelerated payments of educational assistance to certain veterans and members of the reserve components of the Armed Forces.</title>
+  </titles>
+  <sponsor id="412331"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2010-04-29"/>
+    <cosponsor id="400041" joined="2010-02-02"/>
+    <cosponsor id="400062" joined="2010-02-02"/>
+    <cosponsor id="400246" joined="2010-04-29"/>
+    <cosponsor id="400274" joined="2010-02-02"/>
+    <cosponsor id="400279" joined="2010-02-22"/>
+    <cosponsor id="412332" joined="2010-02-02"/>
+    <cosponsor id="400316" joined="2010-04-29"/>
+    <cosponsor id="400426" joined="2010-04-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-12-10">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-12-10">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2009-12-10">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2009-12-11">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-01-12">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military personnel and dependents"/>
+    <term name="National Guard and reserves"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>12/10/2009--Introduced.
+Amends federal provisions concerning the provision of educational assistance for veterans and members of the reserves to allow an individual eligible for such assistance to be paid on an accelerated basis if: (1) the individual is enrolled in an approved program of education; (2) the Secretary of Veterans Affairs (VA) or of the military department concerned (in case of a reserve member) has not paid the established charges to the institution of higher learning within seven days after the academic quarter, semester, or term begins; and (3) failure to pay the established charges is through no fault of the individual. Requires: (1) the institution to certify the amount of established charges; (2) payment of the accelerated amount within 14 days after receipt of such certification; and (3) individuals to be charged against their educational assistance entitlement for any accelerated payments received.</summary>
+</bill>

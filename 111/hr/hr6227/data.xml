@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="6227" updated="2013-07-20T00:08:46-04:00">
+  <state datetime="2010-09-28">REFERRED</state>
+  <status>
+    <introduced datetime="2010-09-28"/>
+  </status>
+  <introduced datetime="2010-09-28"/>
+  <titles>
+    <title as="introduced" type="short">Extended TRICARE Coverage for Military Families Now Act</title>
+    <title as="introduced" type="official">To establish a temporary prohibition on termination of coverage under the TRICARE program for age of dependents under the age of 26 years.</title>
+  </titles>
+  <sponsor id="412250"/>
+  <cosponsors>
+    <cosponsor id="400252" joined="2010-11-18"/>
+    <cosponsor id="400659" joined="2010-12-08"/>
+    <cosponsor id="400279" joined="2010-09-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-09-28">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2010-10-20">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3846"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Health care coverage and access"/>
+    <term name="Military medicine"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/2010--Introduced.
+Extended TRICARE Coverage for Military Families Now Act - Prohibits terminating the eligibility of an individual who qualifies for treatment as a dependent under TRICARE (a Department of Defense [DOD] managed care program) solely by reason of exceeding the age limit of 21 years, or 23 years if enrolled in a full-time course of study at an approved institution of higher learning and is, or was at the time of the member's or former member's death, in fact dependent on the member or former member for over one-half of the child's support. Requires the continuation of such coverage for the period beginning on the date of enactment of this Act and ending on the earlier of September 30, 2011, or the effective date of the extension of dependent coverage under TRICARE to individuals up to the age of 26. Provides for the reenrollment of individuals whose eligibility ceased during the period beginning on June 1, 2010, and ending on the date of enactment of this Act by reason of exceeding such age limit.</summary>
+</bill>

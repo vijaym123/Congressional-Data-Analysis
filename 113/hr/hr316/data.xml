@@ -1,0 +1,86 @@
+<bill session="113" type="h" number="316" updated="2013-11-02T06:21:38-04:00">
+  <state datetime="2013-02-12T14:32:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-02-12T14:32:00-05:00"/>
+  </status>
+  <introduced datetime="2013-01-18"/>
+  <titles>
+    <title type="short" as="introduced">Collinsville Renewable Energy Promotion Act</title>
+    <title type="short" as="reported to house">Collinsville Renewable Energy Promotion Act</title>
+    <title type="short" as="passed house">Collinsville Renewable Energy Promotion Act</title>
+    <title type="short" as="reported to senate">Collinsville Renewable Energy Production Act</title>
+    <title type="official" as="introduced">To reinstate and transfer certain hydroelectric licenses and extend the deadline for commencement of construction of certain hydroelectric projects.</title>
+  </titles>
+  <sponsor id="412524"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-01-18" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-01-18">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2013-02-04T17:38:00-05:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 113-7.</text>
+    </action>
+    <calendar datetime="2013-02-04T17:38:00-05:00" state="REPORTED" calendar="Union" number="5">
+      <text>Placed on the Union Calendar, Calendar No. 5.</text>
+    </calendar>
+    <action datetime="2013-02-12T14:25:00-05:00">
+      <text>Mr. Whitfield moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-02-12T14:25:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H441-442" label="consideration"/>
+    </action>
+    <action datetime="2013-02-12T14:25:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 316.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2013-02-12T14:32:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H441" label="text"/>
+    </vote>
+    <action datetime="2013-02-12T14:32:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-02-13">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2013-04-16">
+      <text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 113-32.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2013-05-16">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2013-06-27">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Wyden with an amendment in the nature of a substitute. With written report No. 113-69.</text>
+    </action>
+    <calendar datetime="2013-06-27" calendar="Senate Legislative" under="General Orders" number="123">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 123.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Reporting"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee activity="Hearings" code="SSEG07" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Connecticut"/>
+    <term name="Dams and canals"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Licensing and registrations"/>
+  </subjects>
+  <amendments>
+    <amendment number="s579"/>
+  </amendments>
+  <summary>6/27/2013--Reported to Senate amended.
+Collinsville Renewable Energy Production Act - Authorizes the Federal Energy Regulatory Commission (FERC), upon request of the town of Canton, Connecticut (Town), to: (1) reinstate the expired license for either or each of the projects numbered 10822 and 10823; (2) extend for two years after the date on which either or each such project is reinstated the time period during which the licensee must commence project construction, and (3) transfer such license to the Town upon a showing that the transfer is in the public interest. Sets forth the conditions of such transfer, including those for the protection, mitigation, and enhancement of fish and wildlife and related habitat. Directs FERC to supplement the environmental impact statement or similar analysis prepared in connection with the issuance of the original license to examine all new circumstances and information relevant to environmental concerns and bearing on the reinstatement or impact of the license.</summary>
+</bill>

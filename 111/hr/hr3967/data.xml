@@ -1,0 +1,99 @@
+<bill session="111" type="h" number="3967" updated="2013-07-19T23:47:54-04:00">
+  <state datetime="2010-07-13T14:18:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-07-13T14:18:00-04:00"/>
+  </status>
+  <introduced datetime="2009-10-29"/>
+  <titles>
+    <title as="introduced" type="official">To amend the National Great Black Americans Commemoration Act of 2004 to authorize appropriations through fiscal year 2015.</title>
+  </titles>
+  <sponsor id="400090"/>
+  <cosponsors>
+    <cosponsor id="400048" joined="2009-10-29"/>
+    <cosponsor id="400295" joined="2009-10-29"/>
+    <cosponsor id="400312" joined="2009-10-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-10-29">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-10-29">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2009-10-29">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2009-11-03">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2010-01-04">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <action datetime="2010-04-27">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2010-06-16">
+      <text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2010-06-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-06-16">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Natural Resources"/>
+    </calendar>
+    <action datetime="2010-07-13T13:15:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 111-526, Part I.</text>
+    </action>
+    <action datetime="2010-07-13T13:30:00-04:00">
+      <text>Committee on Judiciary discharged.</text>
+    </action>
+    <calendar datetime="2010-07-13T13:30:00-04:00" calendar="Union" number="299">
+      <text>Placed on the Union Calendar, Calendar No. 299.</text>
+    </calendar>
+    <action datetime="2010-07-13T14:15:00-04:00">
+      <text>Ms. Bordallo moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-07-13T14:15:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5507-5508" label="consideration"/>
+    </action>
+    <action datetime="2010-07-13T14:15:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3967.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-07-13T14:18:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H5507" label="text"/>
+    </vote>
+    <action datetime="2010-07-13T14:18:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-07-14">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="2095"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Maryland"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+    <term name="Racial and ethnic relations"/>
+  </subjects>
+  <amendments/>
+  <summary>7/13/2010--Passed House without amendment.
+Amends the National Great Black Americans Commemoration Act of 2004 to extend, through FY2015, the authorization of appropriations for grants to the Great Blacks in Wax Museum, Inc. in Baltimore, Maryland, to carry out programs related to civil rights and juvenile justice through the National Great Blacks in Wax Museum and Justice Learning Center.</summary>
+</bill>

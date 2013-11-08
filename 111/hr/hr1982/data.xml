@@ -1,0 +1,57 @@
+<bill session="111" type="h" number="1982" updated="2013-07-19T23:29:34-04:00">
+  <state datetime="2009-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="2009-04-21"/>
+  </status>
+  <introduced datetime="2009-04-21"/>
+  <titles>
+    <title as="introduced" type="short">Veterans Entitlement to Service (VETS) Act of 2009</title>
+    <title as="introduced" type="official">To direct the Secretary of Veterans Affairs to acknowledge the receipt of medical, disability, and pension claims and other communications submitted by veterans.</title>
+  </titles>
+  <sponsor id="400217"/>
+  <cosponsors>
+    <cosponsor id="400031" joined="2009-05-13"/>
+    <cosponsor id="400041" joined="2009-04-21"/>
+    <cosponsor id="412236" joined="2009-04-21"/>
+    <cosponsor id="412272" joined="2009-04-21"/>
+    <cosponsor id="400163" joined="2009-04-21"/>
+    <cosponsor id="412187" joined="2009-05-13"/>
+    <cosponsor id="400344" joined="2009-05-13"/>
+    <cosponsor id="412313" joined="2009-06-04"/>
+    <cosponsor id="400387" joined="2009-04-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-04-21">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-04-24">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-05-21">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-05-22">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="1394"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disability assistance"/>
+    <term name="Government information and archives"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/2009--Introduced.
+Veterans Entitlement to Service (VETS) Act of 2009 - Directs the Secretary of Veterans Affairs to acknowledge the receipt of any claim for medical services, disability compensation, or pension under laws administered by the Secretary, or any other communication relating to such services, compensation, or pension, within 60 days after its receipt.</summary>
+</bill>

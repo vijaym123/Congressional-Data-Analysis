@@ -1,0 +1,40 @@
+<bill session="111" type="hc" number="25" updated="2013-07-20T00:13:07-04:00">
+  <state datetime="2009-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2009-01-22"/>
+  </status>
+  <introduced datetime="2009-01-22"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals and ideals of "National Sudden Cardiac Arrest Awareness Month".</title>
+  </titles>
+  <sponsor id="400570"/>
+  <cosponsors>
+    <cosponsor id="400103" joined="2009-01-22"/>
+    <cosponsor id="400133" joined="2009-01-22"/>
+    <cosponsor id="400196" joined="2009-01-22"/>
+    <cosponsor id="412228" joined="2009-01-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-01-22">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2009-01-23">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cardiovascular and respiratory health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Health promotion and preventive care"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2009--Introduced.
+Expresses support for the goals and ideals of National Sudden Cardiac Arrest Awareness Month.</summary>
+</bill>

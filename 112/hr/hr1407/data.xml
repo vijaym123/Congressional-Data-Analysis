@@ -1,0 +1,101 @@
+<bill session="112" type="h" number="1407" updated="2013-07-20T01:22:32-04:00">
+  <state datetime="2011-05-23T16:09:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2011-05-23T16:09:00-04:00"/>
+  </status>
+  <introduced datetime="2011-04-06"/>
+  <titles>
+    <title as="introduced" type="short">Veterans' Compensation Cost-of-Living Adjustment Act of 2011</title>
+    <title as="reported to house" type="short">Veterans' Compensation Cost-of-Living Adjustment Act of 2011</title>
+    <title as="reported to house" partial="1" type="short">Andrew Connolly Veterans' Housing Act</title>
+    <title as="passed house" type="short">Veterans' Compensation Cost-of-Living Adjustment Act of 2011</title>
+    <title as="passed house" partial="1" type="short">Andrew Connolly Veterans' Housing Act</title>
+    <title as="introduced" type="official">To increase, effective as of December 1, 2011, the rates of compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for the survivors of certain disabled veterans, and for other purposes.</title>
+  </titles>
+  <sponsor id="412449"/>
+  <cosponsors>
+    <cosponsor id="412208" joined="2011-05-11"/>
+    <cosponsor id="412457" joined="2011-05-13"/>
+    <cosponsor id="412451" joined="2011-05-11"/>
+    <cosponsor id="412454" joined="2011-05-10"/>
+    <cosponsor id="412460" joined="2011-05-11"/>
+    <cosponsor id="400244" joined="2011-05-03"/>
+    <cosponsor id="400274" joined="2011-05-10"/>
+    <cosponsor id="412392" joined="2011-04-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-04-06">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2011-04-29">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2011-05-03">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2011-05-05">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2011-05-05">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2011-05-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-05-12">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2011-05-20T11:41:00-04:00">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 112-82. Filed late, pursuant to previous special order.</text>
+    </action>
+    <calendar datetime="2011-05-20T11:42:00-04:00" calendar="Union" number="43">
+      <text>Placed on the Union Calendar, Calendar No. 43.</text>
+    </calendar>
+    <action datetime="2011-05-23T16:01:00-04:00">
+      <text>Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2011-05-23T16:01:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3308-3310" label="consideration"/>
+    </action>
+    <action datetime="2011-05-23T16:01:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1407.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-05-23T16:09:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H3308-3309" label="text"/>
+    </vote>
+    <action datetime="2011-05-23T16:09:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-05-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="4114"/>
+    <bill relation="unknown" session="112" type="s" number="894"/>
+    <bill relation="unknown" session="112" type="s" number="894"/>
+    <bill relation="unknown" session="112" type="s" number="2259"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disability assistance"/>
+    <term name="Inflation and prices"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/23/2011--Passed House amended.
+Veterans' Compensation Cost-of-Living Adjustment Act of 2011 - Directs the Secretary of Veterans Affairs (VA) to increase, as of December 1, 2011, the rates of veterans' disability compensation, additional compensation for dependents, the clothing allowance for certain disabled veterans, and dependency and indemnity compensation for surviving spouses and children. Requires each such increase to be the same percentage as the increase in benefits provided under title II (Old Age, Survivors and Disability Insurance) of the Social Security Act, on the same effective date. Andrew Connolly Veterans' Housing Act - Extends through 2016 the authority of the Secretary to provide specially adapted housing assistance to certain disabled veterans residing temporarily in housing owned by a family member.</summary>
+</bill>

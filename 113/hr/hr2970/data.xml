@@ -1,0 +1,38 @@
+<bill session="113" type="h" number="2970" updated="2013-11-02T06:44:01-04:00">
+  <state datetime="2013-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-01"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="short" as="introduced">Good Samaritan Cleanup of Abandoned Hardrock Mines Act of 2013</title>
+    <title type="official" as="introduced">To facilitate the remediation of abandoned hardrock mines, and for other purposes.</title>
+  </titles>
+  <sponsor id="412405"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-08-01" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="1443"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Licensing and registrations"/>
+    <term name="Mining"/>
+    <term name="Pollution liability"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments/>
+</bill>

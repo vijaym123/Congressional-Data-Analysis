@@ -1,0 +1,51 @@
+<bill session="111" type="h" number="2872" updated="2013-07-19T23:37:45-04:00">
+  <state datetime="2009-06-15">REFERRED</state>
+  <status>
+    <introduced datetime="2009-06-15"/>
+  </status>
+  <introduced datetime="2009-06-15"/>
+  <titles>
+    <title as="introduced" type="short">Medicare Quality Cancer Care Demonstration Project Act of 2009</title>
+    <title as="introduced" type="official">To improve the quality and cost effectiveness of cancer care to Medicare beneficiaries by establishing a national demonstration project.</title>
+  </titles>
+  <sponsor id="400092"/>
+  <cosponsors>
+    <cosponsor id="412193" joined="2009-09-15"/>
+    <cosponsor id="400184" joined="2010-05-13"/>
+    <cosponsor id="400195" joined="2009-06-15"/>
+    <cosponsor id="412285" joined="2009-06-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-15">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-06-15">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-06-15">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2009-06-16">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="3675"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cancer"/>
+    <term name="Health care quality"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>6/15/2009--Introduced.
+Medicare Quality Cancer Care Demonstration Project Act of 2009 - Directs the Secretary of Health and Human Services to establish a quality cancer care demonstration project for the purpose of establishing quality metrics and aligning payment incentives under title XVIII (Medicare) of the Social Security Act in the areas of treating planning and end-of-life care for Medicare beneficiaries with cancer.</summary>
+</bill>

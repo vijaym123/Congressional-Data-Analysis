@@ -1,0 +1,86 @@
+<bill session="111" type="h" number="6012" updated="2013-07-20T00:06:51-04:00">
+  <state datetime="2010-09-28T22:00:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-09-28T22:00:00-04:00"/>
+  </status>
+  <introduced datetime="2010-07-30"/>
+  <titles>
+    <title as="introduced" type="official">To direct the Secretary of Health and Human Services to review uptake and utilization of diabetes screening benefits and establish an outreach program with respect to such benefits, and for other purposes.</title>
+    <title as="amended by house" type="official">To direct the Secretary of Health and Human Services to review utilization of diabetes screening benefits and make recommendations on outreach programs with respect to such benefits, and for other purposes.</title>
+  </titles>
+  <sponsor id="412229"/>
+  <cosponsors>
+    <cosponsor id="400070" joined="2010-07-30"/>
+    <cosponsor id="400073" joined="2010-09-14"/>
+    <cosponsor id="400101" joined="2010-07-30"/>
+    <cosponsor id="400346" joined="2010-09-23"/>
+    <cosponsor id="400388" joined="2010-09-23"/>
+    <cosponsor id="400400" joined="2010-07-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-30">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2010-08-09">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2010-09-15">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2010-09-16">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2010-09-16">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2010-09-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-09-23">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2010-09-28T21:58:00-04:00">
+      <text>Mr. Pallone moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-09-28T21:58:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7185" label="consideration"/>
+    </action>
+    <action datetime="2010-09-28T21:58:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6012.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-09-28T22:00:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7185" label="text"/>
+    </vote>
+    <action datetime="2010-09-28T22:00:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-09-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Aging"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Government information and archives"/>
+    <term name="Health information and medical records"/>
+    <term name="Medical tests and diagnostic methods"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/2010--Passed House amended.
+Amends the Public Health Service Act to require the Secretary of Health and Human Services (HHS), for the purpose of reducing the number of undiagnosed seniors with diabetes or prediabetes, to: (1) review utilization of diabetes screening benefits under HHS programs to identify and address any existing problems with regard to such utilization and related data collection mechanisms; and (2) make recommendations on outreach activities carried out by the Secretary to ensure awareness among seniors and health care providers of such diabetes screening benefits and the advantages of knowing one's diabetic or prediabetic status for the purpose of self-management. Directs the Secretary to carry out this section in consultation with: (1) the heads of appropriate health agencies and offices in HHS; and (2) entities with an interest in diabetes, including industry, voluntary health organizations (such as diabetes advocacy groups and other related stakeholders), trade associations, and professional societies. Sets forth reporting requirements.</summary>
+</bill>

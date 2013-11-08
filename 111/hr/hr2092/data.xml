@@ -1,0 +1,101 @@
+<bill session="111" type="h" number="2092" updated="2013-07-19T23:30:31-04:00">
+  <state datetime="2010-09-27">PASS_BACK:SENATE</state>
+  <status>
+    <unknown datetime="2010-09-27"/>
+  </status>
+  <introduced datetime="2009-04-23"/>
+  <titles>
+    <title as="introduced" type="short">Kingman and Heritage Islands Act of 2009</title>
+    <title as="reported to house" type="short">Kingman and Heritage Islands Act of 2009</title>
+    <title as="passed house" type="short">Kingman and Heritage Islands Act of 2009</title>
+    <title as="reported to senate" type="short">Kingman and Heritage Islands Act of 2009</title>
+    <title as="passed senate" type="short">Kingman and Heritage Islands Act of 2009</title>
+    <title as="introduced" type="official">To amend the National Children's Island Act of 1995 to expand allowable uses for Kingman and Heritage Islands by the District of Columbia, and for other purposes.</title>
+  </titles>
+  <sponsor id="400295"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2009-04-23">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E959"/>
+    </action>
+    <action state="REFERRED" datetime="2009-04-23">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2009-09-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-09-10">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2009-09-29T18:17:00-04:00">
+      <text>Reported (Amended) by the Committee on Oversight and Government. H. Rept. 111-275.</text>
+    </action>
+    <calendar datetime="2009-09-29T18:18:00-04:00" calendar="Union" number="156">
+      <text>Placed on the Union Calendar, Calendar No. 156.</text>
+    </calendar>
+    <action datetime="2009-10-07T16:01:00-04:00">
+      <text>Mr. Lynch moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-10-07T16:01:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10563-10565" label="consideration"/>
+    </action>
+    <action datetime="2009-10-07T16:01:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2092.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-10-07T16:13:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H10563" label="text"/>
+    </vote>
+    <action datetime="2009-10-07T16:13:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-10-08">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2009-10-19">
+      <text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Oversight of Government Management, the Federal Workforce, and the District of Columbia.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+    <calendar datetime="2010-05-17">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2010-09-22">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. With written report No. 111-300.</text>
+    </action>
+    <calendar datetime="2010-09-22" calendar="Senate Legislative" under="General Orders" number="582">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 582.</text>
+    </calendar>
+    <vote state="PASS_BACK:SENATE" datetime="2010-09-27" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate with amendments by Unanimous Consent.</text>
+      <reference ref="CR S7556-7557" label="consideration"/>
+      <reference ref="CR S7556-7557" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2010-09-28">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, Reporting"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSGA03" subcommittee="Oversight of Government Management, the Federal Workforce, and the District of Columbia" name="Senate Homeland Security and Governmental Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="6278"/>
+    <bill relation="unknown" session="111" type="h" number="6278"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="District of Columbia"/>
+    <term name="Lakes and rivers"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/2010--Passed Senate amended.
+Kingman and Heritage Islands Act of 2009 - Amends the National Children's Island Act of 1995 to allow the District of Columbia to use the lands conveyed (Kingman and Heritage Islands) and the related easements granted under such Act in accordance with a specified Anacostia Waterfront Framework Plan and a Comprehensive Plan. (Thus expands allowable uses for them by the District.) Revises the terms of the reversionary interest of the United States in such properties and easements. Repeals the conditions for reversion with respect to: (1) failure to commence improvements in or operation of the recreational park; or (2) abandonment or nonuse of the park after completion of construction and commencement of operation. States that title in the Islands and the related easements shall revert back to the United States 60 days after the Secretary of Interior notifies the District in writing that a portion of the District is not using them for the recreational, environmental, or educational purposes of the National Children's Island, in accordance with the Anacostia Waterfront Framework Plan or the Comprehensive Plan.</summary>
+</bill>

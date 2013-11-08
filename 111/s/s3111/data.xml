@@ -1,0 +1,78 @@
+<bill session="111" type="s" number="3111" updated="2013-07-20T00:53:44-04:00">
+  <state datetime="2010-05-05">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2010-05-05"/>
+  </status>
+  <introduced datetime="2010-03-15"/>
+  <titles>
+    <title as="introduced" type="short">Faster FOIA Act of 2010</title>
+    <title as="passed senate" type="short">Faster FOIA Act of 2010</title>
+    <title as="introduced" type="official">A bill to establish the Commission on Freedom of Information Act Processing Delays.</title>
+  </titles>
+  <sponsor id="300065"/>
+  <cosponsors>
+    <cosponsor id="300027" joined="2010-03-15"/>
+    <cosponsor id="300042" joined="2010-04-12"/>
+    <cosponsor id="412242" joined="2010-04-15"/>
+    <cosponsor id="412247" joined="2010-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2010-03-15">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1517-1518"/>
+    </action>
+    <action state="REFERRED" datetime="2010-03-15">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S1518" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-04-15">
+      <text>Committee on the Judiciary. Ordered to be reported with an amendment favorably.</text>
+      <committee name="Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2010-04-19">
+      <text>Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.</text>
+    </action>
+    <calendar datetime="2010-04-19" calendar="Senate Legislative" under="General Orders" number="350">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 350.</text>
+    </calendar>
+    <action datetime="2010-05-05">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S3289-3291" label="consideration"/>
+      <reference ref="CR S3289-3290" label="text of measure as reported in Senate"/>
+    </action>
+    <action datetime="2010-05-05">
+      <text>The committee reported amendments were agreed to by Unanimous Consent.</text>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2010-05-05" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with amendments by Unanimous Consent.</text>
+      <reference ref="CR S3290-3291" label="text"/>
+    </vote>
+    <action datetime="2010-05-06T10:06:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2010-05-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2010-05-06">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="5087"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Advisory bodies"/>
+    <term name="Freedom of information"/>
+    <term name="Government studies and investigations"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3847"/>
+  </amendments>
+  <summary>5/5/2010--Passed Senate amended.
+Faster FOIA Act of 2010 - Establishes the Commission on Freedom of Information Act Processing Delays to conduct a study to: (1) identify methods that will help reduce delays in processing Freedom of Information Act (FOIA) requests submitted to federal agencies; (2) ensure the efficient and equitable administration of FOIA throughout the federal government; (3) examine whether the system for charging fees for such requests and granting waivers of such fees needs to be reformed; (4) determine why the government's use of FOIA exemptions increased during FY2009, whether the increase contributed to delays, what efforts were made by federal agencies to comply with President Obama's January 21, 2009 Presidential Memorandum on Freedom of Information Act Requests, and whether those efforts were successful; and (5) make recommendations on how the use of exemptions may be limited. Directs the Commission to report to Congress and the President on the results of the study not later than one year after enactment of this Act.</summary>
+</bill>

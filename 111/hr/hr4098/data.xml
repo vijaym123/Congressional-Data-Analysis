@@ -1,0 +1,94 @@
+<bill session="111" type="h" number="4098" updated="2013-07-19T23:49:13-04:00">
+  <state datetime="2010-03-24T15:46:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-03-24T15:46:00-04:00"/>
+  </status>
+  <introduced datetime="2009-11-17"/>
+  <titles>
+    <title as="introduced" type="short">Secure Federal File Sharing Act</title>
+    <title as="reported to house" type="short">Secure Federal File Sharing Act</title>
+    <title as="passed house" type="short">Secure Federal File Sharing Act</title>
+    <title as="introduced" type="official">To require the Director of the Office of Management and Budget to issue guidance on the use of peer-to-peer file sharing software to prohibit the personal use of such software by Government employees, and for other purposes.</title>
+  </titles>
+  <sponsor id="400409"/>
+  <cosponsors>
+    <cosponsor id="400628" joined="2010-02-02"/>
+    <cosponsor id="400032" joined="2010-02-02"/>
+    <cosponsor id="400041" joined="2010-02-02"/>
+    <cosponsor id="412379" joined="2010-02-25"/>
+    <cosponsor id="400093" joined="2010-02-25"/>
+    <cosponsor id="412257" joined="2010-02-02"/>
+    <cosponsor id="400635" joined="2010-02-02"/>
+    <cosponsor id="400295" joined="2010-03-03"/>
+    <cosponsor id="412331" joined="2010-02-02"/>
+    <cosponsor id="400423" joined="2010-02-02"/>
+    <cosponsor id="412239" joined="2010-02-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-11-17">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2010-03-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-03-04">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2010-03-11T14:19:00-05:00">
+      <text>Reported by the Committee on Oversight and Government. H. Rept. 111-431.</text>
+    </action>
+    <calendar datetime="2010-03-11T14:19:00-05:00" calendar="Union" number="247">
+      <text>Placed on the Union Calendar, Calendar No. 247.</text>
+    </calendar>
+    <action datetime="2010-03-23T15:49:00-04:00">
+      <text>Mr. Towns moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-03-23T15:49:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2237-2239" label="consideration"/>
+    </action>
+    <action datetime="2010-03-23T15:49:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4098.</text>
+    </action>
+    <action datetime="2010-03-23T15:57:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-03-24T15:37:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2299" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-03-24T15:46:00-04:00" how="roll" result="pass" roll="183" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 13, 1 Present (Roll no. 183).</text>
+      <reference ref="CR 3/23/2010 H2237-2238" label="text "/>
+    </vote>
+    <action datetime="2010-03-25">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, Reporting"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="3484"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Computers and information technology"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government information and archives"/>
+    <term name="Internet and video services"/>
+    <term name="Office of Management and Budget (OMB)"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/2010--Passed House amended.
+Secure Federal File Sharing Act - Requires the Director of the Office of Management and Budget (OMB) to issue guidance to: (1) prohibit the download, installation, or use by government employees and contractors of open-network peer-to-peer file sharing software on all federal computers, computer systems, and networks, unless approved in accordance with procedures under this Act; and (2) address the download, installation, or use by government employees and contractors of such software on home or personal computers as it relates to telework and remotely accessing federal computers, computer systems, and networks.Requires the Director to develop a procedure for receiving requests from heads or chief information officers of agencies for approval for use by government employees and contractors of specific open-network peer-to-peer file sharing software programs that are: (1) necessary for day-to-day business operations, for use in the course of a law enforcement investigation, or to perform official agency business; or (2) instrumental in completing a particular task or project that directly supports the agency's overall mission.Requires the Director to direct agencies to: (1) establish or update personal use policies to be consistent with the guidance issued under this Act; (2) require contracts to require contractor compliance with that guidance; (3) update their information technology security or ethics training policies to ensure that all employees are aware of the requirements of that guidance and the consequences of engaging in prohibited conduct; and (4) ensure that proper security controls are in place to prevent, detect, and remove file sharing software that is prohibited.Requires the Director to report annually to specified congressional committees, including: (1) a justification for each open-network peer-to-peer file sharing software program that is approved under this Act; and (2) an inventory of the agencies where such programs are being used.Requires the budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, to be determined by reference to the latest statement titled "Budgetary Effects of PAYGO Legislation" for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.</summary>
+</bill>

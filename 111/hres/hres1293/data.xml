@@ -1,0 +1,59 @@
+<bill session="111" type="hr" number="1293" updated="2013-07-19T23:07:20-04:00">
+  <state datetime="2010-04-27T14:09:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2010-04-27T14:09:00-04:00"/>
+  </status>
+  <introduced datetime="2010-04-22"/>
+  <titles>
+    <title as="introduced" type="official">Expressing support for the goals and ideals of National Child Abuse Prevention Month.</title>
+  </titles>
+  <sponsor id="400027"/>
+  <cosponsors>
+    <cosponsor id="400419" joined="2010-04-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-04-22">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2010-04-27T14:02:00-04:00">
+      <text>Ms. Woolsey moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2010-04-27T14:02:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2898-2899" label="consideration"/>
+    </action>
+    <action datetime="2010-04-27T14:02:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1293.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2010-04-27T14:09:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H2898" label="text"/>
+    </vote>
+    <action datetime="2010-04-27T14:09:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-05-27">
+      <text>Referred to the Subcommittee on Healthy Families and Communities.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral"/>
+    <committee activity="Referral" code="HSED04" subcommittee="Healthy Families and Communities" name="House Education and Labor"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hr" number="337"/>
+    <bill relation="unknown" session="111" type="sr" number="498"/>
+  </relatedbills>
+  <subjects>
+    <term name="Families"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Crime prevention"/>
+    <term name="Crimes against children"/>
+    <term name="Domestic violence and child abuse"/>
+  </subjects>
+  <amendments/>
+  <summary>4/27/2010--Passed House amended.
+Supports the goals and ideals of National Child Abuse Prevention Month.</summary>
+</bill>

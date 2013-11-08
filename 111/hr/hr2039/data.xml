@@ -1,0 +1,95 @@
+<bill session="111" type="h" number="2039" updated="2013-07-19T23:30:02-04:00">
+  <state datetime="2010-09-15T14:23:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-09-15T14:23:00-04:00"/>
+  </status>
+  <introduced datetime="2009-04-22"/>
+  <titles>
+    <title as="introduced" type="short">Congressional Made in America Promise Act of 2009</title>
+    <title as="passed house" type="short">Congressional Made in America Promise Act of 2010</title>
+    <title as="introduced" type="official">To clarify the applicability of the Buy American Act to products purchased for the use of the legislative branch, to prohibit the application of any of the exceptions to the requirements of such Act to products bearing a Congressional seal, and for other purposes.</title>
+  </titles>
+  <sponsor id="400211"/>
+  <cosponsors>
+    <cosponsor id="412208" joined="2010-09-14"/>
+    <cosponsor id="412234" joined="2010-09-14"/>
+    <cosponsor id="400080" joined="2010-09-14"/>
+    <cosponsor id="400097" joined="2010-09-14"/>
+    <cosponsor id="400100" joined="2010-09-14"/>
+    <cosponsor id="412206" joined="2010-09-14"/>
+    <cosponsor id="400133" joined="2010-09-14"/>
+    <cosponsor id="412382" joined="2010-07-21"/>
+    <cosponsor id="412204" joined="2009-04-22"/>
+    <cosponsor id="400209" joined="2010-09-14"/>
+    <cosponsor id="412287" joined="2010-09-14"/>
+    <cosponsor id="400233" joined="2010-09-14"/>
+    <cosponsor id="400630" joined="2010-09-14"/>
+    <cosponsor id="400252" joined="2010-09-14"/>
+    <cosponsor id="400274" joined="2010-09-14"/>
+    <cosponsor id="412233" joined="2010-09-14"/>
+    <cosponsor id="412304" joined="2010-09-14"/>
+    <cosponsor id="400331" joined="2010-09-14"/>
+    <cosponsor id="412313" joined="2010-09-14"/>
+    <cosponsor id="400391" joined="2010-09-14"/>
+    <cosponsor id="412228" joined="2010-07-15"/>
+    <cosponsor id="412227" joined="2010-09-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-04-22">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-04-22">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2009-04-22">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2010-09-15T10:27:00-04:00">
+      <text>Mr. Brady (PA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-09-15T10:27:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6690-6691" label="consideration"/>
+    </action>
+    <action datetime="2010-09-15T10:27:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2039.</text>
+    </action>
+    <action datetime="2010-09-15T10:37:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-09-15T13:55:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6721-6722" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-09-15T14:23:00-04:00" how="roll" result="pass" roll="521" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 36 (Roll no. 521).</text>
+      <reference ref="CR H6690" label="text"/>
+    </vote>
+    <action datetime="2010-09-15T14:23:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-09-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="4019"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Buy American requirements"/>
+    <term name="Congressional agencies"/>
+    <term name="Congressional operations and organization"/>
+    <term name="House of Representatives"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>9/15/2010--Passed House amended.
+Congressional Made in America Promise Act of 2010 - Amends the Buy American Act to apply Buy American requirements to articles, materials, and supplies acquired for the use of any legislative branch office, including the House of Representatives and the Senate, in the same manner as the Act applies with respect to articles, materials, and supplies acquired for the use of a department or independent establishment. Prescribes a special rule in the case of any product which bears a congressional official insignia (including a mark resembling an official seal) that is acquired for the use of a legislative branch office. Prohibits the head of such office from making a determination under the Act that: (1) it is inconsistent with the public interest to enter into a contract in accordance with the Act; or (2) an article, material, or supply is not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities and of satisfactory quality. Applies this prohibition to otherwise exempted manufactured articles, materials, or supplies procured under any contract the award value of which is less than or equal to the micro-purchase threshold.</summary>
+</bill>

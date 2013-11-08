@@ -1,0 +1,48 @@
+<bill session="111" type="sr" number="70" updated="2013-07-20T00:16:55-04:00">
+  <state datetime="2009-03-11">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2009-03-11"/>
+  </status>
+  <introduced datetime="2009-03-09"/>
+  <titles>
+    <title as="introduced" type="official">A resolution congratulating the people of the Republic of Lithuania on the 1000th anniversary of Lithuania and celebrating the rich history of Lithuania.</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors>
+    <cosponsor id="300016" joined="2009-03-10"/>
+    <cosponsor id="300043" joined="2009-03-09"/>
+    <cosponsor id="400621" joined="2009-03-11"/>
+    <cosponsor id="300098" joined="2009-03-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-09">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S2913-2914" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2009-03-11">
+      <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+      <reference ref="CR S3033-3034" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2009-03-11" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S3034" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="hr" number="285"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Europe"/>
+    <term name="Human rights"/>
+    <term name="Lithuania"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/2009--Passed Senate without amendment.
+Congratulates the people of the Republic of Lithuania on the 1000th anniversary of Lithuania. Commends the government of Lithuania for its success in implementing political, social, and economic reforms. Recognizes the close relationship between the U.S. government and the government of Lithuania.</summary>
+</bill>

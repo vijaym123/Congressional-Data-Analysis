@@ -1,0 +1,46 @@
+<bill session="111" type="h" number="3220" updated="2013-07-19T23:41:06-04:00">
+  <state datetime="2009-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2009-07-15"/>
+  </status>
+  <introduced datetime="2009-07-15"/>
+  <titles>
+    <title as="introduced" type="short">Medicare Home Oxygen Therapy Act of 2009</title>
+    <title as="introduced" type="official">To amend title XVIII of the Social Security Act to reform Medicare coverage and reimbursement for home oxygen therapy services.</title>
+  </titles>
+  <sponsor id="400345"/>
+  <cosponsors>
+    <cosponsor id="400026" joined="2009-09-14"/>
+    <cosponsor id="400270" joined="2009-07-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-15">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-07-15">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-07-15">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2009-07-16">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cardiovascular and respiratory health"/>
+    <term name="Home and outpatient care"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>7/15/2009--Introduced.
+Medicare Home Oxygen Therapy Act of 2009 - Amends title XVIII (Medicare) of the Social Security Act to revise Medicare coverage and reimbursement requirements for home oxygen therapy services, providing separate coverage of home oxygen therapy services and payment for such services based on a single bundled payment rate.</summary>
+</bill>

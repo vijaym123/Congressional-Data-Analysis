@@ -1,0 +1,62 @@
+<bill session="113" type="h" number="3034" updated="2013-11-02T06:44:33-04:00">
+  <state datetime="2013-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-02"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="short" as="introduced">National Flood Research and Education Center Act</title>
+    <title type="official" as="introduced">To establish a National Flood Research and Education Center to provide research, data, and recommendations on physical science, social science, economic analysis, policy analysis, risk analysis, monitoring, predicting, and planning as they relate to flooding and flood related issues.</title>
+  </titles>
+  <sponsor id="412209"/>
+  <cosponsors>
+    <cosponsor id="400008" joined="2013-08-02"/>
+    <cosponsor id="412208" joined="2013-08-02"/>
+    <cosponsor id="400081" joined="2013-08-02"/>
+    <cosponsor id="400195" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2013-08-05">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2013-09-24">
+      <text>Referred to the Subcommittee on Environment.</text>
+      <committee name="House Science, Space, and Technology"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee activity="Referral" code="HSSY18" subcommittee="Environment" name="House Science, Space, and Technology"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Atmospheric science and weather"/>
+    <term name="Department of Commerce"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Floods and storm protection"/>
+    <term name="Government information and archives"/>
+    <term name="Higher education"/>
+    <term name="Hydrology and hydrography"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Policy sciences"/>
+    <term name="Public-private cooperation"/>
+    <term name="Research administration and funding"/>
+    <term name="Social sciences and history"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+</bill>

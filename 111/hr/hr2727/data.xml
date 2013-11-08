@@ -1,0 +1,49 @@
+<bill session="111" type="h" number="2727" updated="2013-07-19T23:36:22-04:00">
+  <state datetime="2009-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2009-06-04"/>
+  </status>
+  <introduced datetime="2009-06-04"/>
+  <titles>
+    <title as="introduced" type="short">Financial Transparency Restoration Act</title>
+    <title as="introduced" type="official">To provide for the implementation of a system under which each financial institution will report on the financial condition of the institution to the public, and for other purposes.</title>
+  </titles>
+  <sponsor id="400209"/>
+  <cosponsors>
+    <cosponsor id="400118" joined="2009-10-01"/>
+    <cosponsor id="400207" joined="2009-07-31"/>
+    <cosponsor id="400630" joined="2009-10-01"/>
+    <cosponsor id="400280" joined="2009-10-01"/>
+    <cosponsor id="400344" joined="2010-05-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-04">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-06-04">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2009-06-04">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2010-06-22">
+      <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+      <committee name="House Agriculture"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG16" subcommittee="General Farm Commodities and Risk Management" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="News media and reporting"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/2009--Introduced.
+Financial Transparency Restoration Act - Requires each financial institution to publish, within 30 days after the end of each fiscal quarter, a statement of its financial condition in a newspaper of general paid circulation published in a city or county within each of its market areas. Requires such financial statements to include a written verification of the accuracy of the statement, under oath or by affirmation, by the president of the financial institution or another officer designated by its board of directors.</summary>
+</bill>

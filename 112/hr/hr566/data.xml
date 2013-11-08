@@ -1,0 +1,51 @@
+<bill session="112" type="h" number="566" updated="2013-07-20T01:15:11-04:00">
+  <state datetime="2011-02-09">REFERRED</state>
+  <status>
+    <introduced datetime="2011-02-09"/>
+  </status>
+  <introduced datetime="2011-02-09"/>
+  <titles>
+    <title as="introduced" type="official">To close the National Drug Intelligence Center.</title>
+  </titles>
+  <sponsor id="400039"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2011-02-09">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Armed Services, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-02-09">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2011-02-09">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2011-02-09">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="2011-02-14">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Defense spending"/>
+    <term name="Department of Justice"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Pennsylvania"/>
+  </subjects>
+  <amendments/>
+  <summary>2/9/2011--Introduced.
+Prohibits the Attorney General or Secretary of Defense (DOD) from obligating funds for the National Drug Intelligence Center in Johnstown, Pennsylvania, except for activities related to its permanent closing and relocation of activities, as determined necessary by the Attorney General in consultation with the appropriate federal agencies.</summary>
+</bill>

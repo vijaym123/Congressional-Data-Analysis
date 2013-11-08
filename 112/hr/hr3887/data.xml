@@ -1,0 +1,50 @@
+<bill session="112" type="h" number="3887" updated="2013-07-20T01:43:45-04:00">
+  <state datetime="2012-02-02">REFERRED</state>
+  <status>
+    <introduced datetime="2012-02-02"/>
+  </status>
+  <introduced datetime="2012-02-02"/>
+  <titles>
+    <title as="introduced" type="official">To provide increased funding for the reinsurance for early retirees program.</title>
+  </titles>
+  <sponsor id="400184"/>
+  <cosponsors>
+    <cosponsor id="412193" joined="2012-02-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-02-02">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2012-02-02">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2012-02-02">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2012-02-10">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2012-03-29">
+      <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+      <committee name="House Education and the Workforce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Health, Employment, Labor, and Pensions" name="House Education and the Workforce"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="1088"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/2012--Introduced.
+Retiree Health Coverage Protection Act - Amends the Patient Protection and Affordable Care Act to increase from $5 billion to $10 billion the amount appropriated to the Secretary of Health and Human Services (HHS) for the temporary reinsurance program to reimburse participating employment-based group health benefits plans for a portion of the cost of providing health insurance coverage to early retirees (and their eligible spouses and dependents) between establishment of the program and January 1, 2014.</summary>
+</bill>

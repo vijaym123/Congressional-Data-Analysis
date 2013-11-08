@@ -1,0 +1,60 @@
+<bill session="112" type="hc" number="90" updated="2013-07-20T02:09:45-04:00">
+  <state datetime="2012-07-26">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2012-07-26"/>
+  </status>
+  <introduced datetime="2011-11-18"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the printing of the 25th edition of the pocket version of the United States Constitution.</title>
+  </titles>
+  <sponsor id="412280"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2011-11-18">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2012-02-01T13:36:00-05:00">
+      <text>Mr. Lungren, Daniel E. asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2012-02-01T13:36:00-05:00">
+      <text>Committee on House Administration discharged.</text>
+    </action>
+    <action datetime="2012-02-01T13:36:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H314" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-02-01T13:36:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H314" label="text"/>
+    </vote>
+    <action datetime="2012-02-01T13:36:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-02-02">
+      <text>Received in the Senate and referred to the Committee on Rules and Administration.</text>
+    </action>
+    <action datetime="2012-07-26">
+      <text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text>
+      <reference ref="CR S5627-5628" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2012-07-26" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2012-07-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Discharged"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Government information and archives"/>
+  </subjects>
+  <amendments/>
+  <summary>7/26/2012--Passed Senate without amendment.
+Authorizes the printing as a Senate document of the 25th edition of the pocket version of the U.S. Constitution. Prescribes requirements in each chamber for distribution of copies of the printed document for their respective use.</summary>
+</bill>

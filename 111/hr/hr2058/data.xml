@@ -1,0 +1,80 @@
+<bill session="111" type="h" number="2058" updated="2013-07-19T23:30:14-04:00">
+  <state datetime="2009-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="2009-04-23"/>
+  </status>
+  <introduced datetime="2009-04-23"/>
+  <titles>
+    <title as="introduced" type="short">Post-Deployment Health Assessment Act of 2009</title>
+    <title as="introduced" type="official">To require mental health screenings for members of the Armed Forces who are deployed in connection with a contingency operation, and for other purposes.</title>
+  </titles>
+  <sponsor id="400335"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2009-07-31"/>
+    <cosponsor id="400041" joined="2009-06-26"/>
+    <cosponsor id="400043" joined="2009-09-08"/>
+    <cosponsor id="400046" joined="2009-05-18"/>
+    <cosponsor id="400047" joined="2009-05-06"/>
+    <cosponsor id="400051" joined="2009-06-09"/>
+    <cosponsor id="412258" joined="2009-09-25"/>
+    <cosponsor id="400068" joined="2009-09-14"/>
+    <cosponsor id="400128" joined="2009-05-12"/>
+    <cosponsor id="400140" joined="2009-07-16"/>
+    <cosponsor id="400155" joined="2009-06-03"/>
+    <cosponsor id="412222" joined="2009-05-12"/>
+    <cosponsor id="400178" joined="2009-05-18"/>
+    <cosponsor id="412220" joined="2009-06-23"/>
+    <cosponsor id="400184" joined="2009-07-23"/>
+    <cosponsor id="400196" joined="2009-07-31"/>
+    <cosponsor id="400234" joined="2009-06-09"/>
+    <cosponsor id="400244" joined="2009-05-12"/>
+    <cosponsor id="400245" joined="2009-09-29"/>
+    <cosponsor id="412299" joined="2009-05-18"/>
+    <cosponsor id="412190" joined="2009-07-29"/>
+    <cosponsor id="400266" joined="2009-07-07"/>
+    <cosponsor id="400271" joined="2009-06-26"/>
+    <cosponsor id="400312" joined="2009-09-08"/>
+    <cosponsor id="400316" joined="2009-05-21"/>
+    <cosponsor id="412310" joined="2009-05-06"/>
+    <cosponsor id="400346" joined="2009-07-23"/>
+    <cosponsor id="412232" joined="2009-09-14"/>
+    <cosponsor id="400391" joined="2009-07-27"/>
+    <cosponsor id="400400" joined="2009-07-31"/>
+    <cosponsor id="400403" joined="2009-04-23"/>
+    <cosponsor id="412318" joined="2009-07-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-04-23">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-04-23">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2009-04-23">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2009-04-24">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="711"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Mental health"/>
+    <term name="Military medicine"/>
+    <term name="Military operations and strategy"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2009--Introduced.
+Post-Deployment Health Assessment Act of 2009 - Directs the Secretary of Defense to issue guidance for the provision of an in-person mental health screening for each member of the Armed Forces deployed in connection with a contingency operation, in order to identify post-traumatic stress disorder (PTSD), suicidal tendencies, and other behavioral health issues for which additional care and treatment may be necessary. Excludes from such screenings members not subjected or exposed to combat stress during their deployment. Requires the Secretary to share screening results with the Secretary of Veterans Affairs in order to ensure continuity of mental health care and treatment for such members during their transition from health care and treatment provided by the Department of Defense (DOD) to health care and treatment provided by the Department of Veterans Affairs (VA).</summary>
+</bill>

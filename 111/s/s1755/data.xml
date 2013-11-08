@@ -1,0 +1,64 @@
+<bill session="111" type="s" number="1755" updated="2013-07-20T00:39:30-04:00">
+  <state datetime="2009-12-14">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2009-12-14"/>
+  </status>
+  <introduced datetime="2009-10-06"/>
+  <titles>
+    <title as="introduced" type="short">Amateur Radio Emergency Communications Enhancement Act of 2009</title>
+    <title as="reported to senate" type="short">Amateur Radio Emergency Communications Enhancement Act of 2009</title>
+    <title as="passed senate" type="short">Amateur Radio Emergency Communications Enhancement Act of 2009</title>
+    <title as="introduced" type="official">A bill to direct the Department of Homeland Security to undertake a study on emergency communications.</title>
+  </titles>
+  <sponsor id="300067"/>
+  <cosponsors>
+    <cosponsor id="300025" joined="2009-10-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-10-06">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2009-11-04">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2009-12-10">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 111-105.</text>
+    </action>
+    <calendar datetime="2009-12-10" calendar="Senate Legislative" under="General Orders" number="224">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 224.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2009-12-14" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S13201" label="consideration"/>
+      <reference ref="CR S13201" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2009-12-15T10:02:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2009-12-15">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2009-12-15">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="2160"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Broadcasting, cable, digital technologies"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Emergency communications systems"/>
+    <term name="Government studies and investigations"/>
+    <term name="Land use and conservation"/>
+  </subjects>
+  <amendments/>
+  <summary>12/14/2009--Passed Senate without amendment.
+Amateur Radio Emergency Communications Enhancement Act of 2009 - Directs the Secretary of Homeland Security: (1) to study and report to Congress on the uses and capabilities of Amateur Radio Service communications in emergencies and disaster relief; and (2) in conducting the study, to utilize the expertise of stakeholder entities and organizations, including the amateur radio, emergency response, and disaster communications communities.Requires the study to: (1) include a review of the importance of amateur radio emergency communications in furtherance of homeland security missions relating to disasters, severe weather, and other threats to lives and property in the United States, as well as recommendations for enhancements in the voluntary deployment of amateur radio licensees and improved integration of amateur radio operators in the planning and furtherance of Department of Homeland Security (DHS) initiatives; and (2) identify impediments to enhanced Amateur Radio Service communications and make recommendations regarding such impediments.</summary>
+</bill>

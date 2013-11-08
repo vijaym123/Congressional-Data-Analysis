@@ -1,0 +1,53 @@
+<bill session="111" type="sr" number="618" updated="2013-07-20T00:21:42-04:00">
+  <state datetime="2010-09-27">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2010-09-27"/>
+  </status>
+  <introduced datetime="2010-09-14"/>
+  <titles>
+    <title as="introduced" type="official">A resolution designating October 2010 as "National Work and Family Month".</title>
+  </titles>
+  <sponsor id="300068"/>
+  <cosponsors>
+    <cosponsor id="300025" joined="2010-09-15"/>
+    <cosponsor id="300030" joined="2010-09-14"/>
+    <cosponsor id="300034" joined="2010-09-14"/>
+    <cosponsor id="400194" joined="2010-09-22"/>
+    <cosponsor id="300061" joined="2010-09-14"/>
+    <cosponsor id="300063" joined="2010-09-14"/>
+    <cosponsor id="412325" joined="2010-09-14"/>
+    <cosponsor id="300076" joined="2010-09-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-09-14">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S7093" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2010-09-27">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2010-09-27" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S7562-7563" label="consideration"/>
+      <reference ref="CR S7562-7563" label="text as passed Senate"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hr" number="768"/>
+    <bill relation="unknown" session="111" type="hr" number="1598"/>
+    <bill relation="unknown" session="111" type="sr" number="296"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Employee leave"/>
+    <term name="Family relationships"/>
+    <term name="Worker safety and health"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/2010--Passed Senate without amendment.
+Designates October 2010 as National Work and Family Month. Recognizes the importance of work schedules that allow employees to spend time with their families to job productivity and to healthy families. Urges public officials, employers, employees, and the general public to work together to achieve more balance between work and family.</summary>
+</bill>

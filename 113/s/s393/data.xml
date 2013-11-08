@@ -1,0 +1,68 @@
+<bill session="113" type="s" number="393" updated="2013-11-02T06:55:29-04:00">
+  <state datetime="2013-06-19">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2013-06-19"/>
+  </status>
+  <introduced datetime="2013-02-27"/>
+  <titles>
+    <title type="short" as="introduced">White Clay Creek Wild and Scenic River Expansion Act of 2013</title>
+    <title type="short" as="reported to senate">White Clay Creek Wild and Scenic River Expansion Act of 2013</title>
+    <title type="short" as="passed senate">White Clay Creek Wild and Scenic River Expansion Act of 2013</title>
+    <title type="official" as="introduced">A bill to designate additional segments and tributaries of White Clay Creek, in the States of Delaware and Pennsylvania, as a component of the National Wild and Scenic Rivers System.</title>
+  </titles>
+  <sponsor id="412390"/>
+  <cosponsors>
+    <cosponsor id="300019" joined="2013-02-27"/>
+    <cosponsor id="412246" joined="2013-04-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <calendar datetime="2013-03-14" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2013-04-22">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-31.</text>
+    </action>
+    <calendar datetime="2013-04-22" calendar="Senate Legislative" under="General Orders" number="62">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 62.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2013-06-19" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4717-4722" label="consideration"/>
+      <reference ref="CR S4721" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2013-06-20T14:00:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2013-06-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2013-06-20">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-06-21">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="869"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Delaware"/>
+    <term name="Pennsylvania"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+  <summary>6/19/2013--Passed Senate without amendment.
+White Clay Creek Wild and Scenic River Expansion Act of 2013 - Amends the Wild and Scenic Rivers Act to designate additional segments and tributaries of the White Clay Creek in Delaware and Pennsylvania as components of the National Wild and Scenic Rivers System. Applies the White Clay Creek Wild and Scenic Rivers System Act to such additional segments and tributaries of White Clay Creek.</summary>
+</bill>

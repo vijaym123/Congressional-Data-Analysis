@@ -1,0 +1,101 @@
+<bill session="111" type="h" number="5877" updated="2013-07-20T00:05:39-04:00">
+  <state datetime="2011-01-04">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2011-01-04"/>
+  </status>
+  <introduced datetime="2010-07-27"/>
+  <titles>
+    <title as="introduced" type="official">To designate the facility of the United States Postal Service located at 655 Centre Street in Jamaica Plain, Massachusetts, as the "Lance Corporal Alexander Scott Arredondo, United States Marine Corps Post Office Building".</title>
+  </titles>
+  <sponsor id="400063"/>
+  <cosponsors>
+    <cosponsor id="400102" joined="2010-07-28"/>
+    <cosponsor id="400140" joined="2010-07-28"/>
+    <cosponsor id="400249" joined="2010-07-28"/>
+    <cosponsor id="400253" joined="2010-07-28"/>
+    <cosponsor id="400263" joined="2010-07-28"/>
+    <cosponsor id="400291" joined="2010-07-28"/>
+    <cosponsor id="400301" joined="2010-07-28"/>
+    <cosponsor id="400407" joined="2010-07-28"/>
+    <cosponsor id="412254" joined="2010-07-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-27">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2010-09-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-09-23">
+      <text>Ordered to be Reported.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2010-11-29T14:32:00-05:00">
+      <text>Mr. Clay moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-11-29T14:32:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7621-7622" label="consideration"/>
+    </action>
+    <action datetime="2010-11-29T14:32:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5877.</text>
+    </action>
+    <action datetime="2010-11-29T14:40:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-11-29T18:03:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7624-7625" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-11-29T18:30:00-05:00" how="roll" result="pass" roll="581" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 366 - 0 (Roll no. 581).</text>
+      <reference ref="CR H7621" label="text"/>
+    </vote>
+    <action datetime="2010-11-29T18:30:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-11-30">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2010-12-16">
+      <text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2010-12-16" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S10365-10366" label="consideration"/>
+      <reference ref="CR S10366" label="text as passed Senate"/>
+    </vote>
+    <topresident datetime="2010-12-16">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2010-12-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2010-12-28">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2011-01-04">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2011-01-04" type="public" number="111-365">
+      <text>Became Public Law No: 111-365.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Massachusetts"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>1/4/2011--Public Law.
+Designates the facility of the United States Postal Service located at 655 Centre Street in Jamaica Plain, Massachusetts, as the "Lance Corporal Alexander Scott Arredondo, United States Marine Corps Post Office Building."</summary>
+</bill>

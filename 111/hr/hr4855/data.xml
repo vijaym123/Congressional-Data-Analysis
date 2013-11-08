@@ -1,0 +1,65 @@
+<bill session="111" type="h" number="4855" updated="2013-07-19T23:56:15-04:00">
+  <state datetime="2010-06-15T15:44:00-04:00">PROV_KILL:SUSPENSIONFAILED</state>
+  <status>
+    <unknown datetime="2010-06-15T15:44:00-04:00"/>
+  </status>
+  <introduced datetime="2010-03-16"/>
+  <titles>
+    <title as="introduced" type="short">Work-Life Balance Award Act</title>
+    <title as="introduced" type="official">To establish the Work-Life Balance Award for employers that have developed and implemented work-life balance policies.</title>
+  </titles>
+  <sponsor id="400436"/>
+  <cosponsors>
+    <cosponsor id="400278" joined="2010-03-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-03-16">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2010-03-22">
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+    <action datetime="2010-04-22">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+    <action datetime="2010-06-15T14:41:00-04:00">
+      <text>Ms. Woolsey moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-06-15T14:41:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4463-4466" label="consideration"/>
+      <reference ref="CR H4463-4464" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2010-06-15T14:41:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4855.</text>
+    </action>
+    <action datetime="2010-06-15T14:55:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-06-15T15:36:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4468-4469" label="consideration"/>
+    </action>
+    <vote state="PROV_KILL:SUSPENSIONFAILED" datetime="2010-06-15T15:44:00-04:00" how="roll" result="fail" roll="360" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 249 - 163 (Roll no. 360).</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral"/>
+    <committee activity="Referral, Hearings" code="HSED10" subcommittee="Workforce Protections" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Advisory bodies"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Employee leave"/>
+    <term name="Labor standards"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/2010--Introduced.
+Work-Life Balance Award Act - Establishes in the Department of Labor an annual Work-Life Balance Award for employers that have developed and implemented work-life balance policies. Establishes a Work-Life Balance Advisory Board to develop criteria to determine recipients of the Award.</summary>
+</bill>

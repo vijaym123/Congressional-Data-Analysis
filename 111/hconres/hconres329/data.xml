@@ -1,0 +1,71 @@
+<bill session="111" type="hc" number="329" updated="2013-07-20T00:15:50-04:00">
+  <state datetime="2010-11-18T14:18:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-11-18T14:18:00-05:00"/>
+  </status>
+  <introduced datetime="2010-11-16"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the 35th anniversary of the enactment of the Education for All Handicapped Children Act of 1975.</title>
+  </titles>
+  <sponsor id="400278"/>
+  <cosponsors>
+    <cosponsor id="400070" joined="2010-11-16"/>
+    <cosponsor id="412204" joined="2010-11-16"/>
+    <cosponsor id="400215" joined="2010-11-16"/>
+    <cosponsor id="400216" joined="2010-11-16"/>
+    <cosponsor id="400257" joined="2010-11-16"/>
+    <cosponsor id="400659" joined="2010-11-16"/>
+    <cosponsor id="400364" joined="2010-11-16"/>
+    <cosponsor id="400415" joined="2010-11-16"/>
+    <cosponsor id="400436" joined="2010-11-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-11-16">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2010-11-16T17:45:00-05:00">
+      <text>Ms. Hirono moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2010-11-16T17:45:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7482-7484" label="consideration"/>
+    </action>
+    <action datetime="2010-11-16T17:45:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 329.</text>
+    </action>
+    <action datetime="2010-11-16T17:53:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-11-18T14:18:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7578" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-11-18T14:18:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR 11/16/2010 H7482-7483" label="text"/>
+    </vote>
+    <action datetime="2010-11-18T14:18:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-11-18">
+      <text>Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="sr" number="684"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Special education"/>
+  </subjects>
+  <amendments/>
+  <summary>11/18/2010--Passed House without amendment.
+Recognizes the 35th anniversary of the enactment of the Education for All Handicapped Children Act of 1975. Acknowledges the many and varied contributions of disabled children and their parents, teachers, related services personnel, and administrators. Reaffirms the support of Congress for the Individuals with Disabilities Education Act.</summary>
+</bill>

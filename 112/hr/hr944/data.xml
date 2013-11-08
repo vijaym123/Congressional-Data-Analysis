@@ -1,0 +1,89 @@
+<bill session="112" type="h" number="944" updated="2013-07-20T01:18:31-04:00">
+  <state datetime="2011-12-07T18:15:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2011-12-07T18:15:00-05:00"/>
+  </status>
+  <introduced datetime="2011-03-08"/>
+  <titles>
+    <title as="introduced" type="official">To eliminate an unused lighthouse reservation, provide management consistency by incorporating the rocks and small islands along the coast of Orange County, California, into the California Coastal National Monument managed by the Bureau of Land Management, and meet the original Congressional intent of preserving Orange County's rocks and small islands, and for other purposes.</title>
+  </titles>
+  <sponsor id="412011"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2011-03-08">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2011-03-10">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-05-04">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-06-15">
+      <text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-06-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-06-15">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2011-07-20T13:07:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 112-165.</text>
+    </action>
+    <calendar datetime="2011-07-20T13:07:00-04:00" calendar="Union" number="109">
+      <text>Placed on the Union Calendar, Calendar No. 109.</text>
+    </calendar>
+    <action datetime="2011-12-05T15:33:00-05:00">
+      <text>Mr. Hastings (WA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2011-12-05T15:33:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8128-8129" label="consideration"/>
+    </action>
+    <action datetime="2011-12-05T15:33:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 944.</text>
+    </action>
+    <action datetime="2011-12-05T15:36:00-05:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Lujan objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2011-12-07T18:15:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H8244" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-12-07T18:15:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR 12/05/2011 H8128" label="text"/>
+    </vote>
+    <action datetime="2011-12-07T18:15:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-12-08">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Land transfers"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Monuments and memorials"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="Pacific Ocean"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments/>
+  <summary>12/7/2011--Passed House without amendment.
+(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Removes the temporary reservation for park, scenic, or other public purposes of certain rocks, pinnacles, reefs, and islands in the Pacific Ocean within a mile of the coast of Orange County, California. Makes such rocks, pinnacles, reefs, and islands part of the California Coastal National Monument and requires that they be administered as part of the Monument. Repeals the lighthouse reservation with respect to the San Juan and San Mateo Rocks and the two rocks in the vicinity of Laguna Beach, off the coast of Orange County.</summary>
+</bill>

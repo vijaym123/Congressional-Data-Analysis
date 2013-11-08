@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="3322" updated="2013-07-19T23:42:08-04:00">
+  <state datetime="2009-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2009-07-23"/>
+  </status>
+  <introduced datetime="2009-07-23"/>
+  <titles>
+    <title as="introduced" type="short">Dairy Relief and Market Stabilization Act</title>
+    <title as="introduced" type="official">To respond to the current over-supply of milk by temporarily increasing the payment rate for payments under the milk income loss contract program and by directing the Secretary of Agriculture to facilitate the efforts of producer associations and other third parties to remove dairy cows from production, and for other purposes.</title>
+  </titles>
+  <sponsor id="412332"/>
+  <cosponsors>
+    <cosponsor id="412224" joined="2009-09-23"/>
+    <cosponsor id="412222" joined="2009-09-08"/>
+    <cosponsor id="400641" joined="2009-07-31"/>
+    <cosponsor id="412319" joined="2009-07-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-23">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2010-06-22">
+      <text>Referred to the Subcommittee on Livestock, Dairy, and Poultry.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG29" subcommittee="Livestock, Dairy, and Poultry" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="1330"/>
+    <bill relation="unknown" session="111" type="s" number="1398"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural prices, subsidies, credit"/>
+  </subjects>
+  <amendments/>
+  <summary>7/23/2009--Introduced.
+Family Dairy Preservation Act of 2009 - Amends the Food, Conservation, and Energy Act of 2008 to increase milk income loss contract payments for the period March 1, 2009-November 30, 2009. Directs the Secretary of Agriculture to: (1) determine the number of dairy cows to be removed from production to bring national milk supply and demand in line; and (2) contract with a producer association or other third party to encourage dairy producers to remove dairy cows from production.</summary>
+</bill>

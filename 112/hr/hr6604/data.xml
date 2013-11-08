@@ -1,0 +1,61 @@
+<bill session="112" type="h" number="6604" updated="2013-07-20T02:06:55-04:00">
+  <state datetime="2012-11-28T13:21:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-11-28T13:21:00-05:00"/>
+  </status>
+  <introduced datetime="2012-11-27"/>
+  <titles>
+    <title as="introduced" type="official">To designate the federal building currently known as Federal Office Building 8, located at 200 C Street Southwest in the District of Columbia, as the "Thomas P. O'Neill, Jr. Federal Building".</title>
+  </titles>
+  <sponsor id="400314"/>
+  <cosponsors>
+    <cosponsor id="400036" joined="2012-11-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-11-27">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2012-11-28">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2012-11-28T12:56:00-05:00">
+      <text>Mr. Denham moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-11-28T12:57:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6474-6477" label="consideration"/>
+    </action>
+    <action datetime="2012-11-28T12:57:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6604.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-11-28T13:21:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6474" label="text"/>
+    </vote>
+    <action datetime="2012-11-28T13:21:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-11-29">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="3687"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="District of Columbia"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="House of Representatives"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>11/27/2012--Introduced.
+Designates the federal building currently known as Federal Office Building 8, located at 200 C Street SW in the District of Columbia, as the "Thomas P. O'Neill, Jr. Federal Building."</summary>
+</bill>

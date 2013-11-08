@@ -1,0 +1,77 @@
+<bill session="111" type="h" number="3632" updated="2013-07-19T23:44:54-04:00">
+  <state datetime="2009-10-28T13:00:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-10-28T13:00:00-04:00"/>
+  </status>
+  <introduced datetime="2009-09-23"/>
+  <titles>
+    <title as="introduced" type="short">Federal Judiciary Administrative Improvements Act of 2009</title>
+    <title as="passed house" type="short">Federal Judiciary Administrative Improvements Act of 2009</title>
+    <title as="introduced" type="official">To provide improvements for the operations of the Federal courts, and for other purposes.</title>
+  </titles>
+  <sponsor id="412199"/>
+  <cosponsors>
+    <cosponsor id="400076" joined="2009-09-23"/>
+    <cosponsor id="400080" joined="2009-09-23"/>
+    <cosponsor id="400381" joined="2009-09-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-09-23">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E2342"/>
+    </action>
+    <action state="REFERRED" datetime="2009-09-23">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2009-10-19">
+      <text>Referred to the Subcommittee on Courts and Competition Policy.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2009-10-28T12:54:00-04:00">
+      <text>Mr. Cohen moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-10-28T12:55:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H12006-12008" label="consideration"/>
+    </action>
+    <action datetime="2009-10-28T12:55:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3632.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-10-28T13:00:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H12006-2007" label="text"/>
+    </vote>
+    <action datetime="2009-10-28T13:00:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-10-28">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts and Competition Policy" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="1782"/>
+    <bill relation="unknown" session="111" type="s" number="1782"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Administrative remedies"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Federal district courts"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Judges"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Juvenile crime and gang violence"/>
+    <term name="Lawyers and legal services"/>
+    <term name="North Dakota"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>10/28/2009--Passed House without amendment.
+Federal Judiciary Administrative Improvements Act of 2009 - Amends the federal judicial code to: (1) remove the power of certain active or retired federal judges to appoint U.S. magistrate judges; (2) revise the statutory description of the District of North Dakota to eliminate the current four divisions each of which holds court exclusively for specified counties; (3) revise requirements for the disability retirement and cost-of-living adjustments of annuities for territorial judges; and (4) revise requirements for the compensation of Federal Judicial Center personnel, including reemployed annuitants. Amends federal civil service law to subject judicial branch senior executives to federal civil service annual leave requirements and limitations. Amends the federal criminal code to: (1) require court use of separate judgment and statement of reasons forms in the imposition of a criminal sentence; (2) require appropriate adaptation of pretrial services functions for juveniles; (3) modify the reporting schedule for criminal wiretap orders; and (4) increase the compensation thresholds triggering administrative review of compensation for non-counsel investigative, expert, or other services necessary for adequate representation of a person financially unable to obtain them.</summary>
+</bill>

@@ -1,0 +1,59 @@
+<bill session="111" type="sc" number="65" updated="2013-07-20T00:23:06-04:00">
+  <state datetime="2010-06-30T10:43:00-04:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2010-06-30T10:43:00-04:00"/>
+  </status>
+  <introduced datetime="2010-06-29"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution providing for the use of the catafalque situated in the Exhibition Hall of the Capitol Visitor Center in connection with memorial services to be conducted in the United States Senate Chamber for the Honorable Robert C. Byrd, late a Senator from the State of West Virginia.</title>
+  </titles>
+  <sponsor id="300082"/>
+  <cosponsors>
+    <cosponsor id="300072" joined="2010-06-29"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2010-06-29" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S5630" label="consideration"/>
+      <reference ref="CR S5630" label="text as passed Senate"/>
+      <reference ref="CR S5545" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2010-06-29T20:30:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2010-06-29T20:31:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2010-06-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2010-06-30T10:42:00-04:00">
+      <text>Mr. Boccieri asked unanimous consent to take from the Speaker's table and consider.</text>
+    </action>
+    <action datetime="2010-06-30T10:42:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H5209" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2010-06-30T10:43:00-04:00" how="without objection" result="pass" type="vote2" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H5209" label="text"/>
+    </vote>
+    <action datetime="2010-06-30T10:43:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional leadership"/>
+    <term name="Congressional tributes"/>
+    <term name="Members of Congress"/>
+    <term name="Senate"/>
+    <term name="U.S. Capitol"/>
+    <term name="West Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>6/30/2010--Passed House without amendment.
+Directs the Architect of the Capitol to transfer the catafalque which is situated in the Exhibition Hall of the Capitol Visitor Center to the Senate Chamber so that it may be used in connection with services for the Honorable Robert C. Byrd, late a Senator from West Virginia.</summary>
+</bill>

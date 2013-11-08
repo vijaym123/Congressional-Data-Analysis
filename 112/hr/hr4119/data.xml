@@ -1,0 +1,135 @@
+<bill session="112" type="h" number="4119" updated="2013-07-20T01:29:53-04:00">
+  <state datetime="2012-06-05">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2012-06-05"/>
+  </status>
+  <introduced datetime="2012-03-01"/>
+  <titles>
+    <title as="introduced" type="short">Border Tunnel Prevention Act of 2012</title>
+    <title as="reported to house" type="short">Border Tunnel Prevention Act of 2012</title>
+    <title as="passed house" type="short">Border Tunnel Prevention Act of 2012</title>
+    <title as="passed senate" type="short">Border Tunnel Prevention Act of 2012</title>
+    <title as="enacted" partial="1" type="short">Border Tunnel Prevention Act of 2012</title>
+    <title as="introduced" type="official">To reduce the trafficking of drugs and to prevent human smuggling across the Southwest Border by deterring the construction and use of border tunnels.</title>
+  </titles>
+  <sponsor id="400337"/>
+  <cosponsors>
+    <cosponsor id="400115" joined="2012-03-01"/>
+    <cosponsor id="412398" joined="2012-03-01"/>
+    <cosponsor id="400402" joined="2012-03-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-03-01">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Ways and Means, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2012-03-01">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2012-03-01">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2012-03-01">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2012-03-05">
+      <text>Referred to the Subcommittee on Trade.</text>
+      <committee name="House Ways and Means"/>
+    </action>
+    <action datetime="2012-03-06">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-03-06">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Judiciary"/>
+    </calendar>
+    <action datetime="2012-03-06">
+      <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+      <committee name="House Homeland Security"/>
+    </action>
+    <action datetime="2012-03-21T17:51:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 112-418, Part I.</text>
+    </action>
+    <action datetime="2012-03-21T17:53:00-04:00">
+      <text>Committee on Ways and Means discharged.</text>
+    </action>
+    <action datetime="2012-03-21T17:53:00-04:00">
+      <text>Committee on Homeland Security discharged.</text>
+    </action>
+    <calendar datetime="2012-03-21T17:53:00-04:00" calendar="Union" number="288">
+      <text>Placed on the Union Calendar, Calendar No. 288.</text>
+    </calendar>
+    <action datetime="2012-05-15T16:18:00-04:00">
+      <text>Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-05-15T16:18:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2669-2673" label="consideration"/>
+    </action>
+    <action datetime="2012-05-15T16:18:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4119.</text>
+    </action>
+    <action datetime="2012-05-15T16:33:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2012-05-16T15:11:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2744-2745" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-05-16T15:19:00-04:00" how="roll" result="pass" roll="256" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 4 (Roll no. 256).</text>
+      <reference ref="CR 5/15/2012 H2669-2670" label="text"/>
+    </vote>
+    <action datetime="2012-05-16T15:19:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2012-05-17" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S3292" label="consideration"/>
+    </vote>
+    <action datetime="2012-05-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2012-05-29">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2012-06-05">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2012-06-05" type="public" number="112-127">
+      <text>Became Public Law No: 112-127.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSHM11" subcommittee="Border and Maritime Security" name="House Homeland Security"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="2264"/>
+    <bill relation="unknown" session="112" type="s" number="1236"/>
+    <bill relation="unknown" session="112" type="s" number="1236"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Congressional oversight"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Firearms and explosives"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Homeland security"/>
+    <term name="Human trafficking"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Latin America"/>
+    <term name="Mexico"/>
+    <term name="Organized crime"/>
+    <term name="Smuggling and trafficking"/>
+  </subjects>
+  <amendments/>
+  <summary>6/5/2012--Public Law.
+Border Tunnel Prevention Act of 2012 - Amends the federal criminal code to: (1) subject anyone who attempts or conspires to construct or finance construction of an unauthorized tunnel or subterranean passage that crosses the international border between the United States and another country, or to use such a tunnel for smuggling, to the penalties prescribed for someone who commits such an offense; (2) make such a border tunnel offense a predicate offense for a money laundering violation and for authorization for interception of wire, oral, or electronic communications; and (3) provide for the criminal forfeiture of proceeds of such an offense and the seizure and forfeiture of merchandise introduced into the United States through such a tunnel. Expresses the sense of Congress that the Department of Homeland Security (DHS) should continue outreach efforts to educate landowners and tenants in areas along the border between Mexico and the United States about cross-border tunnels and seek their assistance in combating tunnel construction. Requires the Secretary of Homeland Security to submit an annual report describing: (1) cross-border tunnels along the U.S.-Mexico border discovered during the preceding fiscal year; and (2) the needs of DHS to effectively prevent, investigate, and prosecute construction of such tunnels.</summary>
+</bill>

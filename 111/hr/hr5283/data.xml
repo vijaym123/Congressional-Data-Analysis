@@ -1,0 +1,124 @@
+<bill session="111" type="h" number="5283" updated="2013-07-19T23:53:59-04:00">
+  <state datetime="2010-12-09">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2010-12-09"/>
+  </status>
+  <introduced datetime="2010-05-12"/>
+  <titles>
+    <title as="introduced" type="short">Help HAITI Act of 2010</title>
+    <title as="introduced" type="short">Help Haitian Adoptees Immediately to Integrate Act of 2010</title>
+    <title as="passed house" type="short">Help HAITI Act of 2010</title>
+    <title as="passed house" type="short">Help Haitian Adoptees Immediately to Integrate Act of 2010</title>
+    <title as="passed senate" type="short">Help HAITI Act of 2010</title>
+    <title as="passed senate" type="short">Help Haitian Adoptees Immediately to Integrate Act of 2010</title>
+    <title as="enacted" type="short">Help HAITI Act of 2010</title>
+    <title as="enacted" type="short">Help Haitian Adoptees Immediately to Integrate Act of 2010</title>
+    <title as="introduced" type="official">To provide for adjustment of status for certain Haitian orphans paroled into the United States after the earthquake of January 12, 2010.</title>
+  </titles>
+  <sponsor id="400640"/>
+  <cosponsors>
+    <cosponsor id="400051" joined="2010-06-17"/>
+    <cosponsor id="412268" joined="2010-05-28"/>
+    <cosponsor id="412269" joined="2010-05-28"/>
+    <cosponsor id="412221" joined="2010-07-20"/>
+    <cosponsor id="400080" joined="2010-07-13"/>
+    <cosponsor id="400618" joined="2010-05-28"/>
+    <cosponsor id="400147" joined="2010-07-01"/>
+    <cosponsor id="400209" joined="2010-05-28"/>
+    <cosponsor id="412256" joined="2010-05-28"/>
+    <cosponsor id="400245" joined="2010-07-13"/>
+    <cosponsor id="400617" joined="2010-05-28"/>
+    <cosponsor id="400284" joined="2010-07-20"/>
+    <cosponsor id="400333" joined="2010-05-27"/>
+    <cosponsor id="400380" joined="2010-05-28"/>
+    <cosponsor id="400381" joined="2010-05-27"/>
+    <cosponsor id="400400" joined="2010-05-28"/>
+    <cosponsor id="400414" joined="2010-06-17"/>
+    <cosponsor id="400440" joined="2010-05-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-05-12">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2010-06-15">
+      <text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2010-07-20T18:34:00-04:00">
+      <text>Ms. Lofgren, Zoe moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-07-20T18:34:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5785-5787" label="consideration"/>
+    </action>
+    <action datetime="2010-07-20T18:34:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5283.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-07-20T18:43:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5785" label="text"/>
+    </vote>
+    <action datetime="2010-07-20T18:43:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-07-21">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2010-08-04">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S6740" label="consideration"/>
+    </action>
+    <vote state="PASS_BACK:SENATE" datetime="2010-08-04" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2010-08-05">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2010-12-01T15:58:00-05:00">
+      <text>Mr. Conyers moved that the House suspend the rules and agree to the Senate amendment.</text>
+      <reference ref="CR H7819-7821" label="consideration"/>
+    </action>
+    <action datetime="2010-12-01T15:58:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5283.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2010-12-01T16:15:00-05:00" how="by voice vote" result="pass" type="pingpong" where="h">
+      <text>On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.</text>
+      <reference ref="CR H7819" label="text as House agreed to Senate amendment"/>
+    </vote>
+    <action datetime="2010-12-01T16:15:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2010-12-01">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2010-12-03">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2010-12-09">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2010-12-09" type="public" number="111-293">
+      <text>Became Public Law No: 111-293.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Citizenship, Refugees, Border Security, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3411"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Adoption and foster care"/>
+    <term name="Caribbean area"/>
+    <term name="Haiti"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Latin America"/>
+  </subjects>
+  <amendments>
+    <amendment number="s4587"/>
+  </amendments>
+  <summary>12/9/2010--Public Law.
+Help Haitian Adoptees Immediately to Integrate Act of 2010 or Help HAITI Act of 2010 - Authorizes the Secretary of Homeland Security (DHS) to adjust to permanent resident status an alien who: (1) was granted parole admission into the United States pursuant to the humanitarian parole policy for certain Haitian orphans announced on January 18, 2010, and suspended as to new applications on April 15, 2010; (2) is physically present in the United States; (3) is admissible as an immigrant; and (4) files an application for adjustment not later than three years after enactment of this Act. Limits the number of such adjusted aliens to 1400. Excepts such aliens from certain documentation requirements. Deems such an unmarried alien who is under the age of 18 to satisfy the requirements applicable to adopted children if: (1) the alien obtained adjustment of status; and (2) a U.S. citizen adopted the alien before, on, or after the date of the decision granting adjustment of status. Prohibits any derivative immigration benefits for the birth parent of an alien adjusted under this Act. States that the budgetary effects of this Act for the purpose of Statutory Pay-As-You-Go Act of 2010 compliance shall be determined by reference to the latest statement titled "Budgetary Effects of PAYGO Legislation" for this Act, submitted for printing in the Congressional Record by the Chairman of the Senate Budget Committee, provided that such statement has been submitted prior to the vote on passage.</summary>
+</bill>

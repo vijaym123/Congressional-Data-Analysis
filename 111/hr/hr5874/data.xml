@@ -1,0 +1,76 @@
+<bill session="111" type="h" number="5874" updated="2013-07-20T00:05:37-04:00">
+  <state datetime="2010-08-10">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2010-08-10"/>
+  </status>
+  <introduced datetime="2010-07-27"/>
+  <titles>
+    <title as="introduced" type="short">United States Patent and Trademark Office Supplemental Appropriations Act, 2010</title>
+    <title as="passed house" type="short">United States Patent and Trademark Office Supplemental Appropriations Act, 2010</title>
+    <title as="passed senate" type="short">United States Patent and Trademark Office Supplemental Appropriations Act, 2010</title>
+    <title as="enacted" type="short">United States Patent and Trademark Office Supplemental Appropriations Act, 2010</title>
+    <title as="introduced" type="official">Making supplemental appropriations for the United States Patent and Trademark Office for the fiscal year ending September 30, 2010, and for other purposes.</title>
+  </titles>
+  <sponsor id="400281"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2010-07-28"/>
+    <cosponsor id="400283" joined="2010-07-28"/>
+    <cosponsor id="412233" joined="2010-07-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-27">
+      <text>Referred to the House Committee on Appropriations.</text>
+    </action>
+    <action datetime="2010-07-28T19:46:00-04:00">
+      <text>Mr. Mollohan moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-07-28T19:46:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6251-6253" label="consideration"/>
+    </action>
+    <action datetime="2010-07-28T19:46:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5874.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-07-28T20:04:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6251" label="text"/>
+    </vote>
+    <action datetime="2010-07-28T20:04:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2010-07-29" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6537-6538" label="consideration"/>
+    </vote>
+    <topresident datetime="2010-07-29">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2010-07-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2010-07-30">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2010-08-10">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2010-08-10" type="public" number="111-224">
+      <text>Became Public Law No: 111-224.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAP" name="House Appropriations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+    <term name="Census and government statistics"/>
+    <term name="Department of Commerce"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Intellectual property"/>
+  </subjects>
+  <amendments/>
+  <summary>8/10/2010--Public Law.
+United States Patent and Trademark Office Supplemental Appropriations Act, 2010 - Makes supplemental FY2010 appropriations of $129 million to the U.S. Patent and Trademark Office of the Department of Commerce. Rescinds the same amount of appropriations, currently available under the Consolidated Appropriations Act, 2010 for periodic censuses and programs, from the Bureau of the Census.</summary>
+</bill>

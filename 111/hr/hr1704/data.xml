@@ -1,0 +1,59 @@
+<bill session="111" type="h" number="1704" updated="2013-07-19T23:27:05-04:00">
+  <state datetime="2009-03-25">REFERRED</state>
+  <status>
+    <introduced datetime="2009-03-25"/>
+  </status>
+  <introduced datetime="2009-03-25"/>
+  <titles>
+    <title as="introduced" type="short">Mental Health on Campus Improvement Act</title>
+    <title as="introduced" type="official">To amend the Public Health Service Act to improve mental and behavioral health services on college campuses.</title>
+  </titles>
+  <sponsor id="400360"/>
+  <cosponsors>
+    <cosponsor id="400133" joined="2009-11-03"/>
+    <cosponsor id="412257" joined="2009-06-19"/>
+    <cosponsor id="400204" joined="2009-04-27"/>
+    <cosponsor id="400222" joined="2009-04-27"/>
+    <cosponsor id="400352" joined="2010-11-18"/>
+    <cosponsor id="412232" joined="2009-04-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-25">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-03-25">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-03-25">
+      <text>Referred to House Education and Labor</text>
+    </action>
+    <action datetime="2009-03-26">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2009-05-14">
+      <text>Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.</text>
+      <committee name="House Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education, Lifelong Learning, and Competitiveness" name="House Education and Labor"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="682"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Education programs funding"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Higher education"/>
+    <term name="Mental health"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/2009--Introduced.
+Mental Health on Campus Improvement Act - Amends the Public Health Service Act to require the Secretary of Health and Human Services, acting through the Administrator of the Substance Abuse and Mental Health Services Administration, to award grants to eligible institutions of higher education to improve mental and behavioral health services and outreach on college and university campuses. Directs the Secretary to give special consideration to programs that: (1) demonstrate the greatest need; (2) propose effective approaches for initiating or expanding campus services; (3) target underserved and at-risk populations; (4) coordinate with a community mental health center or other community mental health resources; (5) identify how the college or university will address psychiatric emergencies; and (6) demonstrate the greatest potential for replication and dissemination. Allows the Secretary to provide technical assistance to grantees. Requires the Secretary, acting through the Administrator, to convene an interagency, public-private sector working group to plan, establish, and begin coordinating and evaluating a targeted public education campaign that is designed to focus on mental and behavioral health on college campuses. Requires the Secretary to establish the College Campus Task Force to discuss mental and behavioral health concerns on college and university campuses.</summary>
+</bill>

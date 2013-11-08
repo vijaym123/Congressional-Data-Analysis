@@ -1,0 +1,76 @@
+<bill session="111" type="hc" number="294" updated="2013-07-20T00:15:32-04:00">
+  <state datetime="2010-09-22T15:21:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-09-22T15:21:00-04:00"/>
+  </status>
+  <introduced datetime="2010-06-30"/>
+  <titles>
+    <title as="introduced" type="official">Commemorating the 75th Anniversary of the Blue Ridge Parkway.</title>
+  </titles>
+  <sponsor id="412304"/>
+  <cosponsors>
+    <cosponsor id="400043" joined="2010-06-30"/>
+    <cosponsor id="400076" joined="2010-06-30"/>
+    <cosponsor id="412272" joined="2010-06-30"/>
+    <cosponsor id="400643" joined="2010-06-30"/>
+    <cosponsor id="400154" joined="2010-06-30"/>
+    <cosponsor id="412287" joined="2010-06-30"/>
+    <cosponsor id="400644" joined="2010-06-30"/>
+    <cosponsor id="400266" joined="2010-06-30"/>
+    <cosponsor id="400280" joined="2010-06-30"/>
+    <cosponsor id="400283" joined="2010-06-30"/>
+    <cosponsor id="412301" joined="2010-06-30"/>
+    <cosponsor id="400326" joined="2010-06-30"/>
+    <cosponsor id="412225" joined="2010-06-30"/>
+    <cosponsor id="412255" joined="2010-06-30"/>
+    <cosponsor id="400435" joined="2010-06-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-06-30">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2010-07-02">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-09-22T15:19:00-04:00">
+      <text>Mrs. Christensen moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2010-09-22T15:19:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6829-6830" label="consideration"/>
+    </action>
+    <action datetime="2010-09-22T15:19:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 294.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-09-22T15:21:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H6829-6830" label="text"/>
+    </vote>
+    <action datetime="2010-09-22T15:21:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-09-23">
+      <text>Received in the Senate and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="sc" number="66"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="North Carolina"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Roads and highways"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>9/22/2010--Passed House without amendment.
+Commemorates the 75th anniversary of the Blue Ridge Parkway in North Carolina and Virginia. Acknowledges the historic and enduring scenic, recreational, and economic value of the Blue Ridge Parkway.</summary>
+</bill>

@@ -1,0 +1,85 @@
+<bill session="111" type="h" number="5110" updated="2013-07-19T23:58:29-04:00">
+  <state datetime="2010-09-23T13:15:00-04:00">PROV_KILL:SUSPENSIONFAILED</state>
+  <status>
+    <unknown datetime="2010-09-23T13:15:00-04:00"/>
+  </status>
+  <introduced datetime="2010-04-22"/>
+  <titles>
+    <title as="introduced" type="short">Casa Grande Ruins National Monument Boundary Modification Act of 2010</title>
+    <title as="reported to house" type="short">Casa Grande Ruins National Monument Boundary Modification Act of 2010</title>
+    <title as="introduced" type="official">To modify the boundary of the Casa Grande Ruins National Monument, and for other purposes.</title>
+  </titles>
+  <sponsor id="412286"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-04-22">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2010-04-28">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-06-10">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-07-22">
+      <text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-07-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-07-22">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2010-09-16T14:28:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-598.</text>
+    </action>
+    <calendar datetime="2010-09-16T14:28:00-04:00" calendar="Union" number="343">
+      <text>Placed on the Union Calendar, Calendar No. 343.</text>
+    </calendar>
+    <action datetime="2010-09-22T14:35:00-04:00">
+      <text>Mrs. Christensen moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-09-22T14:35:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6822-6824" label="consideration"/>
+      <reference ref="CR H6822" label="text of measure as reported in House"/>
+    </action>
+    <action datetime="2010-09-22T14:35:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5110.</text>
+    </action>
+    <action datetime="2010-09-22T14:47:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-09-23T13:08:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6903-6904" label="consideration"/>
+    </action>
+    <vote state="PROV_KILL:SUSPENSIONFAILED" datetime="2010-09-23T13:15:00-04:00" how="roll" result="fail" roll="537" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 244 - 174 (Roll no. 537).</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Arizona"/>
+    <term name="Government studies and investigations"/>
+    <term name="Historical and cultural resources"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Land transfers"/>
+    <term name="Monuments and memorials"/>
+    <term name="State and local government operations"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <summary>9/16/2010--Reported to House amended.
+Casa Grande Ruins National Monument Boundary Modification Act of 2010 - Authorizes the Secretary of the Interior to acquire only from willing sellers the private or state lands or interests identified on the map entitled "Proposed Casa Grande Ruins Boundary Modification" and dated January 2010. Transfers administrative jurisdiction of specified withdrawn federal lands administered by the Bureau of Land Management (BLM) or the Bureau of Indian Affairs (BIA) to the National Park Service (NPS). Transfers to the BIA the administrative jurisdiction of certain federal land administered by the NPS for purposes of the San Carlos Irrigation Project. Requires the Secretary to administer all such transferred or acquired lands as part of the Casa Grande Ruins National Monument in Arizona. Authorizes the Secretary to enter into an agreement with the state of Arizona to provide for cooperative management of specified state trust lands. Directs the Secretary to conduct a study to identify any additional lands considered appropriate to become part of any further adjustments to the boundary of the Monument.</summary>
+</bill>

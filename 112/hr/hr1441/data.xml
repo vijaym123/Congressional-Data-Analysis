@@ -1,0 +1,62 @@
+<bill session="112" type="h" number="1441" updated="2013-07-20T01:22:49-04:00">
+  <state datetime="2011-04-08">REFERRED</state>
+  <status>
+    <introduced datetime="2011-04-08"/>
+  </status>
+  <introduced datetime="2011-04-08"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to codify the prohibition against the reservation of gravesites at Arlington National Cemetery, and for other purposes.</title>
+  </titles>
+  <sponsor id="412449"/>
+  <cosponsors>
+    <cosponsor id="412451" joined="2011-05-11"/>
+    <cosponsor id="412209" joined="2011-05-03"/>
+    <cosponsor id="412255" joined="2011-05-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-04-08">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-04-08">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2011-04-08">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2011-04-29">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2011-05-03">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2011-05-12">
+      <text>Provisions of measure incorporated HR 1627.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2011-05-18">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="1627"/>
+    <bill relation="identical" session="112" type="s" number="698"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Congressional oversight"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>4/8/2011--Introduced.
+Prohibits: (1) more than one gravesite from being provided at Arlington National Cemetery (Arlington) to a veteran or member of the Armed Forces who is eligible for burial there and family members also eligible for burial there, and (2) a gravesite from being reserved at Arlington before an individual's death. Provides an exception under (2) above, in the case of a request submitted to the Secretary of the Army before January 1, 1962. Requires a report from the Secretary to Congress on reservations made for interment at Arlington.</summary>
+</bill>

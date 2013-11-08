@@ -1,0 +1,77 @@
+<bill session="112" type="h" number="6361" updated="2013-07-20T02:04:53-04:00">
+  <state datetime="2012-09-19T19:17:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-09-19T19:17:00-04:00"/>
+  </status>
+  <introduced datetime="2012-09-10"/>
+  <titles>
+    <title as="introduced" type="short">Vulnerable Veterans Housing Reform Act of 2012</title>
+    <title as="passed house" type="short">Vulnerable Veterans Housing Reform Act of 2012</title>
+    <title as="introduced" type="official">To exclude from consideration as income under the United States Housing Act of 1937 payments of pension made under section 1521 of title 38, United States Code, to veterans who are in need of regular aid and attendance, and for other purposes.</title>
+  </titles>
+  <sponsor id="412446"/>
+  <cosponsors>
+    <cosponsor id="400027" joined="2012-09-10"/>
+    <cosponsor id="400653" joined="2012-09-12"/>
+    <cosponsor id="412460" joined="2012-09-10"/>
+    <cosponsor id="400274" joined="2012-09-18"/>
+    <cosponsor id="400277" joined="2012-09-10"/>
+    <cosponsor id="412462" joined="2012-09-10"/>
+    <cosponsor id="400371" joined="2012-09-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-09-10">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2012-09-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-09-12">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Financial Services"/>
+    </calendar>
+    <action datetime="2012-09-19T19:04:00-04:00">
+      <text>Mrs. Biggert moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-09-19T19:04:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6121-6124" label="consideration"/>
+    </action>
+    <action datetime="2012-09-19T19:04:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6361.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-09-19T19:17:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6121-6122" label="text"/>
+    </vote>
+    <action datetime="2012-09-19T19:17:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-09-20">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="6111"/>
+    <bill relation="unknown" session="112" type="h" number="6381"/>
+    <bill relation="unknown" session="112" type="s" number="3614"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Disability assistance"/>
+    <term name="Government information and archives"/>
+    <term name="Housing for the elderly and disabled"/>
+    <term name="Low- and moderate-income housing"/>
+    <term name="Public housing"/>
+    <term name="Public utilities and utility rates"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>9/19/2012--Passed House amended.
+Vulnerable Veterans Housing Reform Act of 2012 - Amends the United States Housing Act of 1937 to exclude as family income for Department of Housing and Urban Development (HUD) housing assistance purposes any Department of Veterans Affairs (VA) payments made to veterans in need of regular aid and attendance for expenses related to such aid and attendance. Prohibits, in determining the monthly rental assistance payment for low-income families, the amount for tenant-paid utilities from exceeding the appropriate utility allowance for that family unit size as determined by the public housing agency (agency), regardless of the size of the unit leased by the family. Requires the agency, upon request by a family that includes a person with disabilities, an elderly family, or a family that includes a person less than 18 years old, to approve a higher utility, except that, in the case of a family with a disabled person, the agency shall approve the higher amount only when needed as a reasonable accommodation to make the unit accessible to and usable by that person. Directs the HUD Secretary to regularly publish data regarding local utility consumption and costs in order to establish appropriate allowances for tenant-paid utilities for assisted families. Directs the VA Secretary to establish a pilot program to award grants to nonprofit organizations that primarily serve veterans or low-income individuals. Requires such grants to be used to rehabilitate and modify the primary residence of disabled or low-income veterans. Limits grant amounts to $1 million per organization. Requires such Secretary to direct the oversight of grant fund use. Requires a minimum of 50% matching funds by participating organizations. Requires an annual pilot program report from such Secretary to Congress. Authorizes appropriations.</summary>
+</bill>

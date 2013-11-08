@@ -1,0 +1,58 @@
+<bill session="111" type="h" number="6010" updated="2013-07-20T00:06:50-04:00">
+  <state datetime="2010-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2010-07-30"/>
+  </status>
+  <introduced datetime="2010-07-30"/>
+  <titles>
+    <title as="introduced" type="official">To prohibit the extrajudicial killing of United States citizens, and for other purposes.</title>
+  </titles>
+  <sponsor id="400227"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2010-07-30"/>
+    <cosponsor id="412215" joined="2010-07-30"/>
+    <cosponsor id="400133" joined="2010-07-30"/>
+    <cosponsor id="400162" joined="2010-07-30"/>
+    <cosponsor id="400198" joined="2010-07-30"/>
+    <cosponsor id="400387" joined="2010-07-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-30">
+      <text>Referred to the Committee on Intelligence (Permanent Select), and in addition to the Committees on the Judiciary, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2010-07-30">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="2010-07-30">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2010-07-30">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2010-09-20">
+      <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral, In Committee"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution, Civil Rights, and Civil Liberties" name="House Judiciary"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="House Permanent Select Committee on Intelligence"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Military operations and strategy"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="Senate Select Committee on Intelligence"/>
+  </subjects>
+  <amendments/>
+  <summary>7/30/2010--Introduced.
+Expresses the sense of Congress with respect to the use of extrajudicial force against a citizen of the United States. Prohibits anyone, including the President, from instructing an employee or an agent of the United States from engaging in, or conspiring to engage in, the extrajudicial killing of a U.S. citizen. Requires the President to submit to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate: (1) a report on the identity of each U.S. citizen that is on the list of the Joint Special Operations Command or the Central Intelligence Agency (CIA) as a high value individual or a high value target; and (2) a written assurance that no U.S. citizens are being added to such list. Defines "extrajudicial killing" to mean a premeditated and intentional use of lethal force against a U.S. citizen, but excludes from such definition the use of force in certain circumstances, including against a U.S. citizen whose guilt has been adjudicated consistent with due process of law, who directly participates in armed hostilities against the United States, and against whom force is required for purposes of self defense, defense of others, or for enabling the release of hostages.</summary>
+</bill>

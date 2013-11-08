@@ -1,0 +1,44 @@
+<bill session="111" type="h" number="3007" updated="2013-07-19T23:39:02-04:00">
+  <state datetime="2009-06-23">REFERRED</state>
+  <status>
+    <introduced datetime="2009-06-23"/>
+  </status>
+  <introduced datetime="2009-06-23"/>
+  <titles>
+    <title as="introduced" type="short">Local Fiscal Assistance Act of 2009</title>
+    <title as="introduced" type="official">To provide fiscal assistance to local governments.</title>
+  </titles>
+  <sponsor id="400210"/>
+  <cosponsors>
+    <cosponsor id="400211" joined="2009-09-17"/>
+    <cosponsor id="412299" joined="2009-09-17"/>
+    <cosponsor id="400285" joined="2010-04-20"/>
+    <cosponsor id="400360" joined="2009-09-24"/>
+    <cosponsor id="412232" joined="2010-01-15"/>
+    <cosponsor id="412319" joined="2010-04-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-23">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2009-10-23">
+      <text>Referred to the Subcommittee on Government Management, Organization, and Procurement.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO24" subcommittee="Government Management, Organization, and Procurement" name="House Oversight and Government Reform"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+    <term name="Government trust funds"/>
+    <term name="Intergovernmental relations"/>
+    <term name="State and local finance"/>
+  </subjects>
+  <amendments/>
+  <summary>6/23/2009--Introduced.
+Local Fiscal Assistance Act of 2009 - Requires the Secretary of the Treasury (or delegate) to make entitlement payments out of the Local Government Fiscal Assistance Trust Fund (established by this Act), in periodic installments through FY2011, to local governments. Requires the use of such funds only for specified priority ordinary and necessary maintenance and operations and capital expenditures. Establishes in the Treasury the Local Government Fiscal Assistance Trust Fund. Makes appropriations to the Trust Fund through FY2011. Prescribes allocation formulas for distributing entitlement payments among states and their local governments.</summary>
+</bill>

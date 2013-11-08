@@ -1,0 +1,75 @@
+<bill session="113" type="sc" number="10" updated="2013-11-02T06:52:06-04:00">
+  <state datetime="2013-05-14T19:09:00-04:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2013-05-14T19:09:00-04:00"/>
+  </status>
+  <introduced datetime="2013-03-22"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution authorizing the use of Emancipation Hall in the Capitol Visitor Center for an event to celebrate the birthday of King Kamehameha.</title>
+  </titles>
+  <sponsor id="412200"/>
+  <cosponsors>
+    <cosponsor id="412507" joined="2013-03-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-22" state="REFERRED">
+      <text>Referred to the Committee on Rules and Administration.</text>
+      <reference ref="CR S2339" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2013-04-08">
+      <text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text>
+      <reference ref="CR S2474" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2013-04-08" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2013-04-09">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2013-04-09T14:19:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2013-04-09">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2013-05-14T17:30:00-04:00">
+      <text>Mrs. Miller (MI) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2013-05-14T17:30:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2584-2586" label="consideration"/>
+    </action>
+    <action datetime="2013-05-14T17:30:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 10.</text>
+    </action>
+    <action datetime="2013-05-14T17:42:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-05-14T19:02:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2587-2588" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote2" roll="146" datetime="2013-05-14T19:09:00-04:00" where="h" result="pass" suspension="1" state="PASSED:CONCURRENTRES">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 146).</text>
+      <reference ref="CR H2584" label="text"/>
+    </vote>
+    <action datetime="2013-05-14T19:09:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Discharged"/>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Hawaii"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+  <summary>5/14/2013--Passed House without amendment.
+Authorizes the use of Emancipation Hall in the Capitol Visitor Center for an event on June 9, 2013, to celebrate the birthday of King Kamehameha (Hawaii).</summary>
+</bill>

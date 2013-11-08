@@ -1,0 +1,43 @@
+<bill session="111" type="s" number="760" updated="2013-07-20T00:30:12-04:00">
+  <state datetime="2009-04-01">REFERRED</state>
+  <status>
+    <introduced datetime="2009-04-01"/>
+  </status>
+  <introduced datetime="2009-04-01"/>
+  <titles>
+    <title as="introduced" type="official">A bill to designate the Liberty Memorial at the National World War I Museum in Kansas City, Missouri, as the "National World War I Memorial".</title>
+  </titles>
+  <sponsor id="412243"/>
+  <cosponsors>
+    <cosponsor id="300010" joined="2009-04-01"/>
+    <cosponsor id="300013" joined="2009-12-03"/>
+    <cosponsor id="300083" joined="2009-12-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-04-01">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2009-12-03">
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 111-318.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="National Parks" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="1849"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social sciences and history"/>
+    <term name="Military history"/>
+    <term name="Missouri"/>
+    <term name="Monuments and memorials"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+    <term name="U.S. history"/>
+  </subjects>
+  <amendments/>
+  <summary>4/1/2009--Introduced.
+Designates the Liberty Memorial at the National World War I Museum in Kansas City, Missouri, as the National World War I Memorial.</summary>
+</bill>

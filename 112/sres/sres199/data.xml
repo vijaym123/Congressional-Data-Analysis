@@ -1,0 +1,54 @@
+<bill session="112" type="sr" number="199" updated="2013-07-20T02:12:21-04:00">
+  <state datetime="2011-11-14">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2011-11-14"/>
+  </status>
+  <introduced datetime="2011-05-25"/>
+  <titles>
+    <title as="introduced" type="official">A resolution supporting the goals and ideals of "Crohn's and Colitis Awareness Week".</title>
+  </titles>
+  <sponsor id="300082"/>
+  <cosponsors>
+    <cosponsor id="400054" joined="2011-07-25"/>
+    <cosponsor id="300018" joined="2011-06-14"/>
+    <cosponsor id="300023" joined="2011-05-25"/>
+    <cosponsor id="300043" joined="2011-11-14"/>
+    <cosponsor id="412223" joined="2011-06-06"/>
+    <cosponsor id="300076" joined="2011-06-06"/>
+    <cosponsor id="300081" joined="2011-05-25"/>
+    <cosponsor id="300087" joined="2011-06-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-05-25">
+      <text>Referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S3345-3346" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2011-11-14">
+      <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+      <reference ref="CR S7417-7418" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2011-11-14" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S7417-7418" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="hr" number="481"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Genetics"/>
+    <term name="Health personnel"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Medical research"/>
+  </subjects>
+  <amendments/>
+  <summary>11/14/2011--Passed Senate without amendment.
+Expresses support for the goals and ideals of Crohn's and Colitis Awareness Week. Expresses appreciation to the family members and caregivers who support people in the United States living with Crohn's disease and ulcerative colitis. Commends health care professionals and biomedical researchers who care for Crohn's disease and ulcerative colitis patients and work to advance research aimed at developing new treatments and a cure.</summary>
+</bill>

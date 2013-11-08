@@ -1,0 +1,97 @@
+<bill session="112" type="h" number="2938" updated="2013-07-20T01:35:39-04:00">
+  <state datetime="2012-06-19T17:50:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-06-19T17:50:00-04:00"/>
+  </status>
+  <introduced datetime="2011-09-15"/>
+  <titles>
+    <title as="introduced" type="short">Gila Bend Indian Reservation Lands Replacement Clarification Act</title>
+    <title as="introduced" type="official">To prohibit certain gaming activities on certain Indian lands in Arizona.</title>
+  </titles>
+  <sponsor id="400141"/>
+  <cosponsors>
+    <cosponsor id="400009" joined="2012-02-01"/>
+    <cosponsor id="400645" joined="2011-10-14"/>
+    <cosponsor id="400134" joined="2011-09-15"/>
+    <cosponsor id="412397" joined="2011-09-15"/>
+    <cosponsor id="400216" joined="2011-09-21"/>
+    <cosponsor id="400259" joined="2012-03-08"/>
+    <cosponsor id="412398" joined="2011-09-15"/>
+    <cosponsor id="412399" joined="2011-09-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-09-15">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2011-09-19">
+      <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-10-04">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-11-17">
+      <text>Subcommittee Indian and Alaska Native Affairs Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-11-17">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-11-17">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 32 - 11.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2012-04-16T17:29:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-440.</text>
+    </action>
+    <calendar datetime="2012-04-16T17:30:00-04:00" calendar="Union" number="307">
+      <text>Placed on the Union Calendar, Calendar No. 307.</text>
+    </calendar>
+    <action datetime="2012-06-18T19:14:00-04:00">
+      <text>Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-06-18T19:14:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3725-3729" label="consideration"/>
+    </action>
+    <action datetime="2012-06-18T19:14:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2938.</text>
+    </action>
+    <action datetime="2012-06-18T19:43:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2012-06-19T17:44:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3787" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-06-19T17:50:00-04:00" how="roll" result="pass" roll="388" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 343 - 78, 2 Present (Roll no. 388).</text>
+      <reference ref="CR 6/19/2012 H3725" label="text"/>
+    </vote>
+    <action datetime="2012-06-19T17:50:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-06-20">
+      <text>Received in the Senate and Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII24" subcommittee="Indian and Alaska Native Affairs" name="House Natural Resources"/>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Arizona"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Gambling"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+  <summary>6/19/2012--Passed House amended.
+Gila Bend Indian Reservation Lands Replacement Clarification Act - Amends the Gila Bend Indian Reservation Lands Replacement Act to prohibit class II or III gaming activities on lands located north of latitude 33 degrees, 4 minutes north that the Tohono O'odham Nation was authorized to purchase in Arizona in exchange for granting the federal government all right, title, and interest to the Gila Bend Indian Reservation. Prohibits this gaming restriction from having any effect on any decision as to whether any lands located south of latitude 33 degrees, 4 minutes north and taken into trust pursuant to this Act qualify as lands taken into trust as part of a land claim settlement for purposes of determining whether gaming may be conducted on such lands.</summary>
+</bill>

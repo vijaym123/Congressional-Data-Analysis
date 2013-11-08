@@ -1,0 +1,131 @@
+<bill session="112" type="h" number="2682" updated="2013-07-20T01:33:29-04:00">
+  <state datetime="2012-03-26T19:02:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-03-26T19:02:00-04:00"/>
+  </status>
+  <introduced datetime="2011-07-28"/>
+  <titles>
+    <title as="introduced" type="short">Business Risk Mitigation and Price Stabilization Act of 2011</title>
+    <title as="reported to house" type="short">Business Risk Mitigation and Price Stabilization Act of 2011</title>
+    <title as="passed house" type="short">Business Risk Mitigation and Price Stabilization Act of 2012</title>
+    <title as="introduced" type="official">To provide end user exemptions from certain provisions of the Commodity Exchange Act and the Securities Exchange Act of 1934, and for other purposes.</title>
+  </titles>
+  <sponsor id="412451"/>
+  <cosponsors>
+    <cosponsor id="412420" joined="2011-11-30"/>
+    <cosponsor id="400221" joined="2012-01-31"/>
+    <cosponsor id="400266" joined="2012-02-07"/>
+    <cosponsor id="400661" joined="2012-01-18"/>
+    <cosponsor id="412383" joined="2011-07-28"/>
+    <cosponsor id="412305" joined="2011-07-28"/>
+    <cosponsor id="412417" joined="2011-07-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-07-28">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-07-28">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2011-07-28">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2011-08-10">
+      <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+      <committee name="House Agriculture"/>
+    </action>
+    <action datetime="2011-08-22">
+      <text>Referred to the Subcommittee on Capital Markets and Government Sponsored Enterprises.</text>
+      <committee name="House Financial Services"/>
+    </action>
+    <action datetime="2011-11-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Financial Services"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-11-30">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Financial Services"/>
+    </calendar>
+    <action datetime="2011-12-23T10:06:00-05:00">
+      <text>Reported by the Committee on Financial Services. H. Rept. 112-343, Part I.</text>
+    </action>
+    <action datetime="2011-12-23T10:06:00-05:00">
+      <text>House Committee on Agriculture Granted an extension for further consideration ending not later than Feb. 1, 2012.</text>
+    </action>
+    <action datetime="2012-01-25">
+      <text>Subcommittee on General Farm Commodities and Risk Management Discharged.</text>
+      <committee name="House Agriculture"/>
+    </action>
+    <action datetime="2012-01-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Agriculture"/>
+    </action>
+    <calendar datetime="2012-01-25">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Agriculture"/>
+    </calendar>
+    <action datetime="2012-02-01T20:13:00-05:00">
+      <text>House Committee on Agriculture Granted an extension for further consideration ending not later than Feb. 8, 2012.</text>
+    </action>
+    <action datetime="2012-02-08T17:21:00-05:00">
+      <text>Reported (Amended) by the Committee on Agriculture. H. Rept. 112-343, Part II.</text>
+    </action>
+    <calendar datetime="2012-02-08T17:21:00-05:00" calendar="Union" number="267">
+      <text>Placed on the Union Calendar, Calendar No. 267.</text>
+    </calendar>
+    <action datetime="2012-03-26T15:20:00-04:00">
+      <text>Mr. Garrett moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-03-26T15:20:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1551-1553" label="consideration"/>
+    </action>
+    <action datetime="2012-03-26T15:20:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2682.</text>
+    </action>
+    <action datetime="2012-03-26T15:39:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2012-03-26T18:55:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H1557-1558" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-03-26T19:02:00-04:00" how="roll" result="pass" roll="128" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 370 - 24 (Roll no. 128).</text>
+      <reference ref="CR H1551" label="text"/>
+    </vote>
+    <action datetime="2012-03-26T19:02:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-03-27">
+      <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2012-03-28" calendar="Senate Legislative" under="General Orders" number="342">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 342.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSBA16" subcommittee="Capital Markets and Government Sponsored Enterprises" name="House Financial Services"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSAG16" subcommittee="General Farm Commodities and Risk Management" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="1610"/>
+    <bill relation="unknown" session="112" type="s" number="1650"/>
+    <bill relation="unknown" session="112" type="s" number="3480"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Commodities markets"/>
+    <term name="Commodity Futures Trading Commission"/>
+    <term name="Corporate finance and management"/>
+    <term name="Financial services and investments"/>
+    <term name="Securities"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2012--Passed House amended.
+Business Risk Mitigation and Price Stabilization Act of 2012 - (Sec. 2) Amends the Commodity Exchange Act (CEA) to exempt, from the rules of prudential regulators for swap dealers and major swap participants with respect to initial and variation margin requirements for swaps not cleared by a registered derivatives clearing organization, those swaps in which one of the counterparties: (1) is eligible for an exception from clearing requirements for certain significant price discovery agreements, contracts, or transactions in a commodity exempt from regulation by the Commodity Futures Trading Commission (CFTC); or (2) satisfies specified criteria governing treatment of affiliates in connection with clearing requirements. Amends the Securities Exchange Act of 1934, regarding registration and regulation of security-based swap dealers and major security-based swap participants, to exempt from initial and variation margin requirements for swaps not cleared by a registered derivatives clearing organization a security-based swap in which one of the counterparties: (1) qualifies for a specified exception from clearing requirements, or (2) satisfies certain criteria governing the treatment of affiliates. (Sec. 3) Requires that the amendments to CEA made by this Act be implemented: (1) without regard to federal information policy requirements or the notice and comment requirements of federal administrative procedure; and (2) through promulgation of an interim final rule, pursuant to which public comment will be sought before a final rule is issued. Limits the disregard of such federal information policy and notice and comment requirements solely to changes to rules and regulations, or proposed rule and regulations, that are limited to, and directly a consequence of, the amendments to CEA made by this Act.</summary>
+</bill>

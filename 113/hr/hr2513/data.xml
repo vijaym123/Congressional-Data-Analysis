@@ -1,0 +1,82 @@
+<bill session="113" type="h" number="2513" updated="2013-11-02T06:40:09-04:00">
+  <state datetime="2013-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-26"/>
+  </status>
+  <introduced datetime="2013-06-26"/>
+  <titles>
+    <title type="short" as="introduced">Fracturing Regulations are Effective in State Hands Act</title>
+    <title type="official" as="introduced">To clarify that a State has the sole authority to regulate hydraulic fracturing on Federal land within the boundaries of the State.</title>
+  </titles>
+  <sponsor id="400651"/>
+  <cosponsors>
+    <cosponsor id="400029" joined="2013-06-26"/>
+    <cosponsor id="400077" joined="2013-06-26"/>
+    <cosponsor id="412555" joined="2013-06-26"/>
+    <cosponsor id="412275" joined="2013-06-26"/>
+    <cosponsor id="400141" joined="2013-06-26"/>
+    <cosponsor id="412434" joined="2013-06-26"/>
+    <cosponsor id="412510" joined="2013-06-26"/>
+    <cosponsor id="412294" joined="2013-06-26"/>
+    <cosponsor id="400313" joined="2013-06-26"/>
+    <cosponsor id="412392" joined="2013-06-26"/>
+    <cosponsor id="412525" joined="2013-06-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-26" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, Transportation and Infrastructure, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-06-26">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-06-26">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2013-06-26">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2013-06-26">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-06-27">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2013-06-28">
+      <text>Referred to the Subcommittee on Environment and the Economy.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2013-07-03">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF18" subcommittee="Environment and the Economy" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="1234"/>
+    <bill relation="unknown" session="113" type="s" number="1234"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="General public lands matters"/>
+    <term name="Land use and conservation"/>
+    <term name="Licensing and registrations"/>
+    <term name="Oil and gas"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>6/26/2013--Introduced.
+Fracturing Regulations are Effective in State Hands Act - Grants any state sole authority to promulgate or enforce any regulation, guidance, or permit requirement regarding the treatment of a well by the application of fluids under pressure to which propping agents may be added for the expressly designed purpose of initiating or propagating fractures in a target geologic formation in order to enhance production of oil, gas, or geothermal production activities on or under land within the boundaries of that state. Subjects such a well treatment on federal land to state law as well.</summary>
+</bill>

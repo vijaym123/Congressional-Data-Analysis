@@ -1,0 +1,97 @@
+<bill session="111" type="h" number="5604" updated="2013-07-20T00:03:09-04:00">
+  <state datetime="2010-07-20T18:13:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-07-20T18:13:00-04:00"/>
+  </status>
+  <introduced datetime="2010-06-25"/>
+  <titles>
+    <title as="introduced" type="short">Surface Transportation Savings Act of 2010</title>
+    <title as="reported to house" type="short">Surface Transportation Savings Act of 2010</title>
+    <title as="passed house" type="short">Surface Transportation Savings Act of 2010</title>
+    <title as="introduced" type="official">To rescind amounts authorized for certain surface transportation programs.</title>
+  </titles>
+  <sponsor id="412304"/>
+  <cosponsors>
+    <cosponsor id="412313" joined="2010-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2010-06-25">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1212"/>
+    </action>
+    <action state="REFERRED" datetime="2010-06-25">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2010-06-26">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-07-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-07-01">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2010-07-01">
+      <text>Subcommittee on Highways and Transit Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-07-15T17:54:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 111-546.</text>
+    </action>
+    <calendar datetime="2010-07-15T17:55:00-04:00" calendar="Union" number="311">
+      <text>Placed on the Union Calendar, Calendar No. 311.</text>
+    </calendar>
+    <action datetime="2010-07-20T15:04:00-04:00">
+      <text>Mr. Perriello moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-07-20T15:04:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5751-5754" label="consideration"/>
+    </action>
+    <action datetime="2010-07-20T15:04:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5604.</text>
+    </action>
+    <action datetime="2010-07-20T15:25:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-07-20T18:05:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5782-5783" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-07-20T18:13:00-04:00" how="roll" result="pass" roll="452" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 452).</text>
+      <reference ref="CR H5751" label="text"/>
+    </vote>
+    <action datetime="2010-07-20T18:13:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-07-21">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Appropriations"/>
+    <term name="Department of Transportation"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Motor vehicles"/>
+    <term name="Public transit"/>
+    <term name="Research administration and funding"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>7/20/2010--Passed House without amendment.
+Surface Transportation Savings Act of 2010 - Rescinds specified amounts authorized under the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (SAFETEA-LU) for: (1) safety belt performance grants; (2) administrative expenses of the National Highway Traffic Safety Administration (NHTSA); (3) the National Driver Register; (4) NHTSA operations and research; and (5) transit formula and bus grants.</summary>
+</bill>

@@ -1,0 +1,56 @@
+<bill session="112" type="s" number="572" updated="2013-07-20T02:21:29-04:00">
+  <state datetime="2011-06-29">REPORTED</state>
+  <status>
+    <unknown datetime="2011-06-29"/>
+  </status>
+  <introduced datetime="2011-03-14"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend title 38, United States Code, to repeal the prohibition on collective bargaining with respect to matters and questions regarding compensation of employees of the Department of Veterans Affairs other than rates of basic pay, and for other purposes.</title>
+  </titles>
+  <sponsor id="400050"/>
+  <cosponsors>
+    <cosponsor id="412326" joined="2011-03-14"/>
+    <cosponsor id="400064" joined="2011-10-31"/>
+    <cosponsor id="412378" joined="2011-03-14"/>
+    <cosponsor id="412325" joined="2011-03-14"/>
+    <cosponsor id="300073" joined="2011-03-14"/>
+    <cosponsor id="300084" joined="2011-03-14"/>
+    <cosponsor id="400357" joined="2011-03-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-03-14">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2011-06-08">
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+      <committee name="Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-06-29">
+      <text>Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2011-09-06">
+      <text>Committee on Veterans' Affairs. Reported by Senator Murray without amendment. With written report No. 112-68. Minority views filed.</text>
+    </action>
+    <calendar datetime="2011-09-06" calendar="Senate Legislative" under="General Orders" number="148">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 148.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="h" number="807"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Labor-management relations"/>
+  </subjects>
+  <amendments/>
+  <summary>9/6/2011--Reported to Senate without amendment.
+Prohibits collective bargaining with respect to matters and questions concerning rates of basic pay (under current law, concerning compensation) of employees of the Department of Veterans Affairs (VA). (Permits collective bargaining concerning compensation, other than basic rates of pay, with respect to such employees.)</summary>
+</bill>

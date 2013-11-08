@@ -1,0 +1,49 @@
+<bill session="113" type="h" number="3139" updated="2013-11-02T06:45:26-04:00">
+  <state datetime="2013-09-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-19"/>
+  </status>
+  <introduced datetime="2013-09-19"/>
+  <titles>
+    <title type="short" as="introduced">Chesapeake Bay Gateways and Watertrails Network Reauthorization Act</title>
+    <title type="official" as="introduced">To amend the Chesapeake Bay Initiative Act of 1998 to provide for the reauthorization of the Chesapeake Bay Gateways and Watertrails Network.</title>
+  </titles>
+  <sponsor id="412212"/>
+  <cosponsors>
+    <cosponsor id="412272" joined="2013-09-19"/>
+    <cosponsor id="400090" joined="2013-09-19"/>
+    <cosponsor id="412544" joined="2013-09-19"/>
+    <cosponsor id="412263" joined="2013-09-19"/>
+    <cosponsor id="400189" joined="2013-09-19"/>
+    <cosponsor id="400283" joined="2013-09-19"/>
+    <cosponsor id="400349" joined="2013-09-19"/>
+    <cosponsor id="400364" joined="2013-09-19"/>
+    <cosponsor id="400415" joined="2013-09-19"/>
+    <cosponsor id="412255" joined="2013-09-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-19" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-09-27">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="1077"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Chesapeake Bay"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Historical and cultural resources"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments/>
+</bill>

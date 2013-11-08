@@ -1,0 +1,91 @@
+<bill session="111" type="h" number="4506" updated="2013-07-19T23:53:06-04:00">
+  <state datetime="2010-03-12T11:26:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-03-12T11:26:00-05:00"/>
+  </status>
+  <introduced datetime="2010-01-26"/>
+  <titles>
+    <title as="introduced" type="short">Bankruptcy Judgeship Act of 2010</title>
+    <title as="reported to house" type="short">Bankruptcy Judgeship Act of 2010</title>
+    <title as="passed house" type="short">Bankruptcy Judgeship Act of 2010</title>
+    <title as="reported to senate" type="short">Bankruptcy Judgeship Act of 2010</title>
+    <title as="introduced" type="official">To authorize the appointment of additional bankruptcy judges, and for other purposes.</title>
+  </titles>
+  <sponsor id="412236"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2010-01-26"/>
+    <cosponsor id="400381" joined="2010-01-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-01-26">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2010-01-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-01-27">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2010-03-09T19:59:00-05:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 111-430.</text>
+    </action>
+    <calendar datetime="2010-03-09T20:00:00-05:00" calendar="Union" number="246">
+      <text>Placed on the Union Calendar, Calendar No. 246.</text>
+    </calendar>
+    <action datetime="2010-03-10T11:39:00-05:00">
+      <text>Mr. Cohen moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-03-10T11:39:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1235-1238" label="consideration"/>
+    </action>
+    <action datetime="2010-03-10T11:39:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4506.</text>
+    </action>
+    <action datetime="2010-03-10T11:49:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-03-12T11:14:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H1375-1376" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-03-12T11:26:00-05:00" how="roll" result="pass" roll="111" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 345 - 5 (Roll no. 111).</text>
+      <reference ref="CR 3/10/2010 H1235-1236" label="text"/>
+    </vote>
+    <action datetime="2010-03-12T11:26:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-03-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <calendar datetime="2010-05-27">
+      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2010-05-27">
+      <text>Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2010-05-27" calendar="Senate Legislative" under="General Orders" number="412">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 412.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Bankruptcy"/>
+    <term name="Judges"/>
+    <term name="Legal fees and court costs"/>
+    <term name="North Carolina"/>
+    <term name="Pennsylvania"/>
+  </subjects>
+  <amendments/>
+  <summary>5/27/2010--Reported to Senate without amendment.
+Bankruptcy Judgeship Act of 2010 - Amends the federal judicial code to authorize the appointment of additional permanent bankruptcy judges in various states. Converts certain temporary offices of bankruptcy judges to permanent offices in specified states. Extends certain temporary offices of bankruptcy judges previously authorized for Pennsylvania and North Carolina. Increases bankruptcy filing fees. Reduces the amount of bankruptcy fees to be deposited as offsetting collections to the United States Trustee System Fund.</summary>
+</bill>

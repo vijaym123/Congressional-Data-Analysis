@@ -1,0 +1,125 @@
+<bill session="112" type="h" number="2553" updated="2013-07-20T01:32:23-04:00">
+  <state datetime="2011-08-05">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2011-08-05"/>
+  </status>
+  <introduced datetime="2011-07-15"/>
+  <titles>
+    <title as="introduced" type="short">Airport and Airway Extension Act of 2011, Part IV</title>
+    <title as="passed house" type="short">Airport and Airway Extension Act of 2011, Part IV</title>
+    <title as="passed senate" type="short">Airport and Airway Extension Act of 2011, Part IV</title>
+    <title as="enacted" type="short">Airport and Airway Extension Act of 2011, Part IV</title>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to extend the funding and expenditure authority of the Airport and Airway Trust Fund, to amend title 49, United States Code, to extend the airport improvement program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400273"/>
+  <cosponsors>
+    <cosponsor id="400058" joined="2011-07-15"/>
+    <cosponsor id="400318" joined="2011-07-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-07-15">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-07-15">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2011-07-15">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2011-07-18">
+      <text>Referred to the Subcommittee on Aviation.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2011-07-19T20:37:00-04:00">
+      <text>Rules Committee Resolution H. Res. 357 Reported to House. Rule provides for consideration of H.R. 2553 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.</text>
+    </action>
+    <action datetime="2011-07-20T13:36:00-04:00">
+      <text>Rule H. Res. 357 passed House.</text>
+    </action>
+    <action datetime="2011-07-20T13:38:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 357.</text>
+      <reference ref="CR H5257-5266" label="consideration"/>
+    </action>
+    <action datetime="2011-07-20T13:38:00-04:00">
+      <text>Rule provides for consideration of H.R. 2553 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.</text>
+    </action>
+    <action datetime="2011-07-20T13:39:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 2553.</text>
+    </action>
+    <action datetime="2011-07-20T14:39:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H5264" label="consideration"/>
+    </action>
+    <action datetime="2011-07-20T14:40:00-04:00">
+      <text>Mr. Rahall moved to recommit with instructions to Transportation.</text>
+      <reference ref="CR H5264-5265" label="consideration"/>
+      <reference ref="CR H5264" label="text"/>
+    </action>
+    <action datetime="2011-07-20T14:41:00-04:00">
+      <text>DEBATE - The House proceeded with 10 minutes of debate on the Rahall motion to recommit with instructions, pending reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to prohibit air carriers from charging a fee for four or fewer items of baggage checked by a member of the Armed Forces who is traveling in scheduled air transportation on official military duty. Subsequently, the reservation of a point of order was withdrawn.</text>
+    </action>
+    <action datetime="2011-07-20T15:12:00-04:00">
+      <text>On motion to recommit with instructions Failed by the Yeas and Nays: 187 - 233 (Roll no. 610).</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-07-20T15:22:00-04:00" how="roll" result="pass" roll="611" type="vote" where="h">
+      <text>On passage Passed by recorded vote: 243 - 177 (Roll no. 611).</text>
+      <reference ref="CR H5257" label="text"/>
+    </vote>
+    <action datetime="2011-07-20T15:22:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-07-20">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2011-07-21">
+      <text>Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2011-07-22" calendar="Senate Legislative" under="General Orders" number="109">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 109.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="2011-08-05" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S5297" label="consideration"/>
+    </vote>
+    <action datetime="2011-08-05">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2011-08-05">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2011-08-05">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2011-08-05" type="public" number="112-27">
+      <text>Became Public Law No: 112-27.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Transportation and Infrastructure"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="112" type="hr" number="357"/>
+    <bill relation="unknown" session="112" type="h" number="1034"/>
+    <bill relation="unknown" session="112" type="h" number="1079"/>
+    <bill relation="unknown" session="112" type="h" number="1893"/>
+    <bill relation="unknown" session="112" type="h" number="2279"/>
+    <bill relation="unknown" session="112" type="h" number="2279"/>
+    <bill relation="unknown" session="112" type="h" number="2644"/>
+    <bill relation="unknown" session="112" type="s" number="340"/>
+    <bill relation="unknown" session="112" type="s" number="1387"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Aviation and airports"/>
+    <term name="Government trust funds"/>
+    <term name="Motor fuels"/>
+    <term name="Rural conditions and development"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Transportation programs funding"/>
+  </subjects>
+  <amendments/>
+  <summary>8/5/2011--Public Law.
+Airport and Airway Extension Act of 2011, Part IV - (Sec. 2) Amends the Internal Revenue Code to extend through September 16, 2011, increased excise taxes on aviation fuels, the excise tax on air transportation of persons and property, and the expenditure authority for the Airport and Airway Trust Fund. (Sec. 4) Increases the authorization of appropriations for the period beginning on October 1, 2010, and ending on September 16, 2011, for airport planning and development and noise compatibility planning projects (known as airport improvement projects [AIPs]). Extends through September 16, 2011, the authority of the Secretary of Transportation to make new AIP grants. (Sec. 5) Extends until September 17, 2011: (1) the pilot program for passenger facility fee authorizations at non-hub airports, and (2) disclosure requirements for large and medium hub airports applying for AIP grants. Directs the Secretary to extend through September 16, 2011, the termination date of insurance coverage for domestic or foreign-flag aircraft. Grants the Secretary discretionary authority to further extend such coverage through December 31, 2011. Extends through December 31, 2011, the authority of the Secretary to limit air carrier liability for claims arising out of acts of terrorism. Extends through September 16, 2011: (1) grant eligibility for airports located in the Marshall Islands, Micronesia, and Palau; (2) grants to state and local governments for land use compatibility AIPs; and (3) authority for approving an application of the Metropolitan Washington Airports Authority for an airport development grant or for permission to impose a passenger facility fee. Amends the Vision 100 - Century of Aviation Reauthorization Act to extend through September 16, 2011: (1) the temporary increase to 95% of the federal government's share of certain AIP costs, and (2) funding for airport development at Midway Island Airport. (Sec. 6) Revises essential air service (EAS) program eligibility requirements to limit such service to airports (except those in Alaska) that: (1) are located at least 90 miles from the nearest medium or large hub airport, and (2) had an average subisdy per passenger of less than $1,000. Authorizes the Secretary of Transportation to waive such requirements for a particular location if its geographic characteristics result in undue difficulty in accessing the nearest medium or large hub airport.</summary>
+</bill>

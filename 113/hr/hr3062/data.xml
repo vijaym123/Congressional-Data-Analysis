@@ -1,0 +1,61 @@
+<bill session="113" type="h" number="3062" updated="2013-11-02T06:44:47-04:00">
+  <state datetime="2013-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-02"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="short" as="introduced">Adoption Information Act</title>
+    <title type="official" as="introduced">To require assurances that certain family planning service projects and programs will provide pamphlets containing the contact information of adoption centers.</title>
+  </titles>
+  <sponsor id="412255"/>
+  <cosponsors>
+    <cosponsor id="412216" joined="2013-08-02"/>
+    <cosponsor id="400032" joined="2013-08-02"/>
+    <cosponsor id="400046" joined="2013-08-02"/>
+    <cosponsor id="412196" joined="2013-08-02"/>
+    <cosponsor id="412269" joined="2013-08-02"/>
+    <cosponsor id="412555" joined="2013-08-02"/>
+    <cosponsor id="400137" joined="2013-08-02"/>
+    <cosponsor id="412283" joined="2013-08-02"/>
+    <cosponsor id="412460" joined="2013-08-02"/>
+    <cosponsor id="412191" joined="2013-08-02"/>
+    <cosponsor id="412464" joined="2013-08-02"/>
+    <cosponsor id="412256" joined="2013-08-02"/>
+    <cosponsor id="412503" joined="2013-08-02"/>
+    <cosponsor id="400279" joined="2013-08-02"/>
+    <cosponsor id="400313" joined="2013-08-02"/>
+    <cosponsor id="400320" joined="2013-08-02"/>
+    <cosponsor id="400652" joined="2013-08-02"/>
+    <cosponsor id="412431" joined="2013-08-02"/>
+    <cosponsor id="412483" joined="2013-08-02"/>
+    <cosponsor id="400365" joined="2013-08-02"/>
+    <cosponsor id="412213" joined="2013-08-02"/>
+    <cosponsor id="400435" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="1539"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Adoption and foster care"/>
+    <term name="Family planning and birth control"/>
+    <term name="Government information and archives"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+</bill>

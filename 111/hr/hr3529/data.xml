@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="3529" updated="2013-07-19T23:43:56-04:00">
+  <state datetime="2009-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2009-07-31"/>
+  </status>
+  <introduced datetime="2009-07-31"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Small Business Act to increase the maximum loan amount under the Express Loan Program, and for other purposes.</title>
+  </titles>
+  <sponsor id="412239"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2009-07-31"/>
+    <cosponsor id="412299" joined="2009-07-31"/>
+    <cosponsor id="412307" joined="2009-07-31"/>
+    <cosponsor id="409888" joined="2009-07-31"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-31">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+    <action datetime="2009-07-31">
+      <text>Referred to the Subcommittee on Finance and Tax.</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSM19" subcommittee="Finance and Tax" name="House Small Business"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>7/31/2009--Introduced.
+Amends the Small Business Act to increase the maximum loan amount under the Express Loan Program from $350,000 to $2,000,000.</summary>
+</bill>

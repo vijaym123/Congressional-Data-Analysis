@@ -1,0 +1,53 @@
+<bill session="111" type="h" number="1444" updated="2013-07-19T23:24:50-04:00">
+  <state datetime="2009-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="2009-03-11"/>
+  </status>
+  <introduced datetime="2009-03-11"/>
+  <titles>
+    <title as="introduced" type="short">Congressional Commission on Civic Service Act</title>
+    <title as="introduced" type="official">To establish the Congressional Commission on Civic Service to study methods of improving and promoting volunteerism and national service, and for other purposes.</title>
+  </titles>
+  <sponsor id="400262"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2010-01-27"/>
+    <cosponsor id="400111" joined="2009-03-24"/>
+    <cosponsor id="400215" joined="2009-03-11"/>
+    <cosponsor id="400283" joined="2009-03-11"/>
+    <cosponsor id="400326" joined="2009-03-24"/>
+    <cosponsor id="400349" joined="2009-03-11"/>
+    <cosponsor id="400415" joined="2009-03-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-11">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2009-04-29">
+      <text>Referred to the Subcommittee on Healthy Families and Communities.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED04" subcommittee="Healthy Families and Communities" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Advisory bodies"/>
+    <term name="Area studies and international education"/>
+    <term name="Congressional agencies"/>
+    <term name="Congressional operations and organization"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Government information and archives"/>
+    <term name="Higher education"/>
+    <term name="National and community service"/>
+    <term name="Policy sciences"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/2009--Introduced.
+Congressional Commission on Civic Service Act - Establishes the Congressional Commission on Civic Service to make recommendations to Congress for: (1) improving the ability of individuals to serve others; (2) training leaders in public service organizations to better utilize individuals committed to national service and volunteerism as they manage human and fiscal resources; (3) identifying solutions to the barriers that make it difficult for some individuals to volunteer or perform national service; and (4) building on the foundation of current service and volunteer opportunities. Specifies topics to be addressed by the Commission, including deterrents to service, a mandatory service requirement, and the need for a public service academy.</summary>
+</bill>

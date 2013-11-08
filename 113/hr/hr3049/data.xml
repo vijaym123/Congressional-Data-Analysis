@@ -1,0 +1,46 @@
+<bill session="113" type="h" number="3049" updated="2013-11-02T06:44:41-04:00">
+  <state datetime="2013-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-02"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="short" as="introduced">Justice for Fort Hood and Little Rock Heroes Act</title>
+    <title type="official" as="introduced">To treat members of the Armed Forces who were killed or wounded in the November 5, 2009, attack at Fort Hood, Texas, or the June 1, 2009, attack at Little Rock, Arkansas, as if the members were awarded the Purple Heart, to clarify the eligibility of such members for combat-related special compensation, and for other purposes.</title>
+  </titles>
+  <sponsor id="412311"/>
+  <cosponsors>
+    <cosponsor id="400068" joined="2013-08-02"/>
+    <cosponsor id="412401" joined="2013-08-02"/>
+    <cosponsor id="400654" joined="2013-08-02"/>
+    <cosponsor id="412578" joined="2013-08-02"/>
+    <cosponsor id="400435" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2013-08-29">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="1433"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Arkansas"/>
+    <term name="Crime victims"/>
+    <term name="Military personnel and dependents"/>
+    <term name="State and local government operations"/>
+    <term name="Terrorism"/>
+    <term name="Texas"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+</bill>

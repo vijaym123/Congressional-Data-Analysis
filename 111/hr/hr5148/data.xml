@@ -1,0 +1,79 @@
+<bill session="111" type="h" number="5148" updated="2013-07-19T23:58:49-04:00">
+  <state datetime="2010-05-24">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2010-05-24"/>
+  </status>
+  <introduced datetime="2010-04-27"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 39, United States Code, to clarify the instances in which the term "census" may appear on mailable matter.</title>
+  </titles>
+  <sponsor id="400196"/>
+  <cosponsors>
+    <cosponsor id="412270" joined="2010-04-27"/>
+    <cosponsor id="400251" joined="2010-04-27"/>
+    <cosponsor id="400409" joined="2010-04-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-04-27">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2010-04-28T10:42:00-04:00">
+      <text>Mr. Towns moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-04-28T10:42:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2947-2949" label="consideration"/>
+    </action>
+    <action datetime="2010-04-28T10:42:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5148.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-04-28T11:00:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2947" label="text"/>
+    </vote>
+    <action datetime="2010-04-28T11:00:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-04-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2010-05-05">
+      <text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2010-05-05" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S3291" label="consideration"/>
+      <reference ref="CR S3291" label="text as passed Senate"/>
+    </vote>
+    <topresident datetime="2010-05-05">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2010-05-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2010-05-13">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2010-05-24">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2010-05-24" type="public" number="111-170">
+      <text>Became Public Law No: 111-170.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Census and government statistics"/>
+    <term name="Consumer affairs"/>
+    <term name="Marketing and advertising"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>5/24/2010--Public Law.
+Requires, in order to not be disposed of by the U.S. Postal Service, any mailing soliciting the purchase of a product or service or soliciting information or the contribution of funds or membership fees that has the word "census" visible through the envelope, or outside cover or wrapper, to include: (1) the accurate name and return address of the entity sending the mailing; and (2) a notice that the mailing is not affiliated with the federal government.</summary>
+</bill>

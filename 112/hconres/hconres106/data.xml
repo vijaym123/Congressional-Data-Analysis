@@ -1,0 +1,72 @@
+<bill session="112" type="hc" number="106" updated="2013-07-20T02:09:54-04:00">
+  <state datetime="2012-05-09">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2012-05-09"/>
+  </status>
+  <introduced datetime="2012-02-29"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box Derby.</title>
+  </titles>
+  <sponsor id="400189"/>
+  <cosponsors>
+    <cosponsor id="412272" joined="2012-02-29"/>
+    <cosponsor id="412263" joined="2012-02-29"/>
+    <cosponsor id="400283" joined="2012-02-29"/>
+    <cosponsor id="400295" joined="2012-02-29"/>
+    <cosponsor id="400415" joined="2012-02-29"/>
+    <cosponsor id="400435" joined="2012-02-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-02-29">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2012-03-01">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2012-05-07T16:20:00-04:00">
+      <text>Ms. Herrera Beutler moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2012-05-07T16:21:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2295-2296" label="consideration"/>
+    </action>
+    <action datetime="2012-05-07T16:21:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 106.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-05-07T16:30:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H2295" label="text"/>
+    </vote>
+    <action datetime="2012-05-07T16:30:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-05-08">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2012-05-09" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S3049" label="consideration"/>
+    </vote>
+    <action datetime="2012-05-10">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="hc" number="16"/>
+    <bill relation="unknown" session="112" type="hc" number="16"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Games and hobbies"/>
+    <term name="Outdoor recreation"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+  <summary>5/9/2012--Passed Senate without amendment.
+Permits the Greater Washington Soap Box Derby Association to sponsor soap box derby races as a free public event on the Capitol grounds on June 16, 2012.</summary>
+</bill>

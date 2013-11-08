@@ -1,0 +1,60 @@
+<bill session="111" type="h" number="2820" updated="2013-07-19T23:37:13-04:00">
+  <state datetime="2009-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="2009-06-11"/>
+  </status>
+  <introduced datetime="2009-06-11"/>
+  <titles>
+    <title as="introduced" type="short">GPCI Justice Act of 2009</title>
+    <title as="introduced" type="official">To amend title XVIII of the Social Security Act to transition to the use of metropolitan statistical areas as fee schedule areas for the physician fee schedule in California under the Medicare Program.</title>
+  </titles>
+  <sponsor id="400129"/>
+  <cosponsors>
+    <cosponsor id="400009" joined="2009-06-11"/>
+    <cosponsor id="400570" joined="2009-06-11"/>
+    <cosponsor id="400039" joined="2009-06-11"/>
+    <cosponsor id="400062" joined="2009-06-11"/>
+    <cosponsor id="400097" joined="2009-06-11"/>
+    <cosponsor id="400124" joined="2009-06-11"/>
+    <cosponsor id="400133" joined="2009-06-11"/>
+    <cosponsor id="400185" joined="2009-06-11"/>
+    <cosponsor id="412283" joined="2009-06-11"/>
+    <cosponsor id="400196" joined="2009-06-11"/>
+    <cosponsor id="400663" joined="2009-06-11"/>
+    <cosponsor id="400403" joined="2009-06-11"/>
+    <cosponsor id="400436" joined="2009-06-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-11">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-06-11">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-06-11">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2009-06-12">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="1236"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="California"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health personnel"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>6/11/2009--Introduced.
+GPCI Justice Act of 2009 - Amends title XVIII (Medicare) of the Social Security Act, with respect to the geographic practice cost index (GPCI) for adjustments to physician fee schedule areas, to direct the Secretary of Health and Human Services to revise the fee schedule areas for California to use the Metropolitan Statistical Area (MSA) iterative Geographic Adjustment Factor methodology, in accordance with specified requirements.</summary>
+</bill>

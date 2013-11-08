@@ -1,0 +1,91 @@
+<bill session="111" type="h" number="4165" updated="2013-07-19T23:49:48-04:00">
+  <state datetime="2009-12-22">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2009-12-22"/>
+  </status>
+  <introduced datetime="2009-12-01"/>
+  <titles>
+    <title as="introduced" type="official">To extend through December 31, 2010, the authority of the Secretary of the Army to accept and expend funds contributed by non-Federal public entities to expedite the processing of permits.</title>
+  </titles>
+  <sponsor id="400232"/>
+  <cosponsors>
+    <cosponsor id="400011" joined="2009-12-03"/>
+    <cosponsor id="400100" joined="2009-12-03"/>
+    <cosponsor id="400171" joined="2009-12-03"/>
+    <cosponsor id="400176" joined="2009-12-03"/>
+    <cosponsor id="400193" joined="2009-12-08"/>
+    <cosponsor id="400617" joined="2009-12-08"/>
+    <cosponsor id="400262" joined="2009-12-03"/>
+    <cosponsor id="400659" joined="2009-12-03"/>
+    <cosponsor id="400660" joined="2009-12-08"/>
+    <cosponsor id="400376" joined="2009-12-03"/>
+    <cosponsor id="400379" joined="2009-12-08"/>
+    <cosponsor id="400437" joined="2009-12-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-12-01">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2009-12-02">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-12-08T13:53:00-05:00">
+      <text>Mr. Larsen (WA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-12-08T13:53:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H13579-13581" label="consideration"/>
+    </action>
+    <action datetime="2009-12-08T13:53:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4165.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-12-08T14:05:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H13580" label="text"/>
+    </vote>
+    <action datetime="2009-12-08T14:05:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-12-09">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2009-12-10" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S12969" label="consideration"/>
+    </vote>
+    <topresident datetime="2009-12-10">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2009-12-11">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2009-12-14">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2009-12-22">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2009-12-22" type="public" number="111-120">
+      <text>Became Public Law No: 111-120.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="4162"/>
+    <bill relation="unknown" session="111" type="h" number="4162"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Licensing and registrations"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="State and local finance"/>
+  </subjects>
+  <amendments/>
+  <summary>12/22/2009--Public Law.
+Amends the Water Resources Development Act of 2000 to extend through December 31, 2010, the authority of the Secretary of the Army to accept and expend funds contributed by non-federal public entities to expedite the evaluation of permits under the jurisdiction of the Department of the Army.</summary>
+</bill>

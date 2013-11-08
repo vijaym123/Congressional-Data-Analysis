@@ -1,0 +1,51 @@
+<bill session="111" type="sr" number="81" updated="2013-07-20T00:17:01-04:00">
+  <state datetime="2009-07-21">REPORTED</state>
+  <status>
+    <unknown datetime="2009-07-21"/>
+  </status>
+  <introduced datetime="2009-03-23"/>
+  <titles>
+    <title as="introduced" type="official">A resolution supporting the goals and ideals of World Water Day.</title>
+  </titles>
+  <sponsor id="300025"/>
+  <cosponsors>
+    <cosponsor id="300038" joined="2009-06-10"/>
+    <cosponsor id="300060" joined="2009-03-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-03-23">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3617"/>
+    </action>
+    <action state="REFERRED" datetime="2009-03-23">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S3617" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-07-21">
+      <text>Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Foreign Relations"/>
+    </calendar>
+    <action datetime="2009-07-28">
+      <text>Committee on Foreign Relations. Reported by Senator Kerry with an amendment and with an amended preamble. Without written report.</text>
+    </action>
+    <calendar datetime="2009-07-28" calendar="Senate Legislative" under="General Orders" number="131">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 131.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="sr" number="466"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Water quality"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <summary>7/28/2009--Reported to Senate amended.
+Supports the goals and ideals of World Water Day. Urges the investment of greater resources by the Department of State, the United States Agency for International Development (USAID), and all relevant federal departments and agencies toward providing sustainable and equitable access to safe drinking water and sanitation for the poor. Encourages the people of the United States to observe the week of World Water Day with activities that promote awareness of the importance of: (1) access to clean water and sanitation; and (2) cooperation between stakeholders in transboundary water management.</summary>
+</bill>

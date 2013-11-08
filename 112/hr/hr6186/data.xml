@@ -1,0 +1,69 @@
+<bill session="112" type="h" number="6186" updated="2013-07-20T02:03:21-04:00">
+  <state datetime="2012-09-10T19:10:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-09-10T19:10:00-04:00"/>
+  </status>
+  <introduced datetime="2012-07-25"/>
+  <titles>
+    <title as="introduced" type="official">To require a study of voluntary community-based flood insurance options and how such options could be incorporated into the national flood insurance program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400661"/>
+  <cosponsors>
+    <cosponsor id="400010" joined="2012-07-25"/>
+    <cosponsor id="400027" joined="2012-07-25"/>
+    <cosponsor id="400422" joined="2012-07-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-07-25">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2012-07-31">
+      <text>Referred to the Subcommittee on Insurance, Housing and Community Opportunity.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2012-09-10T16:36:00-04:00">
+      <text>Mrs. Biggert moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-09-10T16:36:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5736-5737" label="consideration"/>
+    </action>
+    <action datetime="2012-09-10T16:36:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6186.</text>
+    </action>
+    <action datetime="2012-09-10T16:43:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2012-09-10T19:04:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5748-5749" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-09-10T19:10:00-04:00" how="roll" result="pass" roll="559" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 364 - 11 (Roll no. 559).</text>
+      <reference ref="CR H5736" label="text"/>
+    </vote>
+    <action datetime="2012-09-10T19:10:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-09-11">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee activity="Referral" code="HSBA04" subcommittee="Insurance, Housing and Community Opportunity" name="House Financial Services"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Congressional oversight"/>
+    <term name="Dams and canals"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Floods and storm protection"/>
+    <term name="Government studies and investigations"/>
+  </subjects>
+  <amendments/>
+  <summary>9/10/2012--Passed House without amendment.
+Directs the Administrator of the Federal Emergency Management Agency (FEMA) to assess options, methods, and strategies for making voluntary community-based flood insurance policies available through the National Flood Insurance Program. Requires the report on the study to specified congressional committees to make recommendations for a strategy to implement voluntary community-based flood insurance policies that would encourage communities to undertake flood mitigation activities, including construction, reconstruction, or improvement of levees, dams, or other flood control structures. Directs the Comptroller General to review the Administrator's report and make comments or recommendations to such congressional committees.</summary>
+</bill>

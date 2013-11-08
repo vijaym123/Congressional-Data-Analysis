@@ -1,0 +1,89 @@
+<bill session="111" type="h" number="2182" updated="2013-07-19T23:31:19-04:00">
+  <state datetime="2009-05-19T12:32:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-05-19T12:32:00-04:00"/>
+  </status>
+  <introduced datetime="2009-04-29"/>
+  <titles>
+    <title as="introduced" type="short">Enhanced Oversight of State and Local Economic Recovery Act</title>
+    <title as="reported to house" type="short">Enhanced Oversight of State and Local Economic Recovery Act</title>
+    <title as="passed house" type="short">Enhanced Oversight of State and Local Economic Recovery Act</title>
+    <title as="introduced" type="official">To amend the American Recovery and Reinvestment Act of 2009 to provide for enhanced State and local oversight of activities conducted pursuant to such Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="400409"/>
+  <cosponsors>
+    <cosponsor id="412272" joined="2009-04-29"/>
+    <cosponsor id="400196" joined="2009-04-29"/>
+    <cosponsor id="400227" joined="2009-04-29"/>
+    <cosponsor id="400249" joined="2009-05-06"/>
+    <cosponsor id="400321" joined="2009-04-29"/>
+    <cosponsor id="412239" joined="2009-04-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-04-29">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2009-05-06">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-05-06">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2009-05-18T19:26:00-04:00">
+      <text>Reported by the Committee on Oversight and Government. H. Rept. 111-115.</text>
+    </action>
+    <calendar datetime="2009-05-18T19:26:00-04:00" calendar="Union" number="58">
+      <text>Placed on the Union Calendar, Calendar No. 58.</text>
+    </calendar>
+    <action datetime="2009-05-19T12:25:00-04:00">
+      <text>Mr. Towns moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-05-19T12:25:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5722-5723" label="consideration"/>
+    </action>
+    <action datetime="2009-05-19T12:25:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2182.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-05-19T12:32:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H5722" label="text"/>
+    </vote>
+    <action datetime="2009-05-19T12:32:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-05-20">
+      <text>Received in the Senate.</text>
+    </action>
+    <calendar datetime="2009-07-27" calendar="Senate Legislative" under="General Orders" number="130">
+      <text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 130.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="1064"/>
+    <bill relation="identical" session="111" type="s" number="1064"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Accounting and auditing"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Economic development"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Employment and training programs"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government information and archives"/>
+    <term name="Office of Management and Budget (OMB)"/>
+    <term name="Public contracts and procurement"/>
+    <term name="State and local finance"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/2009--Passed House without amendment.
+Enhanced Oversight of State and Local Economic Recovery Act - Amends the American Recovery and Reinvestment Act of 2009 to require federal agencies receiving funds under such Act, subject to guidance from the Director of the Office of Management and Budget (OMB), to reasonably adjust applicable limits on administrative expenditures for federal awards to help award recipients defray costs of data collection, auditing, contract and grant planning and management, and investigations of waste, fraud, and abuse required under such Act. Authorizes state and local governments receiving funds to set aside up to .5% of such funds, in addition to any funds already allocated to administrative expenditures, to conduct planning and oversight to prevent and detect waste, fraud, and abuse. Authorizes the Administrator of the General Services Administration (GSA) to provide for the use by state and local governments of GSA federal supply schedules for goods or services that are funded by such Act. Makes participation by a firm that sells to a state or local government through such schedule voluntary. Requires the OMB Director to issue guidance to ensure accurate and consistent reporting of "jobs created" and "jobs retained" as those terms are used in such Act.</summary>
+</bill>

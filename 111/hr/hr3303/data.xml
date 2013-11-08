@@ -1,0 +1,51 @@
+<bill session="111" type="h" number="3303" updated="2013-07-19T23:41:56-04:00">
+  <state datetime="2009-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2009-07-23"/>
+  </status>
+  <introduced datetime="2009-07-23"/>
+  <titles>
+    <title as="introduced" type="short">Wage Theft Prevention Act</title>
+    <title as="introduced" type="official">To amend the Port-to-Portal Act of 1947 to suspend the statute of limitations for certain rights of action under the Fair Labor Standards Act during investigations by the Secretary of Labor.</title>
+  </titles>
+  <sponsor id="400278"/>
+  <cosponsors>
+    <cosponsor id="412236" joined="2010-12-01"/>
+    <cosponsor id="400133" joined="2010-11-30"/>
+    <cosponsor id="412204" joined="2009-07-23"/>
+    <cosponsor id="400436" joined="2009-07-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-23">
+      <text>Referred to the Committee on Education and Labor, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-07-23">
+      <text>Referred to House Education and Labor</text>
+    </action>
+    <action datetime="2009-07-23">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2009-10-22">
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+      <committee name="House Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED10" subcommittee="Workforce Protections" name="House Education and Labor"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3877"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Civil actions and liability"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Labor standards"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>7/23/2009--Introduced.
+Wage Theft Prevention Act - Amends the Portal-to-Portal Act to toll the statute of limitations for bringing a cause of action for unpaid minimum wages, unpaid overtime compensation, or liquidated damages under the Fair Standards Act and certain other Acts, starting from the time the Secretary of Labor notifies an employer of the initiation of an investigation regarding the cause of action until such employer is notified of its conclusion.</summary>
+</bill>

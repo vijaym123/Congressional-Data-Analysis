@@ -1,0 +1,127 @@
+<bill session="111" type="h" number="1061" updated="2013-07-19T23:21:24-04:00">
+  <state datetime="2010-12-22">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2010-12-22"/>
+  </status>
+  <introduced datetime="2009-02-13"/>
+  <titles>
+    <title as="introduced" type="short">Hoh Indian Tribe Safe Homelands Act</title>
+    <title as="reported to house" type="short">Hoh Indian Tribe Safe Homelands Act</title>
+    <title as="passed house" type="short">Hoh Indian Tribe Safe Homelands Act</title>
+    <title as="passed senate" type="short">Hoh Indian Tribe Safe Homelands Act</title>
+    <title as="enacted" type="short">Hoh Indian Tribe Safe Homelands Act</title>
+    <title as="introduced" type="official">To transfer certain land to the United States to be held in trust for the Hoh Indian Tribe, to place land into trust for the Hoh Indian Tribe, and for other purposes.</title>
+  </titles>
+  <sponsor id="400109"/>
+  <cosponsors>
+    <cosponsor id="400077" joined="2009-04-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-13">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-06-03">
+      <text>Committee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-07-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-07-09">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2009-10-21T14:25:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-306.</text>
+    </action>
+    <calendar datetime="2009-10-21T14:25:00-04:00" calendar="Union" number="172">
+      <text>Placed on the Union Calendar, Calendar No. 172.</text>
+    </calendar>
+    <action datetime="2010-06-08T14:27:00-04:00">
+      <text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-06-08T14:27:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4223-4225" label="consideration"/>
+    </action>
+    <action datetime="2010-06-08T14:27:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1061.</text>
+    </action>
+    <action datetime="2010-06-08T14:38:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-06-08T18:03:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4227" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-06-08T18:26:00-04:00" how="roll" result="pass" roll="337" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 347 - 0 (Roll no. 337).</text>
+      <reference ref="CR H4223" label="text"/>
+    </vote>
+    <action datetime="2010-06-08T18:26:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="2010-06-09" calendar="Senate Legislative" under="General Orders" number="422">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 422.</text>
+    </calendar>
+    <action datetime="2010-09-29">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S7763" label="consideration"/>
+    </action>
+    <vote state="PASS_BACK:SENATE" datetime="2010-09-29" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate with amendments by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2010-09-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2010-12-14T14:22:00-05:00">
+      <text>Mr. Rahall moved that the House suspend the rules and agree to the Senate amendments.</text>
+    </action>
+    <action datetime="2010-12-14T14:22:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8300-8302" label="consideration"/>
+    </action>
+    <action datetime="2010-12-14T14:22:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on agreeing to the Senate amendments to H.R. 1061.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2010-12-14T14:32:00-05:00" how="by voice vote" result="pass" type="pingpong" where="h">
+      <text>On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.</text>
+      <reference ref="CR H8300" label="text as House agreed to Senate amendment"/>
+    </vote>
+    <action datetime="2010-12-14T14:32:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2010-12-14">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2010-12-17">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2010-12-22">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2010-12-22" type="public" number="111-323">
+      <text>Became Public Law No: 111-323.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="443"/>
+    <bill relation="unknown" session="111" type="s" number="443"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Land transfers"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Washington State"/>
+  </subjects>
+  <amendments>
+    <amendment number="s4686"/>
+  </amendments>
+  <summary>12/22/2010--Public Law.
+Hoh Indian Tribe Safe Homelands Act - Declares that certain federal land in the state of Washington shall be: (1) held in trust by the United States for the benefit of the Hoh Indian Tribe: and (2) part of the Tribe's reservation. Excludes such land from the Olympic National Park. Directs the Tribe to: (1) conduct a federal land survey; and (2) submit the survey to the Director of the National Park Service for review and concurrence. Directs the Secretary, upon conveyance of specified nonfederal land owned by the Tribe, to take such land into trust for the benefit of the Tribe. Prohibits on the federal land: (1) the placement of commercial, residential, or industrial buildings or other structures; (2) any actions that would adversely affect the natural environment; or (3) logging and hunting activities. Directs the Secretary and the Tribe to make cooperative agreements: (1) for mutual emergency fire aid; and (2) to provide opportunities for the public to learn more about the Tribe's culture and traditions. Authorizes the Secretary and the Tribe to establish on the land taken into trust a multipurpose nonmotorized trail from Highway 101 to the Pacific Ocean. Prohibits gaming on land taken into trust under this Act.</summary>
+</bill>

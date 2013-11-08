@@ -1,0 +1,66 @@
+<bill session="112" type="h" number="1252" updated="2013-07-20T01:21:12-04:00">
+  <state datetime="2011-03-30">REFERRED</state>
+  <status>
+    <introduced datetime="2011-03-30"/>
+  </status>
+  <introduced datetime="2011-03-30"/>
+  <titles>
+    <title as="introduced" type="short">Medicare Information Act of 2011</title>
+    <title as="introduced" type="official">To amend title XI of the Social Security Act to provide for the annual mailing of statements of Medicare beneficiary part A contributions and benefits in coordination with the annual mailing of Social Security account statements.</title>
+  </titles>
+  <sponsor id="400081"/>
+  <cosponsors>
+    <cosponsor id="400618" joined="2011-03-31"/>
+    <cosponsor id="400648" joined="2011-03-31"/>
+    <cosponsor id="412420" joined="2011-04-04"/>
+    <cosponsor id="400121" joined="2011-04-08"/>
+    <cosponsor id="412282" joined="2011-05-02"/>
+    <cosponsor id="412421" joined="2011-03-31"/>
+    <cosponsor id="400316" joined="2011-03-31"/>
+    <cosponsor id="412308" joined="2011-03-31"/>
+    <cosponsor id="412331" joined="2011-03-31"/>
+    <cosponsor id="412202" joined="2011-03-31"/>
+    <cosponsor id="400351" joined="2011-03-30"/>
+    <cosponsor id="412314" joined="2011-03-31"/>
+    <cosponsor id="412315" joined="2011-03-31"/>
+    <cosponsor id="400406" joined="2011-03-31"/>
+    <cosponsor id="412239" joined="2011-03-31"/>
+    <cosponsor id="412428" joined="2011-03-31"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-03-30">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-03-30">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2011-03-30">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2011-04-07">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Ways and Means"/>
+    </action>
+    <action datetime="2011-04-07">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="1655"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Government information and archives"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/2011--Introduced.
+Medicare Information Act of 2011 - Amends part A of title XI of the Social Security Act to direct the Secretary of Health and Human Services (HHS) to provide to each eligible individual annually a statement of Medicare part A (Hospital Insurance) contributions and benefits in coordination with the annual mailing of Social Security account statements.</summary>
+</bill>

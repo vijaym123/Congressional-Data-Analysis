@@ -1,0 +1,62 @@
+<bill session="111" type="hc" number="301" updated="2013-07-20T00:15:36-04:00">
+  <state datetime="2010-07-27T18:00:00-04:00">FAIL:ORIGINATING:HOUSE</state>
+  <status>
+    <unknown datetime="2010-07-27T18:00:00-04:00"/>
+  </status>
+  <introduced datetime="2010-07-22"/>
+  <titles>
+    <title as="introduced" type="official">Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove the United States Armed Forces from Pakistan.</title>
+  </titles>
+  <sponsor id="400227"/>
+  <cosponsors>
+    <cosponsor id="400133" joined="2010-07-26"/>
+    <cosponsor id="400311" joined="2010-07-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-22">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2010-07-26T19:34:00-04:00">
+      <text>Rules Committee Resolution H. Res. 1556 Reported to House. Rule provides for consideration of H. Con. Res. 301 with 1 hour of general debate. Measure will be considered read. Bill is closed to amendments.</text>
+    </action>
+    <action datetime="2010-07-27T16:05:00-04:00">
+      <text>Rule H. Res. 1556 passed House.</text>
+    </action>
+    <action datetime="2010-07-27T16:22:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 1556.</text>
+      <reference ref="CR H6114-6124" label="consideration"/>
+      <reference ref="CR H6114" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2010-07-27T16:22:00-04:00">
+      <text>Rule provides for consideration of H. Con. Res. 301 with 1 hour of general debate. Measure will be considered read. Bill is closed to amendments.</text>
+    </action>
+    <action datetime="2010-07-27T16:22:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H. Con. Res. 301.</text>
+    </action>
+    <action datetime="2010-07-27T17:32:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H6124" label="consideration"/>
+    </action>
+    <vote state="FAIL:ORIGINATING:HOUSE" datetime="2010-07-27T18:00:00-04:00" how="roll" result="fail" roll="473" type="vote" where="h">
+      <text>On agreeing to the resolution Failed by the Yeas and Nays: 38 - 372, 4 Present (Roll no. 473).</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="111" type="hr" number="1556"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Asia"/>
+    <term name="Congressional oversight"/>
+    <term name="Military operations and strategy"/>
+    <term name="Pakistan"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="War and emergency powers"/>
+  </subjects>
+  <amendments/>
+  <summary>7/22/2010--Introduced.
+Directs the President, pursuant to section 5(c) of the War Powers Resolution (such section requires the President to remove U.S. Armed Forces engaged in hostilities outside the United States without a declaration of war or specific statutory authorization if Congress directs such removal by concurrent resolution), to remove the U.S. Armed Forces from Pakistan: (1) by no later than the end of the period of 30 days beginning on the day on which this concurrent resolution is adopted; or (2) if the President determines that it is not safe to remove the Armed Forces before the end of that period, by no later than December 31, 2010, or such earlier date as the President determines that the Armed Forces can safely be removed.</summary>
+</bill>

@@ -1,0 +1,72 @@
+<bill session="111" type="h" number="5630" updated="2013-07-20T00:03:23-04:00">
+  <state datetime="2010-09-28T13:23:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-09-28T13:23:00-04:00"/>
+  </status>
+  <introduced datetime="2010-06-29"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to provide for qualifications for vocational rehabilitation counselors and vocational rehabilitation employment coordinators employed by the Department of Veterans Affairs.</title>
+  </titles>
+  <sponsor id="400040"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-06-29">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2010-07-02">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-09-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-09-15">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2010-09-28T12:36:00-04:00">
+      <text>Reported by the Committee on Veterans' Affairs. H. Rept. 111-627.</text>
+    </action>
+    <calendar datetime="2010-09-28T12:36:00-04:00" calendar="Union" number="367">
+      <text>Placed on the Union Calendar, Calendar No. 367.</text>
+    </calendar>
+    <action datetime="2010-09-28T13:21:00-04:00">
+      <text>Mr. Filner moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-09-28T13:21:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7019-7020" label="consideration"/>
+    </action>
+    <action datetime="2010-09-28T13:21:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5630.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-09-28T13:23:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H7020" label="text"/>
+    </vote>
+    <action datetime="2010-09-28T13:23:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-09-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Higher education"/>
+    <term name="Licensing and registrations"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/2010--Passed House without amendment.
+Requires each individual employed by the Department of Veterans Affairs (VA) as a vocational rehabilitation counselor to: (1) have completed a masters degree in vocational rehabilitation counseling before such employment; (2) obtain certification within five years after obtaining such employment; and (3) maintain such certification as a condition of continued employment. Requires each individual employed as a vocational rehabilitation employment coordinator to: (1) have completed a bachelors degree in the relevant field before such employment; (2) obtain certification within five years after obtaining such employment; and (3) maintain such certification as a condition of continued employment. Requires the Director of the VA's Vocational Rehabilitation and Employment Service to develop a remediation plan for a counselor or coordinator who fails to meet any applicable condition and which the counselor or coordinator must complete in order to continue employment.</summary>
+</bill>

@@ -1,0 +1,64 @@
+<bill session="111" type="h" number="2180" updated="2013-07-19T23:31:18-04:00">
+  <state datetime="2009-06-10">REPORTED</state>
+  <status>
+    <unknown datetime="2009-06-10"/>
+  </status>
+  <introduced datetime="2009-04-29"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to waive housing loan fees for certain veterans with service-connected disabilities called to active service.</title>
+  </titles>
+  <sponsor id="412316"/>
+  <cosponsors>
+    <cosponsor id="400133" joined="2009-04-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-04-29">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-05-01">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-05-21">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-06-04">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-06-04">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-06-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-06-10">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2009-06-18T21:16:00-04:00">
+      <text>Reported by the Committee on Veterans' Affairs. H. Rept. 111-163.</text>
+    </action>
+    <calendar datetime="2009-06-18T21:17:00-04:00" calendar="Union" number="81">
+      <text>Placed on the Union Calendar, Calendar No. 81.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disability and paralysis"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="User charges and fees"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/2009--Reported to House without amendment.
+Prohibits the Secretary of Veterans Affairs (VA) from collecting a housing loan fee from any veteran who, but for the receipt of active service pay, would be entitled to compensation for a service-connected disability.</summary>
+</bill>

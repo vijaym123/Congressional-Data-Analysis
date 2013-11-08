@@ -1,0 +1,69 @@
+<bill session="111" type="h" number="3561" updated="2013-07-19T23:44:14-04:00">
+  <state datetime="2010-03-04">REPORTED</state>
+  <status>
+    <unknown datetime="2010-03-04"/>
+  </status>
+  <introduced datetime="2009-09-14"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to increase the amount of educational assistance provided to certain veterans for flight training.</title>
+  </titles>
+  <sponsor id="412316"/>
+  <cosponsors>
+    <cosponsor id="412286" joined="2009-09-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-09-14">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-09-14">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2009-09-14">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2009-09-18">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-09-24">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-10-28">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Armed Services"/>
+    </action>
+    <action datetime="2010-03-04">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-03-04">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-03-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-03-04">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Veterans' Affairs"/>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, In Committee"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Aviation and airports"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Vocational education"/>
+  </subjects>
+  <amendments/>
+  <summary>9/14/2009--Introduced.
+Increases the amount of educational assistance provided to certain veterans for flight training from 60% to 75% of tuition and fees which similarly circumstanced nonveterans enrolled in the same flight course are required to pay.</summary>
+</bill>

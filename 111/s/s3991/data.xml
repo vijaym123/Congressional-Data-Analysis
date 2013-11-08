@@ -1,0 +1,71 @@
+<bill session="111" type="s" number="3991" updated="2013-07-20T01:01:18-04:00">
+  <state datetime="2010-12-08">PROV_KILL:CLOTUREFAILED</state>
+  <status>
+    <unknown datetime="2010-12-08"/>
+  </status>
+  <introduced datetime="2010-11-30"/>
+  <titles>
+    <title as="introduced" type="short">Public Safety Employer-Employee Cooperation Act of 2010</title>
+    <title as="introduced" type="official">A bill to provide collective bargaining rights for public safety officers employed by States or their political subdivisions.</title>
+  </titles>
+  <sponsor id="300082"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2010-11-30">
+      <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+      <reference ref="CR S8299-8301" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-12-01" calendar="Senate Legislative" under="General Orders" number="662">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 662.</text>
+    </calendar>
+    <action datetime="2010-12-06">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S8552" label="consideration"/>
+    </action>
+    <action datetime="2010-12-06">
+      <text>Cloture motion on the motion to proceed to the bill presented in Senate.</text>
+      <reference ref="CR S8552" label="consideration"/>
+      <reference ref="CR S8552" label="text"/>
+    </action>
+    <action datetime="2010-12-06">
+      <text>Motion to proceed to consideration of measure withdrawn in Senate.</text>
+      <reference ref="CR S8552" label="consideration"/>
+    </action>
+    <action datetime="2010-12-08">
+      <text>Motion to proceed to measure considered in Senate.</text>
+      <reference ref="CR S8613-8617, CR S8617" label="consideration"/>
+    </action>
+    <action state="PROV_KILL:CLOTUREFAILED" datetime="2010-12-08">
+      <text>Cloture on the motion to proceed to the bill not invoked in Senate by Yea-Nay Vote. 55 - 43. Record Vote Number: 266.</text>
+      <reference ref="CR S8626-8627" label="consideration"/>
+      <reference ref="CR S8626" label="text"/>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="1611"/>
+    <bill relation="unknown" session="111" type="s" number="3194"/>
+    <bill relation="unknown" session="111" type="s" number="3194"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Alternative dispute resolution, mediation, arbitration"/>
+    <term name="Civil actions and liability"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Federal Labor Relations Authority"/>
+    <term name="Fires"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Health personnel"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Labor-management relations"/>
+    <term name="Law enforcement officers"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments>
+    <amendment number="s4735"/>
+  </amendments>
+  <summary>11/30/2010--Introduced.
+Public Safety Employer-Employee Cooperation Act of 2010 - Declares that it is the purpose of this Act to provide collective bargaining rights for public safety officers employed by states or local governments. Directs the Federal Labor Relations Authority (FLRA) to determine whether a state substantially provides for specified rights and responsibilities for public safety officers, including: (1) granting public safety employees the right to form and join a labor organization which excludes management, supervisory, and confidential employees, and which is, or seeks to be, recognized as the exclusive bargaining agent for such employees; and (2) requiring public safety employers to recognize and agree to bargain with the employees' labor organization. Requires the FLRA to issue, in accordance with the public safety employee rights and responsibilities, regulations establishing collective bargaining procedures for public safety employers and employees in states that do not substantially provide for such rights and responsibilities. Directs the FLRA, in such cases, to: (1) determine the appropriateness of units for labor organization representation; (2) supervise or conduct elections to determine whether a labor organization has been selected as an exclusive representative by a voting majority of the employees in an appropriate unit; (3) resolve issues relating to the duty to bargain in good faith; (4) conduct hearings and resolve complaints of unfair labor practices; and (5) resolve exceptions to arbitrators' awards. Grants a public safety employer, employee, or labor organization the right to seek enforcement of FLRA regulations and orders through appropriate state courts. Prohibits public safety employers, employees, and labor organizations from engaging in lockouts, sickouts, work slowdowns, or strikes. Waives federal preemption of state law governing strikes by public safety officers. Provides that existing collective bargaining units and agreements shall not be invalidated by this Act.</summary>
+</bill>

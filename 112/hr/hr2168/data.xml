@@ -1,0 +1,86 @@
+<bill session="112" type="h" number="2168" updated="2013-07-20T01:29:03-04:00">
+  <state datetime="2011-06-14">REFERRED</state>
+  <status>
+    <introduced datetime="2011-06-14"/>
+  </status>
+  <introduced datetime="2011-06-14"/>
+  <titles>
+    <title as="introduced" type="short">Geolocational Privacy and Surveillance Act</title>
+    <title as="introduced" type="short">GPS Act</title>
+    <title as="introduced" type="official">To amend title 18, United States Code, to specify the circumstances in which a person may acquire geolocation information and for other purposes.</title>
+  </titles>
+  <sponsor id="412270"/>
+  <cosponsors>
+    <cosponsor id="400029" joined="2012-10-16"/>
+    <cosponsor id="400033" joined="2011-10-26"/>
+    <cosponsor id="400071" joined="2012-08-07"/>
+    <cosponsor id="412379" joined="2012-05-18"/>
+    <cosponsor id="412440" joined="2012-02-27"/>
+    <cosponsor id="400076" joined="2011-07-21"/>
+    <cosponsor id="400080" joined="2012-05-08"/>
+    <cosponsor id="400100" joined="2011-09-09"/>
+    <cosponsor id="400129" joined="2011-10-25"/>
+    <cosponsor id="400133" joined="2012-01-27"/>
+    <cosponsor id="400154" joined="2011-06-14"/>
+    <cosponsor id="400162" joined="2012-03-07"/>
+    <cosponsor id="412200" joined="2012-01-17"/>
+    <cosponsor id="400207" joined="2012-07-25"/>
+    <cosponsor id="400234" joined="2012-03-29"/>
+    <cosponsor id="400237" joined="2012-02-01"/>
+    <cosponsor id="400245" joined="2011-09-20"/>
+    <cosponsor id="400253" joined="2012-08-01"/>
+    <cosponsor id="412307" joined="2012-02-15"/>
+    <cosponsor id="400652" joined="2012-11-28"/>
+    <cosponsor id="412308" joined="2012-05-18"/>
+    <cosponsor id="400343" joined="2012-02-08"/>
+    <cosponsor id="400360" joined="2011-09-20"/>
+    <cosponsor id="400365" joined="2012-02-02"/>
+    <cosponsor id="400387" joined="2012-07-09"/>
+    <cosponsor id="412254" joined="2012-06-08"/>
+    <cosponsor id="412239" joined="2011-06-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-06-14">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-06-14">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2011-06-14">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="2011-07-11">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <action datetime="2012-05-17">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="6529"/>
+    <bill relation="unknown" session="112" type="s" number="1212"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Civil actions and liability"/>
+    <term name="Computers and information technology"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Right of privacy"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+  <summary>6/14/2011--Introduced.
+Geolocational Privacy and Surveillance Act or the GPS Act - Amends the federal criminal code to prohibit intentionally: (1) intercepting geolocation information pertaining to another person; (2) disclosing to any other person such information pertaining to another, knowing that the information was obtained in violation of this Act; (3) using geolocation information, knowing that the information was obtained in violation of this Act; or (4) disclosing to any other person the geolocation information pertaining to another person intercepted by means authorized under this Act, knowing that the information was obtained in connection with a criminal investigation, having obtained or received information in connection with a criminal investigation, with intent to improperly obstruct, impede, or interfere with a duly authorized criminal investigation. Sets penalties for violations.Makes specified exceptions for interceptions involving: (1) information acquired by a provider of covered services (electronic communication service, remote computing service, or geolocation information service) in the normal course of business; (2) federal officers, employees, or agents conducting foreign intelligence surveillance; (3) persons having given prior consent; (4) public information; (5) emergency information; (6) theft; and (7) a warrant.Prohibits: (1) a person providing covered services from intentionally divulging geolocation information pertaining to another person, with exceptions; and (2) the use of such information, and evidence derived from it, as evidence. Authorizes: (1) the use of geolocation information by investigative or law enforcement officers, or by a state's principal prosecuting attorney, to intercept such information under specified emergency circumstances; and (2) the recovery of civil damages by any person whose geolocation information is intercepted, disclosed, or intentionally used in violation of this Act.Modifies the Federal Rules of Criminal Procedure to require a search warrant to acquire geolocation information. Amends the federal criminal code to include any geolocation information service within the definition of a "covered entity" for purposes of provisions prohibiting obtaining confidential phone records information from such an entity by fraud or related activity. Directs the United States Sentencing Commission to review the federal sentencing guidelines and policy statements applicable to persons convicted of fraud and related activity in connection with obtaining certain confidential phone records information. Prohibits acquiring geolocation information of a person for protective activities or law enforcement or intelligence purposes except pursuant to a warrant issued under the Federal Rules of Criminal Procedure or the Foreign Intelligence Surveillance Act.</summary>
+</bill>

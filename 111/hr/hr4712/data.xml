@@ -1,0 +1,40 @@
+<bill session="111" type="h" number="4712" updated="2013-07-19T23:54:58-04:00">
+  <state datetime="2010-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2010-02-26"/>
+  </status>
+  <introduced datetime="2010-02-26"/>
+  <titles>
+    <title as="introduced" type="official">To include the county of Mohave, in the State of Arizona, as an affected area for purposes of making claims under the Radiation Exposure Compensation Act based on exposure to atmospheric nuclear testing.</title>
+  </titles>
+  <sponsor id="400141"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-02-26">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2010-04-26">
+      <text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Citizenship, Refugees, Border Security, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="1342"/>
+    <bill relation="identical" session="111" type="s" number="3270"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Arizona"/>
+    <term name="Cancer"/>
+    <term name="Government liability"/>
+    <term name="Nuclear weapons"/>
+    <term name="Radiation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2010--Introduced.
+Amends the Radiation Exposure Compensation Act to include the county of Mohave, Arizona, among affected areas for purposes of payments to individuals with certain medical conditions who were exposed to fallout emitted during the U.S. government's atmospheric nuclear tests.</summary>
+</bill>

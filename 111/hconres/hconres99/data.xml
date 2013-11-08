@@ -1,0 +1,61 @@
+<bill session="111" type="hc" number="99" updated="2013-07-20T00:13:50-04:00">
+  <state datetime="2009-04-27T14:51:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-04-27T14:51:00-04:00"/>
+  </status>
+  <introduced datetime="2009-04-02"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals and ideals of a National Early Educator Worthy Wage Day.</title>
+  </titles>
+  <sponsor id="400257"/>
+  <cosponsors>
+    <cosponsor id="412276" joined="2009-04-27"/>
+    <cosponsor id="400162" joined="2009-04-21"/>
+    <cosponsor id="412200" joined="2009-04-27"/>
+    <cosponsor id="400321" joined="2009-04-02"/>
+    <cosponsor id="412232" joined="2009-04-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-04-02">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2009-04-27T14:44:00-04:00">
+      <text>Mrs. McCarthy (NY) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2009-04-27T14:45:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4744-4745" label="consideration"/>
+    </action>
+    <action datetime="2009-04-27T14:45:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 99.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-04-27T14:51:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H4744" label="text"/>
+    </vote>
+    <action datetime="2009-04-27T14:51:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-04-28">
+      <text>Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="sc" number="21"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Child care and development"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Preschool education"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>4/27/2009--Passed House without amendment.
+Supports the goals and ideals of National Early Educator Worthy Wage Day. Urges public officials and the general public to honor early childhood care and education staff and programs in their communities, and to work together to resolve the early childhood education staff compensation crisis.</summary>
+</bill>

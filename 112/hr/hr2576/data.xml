@@ -1,0 +1,85 @@
+<bill session="112" type="h" number="2576" updated="2013-07-20T01:32:35-04:00">
+  <state datetime="2011-10-27T10:57:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2011-10-27T10:57:00-04:00"/>
+  </status>
+  <introduced datetime="2011-07-18"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to modify the calculation of modified adjusted gross income for purposes of determining eligibility for certain healthcare-related programs.</title>
+  </titles>
+  <sponsor id="412478"/>
+  <cosponsors>
+    <cosponsor id="400116" joined="2011-08-01"/>
+    <cosponsor id="412202" joined="2011-07-19"/>
+    <cosponsor id="412315" joined="2011-07-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-07-18">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2011-10-13">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Ways and Means"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-10-13">
+      <text>Ordered to be Reported by the Yeas and Nays: 23 - 12.</text>
+      <committee name="House Committee on Ways and Means"/>
+    </calendar>
+    <action datetime="2011-10-18T11:32:00-04:00">
+      <text>Reported by the Committee on Ways and Means. H. Rept. 112-254.</text>
+    </action>
+    <calendar datetime="2011-10-18T11:32:00-04:00" calendar="Union" number="170">
+      <text>Placed on the Union Calendar, Calendar No. 170.</text>
+    </calendar>
+    <action datetime="2011-10-25T17:34:00-04:00">
+      <text>Rules Committee Resolution H. Res. 448 Reported to House. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. The resolution waives all points of order against consideration of the bills. It directs the Clerk to, in the engrossment of H.R. 674, add the test of H.R. 2576, as passed by the</text>
+    </action>
+    <action datetime="2011-10-27T09:45:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 448.</text>
+      <reference ref="CR H7143-7149" label="consideration"/>
+    </action>
+    <action datetime="2011-10-27T09:45:00-04:00">
+      <text>Rule provides for consideration of H.R. 2576 and H.R. 674 with 1 hour of general debate on each measure. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions on each measure. Measures will be considered read. Bills are closed to amendments. The resolution waives all points of order against consideration of both bills and directs the Clerk, in the engrossment of H.R. 674, to add the text of H.R. 2576, as passed by the House, as new matter at the end of H.R. 674.</text>
+    </action>
+    <action datetime="2011-10-27T09:46:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 2576.</text>
+    </action>
+    <action datetime="2011-10-27T10:31:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H7148" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-10-27T10:57:00-04:00" how="roll" result="pass" roll="813" type="vote" where="h">
+      <text>On passage Passed by the Yeas and Nays: 262 - 157 (Roll no. 813).</text>
+      <reference ref="CR H7143" label="text"/>
+    </vote>
+    <action datetime="2011-10-27T10:57:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-10-27T11:45:00-04:00">
+      <text>Pursuant to the provisions of H.Res. 448, the text of H.R. 2576, as passed by the House, is appended at the end of H.R. 674 as new matter.</text>
+    </action>
+    <action datetime="2011-10-27T11:45:00-04:00">
+      <text>Pursuant to the provisions of H. Res. 448, H.R. 2576 is laid on the table.</text>
+      <reference ref="CR H7151" label="consideration"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="hr" number="448"/>
+    <bill relation="rule" session="112" type="hr" number="448"/>
+    <bill relation="unknown" session="112" type="hr" number="448"/>
+    <bill relation="unknown" session="112" type="s" number="1762"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Income tax credits"/>
+    <term name="Income tax exclusion"/>
+    <term name="Social security and elderly assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>10/27/2011--Passed House without amendment.
+Amends the Internal Revenue Code to include social security benefits that are excluded from gross income in the calculation of modified adjusted gross income for purposes of determining eligibility for the tax credit for coverage under a qualified health plan.</summary>
+</bill>

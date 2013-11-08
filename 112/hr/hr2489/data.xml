@@ -1,0 +1,99 @@
+<bill session="112" type="h" number="2489" updated="2013-07-20T01:31:51-04:00">
+  <state datetime="2012-09-10T16:34:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-09-10T16:34:00-04:00"/>
+  </status>
+  <introduced datetime="2011-07-11"/>
+  <titles>
+    <title as="introduced" type="short">American Battlefield Protection Program Amendments Act of 2011</title>
+    <title as="reported to house" type="short">American Battlefield Protection Program Amendments Act of 2012</title>
+    <title as="passed house" type="short">American Battlefield Protection Program Amendments Act of 2012</title>
+    <title as="introduced" type="official">To authorize the acquisition and protection of nationally significant battlefields and associated sites of the Revolutionary War and the War of 1812 under the American Battlefield Protection Program.</title>
+  </titles>
+  <sponsor id="400184"/>
+  <cosponsors>
+    <cosponsor id="400110" joined="2011-12-06"/>
+    <cosponsor id="400640" joined="2011-07-11"/>
+    <cosponsor id="400178" joined="2011-07-11"/>
+    <cosponsor id="400195" joined="2011-12-06"/>
+    <cosponsor id="412290" joined="2011-12-06"/>
+    <cosponsor id="400263" joined="2011-12-06"/>
+    <cosponsor id="400346" joined="2011-07-11"/>
+    <cosponsor id="412319" joined="2012-04-18"/>
+    <cosponsor id="412239" joined="2011-07-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-07-11">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2011-07-14">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-01-24">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-04-25">
+      <text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-04-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-04-25">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2012-07-17T18:13:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-605.</text>
+    </action>
+    <calendar datetime="2012-07-17T18:14:00-04:00" calendar="Union" number="440">
+      <text>Placed on the Union Calendar, Calendar No. 440.</text>
+    </calendar>
+    <action datetime="2012-09-10T16:26:00-04:00">
+      <text>Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-09-10T16:26:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5735-5736" label="consideration"/>
+    </action>
+    <action datetime="2012-09-10T16:26:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2489.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-09-10T16:34:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5735" label="text"/>
+    </vote>
+    <action datetime="2012-09-10T16:34:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="2012-09-11" calendar="Senate Legislative" under="General Orders" number="505">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 505.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="779"/>
+    <bill relation="unknown" session="112" type="s" number="779"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Conflicts and wars"/>
+    <term name="Europe"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+    <term name="Military history"/>
+    <term name="Outdoor recreation"/>
+    <term name="U.S. history"/>
+    <term name="United Kingdom"/>
+  </subjects>
+  <amendments/>
+  <summary>9/10/2012--Passed House amended.
+American Battlefield Protection Program Amendments of 2012 - Amends the Omnibus Public Land Management Act of 2009, with respect to the Battlefield Acquisition Grant Program, to: (1) expand the current definition of "battlefield report" to include the report entitled "Report to Congress on the Historic Preservation of Revolutionary War and War of 1812 Sites in the United States," and (2) expand the Program to permit the acquisition not only of an "interest in an eligible site," but also an "eligible site." Requires acquisitions of lands or interests under the Act to be from willing sellers only. Requires the Secretary of the Interior to submit to Congress a report on activities carried out under this Act. Prohibits the use of any acquisition grant program funds for purposes of lobbying. Extends the authorization of appropriations to provide grants through FY2017.</summary>
+</bill>

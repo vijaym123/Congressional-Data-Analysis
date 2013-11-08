@@ -1,0 +1,77 @@
+<bill session="111" type="h" number="174" updated="2013-07-19T23:13:24-04:00">
+  <state datetime="2009-11-02T16:14:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-11-02T16:14:00-05:00"/>
+  </status>
+  <introduced datetime="2009-01-06"/>
+  <titles>
+    <title as="introduced" type="official">To direct the Secretary of Veterans Affairs to establish a national cemetery for veterans in the southern Colorado region.</title>
+  </titles>
+  <sponsor id="400620"/>
+  <cosponsors>
+    <cosponsor id="400101" joined="2009-01-09"/>
+    <cosponsor id="412204" joined="2009-01-09"/>
+    <cosponsor id="400199" joined="2009-01-09"/>
+    <cosponsor id="412191" joined="2009-01-06"/>
+    <cosponsor id="412298" joined="2009-03-17"/>
+    <cosponsor id="412192" joined="2009-01-23"/>
+    <cosponsor id="412308" joined="2009-03-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-01-06">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-01-06">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2009-01-06">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2009-01-09">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-09-28">
+      <text>Subcommittee on Disability Assistance and Memorial Affairs Discharged.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-11-02T16:06:00-05:00">
+      <text>Mr. Walz moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-11-02T16:06:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H12168-12170" label="consideration"/>
+    </action>
+    <action datetime="2009-11-02T16:06:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 174.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-11-02T16:14:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H12168" label="text"/>
+    </vote>
+    <action datetime="2009-11-02T16:14:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-11-03">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral, Discharged" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="691"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Colorado"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+  <summary>11/2/2009--Passed House without amendment.
+Directs the Secretary of Veterans Affairs to establish a national cemetery in El Paso County, Colorado. Requires a report from the Secretary to Congress on such establishment.</summary>
+</bill>

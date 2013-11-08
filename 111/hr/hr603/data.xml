@@ -1,0 +1,65 @@
+<bill session="111" type="h" number="603" updated="2013-07-19T23:17:19-04:00">
+  <state datetime="2009-02-23T16:13:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-02-23T16:13:00-05:00"/>
+  </status>
+  <introduced datetime="2009-01-16"/>
+  <titles>
+    <title as="introduced" type="short">Utah National Guard Readiness Act</title>
+    <title as="passed house" type="short">Utah National Guard Readiness Act</title>
+    <title as="introduced" type="official">To require the conveyance of certain public land within the boundaries of Camp Williams, Utah, to support the training and readiness of the Utah National Guard.</title>
+  </titles>
+  <sponsor id="400029"/>
+  <cosponsors>
+    <cosponsor id="412270" joined="2009-01-16"/>
+    <cosponsor id="400255" joined="2009-01-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-01-16">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-02-04">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-02-23T16:09:00-05:00">
+      <text>Ms. Bordallo moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-02-23T16:09:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1627-1628" label="consideration"/>
+    </action>
+    <action datetime="2009-02-23T16:09:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 603.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-02-23T16:13:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H1627" label="text"/>
+    </vote>
+    <action datetime="2009-02-23T16:13:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-02-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="1718"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Land transfers"/>
+    <term name="Military facilities and property"/>
+    <term name="National Guard and reserves"/>
+    <term name="Utah"/>
+  </subjects>
+  <amendments/>
+  <summary>2/23/2009--Passed House without amendment.
+Utah National Guard Readiness Act - Directs the Secretary of the Interior, acting through the Bureau of Land Management (BLM), to convey, without consideration, to the state of Utah all interest of the United States in and to certain lands that are located within the boundaries of the public lands currently withdrawn for military use by the Utah National Guard and known as "Camp Williams" for the purpose of permitting the Utah National Guard to use such conveyed land. Revokes a specified Executive Order only insofar as it affects the lands identified for conveyance. Reverts conveyed lands to the United States if the Secretary determines that the land, or any part of such land, is sold or attempted to be sold, or that it or any part of it is used for non-National Guard or non-national defense purposes. Requires any such determination to be made in consultation with the Secretary of Defense and the Governor of Utah and on the record after an opportunity for comment. Requires the state, with respect to any part of the land conveyed that the Secretary determines is subject to reversion, and if the Secretary also determines that the part contains hazardous materials, to pay the United States the fair market value of that part of the conveyed land. Bars the application of the reversionary interest to that part of the land.</summary>
+</bill>

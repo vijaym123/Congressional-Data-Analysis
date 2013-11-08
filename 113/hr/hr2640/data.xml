@@ -1,0 +1,84 @@
+<bill session="113" type="h" number="2640" updated="2013-11-02T06:41:13-04:00">
+  <state datetime="2013-10-29T14:29:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-10-29T14:29:00-04:00"/>
+  </status>
+  <introduced datetime="2013-07-10"/>
+  <titles>
+    <title type="short" as="introduced">Central Oregon Jobs and Water Security Act</title>
+    <title type="short" as="reported to house">Central Oregon Jobs and Water Security Act</title>
+    <title type="short" as="passed house">Central Oregon Jobs and Water Security Act</title>
+    <title type="official" as="introduced">To amend the Wild and Scenic Rivers Act to adjust the Crooked River boundary, to provide water certainty for the City of Prineville, Oregon, and for other purposes.</title>
+  </titles>
+  <sponsor id="400419"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-07-11">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-07-11">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-07-24">
+      <text>Subcommittee on Public Lands and Environmental Regulation Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-07-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar datetime="2013-07-24" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2013-07-24">
+      <text>Subcommittee on Water and Power Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-09-20T13:01:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 113-224.</text>
+    </action>
+    <calendar datetime="2013-09-20T13:02:00-04:00" calendar="Union" number="164">
+      <text>Placed on the Union Calendar, Calendar No. 164.</text>
+    </calendar>
+    <action datetime="2013-10-29T14:20:00-04:00">
+      <text>Mr. Young (AK) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-10-29T14:21:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6850-6852" label="consideration"/>
+    </action>
+    <action datetime="2013-10-29T14:21:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2640.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2013-10-29T14:29:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6850-6851" label="text"/>
+    </vote>
+    <action datetime="2013-10-30">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+    <committee activity="Referral, Discharged" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Dams and canals"/>
+    <term name="Oregon"/>
+    <term name="Water use and supply"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+  <summary>7/10/2013--Introduced.
+Central Oregon Jobs and Water Security Act - Amends the Wild and Scenic Rivers Act to modify the boundary of the Crooked River, Oregon. Requires the developer for any hydropower development at Bowman Dam to analyze any impacts to the Outstanding Remarkable Values of the Wild and Scenic River that may be caused by such development and propose mitigation for such impacts as part of any license application submitted to the Federal Energy Regulatory Commission (FERC). Increases (from 10 to 17 cubic feet per second) the minimum release that shall be maintained from the Prineville Reservoir for the benefit of downstream fish life. Requires 7 of the 17 cubic feet per second release to serve as mitigation for the city of Prineville groundwater pumping, as determined necessary for any given year by the city, including any shaping of the release of the up to 7 cubic feet per second to coincide with the city's groundwater pumping as may be required by the state of Oregon. Authorizes the Secretary of the Army to make applications to that state in conjunction with that city to protect these supplies instream. Directs the city to make payment to the Secretary for that portion of the minimum release that actually serves as mitigation under Oregon law. Authorizes the Secretary to contract exclusively with the city for additional amounts in the future at the city's request. Directs the Secretary, on a "first fill" priority basis, to store in and release from the Reservoir: (1) 68,273 acre feet of water annually to fulfill all 16 Bureau of Reclamation contracts existing as of January 1, 2011; (2) up to 2,740 acre feet of water annually to supply the McKay Creek lands; and (3) up to 10,000 acre feet of water annually to the North Unit Irrigation District, upon request, pursuant to a Temporary Water Service Contract. Authorizes any landowner within Ochoco Irrigation District, Oregon, to repay construction costs of project facilities allocated to that landowner's lands within that District. Requires the Secretary of the Interior, upon the request of a landowner who has repaid project construction costs, to provide certification of freedom from ownership and pricing limitations. Modifies the District's reclamation contracts, on approval of the District directors, to: (1) authorize the use of water for instream purposes in order for the District to engage in, or take advantage of, conserved water projects and temporary instream leasing as authorized by Oregon law; (2) include within the district boundary approximately 2,742 acres in the vicinity of McKay Creek; (3) classify approximately 685 of such acres as irrigable; and (4) provide the District with stored water from Prineville Reservoir for supplying such 685 acres, contingent on the transfer of existing appurtenant McKay Creek water rights to instream use and the state's issuance of water rights for the use of stored water.</summary>
+</bill>

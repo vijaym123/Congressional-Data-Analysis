@@ -1,0 +1,48 @@
+<bill session="113" type="h" number="3070" updated="2013-11-02T06:44:51-04:00">
+  <state datetime="2013-09-09">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-09"/>
+  </status>
+  <introduced datetime="2013-09-09"/>
+  <titles>
+    <title type="short" as="introduced">NSA Accountability Act</title>
+    <title type="official" as="introduced">To amend section 501 of the Foreign Intelligence Surveillance Act of 1978 to reform access to certain business records for foreign intelligence and international terrorism investigations, and for other purposes.</title>
+  </titles>
+  <sponsor id="400646"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-09-09" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-09-09">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-09-09">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="2013-10-15">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="2399"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Business records"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>9/9/2013--Introduced.
+NSA Accountability Act - Amends the Foreign Intelligence Surveillance Act of 1978 (FISA) (as amended by the USA PATRIOT Act) to require the Federal Bureau of Investigation (FBI) (in some cases, on behalf of the National Security Agency [NSA]), in applications for court orders requiring the production of tangible things (commonly referred to as business records, including books, records, papers, documents, and other items) for an investigation to obtain foreign intelligence information not concerning a U.S. person or to protect against international terrorism or clandestine intelligence activities, to include a statement of specific and articulable facts showing reasonable grounds to believe that such things are relevant and material to an authorized investigation. (Currently, a general statement of facts must only show that the tangible things are relevant to an authorized investigation.) Requires that the items sought pertain only to an individual that is the subject of such investigation. Removes a list of production items currently designated as presumptively relevant. (Currently, tangible things are considered to be presumptively relevant if the government shows that they pertain to a foreign power or an agent of a foreign power, the activities of a suspected agent of a foreign power who is the subject of such authorized investigation, or an individual in contact with, or known to, a suspected agent of a foreign power who is the subject of such authorized investigation.) Requires, in the case of a violation of the requirements addressing production orders for tangible things, that all unobligated funds made available to carry out such activities in the fiscal year be withheld for the period beginning on the date of such violation until September 30 of such fiscal year.</summary>
+</bill>

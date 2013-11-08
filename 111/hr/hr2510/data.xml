@@ -1,0 +1,87 @@
+<bill session="111" type="h" number="2510" updated="2013-07-19T23:34:29-04:00">
+  <state datetime="2009-07-30T16:14:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-07-30T16:14:00-04:00"/>
+  </status>
+  <introduced datetime="2009-05-20"/>
+  <titles>
+    <title as="introduced" type="short">Absentee Ballot Track, Receive, and Confirm Act</title>
+    <title as="reported to house" type="short">Absentee Ballot Track, Receive, and Confirm Act</title>
+    <title as="passed house" type="short">Absentee Ballot Track, Receive, and Confirm Act</title>
+    <title as="introduced" type="official">To amend the Help America Vote Act of 2002 to reimburse States for the costs incurred in establishing a program to track and confirm the receipt of voted absentee ballots in elections for Federal office and make information on the receipt of such ballots available by means of online access, and for other purposes.</title>
+  </titles>
+  <sponsor id="400097"/>
+  <cosponsors>
+    <cosponsor id="400184" joined="2009-06-10"/>
+    <cosponsor id="412190" joined="2009-05-20"/>
+    <cosponsor id="400263" joined="2009-06-10"/>
+    <cosponsor id="412232" joined="2009-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-05-20">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1211"/>
+    </action>
+    <action state="REFERRED" datetime="2009-05-20">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2009-06-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on House Administration"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-06-10">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on House Administration"/>
+    </calendar>
+    <action datetime="2009-06-19T12:19:00-04:00">
+      <text>Reported by the Committee on House Administration. H. Rept. 111-169.</text>
+    </action>
+    <calendar datetime="2009-06-19T12:19:00-04:00" calendar="Union" number="85">
+      <text>Placed on the Union Calendar, Calendar No. 85.</text>
+    </calendar>
+    <action datetime="2009-07-28T18:36:00-04:00">
+      <text>Mrs. Davis (CA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-07-28T18:37:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8938-8940" label="consideration"/>
+    </action>
+    <action datetime="2009-07-28T18:37:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2510.</text>
+    </action>
+    <action datetime="2009-07-28T18:47:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Lungren, Daniel E. objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2009-07-30T16:13:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H9139" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-07-30T16:14:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR 7/28/2009 H8938-8939" label="text"/>
+    </vote>
+    <action datetime="2009-07-30T16:14:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-08-03">
+      <text>Received in the Senate and Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Markup, Reporting"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Government information and archives"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Internet and video services"/>
+    <term name="State and local finance"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+  <summary>7/30/2009--Passed House without amendment.
+Absentee Ballot Track, Receive, and Confirm Act - Amends the Help America Vote Act of 2002 to direct the Election Assistance Commission (EAC) to make a payment to reimburse a state for the costs incurred in establishing, if the state so chooses, an absentee ballot tracking program for federal elections.</summary>
+</bill>

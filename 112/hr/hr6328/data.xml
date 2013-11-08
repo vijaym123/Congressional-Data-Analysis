@@ -1,0 +1,108 @@
+<bill session="112" type="h" number="6328" updated="2013-07-20T01:29:09-04:00">
+  <state datetime="2013-01-14">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2013-01-14"/>
+  </status>
+  <introduced datetime="2012-08-02"/>
+  <titles>
+    <title as="introduced" type="short">Clothe a Homeless Hero Act</title>
+    <title as="passed house" type="short">Clothe a Homeless Hero Act</title>
+    <title as="passed senate" type="short">Clothe a Homeless Hero Act</title>
+    <title as="enacted" type="short">Clothe a Homeless Hero Act</title>
+    <title as="introduced" type="official">To amend title 49, United States Code, to direct the Assistant Secretary of Homeland Security (Transportation Security Administration) to transfer unclaimed clothing recovered at airport security checkpoints to local veterans organizations and other local charitable organizations, and for other purposes.</title>
+  </titles>
+  <sponsor id="412497"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2012-09-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-08-02">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2012-09-05">
+      <text>Referred to the Subcommittee on Transportation Security.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2012-11-27T17:16:00-05:00">
+      <text>Mr. Bilirakis moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-11-27T17:16:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6440-6441" label="consideration"/>
+    </action>
+    <action datetime="2012-11-27T17:16:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6328.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-11-27T17:22:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6440" label="text"/>
+    </vote>
+    <action datetime="2012-11-27T17:23:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-11-28">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <action datetime="2012-12-11">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S7752" label="consideration"/>
+    </action>
+    <vote state="PASS_BACK:SENATE" datetime="2012-12-11" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S7752" label="text"/>
+    </vote>
+    <action datetime="2012-12-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2012-12-30T17:02:00-05:00">
+      <text>Mr. Bilirakis moved that the House suspend the rules and agree to the Senate amendment.</text>
+      <reference ref="CR H7446-7448" label="consideration"/>
+    </action>
+    <action datetime="2012-12-30T17:02:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 6328.</text>
+    </action>
+    <action datetime="2012-12-30T17:13:00-05:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Bilirakis objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2013-01-01T23:12:00-05:00" how="by voice vote" result="pass" type="pingpong" where="h">
+      <text>On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.</text>
+      <reference ref="CR H7559" label="consideraation"/>
+      <reference ref="CR 12/30/2012 H7447" label="text as House agreed to Senate amendment"/>
+    </vote>
+    <action datetime="2013-01-01T23:12:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2013-01-03">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2013-01-14">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2013-01-14" type="public" number="112-271">
+      <text>Became Public Law No: 112-271.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM07" subcommittee="Transportation Security" name="House Homeland Security"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="2179"/>
+    <bill relation="unknown" session="112" type="s" number="3640"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Aviation and airports"/>
+    <term name="Homelessness and emergency shelter"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Transportation safety and security"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3328"/>
+  </amendments>
+  <summary>1/14/2013--Public Law.
+Clothe a Homeless Hero Act - Directs the Assistant Secretary of Homeland Security (Transportation Security Administration [TSA] ) to transfer unclaimed clothing recovered at airport security checkpoints to the local airport authority or other local authorities for donation to charity, including local veterans organizations or other local charitable organizations for distribution to homeless or needy veterans and their families. Authorizes the Assistant Secretary to enter into agreements with airport authorities for disposing of such clothing.</summary>
+</bill>

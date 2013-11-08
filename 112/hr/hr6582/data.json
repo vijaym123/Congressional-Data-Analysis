@@ -1,0 +1,393 @@
+{
+  "actions": [
+    {
+      "acted_at": "2012-11-02", 
+      "committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-11-02", 
+      "in_committee": "House Committee on Energy and Commerce", 
+      "references": [], 
+      "subcommittee": "Energy and Power", 
+      "text": "Referred to the Subcommittee on Energy and Power.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2012-12-04T12:31:00-05:00", 
+      "references": [], 
+      "text": "Mr. Whitfield moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-04T12:32:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H6599-6606", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-04T12:32:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 6582.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-04T13:04:00-05:00", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-04T13:46:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H6607", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-04T14:11:00-05:00", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H6599-6602", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "614", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 398 - 2, 1 Present (Roll no. 614).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2012-12-04T14:11:00-05:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-05", 
+      "references": [], 
+      "text": "Received in the Senate, read twice.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-06", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S7688", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2012-12-06", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2012-12-12", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2012-12-18", 
+      "references": [], 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }, 
+    {
+      "acted_at": "2012-12-18", 
+      "congress": "112", 
+      "law": "public", 
+      "number": "210", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Became Public Law No: 112-210.", 
+      "type": "enacted"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6582-112", 
+  "bill_type": "hr", 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Energy and Power", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "112", 
+  "cosponsors": [
+    {
+      "district": "7", 
+      "name": "Blackburn, Marsha", 
+      "sponsored_at": "2012-11-02", 
+      "state": "TN", 
+      "thomas_id": "01748", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Braley, Bruce L.", 
+      "sponsored_at": "2012-11-30", 
+      "state": "IA", 
+      "thomas_id": "01845", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Carnahan, Russ", 
+      "sponsored_at": "2012-11-02", 
+      "state": "MO", 
+      "thomas_id": "01789", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Cooper, Jim", 
+      "sponsored_at": "2012-11-02", 
+      "state": "TN", 
+      "thomas_id": "00231", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Emerson, Jo Ann", 
+      "sponsored_at": "2012-11-28", 
+      "state": "MO", 
+      "thomas_id": "01481", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Graves, Sam", 
+      "sponsored_at": "2012-11-30", 
+      "state": "MO", 
+      "thomas_id": "01656", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kind, Ron", 
+      "sponsored_at": "2012-11-30", 
+      "state": "WI", 
+      "thomas_id": "01498", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Long, Billy", 
+      "sponsored_at": "2012-11-28", 
+      "state": "MO", 
+      "thomas_id": "02033", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "9", 
+      "name": "Luetkemeyer, Blaine", 
+      "sponsored_at": "2012-12-03", 
+      "state": "MO", 
+      "thomas_id": "01931", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Roe, David P.", 
+      "sponsored_at": "2012-11-02", 
+      "state": "TN", 
+      "thomas_id": "01954", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Ruppersberger, C. A. Dutch", 
+      "sponsored_at": "2012-11-30", 
+      "state": "MD", 
+      "thomas_id": "01728", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "19", 
+      "name": "Shimkus, John", 
+      "sponsored_at": "2012-11-02", 
+      "state": "IL", 
+      "thomas_id": "01527", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Westmoreland, Lynn A.", 
+      "sponsored_at": "2012-11-02", 
+      "state": "GA", 
+      "thomas_id": "01779", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Whitfield, Ed", 
+      "sponsored_at": "2012-11-02", 
+      "state": "KY", 
+      "thomas_id": "01222", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": {
+    "congress": "112", 
+    "law_type": "public", 
+    "number": "210"
+  }, 
+  "history": {
+    "active": true, 
+    "active_at": "2012-12-04T12:31:00-05:00", 
+    "awaiting_signature": false, 
+    "enacted": true, 
+    "enacted_at": "2012-12-18", 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2012-12-04T14:11:00-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2012-12-06", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2012-11-02", 
+  "number": "6582", 
+  "official_title": "To allow for innovations and alternative technologies that meet or exceed desired energy efficiency goals, and to make technical corrections to existing Federal energy efficiency laws to allow American manufacturers to remain competitive.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr482-112", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4850-112", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s156-112", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "American Energy Manufacturing Technical Corrections Act", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Aderholt, Robert B.", 
+    "state": "AL", 
+    "thomas_id": "01460", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2012-12-18", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Administrative remedies", 
+    "Advanced technology and technological innovations", 
+    "Congressional oversight", 
+    "Consumer affairs", 
+    "Department of Energy", 
+    "Electric power generation and transmission", 
+    "Energy", 
+    "Energy efficiency and conservation", 
+    "Environmental technology", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Industrial facilities", 
+    "Lighting and heating", 
+    "Manufacturing", 
+    "Research administration and funding", 
+    "Research and development", 
+    "Solid waste and recycling", 
+    "Technology transfer and commercialization"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": {
+    "as": "Public Law", 
+    "date": "2012-12-18", 
+    "text": "American Energy Manufacturing Technical Corrections Act - (Sec. 2) Amends the Energy Policy and Conservation Act (EPCA) to exempt a walk-in cooler or walk-in freezer component manufactured on or after January 1, 2009, from the requirement that it contain wall, ceiling, and door insulation of at least R-25 for coolers and R-32 for freezers, if the manufacturer has demonstrated to the Secretary of Energy (DOE) that such component reduces energy consumption at least as much as if such requirement were to apply. (Sec. 3) Amends EPCA to require the Secretary of Energy (DOE) to publish a rule that establishes a uniform efficiency descriptor and accompanying test methods for covered water heaters (water heaters, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks). Declares that the purpose of such rule is to replace with a uniform efficiency descriptor: (1) the energy factor descriptor for water heaters established under such Act; and (2) the thermal efficiency and standby loss descriptors for storage water heaters, instantaneous water heaters, and unfired water storage tanks established under such rule. Requires the efficiency standard for covered water heaters to be denominated according to the efficiency descriptor established by such rule. Requires the Secretary to develop a mathematical conversion factor for converting the measurement of efficiency for such heaters from the test procedures in effect on this Act's enactment to the new energy descriptor established under this Act. Considers a covered water heater to be in compliance with such rule and with any revised labeling requirements established by the Federal Trade Commission (FTC) to implement such rule if the covered water heater: (1) was manufactured prior to the effective date of the rule, and (2) complied with the efficiency standards and labeling requirements in effect prior to the rule. (Sec. 4) Establishes energy efficiency standards for daily energy consumption of service over the counter, self-contained, medium temperature commercial refrigerators. Requires the Secretary to determine whether the standard for such refrigerators should be amended and revise such standard if necessary (Sec. 5) Establishes energy efficiency standards for through-the-wall central air conditioners, through-the-wall central air conditioning heat pumps, and small duct, high velocity systems. Requires the Secretary to: (1) provide notice on whether energy efficiency standards for specified commercial heating and cooling equipment will be amended every six years, (2) evaluate each class of such equipment, (3) provide notice of a decision to grant or deny a petition to amend energy conservation standards, and (4) publish a rule that contains new or amended energy conservation standards every three years. (Sec. 6) Requires the Secretary, as part of the research and development activities of DOE's Industrial Technologies Program, to establish collaborative research and development partnerships with other programs within the Office of Energy Efficiency and Renewable Energy and the Office of Science that: (1) leverage the research and development expertise of such programs to promote early stage energy efficiency technology development; (2) support the use of innovative manufacturing processes and applied research for development, demonstration, and commercialization of new technologies and processes to improve efficiency (including improvements in efficient use of water), reduce emissions, reduce industrial waste, and improve industrial cost-competitiveness; and (3) apply the knowledge and expertise of such Program to achieve the goals of such other programs. Requires the Secretary to report on such partnerships biennially. (Sec. 7) Requires the Secretary to conduct a study and report on: (1) legal, regulatory, and economic barriers to the deployment of industrial energy efficiency in all electricity markets; (2) examples of state and federal policies and private initiatives that resulted in greater use of industrial energy efficiency and cost-effective policies used by foreign countries to foster industrial energy efficiency; (3) estimated economic benefits to the national economy of providing the industrial sector with federal energy efficiency matching grants of $5 billion for 5- and 10-year periods; and (4) estimated energy savings available from increased use of recycled material in energy-intensive manufacturing process. Requires the Secretary, in coordination with the industrial sector and other stakeholders, to develop policy recommendations regarding the deployment of industrial energy efficiency, including proposed regulatory guidance to states and relevant federal agencies to address such barriers. (Sec. 8) Amends the National Energy Conservation Policy Act (NECPA) to require the Secretary to develop and report on best practices for the use of advanced metering of energy use in federal facilities, buildings, and equipment. (Sec. 9) Directs energy managers of federal facilities covered under NECPA to use a web-based tracking system to publish energy and water consumption data on an individual facility basis. (Sec. 10) Requires the Secretary, in determining whether an energy efficiency standard for such equipment is economically justified, to determine whether the benefits exceed the burden of the proposed standard considering specified factors, including: (1) the economic impact on the manufacturers and consumers of the product; (2) the savings in operating costs throughout the estimated average life of the product compared to any increase in the price of, or in the initial charges for, or maintenance expenses of, the product; (3) the total projected quantity of energy savings; (4) any lessening of the utility or the performance of the product; (5) the impact of any lessening of competition; and (6) the need for national energy conservation. Prohibits the Secretary from prescribing any amended standard for such a product: (1) that increases the maximum allowable energy use, or decreases the minimum required energy efficiency, of the product; or (2) if the Secretary finds that interested persons have established that a standard is likely to result in the unavailability in the United States in any product type of performance characteristics that are substantially the same as those generally currently available."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "American Energy Manufacturing Technical Corrections Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "American Energy Manufacturing Technical Corrections Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "American Energy Manufacturing Technical Corrections Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": false, 
+      "title": "American Energy Manufacturing Technical Corrections Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To allow for innovations and alternative technologies that meet or exceed desired energy efficiency goals, and to make technical corrections to existing Federal energy efficiency laws to allow American manufacturers to remain competitive.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2013-07-20T01:14:29-04:00"
+}

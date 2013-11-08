@@ -1,0 +1,65 @@
+<bill session="112" type="h" number="136" updated="2013-07-20T01:11:33-04:00">
+  <state datetime="2011-01-05">REFERRED</state>
+  <status>
+    <introduced datetime="2011-01-05"/>
+  </status>
+  <introduced datetime="2011-01-05"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to allow taxpayers to designate a portion of their income tax payment to provide assistance to homeless veterans, and for other purposes.</title>
+  </titles>
+  <sponsor id="400195"/>
+  <cosponsors>
+    <cosponsor id="400031" joined="2011-03-16"/>
+    <cosponsor id="400042" joined="2011-01-05"/>
+    <cosponsor id="400103" joined="2011-07-14"/>
+    <cosponsor id="400133" joined="2011-06-15"/>
+    <cosponsor id="412327" joined="2011-07-25"/>
+    <cosponsor id="412451" joined="2011-01-24"/>
+    <cosponsor id="400216" joined="2011-07-07"/>
+    <cosponsor id="400219" joined="2011-01-11"/>
+    <cosponsor id="400251" joined="2011-07-07"/>
+    <cosponsor id="400257" joined="2011-02-28"/>
+    <cosponsor id="412194" joined="2011-02-15"/>
+    <cosponsor id="400285" joined="2011-07-25"/>
+    <cosponsor id="400301" joined="2011-07-07"/>
+    <cosponsor id="400333" joined="2011-07-27"/>
+    <cosponsor id="400371" joined="2011-07-12"/>
+    <cosponsor id="412228" joined="2011-01-05"/>
+    <cosponsor id="400409" joined="2011-07-07"/>
+    <cosponsor id="400437" joined="2011-01-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-01-05">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-01-05">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2011-01-05">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2011-02-18">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="3352"/>
+    <bill relation="unknown" session="112" type="s" number="1806"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Government trust funds"/>
+    <term name="Homelessness and emergency shelter"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+  </subjects>
+  <amendments/>
+  <summary>1/5/2011--Introduced.
+Amends the Internal Revenue Code to establish in the Treasury the Homeless Veterans Assistance Fund and to allow individual taxpayers to designate on their tax returns $3.00 of income taxes ($6.00 in the case of joint returns) to be paid over to such Fund to provide assistance to homeless veterans.</summary>
+</bill>

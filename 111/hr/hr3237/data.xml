@@ -1,0 +1,111 @@
+<bill session="111" type="h" number="3237" updated="2013-07-19T23:41:16-04:00">
+  <state datetime="2010-12-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2010-12-18"/>
+  </status>
+  <introduced datetime="2009-07-16"/>
+  <titles>
+    <title as="introduced" partial="1" type="short">Charles "Pete" Conrad Astronomy Awards Act</title>
+    <title as="introduced" partial="1" type="short">National Aeronautics and Space Act</title>
+    <title as="reported to house" partial="1" type="short">Charles "Pete" Conrad Astronomy Awards Act</title>
+    <title as="reported to house" partial="1" type="short">National Aeronautics and Space Act</title>
+    <title as="passed house" partial="1" type="short">Charles "Pete" Conrad Astronomy Awards Act</title>
+    <title as="passed house" partial="1" type="short">National Aeronautics and Space Act</title>
+    <title as="reported to senate" partial="1" type="short">Charles "Pete" Conrad Astronomy Awards Act</title>
+    <title as="reported to senate" partial="1" type="short">National Aeronautics and Space Act</title>
+    <title as="passed senate" partial="1" type="short">Charles "Pete" Conrad Astronomy Awards Act</title>
+    <title as="passed senate" partial="1" type="short">National Aeronautics and Space Act</title>
+    <title as="enacted" partial="1" type="short">Charles "Pete" Conrad Astronomy Awards Act</title>
+    <title as="enacted" partial="1" type="short">National Aeronautics and Space Act</title>
+    <title as="introduced" type="official">To enact certain laws relating to national and commercial space programs as title 51, United States Code, "National and Commercial Space Programs".</title>
+  </titles>
+  <sponsor id="400080"/>
+  <cosponsors>
+    <cosponsor id="400381" joined="2009-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-07-16">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1818"/>
+    </action>
+    <action state="REFERRED" datetime="2009-07-16">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2009-10-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-10-21">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2009-11-02T18:33:00-05:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 111-325.</text>
+    </action>
+    <calendar datetime="2009-11-02T18:33:00-05:00" calendar="House" number="127">
+      <text>Placed on the House Calendar, Calendar No. 127.</text>
+    </calendar>
+    <action datetime="2010-01-13T12:56:00-05:00">
+      <text>Mr. Cohen moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-01-13T12:56:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H67-104" label="consideration"/>
+    </action>
+    <action datetime="2010-01-13T12:56:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3237.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-01-13T13:00:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H67-104" label="text"/>
+    </vote>
+    <action datetime="2010-01-13T13:00:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-01-20">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <calendar datetime="2010-05-06">
+      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2010-05-10">
+      <text>Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2010-05-10" calendar="Senate Legislative" under="General Orders" number="371">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 371.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="2010-12-03" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S8479" label="consideration"/>
+    </vote>
+    <action datetime="2010-12-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2010-12-03">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2010-12-09">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2010-12-18">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2010-12-18" type="public" number="111-314">
+      <text>Became Public Law No: 111-314.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Space flight and exploration"/>
+    <term name="Spacecraft and satellites"/>
+  </subjects>
+  <amendments/>
+  <summary>12/18/2010--Public Law.
+Enacts title 51 of the United States Code into positive law to be entitled "National and Commercial Space Programs." Makes conforming changes to existing law and repeals specified provisions of specified laws.</summary>
+</bill>

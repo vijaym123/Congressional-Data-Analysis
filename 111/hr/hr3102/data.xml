@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="3102" updated="2013-07-19T23:39:58-04:00">
+  <state datetime="2009-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="2009-06-26"/>
+  </status>
+  <introduced datetime="2009-06-26"/>
+  <titles>
+    <title as="introduced" type="official">To increase the Federal share for transportation projects for the State of Michigan.</title>
+  </titles>
+  <sponsor id="400276"/>
+  <cosponsors>
+    <cosponsor id="400058" joined="2009-06-26"/>
+    <cosponsor id="400182" joined="2009-06-26"/>
+    <cosponsor id="400217" joined="2009-07-23"/>
+    <cosponsor id="400260" joined="2009-06-26"/>
+    <cosponsor id="400342" joined="2009-06-26"/>
+    <cosponsor id="400414" joined="2009-06-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-26">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2009-06-29">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Michigan"/>
+    <term name="Public transit"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation programs funding"/>
+  </subjects>
+  <amendments/>
+  <summary>6/26/2009--Introduced.
+Directs the Secretary of Transportation to increase from 95% to 100% the federal share of costs for federal-aid highway projects and public transportation projects for the state of Michigan for FY2010-FY2011.</summary>
+</bill>

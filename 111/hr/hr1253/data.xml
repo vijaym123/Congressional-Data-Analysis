@@ -1,0 +1,109 @@
+<bill session="111" type="h" number="1253" updated="2013-07-19T23:23:08-04:00">
+  <state datetime="2009-03-31T15:04:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-03-31T15:04:00-04:00"/>
+  </status>
+  <introduced datetime="2009-03-03"/>
+  <titles>
+    <title as="introduced" type="short">Health Insurance Restrictions and Limitations Clarification Act of 2009</title>
+    <title as="reported to house" type="short">Health Insurance Restrictions and Limitations Clarification Act of 2009</title>
+    <title as="passed house" type="short">Health Insurance Restrictions and Limitations Clarification Act of 2009</title>
+    <title as="introduced" type="official">To require that limitations and restrictions on coverage under group health plans be timely disclosed to group health plan sponsors and timely communicated to participants and beneficiaries under such plans in a form that is easily understandable.</title>
+  </titles>
+  <sponsor id="400052"/>
+  <cosponsors>
+    <cosponsor id="400391" joined="2009-03-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-03">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Labor, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-03-03">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-03-03">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2009-03-03">
+      <text>Referred to House Education and Labor</text>
+    </action>
+    <action datetime="2009-03-03">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2009-03-04">
+      <text>Subcommittee on Health Discharged.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2009-03-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-03-04">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Energy and Commerce"/>
+    </calendar>
+    <action datetime="2009-03-30T14:32:00-04:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 111-62, Part I.</text>
+    </action>
+    <action datetime="2009-03-30T14:34:00-04:00">
+      <text>Committee on Education and Labor discharged.</text>
+    </action>
+    <action datetime="2009-03-30T14:34:00-04:00">
+      <text>Committee on Ways and Means discharged.</text>
+    </action>
+    <calendar datetime="2009-03-30T14:34:00-04:00" calendar="Union" number="27">
+      <text>Placed on the Union Calendar, Calendar No. 27.</text>
+    </calendar>
+    <action datetime="2009-03-30T15:52:00-04:00">
+      <text>Mr. Pallone moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-03-30T15:53:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4087-4088" label="consideration"/>
+    </action>
+    <action datetime="2009-03-30T15:53:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1253.</text>
+    </action>
+    <action datetime="2009-03-30T15:59:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2009-03-31T14:55:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4187-4188" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-03-31T15:04:00-04:00" how="roll" result="pass" roll="171" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 3 (Roll no. 171).</text>
+      <reference ref="CR 3/30/2009 H4087" label="text"/>
+    </vote>
+    <action datetime="2009-03-31T15:04:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-04-01">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+    <action datetime="2009-04-29">
+      <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+      <committee name="House Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Health, Employment, Labor, and Pensions" name="House Education and Labor"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Discharged"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Consumer affairs"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+  </subjects>
+  <amendments/>
+  <summary>3/31/2009--Passed House without amendment.
+Health Insurance Restrictions and Limitations Clarification Act of 2009 - Amends the Employee Retirement Income Security Act (ERISA), the Public Health Service Act, and the Internal Revenue Code to exclude a group health plan from prohibitions against limitations or restrictions on the amount, level, extent, or nature of the benefits of coverage for similarly situated individuals enrolled in the plan so long as: (1) such limitations and restrictions are explicit and clear; (2) such limitations and restrictions have been disclosed to the plan sponsor in writing in advance of the point of sale; (3) the plan sponsor provides a description of such limitations and restrictions to participants and beneficiaries in a form that is easily understandable before enrollment; and (4) the plan sponsor and the issuer of the coverage provide such description to the participants and beneficiaries upon their enrollment under the plan at the earliest opportunity that other materials are provided.</summary>
+</bill>

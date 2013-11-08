@@ -1,0 +1,145 @@
+<bill session="111" type="hj" number="45" updated="2013-07-20T00:12:21-04:00">
+  <state datetime="2010-02-12">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2010-02-12"/>
+  </status>
+  <introduced datetime="2009-04-29"/>
+  <titles>
+    <title as="passed senate" partial="1" type="short">Statutory Pay-As-You-Go Act of 2010</title>
+    <title as="enacted" partial="1" type="short">Statutory Pay-As-You-Go Act of 2010</title>
+    <title as="introduced" type="official">Increasing the statutory limit on the public debt.</title>
+  </titles>
+  <sponsor/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2009-04-29T18:24:00-04:00">
+      <text>Pursuant to the provisions of S. Con. Res. 13, H.J. Res. 45 is considered passed House.</text>
+      <reference ref="CR H4920-4928" label="consideration"/>
+    </action>
+    <action state="REFERRED" datetime="2009-04-30">
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <action datetime="2010-01-20">
+      <text>Senate Committee on Finance discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2010-01-20">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S23-35" label="consideration"/>
+    </action>
+    <action datetime="2010-01-21">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S72-100, S102-104, S104-105, S106-110" label="consideration"/>
+    </action>
+    <action datetime="2010-01-22">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S135-137, S138-139, S148" label="consideration"/>
+    </action>
+    <action datetime="2010-01-25">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S174-183" label="consideration"/>
+    </action>
+    <action datetime="2010-01-25">
+      <text>Cloture motion on the joint resolution presented in Senate.</text>
+      <reference ref="CR S175" label="consideration"/>
+      <reference ref="CR S175" label="text"/>
+    </action>
+    <action datetime="2010-01-26">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S211-223, S223-246" label="consideration"/>
+    </action>
+    <action datetime="2010-01-26">
+      <text>Cloture motion on the joint resolution withdrawn by unanimous consent in Senate.</text>
+      <reference ref="CR S238" label="consideration"/>
+    </action>
+    <action datetime="2010-01-28">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S280-291" label="consideration"/>
+    </action>
+    <vote state="PASS_BACK:SENATE" datetime="2010-01-28" how="roll" result="pass" roll="14" type="vote2" where="s">
+      <text>Passed Senate, under the order of 12/22/2009, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 60 - 39. Record Vote Number: 14.</text>
+      <reference ref="CR S286-291" label="text"/>
+    </vote>
+    <action datetime="2010-01-28">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2010-02-04T14:03:00-05:00">
+      <text>Pursuant to the provisions of H.Res. 1065, the portion of the Senate amendment prior to Title I is considered as agreed to.</text>
+      <reference ref="CR H574-593" label="consideration"/>
+      <reference ref="CR H574-579" label="text as received in House"/>
+    </action>
+    <action datetime="2010-02-04T14:04:00-05:00">
+      <text>Mr. Hoyer moved that the House adopt the second portion of the divided question.</text>
+      <reference ref="CR H593" label="consideration"/>
+    </action>
+    <action datetime="2010-02-04T14:05:00-05:00">
+      <text>DEBATE - The House proceeded with 1 hour of debate on the second portion of the divided question. The second portion consists of Title I and II of the Senate amendment to H.J. Res. 45.</text>
+    </action>
+    <action datetime="2010-02-04T15:23:00-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H593" label="consideration"/>
+    </action>
+    <action datetime="2010-02-04T15:49:00-05:00">
+      <text>On motion to adopt the second portion of the divided question Agreed to by the Yeas and Nays: 233 - 187 (Roll no. 48).</text>
+      <reference ref="CR H593" label="consideration"/>
+    </action>
+    <action datetime="2010-02-04T15:49:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2010-02-04">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2010-02-04">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2010-02-12">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2010-02-12" type="public" number="111-139">
+      <text>Became Public Law No: 111-139.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hr" number="1065"/>
+    <bill relation="unknown" session="111" type="sc" number="13"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Budget process"/>
+    <term name="Congressional oversight"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Health care costs and insurance"/>
+    <term name="House Committee on the Budget"/>
+    <term name="Income tax rates"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+    <term name="Performance measurement"/>
+    <term name="Prescription drugs"/>
+    <term name="Senate Committee on the Budget"/>
+    <term name="Social security and elderly assistance"/>
+    <term name="Transfer and inheritance taxes"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3299"/>
+    <amendment number="s3300"/>
+    <amendment number="s3301"/>
+    <amendment number="s3302"/>
+    <amendment number="s3303"/>
+    <amendment number="s3304"/>
+    <amendment number="s3305"/>
+    <amendment number="s3306"/>
+    <amendment number="s3308"/>
+    <amendment number="s3309"/>
+  </amendments>
+  <summary>2/4/2010--Public Law.
+Increases the statutory limit on the public debt from $12.394 trillion to $14.294 trillion. Title I: Statutory Pay-As-You-Go Act of 2010 - Statutory Pay-As-You-Go Act of 2010 - (Sec. 4) Authorizes a Pay-As-You-Go (PAYGO) Act originated in or amended by the House of Representatives to state: "The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act of 2010, shall be determined by reference to the latest statement titled 'Budgetary Effects of PAYGO Legislation' for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted before the vote on passage." Requires the inclusion of a similar statement, but with reference to the the Chairman of the Senate Budget Committee, in any PAYGO Act originated in or amended by the Senate. Requires a similar statement in any conference report or amendment between the chambers on a PAYGO Act, but with reference to both House and Senate Chairmen of the respective budget committees. Amends the Congressional Budget Act of 1974 (CBA) to require the chairs of the congressional budget committees (chairs) to request from the Director of the Congressional Budget Office (CBO) an estimate of the budgetary effects of PAYGO legislation. Directs the chairs to request that CBO adjust the estimate of budgetary effects of legislation that affects current policy as detailed in Sec. 7 of this title. Prohibits the use of any excess savings from adjustments for current policy to offset the costs of policies not detailed in Sec. 7. Requires the applicable chair to include in the statement titled: "Budget Effects of PAYGO Legislation" for such adjusted PAYGO legislation an explanation of such policy designation and adjustment. Requires the Office of Management and Budget (OMB) to maintain and make publicly available a continuously updated document containing two PAYGO scorecards (the first for a five-year period and the second for a 10-year period for the beginning of each respective budget year) displaying the budgetary effects of PAYGO legislation, applying certain look-back and averaging requirements. Requires OMB to display as a separate addendum the cost estimates of provisions designated in statute as emergency requirements. Prohibits such scorecards from including net savings from any legislation titled "Community Living Assistance Services and Supports Act" (establishing a federal insurance program for long-term care), if such legislation is enacted into law, or amended, subsequent to enactment of this title. Declares that, if a provision of direct spending or revenue legislation in a PAYGO Act is designated in statute as an emergency requirement, the amounts of new budget authority, outlays, and revenue in all fiscal years resulting from that provision shall be treated as an emergency requirement for purposes of this Act. Provides that when the Senate is considering a PAYGO Act, if a point of order is made by a Senator against an emergency designation in it, the provision making such a designation shall be stricken from the measure and may not be offered as an amendment from the floor. Permits waiver or suspension of such prohibition, or successful appeals from rulings of the Chair, only by an affirmative vote of three-fifths (60) of the Senate. (Sec. 5) Requires OMB to: (1) make an annual public PAYGO report, including a up-to-date document containing the PAYGO scorecards, within 14 business days after Congress adjourns to end a session; and (2) prepare for the President an offsetting sequestration order, which the President shall issue, if such report shows a debit on either PAYGO scorecard for the budget year. (Sec. 6) Prescribes requirements for calculating a sequestration for nonexempt direct spending programs, including Medicare payments and certain nonexempt mandatory programs. (Sec. 7) Prescribes requirements for CBO adjustments of estimates of budgetary effects of PAYGO legislation for legislation affecting current policy for: (1) payments made under title XVIII (Medicare) of the Social Security Act for physician services; (2) the Estate and Gift Tax under the Internal Revenue Code; and (3) the permanent extension of middle-class tax cuts and the Alternative Minimum Tax (AMT) relief under the Economic Growth and Tax Relief Reconciliation Act of 2001 (EGTRRA) or the Jobs and Growth Tax Relief and Reconciliation Act of 2003 (JGTRRA). Makes this section effective through December 31, 2011. (Sec. 8) Applies to this Act certain sequestration order requirements of the Balanced Budget and Emergency Deficit Control Act of 1985 (BBEDCA) (Gramm-Rudman-Hollings Act), as amended by this Act, including the authority of Members of Congress and certain individuals to request an expedited judicial review of a sequestration order. (Sec. 9) Makes technical and conforming amendments to the Gramm-Rudman-Hollings Act. (Sec. 10) Exempts from sequestration: (1) low-income subsidies and catastrophic subsidies under Part D (Voluntary Prescription Drug Benefit Program) of the Social Security Act (SSA); and (2) qualified individual (QI) premiums for Medicare cost-sharing for certain dual eligible low-income Medicare beneficiaries under SSA title XIX (Medicaid). (Sec. 11) Amends the Gramm-Rudman-Hollings Act to specify additional Social Security, veterans, Tier I Railroad Retirement benefits and other programs and activities exempt from a sequestration order as well as certain economic recovery programs and certain other programs to the extent that their budgetary resources are subject to obligation limitations in appropriation bills (split treatment programs). (Sec. 12) Declares that nothing in this title shall be construed to limit the House and Senate budget committee chairs' authority under the CBA regarding budgetary determinations and points of order. Authorizes CBO to consult with them to resolve any ambiguities in this title. (Sec. 13) Makes it out of order in both chambers to consider any bill or resolution pursuant to any expedited procedure to consider the recommendations of a Task Force for Responsible Fiscal Action or other commission that contains recommendations with respect to the Old-Age, Survivors, and Disability Insurance (OASDI) program under SSA title II or certain taxes received, imposed by, and collected under the Internal Revenue Code. Permits waiver or suspension of such prohibition, or successful appeals from rulings of the Chair, only by an affirmative vote of three-fifths (60) of the Senate. Title II: Elimination of Duplicative and Wasteful Spending - (Sec. 21) Requires the Comptroller General to: (1) conduct routine investigations to identify programs, agencies, offices, and initiatives with duplicative goals and activities within Departments and governmentwide; and (2) report annually to Congress on the findings, including the cost of such duplication, and with recommendations for consolidation and elimination to reduce duplication identifying specific rescissions.</summary>
+</bill>

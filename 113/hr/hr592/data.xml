@@ -1,0 +1,81 @@
+<bill session="113" type="h" number="592" updated="2013-11-02T06:23:56-04:00">
+  <state datetime="2013-02-13T13:38:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-02-13T13:38:00-05:00"/>
+  </status>
+  <introduced datetime="2013-02-08"/>
+  <titles>
+    <title type="short" as="introduced">Federal Disaster Assistance Nonprofit Fairness Act of 2013</title>
+    <title type="short" as="passed house">Federal Disaster Assistance Nonprofit Fairness Act of 2013</title>
+    <title type="official" as="introduced">To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to clarify that houses of worship are eligible for certain disaster relief and emergency assistance on terms equal to other eligible private nonprofit facilities, and for other purposes.</title>
+  </titles>
+  <sponsor id="400380"/>
+  <cosponsors>
+    <cosponsor id="400122" joined="2013-02-12"/>
+    <cosponsor id="400141" joined="2013-02-12"/>
+    <cosponsor id="412451" joined="2013-02-12"/>
+    <cosponsor id="412561" joined="2013-02-12"/>
+    <cosponsor id="400219" joined="2013-02-08"/>
+    <cosponsor id="400244" joined="2013-02-12"/>
+    <cosponsor id="400257" joined="2013-02-12"/>
+    <cosponsor id="412560" joined="2013-02-08"/>
+    <cosponsor id="400309" joined="2013-02-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-08" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-02-11">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2013-02-13T12:22:00-05:00">
+      <text>Mr. Barletta moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-02-13T12:22:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H465-479" label="consideration"/>
+    </action>
+    <action datetime="2013-02-13T12:22:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 592.</text>
+    </action>
+    <action datetime="2013-02-13T13:07:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-02-13T13:09:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H479-480" label="consideration"/>
+    </action>
+    <action datetime="2013-02-13T13:38:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote how="roll" type="vote" roll="39" datetime="2013-02-13T13:38:00-05:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 354 - 72 (Roll no. 39).</text>
+      <reference ref="CR H465" label="text"/>
+    </vote>
+    <action datetime="2013-02-14">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2013-03-13">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="1274"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Community life and organization"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Religion"/>
+    <term name="Tax-exempt organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2013--Passed House without amendment.
+Federal Disaster Assistance Nonprofit Fairness Act of 2013 - Amends the Robert T. Stafford Disaster Relief and Emergency Assistance Act to include community centers, including tax-exempt houses of worship, as "private nonprofit facilities" for purposes of disaster relief and emergency assistance eligibility under such Act. Makes a church, synagogue, mosque, temple, or other house of worship, and a private nonprofit facility operated by a religious organization, eligible for federal contributions for the repair, restoration, and replacement of facilities damaged or destroyed by a major disaster, without regard to the religious character of the facility or the primary religious use of the facility. Makes this Act applicable to the provision of assistance in response to a major disaster or emergency declared on or after October 28, 2012.</summary>
+</bill>

@@ -1,0 +1,71 @@
+<bill session="113" type="h" number="3190" updated="2013-11-04T12:46:54-05:00">
+  <state datetime="2013-10-31">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2013-10-31"/>
+  </status>
+  <introduced datetime="2013-09-26"/>
+  <titles>
+    <title type="short" as="introduced">United States Parole Commission Extension Act of 2013</title>
+    <title type="short" as="passed house">United States Parole Commission Extension Act of 2013</title>
+    <title type="official" as="introduced">To provide for the continued performance of the functions of the United States Parole Commission, and for other purposes.</title>
+  </titles>
+  <sponsor id="400071"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2013-09-26"/>
+    <cosponsor id="400154" joined="2013-09-26"/>
+    <cosponsor id="400364" joined="2013-09-26"/>
+    <cosponsor id="400365" joined="2013-09-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-26" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-10-14T19:22:00-04:00">
+      <text>Mr. Goodlatte asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2013-10-14T19:22:00-04:00">
+      <text>Committee on Judiciary discharged.</text>
+    </action>
+    <action datetime="2013-10-14T19:22:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H6579-6580" label="consideration"/>
+    </action>
+    <vote how="without objection" type="vote" datetime="2013-10-14T19:23:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H6579-6580" label="text"/>
+    </vote>
+    <action datetime="2013-10-14T19:23:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-10-15">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2013-10-15">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2013-10-30" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S7685" label="consideration"/>
+    </vote>
+    <action datetime="2013-10-31">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2013-10-31">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2013-10-31">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-47" type="public" datetime="2013-10-31" state="ENACTED:SIGNED">
+      <text>Became Public Law No: 113-47.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

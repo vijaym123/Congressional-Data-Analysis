@@ -1,0 +1,80 @@
+<bill session="112" type="h" number="6379" updated="2013-07-20T02:05:01-04:00">
+  <state datetime="2013-01-10">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2013-01-10"/>
+  </status>
+  <introduced datetime="2012-09-12"/>
+  <titles>
+    <title as="introduced" type="official">To designate the facility of the United States Postal Service located at 6239 Savannah Highway in Ravenel, South Carolina, as the "Representative Curtis B. Inabinett, Sr. Post Office".</title>
+  </titles>
+  <sponsor id="400075"/>
+  <cosponsors>
+    <cosponsor id="412472" joined="2012-09-12"/>
+    <cosponsor id="412473" joined="2012-09-12"/>
+    <cosponsor id="412474" joined="2012-09-12"/>
+    <cosponsor id="412471" joined="2012-09-12"/>
+    <cosponsor id="400433" joined="2012-09-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-09-12">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2012-12-19T17:41:00-05:00">
+      <text>Mr. Farenthold moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-12-19T17:42:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7333" label="consideration"/>
+    </action>
+    <action datetime="2012-12-19T17:42:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6379.</text>
+    </action>
+    <action datetime="2012-12-19T17:48:00-05:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mrs. Maloney objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.</text>
+    </action>
+    <action datetime="2012-12-20T21:03:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7416" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-12-20T21:03:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR 12/19/2012 H7333" label="text"/>
+    </vote>
+    <action datetime="2012-12-20T21:03:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-12-21">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2012-12-27" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S8454" label="consideration"/>
+    </vote>
+    <action datetime="2012-12-28">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2012-12-31">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2013-01-10">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2013-01-10" type="public" number="112-255">
+      <text>Became Public Law No: 112-255.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Postal service"/>
+    <term name="South Carolina"/>
+  </subjects>
+  <amendments/>
+  <summary>1/10/2013--Public Law.
+Designates the facility of the United States Postal Service located at 6239 Savannah Highway in Ravenel, South Carolina, as the "Representative Curtis B. Inabinett, Sr. Post Office."</summary>
+</bill>

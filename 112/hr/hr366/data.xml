@@ -1,0 +1,73 @@
+<bill session="112" type="h" number="366" updated="2013-07-20T01:13:29-04:00">
+  <state datetime="2011-01-31">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2011-01-31"/>
+  </status>
+  <introduced datetime="2011-01-20"/>
+  <titles>
+    <title as="introduced" type="official">To provide for an additional temporary extension of programs under the Small Business Act and the Small Business Investment Act of 1958, and for other purposes.</title>
+  </titles>
+  <sponsor id="400158"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2011-01-20">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+    <action datetime="2011-01-25T12:35:00-05:00">
+      <text>Mr. Graves (MO) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2011-01-25T12:35:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H445-446" label="consideration"/>
+    </action>
+    <action datetime="2011-01-25T12:35:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 366.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-01-25T12:39:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H445" label="text"/>
+    </vote>
+    <action datetime="2011-01-25T12:39:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-01-25">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2011-01-26" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S261" label="consideration"/>
+    </vote>
+    <action datetime="2011-01-26">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2011-01-28">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2011-01-31">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2011-01-31" type="public" number="112-1">
+      <text>Became Public Law No: 112-1.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="2608"/>
+    <bill relation="unknown" session="112" type="s" number="990"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Business investment and capital"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Minority and disadvantaged businesses"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Securities"/>
+    <term name="Small business"/>
+    <term name="Women in business"/>
+  </subjects>
+  <amendments/>
+  <summary>1/31/2011--Public Law.
+Extends through May 31, 2011, under the same terms and conditions, the authorization for any program, authority, or provision, including any pilot program, that is currently authorized through January 31, 2011, under the Small Business Act or the Small Business Investment Act of 1958.</summary>
+</bill>

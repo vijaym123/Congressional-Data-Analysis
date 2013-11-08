@@ -1,0 +1,50 @@
+<bill session="111" type="s" number="1688" updated="2013-07-20T00:38:56-04:00">
+  <state datetime="2009-09-17">REFERRED</state>
+  <status>
+    <introduced datetime="2009-09-17"/>
+  </status>
+  <introduced datetime="2009-09-17"/>
+  <titles>
+    <title as="introduced" type="short">Fairness in Representation Act</title>
+    <title as="introduced" type="official">A bill to prevent congressional reapportionment distortions by requiring that, in the questionnaires used in the taking of any decennial census of population, a checkbox or other similar option be included for respondents to indicate citizenship status or lawful presence in the United States.</title>
+  </titles>
+  <sponsor id="300007"/>
+  <cosponsors>
+    <cosponsor id="300014" joined="2009-09-17"/>
+    <cosponsor id="400576" joined="2009-09-30"/>
+    <cosponsor id="300030" joined="2009-09-17"/>
+    <cosponsor id="300041" joined="2009-09-17"/>
+    <cosponsor id="300055" joined="2009-10-07"/>
+    <cosponsor id="400418" joined="2009-10-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-09-17">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S9564"/>
+    </action>
+    <action state="REFERRED" datetime="2009-09-17">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2009-10-19">
+      <text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSGA09" subcommittee="Federal Financial Management, Government Information, Federal Services, and International Security" name="Senate Homeland Security and Governmental Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="h" number="3797"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Census and government statistics"/>
+    <term name="Citizenship and naturalization"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>9/17/2009--Introduced.
+Fairness in Representation Act - Directs the Secretary of Commerce, in conducting the 2010 decennial census and every decennial census thereafter, to include in any questionnaire used for the purpose of determining the total population by states, a checkbox or similar option for respondents to indicate citizenship status or lawful presence in the United States. Requires the Secretary to adjust census figures as necessary so that those who are not U.S. citizens or are not lawfully present in the United States are not counted in tabulating population for purposes of apportioning Representatives in Congress among the states.</summary>
+</bill>

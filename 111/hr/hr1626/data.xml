@@ -1,0 +1,92 @@
+<bill session="111" type="h" number="1626" updated="2013-07-19T23:26:26-04:00">
+  <state datetime="2009-05-07">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2009-05-07"/>
+  </status>
+  <introduced datetime="2009-03-19"/>
+  <titles>
+    <title as="introduced" type="short">Statutory Time-Periods Technical Amendments Act of 2009</title>
+    <title as="passed house" type="short">Statutory Time-Periods Technical Amendments Act of 2009</title>
+    <title as="passed senate" type="short">Statutory Time-Periods Technical Amendments Act of 2009</title>
+    <title as="enacted" type="short">Statutory Time-Periods Technical Amendments Act of 2009</title>
+    <title as="introduced" type="official">To make technical amendments to laws containing time periods affecting judicial proceedings.</title>
+  </titles>
+  <sponsor id="412199"/>
+  <cosponsors>
+    <cosponsor id="400076" joined="2009-03-19"/>
+    <cosponsor id="400080" joined="2009-03-19"/>
+    <cosponsor id="400381" joined="2009-03-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-19">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-03-19">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2009-03-19">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-03-23">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2009-04-22T17:18:00-04:00">
+      <text>Mr. Weiner moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-04-22T17:18:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4665-4666" label="consideration"/>
+    </action>
+    <action datetime="2009-04-22T17:18:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1626.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-04-22T17:24:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H4665" label="text"/>
+    </vote>
+    <action datetime="2009-04-22T17:24:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-04-23">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2009-04-27" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4763" label="consideration"/>
+    </vote>
+    <topresident datetime="2009-04-27">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2009-04-28">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2009-04-30">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2009-05-07">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2009-05-07" type="public" number="111-16">
+      <text>Became Public Law No: 111-16.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="630"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Bankruptcy"/>
+    <term name="Civil actions and liability"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Judicial procedure and administration"/>
+  </subjects>
+  <amendments/>
+  <summary>5/7/2009--Public Law.
+Statutory Time-Periods Technical Amendments Act of 2009 - Amends federal bankruptcy, criminal, and civil law, as well as the Classified Information Procedures Act and the Controlled Substances Act, to extend from 5 to 7 days, and from 10 to 14 days, counting holidays and weekends, specified deadlines affecting court proceedings to harmonize them with recent amendments to the federal time-computation rules intended to provide predictability and uniformity to the current process of calculating court deadlines.</summary>
+</bill>

@@ -1,0 +1,67 @@
+<bill session="113" type="h" number="3205" updated="2013-11-02T06:45:59-04:00">
+  <state datetime="2013-10-22T19:07:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-10-22T19:07:00-04:00"/>
+  </status>
+  <introduced datetime="2013-09-27"/>
+  <titles>
+    <title type="short" as="introduced">Promoting Adoption and Legal Guardianship for Children in Foster Care Act</title>
+    <title type="short" as="passed house">Promoting Adoption and Legal Guardianship for Children in Foster Care Act</title>
+    <title type="official" as="introduced">To reauthorize and restructure the adoption incentives grant program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400058"/>
+  <cosponsors>
+    <cosponsor id="400046" joined="2013-10-22"/>
+    <cosponsor id="400093" joined="2013-10-22"/>
+    <cosponsor id="400111" joined="2013-09-27"/>
+    <cosponsor id="400147" joined="2013-10-22"/>
+    <cosponsor id="412401" joined="2013-10-22"/>
+    <cosponsor id="400199" joined="2013-10-22"/>
+    <cosponsor id="412284" joined="2013-10-22"/>
+    <cosponsor id="400238" joined="2013-09-27"/>
+    <cosponsor id="400333" joined="2013-09-30"/>
+    <cosponsor id="400660" joined="2013-09-27"/>
+    <cosponsor id="412462" joined="2013-09-30"/>
+    <cosponsor id="412461" joined="2013-10-22"/>
+    <cosponsor id="412255" joined="2013-10-10"/>
+    <cosponsor id="412428" joined="2013-10-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-27" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2013-10-22T17:29:00-04:00">
+      <text>Mr. Reichert moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-10-22T17:29:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6651-6658" label="consideration"/>
+    </action>
+    <action datetime="2013-10-22T17:29:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3205.</text>
+    </action>
+    <action datetime="2013-10-22T17:58:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-10-22T18:57:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6659" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="552" datetime="2013-10-22T19:07:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 552).</text>
+      <reference ref="CR H6651-6652" label="text"/>
+    </vote>
+    <action datetime="2013-10-28">
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="2979"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

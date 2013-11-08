@@ -1,0 +1,44 @@
+<bill session="111" type="h" number="2401" updated="2013-07-19T23:33:28-04:00">
+  <state datetime="2009-05-13">REFERRED</state>
+  <status>
+    <introduced datetime="2009-05-13"/>
+  </status>
+  <introduced datetime="2009-05-13"/>
+  <titles>
+    <title as="introduced" type="short">No Fly, No Buy Act of 2009</title>
+    <title as="introduced" type="official">To increase public safety and reduce the threat to domestic security by including persons who may be prevented from boarding an aircraft in the National Instant Criminal Background Check System, and for other purposes.</title>
+  </titles>
+  <sponsor id="400257"/>
+  <cosponsors>
+    <cosponsor id="400195" joined="2009-05-13"/>
+    <cosponsor id="400245" joined="2010-06-22"/>
+    <cosponsor id="400251" joined="2009-06-12"/>
+    <cosponsor id="400295" joined="2009-06-02"/>
+    <cosponsor id="400346" joined="2010-05-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-05-13">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2009-06-12">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Aviation and airports"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Firearms and explosives"/>
+    <term name="Terrorism"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/2009--Introduced.
+No Fly, No Buy Act of 2009 - Amends the Brady Handgun Violence Prevention Act to prohibit: (1) the sale or other disposition of a firearm or ammunition to any person knowing or having reasonable cause to believe that such person is an individual required to be prevented from boarding an aircraft; and (2) the shipment, transport, possession, or receipt of a firearm or ammunition by such individuals.</summary>
+</bill>

@@ -1,0 +1,32 @@
+<bill session="113" type="h" number="3158" updated="2013-11-02T06:45:35-04:00">
+  <state datetime="2013-09-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-20"/>
+  </status>
+  <introduced datetime="2013-09-20"/>
+  <titles>
+    <title type="short" as="introduced">SAFE in Our Schools Act</title>
+    <title type="short" as="introduced">Secure America for Education in Our Schools Act</title>
+    <title type="official" as="introduced">To amend the Homeland Security Act of 2002 to require recipients of State Homeland Security Grant Program funding to promote preparedness and planning for manmade and natural disasters at educational institutions, and for other purposes.</title>
+  </titles>
+  <sponsor id="412506"/>
+  <cosponsors>
+    <cosponsor id="400402" joined="2013-09-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-20" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2013-10-15">
+      <text>Referred to the Subcommittee on Emergency Preparedness, Response and Communications.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM12" subcommittee="Emergency Preparedness, Response, and Communications" name="House Homeland Security"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

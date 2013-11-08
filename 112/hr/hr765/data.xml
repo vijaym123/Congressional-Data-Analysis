@@ -1,0 +1,131 @@
+<bill session="112" type="h" number="765" updated="2013-07-20T01:16:54-04:00">
+  <state datetime="2011-11-07">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2011-11-07"/>
+  </status>
+  <introduced datetime="2011-02-17"/>
+  <titles>
+    <title as="introduced" type="short">Ski Area Recreational Opportunity Enhancement Act of 2011</title>
+    <title as="reported to house" type="short">Ski Area Recreational Opportunity Enhancement Act of 2011</title>
+    <title as="passed house" type="short">Ski Area Recreational Opportunity Enhancement Act of 2011</title>
+    <title as="passed senate" type="short">Ski Area Recreational Opportunity Enhancement Act of 2011</title>
+    <title as="enacted" type="short">Ski Area Recreational Opportunity Enhancement Act of 2011</title>
+    <title as="introduced" type="official">To amend the National Forest Ski Area Permit Act of 1986 to clarify the authority of the Secretary of Agriculture regarding additional recreational uses of National Forest System land that is subject to ski area permits, and for other purposes.</title>
+  </titles>
+  <sponsor id="400029"/>
+  <cosponsors>
+    <cosponsor id="400019" joined="2011-07-06"/>
+    <cosponsor id="412271" joined="2011-06-13"/>
+    <cosponsor id="400101" joined="2011-02-17"/>
+    <cosponsor id="412406" joined="2011-05-05"/>
+    <cosponsor id="412218" joined="2011-04-01"/>
+    <cosponsor id="412295" joined="2011-05-04"/>
+    <cosponsor id="400659" joined="2011-04-05"/>
+    <cosponsor id="412192" joined="2011-09-08"/>
+    <cosponsor id="412308" joined="2011-04-01"/>
+    <cosponsor id="412405" joined="2011-03-17"/>
+    <cosponsor id="412239" joined="2011-04-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-02-17">
+      <text>Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-02-17">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2011-02-17">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2011-02-23">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2011-03-09">
+      <text>Referred to the Subcommittee on Conservation, Energy, and Forestry.</text>
+      <committee name="House Agriculture"/>
+    </action>
+    <action datetime="2011-05-04">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2011-06-15">
+      <text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2011-06-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-06-15">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Natural Resources"/>
+    </calendar>
+    <action datetime="2011-07-20T13:03:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 112-164, Part I.</text>
+    </action>
+    <action datetime="2011-10-03T16:08:00-04:00">
+      <text>Mr. Bishop (UT) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2011-10-03T16:08:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6471-6473" label="consideration"/>
+    </action>
+    <action datetime="2011-10-03T16:08:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 765.</text>
+    </action>
+    <action datetime="2011-10-03T16:12:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2011-10-03T18:55:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6486-6487" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-10-03T19:01:00-04:00" how="roll" result="pass" roll="743" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 394 - 0 (Roll no. 743).</text>
+      <reference ref="CR H6471-6472" label="text"/>
+    </vote>
+    <action datetime="2011-10-03T19:01:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="2011-10-04" calendar="Senate Legislative" under="General Orders" number="186">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 186.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="2011-10-18" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6692" label="consideration"/>
+    </vote>
+    <action datetime="2011-10-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2011-10-31">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2011-11-07">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2011-11-07" type="public" number="112-46">
+      <text>Became Public Law No: 112-46.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG15" subcommittee="Conservation, Energy, and Forestry" name="House Agriculture"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="382"/>
+    <bill relation="unknown" session="112" type="s" number="382"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Land use and conservation"/>
+    <term name="Licensing and registrations"/>
+    <term name="Outdoor recreation"/>
+    <term name="Sports and recreation facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>11/8/2011--Public Law.
+Ski Area Recreational Opportunity Enhancement Act of 2011 - Amends the National Forest Ski Area Permit Act of 1986 to require the term and acreage of permits for the operation of ski areas and associated facilities (under current law, for the operation of nordic and alpine ski areas and facilities) on National Forest System lands to be governed by provisions under the Act relating to such permits and other applicable law. Provides for the issuance of permits for the use and occupancy of suitable lands within the National Forest System for skiing and other snow-sports and recreational uses authorized pursuant to this Act. Requires each authorized activity and facility other than skiing and other snow-sports to: (1) encourage outdoor recreation and enjoyment of nature, (2) harmonize with the natural environment of the National Forest System land on which it is located, (3) be located within the developed portions of the ski area, and (4) be authorized in accordance with the applicable land and resource management plan and applicable laws. Specifies the activities and facilities that may be allowed or that are not allowed under a ski area permit issued pursuant to this Act. Prohibits the Secretary of Agriculture (USDA) from authorizing any activity or facility under this Act if its authorization would result in the primary recreational purpose of the National Forest System land with a ski area permit being a purpose other than skiing and other snow-sports. Bars the Secretary from considering the acreage necessary for authorized activities and facilities in determining the acreage encompassed by a ski area permit. Requires the Secretary to promulgate new regulations for the implementation of this Act.</summary>
+</bill>

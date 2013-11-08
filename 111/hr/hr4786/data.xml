@@ -1,0 +1,73 @@
+<bill session="111" type="h" number="4786" updated="2013-07-19T23:55:39-04:00">
+  <state datetime="2010-03-10T10:44:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-03-10T10:44:00-05:00"/>
+  </status>
+  <introduced datetime="2010-03-09"/>
+  <titles>
+    <title as="introduced" type="official">To provide authority to compensate Federal employees for the 2-day period in which authority to make expenditures from the Highway Trust Fund lapsed, and for other purposes.</title>
+  </titles>
+  <sponsor id="412272"/>
+  <cosponsors>
+    <cosponsor id="400100" joined="2010-03-09"/>
+    <cosponsor id="400238" joined="2010-03-09"/>
+    <cosponsor id="400273" joined="2010-03-09"/>
+    <cosponsor id="400299" joined="2010-03-09"/>
+    <cosponsor id="400409" joined="2010-03-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-03-09">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2010-03-09">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2010-03-09">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2010-03-10">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-03-10T10:29:00-05:00">
+      <text>Mr. Oberstar moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-03-10T10:29:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1226-1228" label="consideration"/>
+    </action>
+    <action datetime="2010-03-10T10:29:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4786.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-03-10T10:44:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H1226-1227" label="text"/>
+    </vote>
+    <action datetime="2010-03-10T10:44:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-03-10">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2010-03-26">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Transportation"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Transportation programs funding"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/2010--Passed House without amendment.
+Declares that any federal employees furloughed as a result of the lapse in expenditure authority from the Highway Trust Fund after 11:59 p.m. on February 28, 2010, through March 2, 2010, shall be compensated for the period of that lapse at their standard rates of compensation. Ratifies and approves all actions taken by federal employees, contractors, and grantees during that period of lapse to: (1) maintain the essential level of government operations, services, and activities to protect life and property; and (2) bring about orderly termination of government functions. Requires that funds used by the Secretary of Transportation to compensate such employees be derived from funds previously authorized out of the Highway Trust Fund and made available or limited to the Department of Transportation by the Consolidated Appropriations Act, 2010. Deems this Act to be a section of the Continuing Appropriations Resolution, 2010, as in effect on the date of the enactment of the last amendment to such Resolution.</summary>
+</bill>

@@ -1,0 +1,51 @@
+<bill session="113" type="h" number="2743" updated="2013-11-02T06:42:05-04:00">
+  <state datetime="2013-07-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-18"/>
+  </status>
+  <introduced datetime="2013-07-18"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Eagle Parks Pass Act</title>
+    <title type="official" as="introduced">To make the National Parks and Federal Recreational Lands Pass available at a discount to certain veterans.</title>
+  </titles>
+  <sponsor id="412409"/>
+  <cosponsors>
+    <cosponsor id="412436" joined="2013-08-01"/>
+    <cosponsor id="400211" joined="2013-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-18" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-07-18">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-07-18">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2013-07-25">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2013-08-13">
+      <text>Referred to the Subcommittee on Conservation, Energy, and Forestry.</text>
+      <committee name="House Agriculture"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG15" subcommittee="Conservation, Energy, and Forestry" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="User charges and fees"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/18/2013--Introduced.
+Veterans Eagle Parks Pass Act - Makes the National Parks and Federal Recreational Lands Pass available at a discount to certain veterans. Makes a National Parks and Federal Recreational Lands Pass made available under this Act valid for the life of the veteran for whom it was purchased.</summary>
+</bill>

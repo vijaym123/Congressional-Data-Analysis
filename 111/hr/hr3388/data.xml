@@ -1,0 +1,117 @@
+<bill session="111" type="h" number="3388" updated="2013-07-19T23:42:43-04:00">
+  <state datetime="2009-12-07T13:32:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-12-07T13:32:00-05:00"/>
+  </status>
+  <introduced datetime="2009-07-29"/>
+  <titles>
+    <title as="introduced" type="short">Petersburg National Battlefield Boundary Modification Act</title>
+    <title as="reported to house" type="short">Petersburg National Battlefield Boundary Modification Act</title>
+    <title as="passed house" type="short">Petersburg National Battlefield Boundary Modification Act</title>
+    <title as="reported to senate" type="short">Petersburg National Battlefield Boundary Modification Act</title>
+    <title as="introduced" type="official">To modify the boundary of Petersburg National Battlefield in the Commonwealth of Virginia, and for other purposes.</title>
+  </titles>
+  <sponsor id="400137"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-29">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-07-29">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2009-07-29">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2009-08-04">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2009-10-28">
+      <text>Referred to the Subcommittee on Readiness.</text>
+      <committee name="House Armed Services"/>
+    </action>
+    <action datetime="2009-11-05">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2009-11-18">
+      <text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2009-11-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-11-18">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Natural Resources"/>
+    </calendar>
+    <action datetime="2009-12-07T13:25:00-05:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-359, Part I.</text>
+    </action>
+    <action datetime="2009-12-07T13:26:00-05:00">
+      <text>Committee on Armed Services discharged.</text>
+    </action>
+    <calendar datetime="2009-12-07T13:27:00-05:00" calendar="Union" number="211">
+      <text>Placed on the Union Calendar, Calendar No. 211.</text>
+    </calendar>
+    <action datetime="2009-12-07T13:29:00-05:00">
+      <text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-12-07T13:29:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H13540-13541" label="consideration"/>
+    </action>
+    <action datetime="2009-12-07T13:29:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3388.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-12-07T13:32:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H13540" label="text"/>
+    </vote>
+    <action datetime="2009-12-07T13:32:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-12-08">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2010-05-19">
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2010-08-05">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2010-09-27">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-327.</text>
+    </action>
+    <calendar datetime="2010-09-27" calendar="Senate Legislative" under="General Orders" number="613">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 613.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSAS03" subcommittee="Readiness" name="House Armed Services"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="National Parks" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="2953"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Conflicts and wars"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Land transfers"/>
+    <term name="Military history"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/2010--Reported to Senate without amendment.
+Petersburg National Battlefield Boundary Modification Act - Modifies the boundary of Petersburg National Battlefield in Virginia to include the properties identified on the map titled "Petersburg National Battlefield Boundary Expansion," and dated June 2007. Authorizes the Secretary to acquire such lands or interests from willing sellers only by donation, purchase with donated or appropriated funds, exchange, or transfer. Requires the administration of any acquired lands or interests as part of the Petersburg National Battlefield. Authorizes the Secretaries of the Interior and the Army to transfer the administrative jurisdiction for approximately 1.171 acres under the jurisdiction of the Department of the Interior within the boundary of the Petersburg National Battlefield in exchange for approximately 1.170 acres under the jurisdiction of the Department of the Army within the boundary of the Fort Lee Military Reservation adjacent to the Battlefield. Requires the conveyed land to be included within the boundary of Petersburg National Battlefield and administered as part of such Battlefield.</summary>
+</bill>

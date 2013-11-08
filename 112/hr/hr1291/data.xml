@@ -1,0 +1,54 @@
+<bill session="112" type="h" number="1291" updated="2013-07-20T01:21:32-04:00">
+  <state datetime="2011-03-31">REFERRED</state>
+  <status>
+    <introduced datetime="2011-03-31"/>
+  </status>
+  <introduced datetime="2011-03-31"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Act of June 18, 1934, to reaffirm the authority of the Secretary of the Interior to take land into trust for Indian tribes, and for other purposes.</title>
+  </titles>
+  <sponsor id="400077"/>
+  <cosponsors>
+    <cosponsor id="400006" joined="2011-04-06"/>
+    <cosponsor id="400645" joined="2011-04-04"/>
+    <cosponsor id="400073" joined="2011-04-06"/>
+    <cosponsor id="412435" joined="2012-08-01"/>
+    <cosponsor id="400224" joined="2011-05-23"/>
+    <cosponsor id="400283" joined="2011-10-12"/>
+    <cosponsor id="412442" joined="2011-07-25"/>
+    <cosponsor id="400331" joined="2011-04-05"/>
+    <cosponsor id="400335" joined="2011-04-06"/>
+    <cosponsor id="400376" joined="2011-04-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-03-31">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2011-04-06">
+      <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-07-12">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII24" subcommittee="Indian and Alaska Native Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="1234"/>
+    <bill relation="unknown" session="112" type="s" number="676"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Alaska"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/31/2011--Introduced.
+Amends the Act commonly known as the Indian Reorganization Act to except lands in Alaska from the Secretary of the Interior's authority to acquire any interest in lands, water rights, or surface rights to lands, within or without existing reservations, for the purpose of providing land for Indians. Applies that Act to all federally recognized Indian tribes, regardless of when any tribe became recognized. (This effectively overrules the Supreme Court's decision in Carcieri v. Salazar, which held that the Secretary could not take land into trust for a specified tribe because that tribe had not been under federal jurisdiction when the Act was enacted.)</summary>
+</bill>

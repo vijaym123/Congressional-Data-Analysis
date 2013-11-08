@@ -1,0 +1,89 @@
+<bill session="112" type="h" number="6726" updated="2013-07-20T02:07:56-04:00">
+  <state datetime="2013-01-01T18:58:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-01-01T18:58:00-05:00"/>
+  </status>
+  <introduced datetime="2013-01-01"/>
+  <titles>
+    <title as="introduced" type="short">Congressional Pay Freeze and Fiscal Responsibility Act</title>
+    <title as="passed house" type="short">Congressional Pay Freeze and Fiscal Responsibility Act</title>
+    <title as="introduced" type="official">To prevent the 2013 pay adjustment for Members of Congress and persons holding other offices or positions in the Federal Government from being made.</title>
+  </titles>
+  <sponsor id="400646"/>
+  <cosponsors>
+    <cosponsor id="412216" joined="2013-01-01"/>
+    <cosponsor id="412469" joined="2013-01-01"/>
+    <cosponsor id="412250" joined="2013-01-01"/>
+    <cosponsor id="412478" joined="2013-01-01"/>
+    <cosponsor id="400046" joined="2013-01-01"/>
+    <cosponsor id="400089" joined="2013-01-01"/>
+    <cosponsor id="412476" joined="2013-01-01"/>
+    <cosponsor id="412480" joined="2013-01-01"/>
+    <cosponsor id="412463" joined="2013-01-01"/>
+    <cosponsor id="412485" joined="2013-01-01"/>
+    <cosponsor id="412280" joined="2013-01-01"/>
+    <cosponsor id="400175" joined="2013-01-01"/>
+    <cosponsor id="400209" joined="2013-01-01"/>
+    <cosponsor id="412465" joined="2013-01-01"/>
+    <cosponsor id="412487" joined="2013-01-01"/>
+    <cosponsor id="412474" joined="2013-01-01"/>
+    <cosponsor id="412409" joined="2013-01-01"/>
+    <cosponsor id="400652" joined="2013-01-01"/>
+    <cosponsor id="412408" joined="2013-01-01"/>
+    <cosponsor id="400627" joined="2013-01-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-01-01">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-01-01">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2013-01-01">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2013-01-01T12:31:00-05:00">
+      <text>Mr. Issa moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-01-01T12:31:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7521-7527" label="consideration"/>
+    </action>
+    <action datetime="2013-01-01T12:31:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6726.</text>
+    </action>
+    <action datetime="2013-01-01T13:13:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-01-01T18:31:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7529" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2013-01-01T18:58:00-05:00" how="roll" result="pass" roll="655" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 287 - 129 (Roll no. 655).</text>
+      <reference ref="CR H7521" label="text"/>
+    </vote>
+    <action datetime="2013-01-01T18:58:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-01-02">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Federal officials"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Inflation and prices"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>1/1/2013--Passed House without amendment.
+Congressional Pay Freeze and Fiscal Responsibility Act - Amends the Continuing Appropriations Act, 2011, as amended by the Continuing Appropriations Resolution, 2013 (P.L. 112-175), to extend the freeze on adjustments to pay of federal employees and officials, including Members of Congress, through December 31, 2013. Eliminates the delayed statutory pay adjustment contained in the Resolution that was permitted to take effect with the first applicable pay period beginning after March 27, 2013.</summary>
+</bill>

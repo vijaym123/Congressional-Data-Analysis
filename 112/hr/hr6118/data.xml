@@ -1,0 +1,100 @@
+<bill session="112" type="h" number="6118" updated="2013-07-20T02:02:47-04:00">
+  <state datetime="2012-12-04">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2012-12-04"/>
+  </status>
+  <introduced datetime="2012-07-12"/>
+  <titles>
+    <title as="introduced" type="short">Taking Essential Steps for Testing Act of 2012</title>
+    <title as="passed house" type="short">Taking Essential Steps for Testing Act of 2012</title>
+    <title as="passed senate" type="short">Taking Essential Steps for Testing Act of 2012</title>
+    <title as="enacted" type="short">Taking Essential Steps for Testing Act of 2012</title>
+    <title as="introduced" type="official">To amend section 353 of the Public Health Service Act with respect to suspension, revocation, and limitation of laboratory certification.</title>
+  </titles>
+  <sponsor id="412451"/>
+  <cosponsors>
+    <cosponsor id="412265" joined="2012-07-18"/>
+    <cosponsor id="400052" joined="2012-07-19"/>
+    <cosponsor id="412488" joined="2012-09-11"/>
+    <cosponsor id="412401" joined="2012-09-10"/>
+    <cosponsor id="400630" joined="2012-09-13"/>
+    <cosponsor id="400311" joined="2012-09-10"/>
+    <cosponsor id="412489" joined="2012-09-11"/>
+    <cosponsor id="412202" joined="2012-07-12"/>
+    <cosponsor id="400345" joined="2012-07-12"/>
+    <cosponsor id="412461" joined="2012-08-02"/>
+    <cosponsor id="400406" joined="2012-07-19"/>
+    <cosponsor id="412214" joined="2012-09-11"/>
+    <cosponsor id="412402" joined="2012-07-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-07-12">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2012-07-13">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2012-09-11">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2012-09-11">
+      <text>Forwarded by Subcommittee to Full Committee .</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2012-09-19T21:06:00-04:00">
+      <text>Mr. Pitts moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-09-19T21:06:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6140-6142" label="consideration"/>
+    </action>
+    <action datetime="2012-09-19T21:06:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6118.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-09-19T21:17:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6140" label="text"/>
+    </vote>
+    <action datetime="2012-09-19T21:17:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-09-20">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2012-11-14" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6827" label="consideration"/>
+    </vote>
+    <action datetime="2012-11-15">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2012-11-28">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2012-12-04">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2012-12-04" type="public" number="112-202">
+      <text>Became Public Law No: 112-202.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="3391"/>
+    <bill relation="unknown" session="112" type="s" number="3391"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Licensing and registrations"/>
+    <term name="Medical tests and diagnostic methods"/>
+  </subjects>
+  <amendments/>
+  <summary>12/4/2012--Public Law.
+Taking Essential Steps for Testing Act of 2012 - Amends the Public Health Service Act to revise sanctions for laboratories that intentionally refer proficiency testing samples required for certification to another laboratory for analysis by: (1) giving the Secretary of Health and Human Services (HHS) discretion to substitute intermediate sanctions for such violations instead of the two-year prohibition against ownership or operation which would otherwise apply, and (2) making the one-year certificate revocation for such a laboratory optional rather than mandatory.</summary>
+</bill>

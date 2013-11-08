@@ -1,0 +1,60 @@
+<bill session="111" type="h" number="3813" updated="2013-07-19T23:46:30-04:00">
+  <state datetime="2009-10-14">REFERRED</state>
+  <status>
+    <introduced datetime="2009-10-14"/>
+  </status>
+  <introduced datetime="2009-10-14"/>
+  <titles>
+    <title as="introduced" type="short">Veterans Training Act</title>
+    <title as="introduced" type="official">To amend title 38, United States Code, to provide for the approval of certain programs of education for purposes of the Post-9/11 Educational Assistance Program.</title>
+  </titles>
+  <sponsor id="412232"/>
+  <cosponsors>
+    <cosponsor id="412231" joined="2009-10-29"/>
+    <cosponsor id="400645" joined="2010-03-02"/>
+    <cosponsor id="400048" joined="2010-06-30"/>
+    <cosponsor id="400077" joined="2010-04-26"/>
+    <cosponsor id="412386" joined="2010-06-16"/>
+    <cosponsor id="400114" joined="2010-09-29"/>
+    <cosponsor id="412230" joined="2010-04-20"/>
+    <cosponsor id="400133" joined="2010-04-15"/>
+    <cosponsor id="412222" joined="2010-04-15"/>
+    <cosponsor id="400183" joined="2010-06-16"/>
+    <cosponsor id="400274" joined="2010-05-11"/>
+    <cosponsor id="400661" joined="2010-04-15"/>
+    <cosponsor id="400285" joined="2010-01-27"/>
+    <cosponsor id="400286" joined="2010-01-26"/>
+    <cosponsor id="400321" joined="2009-10-22"/>
+    <cosponsor id="400376" joined="2010-04-15"/>
+    <cosponsor id="400392" joined="2010-05-25"/>
+    <cosponsor id="412317" joined="2009-10-26"/>
+    <cosponsor id="412255" joined="2010-04-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-10-14">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-10-16">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-02-25">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3171"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>10/14/2009--Introduced.
+Veterans Training Act - Deems a program of education as an approved program for purposes of the post-9/11 veterans' educational assistance program if the program is offered by an institution offering: (1) postsecondary instruction that leads to an associate or higher degree and the institution is an approved institution of higher learning; or (2) instruction that does not lead to an associate or higher degree and the institution is an approved educational institution.</summary>
+</bill>

@@ -1,0 +1,73 @@
+<bill session="111" type="h" number="5681" updated="2013-07-20T00:03:51-04:00">
+  <state datetime="2010-07-27T13:48:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-07-27T13:48:00-04:00"/>
+  </status>
+  <introduced datetime="2010-07-01"/>
+  <titles>
+    <title as="introduced" type="official">To improve certain administrative operations of the Library of Congress, and for other purposes.</title>
+  </titles>
+  <sponsor id="400047"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-01">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2010-07-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on House Administration"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-07-14">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on House Administration"/>
+    </calendar>
+    <action datetime="2010-07-22T13:40:00-04:00">
+      <text>Reported by the Committee on House Administration. H. Rept. 111-557.</text>
+    </action>
+    <calendar datetime="2010-07-22T13:41:00-04:00" calendar="Union" number="318">
+      <text>Placed on the Union Calendar, Calendar No. 318.</text>
+    </calendar>
+    <action datetime="2010-07-27T13:45:00-04:00">
+      <text>Mr. Brady (PA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-07-27T13:45:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6097-6098" label="consideration"/>
+    </action>
+    <action datetime="2010-07-27T13:45:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5681.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-07-27T13:48:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6097-6098" label="text"/>
+    </vote>
+    <action datetime="2010-07-27T13:48:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-07-28">
+      <text>Received in the Senate and Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Markup, Reporting"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Appropriations"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Congressional agencies"/>
+    <term name="Education programs funding"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Higher education"/>
+    <term name="Humanities programs funding"/>
+    <term name="Libraries and archives"/>
+    <term name="Library of Congress"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>7/27/2010--Passed House amended.
+Authorizes the Librarian of Congress to dispose of surplus or obsolete personal property of the Library of Congress by interagency transfer, donation, sale, trade-in, or other appropriate method. Requires proceeds from such disposition to be: (1) credited to the funds available for the Library's operations; and (2) made available to acquire the same or similar property during the fiscal year in which the amounts are received, including the following fiscal year. States that amounts appropriated or otherwise made available to the Librarian for a fiscal year for salaries and expenses of Library employees may be used by the Librarian to make payments under the student loan repayment program, on behalf of a Library employee, without regard to the source of the funds used to pay the employee's salary. Makes unobligated balances of expired appropriations made to the Library for fiscal years beginning with FY2011 available to the Librarian to make a specified mandatory deposit to the credit of the Employees' Compensation Fund. Declares that the budgetary effects of this Act, in order to comply with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled "Budgetary Effects of PAYGO Legislation" for this Act, provided that such statement has been submitted before the vote on passage.</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="111" type="h" number="2629" updated="2013-07-19T23:35:32-04:00">
+  <state datetime="2009-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2009-05-21"/>
+  </status>
+  <introduced datetime="2009-05-21"/>
+  <titles>
+    <title as="introduced" type="short">Coercion is Not Health Care Act</title>
+    <title as="introduced" type="official">To protect the American people's ability to make their own health care decisions by ensuring the Federal Government shall not force any American to purchase health insurance.</title>
+  </titles>
+  <sponsor id="400311"/>
+  <cosponsors>
+    <cosponsor id="412309" joined="2009-12-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-05-21">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1239-1240"/>
+    </action>
+    <action state="REFERRED" datetime="2009-05-21">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2009-06-02">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2009--Introduced.
+Coercion is Not Health Care Act - Prohibits requiring the purchase or maintenance of health insurance coverage as a condition for participation in, or access to, any federal program or for federal benefit eligibility. Prohibits any individual or agency of the federal government from requiring any individual to purchase health insurance coverage.</summary>
+</bill>

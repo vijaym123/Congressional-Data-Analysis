@@ -1,0 +1,91 @@
+<bill session="112" type="s" number="1886" updated="2013-07-20T02:32:52-04:00">
+  <state datetime="2012-03-06">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2012-03-06"/>
+  </status>
+  <introduced datetime="2011-11-17"/>
+  <titles>
+    <title as="introduced" type="short">Counterfeit Drug Penalty Enhancement Act of 2011</title>
+    <title as="reported to senate" type="short">Counterfeit Drug Penalty Enhancement Act of 2011</title>
+    <title as="passed senate" type="short">Counterfeit Drug Penalty Enhancement Act of 2011</title>
+    <title as="introduced" type="official">A bill to prevent trafficking in counterfeit drugs.</title>
+  </titles>
+  <sponsor id="300065"/>
+  <cosponsors>
+    <cosponsor id="412330" joined="2011-11-17"/>
+    <cosponsor id="412490" joined="2011-11-17"/>
+    <cosponsor id="412246" joined="2012-03-01"/>
+    <cosponsor id="412390" joined="2011-12-06"/>
+    <cosponsor id="300043" joined="2011-12-01"/>
+    <cosponsor id="300048" joined="2011-11-17"/>
+    <cosponsor id="412242" joined="2011-12-07"/>
+    <cosponsor id="300062" joined="2011-12-06"/>
+    <cosponsor id="412247" joined="2011-11-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2011-11-17">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S7705"/>
+    </action>
+    <action state="REFERRED" datetime="2011-11-17">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S7705-7706" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-12-08">
+      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2011-12-08">
+      <text>Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2011-12-08" calendar="Senate Legislative" under="General Orders" number="253">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 253.</text>
+    </calendar>
+    <action datetime="2012-03-06">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S1431" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2012-03-06" how="by Voice Vote" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+      <reference ref="CR S1431" label="text"/>
+    </vote>
+    <action datetime="2012-03-07T10:09:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2012-03-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2012-03-07">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2012-03-15">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="3468"/>
+    <bill relation="unknown" session="112" type="h" number="3668"/>
+    <bill relation="unknown" session="112" type="h" number="3668"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Prescription drugs"/>
+    <term name="U.S. Sentencing Commission"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1808"/>
+  </amendments>
+  <summary>3/6/2012--Passed Senate amended.
+Counterfeit Drug Penalty Enhancement Act of 2011 - Amends the federal criminal code to establish criminal penalties of a fine, imprisonment for not more than 20 years, or both for trafficking, or attempting to traffic, in counterfeit drugs. Doubles the potential fine for repeat offenders. Directs the United States Sentencing Commission to review and, if appropriate, amend its guidelines and policy statements applicable to persons convicted of that offense to reflect congressional intent that such penalties be increased.</summary>
+</bill>

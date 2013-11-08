@@ -1,0 +1,43 @@
+<bill session="112" type="h" number="2300" updated="2013-07-20T01:30:12-04:00">
+  <state datetime="2011-06-22">REFERRED</state>
+  <status>
+    <introduced datetime="2011-06-22"/>
+  </status>
+  <introduced datetime="2011-06-22"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to extend the authorization of appropriations for the Secretary of Veterans Affairs to pay a monthly assistance allowance to disabled veterans training or competing for the Paralympic Team.</title>
+  </titles>
+  <sponsor id="412392"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2011-06-22">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2011-07-07">
+      <text>Hearings Held by the Subcommittee on Economic Opportunity Prior to Referral.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2011-07-08">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="2345"/>
+    <bill relation="unknown" session="112" type="s" number="3206"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Athletes"/>
+    <term name="Disability assistance"/>
+    <term name="Olympic games"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/22/2011--Introduced.
+Extends, until FY2018, the yearly $2 million appropriations authorization for the Secretary of Veterans Affairs (VA) to pay a monthly assistance allowance to disabled veterans training or competing for the Paralympic Team.</summary>
+</bill>

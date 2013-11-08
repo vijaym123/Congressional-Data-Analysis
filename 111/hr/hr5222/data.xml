@@ -1,0 +1,46 @@
+<bill session="111" type="h" number="5222" updated="2013-07-19T23:59:28-04:00">
+  <state datetime="2010-05-05">REFERRED</state>
+  <status>
+    <introduced datetime="2010-05-05"/>
+  </status>
+  <introduced datetime="2010-05-05"/>
+  <titles>
+    <title as="introduced" type="official">To suspend certain activities in the outer Continental Shelf until the date on which the joint investigation into the Deepwater Horizon incident in the Gulf of Mexico has been completed, and for other purposes.</title>
+  </titles>
+  <sponsor id="400270"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2010-05-13"/>
+    <cosponsor id="412382" joined="2010-05-12"/>
+    <cosponsor id="412276" joined="2010-05-18"/>
+    <cosponsor id="400170" joined="2010-05-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-05-05">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2010-05-07">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3308"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Accidents"/>
+    <term name="Government studies and investigations"/>
+    <term name="Gulf of Mexico"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Marine pollution"/>
+    <term name="Oil and gas"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments/>
+  <summary>5/5/2010--Introduced.
+Directs the Secretary of the Interior to suspend until a certain date: (1) all activities relating to the development of a new or revised five-year plan for the outer Continental Shelf (OCS); (2) new OCS exploration, development, and production activities (including geological and geophysical surveys); and (3) any exploration or development activities commenced before the enactment of this Act, unless the Secretary certifies they pose no significant risk of accident. Continues the suspension of such activities until completion of: (1) the joint investigation by the Secretaries of the Interior and of Homeland Security into the Deepwater Horizon incident in the Gulf of Mexico; and (2) a final report identifying methods to prevent future incidents in the OCS. Grandfathers any production activities commenced before enactment of this Act.</summary>
+</bill>

@@ -1,0 +1,66 @@
+<bill session="111" type="h" number="325" updated="2013-07-19T23:14:50-04:00">
+  <state datetime="2009-06-02T14:16:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-06-02T14:16:00-04:00"/>
+  </status>
+  <introduced datetime="2009-01-08"/>
+  <titles>
+    <title as="introduced" type="short">Avra/Black Wash Reclamation and Riparian Restoration Project</title>
+    <title as="passed house" type="short">Avra/Black Wash Reclamation and Riparian Restoration Project</title>
+    <title as="introduced" type="official">To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Secretary of the Interior to participate in the Avra/Black Wash Reclamation and Riparian Restoration Project.</title>
+  </titles>
+  <sponsor id="400162"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-01-08">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-02-04">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-06-02T14:14:00-04:00">
+      <text>Mrs. Christensen moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-06-02T14:14:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6019" label="consideration"/>
+    </action>
+    <action datetime="2009-06-02T14:14:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 325.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-06-02T14:16:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6019" label="text"/>
+    </vote>
+    <action datetime="2009-06-02T14:16:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-06-03">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2010-04-27">
+      <text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSEG07" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Aquatic ecology"/>
+    <term name="Arizona"/>
+    <term name="Lakes and rivers"/>
+    <term name="Water resources funding"/>
+    <term name="Water use and supply"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>6/2/2009--Passed House without amendment.
+Avra/Black Wash Reclamation and Riparian Restoration Project - Amends the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Secretary of the Interior, in cooperation with Pima County, Arizona, to participate in the planning, design, and construction of water recycling facilities and to enhance and restore riparian habitat in the Black Wash Sonoran Desert ecosystem in Avra Valley west of the metropolitan Pima County area. Limits the federal share of the project's cost to 25%. Authorizes appropriations. Permits federal funds provided by this Act to be used only for the design, planning, and construction of water-related infrastructure.</summary>
+</bill>

@@ -1,0 +1,51 @@
+<bill session="112" type="h" number="4248" updated="2013-07-20T01:46:49-04:00">
+  <state datetime="2012-03-22">REFERRED</state>
+  <status>
+    <introduced datetime="2012-03-22"/>
+  </status>
+  <introduced datetime="2012-03-22"/>
+  <titles>
+    <title as="introduced" type="official">To authorize the burial at Arlington National Cemetery of members of the Army who served honorably in the Tomb Guard Platoon of the 3d United States Infantry Regiment, which provides the sentinels at the Tomb of the Unknowns at Arlington National Cemetery.</title>
+  </titles>
+  <sponsor id="400646"/>
+  <cosponsors>
+    <cosponsor id="400008" joined="2012-07-17"/>
+    <cosponsor id="412272" joined="2012-07-11"/>
+    <cosponsor id="400417" joined="2012-04-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-03-22">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2012-03-22">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2012-03-22">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2012-03-30">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2012-07-10">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>3/22/2012--Introduced.
+Makes eligible for interment or inurnment at Arlington National Cemetery members of the Army who served honorably for at least nine months in the Tomb Guard Platoon of the 3rd U.S. Infantry Regiment which provides sentinels at the Tomb of the Unknowns at such Cemetery.</summary>
+</bill>

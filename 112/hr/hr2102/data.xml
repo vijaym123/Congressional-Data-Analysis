@@ -1,0 +1,44 @@
+<bill session="112" type="h" number="2102" updated="2013-07-20T01:28:26-04:00">
+  <state datetime="2011-06-02">REFERRED</state>
+  <status>
+    <introduced datetime="2011-06-02"/>
+  </status>
+  <introduced datetime="2011-06-02"/>
+  <titles>
+    <title as="introduced" type="short">FCC Commissioners' Technical Resource Enhancement Act</title>
+    <title as="introduced" type="official">To permit each commissioner of the Federal Communications Commission to appoint an electrical engineer or computer scientist to provide technical consultation.</title>
+  </titles>
+  <sponsor id="400388"/>
+  <cosponsors>
+    <cosponsor id="400027" joined="2012-07-18"/>
+    <cosponsor id="400124" joined="2012-03-07"/>
+    <cosponsor id="412189" joined="2011-06-15"/>
+    <cosponsor id="400318" joined="2011-06-21"/>
+    <cosponsor id="400350" joined="2011-09-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-06-02">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2011-06-03">
+      <text>Referred to the Subcommittee on Communications and Technology.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF16" subcommittee="Communications and Technology" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="611"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Communications Commission (FCC)"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+  </subjects>
+  <amendments/>
+  <summary>6/2/2011--Introduced.
+FCC Commissioners' Technical Resource Enhancement Act - Amends the Communications Act of 1934 to permit each commissioner of the Federal Communications Commission (FCC) to appoint an electrical engineer or computer scientist to provide technical consultation and to interface with the Office of Engineering and Technology and other FCC bureaus and technical staff. Requires such engineer or scientist to hold an undergraduate or graduate degree in his or her field of expertise.</summary>
+</bill>

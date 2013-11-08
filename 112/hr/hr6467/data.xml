@@ -1,0 +1,48 @@
+<bill session="112" type="h" number="6467" updated="2013-07-20T02:05:46-04:00">
+  <state datetime="2012-09-20">REFERRED</state>
+  <status>
+    <introduced datetime="2012-09-20"/>
+  </status>
+  <introduced datetime="2012-09-20"/>
+  <titles>
+    <title as="introduced" type="short">Rebuilding Equity Act of 2012</title>
+    <title as="introduced" type="official">To require a portion of closing costs to be paid by the enterprises with respect to certain refinanced mortgage loans, and for other purposes.</title>
+  </titles>
+  <sponsor id="400230"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2012-09-21"/>
+    <cosponsor id="412501" joined="2012-09-20"/>
+    <cosponsor id="412470" joined="2012-09-20"/>
+    <cosponsor id="412200" joined="2012-09-21"/>
+    <cosponsor id="400184" joined="2012-10-12"/>
+    <cosponsor id="400280" joined="2012-09-20"/>
+    <cosponsor id="412186" joined="2012-09-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-09-20">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2012-10-23">
+      <text>Referred to the Subcommittee on Capital Markets and Government Sponsored Enterprises.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA16" subcommittee="Capital Markets and Government Sponsored Enterprises" name="House Financial Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="2909"/>
+    <bill relation="identical" session="112" type="s" number="3520"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Consumer credit"/>
+    <term name="Government corporations and government-sponsored enterprises"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Legal fees and court costs"/>
+  </subjects>
+  <amendments/>
+  <summary>9/20/2012--Introduced.
+Rebuilding Equity Act of 2012 - Requires the Federal National Mortgage Association (Fannie Mae) and the Federal Home Loan Mortgage Corporation (Freddie Mac) (government sponsored enterprises or GSEs) each to establish a voluntary program for eligible borrowers who qualify for the Home Affordable Refinance Program carried out by the GSEs, under which the GSEs shall pay up to $1,000 of the closing costs associated with applying for and receiving refinancing when the borrower agrees to refinance a 30-year mortgage loan into a fully amortizing loan with a term of not longer than 20 years. Requires the subject property to have a loan-to-value ratio of not less than 105%.</summary>
+</bill>

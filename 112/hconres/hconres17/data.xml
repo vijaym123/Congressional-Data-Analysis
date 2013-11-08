@@ -1,0 +1,54 @@
+<bill session="112" type="hc" number="17" updated="2013-07-20T02:09:09-04:00">
+  <state datetime="2011-02-17">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2011-02-17"/>
+  </status>
+  <introduced datetime="2011-02-15"/>
+  <titles>
+    <title as="introduced" type="official">Providing for an adjournment or recess of the two Houses.</title>
+  </titles>
+  <sponsor id="412416"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2011-02-15T13:28:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H815" label="consideration"/>
+    </action>
+    <action datetime="2011-02-15T13:30:00-05:00">
+      <text>POSTPONED PROCEEDINGS - The Chair put the question on the adoption of the concurrent resolution, and by voice vote, the Chair announced the noes had prevailed. Mr. Woodall objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2011-02-15T14:06:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H817" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-02-15T14:12:00-05:00" how="roll" result="pass" roll="40" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by recorded vote: 243 - 176 (Roll no. 40).</text>
+      <reference ref="CR H815" label="text"/>
+    </vote>
+    <action datetime="2011-02-15T14:12:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-02-16">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2011-02-17" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S926" label="consideration"/>
+      <reference ref="CR S926" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2011-02-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="sc" number="38"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional operations and organization"/>
+  </subjects>
+  <amendments/>
+  <summary>2/17/2011--Passed Senate without amendment.
+Declares that when the House adjourns on the legislative day of Thursday, February 17, 2011, Friday, February 18, 2011, or Saturday, February 19, 2011, it stand adjourned until 2 p.m. on Monday, February 28, 2011. Declares that when the Senate recesses or adjourns on any day from Thursday, February 17, 2011, through Friday, February 25, 2011, it stand recessed or adjourned until noon on Monday, February 28, 2011.</summary>
+</bill>

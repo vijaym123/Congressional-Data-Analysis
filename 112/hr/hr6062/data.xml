@@ -1,0 +1,88 @@
+<bill session="112" type="h" number="6062" updated="2013-07-20T02:02:20-04:00">
+  <state datetime="2012-08-01T20:49:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-08-01T20:49:00-04:00"/>
+  </status>
+  <introduced datetime="2012-06-29"/>
+  <titles>
+    <title as="introduced" type="short">Edward Byrne Memorial Justice Assistance Grant Program Reauthorization Act of 2012</title>
+    <title as="reported to house" type="short">Edward Byrne Memorial Justice Assistance Grant Program Reauthorization Act of 2012</title>
+    <title as="passed house" type="short">Edward Byrne Memorial Justice Assistance Grant Program Reauthorization Act of 2012</title>
+    <title as="introduced" type="official">To reauthorize the Edward Byrne Memorial Justice Assistance Grant Program through fiscal year 2017.</title>
+  </titles>
+  <sponsor id="412468"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2012-07-17"/>
+    <cosponsor id="400076" joined="2012-06-29"/>
+    <cosponsor id="400080" joined="2012-06-29"/>
+    <cosponsor id="400144" joined="2012-06-29"/>
+    <cosponsor id="412200" joined="2012-07-17"/>
+    <cosponsor id="400220" joined="2012-06-29"/>
+    <cosponsor id="412306" joined="2012-06-29"/>
+    <cosponsor id="400364" joined="2012-06-29"/>
+    <cosponsor id="400381" joined="2012-06-29"/>
+    <cosponsor id="400623" joined="2012-06-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-06-29">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2012-07-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2012-07-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-07-18">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2012-07-31T14:57:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 112-636.</text>
+    </action>
+    <calendar datetime="2012-07-31T14:57:00-04:00" calendar="Union" number="457">
+      <text>Placed on the Union Calendar, Calendar No. 457.</text>
+    </calendar>
+    <action datetime="2012-07-31T20:33:00-04:00">
+      <text>Mr. Smith (TX) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-07-31T20:33:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5514-5515" label="consideration"/>
+    </action>
+    <action datetime="2012-07-31T20:33:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6062.</text>
+    </action>
+    <action datetime="2012-07-31T20:43:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Scott (VA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2012-08-01T20:49:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5619" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-08-01T20:49:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR 7/31/2012 H5514" label="text"/>
+    </vote>
+    <action datetime="2012-08-01T20:49:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-08-02">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Law enforcement administration and funding"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/2012--Passed House without amendment.
+Edward Byrne Memorial Justice Assistance Grant Program Reauthorization Act of 2012 - Amends the Omnibus Crime Control and Safe Streets Act of 1968 to authorize appropriations for the Edward Byrne Memorial Justice Assistance Grant Program through FY2017.</summary>
+</bill>

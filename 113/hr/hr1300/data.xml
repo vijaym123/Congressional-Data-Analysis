@@ -1,0 +1,79 @@
+<bill session="113" type="h" number="1300" updated="2013-11-02T06:29:53-04:00">
+  <state datetime="2013-07-30T20:26:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-07-30T20:26:00-04:00"/>
+  </status>
+  <introduced datetime="2013-03-20"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Fish and Wildlife Act of 1956 to reauthorize the volunteer programs and community partnerships for the benefit of national wildlife refuges, and for other purposes.</title>
+  </titles>
+  <sponsor id="412449"/>
+  <cosponsors>
+    <cosponsor id="412312" joined="2013-03-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-20" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-03-28">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-04-25">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-05-15">
+      <text>Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-05-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar datetime="2013-05-15" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2013-06-17T17:29:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-112.</text>
+    </action>
+    <calendar datetime="2013-06-17T17:29:00-04:00" calendar="Union" number="80">
+      <text>Placed on the Union Calendar, Calendar No. 80.</text>
+    </calendar>
+    <action datetime="2013-07-30T20:21:00-04:00">
+      <text>Mr. Runyan moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2013-07-30T20:21:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5148-5149" label="consideration"/>
+    </action>
+    <action datetime="2013-07-30T20:21:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1300.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2013-07-30T20:26:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5148" label="text"/>
+    </vote>
+    <action datetime="2013-07-30T20:26:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-07-31">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII22" subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" name="House Natural Resources"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+  <summary>7/30/2013--Passed House amended.
+Amends the Fish and Wildlife Act of 1956 to extend through FY2017 the authorization of appropriations for volunteer services for programs conducted by the United States Fish and Wildlife Service or the National Oceanic and Atmospheric Administration (NOAA), community partnership projects for national wildlife refuges, and refuge education programs.</summary>
+</bill>

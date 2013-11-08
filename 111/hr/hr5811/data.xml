@@ -1,0 +1,62 @@
+<bill session="111" type="h" number="5811" updated="2013-07-20T00:05:02-04:00">
+  <state datetime="2010-09-22T14:34:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-09-22T14:34:00-04:00"/>
+  </status>
+  <introduced datetime="2010-07-21"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Ysleta del Sur Pueblo and Alabama and Coushatta Indian Tribes of Texas Restoration Act to allow the Ysleta del Sur Pueblo Tribe to determine blood quantum requirement for membership in that tribe.</title>
+  </titles>
+  <sponsor id="400337"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-21">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2010-09-22T14:31:00-04:00">
+      <text>Mrs. Christensen moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-09-22T14:31:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6821-6822" label="consideration"/>
+    </action>
+    <action datetime="2010-09-22T14:31:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5811.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-09-22T14:34:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6821" label="text"/>
+    </vote>
+    <action datetime="2010-09-22T14:34:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-09-23">
+      <text>Received in the Senate and Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+    <calendar datetime="2010-11-18">
+      <text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Indian Affairs"/>
+    </calendar>
+    <action datetime="2010-12-09">
+      <text>Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 111-359.</text>
+    </action>
+    <calendar datetime="2010-12-09" calendar="Senate Legislative" under="General Orders" number="683">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 683.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="4984"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Texas"/>
+  </subjects>
+  <amendments/>
+  <summary>12/9/2010--Reported to Senate without amendment.
+Amends the Ysleta del Sur Pueblo and Alabama and Coushatta Indian Tribes of Texas Restoration Act to revise tribal membership requirements to provide tribal membership to any person of Tigua Ysleta del Sur Pueblo Indian blood enrolled by the tribe.</summary>
+</bill>

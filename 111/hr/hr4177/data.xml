@@ -1,0 +1,69 @@
+<bill session="111" type="h" number="4177" updated="2013-07-19T23:49:58-04:00">
+  <state datetime="2009-12-02">REFERRED</state>
+  <status>
+    <introduced datetime="2009-12-02"/>
+  </status>
+  <introduced datetime="2009-12-02"/>
+  <titles>
+    <title as="introduced" type="short">Agricultural Disaster Assistance Act of 2009</title>
+    <title as="introduced" type="official">To provide emergency disaster assistance to certain agricultural producers that suffered losses during 2009, to provide emergency disaster assistance to certain livestock producers that suffered losses during 2008 or 2009, and for other purposes.</title>
+  </titles>
+  <sponsor id="400026"/>
+  <cosponsors>
+    <cosponsor id="400006" joined="2009-12-08"/>
+    <cosponsor id="400030" joined="2009-12-09"/>
+    <cosponsor id="412267" joined="2009-12-08"/>
+    <cosponsor id="412262" joined="2009-12-02"/>
+    <cosponsor id="400092" joined="2010-02-02"/>
+    <cosponsor id="412277" joined="2009-12-10"/>
+    <cosponsor id="400179" joined="2010-01-26"/>
+    <cosponsor id="400302" joined="2010-01-26"/>
+    <cosponsor id="400345" joined="2009-12-08"/>
+    <cosponsor id="400402" joined="2009-12-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-12-02">
+      <text>Referred to the Committee on Agriculture, and in addition to the Committee on Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-12-02">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2009-12-02">
+      <text>Referred to House Appropriations</text>
+    </action>
+    <action datetime="2010-03-29">
+      <text>Referred to the Subcommittee on Livestock, Dairy, and Poultry.</text>
+      <committee name="House Agriculture"/>
+    </action>
+    <action datetime="2010-03-29">
+      <text>Referred to the Subcommittee on Horticulture and Organic Agriculture.</text>
+      <committee name="House Agriculture"/>
+    </action>
+    <action datetime="2010-03-29">
+      <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+      <committee name="House Agriculture"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG29" subcommittee="Livestock, Dairy, and Poultry" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG03" subcommittee="Horticulture and Organic Agriculture" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG16" subcommittee="General Farm Commodities and Risk Management" name="House Agriculture"/>
+    <committee code="HSAP" name="House Appropriations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="2810"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Agricultural prices, subsidies, credit"/>
+    <term name="Department of Agriculture"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Financial crises and stabilization"/>
+    <term name="Livestock"/>
+  </subjects>
+  <amendments/>
+  <summary>12/2/2009--Introduced.
+Agricultural Disaster Assistance Act of 2009 - Directs the Secretary of Agriculture to: (1) make a supplemental direct commodity payment to eligible producers that previously received such a payment; (2) make grants to states to assist eligible specialty crop producers for losses associated with drought or excessive rainfall during 2009; (3) provide supplemental assistance to eligible producers and first-handlers of the 2009 crop of cottonseed in disaster counties; (4) continue to carry out the 2002 livestock compensation program and provide assistance to any applicant that conducts a livestock operation located in a disaster county or produces fish classified within the family Ictaluridae (catfish); and (5) make payments to eligible producers for livestock losses occurring in a disaster county.</summary>
+</bill>

@@ -1,0 +1,107 @@
+<bill session="111" type="h" number="5717" updated="2013-07-20T00:04:11-04:00">
+  <state datetime="2010-09-28T20:40:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-09-28T20:40:00-04:00"/>
+  </status>
+  <introduced datetime="2010-07-13"/>
+  <titles>
+    <title as="introduced" type="short">Smithsonian Conservation Biology Institute Enhancement Act</title>
+    <title as="reported to house" type="short">Smithsonian Conservation Biology Institute Enhancement Act</title>
+    <title as="passed house" type="short">Smithsonian Conservation Biology Institute Enhancement Act</title>
+    <title as="introduced" type="official">To authorize the Board of Regents of the Smithsonian Institution to plan, design, and construct a facility and to enter into agreements relating to education programs at the National Zoological Park facility in Front Royal, Virginia, and for other purposes.</title>
+  </titles>
+  <sponsor id="400021"/>
+  <cosponsors>
+    <cosponsor id="400206" joined="2010-07-13"/>
+    <cosponsor id="400663" joined="2010-07-13"/>
+    <cosponsor id="400435" joined="2010-07-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2010-07-13">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1309"/>
+    </action>
+    <action state="REFERRED" datetime="2010-07-13">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2010-07-13">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2010-07-13">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2010-07-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House House Administration"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-07-14">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House House Administration"/>
+    </calendar>
+    <action datetime="2010-07-14">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-07-29">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-07-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <calendar datetime="2010-07-29">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2010-09-20T11:37:00-04:00">
+      <text>Reported by the Committee on House Administration. H. Rept. 111-612, Part I.</text>
+    </action>
+    <action datetime="2010-09-20T11:37:00-04:00">
+      <text>Reported (Amended) by the Committee on Transportation. H. Rept. 111-612, Part II.</text>
+    </action>
+    <calendar datetime="2010-09-20T11:38:00-04:00" calendar="Union" number="355">
+      <text>Placed on the Union Calendar, Calendar No. 355.</text>
+    </calendar>
+    <action datetime="2010-09-28T20:37:00-04:00">
+      <text>Mrs. Davis (CA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-09-28T20:37:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7157-7158" label="consideration"/>
+    </action>
+    <action datetime="2010-09-28T20:37:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5717.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-09-28T20:40:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7157" label="text"/>
+    </vote>
+    <action datetime="2010-09-28T20:40:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-09-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Markup, Reporting"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="sj" number="31"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+    <term name="Smithsonian Institution"/>
+    <term name="Virginia"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/2010--Passed House amended.
+Smithsonian Conservation Biology Institute Enhancement Act - Authorizes the Board of Regents of the Smithsonian Institution to construct a facility for the purpose of conducting research and educational programs on National Zoological Park property in Front Royal, Virginia. Authorizes the Board of Regents to enter into agreements to provide (at no cost to the Smithsonian Institution) housing and other services to participants in such programs. Authorizes the Board of Regents to construct animal holding and related program facilities on such property to be funded from non-federal sources.</summary>
+</bill>

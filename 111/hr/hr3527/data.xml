@@ -1,0 +1,63 @@
+<bill session="111" type="h" number="3527" updated="2013-07-19T23:43:55-04:00">
+  <state datetime="2009-09-15T15:10:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-09-15T15:10:00-04:00"/>
+  </status>
+  <introduced datetime="2009-07-31"/>
+  <titles>
+    <title as="introduced" type="short">FHA Multifamily Loan Limit Adjustment Act of 2009</title>
+    <title as="passed house" type="short">FHA Multifamily Loan Limit Adjustment Act of 2009</title>
+    <title as="introduced" type="official">To increase the maximum mortgage amount limitations under the FHA mortgage insurance programs for multifamily housing projects with elevators and for extremely high-cost areas.</title>
+  </titles>
+  <sponsor id="400426"/>
+  <cosponsors>
+    <cosponsor id="400140" joined="2009-07-31"/>
+    <cosponsor id="400251" joined="2009-09-14"/>
+    <cosponsor id="400277" joined="2009-07-31"/>
+    <cosponsor id="400371" joined="2009-09-15"/>
+    <cosponsor id="412186" joined="2009-09-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-31">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2009-09-15T15:01:00-04:00">
+      <text>Mr. Adler (NJ) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-09-15T15:01:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9522-9524" label="consideration"/>
+    </action>
+    <action datetime="2009-09-15T15:01:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3527.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-09-15T15:10:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H9522" label="text"/>
+    </vote>
+    <action datetime="2009-09-15T15:10:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-09-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="3700"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Cooperative and condominium housing"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Housing for the elderly and disabled"/>
+    <term name="Low- and moderate-income housing"/>
+  </subjects>
+  <amendments/>
+  <summary>9/15/2009--Passed House amended.
+FHA Multifamily Loan Limit Adjustment Act of 2009 - (Sec. 2) Amends the National Housing Act to revise the maximum mortgage loan principal amounts the Secretary of Housing and Urban Development (HUD) may insure for elevator-type multifamily structures for: (1) rental housing; (2) cooperative housing; (3) rehabilitation and neighborhood conservation housing; (4) housing for moderate income and displaced families; (5) housing for elderly persons; and (6) condominiums. Replaces the current specific dollar amount limitations per family unit by which the insurable mortgage principal obligation for elevator-type multifamily structures may be increased. Prescribes instead an increase limitation per family unit of up to 50% higher than the corresponding limitations for non-elevator-type multifamily structures. (Sec. 3) Authorizes the Secretary to prescribe a higher maximum (up to 50%) for the principal obligation of mortgages insured for multifamily projects located in an extremely high-cost area (similar to that for mortgage insurance for property in Alaska, Guam, Hawaii, and the Virgin Islands). (Sec. 4) States that this Act applies to mortgages insured under Title II of the National Housing Act after September 30, 2009.</summary>
+</bill>

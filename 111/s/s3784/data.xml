@@ -1,0 +1,59 @@
+<bill session="111" type="s" number="3784" updated="2013-07-20T00:59:32-04:00">
+  <state datetime="2010-12-02">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2010-12-02"/>
+  </status>
+  <introduced datetime="2010-09-15"/>
+  <titles>
+    <title as="introduced" type="official">A bill to designate the facility of the United States Postal Service located at 4865 Tallmadge Road in Rootstown, Ohio, as the "Marine Sgt. Jeremy E. Murray Post Office".</title>
+  </titles>
+  <sponsor id="400050"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-09-15">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2010-11-30">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2010-12-01">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2010-12-01" calendar="Senate Legislative" under="General Orders" number="665">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 665.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2010-12-02" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S8443" label="consideration"/>
+      <reference ref="CR S8443" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2010-12-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2010-12-03T16:03:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2010-12-03">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="h" number="6140"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Ohio"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>9/15/2010--Introduced.
+Designates the facility of the United States Postal Service located at 4865 Tallmadge Road in Rootstown, Ohio, as the "Marine Sgt. Jeremy E. Murray Post Office."</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="111" type="hc" number="26" updated="2013-07-20T00:13:07-04:00">
+  <state datetime="2009-01-28">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2009-01-28"/>
+  </status>
+  <introduced datetime="2009-01-27"/>
+  <titles>
+    <title as="introduced" type="official">Providing for an adjournment of the House.</title>
+  </titles>
+  <sponsor id="400263"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2009-01-27T13:54:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H543" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-01-27T13:55:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H543" label="text"/>
+    </vote>
+    <action datetime="2009-01-27T13:55:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-01-27">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2009-01-28" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S1004-1005" label="consideration"/>
+    </vote>
+    <action datetime="2009-01-28">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional operations and organization"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/2009--Passed Senate without amendment.
+Declares that, when the House adjourns: (1) on Wednesday, January 28, 2009, it stand adjourned until 2 p.m. on Monday, February 2, 2009; and (2) on Wednesday, February 4, 2009, it stand adjourned until 2 p.m. on Monday, February 9, 2009.</summary>
+</bill>

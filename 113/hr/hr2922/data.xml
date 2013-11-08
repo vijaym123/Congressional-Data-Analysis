@@ -1,0 +1,52 @@
+<bill session="113" type="h" number="2922" updated="2013-11-02T06:43:37-04:00">
+  <state datetime="2013-09-11">REPORTED</state>
+  <status>
+    <unknown datetime="2013-09-11"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="official" as="introduced">To extend the authority of the Supreme Court Police to protect court officials away from the Supreme Court grounds.</title>
+  </titles>
+  <sponsor id="412553"/>
+  <cosponsors>
+    <cosponsor id="400076" joined="2013-08-01"/>
+    <cosponsor id="400080" joined="2013-08-01"/>
+    <cosponsor id="412468" joined="2013-08-01"/>
+    <cosponsor id="400424" joined="2013-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-01" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2013-09-10">
+      <text>Subcommittee on Courts, Intellectual Property, and the Internet Discharged.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2013-09-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar datetime="2013-09-11" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSJU03" subcommittee="Courts, Intellectual Property, and the Internet" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Judges"/>
+    <term name="Protection of officials"/>
+    <term name="Supreme Court"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/2013--Introduced.
+Extends through December 29, 2019, the authority of the Marshal of the Supreme Court and the Supreme Court Police to protect, in any state, the Justices of the Supreme Court, any official guest of the Supreme Court, and any officer or employee of the Supreme Court performing official duties.</summary>
+</bill>

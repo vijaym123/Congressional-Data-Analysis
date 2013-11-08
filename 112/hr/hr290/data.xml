@@ -1,0 +1,101 @@
+<bill session="112" type="h" number="290" updated="2013-07-20T01:12:51-04:00">
+  <state datetime="2012-01-24T12:57:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-01-24T12:57:00-05:00"/>
+  </status>
+  <introduced datetime="2011-01-12"/>
+  <titles>
+    <title as="introduced" type="short">War Memorial Protection Act</title>
+    <title as="reported to house" type="short">War Memorial Protection Act</title>
+    <title as="passed house" type="short">War Memorial Protection Act</title>
+    <title as="introduced" type="official">To amend title 36, United States Code, to ensure that memorials commemorating the service of the United States Armed Forces may contain religious symbols, and for other purposes.</title>
+  </titles>
+  <sponsor id="412283"/>
+  <cosponsors>
+    <cosponsor id="412414" joined="2011-02-08"/>
+    <cosponsor id="412265" joined="2011-02-08"/>
+    <cosponsor id="412216" joined="2011-02-08"/>
+    <cosponsor id="400570" joined="2011-01-12"/>
+    <cosponsor id="400029" joined="2011-02-08"/>
+    <cosponsor id="400057" joined="2011-02-08"/>
+    <cosponsor id="412270" joined="2011-02-08"/>
+    <cosponsor id="400655" joined="2011-02-08"/>
+    <cosponsor id="412472" joined="2011-02-10"/>
+    <cosponsor id="400643" joined="2011-02-10"/>
+    <cosponsor id="400151" joined="2011-02-08"/>
+    <cosponsor id="400196" joined="2011-01-12"/>
+    <cosponsor id="400224" joined="2011-02-08"/>
+    <cosponsor id="412191" joined="2011-02-08"/>
+    <cosponsor id="412256" joined="2011-02-08"/>
+    <cosponsor id="400260" joined="2011-05-26"/>
+    <cosponsor id="400277" joined="2011-04-05"/>
+    <cosponsor id="412411" joined="2011-02-08"/>
+    <cosponsor id="412314" joined="2011-02-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-01-12">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2011-01-26">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-05-04">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-05-25">
+      <text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-05-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-05-25">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2011-07-20T12:36:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 112-156.</text>
+    </action>
+    <calendar datetime="2011-07-20T12:37:00-04:00" calendar="Union" number="101">
+      <text>Placed on the Union Calendar, Calendar No. 101.</text>
+    </calendar>
+    <action datetime="2012-01-24T12:46:00-05:00">
+      <text>Mr. Johnson (OH) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-01-24T12:46:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H132-134" label="consideration"/>
+    </action>
+    <action datetime="2012-01-24T12:46:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 290.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-01-24T12:57:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H132" label="text"/>
+    </vote>
+    <action datetime="2012-01-24T12:57:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-01-26">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Monuments and memorials"/>
+    <term name="Religion"/>
+  </subjects>
+  <amendments/>
+  <summary>1/24/2012--Passed House without amendment.
+(This measure has not been amended since it was introduced. The summary of that version is repeated here.) War Memorial Protection Act - Permits religious symbols recognizing the religious background of members of the Armed Forces to be included as part of: (1) a military memorial that is established or acquired by the federal government; or (2) a military memorial not established by the government, but for which the American Battle Monuments Commission cooperated in establishing.</summary>
+</bill>

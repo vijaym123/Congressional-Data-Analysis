@@ -1,0 +1,93 @@
+<bill session="111" type="h" number="5143" updated="2013-07-19T23:58:47-04:00">
+  <state datetime="2010-07-27T18:54:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-07-27T18:54:00-04:00"/>
+  </status>
+  <introduced datetime="2010-04-27"/>
+  <titles>
+    <title as="introduced" type="short">National Criminal Justice Commission Act of 2010</title>
+    <title as="passed house" type="short">National Criminal Justice Commission Act of 2010</title>
+    <title as="introduced" type="official">To establish the National Criminal Justice Commission.</title>
+  </titles>
+  <sponsor id="400102"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2010-05-11"/>
+    <cosponsor id="400043" joined="2010-05-06"/>
+    <cosponsor id="400073" joined="2010-06-10"/>
+    <cosponsor id="412236" joined="2010-05-06"/>
+    <cosponsor id="400100" joined="2010-06-16"/>
+    <cosponsor id="400124" joined="2010-06-23"/>
+    <cosponsor id="400133" joined="2010-05-20"/>
+    <cosponsor id="400140" joined="2010-07-19"/>
+    <cosponsor id="412327" joined="2010-04-27"/>
+    <cosponsor id="400177" joined="2010-06-15"/>
+    <cosponsor id="400179" joined="2010-05-06"/>
+    <cosponsor id="400196" joined="2010-04-27"/>
+    <cosponsor id="412199" joined="2010-05-24"/>
+    <cosponsor id="400215" joined="2010-06-08"/>
+    <cosponsor id="400240" joined="2010-05-18"/>
+    <cosponsor id="400280" joined="2010-07-14"/>
+    <cosponsor id="400282" joined="2010-06-21"/>
+    <cosponsor id="400661" joined="2010-06-22"/>
+    <cosponsor id="400283" joined="2010-06-08"/>
+    <cosponsor id="400295" joined="2010-06-22"/>
+    <cosponsor id="412331" joined="2010-06-21"/>
+    <cosponsor id="412253" joined="2010-04-27"/>
+    <cosponsor id="412311" joined="2010-04-27"/>
+    <cosponsor id="400346" joined="2010-06-21"/>
+    <cosponsor id="400364" joined="2010-04-27"/>
+    <cosponsor id="400381" joined="2010-05-24"/>
+    <cosponsor id="412259" joined="2010-07-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-04-27">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2010-06-15">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2010-07-27T18:34:00-04:00">
+      <text>Mr. Scott (VA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-07-27T18:34:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6129-6133" label="consideration"/>
+    </action>
+    <action datetime="2010-07-27T18:34:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5143.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-07-27T18:54:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6129-6131" label="text"/>
+    </vote>
+    <action datetime="2010-07-27T18:54:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-07-28">
+      <text>Received in the Senate.</text>
+    </action>
+    <calendar datetime="2010-08-05" calendar="Senate Legislative" under="General Orders" number="514">
+      <text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 514.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="714"/>
+    <bill relation="unknown" session="111" type="s" number="714"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Advisory bodies"/>
+    <term name="Crime prevention"/>
+    <term name="Government studies and investigations"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>7/27/2010--Passed House amended.
+National Criminal Justice Commission Act of 2010 - Establishes the National Criminal Justice Commission to undertake a comprehensive review of all areas of the criminal justice system, including federal, state, local, and tribal governments' criminal justice costs, practices, and policies. Directs the Commission to: (1) make findings regarding its review and recommendations for changes in oversight, policies, practices, and laws designed to prevent, deter, and reduce crime and violence, reduce recidivism, improve cost-effectiveness, and ensure the interests of justice; (2) conduct public hearings in various locations around the United States; (3) consult with federal, state, local, and tribal government and nongovernmental leaders and other stakeholders in the criminal justice system, including the U.S. Sentencing Commission; and (4) submit a final report, within 18 months after its first meeting, to Congress, the President, and state, local, and tribal governments, and make such report available to the public. Expresses the sense of Congress that the Commission should work toward unanimously supported findings and recommendations. Sets forth the membership composition of the Commission and its administrative provisions. Exempts the Commission from the Federal Advisory Committee Act. Requires all records and papers of the Commission to be deposited into the National Archives. Authorizes appropriations for FY2011-2012. Terminates the Commission 60 days after it submits its report to Congress. Provides for compliance of the budgetary effects of this Act with the Statutory Pay-As-You-Go Act of 2010.</summary>
+</bill>

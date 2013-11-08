@@ -1,0 +1,56 @@
+<bill session="113" type="h" number="2871" updated="2013-11-02T06:43:12-04:00">
+  <state datetime="2013-09-11">REPORTED</state>
+  <status>
+    <unknown datetime="2013-09-11"/>
+  </status>
+  <introduced datetime="2013-07-31"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 28, United States Code, to modify the composition of the southern judicial district of Mississippi to improve judicial efficiency, and for other purposes.</title>
+  </titles>
+  <sponsor id="400076"/>
+  <cosponsors>
+    <cosponsor id="412280" joined="2013-09-09"/>
+    <cosponsor id="412553" joined="2013-07-31"/>
+    <cosponsor id="412443" joined="2013-09-09"/>
+    <cosponsor id="400402" joined="2013-07-31"/>
+    <cosponsor id="400424" joined="2013-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-31" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2013-09-10">
+      <text>Subcommittee on Courts, Intellectual Property, and the Internet Discharged.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2013-09-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar datetime="2013-09-11" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSJU03" subcommittee="Courts, Intellectual Property, and the Internet" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="2898"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Federal district courts"/>
+    <term name="Judges"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Mississippi"/>
+  </subjects>
+  <amendments/>
+  <summary>7/31/2013--Introduced.
+Amends the federal judicial code to realign the southern judicial district of Mississippi into four (currently, five) divisions with court to be held for: the Northern Division at Jackson, the Southern Division at Gulfport, the Eastern Division at Hattiesburg, and the Western Division at Natchez. Sets forth the Mississippi counties comprising each realigned division.</summary>
+</bill>

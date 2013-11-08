@@ -1,0 +1,32 @@
+<bill session="113" type="h" number="3079" updated="2013-11-02T06:44:56-04:00">
+  <state datetime="2013-09-10">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-10"/>
+  </status>
+  <introduced datetime="2013-09-10"/>
+  <titles>
+    <title type="official" as="introduced">For the relief of Jesus Garcia Flores.</title>
+  </titles>
+  <sponsor id="400310"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-09-10" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-09-26">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+  </subjects>
+  <amendments/>
+  <summary>9/10/2013--Introduced.
+Provides for the relief of Jesus Garcia Flores.</summary>
+</bill>

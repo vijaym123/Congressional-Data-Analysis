@@ -1,0 +1,97 @@
+<bill session="111" type="h" number="1694" updated="2013-07-19T23:27:00-04:00">
+  <state datetime="2009-04-21T14:18:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-04-21T14:18:00-04:00"/>
+  </status>
+  <introduced datetime="2009-03-24"/>
+  <titles>
+    <title as="introduced" type="short">Revolutionary War and War of 1812 Battlefield Protection Act</title>
+    <title as="introduced" type="official">To amend the American Battlefield Protection Act of 1996 to establish a battlefield acquisition grant program for the acquisition and protection of nationally significant battlefields and associated sites of the Revolutionary War and the War of 1812, and for other purposes.</title>
+    <title as="amended by house" type="official">A bill to authorize the acquisition and protection of nationally significant battlefields and associated sites of the Revolutionary War and the War of 1812 under the American Battlefield Protection Program.</title>
+  </titles>
+  <sponsor id="400184"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2009-03-24"/>
+    <cosponsor id="400090" joined="2009-03-24"/>
+    <cosponsor id="400110" joined="2009-03-24"/>
+    <cosponsor id="400178" joined="2009-03-24"/>
+    <cosponsor id="400195" joined="2009-03-24"/>
+    <cosponsor id="400230" joined="2009-03-24"/>
+    <cosponsor id="412297" joined="2009-03-24"/>
+    <cosponsor id="400263" joined="2009-03-25"/>
+    <cosponsor id="412233" joined="2009-03-24"/>
+    <cosponsor id="400312" joined="2009-03-24"/>
+    <cosponsor id="400346" joined="2009-03-24"/>
+    <cosponsor id="412239" joined="2009-03-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-24">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-03-30">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-04-21T14:10:00-04:00">
+      <text>Mrs. Christensen moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-04-21T14:11:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4528-4530" label="consideration"/>
+    </action>
+    <action datetime="2009-04-21T14:11:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1694.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-04-21T14:18:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4528" label="text"/>
+    </vote>
+    <action datetime="2009-04-21T14:18:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-04-21T14:18:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-04-22">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2009-07-15">
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2009-12-16">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2010-03-02">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. With written report No. 111-152.</text>
+    </action>
+    <calendar datetime="2010-03-02" calendar="Senate Legislative" under="General Orders" number="302">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 302.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="National Parks" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="h" number="146"/>
+    <bill relation="unknown" session="111" type="s" number="1168"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Conflicts and wars"/>
+    <term name="Europe"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+    <term name="Outdoor recreation"/>
+    <term name="U.S. history"/>
+    <term name="United Kingdom"/>
+  </subjects>
+  <amendments/>
+  <summary>3/2/2010--Reported to Senate amended.
+Amends the Omnibus Public Land Management Act of 2009 (the Act), with respect to the Battlefield Acquisition Grant Program, to: (1) expand the current definition of "battlefield report" to include the report entitled "Report to Congress on the Historic Preservation of Revolutionary War and War of 1812 Sites in the United States"; and (2) expand the Program to permit the acquisition not only of an "interest in an eligible site," but also an "eligible site." Requires acquisitions of lands or interests under the Act to be from willing sellers only. Requires the Secretary of the Interior to submit to Congress a report on related activities, including: (1) preservation carried out at the battlefields and associated sites identified in the battlefield report; (2) changes in their condition; and (3) other relevant developments related to such battlefields and sites. Authorizes appropriations to the Secretary to provide grants under the Program through FY2019 for the protection of Civil War, Revolutionary War, and War of 1812 battlefields.</summary>
+</bill>

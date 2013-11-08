@@ -1,0 +1,51 @@
+<bill session="111" type="h" number="5686" updated="2013-07-20T00:03:55-04:00">
+  <state datetime="2010-07-01">REFERRED</state>
+  <status>
+    <introduced datetime="2010-07-01"/>
+  </status>
+  <introduced datetime="2010-07-01"/>
+  <titles>
+    <title as="introduced" type="short">Stand by your Oil Pollution Act</title>
+    <title as="introduced" type="short">STOP Act</title>
+    <title as="introduced" type="official">To amend the Oil Pollution Act of 1990 to extend liability to corporations, partnerships, and other persons having ownership interests in responsible parties, and for other purposes.</title>
+  </titles>
+  <sponsor id="412272"/>
+  <cosponsors>
+    <cosponsor id="400184" joined="2010-07-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2010-07-01">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="E1283-1284"/>
+    </action>
+    <action state="REFERRED" datetime="2010-07-01">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2010-07-02">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-07-02">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Accidents"/>
+    <term name="Corporate finance and management"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Marine pollution"/>
+    <term name="Oil and gas"/>
+    <term name="Pollution liability"/>
+  </subjects>
+  <amendments/>
+  <summary>7/1/2010--Introduced.
+Stand by your Oil Pollution Act or the STOP Act - Amends the Oil Pollution Act of 1990 to: (1) extend liability to any corporation, partnership, or other person (other than an individual) having an ownership interest exceeding 25% in any responsible party; and (2) limit such an entity's liability with respect to an incident (any occurrence or series of occurrences having the same origin, involving vessels and facilities, resulting in the discharge or substantial threat of discharge of oil) to no more than the percentage of the entity's aggregate ownership interests in all other responsible parties with respect to such incident.</summary>
+</bill>

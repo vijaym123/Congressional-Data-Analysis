@@ -1,0 +1,39 @@
+<bill session="111" type="h" number="4927" updated="2013-07-19T23:56:53-04:00">
+  <state datetime="2010-03-24">REFERRED</state>
+  <status>
+    <introduced datetime="2010-03-24"/>
+  </status>
+  <introduced datetime="2010-03-24"/>
+  <titles>
+    <title as="introduced" type="official">To amend subtitle IV of title 40, United States Code, regarding county additions to the Appalachian region.</title>
+  </titles>
+  <sponsor id="400096"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2010-03-24"/>
+    <cosponsor id="412236" joined="2010-04-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-03-24">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2010-03-25">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="79"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Rural conditions and development"/>
+    <term name="Tennessee"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/2010--Introduced.
+Adds the Tennessee counties of Giles, Hickman, Lincoln, Perry, and Wayne to the definition of "Appalachian region" for purposes of Appalachian regional development efforts.</summary>
+</bill>

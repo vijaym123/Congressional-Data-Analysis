@@ -1,0 +1,80 @@
+<bill session="113" type="s" number="298" updated="2013-11-02T06:54:42-04:00">
+  <state datetime="2013-02-25">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2013-02-25"/>
+  </status>
+  <introduced datetime="2013-02-13"/>
+  <titles>
+    <title type="short" as="introduced">North Korea Nonproliferation and Accountability Act of 2013</title>
+    <title type="short" as="reported to senate">North Korea Nonproliferation and Accountability Act of 2013</title>
+    <title type="short" as="passed senate">North Korea Nonproliferation and Accountability Act of 2013</title>
+    <title type="official" as="introduced">A bill to prevent nuclear proliferation in North Korea, and for other purposes.</title>
+  </titles>
+  <sponsor id="400272"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2013-02-13"/>
+    <cosponsor id="400064" joined="2013-02-13"/>
+    <cosponsor id="412248" joined="2013-02-13"/>
+    <cosponsor id="412205" joined="2013-02-13"/>
+    <cosponsor id="300043" joined="2013-02-13"/>
+    <cosponsor id="300055" joined="2013-02-13"/>
+    <cosponsor id="300066" joined="2013-02-25"/>
+    <cosponsor id="412194" joined="2013-02-25"/>
+    <cosponsor id="412491" joined="2013-02-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <calendar datetime="2013-02-14" state="REPORTED">
+      <text>Committee on Foreign Relations. Ordered to be reported with amendments favorably.</text>
+      <committee name="Committee on Foreign Relations"/>
+    </calendar>
+    <action datetime="2013-02-14">
+      <text>Committee on Foreign Relations. Reported by Senator Menendez with amendments. Without written report.</text>
+    </action>
+    <calendar datetime="2013-02-14" calendar="Senate Legislative" under="General Orders" number="16">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 16.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2013-02-25" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with amendments by Unanimous Consent.</text>
+      <reference ref="CR S816-817" label="consideration"/>
+      <reference ref="CR S816-817" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2013-02-26T10:02:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2013-02-26">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2013-02-26">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Alliances"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Asia"/>
+    <term name="Congressional oversight"/>
+    <term name="Foreign and international banking"/>
+    <term name="Human rights"/>
+    <term name="International law and treaties"/>
+    <term name="Military operations and strategy"/>
+    <term name="North Korea"/>
+    <term name="Nuclear weapons"/>
+    <term name="Sanctions"/>
+    <term name="Technology transfer and commercialization"/>
+    <term name="Trade restrictions"/>
+    <term name="United Nations"/>
+    <term name="War crimes, genocide, crimes against humanity"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/2013--Passed Senate amended.
+North Korea Nonproliferation and Accountability Act of 2013 - Expresses the sense of Congress that: the test of a nuclear device by North Korea on February 12, 2013, and the missile launch of December 12, 2012, represent flagrant violations of the sanctions regime created by United Nations (U.N.) Security Council Resolutions 1695, 1718, and 1874; the February 12, 2013 test of the nuclear device is a clear and provocative violation of Security Resolution 2087; North Korea continues to defy the U.N., its Six-Party partners, and the international community; U.N. member states should implement and enforce sanctions imposed by these resolutions and censure North Korea; North Korea should dismantle its ballistic missile and nuclear weapons programs, cease its proliferation activities, and comply with all relevant resolutions and its commitments; restrictions against North Korea should remain in effect until it no longer threatens the United States, our allies, and global peace; the United States should seek a new round of Security Council sanctions; U.N. member states should strengthen efforts to prevent the transfer of military and dual-use technologies to North Korea, monitor the activities of their nationals, financial institutions, and other entities with or on behalf of North Korean financial institutions, and prevent transshipments that relate to North Korean military, missile, and nuclear programs and proliferation activities; the United States should explore all appropriate measures for enhanced military operations by the U.S. Armed Forces in the Asia-Pacific region in order to safeguard U.S. national interests; and the United States should secure the agreement of the United Nations Human Rights Council (UNHRC) and General Assembly to adopt the recommendations made in the February 2013 report of Marzuki Darusman, Special Rapporteur on the situation of human rights in the Democratic People's Republic of Korea, that an inquiry mechanism should be established to investigate North Korea's systematic violations of human rights, as well as to analyze whether crimes against humanity are being perpetrated in North Korea. Directs the Secretary of State to conduct and submit to Congress a comprehensive report on U.S. policy towards North Korea. States that nothing in this Act shall be construed as a declaration of war or an authorization for the use of force against North Korea.</summary>
+</bill>

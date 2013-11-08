@@ -1,0 +1,76 @@
+<bill session="113" type="h" number="1067" updated="2013-11-02T06:27:56-04:00">
+  <state datetime="2013-04-23T19:00:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-04-23T19:00:00-04:00"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title type="official" as="introduced">To make revisions in title 36, United States Code, as necessary to keep the title current and make technical corrections and improvements.</title>
+  </titles>
+  <sponsor id="400154"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-12" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar datetime="2013-03-14" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2013-04-19T11:46:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 113-43.</text>
+    </action>
+    <calendar datetime="2013-04-19T11:46:00-04:00" calendar="House" number="17">
+      <text>Placed on the House Calendar, Calendar No. 17.</text>
+    </calendar>
+    <action datetime="2013-04-23T16:30:00-04:00">
+      <text>Mr. Goodlatte moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-04-23T16:30:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2169-2171" label="consideration"/>
+    </action>
+    <action datetime="2013-04-23T16:30:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1067.</text>
+    </action>
+    <action datetime="2013-04-23T16:34:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-04-23T18:31:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2228-2229" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="118" datetime="2013-04-23T19:00:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 118).</text>
+      <reference ref="CR H2169-2171" label="text"/>
+    </vote>
+    <action datetime="2013-04-23T19:00:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-04-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Federally chartered organizations"/>
+    <term name="National symbols"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2013--Passed House without amendment.
+Amends title 36 of the United States Code (Patriotic and National Observances, Ceremonies, and Organizations) to revise and expand the tables of contents for such title and its subtitles, revise the formatting of the chapter headings, and make technical corrections to subtitle and chapter headings.</summary>
+</bill>

@@ -1,0 +1,81 @@
+<bill session="111" type="h" number="1807" updated="2013-07-19T23:28:02-04:00">
+  <state datetime="2009-07-28T16:46:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-07-28T16:46:00-04:00"/>
+  </status>
+  <introduced datetime="2009-03-31"/>
+  <titles>
+    <title as="introduced" type="short">Educating Entrepreneurs through Today's Technology Act</title>
+    <title as="passed house" type="short">Educating Entrepreneurs through Today's Technology Act</title>
+    <title as="introduced" type="official">To provide distance learning to potential and existing entrepreneurs, and for other purposes.</title>
+  </titles>
+  <sponsor id="412317"/>
+  <cosponsors>
+    <cosponsor id="412272" joined="2009-05-07"/>
+    <cosponsor id="412292" joined="2009-05-07"/>
+    <cosponsor id="400320" joined="2009-05-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-31">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+    <action datetime="2009-03-31">
+      <text>Referred to the Subcommittee on Rural Development, Entrepreneurship and Trade.</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+    <action datetime="2009-04-30">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+    <action datetime="2009-04-30">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+    <action datetime="2009-05-13">
+      <text>Provisions of measure incorporated into H.R. 2352.</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+    <action datetime="2009-07-28T16:38:00-04:00">
+      <text>Ms. Velazquez moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-07-28T16:38:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8915-8916" label="consideration"/>
+    </action>
+    <action datetime="2009-07-28T16:38:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1807.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-07-28T16:46:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H8915-8916" label="text"/>
+    </vote>
+    <action datetime="2009-07-28T16:46:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-07-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral"/>
+    <committee activity="Referral, Markup, Reporting" code="HSSM21" subcommittee="Rural Development, Entrepreneurship and Trade" name="House Small Business"/>
+    <committee code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="2352"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Business investment and capital"/>
+    <term name="Educational technology and distance education"/>
+    <term name="Financial literacy"/>
+    <term name="Higher education"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Small business"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Women in business"/>
+  </subjects>
+  <amendments/>
+  <summary>7/28/2009--Passed House amended.
+Educating Entrepreneurs through Today's Technology Act - Amends the Small Business Act to direct the Administrator of the Small Business Administration (SBA) to contract with qualified vendors for entrepreneurial training content, the development of communications technology that can distribute such content throughout the United States, and the establishment of a nationwide, online network for the exchange of peer-to-peer technical assistance. Directs the Administrator to ensure that the content developed is: (1) timely and relevant to entrepreneurial development and can be successfully communicated remotely to an audience through the use of technology; and (2) able to be distributed to small businesses, home-based businesses, small business development centers, women's business centers, veterans business centers, the SBA, and network entrepreneurs throughout the United States and its territories. Requires a report from the Administrator to Congress on SBA progress in implementing this Act. Authorizes appropriations.</summary>
+</bill>

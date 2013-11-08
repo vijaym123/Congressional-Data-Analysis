@@ -1,0 +1,90 @@
+<bill session="112" type="h" number="6131" updated="2013-07-20T02:02:54-04:00">
+  <state datetime="2012-12-04">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2012-12-04"/>
+  </status>
+  <introduced datetime="2012-07-17"/>
+  <titles>
+    <title as="introduced" type="official">To extend the Undertaking Spam, Spyware, And Fraud Enforcement With Enforcers beyond Borders Act of 2006, and for other purposes.</title>
+  </titles>
+  <sponsor id="400039"/>
+  <cosponsors>
+    <cosponsor id="400018" joined="2012-07-31"/>
+    <cosponsor id="400019" joined="2012-07-24"/>
+    <cosponsor id="400616" joined="2012-07-17"/>
+    <cosponsor id="400110" joined="2012-07-24"/>
+    <cosponsor id="400414" joined="2012-07-31"/>
+    <cosponsor id="400425" joined="2012-07-31"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-07-17">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2012-07-20">
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2012-09-10T15:20:00-04:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 112-653.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2012-09-10T15:21:00-04:00" calendar="Union" number="471">
+      <text>Placed on the Union Calendar, Calendar No. 471.</text>
+    </calendar>
+    <action datetime="2012-09-11T17:12:00-04:00">
+      <text>Mrs. Bono Mack moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-09-11T17:13:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5829-5830" label="consideration"/>
+    </action>
+    <action datetime="2012-09-11T17:13:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6131.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-09-11T17:23:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H5829" label="text"/>
+    </vote>
+    <action datetime="2012-09-11T17:23:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="2012-09-12" calendar="Senate Legislative" under="General Orders" number="507">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 507.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="2012-11-14" how="by Voice Vote" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+      <reference ref="CR S6827" label="consideration"/>
+    </vote>
+    <action datetime="2012-11-15">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2012-11-28">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2012-12-04">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2012-12-04" type="public" number="112-203">
+      <text>Became Public Law No: 112-203.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Reporting"/>
+    <committee activity="Referral" code="HSIF17" subcommittee="Commerce, Manufacturing, and Trade" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="3410"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Consumer affairs"/>
+    <term name="Crime prevention"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Federal Trade Commission (FTC)"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government studies and investigations"/>
+    <term name="International organizations and cooperation"/>
+  </subjects>
+  <amendments/>
+  <summary>12/4/2012--Public Law.
+Extends, until September 30, 2020, the repeal date of the Undertaking Spam, Spyware, And Fraud Enforcement With Enforcers beyond Borders Act of 2006 (U.S. SAFE WEB Act of 2006).</summary>
+</bill>

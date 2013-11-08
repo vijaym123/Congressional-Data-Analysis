@@ -1,0 +1,131 @@
+<bill session="112" type="h" number="2779" updated="2013-07-20T01:34:19-04:00">
+  <state datetime="2012-03-26T18:55:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-03-26T18:55:00-04:00"/>
+  </status>
+  <introduced datetime="2011-08-01"/>
+  <titles>
+    <title as="introduced" type="official">To exempt inter-affiliate swaps from certain regulatory requirements put in place by the Dodd-Frank Wall Street Reform and Consumer Protection Act.</title>
+  </titles>
+  <sponsor id="412461"/>
+  <cosponsors>
+    <cosponsor id="412420" joined="2011-11-30"/>
+    <cosponsor id="412327" joined="2011-08-01"/>
+    <cosponsor id="412453" joined="2012-01-23"/>
+    <cosponsor id="400661" joined="2011-11-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-08-01">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-08-01">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2011-08-01">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2011-08-22">
+      <text>Referred to the Subcommittee on Capital Markets and Government Sponsored Enterprises.</text>
+      <committee name="House Financial Services"/>
+    </action>
+    <action datetime="2011-09-13">
+      <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+      <committee name="House Agriculture"/>
+    </action>
+    <action datetime="2011-10-14">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Financial Services"/>
+    </action>
+    <action datetime="2011-11-15">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Financial Services"/>
+    </action>
+    <action datetime="2011-11-15">
+      <text>Forwarded by Subcommittee to Full Committee by the Yeas and Nays: 23 - 6 .</text>
+      <committee name="House Financial Services"/>
+    </action>
+    <action datetime="2011-11-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Financial Services"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-11-30">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 53 - 0.</text>
+      <committee name="House Financial Services"/>
+    </calendar>
+    <action datetime="2011-12-23T10:06:00-05:00">
+      <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 112-344, Part I.</text>
+    </action>
+    <action datetime="2011-12-23T10:07:00-05:00">
+      <text>House Committee on Agriculture Granted an extension for further consideration ending not later than Feb. 1, 2012.</text>
+    </action>
+    <action datetime="2012-01-25">
+      <text>Subcommittee on General Farm Commodities and Risk Management Discharged.</text>
+      <committee name="House Agriculture"/>
+    </action>
+    <action datetime="2012-01-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Agriculture"/>
+    </action>
+    <calendar datetime="2012-01-25">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Agriculture"/>
+    </calendar>
+    <action datetime="2012-02-01T20:13:00-05:00">
+      <text>House Committee on Agriculture Granted an extension for further consideration ending not later than Feb. 8, 2012.</text>
+    </action>
+    <action datetime="2012-02-08T17:22:00-05:00">
+      <text>Reported (Amended) by the Committee on Agriculture. H. Rept. 112-344, Part II.</text>
+    </action>
+    <calendar datetime="2012-02-08T17:22:00-05:00" calendar="Union" number="268">
+      <text>Placed on the Union Calendar, Calendar No. 268.</text>
+    </calendar>
+    <action datetime="2012-03-26T15:01:00-04:00">
+      <text>Mr. Garrett moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-03-26T15:01:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1548-1551" label="consideration"/>
+    </action>
+    <action datetime="2012-03-26T15:01:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2779.</text>
+    </action>
+    <action datetime="2012-03-26T15:20:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2012-03-26T18:30:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H1556-1557" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-03-26T18:55:00-04:00" how="roll" result="pass" roll="127" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 357 - 36 (Roll no. 127).</text>
+      <reference ref="CR H1548-1549" label="text"/>
+    </vote>
+    <action datetime="2012-03-26T18:55:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-03-27">
+      <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2012-03-28" calendar="Senate Legislative" under="General Orders" number="343">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 343.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSBA16" subcommittee="Capital Markets and Government Sponsored Enterprises" name="House Financial Services"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSAG16" subcommittee="General Farm Commodities and Risk Management" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Commodities markets"/>
+    <term name="Financial services and investments"/>
+    <term name="Government information and archives"/>
+    <term name="Securities"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2012--Passed House amended.
+(Sec. 1) Amends the Commodity Exchange Act (CEA), as amended by the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank), to exclude from the meaning of the term "swap," for purposes of clearing and execution requirements, capital and margin requirements, and for purposes of defining a swap dealer or major swap participant, any agreement, contract, or transaction that: (1) would otherwise be included as a "swap"; and (2) is entered into by parties that report information or prepare financial statements on a consolidated basis, or for which a company affiliated with both parties reports information or prepares financial statements on a consolidated basis. Requires that such exempted agreements, contracts, or transactions be reported to either a swap data repository, or, if no such repository would accept them, to the Commodity Futures Trading Commission (CFTC) within the time period prescribed by the CFTC. Retains federal or state regulatory authority to protect the integrity of an insurance fund or guaranty fund. Prohibits the regulator of such a fund, however, from subjecting agreements, contracts, or transactions between affiliated companies to specified clearing, capital and margin requirements, or reporting requirements of the Wall Street Transparency and Accountability Act of 2010 (WSTAA) (title VII of Dodd-Frank). States that such transactions, however, are not exempt from regulation under the Federal Reserve Act (FRA) with respect to transactions among banking affiliates. Preserves the safety-and-soundness authorities of the federal banking agencies, other than the authorities set forth in WSTAA. Authorizes the CFTC to prescribe rules that include in the definition of swaps any agreement, contract, or transaction that has been structured to evade CEA requirements applicable to swaps. Amends the Securities Exchange Act of 1934 (SEA), as amended by Dodd-Frank, to exclude from the meaning of the term "security-based swap," for purposes of clearing and execution requirements, capital and margin requirements, and for purposes of defining a security-based swap dealer or major security-based swap participant, any agreement, contract, or transaction that: (1) would otherwise be included as a "security-based swap"; and (2) is entered into by parties that report information or prepare financial statements on a consolidated basis, or for which a company affiliated with both parties reports information or prepares financial statements on a consolidated basis. Requires that such exempted agreements, contracts, or transactions be reported to either a security-based swap data repository, or, if no such repository would accept them, to the Securities and Exchange Commission (SEC) within the time period prescribed by the SEC. States that such transactions, however, are not exempt from regulation under the FRA with respect to transactions among banking affiliates. Retains federal or state regulatory authority to protect the integrity of an insurance fund or guaranty fund. Prohibits the regulator of such a fund, however, from subjecting security-based swap transactions between affiliated companies to specified clearing and execution requirements, capital and margin requirements, or reporting requirements of the WSTAA. Preserves the safety-and-soundness authorities of the federal banking agencies or state insurance regulators to impose capital requirements with regard to security-based swaps, other than the authorities set forth in WSTAA. Authorizes the SEC to prescribe rules that include in the definition of security-based swaps any agreement, contract, or transaction that has been structured to evade SEA requirements applicable to security-based swaps. (Sec. 2) Requires that the amendments to CEA made by this Act be implemented: (1) without regard to federal information policy requirements or the notice and comment requirements of federal administrative procedure; and (2) through promulgation of an interim final rule, pursuant to which public comment will be sought before a final rule is issued. Limits the disregard of such federal information policy and notice and comment requirements solely to changes to rules and regulations, or proposed rule and regulations, that are limited to, and directly a consequence of, the amendments to CEA made by this Act.</summary>
+</bill>

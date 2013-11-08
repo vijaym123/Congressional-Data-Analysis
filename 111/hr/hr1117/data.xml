@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="1117" updated="2013-07-19T23:21:56-04:00">
+  <state datetime="2009-02-23">REFERRED</state>
+  <status>
+    <introduced datetime="2009-02-23"/>
+  </status>
+  <introduced datetime="2009-02-23"/>
+  <titles>
+    <title as="introduced" type="short">Medically Fragile Children's Act of 2009</title>
+    <title as="introduced" type="official">To amend title XIX of the Social Security Act to establish a State plan option under Medicaid to provide an all-inclusive program of care for children who are medically fragile or have one or more chronic conditions that impede their ability to function.</title>
+  </titles>
+  <sponsor id="400013"/>
+  <cosponsors>
+    <cosponsor id="400049" joined="2009-02-23"/>
+    <cosponsor id="400178" joined="2009-03-03"/>
+    <cosponsor id="400649" joined="2009-07-31"/>
+    <cosponsor id="400360" joined="2009-03-03"/>
+    <cosponsor id="400386" joined="2009-02-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-23">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2009-02-24">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Comprehensive health care"/>
+    <term name="Medicaid"/>
+  </subjects>
+  <amendments/>
+  <summary>2/23/2009--Introduced.
+Medically Fragile Children's Act of 2009 - Amends title XIX (Medicaid) of the Social Security Act to establish a program of all-inclusive care for medically fragile children as a Medicaid state plan option. Makes a child eligible if he or she is: (1) medically fragile based on health status and related indicators or is diagnosed as having one or more chronic conditions; (2) requires daily monitoring of a significant medical condition necessitating overall care planning in order to achieve or maintain optimum health and developmental status, and achieve community integration to the maximum extent possible; and (3) requires both medical assistance and at least two additional services furnished under an all-inclusive program as a result of functional deficits.</summary>
+</bill>

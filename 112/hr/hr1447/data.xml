@@ -1,0 +1,88 @@
+<bill session="112" type="h" number="1447" updated="2013-07-20T01:22:52-04:00">
+  <state datetime="2012-06-28T17:40:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-06-28T17:40:00-04:00"/>
+  </status>
+  <introduced datetime="2011-04-08"/>
+  <titles>
+    <title as="introduced" type="short">Aviation Security Stakeholder Participation Act of 2011</title>
+    <title as="reported to house" type="short">Aviation Security Stakeholder Participation Act of 2011</title>
+    <title as="passed house" type="short">Aviation Security Stakeholder Participation Act of 2012</title>
+    <title as="introduced" type="official">To amend title 49, United States Code, to direct the Assistant Secretary of Homeland Security (Transportation Security Administration) to establish an Aviation Security Advisory Committee, and for other purposes.</title>
+  </titles>
+  <sponsor id="400402"/>
+  <cosponsors>
+    <cosponsor id="400199" joined="2011-04-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-04-08">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2011-05-04">
+      <text>Referred to the Subcommittee on Transportation Security.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2011-09-21">
+      <text>Subcommittee on Transportation Security Discharged.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2011-09-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-09-21">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </calendar>
+    <action datetime="2011-11-04T15:17:00-04:00">
+      <text>Reported by the Committee on Homeland Security. H. Rept. 112-269.</text>
+    </action>
+    <calendar datetime="2011-11-04T15:17:00-04:00" calendar="Union" number="180">
+      <text>Placed on the Union Calendar, Calendar No. 180.</text>
+    </calendar>
+    <action datetime="2012-06-26T16:50:00-04:00">
+      <text>Mr. King (NY) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-06-26T16:50:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4011-4014" label="consideration"/>
+    </action>
+    <action datetime="2012-06-26T16:50:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1447.</text>
+    </action>
+    <action datetime="2012-06-26T17:01:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. King (NY) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2012-06-28T17:40:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4421" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-06-28T17:40:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR 6/26/2012 H4011-4012" label="text"/>
+    </vote>
+    <action datetime="2012-06-28T17:40:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-06-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSHM" subcommittee="Transportation Security and Infrastructure Protection" name="House Homeland Security"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Advisory bodies"/>
+    <term name="Aviation and airports"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/28/2012--Passed House amended.
+Aviation Security Stakeholder Participation Act of 2012 - Directs the Assistant Secretary of Homeland Security (Transportation Security Administration [TSA]) to establish in the TSA an Aviation Security Advisory Committee. Requires the Assistant Secretary to consult with the Advisory Committee on aviation security matters. Requires the Advisory Committee to develop, upon the Assistant Secretary's request, recommendations to improve aviation security. Requires the Assistant Secretary to appoint to the Advisory Committee members representing up to 27 member organizations, including air carriers, all cargo air transportation, indirect air carriers, labor organizations representing air carrier employees, aircraft manufacturers, airport operators, general aviation, privacy, the travel industry, and the aviation technology security industry, including biometrics. Establishes within the Advisory Committee: (1) an air cargo security working group, (2) a general aviation working group, and (3) an airport perimeter security working group.</summary>
+</bill>

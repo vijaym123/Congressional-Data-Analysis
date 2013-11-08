@@ -1,0 +1,76 @@
+<bill session="111" type="h" number="1839" updated="2013-07-19T23:28:18-04:00">
+  <state datetime="2009-11-18T10:50:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-11-18T10:50:00-05:00"/>
+  </status>
+  <introduced datetime="2009-04-01"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Small Business Act to improve SCORE, and for other purposes.</title>
+  </titles>
+  <sponsor id="412196"/>
+  <cosponsors>
+    <cosponsor id="400158" joined="2009-04-30"/>
+    <cosponsor id="412314" joined="2009-04-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-04-01">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+    <action datetime="2009-04-01">
+      <text>Referred to the Subcommittee on Rural Development, Entrepreneurship and Trade.</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+    <action datetime="2009-04-30">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+    <action datetime="2009-04-30">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+    <action datetime="2009-05-13">
+      <text>Provisions of Measure Incorporated into H.R. 2352.</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+    <action datetime="2009-11-18T10:42:00-05:00">
+      <text>Ms. Velazquez moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-11-18T10:42:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H13075-13077" label="consideration"/>
+    </action>
+    <action datetime="2009-11-18T10:42:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1839.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-11-18T10:50:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H13075-13076" label="text"/>
+    </vote>
+    <action datetime="2009-11-18T10:50:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-11-19">
+      <text>Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral"/>
+    <committee activity="Referral, Markup, Reporting" code="HSSM21" subcommittee="Rural Development, Entrepreneurship and Trade" name="House Small Business"/>
+    <committee code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="2352"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Minority and disadvantaged businesses"/>
+    <term name="Performance measurement"/>
+    <term name="Small Business Administration"/>
+    <term name="Small business"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>11/18/2009--Passed House amended.
+Amends the Small Business Act relating to the Service Corps of Retired Executives (SCORE) to require the Administrator of the Small Business Administration (SBA) to ensure that SCORE: (1) carries out a plan to increase the proportion of small business mentors from socially or economically disadvantaged backgrounds, and reports annually to the Administrator on plan implementation; (2) establishes benchmarks for evaluating its activities and volunteers; and (3) establishes a mentoring program of one-on-one advice to small businesses from qualified counselors. Requires the Administrator to carry out a networking program through SCORE that provides small businesses with the opportunity to make business contacts in their industry or geographic region. Renames the Service Corps of Retired Executives as SCORE. Eliminates the Active Corps of Executives. Authorizes appropriations for SCORE for FY2010-FY2011.</summary>
+</bill>

@@ -1,0 +1,72 @@
+<bill session="112" type="h" number="5913" updated="2013-07-20T02:01:04-04:00">
+  <state datetime="2012-11-27T16:53:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-11-27T16:53:00-05:00"/>
+  </status>
+  <introduced datetime="2012-06-07"/>
+  <titles>
+    <title as="introduced" type="short">DHS Accountability Act of 2012</title>
+    <title as="passed house" type="short">DHS Accountability Act of 2012</title>
+    <title as="introduced" type="official">To create an independent advisory panel to comprehensively assess the management structure and capabilities related to the Department of Homeland Security and make recommendations to improve the efficiency and effectiveness of the management of the Department.</title>
+  </titles>
+  <sponsor id="400654"/>
+  <cosponsors>
+    <cosponsor id="412435" joined="2012-06-07"/>
+    <cosponsor id="412445" joined="2012-06-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-06-07">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2012-06-14">
+      <text>Referred to the Subcommittee on Oversight, Investigations, and Management.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2012-08-01">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2012-08-01">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2012-11-27T16:42:00-05:00">
+      <text>Mr. McCaul moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-11-27T16:42:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6434-6437" label="consideration"/>
+    </action>
+    <action datetime="2012-11-27T16:42:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5913.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-11-27T16:53:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6434-6435" label="text"/>
+    </vote>
+    <action datetime="2012-11-27T16:53:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-11-28">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral, Markup, Reporting" code="HSHM09" subcommittee="Oversight, Investigations, and Management" name="House Homeland Security"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Advisory bodies"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Homeland security"/>
+    <term name="Performance measurement"/>
+  </subjects>
+  <amendments/>
+  <summary>11/27/2012--Passed House amended.
+DHS Accountability Act of 2012 - Establishes in the legislative branch an independent advisory panel to: (1) comprehensively assess the management structure and capabilities related to the Department of Homeland Security (DHS), and (2) make recommendations to improve the efficiency and effectiveness of DHS management. Directs the panel to examine: (1) the efficiency and effectiveness of the management structure and capabilities, including the policies, practices, and procedures, of DHS and its component agencies in carrying out management functions, such as program acquisition, financial management, information technology, human capital issues, performance measurement, and risk management efforts, related to homeland security; (2) the extent to which unnecessary duplication exists in such management structure and capabilities and how any such duplication negatively affects the mission of protecting the United States; (3) the extent to which management of key homeland security missions is centralized under DHS; (4) options to reduce or eliminate harmful waste and duplication of effort in DHS; and (5) measures to evaluate DHS's progress in reducing and eliminating waste and duplication from its management structure and capabilities. Urges the panel to consult and leverage the work performed and recommendations made by the Government Accountability Office (GAO) on DHS management structure and capabilities. Directs the panel to submit a final report on its findings and recommendations within two years of the appointment of its members. Terminates the panel 60 days after submission of such report.</summary>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="111" type="h" number="3850" updated="2013-07-19T23:46:49-04:00">
+  <state datetime="2009-10-20">REFERRED</state>
+  <status>
+    <introduced datetime="2009-10-20"/>
+  </status>
+  <introduced datetime="2009-10-20"/>
+  <titles>
+    <title as="introduced" type="short">Nutria Eradication and Control Act of 2009</title>
+    <title as="introduced" type="official">To provide for the eradication and control of nutria in Maryland, Louisiana, and other coastal States.</title>
+  </titles>
+  <sponsor id="412289"/>
+  <cosponsors>
+    <cosponsor id="400636" joined="2009-10-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-10-20">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-10-26">
+      <text>Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-07-27">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII22" subcommittee="Insular Affairs, Oceans and Wildlife" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="1519"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Chesapeake Bay"/>
+    <term name="Delaware"/>
+    <term name="Ecology"/>
+    <term name="Louisiana"/>
+    <term name="Mammals"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Maryland"/>
+    <term name="Oregon"/>
+    <term name="Virginia"/>
+    <term name="Washington State"/>
+    <term name="Wetlands"/>
+  </subjects>
+  <amendments/>
+  <summary>10/20/2009--Introduced.
+Nutria Eradication and Control Act of 2009 - Establishes a nutria eradication program under which the Secretary of the Interior may provide financial assistance to Maryland, Louisiana, Delaware, Oregon, Virginia, and Washington to eradicate or control nutria and restore nutria-damaged wetland. Requires that the Maryland program consist of management, research, and public education activities carried out in accordance with the United States Fish and Wildlife Service's document "Eradication Strategies for Nutria in the Chesapeake and Delaware Bay Watersheds."</summary>
+</bill>

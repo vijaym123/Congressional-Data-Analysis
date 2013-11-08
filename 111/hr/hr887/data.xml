@@ -1,0 +1,84 @@
+<bill session="111" type="h" number="887" updated="2013-07-19T23:19:53-04:00">
+  <state datetime="2009-03-10T13:15:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-03-10T13:15:00-04:00"/>
+  </status>
+  <introduced datetime="2009-02-04"/>
+  <titles>
+    <title as="introduced" type="official">To designate the United States courthouse located at 131 East 4th Street in Davenport, Iowa, as the "James A. Leach United States Courthouse".</title>
+  </titles>
+  <sponsor id="412209"/>
+  <cosponsors>
+    <cosponsor id="400042" joined="2009-02-04"/>
+    <cosponsor id="412208" joined="2009-02-04"/>
+    <cosponsor id="400220" joined="2009-02-04"/>
+    <cosponsor id="400234" joined="2009-02-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-04">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2009-02-05">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-02-12">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-02-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-02-12">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2009-03-10T12:40:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 111-31.</text>
+    </action>
+    <calendar datetime="2009-03-10T12:40:00-04:00" calendar="House" number="21">
+      <text>Placed on the House Calendar, Calendar No. 21.</text>
+    </calendar>
+    <action datetime="2009-03-10T13:06:00-04:00">
+      <text>Ms. Edwards (MD) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-03-10T13:06:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3119-3121" label="consideration"/>
+    </action>
+    <action datetime="2009-03-10T13:06:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 887.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-03-10T13:15:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H3119" label="text"/>
+    </vote>
+    <action datetime="2009-03-10T13:15:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-03-11">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="377"/>
+    <bill relation="unknown" session="111" type="s" number="377"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="House of Representatives"/>
+    <term name="Iowa"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/2009--Passed House without amendment.
+Designates the U.S. courthouse located at 131 East 4th Street in Davenport, Iowa, as the "James A. Leach United States Courthouse."</summary>
+</bill>

@@ -1,0 +1,103 @@
+<bill session="111" type="h" number="1246" updated="2013-07-19T23:23:04-04:00">
+  <state datetime="2009-03-30T15:24:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-03-30T15:24:00-04:00"/>
+  </status>
+  <introduced datetime="2009-03-02"/>
+  <titles>
+    <title as="introduced" type="short">Early Hearing Detection and Intervention Act of 2009</title>
+    <title as="reported to house" type="short">Early Hearing Detection and Intervention Act of 2009</title>
+    <title as="passed house" type="short">Early Hearing Detection and Intervention Act of 2009</title>
+    <title as="introduced" type="official">To amend the Public Health Service Act regarding early detection, diagnosis, and treatment of hearing loss.</title>
+  </titles>
+  <sponsor id="400062"/>
+  <cosponsors>
+    <cosponsor id="412208" joined="2009-03-04"/>
+    <cosponsor id="412195" joined="2009-03-04"/>
+    <cosponsor id="400121" joined="2009-03-02"/>
+    <cosponsor id="400152" joined="2009-03-04"/>
+    <cosponsor id="400155" joined="2009-03-03"/>
+    <cosponsor id="400162" joined="2009-03-04"/>
+    <cosponsor id="400244" joined="2009-03-03"/>
+    <cosponsor id="400245" joined="2009-03-03"/>
+    <cosponsor id="400251" joined="2009-03-03"/>
+    <cosponsor id="400360" joined="2009-03-03"/>
+    <cosponsor id="412228" joined="2009-03-02"/>
+    <cosponsor id="400436" joined="2009-03-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-02">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2009-03-03">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2009-03-04">
+      <text>Subcommittee on Health Discharged.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2009-03-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-03-04">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2009-03-23T19:55:00-04:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 111-44.</text>
+    </action>
+    <calendar datetime="2009-03-23T19:55:00-04:00" calendar="Union" number="14">
+      <text>Placed on the Union Calendar, Calendar No. 14.</text>
+    </calendar>
+    <action datetime="2009-03-30T15:17:00-04:00">
+      <text>Mr. Pallone moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-03-30T15:17:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4078-4079" label="consideration"/>
+    </action>
+    <action datetime="2009-03-30T15:17:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1246.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-03-30T15:24:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H4078" label="text"/>
+    </vote>
+    <action datetime="2009-03-30T15:24:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-03-31">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="3199"/>
+    <bill relation="unknown" session="111" type="s" number="3199"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Hearing, speech, and vision care"/>
+    <term name="Medical education"/>
+    <term name="Medical research"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/2009--Passed House without amendment.
+Early Hearing Detection and Intervention Act of 2009 - Amends the Public Health Service Act to expand the newborns and infants hearing loss program to include diagnostic services among the services provided. Requires the Secretary of Health and Human Services, acting through the Administrator of the Health Resources and Services Administration (HRSA), to assist in the recruitment, retention, education, and training of qualified personnel and health care providers. Includes within the purposes of such program: (1) prompt evaluation and diagnosis of children referred from screening programs; (2) appropriate education, audiological, and medical interventions for children identified with hearing loss; (3) developing efficient models to ensure that newborns and infants who are identified with a hearing loss through screening receive follow-up by a qualified health care provider; and (4) ensuring an adequate supply of qualified personnel to meet the screening, evaluation, and early intervention needs of children. Requires the Director of the National Institutes of Health (NIH), acting through the Director of the National Institute on Deafness and Other Communication Disorders, to establish a postdoctoral fellowship program to foster research and development in the area of early hearing detection and intervention. Amends the definition of "early intervention" to require that families be given the opportunity to obtain the full range of appropriate early intervention services, educational and program placements, and other options for their child from highly qualified providers. Authorizes appropriations for FY2010-FY2015 for hearing screening programs and research.</summary>
+</bill>

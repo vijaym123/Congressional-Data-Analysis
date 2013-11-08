@@ -1,0 +1,63 @@
+<bill session="111" type="hr" number="502" updated="2013-07-19T23:00:20-04:00">
+  <state datetime="2009-06-09T19:07:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2009-06-09T19:07:00-04:00"/>
+  </status>
+  <introduced datetime="2009-06-03"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing National Homeownership Month and the importance of homeownership in the United States.</title>
+  </titles>
+  <sponsor id="400277"/>
+  <cosponsors>
+    <cosponsor id="400010" joined="2009-06-03"/>
+    <cosponsor id="400027" joined="2009-06-03"/>
+    <cosponsor id="400041" joined="2009-06-03"/>
+    <cosponsor id="400057" joined="2009-06-03"/>
+    <cosponsor id="400070" joined="2009-06-03"/>
+    <cosponsor id="412262" joined="2009-06-03"/>
+    <cosponsor id="400633" joined="2009-06-03"/>
+    <cosponsor id="400147" joined="2009-06-03"/>
+    <cosponsor id="400179" joined="2009-06-03"/>
+    <cosponsor id="400257" joined="2009-06-03"/>
+    <cosponsor id="400280" joined="2009-06-03"/>
+    <cosponsor id="400441" joined="2009-06-03"/>
+    <cosponsor id="400422" joined="2009-06-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-03">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2009-06-09T18:54:00-04:00">
+      <text>Ms. Waters moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2009-06-09T18:54:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6370-6372" label="consideration"/>
+    </action>
+    <action datetime="2009-06-09T18:54:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 502.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2009-06-09T19:07:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H6370" label="text"/>
+    </vote>
+    <action datetime="2009-06-09T19:08:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="hr" number="1434"/>
+    <bill relation="unknown" session="111" type="hr" number="1434"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Housing finance and home ownership"/>
+  </subjects>
+  <amendments/>
+  <summary>6/9/2009--Passed House without amendment.
+Supports the goals and ideals of National Homeownership Month. Recognizes the importance of homeownership in building strong communities and families. Reaffirms the importance of homeownership in the nation's economy and its central role in our national economic recovery.</summary>
+</bill>

@@ -1,0 +1,119 @@
+<bill session="113" type="h" number="742" updated="2013-11-02T06:25:11-04:00">
+  <state datetime="2013-06-12T15:28:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-06-12T15:28:00-04:00"/>
+  </status>
+  <introduced datetime="2013-02-15"/>
+  <titles>
+    <title type="short" as="introduced">Swap Data Repository and Clearinghouse Indemnification Correction Act of 2013</title>
+    <title type="short" as="passed house">Swap Data Repository and Clearinghouse Indemnification Correction Act of 2013</title>
+    <title type="official" as="introduced">To amend the Securities Exchange Act of 1934 and the Commodity Exchange Act to repeal the indemnification requirements for regulatory authorities to obtain access to swap data required to be provided by swaps entities under such Acts.</title>
+  </titles>
+  <sponsor id="412400"/>
+  <cosponsors>
+    <cosponsor id="400655" joined="2013-03-12"/>
+    <cosponsor id="412193" joined="2013-03-21"/>
+    <cosponsor id="412385" joined="2013-04-10"/>
+    <cosponsor id="412453" joined="2013-04-11"/>
+    <cosponsor id="400170" joined="2013-06-12"/>
+    <cosponsor id="400179" joined="2013-06-11"/>
+    <cosponsor id="412437" joined="2013-02-15"/>
+    <cosponsor id="400218" joined="2013-03-18"/>
+    <cosponsor id="412562" joined="2013-02-15"/>
+    <cosponsor id="400661" joined="2013-02-15"/>
+    <cosponsor id="412527" joined="2013-03-19"/>
+    <cosponsor id="400363" joined="2013-03-13"/>
+    <cosponsor id="412522" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-15" state="REFERRED">
+      <text>Referred to the Committee on Agriculture, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Committee Hearings Held.</text>
+      <committee name="House Agriculture"/>
+    </action>
+    <action datetime="2013-03-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Agriculture"/>
+    </action>
+    <calendar datetime="2013-03-20" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Agriculture"/>
+    </calendar>
+    <action datetime="2013-04-11">
+      <text>Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Referral.</text>
+    </action>
+    <action datetime="2013-05-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2013-05-07">
+      <text>Ordered to be Reported by the Yeas and Nays: 52 - 0.</text>
+    </calendar>
+    <action datetime="2013-06-12T13:05:00-04:00">
+      <text>Reported by the Committee on Agriculture. H. Rept. 113-106, Part I.</text>
+    </action>
+    <action datetime="2013-06-12T13:05:00-04:00">
+      <text>Reported by the Committee on Financial Services. H. Rept. 113-106, Part II.</text>
+    </action>
+    <calendar datetime="2013-06-12T13:05:00-04:00" calendar="Union" number="75">
+      <text>Placed on the Union Calendar, Calendar No. 75.</text>
+    </calendar>
+    <action datetime="2013-06-12T13:09:00-04:00">
+      <text>Mr. Crawford moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-06-12T13:09:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3304-3307" label="consideration"/>
+    </action>
+    <action datetime="2013-06-12T13:09:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 742.</text>
+    </action>
+    <action datetime="2013-06-12T13:32:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-06-12T15:19:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3317" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="216" datetime="2013-06-12T15:28:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 2 (Roll no. 216).</text>
+      <reference ref="CR H3304-3305" label="text"/>
+    </vote>
+    <action datetime="2013-06-12T15:28:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-06-13">
+      <text>Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Hearings, Markup, Reporting, In Committee"/>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee activity="Hearings" code="HSBA16" subcommittee="Capital Markets and Government Sponsored Enterprises" name="House Financial Services"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Business records"/>
+    <term name="Commodities markets"/>
+    <term name="Commodity Futures Trading Commission"/>
+    <term name="Contracts and agency"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Securities"/>
+    <term name="Securities and Exchange Commission (SEC)"/>
+    <term name="Trade secrets and economic espionage"/>
+  </subjects>
+  <amendments/>
+  <summary>6/12/2013--Passed House without amendment.
+Swap Data Repository and Clearinghouse Indemnification Correction Act of 2013 - Amends the Commodity Exchange Act, with respect to derivatives clearing organizations and swap data repositories, to repeal the prerequisite that, before the Commodity Futures Trading Commission (CFTC) may share information with specified regulatory agencies, such agencies must agree to indemnify the CFTC for expenses arising from litigation relating to information so provided. Amends the Securities Exchange Act of 1934 to repeal similarly the prerequisite that, before a security-based swap data repository may share information with specified regulatory entities, such entities must agree to indemnify both such repository and the Securities and Exchange Commission (SEC) for expenses arising from litigation relating to information so provided.</summary>
+</bill>

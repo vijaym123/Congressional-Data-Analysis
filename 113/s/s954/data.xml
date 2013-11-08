@@ -1,0 +1,455 @@
+<bill session="113" type="s" number="954" updated="2013-11-02T07:00:20-04:00">
+  <state datetime="2013-06-10">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2013-06-10"/>
+  </status>
+  <introduced datetime="2013-05-14"/>
+  <titles>
+    <title type="popular">Farm bill</title>
+    <title type="short" as="introduced">Agriculture Reform, Food, and Jobs Act of 2013</title>
+    <title type="official" as="introduced">An original bill to reauthorize agricultural programs through 2018.</title>
+  </titles>
+  <sponsor id="300093"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-05-14">
+      <text>Committee on Agriculture, Nutrition, and Forestry. Original measure reported to Senate by Senator Stabenow. Without written report.</text>
+    </action>
+    <calendar datetime="2013-05-14" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="73">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 73.</text>
+    </calendar>
+    <action datetime="2013-05-15">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S3519-3525" label="consideration"/>
+    </action>
+    <action datetime="2013-05-20">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S3591-3595, S3597" label="consideration"/>
+    </action>
+    <action datetime="2013-05-21">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S3634-3637, S3637-3648, S3652" label="consideration"/>
+    </action>
+    <action datetime="2013-05-22">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S3712-3736, S3745-3752" label="consideration"/>
+    </action>
+    <action datetime="2013-05-23">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S3797-3809, S3816-3826" label="consideration"/>
+    </action>
+    <action datetime="2013-06-03">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S3895-3902" label="consideration"/>
+    </action>
+    <action datetime="2013-06-04">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S3923-3926, S3927-3949" label="consideration"/>
+    </action>
+    <action datetime="2013-06-04">
+      <text>Cloture motion on the measure presented in Senate.</text>
+      <reference ref="CR S3949" label="consideration"/>
+      <reference ref="CR S3949" label="text"/>
+    </action>
+    <action datetime="2013-06-06">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S3971-3976" label="consideration"/>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="141" datetime="2013-06-06" where="s" result="pass">
+      <text>Cloture invoked in Senate by Yea-Nay Vote. 75 - 22. Record Vote Number: 141.</text>
+      <reference ref="CR S3976" label="consideration"/>
+      <reference ref="CR S3976" label="text"/>
+    </vote-aux>
+    <action datetime="2013-06-10">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S4043-4053" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="145" datetime="2013-06-10" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with amendments by Yea-Nay Vote. 66 - 27. Record Vote Number: 145.</text>
+      <reference ref="CR 6/11/2013 S4232-4349" label="text"/>
+    </vote>
+    <action datetime="2013-06-11">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2013-06-11T17:05:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2013-06-11T17:24:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2013-06-12">
+      <text>Senate ordered measure printed as passed.</text>
+    </action>
+    <action datetime="2013-07-18">
+      <text>Senate incorporated this measure in H.R.2642 as an amendment.</text>
+    </action>
+    <action datetime="2013-07-18">
+      <text>See also H.R. 2642.</text>
+    </action>
+    <action datetime="2013-09-04">
+      <text>By Senator Stabenow from Committee on Agriculture, Nutrition, and Forestry filed written report under authority of the order of the Senate of 08/01/2013. Report No. 113-88. Additional views filed.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="366"/>
+    <bill relation="unknown" session="113" type="h" number="686"/>
+    <bill relation="unknown" session="113" type="h" number="1272"/>
+    <bill relation="unknown" session="113" type="h" number="1454"/>
+    <bill relation="unknown" session="113" type="h" number="1607"/>
+    <bill relation="unknown" session="113" type="h" number="2642"/>
+    <bill relation="unknown" session="113" type="h" number="2642"/>
+    <bill relation="includes" session="113" type="h" number="2642"/>
+    <bill relation="unknown" session="113" type="s" number="10"/>
+    <bill relation="unknown" session="113" type="s" number="141"/>
+    <bill relation="unknown" session="113" type="s" number="605"/>
+    <bill relation="unknown" session="113" type="s" number="666"/>
+    <bill relation="unknown" session="113" type="s" number="677"/>
+    <bill relation="unknown" session="113" type="s" number="745"/>
+    <bill relation="unknown" session="113" type="s" number="784"/>
+    <bill relation="unknown" session="113" type="s" number="801"/>
+    <bill relation="unknown" session="113" type="s" number="816"/>
+    <bill relation="unknown" session="113" type="s" number="849"/>
+    <bill relation="unknown" session="113" type="s" number="859"/>
+    <bill relation="unknown" session="113" type="s" number="879"/>
+    <bill relation="unknown" session="113" type="s" number="956"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Accounting and auditing"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Aging"/>
+    <term name="Agricultural conservation and pollution"/>
+    <term name="Agricultural education"/>
+    <term name="Agricultural insurance"/>
+    <term name="Agricultural marketing and promotion"/>
+    <term name="Agricultural practices and innovations"/>
+    <term name="Agricultural prices, subsidies, credit"/>
+    <term name="Agricultural research"/>
+    <term name="Agricultural trade"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Animal and plant health"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Aquaculture"/>
+    <term name="Aviation and airports"/>
+    <term name="Birds"/>
+    <term name="Chesapeake Bay"/>
+    <term name="Congressional oversight"/>
+    <term name="Crimes against animals and natural resources"/>
+    <term name="Department of Agriculture"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Ecology"/>
+    <term name="Education programs funding"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Energy research"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Farmland"/>
+    <term name="Fires"/>
+    <term name="Food assistance and relief"/>
+    <term name="Food industry and services"/>
+    <term name="Food supply, safety, and labeling"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="General agriculture matters"/>
+    <term name="Government information and archives"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Government studies and investigations"/>
+    <term name="Great Lakes"/>
+    <term name="Higher education"/>
+    <term name="Infrastructure development"/>
+    <term name="Insects"/>
+    <term name="Lakes and rivers"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+    <term name="Livestock"/>
+    <term name="Manufacturing"/>
+    <term name="Migrant, seasonal, agricultural labor"/>
+    <term name="Minority and disadvantaged businesses"/>
+    <term name="Motor fuels"/>
+    <term name="New York City"/>
+    <term name="Nutrition and diet"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Pest management"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+    <term name="Rural conditions and development"/>
+    <term name="Student aid and college costs"/>
+    <term name="Transportation safety and security"/>
+    <term name="User charges and fees"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterinary medicine and animal diseases"/>
+    <term name="Water quality"/>
+    <term name="Water use and supply"/>
+    <term name="Watersheds"/>
+    <term name="Wetlands"/>
+    <term name="Wildlife conservation and habitat protection"/>
+    <term name="Worker safety and health"/>
+  </subjects>
+  <amendments>
+    <amendment number="s919"/>
+    <amendment number="s920"/>
+    <amendment number="s921"/>
+    <amendment number="s922"/>
+    <amendment number="s923"/>
+    <amendment number="s924"/>
+    <amendment number="s925"/>
+    <amendment number="s926"/>
+    <amendment number="s927"/>
+    <amendment number="s928"/>
+    <amendment number="s929"/>
+    <amendment number="s930"/>
+    <amendment number="s931"/>
+    <amendment number="s932"/>
+    <amendment number="s933"/>
+    <amendment number="s934"/>
+    <amendment number="s935"/>
+    <amendment number="s936"/>
+    <amendment number="s937"/>
+    <amendment number="s938"/>
+    <amendment number="s939"/>
+    <amendment number="s940"/>
+    <amendment number="s941"/>
+    <amendment number="s942"/>
+    <amendment number="s943"/>
+    <amendment number="s944"/>
+    <amendment number="s945"/>
+    <amendment number="s946"/>
+    <amendment number="s947"/>
+    <amendment number="s948"/>
+    <amendment number="s949"/>
+    <amendment number="s950"/>
+    <amendment number="s952"/>
+    <amendment number="s953"/>
+    <amendment number="s954"/>
+    <amendment number="s955"/>
+    <amendment number="s956"/>
+    <amendment number="s957"/>
+    <amendment number="s958"/>
+    <amendment number="s959"/>
+    <amendment number="s960"/>
+    <amendment number="s961"/>
+    <amendment number="s962"/>
+    <amendment number="s963"/>
+    <amendment number="s964"/>
+    <amendment number="s965"/>
+    <amendment number="s966"/>
+    <amendment number="s967"/>
+    <amendment number="s968"/>
+    <amendment number="s969"/>
+    <amendment number="s970"/>
+    <amendment number="s971"/>
+    <amendment number="s972"/>
+    <amendment number="s973"/>
+    <amendment number="s974"/>
+    <amendment number="s975"/>
+    <amendment number="s976"/>
+    <amendment number="s977"/>
+    <amendment number="s978"/>
+    <amendment number="s979"/>
+    <amendment number="s980"/>
+    <amendment number="s981"/>
+    <amendment number="s982"/>
+    <amendment number="s983"/>
+    <amendment number="s984"/>
+    <amendment number="s985"/>
+    <amendment number="s986"/>
+    <amendment number="s987"/>
+    <amendment number="s988"/>
+    <amendment number="s989"/>
+    <amendment number="s990"/>
+    <amendment number="s991"/>
+    <amendment number="s992"/>
+    <amendment number="s993"/>
+    <amendment number="s994"/>
+    <amendment number="s995"/>
+    <amendment number="s996"/>
+    <amendment number="s997"/>
+    <amendment number="s998"/>
+    <amendment number="s999"/>
+    <amendment number="s1000"/>
+    <amendment number="s1001"/>
+    <amendment number="s1002"/>
+    <amendment number="s1003"/>
+    <amendment number="s1004"/>
+    <amendment number="s1005"/>
+    <amendment number="s1006"/>
+    <amendment number="s1007"/>
+    <amendment number="s1008"/>
+    <amendment number="s1009"/>
+    <amendment number="s1010"/>
+    <amendment number="s1011"/>
+    <amendment number="s1012"/>
+    <amendment number="s1013"/>
+    <amendment number="s1014"/>
+    <amendment number="s1015"/>
+    <amendment number="s1016"/>
+    <amendment number="s1017"/>
+    <amendment number="s1018"/>
+    <amendment number="s1019"/>
+    <amendment number="s1020"/>
+    <amendment number="s1021"/>
+    <amendment number="s1022"/>
+    <amendment number="s1023"/>
+    <amendment number="s1024"/>
+    <amendment number="s1025"/>
+    <amendment number="s1026"/>
+    <amendment number="s1027"/>
+    <amendment number="s1028"/>
+    <amendment number="s1029"/>
+    <amendment number="s1030"/>
+    <amendment number="s1031"/>
+    <amendment number="s1032"/>
+    <amendment number="s1033"/>
+    <amendment number="s1034"/>
+    <amendment number="s1035"/>
+    <amendment number="s1036"/>
+    <amendment number="s1037"/>
+    <amendment number="s1038"/>
+    <amendment number="s1039"/>
+    <amendment number="s1040"/>
+    <amendment number="s1041"/>
+    <amendment number="s1042"/>
+    <amendment number="s1043"/>
+    <amendment number="s1044"/>
+    <amendment number="s1045"/>
+    <amendment number="s1046"/>
+    <amendment number="s1047"/>
+    <amendment number="s1048"/>
+    <amendment number="s1049"/>
+    <amendment number="s1050"/>
+    <amendment number="s1051"/>
+    <amendment number="s1052"/>
+    <amendment number="s1053"/>
+    <amendment number="s1054"/>
+    <amendment number="s1055"/>
+    <amendment number="s1056"/>
+    <amendment number="s1057"/>
+    <amendment number="s1058"/>
+    <amendment number="s1059"/>
+    <amendment number="s1060"/>
+    <amendment number="s1061"/>
+    <amendment number="s1062"/>
+    <amendment number="s1063"/>
+    <amendment number="s1064"/>
+    <amendment number="s1065"/>
+    <amendment number="s1066"/>
+    <amendment number="s1067"/>
+    <amendment number="s1068"/>
+    <amendment number="s1069"/>
+    <amendment number="s1070"/>
+    <amendment number="s1071"/>
+    <amendment number="s1072"/>
+    <amendment number="s1073"/>
+    <amendment number="s1074"/>
+    <amendment number="s1075"/>
+    <amendment number="s1076"/>
+    <amendment number="s1077"/>
+    <amendment number="s1078"/>
+    <amendment number="s1079"/>
+    <amendment number="s1080"/>
+    <amendment number="s1081"/>
+    <amendment number="s1082"/>
+    <amendment number="s1083"/>
+    <amendment number="s1084"/>
+    <amendment number="s1085"/>
+    <amendment number="s1086"/>
+    <amendment number="s1087"/>
+    <amendment number="s1088"/>
+    <amendment number="s1089"/>
+    <amendment number="s1090"/>
+    <amendment number="s1091"/>
+    <amendment number="s1092"/>
+    <amendment number="s1093"/>
+    <amendment number="s1094"/>
+    <amendment number="s1095"/>
+    <amendment number="s1096"/>
+    <amendment number="s1097"/>
+    <amendment number="s1098"/>
+    <amendment number="s1099"/>
+    <amendment number="s1100"/>
+    <amendment number="s1101"/>
+    <amendment number="s1102"/>
+    <amendment number="s1103"/>
+    <amendment number="s1104"/>
+    <amendment number="s1105"/>
+    <amendment number="s1106"/>
+    <amendment number="s1107"/>
+    <amendment number="s1108"/>
+    <amendment number="s1109"/>
+    <amendment number="s1110"/>
+    <amendment number="s1111"/>
+    <amendment number="s1112"/>
+    <amendment number="s1113"/>
+    <amendment number="s1114"/>
+    <amendment number="s1115"/>
+    <amendment number="s1116"/>
+    <amendment number="s1117"/>
+    <amendment number="s1118"/>
+    <amendment number="s1119"/>
+    <amendment number="s1120"/>
+    <amendment number="s1121"/>
+    <amendment number="s1122"/>
+    <amendment number="s1123"/>
+    <amendment number="s1124"/>
+    <amendment number="s1125"/>
+    <amendment number="s1126"/>
+    <amendment number="s1127"/>
+    <amendment number="s1128"/>
+    <amendment number="s1129"/>
+    <amendment number="s1130"/>
+    <amendment number="s1131"/>
+    <amendment number="s1132"/>
+    <amendment number="s1133"/>
+    <amendment number="s1134"/>
+    <amendment number="s1135"/>
+    <amendment number="s1136"/>
+    <amendment number="s1137"/>
+    <amendment number="s1138"/>
+    <amendment number="s1139"/>
+    <amendment number="s1140"/>
+    <amendment number="s1141"/>
+    <amendment number="s1142"/>
+    <amendment number="s1144"/>
+    <amendment number="s1145"/>
+    <amendment number="s1146"/>
+    <amendment number="s1147"/>
+    <amendment number="s1148"/>
+    <amendment number="s1149"/>
+    <amendment number="s1150"/>
+    <amendment number="s1151"/>
+    <amendment number="s1152"/>
+    <amendment number="s1153"/>
+    <amendment number="s1155"/>
+    <amendment number="s1156"/>
+    <amendment number="s1157"/>
+    <amendment number="s1158"/>
+    <amendment number="s1159"/>
+    <amendment number="s1160"/>
+    <amendment number="s1161"/>
+    <amendment number="s1162"/>
+    <amendment number="s1163"/>
+    <amendment number="s1164"/>
+    <amendment number="s1165"/>
+    <amendment number="s1166"/>
+    <amendment number="s1167"/>
+    <amendment number="s1168"/>
+    <amendment number="s1169"/>
+    <amendment number="s1170"/>
+    <amendment number="s1171"/>
+    <amendment number="s1172"/>
+    <amendment number="s1173"/>
+    <amendment number="s1174"/>
+    <amendment number="s1175"/>
+    <amendment number="s1176"/>
+    <amendment number="s1177"/>
+    <amendment number="s1178"/>
+    <amendment number="s1179"/>
+    <amendment number="s1180"/>
+  </amendments>
+</bill>

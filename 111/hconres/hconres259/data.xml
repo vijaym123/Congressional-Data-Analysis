@@ -1,0 +1,117 @@
+<bill session="111" type="hc" number="259" updated="2013-07-20T00:15:14-04:00">
+  <state datetime="2010-12-06">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2010-12-06"/>
+  </status>
+  <introduced datetime="2010-03-25"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the 500th anniversary of the birth of Italian architect Andrea Palladio.</title>
+  </titles>
+  <sponsor id="400309"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="2010-06-10"/>
+    <cosponsor id="400008" joined="2010-11-15"/>
+    <cosponsor id="412224" joined="2010-06-24"/>
+    <cosponsor id="400047" joined="2010-09-16"/>
+    <cosponsor id="400049" joined="2010-05-27"/>
+    <cosponsor id="400051" joined="2010-05-27"/>
+    <cosponsor id="400063" joined="2010-06-09"/>
+    <cosponsor id="400076" joined="2010-06-17"/>
+    <cosponsor id="412272" joined="2010-07-29"/>
+    <cosponsor id="400087" joined="2010-07-29"/>
+    <cosponsor id="400102" joined="2010-05-27"/>
+    <cosponsor id="400103" joined="2010-07-01"/>
+    <cosponsor id="400114" joined="2010-09-28"/>
+    <cosponsor id="400122" joined="2010-07-27"/>
+    <cosponsor id="400144" joined="2010-07-30"/>
+    <cosponsor id="412382" joined="2010-07-29"/>
+    <cosponsor id="400163" joined="2010-11-15"/>
+    <cosponsor id="400184" joined="2010-11-15"/>
+    <cosponsor id="400195" joined="2010-09-14"/>
+    <cosponsor id="400219" joined="2010-09-14"/>
+    <cosponsor id="400230" joined="2010-09-14"/>
+    <cosponsor id="400233" joined="2010-07-19"/>
+    <cosponsor id="400235" joined="2010-09-28"/>
+    <cosponsor id="400244" joined="2010-11-15"/>
+    <cosponsor id="400246" joined="2010-11-15"/>
+    <cosponsor id="412297" joined="2010-09-28"/>
+    <cosponsor id="400251" joined="2010-09-14"/>
+    <cosponsor id="400252" joined="2010-06-29"/>
+    <cosponsor id="400253" joined="2010-07-19"/>
+    <cosponsor id="400257" joined="2010-06-09"/>
+    <cosponsor id="400263" joined="2010-09-29"/>
+    <cosponsor id="412296" joined="2010-06-30"/>
+    <cosponsor id="400273" joined="2010-09-16"/>
+    <cosponsor id="400283" joined="2010-06-30"/>
+    <cosponsor id="412194" joined="2010-05-27"/>
+    <cosponsor id="400295" joined="2010-06-22"/>
+    <cosponsor id="400299" joined="2010-06-09"/>
+    <cosponsor id="400308" joined="2010-06-17"/>
+    <cosponsor id="400312" joined="2010-06-25"/>
+    <cosponsor id="412304" joined="2010-07-19"/>
+    <cosponsor id="400321" joined="2010-07-21"/>
+    <cosponsor id="400346" joined="2010-07-22"/>
+    <cosponsor id="400352" joined="2010-07-15"/>
+    <cosponsor id="412186" joined="2010-06-09"/>
+    <cosponsor id="400378" joined="2010-08-10"/>
+    <cosponsor id="412317" joined="2010-09-15"/>
+    <cosponsor id="400406" joined="2010-03-25"/>
+    <cosponsor id="412254" joined="2010-11-15"/>
+    <cosponsor id="400415" joined="2010-09-29"/>
+    <cosponsor id="400435" joined="2010-09-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-03-25">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2010-11-17T18:25:00-05:00">
+      <text>Ms. Watson moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2010-11-17T18:25:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7515-7516" label="consideration"/>
+    </action>
+    <action datetime="2010-11-17T18:25:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 259.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-11-17T18:35:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H7515" label="text"/>
+    </vote>
+    <action datetime="2010-11-17T18:35:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-11-18">
+      <text>Received in the Senate and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2010-12-06">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S8557" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2010-12-06" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2010-12-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="sc" number="69"/>
+  </relatedbills>
+  <subjects>
+    <term name="Arts, culture, religion"/>
+    <term name="Art, artists, authorship"/>
+    <term name="Building construction"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Europe"/>
+    <term name="Italy"/>
+  </subjects>
+  <amendments/>
+  <summary>12/6/2010--Passed Senate without amendment.
+Recognizes the 500th anniversary of Andrea Palladio's birth year and his influence on architecture in the United States.</summary>
+</bill>

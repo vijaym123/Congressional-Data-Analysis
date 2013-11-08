@@ -1,0 +1,90 @@
+<bill session="112" type="h" number="3140" updated="2013-07-20T01:37:23-04:00">
+  <state datetime="2012-05-30T18:34:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-05-30T18:34:00-04:00"/>
+  </status>
+  <introduced datetime="2011-10-06"/>
+  <titles>
+    <title as="introduced" type="short">Mass Transit Intelligence Prioritization Act</title>
+    <title as="reported to house" type="short">Mass Transit Intelligence Prioritization Act</title>
+    <title as="passed house" type="short">Mass Transit Intelligence Prioritization Act</title>
+    <title as="introduced" type="official">To amend the Homeland Security Act of 2002 to direct the Secretary of Homeland Security to prioritize the assignment of officers and analysts to certain State and urban area fusion centers to enhance the security of mass transit systems.</title>
+  </titles>
+  <sponsor id="412259"/>
+  <cosponsors>
+    <cosponsor id="412466" joined="2011-10-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-10-06">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2011-10-14">
+      <text>Referred to the Subcommittee on Counterterrorism and Intelligence.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2011-11-15">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2011-11-15">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2012-03-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-03-28">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </calendar>
+    <action datetime="2012-05-08T20:14:00-04:00">
+      <text>Reported by the Committee on Homeland Security. H. Rept. 112-467.</text>
+    </action>
+    <calendar datetime="2012-05-08T20:14:00-04:00" calendar="Union" number="327">
+      <text>Placed on the Union Calendar, Calendar No. 327.</text>
+    </calendar>
+    <action datetime="2012-05-30T18:29:00-04:00">
+      <text>Mr. King (NY) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-05-30T18:29:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3246-3247" label="consideration"/>
+    </action>
+    <action datetime="2012-05-30T18:29:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3140.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-05-30T18:34:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H3246" label="text"/>
+    </vote>
+    <action datetime="2012-05-30T18:34:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-06-04">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSHM05" subcommittee="Counteterrorism and Intelligence" name="House Homeland Security"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="3116"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Homeland security"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Law enforcement officers"/>
+    <term name="Public transit"/>
+    <term name="State and local government operations"/>
+    <term name="Terrorism"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>5/30/2012--Passed House without amendment.
+Mass Transit Intelligence Prioritization Act - Amends the Homeland Security Act of 2002 to direct the Secretary of Homeland Security (DHS) to make it a priority to assign DHS officers and intelligence analysts, including from the Transportation Security Administration (TSA), to participating state and urban area fusion centers located in high-risk jurisdictions with mass transit systems to enhance security of such systems by assisting law enforcement authorities in identifying, investigating, and otherwise interdicting persons, weapons, and contraband that pose a threat to homeland security. Makes it a primary responsibility of such officers and analysts to create mass transit intelligence products that: (1) assist law enforcement agencies in deploying their resources most efficiently to help detect and interdict terrorists, weapons of mass destruction, and contraband at U.S. mass transit systems; (2) promote more consistent and timely dissemination of mass transit security-relevant information among jurisdictions with such systems; and (3) enhance DHS's situational awareness with respect to the threat of terrorist acts at or involving U.S. mass transit systems.</summary>
+</bill>

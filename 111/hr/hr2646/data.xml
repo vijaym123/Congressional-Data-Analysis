@@ -1,0 +1,82 @@
+<bill session="111" type="h" number="2646" updated="2013-07-19T23:35:40-04:00">
+  <state datetime="2010-01-13T12:55:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-01-13T12:55:00-05:00"/>
+  </status>
+  <introduced datetime="2009-06-02"/>
+  <titles>
+    <title as="introduced" type="short">Government Accountability Office Improvement Act of 2009</title>
+    <title as="passed house" type="short">Government Accountability Office Improvement Act of 2010</title>
+    <title as="introduced" type="official">To amend title 31, United States Code, to enhance the oversight authorities of the Comptroller General, and for other purposes.</title>
+  </titles>
+  <sponsor id="400409"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-02">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2009-06-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-06-04">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2009-12-19T12:02:00-05:00">
+      <text>Reported (Amended) by the Committee on 111-387, Part I.</text>
+    </action>
+    <action datetime="2009-12-19">
+      <text>Referred sequentially to the House Committee on Financial Services for a period ending not later than Dec. 19, 2009 for consideration of such provisions of the bill and amendment as fall within the jurisdiction of that committee pursuant to clause 1(g), rule X.</text>
+    </action>
+    <action datetime="2009-12-19T12:02:00-05:00">
+      <text>Committee on Financial Services discharged.</text>
+    </action>
+    <calendar datetime="2009-12-19T12:02:00-05:00" calendar="Union" number="224">
+      <text>Placed on the Union Calendar, Calendar No. 224.</text>
+    </calendar>
+    <action datetime="2010-01-13T12:43:00-05:00">
+      <text>Mr. Lynch moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-01-13T12:43:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H65-67" label="consideration"/>
+    </action>
+    <action datetime="2010-01-13T12:43:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2646.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-01-13T12:55:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H65-66" label="text"/>
+    </vote>
+    <action datetime="2010-01-13T12:55:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-01-20">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, Reporting"/>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Discharged"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="2991"/>
+    <bill relation="unknown" session="111" type="s" number="2991"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Civil actions and liability"/>
+    <term name="Congressional agencies"/>
+    <term name="Congressional oversight"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Government Accountability Office (GAO)"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+  </subjects>
+  <amendments/>
+  <summary>1/13/2010--Passed House without amendment.
+Government Accountability Office Improvement Act of 2009 - (Sec. 2) Authorizes the Comptroller General to: (1) obtain federal agency records required to discharge his or her duties, including through bringing civil actions under this Act; and (2) make and retain copies of agency records and interview federal agency officers and employees. (Sec. 3) Requires the Comptroller General's express consent for other Government Accountability Office (GAO) employees to administer oaths to witnesses in matters other than auditing and settling accounts. (Sec. 4) Requires agency statements on actions taken or planned in response to Comptroller General recommendations to be submitted to the congressional committees with jurisdiction over the pertinent agency program or activity and to GAO. (Sec. 5) Authorizes the Comptroller General, for five years following enactment of this Act, to conduct reviews, including on-site examinations, of credit facilities established by the Board of Governors of the Federal Reserve System or any federal reserve bank, and of the establishment of such facilities, in: (1) carrying out any action or function approved by the Board under provisions authorizing a federal reserve bank to discount for any individual, partnership, or corporation, notes, drafts, and bills of exchange when they are endorsed or otherwise secured to the satisfaction of the bank; or (2) in providing temporary assistance to private institutions as the lender of last resort. Lists as credit facilities to which this section applies: (1) the Money Market Investor Funding Facility; (2) the Asset-Backed Commercial Paper Money Market Mutual Fund Liquidity Facility; (3) the Term Asset-Backed Securities Loan Facility; (4) the Term Auction Facility; (5) the Primary Dealer Credit Facility; (6) the Commercial Paper Funding Facility; (7) the Term Securities Lending Facility, including the Term Securities Lending Facility Options Program; (8) the Revolving Credit Facility; (9) reciprocal currency arrangements with foreign central banks; (10) the Mortgage Backed Securities Purchase Program, as well as the purchase of debt obligations from a government sponsored enterprise; and (11) any special purpose vehicle through which any such credit facility conducts any activity or lending. Requires the Comptroller General to report to Congress within 90 days of each review's completion. Provides for access by the Comptroller General to all records and property used by any such credit facility established by an agency. Directs the Comptroller General to prevent unauthorized access to records or property of or used by any such credit facility.</summary>
+</bill>

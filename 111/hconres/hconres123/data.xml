@@ -1,0 +1,78 @@
+<bill session="111" type="hc" number="123" updated="2013-07-20T00:14:03-04:00">
+  <state datetime="2009-07-21T18:10:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-07-21T18:10:00-04:00"/>
+  </status>
+  <introduced datetime="2009-05-12"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the historical and national significance of the many contributions of John William Heisman to the sport of football.</title>
+  </titles>
+  <sponsor id="412317"/>
+  <cosponsors>
+    <cosponsor id="412231" joined="2009-05-12"/>
+    <cosponsor id="412252" joined="2009-05-12"/>
+    <cosponsor id="400057" joined="2009-06-02"/>
+    <cosponsor id="400077" joined="2009-05-12"/>
+    <cosponsor id="400147" joined="2009-05-12"/>
+    <cosponsor id="400151" joined="2009-05-12"/>
+    <cosponsor id="400183" joined="2009-05-12"/>
+    <cosponsor id="400282" joined="2009-06-02"/>
+    <cosponsor id="400286" joined="2009-05-12"/>
+    <cosponsor id="400320" joined="2009-05-12"/>
+    <cosponsor id="412309" joined="2009-06-02"/>
+    <cosponsor id="400341" joined="2009-05-12"/>
+    <cosponsor id="412225" joined="2009-05-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-05-12">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2009-06-11">
+      <text>Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+    <action datetime="2009-07-20T15:59:00-04:00">
+      <text>Mr. Courtney moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2009-07-20T15:59:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8376-8377" label="consideration"/>
+    </action>
+    <action datetime="2009-07-20T15:59:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 123.</text>
+    </action>
+    <action datetime="2009-07-20T16:05:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2009-07-21T18:03:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H8456-8457" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-07-21T18:10:00-04:00" how="roll" result="pass" roll="602" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 602).</text>
+      <reference ref="CR 7/20/2009 H8376" label="text"/>
+    </vote>
+    <action datetime="2009-07-21T18:10:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-07-22">
+      <text>Received in the Senate and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education, Lifelong Learning, and Competitiveness" name="House Education and Labor"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Sports and recreation"/>
+    <term name="Athletes"/>
+    <term name="Congressional tributes"/>
+    <term name="Higher education"/>
+    <term name="School athletics"/>
+  </subjects>
+  <amendments/>
+  <summary>7/21/2009--Passed House without amendment.
+Recognizes the significance and contributions of John Heisman on the development of football. Praises Heisman's efforts in helping to establish the most valuable player award for college football. Acknowledges Heisman's innovative and influential coaching techniques and strategies and his leadership.</summary>
+</bill>

@@ -1,0 +1,37 @@
+<bill session="111" type="h" number="6338" updated="2013-07-20T00:09:45-04:00">
+  <state datetime="2010-09-29">REFERRED</state>
+  <status>
+    <introduced datetime="2010-09-29"/>
+  </status>
+  <introduced datetime="2010-09-29"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Federal Crop Insurance Act to permit certain livestock owners to plant a secondary crop for the use of the producer as emergency feed.</title>
+  </titles>
+  <sponsor id="400443"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-09-29">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2010-11-16">
+      <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG16" subcommittee="General Farm Commodities and Risk Management" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3870"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural insurance"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Livestock"/>
+  </subjects>
+  <amendments/>
+  <summary>9/29/2010--Introduced.
+Amends the Federal Crop Insurance Act to permit an agricultural producer who owns livestock to plant a second crop on the same acreage for harvest in the same crop year as a first crop and receive full prevented planting indemnity payments if such producer: (1) is located in an area that experienced excessive precipitation which prevented the first crop's planting by its final planting date; and (2) uses the second crop solely for emergency feed for the producer's livestock.</summary>
+</bill>

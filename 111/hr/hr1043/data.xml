@@ -1,0 +1,76 @@
+<bill session="111" type="h" number="1043" updated="2013-07-19T23:21:15-04:00">
+  <state datetime="2009-09-08T14:26:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-09-08T14:26:00-04:00"/>
+  </status>
+  <introduced datetime="2009-02-12"/>
+  <titles>
+    <title as="introduced" type="short">Deafy Glade Land Exchange Act</title>
+    <title as="passed house" type="short">Deafy Glade Land Exchange Act</title>
+    <title as="reported to senate" type="short">Deafy Glade Land Exchange Act</title>
+    <title as="introduced" type="official">To provide for a land exchange involving certain National Forest System lands in the Mendocino National Forest in the State of California, and for other purposes.</title>
+  </titles>
+  <sponsor id="400278"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-12">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-02-19">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-09-08T14:21:00-04:00">
+      <text>Mr. Grijalva moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-09-08T14:21:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9288" label="consideration"/>
+    </action>
+    <action datetime="2009-09-08T14:21:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1043.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-09-08T14:26:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H9288" label="text"/>
+    </vote>
+    <action datetime="2009-09-08T14:26:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-09-09">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2010-04-28">
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2010-06-21">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2010-08-05">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 111-273.</text>
+    </action>
+    <calendar datetime="2010-08-05" calendar="Senate Legislative" under="General Orders" number="543">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 543.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG03" subcommittee="Public Lands and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="1571"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+  <summary>8/5/2010--Reported to Senate amended.
+Deafy Glade Land Exchange Act - Directs the Secretary of Agriculture to convey to Solano County, California, all right, title, and interest of the United States in and to the parcel of land in the Mendocino National Forest comprising approximately 82 acres and known as the Fouts Springs Ranch, as depicted on the map entitled "Fouts Springs-Deafy Glade: Federal and Non-Federal Lands" and dated July 17, 2008, if the county conveys to the United States all right, title, and interest of the county in and to four parcels of non-federal land acceptable to the Secretary and which consists of approximately 160 acres identified on such map. Requires Solano County to pay the costs of the survey, appraisal, and other administrative costs related to the land exchange. Requires the acquired non-federal land to be added to and administered as part of the Mendocino National Forest.</summary>
+</bill>

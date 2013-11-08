@@ -1,0 +1,45 @@
+<bill session="111" type="hc" number="235" updated="2013-07-20T00:15:02-04:00">
+  <state datetime="2010-02-11">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2010-02-11"/>
+  </status>
+  <introduced datetime="2010-02-09"/>
+  <titles>
+    <title as="introduced" type="official">Providing for an adjournment or recess of the two Houses.</title>
+  </titles>
+  <sponsor id="400232"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2010-02-09T14:06:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H608-609" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-02-09T14:08:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H609" label="text"/>
+    </vote>
+    <action datetime="2010-02-09T14:08:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-02-09">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2010-02-11" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S592" label="consideration"/>
+      <reference ref="CR S592" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2010-02-11">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional operations and organization"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2010--Passed Senate without amendment.
+Declares that when the House adjourns on any legislative day from Tuesday, February 9, 2010, through Saturday, February 13, 2010, it stand adjourned until 2 p.m. on Monday, February 22, 2010. Declares that when the Senate recesses or adjourns on any day from Wednesday, February 10, 2010, through Sunday, February 14, 2010, it stand recessed or adjourned until noon on Monday, February 22, 2010.</summary>
+</bill>

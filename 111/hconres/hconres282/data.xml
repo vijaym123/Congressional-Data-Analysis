@@ -1,0 +1,42 @@
+<bill session="111" type="hc" number="282" updated="2013-07-20T00:15:26-04:00">
+  <state datetime="2010-05-27">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2010-05-27"/>
+  </status>
+  <introduced datetime="2010-05-27"/>
+  <titles>
+    <title as="introduced" type="official">Providing for an adjournment or recess of the two Houses.</title>
+  </titles>
+  <sponsor id="412307"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2010-05-27T11:49:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H3885-3886" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-05-27T12:18:00-04:00" how="roll" result="pass" roll="306" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 230 - 187 (Roll no. 306).</text>
+      <reference ref="CR H3885" label="text"/>
+    </vote>
+    <action datetime="2010-05-27T12:18:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2010-05-27" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4562" label="consideration"/>
+      <reference ref="CR S5462" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2010-05-28">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional operations and organization"/>
+  </subjects>
+  <amendments/>
+  <summary>5/27/2010--Passed House without amendment.
+Declares that when the House adjourns on any legislative day from Thursday, May 27, 2010, through Tuesday, June 1, 2010, it stand adjourned until 2 p.m. on Tuesday, June 8, 2010. Declares that when the Senate recesses or adjourns on any day from Thursday, May 27, 2010, through Tuesday, June 1, 2010, it stand recessed or adjourned until noon on Monday, June 7, 2010.</summary>
+</bill>

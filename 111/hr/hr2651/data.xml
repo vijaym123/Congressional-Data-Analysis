@@ -1,0 +1,96 @@
+<bill session="111" type="h" number="2651" updated="2013-07-19T23:35:42-04:00">
+  <state datetime="2009-10-14T14:29:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-10-14T14:29:00-04:00"/>
+  </status>
+  <introduced datetime="2009-06-02"/>
+  <titles>
+    <title as="introduced" type="short">Maritime Workforce Development Act</title>
+    <title as="reported to house" type="short">Maritime Workforce Development Act</title>
+    <title as="passed house" type="short">Maritime Workforce Development Act</title>
+    <title as="introduced" type="official">To amend title 46, United States Code, to direct the Secretary of Transportation to establish a maritime career training loan program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400090"/>
+  <cosponsors>
+    <cosponsor id="400232" joined="2009-06-04"/>
+    <cosponsor id="400244" joined="2009-06-02"/>
+    <cosponsor id="400273" joined="2009-06-02"/>
+    <cosponsor id="400299" joined="2009-06-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-02">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2009-06-03">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-06-04">
+      <text>Subcommittee on Coast Guard and Maritime Transportation Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-06-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-06-04">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2009-07-31T16:36:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 111-243.</text>
+    </action>
+    <calendar datetime="2009-07-31T16:37:00-04:00" calendar="Union" number="134">
+      <text>Placed on the Union Calendar, Calendar No. 134.</text>
+    </calendar>
+    <action datetime="2009-10-14T14:12:00-04:00">
+      <text>Mr. Cummings moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-10-14T14:12:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11341-11347" label="consideration"/>
+    </action>
+    <action datetime="2009-10-14T14:12:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2651.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-10-14T14:29:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H11341-11343" label="text"/>
+    </vote>
+    <action datetime="2009-10-14T14:29:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-10-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <action datetime="2009-10-23">
+      <text>Provisions of measure incorporated in to Title VI of H.R. 3619.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="3619"/>
+    <bill relation="unknown" session="111" type="h" number="3619"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Education programs funding"/>
+    <term name="Employment and training programs"/>
+    <term name="Government information and archives"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Government trust funds"/>
+    <term name="Higher education"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Student aid and college costs"/>
+    <term name="Transportation employees"/>
+    <term name="Vocational education"/>
+  </subjects>
+  <amendments/>
+  <summary>10/14/2009--Passed House amended.
+Maritime Workforce Development Act - Directs the Secretary of Transportation to establish a maritime career training loan program. Requires the Secretary, acting through the Administrator of the Maritime Administration, to make maritime career training loans available to eligible students at federal, state, and commercial maritime training institutions, including state maritime academies, and nonprofit training organizations. Makes undergraduate students at the U.S. Merchant Marine Academy ineligible for such loans. Allows loans to a student of up to $15,000 in a calendar year or $60,000 in the aggregate. Establishes certain student eligibility and loan requirements. Requires the Secretary to establish a revolving loan fund consisting of receipts from the repayment of loans to cover the administrative costs of the program. Authorizes appropriations for this loan program for FY2010-FY2015. Directs the Secretary, acting through the Administrator, to publish in the Federal Register, a plan that describes the demonstration, research, and multistate project priorities of the Department of Transportation (DOT) regarding merchant mariner recruitment, training, and retention for the three-year period following the publication of the plan. Requires the Secretary to submit copies of the plan to Congress. Authorizes the Secretary to award competitive grants to maritime training institutions to carry out demonstration projects and other eligible projects that implement DOT priorities in a way to address merchant mariner recruitment, training, and retention issues. Establishes certain grant and project eligibility requirements. Authorizes appropriations for this grant program for FY2010-FY2015.</summary>
+</bill>

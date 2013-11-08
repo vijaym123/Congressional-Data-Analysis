@@ -1,0 +1,46 @@
+<bill session="111" type="hc" number="69" updated="2013-07-20T00:13:30-04:00">
+  <state datetime="2009-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2009-03-05"/>
+  </status>
+  <introduced datetime="2009-03-05"/>
+  <titles>
+    <title as="introduced" type="official">Honoring the 100th anniversary of Fort McCoy in Sparta, Wisconsin.</title>
+  </titles>
+  <sponsor id="400218"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2009-03-05"/>
+    <cosponsor id="412240" joined="2009-03-05"/>
+    <cosponsor id="400661" joined="2009-03-05"/>
+    <cosponsor id="400300" joined="2009-03-05"/>
+    <cosponsor id="400318" joined="2009-03-05"/>
+    <cosponsor id="400351" joined="2009-03-05"/>
+    <cosponsor id="400365" joined="2009-03-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-05">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2009-03-31">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="sr" number="65"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Military facilities and property"/>
+    <term name="Wisconsin"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/2009--Introduced.
+Honors Fort McCoy in Sparta, Wisconsin, on its 100th anniversary, and commends the men and women who have worked and trained there.</summary>
+</bill>

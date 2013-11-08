@@ -1,0 +1,65 @@
+<bill session="111" type="h" number="6108" updated="2013-07-20T00:07:43-04:00">
+  <state datetime="2010-09-14">REFERRED</state>
+  <status>
+    <introduced datetime="2010-09-14"/>
+  </status>
+  <introduced datetime="2010-09-14"/>
+  <titles>
+    <title as="introduced" type="official">To strike certain provisions of Public Law 111-226 relating to Texas and the Education Jobs Fund.</title>
+  </titles>
+  <sponsor id="400052"/>
+  <cosponsors>
+    <cosponsor id="400018" joined="2010-09-14"/>
+    <cosponsor id="400046" joined="2010-09-14"/>
+    <cosponsor id="400068" joined="2010-09-14"/>
+    <cosponsor id="400655" joined="2010-09-14"/>
+    <cosponsor id="400089" joined="2010-09-14"/>
+    <cosponsor id="400651" joined="2010-09-14"/>
+    <cosponsor id="400157" joined="2010-09-14"/>
+    <cosponsor id="400165" joined="2010-09-14"/>
+    <cosponsor id="400175" joined="2010-09-14"/>
+    <cosponsor id="400206" joined="2010-09-20"/>
+    <cosponsor id="400656" joined="2010-09-16"/>
+    <cosponsor id="400654" joined="2010-09-14"/>
+    <cosponsor id="400441" joined="2010-09-14"/>
+    <cosponsor id="412302" joined="2010-09-14"/>
+    <cosponsor id="400311" joined="2010-09-14"/>
+    <cosponsor id="400652" joined="2010-09-14"/>
+    <cosponsor id="400367" joined="2010-09-14"/>
+    <cosponsor id="400381" joined="2010-09-14"/>
+    <cosponsor id="400404" joined="2010-09-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-09-14">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2010-11-18">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+    <action datetime="2010-11-18">
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED14" subcommittee="Early Childhood, Elementary, and Secondary Education" name="House Education and Labor"/>
+    <committee activity="Referral" code="HSED10" subcommittee="Workforce Protections" name="House Education and Labor"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3768"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Intergovernmental relations"/>
+    <term name="State and local finance"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Texas"/>
+  </subjects>
+  <amendments/>
+  <summary>9/14/2010--Introduced.
+Repeals the requirement that the Secretary of Education deny Texas and its local educational agencies funds from the Education Jobs Fund until the state assures the Secretary that: (1) funds used to support elementary and secondary education shall be distributed based on LEAs' relative shares of school improvement funds for the most recent fiscal year for which data are available; (2) such funds will not be used to supplant state formula funding that is distributed like school improvement funds; and (3) state funding for elementary and secondary education, as a percentage of the state's total revenue, will not be reduced through FY2013.</summary>
+</bill>

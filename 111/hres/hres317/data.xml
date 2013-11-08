@@ -1,0 +1,73 @@
+<bill session="111" type="hr" number="317" updated="2013-07-19T22:58:43-04:00">
+  <state datetime="2009-09-15T17:44:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2009-09-15T17:44:00-04:00"/>
+  </status>
+  <introduced datetime="2009-04-01"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the region from Manhattan, Kansas, to Columbia, Missouri, as the Kansas City Animal Health Corridor, and for other purposes.</title>
+  </titles>
+  <sponsor id="400282"/>
+  <cosponsors>
+    <cosponsor id="400639" joined="2009-04-01"/>
+    <cosponsor id="400158" joined="2009-04-01"/>
+    <cosponsor id="412284" joined="2009-04-01"/>
+    <cosponsor id="412292" joined="2009-05-13"/>
+    <cosponsor id="400284" joined="2009-04-01"/>
+    <cosponsor id="400377" joined="2009-04-01"/>
+    <cosponsor id="400405" joined="2009-06-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-04-01">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2009-04-28">
+      <text>Referred to the Subcommittee on Livestock, Dairy, and Poultry.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="2009-04-28">
+      <text>Referred to the Subcommittee on Horticulture and Organic Agriculture.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="2009-09-15T13:40:00-04:00">
+      <text>Mr. Holden moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2009-09-15T13:40:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9509-9513, H9534-9535" label="consideration"/>
+    </action>
+    <action datetime="2009-09-15T13:40:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 317.</text>
+    </action>
+    <action datetime="2009-09-15T14:08:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Dingell objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2009-09-15T17:44:00-04:00" how="roll" result="pass" roll="700" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 312 - 108, 1 Present (Roll no. 700).</text>
+      <reference ref="CR H9509-9510" label="text"/>
+    </vote>
+    <action datetime="2009-09-15T17:44:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG29" subcommittee="Livestock, Dairy, and Poultry" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG03" subcommittee="Horticulture and Organic Agriculture" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="sr" number="174"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Kansas"/>
+    <term name="Livestock"/>
+    <term name="Medical research"/>
+    <term name="Missouri"/>
+    <term name="Nutrition and diet"/>
+    <term name="Veterinary medicine and animal diseases"/>
+  </subjects>
+  <amendments/>
+  <summary>9/15/2009--Passed House without amendment.
+Recognizes: (1) the region from Manhattan, Kansas, to Columbia, Missouri, including the metropolitan Kansas City area and St. Joseph, Missouri, as the Kansas City Animal Health Corridor; and (2) the Kansas City Animal Health Corridor as the national center of the animal health industry.</summary>
+</bill>

@@ -1,0 +1,66 @@
+<bill session="111" type="hc" number="289" updated="2013-07-20T00:15:29-04:00">
+  <state datetime="2010-07-12">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2010-07-12"/>
+  </status>
+  <introduced datetime="2010-06-24"/>
+  <titles>
+    <title as="introduced" type="official">Directing the Clerk of the House of Representatives to make a technical correction in the enrollment of H.R. 3360.</title>
+  </titles>
+  <sponsor id="400090"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-06-24">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2010-06-24">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2010-06-24">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2010-06-25">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-06-30T19:23:00-04:00">
+      <text>Mr. Cummings moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2010-06-30T19:24:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5267" label="consideration"/>
+    </action>
+    <action datetime="2010-06-30T19:24:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 289.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-06-30T19:26:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H5267" label="text"/>
+    </vote>
+    <action datetime="2010-06-30T19:26:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2010-07-12" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S5750-5751" label="consideration"/>
+    </vote>
+    <action datetime="2010-07-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="3360"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Marine and inland water transportation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/12/2010--Passed Senate without amendment.
+Directs the Clerk of the House of Representatives to make a technical correction in the enrollment of H.R. 3360, the Cruise Vessel Security and Safety Act of 2009. Replaces the second mention of "Coast Guard and Maritime Transportation Act of 2004" with "Coast Guard and Maritime Transportation Act of 2006" in the requirement that the Secretary of the department in which the Coast Guard is operating combine into a single annual report certain mandatory annual reports under both Acts.</summary>
+</bill>

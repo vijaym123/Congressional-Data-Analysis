@@ -1,0 +1,39 @@
+<bill session="113" type="h" number="2665" updated="2013-11-02T06:41:26-04:00">
+  <state datetime="2013-07-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-11"/>
+  </status>
+  <introduced datetime="2013-07-11"/>
+  <titles>
+    <title type="official" as="introduced">To ensure secure gun storage and gun safety devices.</title>
+  </titles>
+  <sponsor id="400199"/>
+  <cosponsors>
+    <cosponsor id="400093" joined="2013-08-01"/>
+    <cosponsor id="412595" joined="2013-07-18"/>
+    <cosponsor id="400333" joined="2013-07-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-11" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="65"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Firearms and explosives"/>
+    <term name="Licensing and registrations"/>
+    <term name="Product safety and quality"/>
+  </subjects>
+  <amendments/>
+</bill>

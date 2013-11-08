@@ -1,0 +1,81 @@
+<bill session="111" type="h" number="940" updated="2013-07-19T23:20:21-04:00">
+  <state datetime="2009-09-15T14:29:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-09-15T14:29:00-04:00"/>
+  </status>
+  <introduced datetime="2009-02-10"/>
+  <titles>
+    <title as="introduced" type="official">To provide for the conveyance of National Forest System land in the State of Louisiana.</title>
+  </titles>
+  <sponsor id="400006"/>
+  <cosponsors>
+    <cosponsor id="400636" joined="2009-07-28"/>
+    <cosponsor id="412268" joined="2009-07-28"/>
+    <cosponsor id="412269" joined="2009-07-28"/>
+    <cosponsor id="412275" joined="2009-07-28"/>
+    <cosponsor id="400635" joined="2009-07-28"/>
+    <cosponsor id="412261" joined="2009-07-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-10">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2009-04-23">
+      <text>Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="2009-07-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-07-29">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Agriculture"/>
+    </calendar>
+    <action datetime="2009-07-29">
+      <text>Subcommittee on Department Operations, Oversight, Nutrition and Forestry Discharged.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="2009-09-10T14:12:00-04:00">
+      <text>Reported by the Committee on Agriculture. H. Rept. 111-250.</text>
+    </action>
+    <calendar datetime="2009-09-10T14:13:00-04:00" calendar="Union" number="138">
+      <text>Placed on the Union Calendar, Calendar No. 138.</text>
+    </calendar>
+    <action datetime="2009-09-15T14:26:00-04:00">
+      <text>Mr. Holden moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-09-15T14:26:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9516-9517" label="consideration"/>
+    </action>
+    <action datetime="2009-09-15T14:26:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 940.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-09-15T14:29:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H9516" label="text"/>
+    </vote>
+    <action datetime="2009-09-15T14:29:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-09-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSAG22" subcommittee="Department Operations, Oversight, Nutrition and Forestry" name="House Agriculture"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Land transfers"/>
+    <term name="Louisiana"/>
+  </subjects>
+  <amendments/>
+  <summary>9/15/2009--Passed House without amendment.
+Provides for the sale of specified federal land in Winn Parish, Louisiana, with a right of first refusal to Collins Camp Properties for the Collins Campsites and a specified parcel. Requires such land sales to be for cash consideration equal to the market value of the land, to be determined by an appraisal approved by the Secretary of Agriculture. Permits the market value to be determined by competitive sale if sold by means other than that provided for above. Requires the Secretary, in any disposal of lands authorized by this Act, to meet disclosure requirements for hazardous substances, but shall not otherwise be required to remediate or abate those substances. Requires sale proceeds to be used for the acquisition of lands and interests in the Kisatchie National Forest in Louisiana. Requires Collins Camp Properties to pay at closing the costs of appraisal and any administrative and environmental analyses required by law or regulation. Requires an offer by Collins Camp Properties to be accompanied by statements from holders of Forest Service special use authorizations who agree to relinquish their authorizations upon a sale to Collins Camp Properties.</summary>
+</bill>

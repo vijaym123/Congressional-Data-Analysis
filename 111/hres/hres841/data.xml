@@ -1,0 +1,108 @@
+<bill session="111" type="hr" number="841" updated="2013-07-19T23:03:20-04:00">
+  <state datetime="2009-11-17T15:05:00-05:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2009-11-17T15:05:00-05:00"/>
+  </status>
+  <introduced datetime="2009-10-15"/>
+  <titles>
+    <title as="introduced" type="official">Expressing support for designation of November 29, 2009, as "Drive Safer Sunday".</title>
+  </titles>
+  <sponsor id="400147"/>
+  <cosponsors>
+    <cosponsor id="400027" joined="2009-10-15"/>
+    <cosponsor id="400031" joined="2009-10-15"/>
+    <cosponsor id="400032" joined="2009-11-02"/>
+    <cosponsor id="400040" joined="2009-10-29"/>
+    <cosponsor id="412268" joined="2009-10-15"/>
+    <cosponsor id="400070" joined="2009-10-15"/>
+    <cosponsor id="400077" joined="2009-10-29"/>
+    <cosponsor id="400633" joined="2009-10-29"/>
+    <cosponsor id="400648" joined="2009-10-15"/>
+    <cosponsor id="400116" joined="2009-10-29"/>
+    <cosponsor id="400119" joined="2009-10-15"/>
+    <cosponsor id="400183" joined="2009-10-29"/>
+    <cosponsor id="412290" joined="2009-10-29"/>
+    <cosponsor id="400247" joined="2009-10-29"/>
+    <cosponsor id="400276" joined="2009-10-15"/>
+    <cosponsor id="400283" joined="2009-10-21"/>
+    <cosponsor id="412302" joined="2009-11-02"/>
+    <cosponsor id="400321" joined="2009-10-21"/>
+    <cosponsor id="400626" joined="2009-10-29"/>
+    <cosponsor id="412253" joined="2009-10-29"/>
+    <cosponsor id="400341" joined="2009-10-29"/>
+    <cosponsor id="412314" joined="2009-10-28"/>
+    <cosponsor id="409888" joined="2009-10-29"/>
+    <cosponsor id="400414" joined="2009-10-15"/>
+    <cosponsor id="400431" joined="2009-10-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-10-15">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2009-10-16">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-11-05">
+      <text>Subcommittee on Highways and Transit Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-11-05">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-11-05">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2009-11-16T15:47:00-05:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 111-338.</text>
+    </action>
+    <calendar datetime="2009-11-16T15:47:00-05:00" calendar="House" number="131">
+      <text>Placed on the House Calendar, Calendar No. 131.</text>
+    </calendar>
+    <action datetime="2009-11-17T12:51:00-05:00">
+      <text>Mr. Bishop (NY) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2009-11-17T12:52:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H13018-13020" label="consideration"/>
+    </action>
+    <action datetime="2009-11-17T12:52:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 841.</text>
+    </action>
+    <action datetime="2009-11-17T13:08:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2009-11-17T14:58:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H13033-13034" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2009-11-17T15:05:00-05:00" how="roll" result="pass" roll="893" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 413 - 1 (Roll no. 893).</text>
+      <reference ref="CR H13018" label="text"/>
+    </vote>
+    <action datetime="2009-11-17T15:05:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="sr" number="335"/>
+    <bill relation="unknown" session="111" type="sr" number="335"/>
+    <bill relation="unknown" session="111" type="sr" number="630"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Motor carriers"/>
+    <term name="Motor vehicles"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>11/17/2009--Passed House without amendment.
+Encourages educational institutions, national trucking firms, clergy, law enforcement, and the general public to promote motor vehicle driving safety. Supports the designation of Drive Safer Sunday.</summary>
+</bill>

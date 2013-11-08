@@ -1,0 +1,52 @@
+<bill session="112" type="h" number="5714" updated="2013-07-20T01:59:22-04:00">
+  <state datetime="2012-05-10">REFERRED</state>
+  <status>
+    <introduced datetime="2012-05-10"/>
+  </status>
+  <introduced datetime="2012-05-10"/>
+  <titles>
+    <title as="introduced" type="short">Safe, Accountable, Fair, and Efficient Banking Act of 2012</title>
+    <title as="introduced" type="short">SAFE Banking Act of 2012</title>
+    <title as="introduced" type="official">To provide for a safe, accountable, fair, and efficient banking system, and for other purposes.</title>
+  </titles>
+  <sponsor id="400280"/>
+  <cosponsors>
+    <cosponsor id="400063" joined="2012-06-01"/>
+    <cosponsor id="412215" joined="2012-05-10"/>
+    <cosponsor id="400371" joined="2012-06-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-05-10">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2012-10-01">
+      <text>Referred to the Subcommittee on Insurance, Housing and Community Opportunity.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2012-10-01">
+      <text>Referred to the Subcommittee on Financial Institutions and Consumer Credit.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA04" subcommittee="Insurance, Housing and Community Opportunity" name="House Financial Services"/>
+    <committee activity="Referral" code="HSBA15" subcommittee="Financial Institutions and Consumer Credit" name="House Financial Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="3048"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Department of the Treasury"/>
+    <term name="Federal Deposit Insurance Corporation (FDIC)"/>
+    <term name="Federal Reserve System"/>
+    <term name="Foreign and international banking"/>
+  </subjects>
+  <amendments/>
+  <summary>5/10/2012--Introduced.
+Safe, Accountable, Fair, and Efficient Banking Act of 2012 or SAFE Banking Act of 2012 - Amends the Bank Holding Company Act of 1956 to prohibit a bank holding company from holding more than 10% of the total amount of deposits of insured depository institutions in the United States. Directs the Board of Governors of the Federal Reserve System (Board) to require any bank holding company having a deposit concentration in violation of specified interstate banking requirements to sell or transfer liabilities to unaffiliated firms to bring the company into compliance with them. Revises the formula in the definition of "liabilities" to replace: (1) the total risk-weighted assets of the financial company (or of the U.S. operations of a foreign-based financial company) as adjusted to reflect exposures that are deducted from regulatory capital; with (2) total assets of the financial company (or of the U.S. operations of a foreign-based financial company), including all off-balance-sheet assets, including financings of assets for which the issuer has more than minimal economic or reputational risks or rewards. Prohibits a financial company from holding more than 10% of the total consolidated liabilities of all financial companies. Prescribes leverage ratio requirements for operating subsidiaries of bank holding companies and financial companies to prohibit either a bank holding company with total consolidated assets of $50 billion or more, or a Board-supervised nonbank financial company, from maintaining tangible common equity (qualifying common stockholders' equity plus retained earnings) in an amount less than 10% of average total consolidated assets (which include all off-balance-sheet assets, including financings of assets for which the issuer has more than minimal economic or reputational risks or rewards). Authorizes federal regulators to grant an emergency temporary exemption from such ratio requirements if necessary to prevent an imminent threat to the financial stability of the United States. Directs the Board to: (1) establish a leverage ratio for all operating non-insured depository institution subsidiaries of bank holding companies with $50 billion or more in total consolidated assets and nonbank financial companies; and (2) require a noncompliant such company to raise capital, sell, or otherwise transfer assets or off-balance sheet items to unaffiliated firms (prompt corrective action). Prohibits a bank holding company from possessing nondeposit liabilities exceeding 2% of the annual gross domestic product (GDP) of the United States. Authorizes the Board to: (1) set a separate liability limit for certain bank holding companies primarily engaged in the business of insurance; and (2) exclude specified deposits from its calculation of nondeposit liabilities if necessary to ensure consistent and equitable treatment of institutions with international operations. Prohibits a nonbank financial company supervised by the Board from possessing nondeposit liabilities exceeding 3% of the U.S. annual GDP.</summary>
+</bill>

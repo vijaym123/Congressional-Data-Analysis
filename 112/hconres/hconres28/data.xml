@@ -1,0 +1,76 @@
+<bill session="112" type="hc" number="28" updated="2013-07-20T02:09:14-04:00">
+  <state datetime="2011-03-17T15:29:00-04:00">FAIL:ORIGINATING:HOUSE</state>
+  <status>
+    <unknown datetime="2011-03-17T15:29:00-04:00"/>
+  </status>
+  <introduced datetime="2011-03-09"/>
+  <titles>
+    <title as="introduced" type="official">Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove the United States Armed Forces from Afghanistan.</title>
+  </titles>
+  <sponsor id="400227"/>
+  <cosponsors>
+    <cosponsor id="400063" joined="2011-03-15"/>
+    <cosponsor id="400080" joined="2011-03-09"/>
+    <cosponsor id="412215" joined="2011-03-09"/>
+    <cosponsor id="400133" joined="2011-03-09"/>
+    <cosponsor id="400185" joined="2011-03-09"/>
+    <cosponsor id="400209" joined="2011-03-09"/>
+    <cosponsor id="400237" joined="2011-03-09"/>
+    <cosponsor id="400289" joined="2011-03-16"/>
+    <cosponsor id="400311" joined="2011-03-09"/>
+    <cosponsor id="412259" joined="2011-03-09"/>
+    <cosponsor id="400387" joined="2011-03-09"/>
+    <cosponsor id="400436" joined="2011-03-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2011-03-09">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H1643"/>
+    </action>
+    <action state="REFERRED" datetime="2011-03-09">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2011-03-17T10:58:00-04:00">
+      <text>Considered pursuant to a previous order.</text>
+      <reference ref="CR H1920-1953" label="consideration"/>
+      <reference ref="CR H1920" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2011-03-17T10:58:00-04:00">
+      <text>DEBATE - Pursuant to a previous special order, the House proceeded with 2 hours of debate on H. Con. Res. 28.</text>
+    </action>
+    <action datetime="2011-03-17T13:24:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H1953" label="consideration"/>
+    </action>
+    <action datetime="2011-03-17T13:25:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.Con.Res. 28, the Chair put the question on adoption of the concurrent resolution and by voice vote announced the ayes had prevailed. Ms. Ros-Lehtinen demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption of the concurrent resolution until later in the legislative day.</text>
+    </action>
+    <action datetime="2011-03-17T15:23:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H1967-1968" label="consideration"/>
+    </action>
+    <vote state="FAIL:ORIGINATING:HOUSE" datetime="2011-03-17T15:29:00-04:00" how="roll" result="fail" roll="193" type="vote" where="h">
+      <text>On agreeing to the resolution Failed by the Yeas and Nays: 93 - 321, 1 Present (Roll no. 193).</text>
+    </vote>
+    <action datetime="2011-03-17T15:29:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="hj" number="49"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Afghanistan"/>
+    <term name="Asia"/>
+    <term name="Congressional oversight"/>
+    <term name="Military operations and strategy"/>
+    <term name="War and emergency powers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/9/2011--Introduced.
+Directs the President, pursuant to the War Powers Resolution, to remove the U.S. Armed Forces from Afghanistan: (1) by no later than 30 days after this resolution is adopted; or (2) if the President determines that it is not safe to remove them by such date, by no later than December 31, 2011, or such earlier date that the President determines that they can be safely removed.</summary>
+</bill>

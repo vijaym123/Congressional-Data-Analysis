@@ -1,0 +1,89 @@
+<bill session="111" type="h" number="729" updated="2013-07-19T23:18:26-04:00">
+  <state datetime="2009-06-15T19:14:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-06-15T19:14:00-04:00"/>
+  </status>
+  <introduced datetime="2009-01-27"/>
+  <titles>
+    <title as="introduced" type="short">Phylicia's Law</title>
+    <title as="passed house" type="short">Phylicia's Law</title>
+    <title as="introduced" type="official">To help keep students safe on school-run, overnight, off-premises field trips.</title>
+  </titles>
+  <sponsor id="400346"/>
+  <cosponsors>
+    <cosponsor id="412224" joined="2009-06-11"/>
+    <cosponsor id="400030" joined="2009-06-11"/>
+    <cosponsor id="412266" joined="2009-06-11"/>
+    <cosponsor id="400047" joined="2009-06-11"/>
+    <cosponsor id="412234" joined="2009-06-11"/>
+    <cosponsor id="400442" joined="2009-03-25"/>
+    <cosponsor id="400114" joined="2009-06-11"/>
+    <cosponsor id="400129" joined="2009-06-11"/>
+    <cosponsor id="400184" joined="2009-06-11"/>
+    <cosponsor id="400199" joined="2009-03-25"/>
+    <cosponsor id="400210" joined="2009-06-11"/>
+    <cosponsor id="412297" joined="2009-06-11"/>
+    <cosponsor id="400257" joined="2009-06-11"/>
+    <cosponsor id="400271" joined="2009-03-30"/>
+    <cosponsor id="400280" joined="2009-06-11"/>
+    <cosponsor id="400282" joined="2009-06-11"/>
+    <cosponsor id="412194" joined="2009-03-25"/>
+    <cosponsor id="400286" joined="2009-06-11"/>
+    <cosponsor id="400308" joined="2009-03-30"/>
+    <cosponsor id="400309" joined="2009-06-11"/>
+    <cosponsor id="400312" joined="2009-03-30"/>
+    <cosponsor id="400352" joined="2009-06-11"/>
+    <cosponsor id="400364" joined="2009-06-11"/>
+    <cosponsor id="400371" joined="2009-03-30"/>
+    <cosponsor id="412186" joined="2009-03-30"/>
+    <cosponsor id="400386" joined="2009-03-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-01-27">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2009-06-15T15:50:00-04:00">
+      <text>Mr. Sablan moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-06-15T15:50:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6763-6766" label="consideration"/>
+    </action>
+    <action datetime="2009-06-15T15:50:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 729.</text>
+    </action>
+    <action datetime="2009-06-15T16:13:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2009-06-15T19:07:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6780-6781" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-06-15T19:14:00-04:00" how="roll" result="pass" roll="338" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 319 - 60 (Roll no. 338).</text>
+      <reference ref="CR H6763" label="text"/>
+    </vote>
+    <action datetime="2009-06-15T19:14:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-06-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Child safety and welfare"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="School administration"/>
+  </subjects>
+  <amendments/>
+  <summary>6/15/2009--Passed House amended.
+Phylicia's Law - Requires each local educational agency (LEA) that receives funds under the Safe and Drug-Free Schools and Communities program to develop and make publicly available a written school safety policy for off-premises, overnight field trips. Encourages the Secretary of Education to provide guidance to such LEAs by taking the steps necessary, such as hosting a conference of interested parties, to further the development of a model school safety policy for such trips.</summary>
+</bill>

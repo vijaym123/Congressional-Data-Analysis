@@ -1,0 +1,96 @@
+<bill session="113" type="h" number="271" updated="2013-11-02T06:21:15-04:00">
+  <state datetime="2013-05-22T19:33:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-05-22T19:33:00-04:00"/>
+  </status>
+  <introduced datetime="2013-01-15"/>
+  <titles>
+    <title type="short" as="introduced">Resolving Environmental and Grid Reliability Conflicts Act of 2013</title>
+    <title type="short" as="reported to house">Resolving Environmental and Grid Reliability Conflicts Act of 2013</title>
+    <title type="official" as="introduced">To clarify that compliance with an emergency order under section 202(c) of the Federal Power Act may not be considered a violation of any Federal, State, or local environmental law or regulation, and for other purposes.</title>
+  </titles>
+  <sponsor id="412302"/>
+  <cosponsors>
+    <cosponsor id="400114" joined="2013-01-15"/>
+    <cosponsor id="412457" joined="2013-05-14"/>
+    <cosponsor id="400160" joined="2013-01-15"/>
+    <cosponsor id="412421" joined="2013-01-15"/>
+    <cosponsor id="400400" joined="2013-01-15"/>
+    <cosponsor id="412548" joined="2013-05-06"/>
+    <cosponsor id="412213" joined="2013-01-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-15" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-01-18">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2013-05-14">
+      <text>Subcommittee on Energy and Power Discharged.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2013-05-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2013-05-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar datetime="2013-05-15" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2013-05-20T16:38:00-04:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 113-86.</text>
+    </action>
+    <calendar datetime="2013-05-20T16:38:00-04:00" calendar="Union" number="61">
+      <text>Placed on the Union Calendar, Calendar No. 61.</text>
+    </calendar>
+    <action datetime="2013-05-22T19:20:00-04:00">
+      <text>Mr. Olson moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-05-22T19:20:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2898-2899" label="consideration"/>
+    </action>
+    <action datetime="2013-05-22T19:20:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 271.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2013-05-22T19:33:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2898" label="text"/>
+    </vote>
+    <action datetime="2013-05-22T19:33:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-05-23">
+      <text>Received in the Senate, read the first time.</text>
+    </action>
+    <calendar datetime="2013-06-03" calendar="Senate Legislative" under="General Orders" number="82">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 82.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Civil actions and liability"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Energy storage, supplies, demand"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Federal Energy Regulatory Commission (FERC)"/>
+    <term name="Pollution liability"/>
+    <term name="Public utilities and utility rates"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2013--Reported to House without amendment.
+Resolving Environmental and Grid Reliability Conflicts Act of 2013 - Amends the Federal Power Act to require the Federal Energy Regulatory Commission (FERC) to ensure that any emergency order issued under such Act for the interconnection of facilities for the generation, transmission, and sale of electric energy, that may result in a conflict with a requirement of any environmental law, shall: (1) require generation, delivery, interchange, or transmission of electric energy only during hours necessary to meet the emergency and serve the public interest; and (2) to the maximum extent practical, be consistent with any other applicable environmental law and minimize any adverse environmental impacts. Provides that any omission or action taken by a party to comply with such an order that results in noncompliance with any environmental law shall not: (1) be considered a violation of such law; or (2) subject such party to any requirement of, or any civil or criminal liability under, such law. Requires such an order that may result in a conflict with environmental law to expire within 90 days after it is issued. Authorizes FERC to renew or reissue such order for subsequent periods, not to exceed 90 days each, as necessary to meet the emergency and serve the public interest. Requires FERC, in renewing or reissuing such order, to: (1) consult with the primary federal agency with expertise in the environmental interest protected by such law and include in any such order conditions determined to be necessary to minimize any adverse environmental impacts, and (2) make such conditions available to the public. Authorizes FERC to exclude such a condition from the order if such condition would prevent the order from adequately addressing the emergency. Authorizes, during an emergency, a municipality engaged in the transmission or sale of electric energy and not otherwise subject to FERC's jurisdiction to make temporary connections with public utilities subject to FERC's jurisdiction and construct temporary facilities for the transmission of electric energy in interstate commerce as may be necessary or appropriate to meet such emergency.</summary>
+</bill>

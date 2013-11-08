@@ -1,0 +1,89 @@
+<bill session="111" type="hr" number="109" updated="2013-07-19T22:56:49-04:00">
+  <state datetime="2009-04-29T12:06:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2009-04-29T12:06:00-04:00"/>
+  </status>
+  <introduced datetime="2009-02-03"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the mission and goals of 2009 National Crime Victims' Rights week to increase public awareness of the rights, needs, and concerns of victims and survivors of crime in the United States, and to commemorate the 25th anniversary of the enactment of the Victims of Crime Act of 1984.</title>
+  </titles>
+  <sponsor id="400618"/>
+  <cosponsors>
+    <cosponsor id="400009" joined="2009-03-04"/>
+    <cosponsor id="400041" joined="2009-04-21"/>
+    <cosponsor id="400047" joined="2009-03-26"/>
+    <cosponsor id="400065" joined="2009-04-23"/>
+    <cosponsor id="412258" joined="2009-03-16"/>
+    <cosponsor id="400162" joined="2009-02-13"/>
+    <cosponsor id="400170" joined="2009-04-21"/>
+    <cosponsor id="400183" joined="2009-02-23"/>
+    <cosponsor id="400232" joined="2009-03-16"/>
+    <cosponsor id="400656" joined="2009-02-03"/>
+    <cosponsor id="400663" joined="2009-02-03"/>
+    <cosponsor id="400260" joined="2009-03-03"/>
+    <cosponsor id="400263" joined="2009-03-12"/>
+    <cosponsor id="400264" joined="2009-03-04"/>
+    <cosponsor id="412300" joined="2009-04-21"/>
+    <cosponsor id="400282" joined="2009-02-26"/>
+    <cosponsor id="400283" joined="2009-02-03"/>
+    <cosponsor id="412306" joined="2009-03-03"/>
+    <cosponsor id="400652" joined="2009-02-03"/>
+    <cosponsor id="400660" joined="2009-02-26"/>
+    <cosponsor id="400348" joined="2009-02-13"/>
+    <cosponsor id="400349" joined="2009-03-03"/>
+    <cosponsor id="412232" joined="2009-02-10"/>
+    <cosponsor id="400368" joined="2009-02-10"/>
+    <cosponsor id="400380" joined="2009-02-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-03">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2009-03-16">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2009-04-28T14:27:00-04:00">
+      <text>Mr. Scott (VA) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2009-04-28T14:27:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4867-4871" label="consideration"/>
+    </action>
+    <action datetime="2009-04-28T14:27:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 109.</text>
+    </action>
+    <action datetime="2009-04-28T14:45:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Scott (VA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2009-04-29T11:59:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4928-4929" label="considertion"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2009-04-29T12:06:00-04:00" how="roll" result="pass" roll="218" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by recorded vote (2/3 required): 422 - 0 (Roll no. 218).</text>
+      <reference ref="CR 4/28/2009 H4867" label="text"/>
+    </vote>
+    <action datetime="2009-04-29T12:06:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Citizenship, Refugees, Border Security, and International Law" name="House Judiciary"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hr" number="1104"/>
+    <bill relation="identical" session="111" type="sr" number="93"/>
+    <bill relation="unknown" session="111" type="sr" number="486"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Crime victims"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/2009--Passed House without amendment.
+Expresses support for the mission and goals of the 2009 National Crime Victims' Rights Week. Recognizes the 25th anniversary of the enactment of the Victims of Crime Act of 1984.</summary>
+</bill>

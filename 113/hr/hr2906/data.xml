@@ -1,0 +1,45 @@
+<bill session="113" type="h" number="2906" updated="2013-11-02T06:43:29-04:00">
+  <state datetime="2013-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-01"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="short" as="introduced">Fairness to Veterans for Infrastructure Investment Act of 2013</title>
+    <title type="official" as="introduced">To amend MAP-21 to improve contracting opportunities for veteran-owned small business concerns, and for other purposes.</title>
+  </titles>
+  <sponsor id="400646"/>
+  <cosponsors>
+    <cosponsor id="412537" joined="2013-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-01" state="REFERRED">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Referred to House Small Business</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+    <committee code="HSSM" name="House Small Business" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Roads and highways"/>
+    <term name="Small business"/>
+    <term name="Transportation programs funding"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+</bill>

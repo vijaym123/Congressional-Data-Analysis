@@ -1,0 +1,119 @@
+<bill session="113" type="h" number="41" updated="2013-11-02T06:19:20-04:00">
+  <state datetime="2013-01-06">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2013-01-06"/>
+  </status>
+  <introduced datetime="2013-01-03"/>
+  <titles>
+    <title type="popular">Hurricane Sandy relief bill</title>
+    <title type="official" as="introduced">To temporarily increase the borrowing authority of the Federal Emergency Management Agency for carrying out the National Flood Insurance Program.</title>
+  </titles>
+  <sponsor id="400145"/>
+  <cosponsors>
+    <cosponsor id="400008" joined="2013-01-03"/>
+    <cosponsor id="400031" joined="2013-01-03"/>
+    <cosponsor id="412221" joined="2013-01-04"/>
+    <cosponsor id="412563" joined="2013-01-04"/>
+    <cosponsor id="412193" joined="2013-01-04"/>
+    <cosponsor id="400087" joined="2013-01-03"/>
+    <cosponsor id="400103" joined="2013-01-04"/>
+    <cosponsor id="400122" joined="2013-01-04"/>
+    <cosponsor id="412524" joined="2013-01-04"/>
+    <cosponsor id="400142" joined="2013-01-03"/>
+    <cosponsor id="412453" joined="2013-01-04"/>
+    <cosponsor id="412451" joined="2013-01-03"/>
+    <cosponsor id="412454" joined="2013-01-03"/>
+    <cosponsor id="400641" joined="2013-01-04"/>
+    <cosponsor id="412282" joined="2013-01-04"/>
+    <cosponsor id="400184" joined="2013-01-04"/>
+    <cosponsor id="400195" joined="2013-01-04"/>
+    <cosponsor id="412561" joined="2013-01-04"/>
+    <cosponsor id="400219" joined="2013-01-03"/>
+    <cosponsor id="412290" joined="2013-01-03"/>
+    <cosponsor id="400233" joined="2013-01-04"/>
+    <cosponsor id="400244" joined="2013-01-03"/>
+    <cosponsor id="400246" joined="2013-01-04"/>
+    <cosponsor id="412297" joined="2013-01-04"/>
+    <cosponsor id="400251" joined="2013-01-03"/>
+    <cosponsor id="412562" joined="2013-01-03"/>
+    <cosponsor id="400257" joined="2013-01-03"/>
+    <cosponsor id="400271" joined="2013-01-03"/>
+    <cosponsor id="412560" joined="2013-01-03"/>
+    <cosponsor id="400289" joined="2013-01-03"/>
+    <cosponsor id="412383" joined="2013-01-04"/>
+    <cosponsor id="400308" joined="2013-01-04"/>
+    <cosponsor id="400309" joined="2013-01-03"/>
+    <cosponsor id="412506" joined="2013-01-04"/>
+    <cosponsor id="400333" joined="2013-01-04"/>
+    <cosponsor id="412393" joined="2013-01-04"/>
+    <cosponsor id="412449" joined="2013-01-03"/>
+    <cosponsor id="400366" joined="2013-01-04"/>
+    <cosponsor id="412186" joined="2013-01-04"/>
+    <cosponsor id="400378" joined="2013-01-04"/>
+    <cosponsor id="400380" joined="2013-01-03"/>
+    <cosponsor id="412319" joined="2013-01-03"/>
+    <cosponsor id="400416" joined="2013-01-04"/>
+    <cosponsor id="400422" joined="2013-01-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-03" state="REFERRED">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-01-03">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2013-01-03">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2013-01-04T10:06:00-05:00">
+      <text>Mr. Garrett moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-01-04T10:06:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H39-48" label="consideration"/>
+    </action>
+    <action datetime="2013-01-04T10:06:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 41.</text>
+    </action>
+    <vote how="roll" type="vote" roll="7" datetime="2013-01-04T11:26:00-05:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 354 - 67 (Roll no. 7).</text>
+      <reference ref="CR H39-40" label="text"/>
+    </vote>
+    <action datetime="2013-01-04T11:26:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="2013-01-04" where="s" result="pass" state="PASSED:BILL">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+      <reference ref="CR S23-24" label="consideration"/>
+    </vote>
+    <action datetime="2013-01-04">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2013-01-04">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2013-01-06">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-1" type="public" datetime="2013-01-06" state="ENACTED:SIGNED">
+      <text>Became Public Law No: 113-1.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="HSBU" name="House Budget" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Budget process"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Emergency Management Agency (FEMA)"/>
+    <term name="Floods and storm protection"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2013--Public Law.
+Amends the National Flood Insurance Act of 1968 to increase from $20.725 billion to $30.425 billion the total amount of notes and obligations (federal borrowing authority) which may be issued by the Administrator of the Federal Emergency Management Agency (FEMA), with the President's approval, for the National Flood Insurance program. Designates such increase as an emergency requirement under the the Statutory Pay-As-You-Go Act of 2010.</summary>
+</bill>

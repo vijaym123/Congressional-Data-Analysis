@@ -1,0 +1,103 @@
+<bill session="111" type="h" number="5591" updated="2013-07-20T00:03:02-04:00">
+  <state datetime="2010-12-22">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2010-12-22"/>
+  </status>
+  <introduced datetime="2010-06-24"/>
+  <titles>
+    <title as="introduced" type="official">To designate the facility of the Federal Aviation Administration located at Spokane International Airport in Spokane, Washington, as the "Ray Daves Air Traffic Control Tower".</title>
+    <title as="amended by house" type="official">To designate the airport traffic control tower located at Spokane International Airport in Spokane, Washington, as the "Ray Daves Airport Traffic Control Tower".</title>
+  </titles>
+  <sponsor id="400659"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-06-24">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2010-06-25">
+      <text>Referred to the Subcommittee on Aviation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-07-29">
+      <text>Subcommittee on Aviation Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-07-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-07-29">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2010-09-20T14:56:00-04:00">
+      <text>Reported (Amended) by the Committee on Transportation. H. Rept. 111-611.</text>
+    </action>
+    <calendar datetime="2010-09-20T14:56:00-04:00" calendar="House" number="238">
+      <text>Placed on the House Calendar, Calendar No. 238.</text>
+    </calendar>
+    <action datetime="2010-09-28T19:08:00-04:00">
+      <text>Mr. Schauer moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-09-28T19:08:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7093-7094" label="consideration"/>
+    </action>
+    <action datetime="2010-09-28T19:08:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5591.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-09-28T19:10:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7093" label="text"/>
+    </vote>
+    <action datetime="2010-09-28T19:10:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-09-28T19:10:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-09-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <action datetime="2010-12-09">
+      <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text>
+      <reference ref="CR S8690" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2010-12-09" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <topresident datetime="2010-12-09">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2010-12-10">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2010-12-17">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2010-12-22">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2010-12-22" type="public" number="111-326">
+      <text>Became Public Law No: 111-326.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW05" subcommittee="Aviation" name="House Transportation and Infrastructure"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3938"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Aviation and airports"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Washington State"/>
+  </subjects>
+  <amendments/>
+  <summary>12/22/2010--Public Law.
+Designates the airport traffic control tower located at Spokane International Airport in Spokane, Washington, and any successor airport traffic control tower at that location, as the Ray Daves Airport Traffic Control Tower.</summary>
+</bill>

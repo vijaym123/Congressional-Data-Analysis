@@ -1,0 +1,64 @@
+<bill session="111" type="hr" number="1081" updated="2013-07-19T23:05:26-04:00">
+  <state datetime="2010-03-10T11:30:00-05:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2010-03-10T11:30:00-05:00"/>
+  </status>
+  <introduced datetime="2010-02-22"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals and ideals of National Teen Dating Violence Awareness and Prevention Month.</title>
+  </titles>
+  <sponsor id="400240"/>
+  <cosponsors>
+    <cosponsor id="400047" joined="2010-02-25"/>
+    <cosponsor id="400080" joined="2010-03-09"/>
+    <cosponsor id="412276" joined="2010-03-09"/>
+    <cosponsor id="400215" joined="2010-02-22"/>
+    <cosponsor id="400263" joined="2010-02-22"/>
+    <cosponsor id="400295" joined="2010-03-09"/>
+    <cosponsor id="400350" joined="2010-02-25"/>
+    <cosponsor id="400360" joined="2010-02-22"/>
+    <cosponsor id="400364" joined="2010-03-09"/>
+    <cosponsor id="400623" joined="2010-02-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-02-22">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2010-03-10T11:20:00-05:00">
+      <text>Mr. Cohen moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2010-03-10T11:20:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1232-1234" label="consideration"/>
+    </action>
+    <action datetime="2010-03-10T11:20:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1081.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2010-03-10T11:30:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H1232-1233" label="text"/>
+    </vote>
+    <action datetime="2010-03-10T11:30:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hr" number="102"/>
+    <bill relation="unknown" session="111" type="hr" number="103"/>
+    <bill relation="unknown" session="111" type="sr" number="373"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Crime prevention"/>
+    <term name="Crimes against children"/>
+    <term name="Crimes against women"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/2010--Passed House without amendment.
+Expresses support for the goals and ideals of National Teen Dating Violence Awareness and Prevention Week to raise awareness of teen dating violence in the United States.</summary>
+</bill>

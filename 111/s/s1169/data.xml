@@ -1,0 +1,41 @@
+<bill session="111" type="s" number="1169" updated="2013-07-20T00:34:01-04:00">
+  <state datetime="2009-06-03">REFERRED</state>
+  <status>
+    <introduced datetime="2009-06-03"/>
+  </status>
+  <introduced datetime="2009-06-03"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend title 10, United States Code, to provide for the treatment of autism under TRICARE.</title>
+  </titles>
+  <sponsor id="412223"/>
+  <cosponsors>
+    <cosponsor id="300013" joined="2009-06-03"/>
+    <cosponsor id="400064" joined="2009-06-03"/>
+    <cosponsor id="300025" joined="2009-06-03"/>
+    <cosponsor id="412324" joined="2009-07-07"/>
+    <cosponsor id="400272" joined="2009-07-16"/>
+    <cosponsor id="400357" joined="2009-06-03"/>
+    <cosponsor id="300092" joined="2009-06-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-03">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="h" number="1600"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Child health"/>
+    <term name="Hereditary and development disorders"/>
+    <term name="Military medicine"/>
+    <term name="Neurological disorders"/>
+  </subjects>
+  <amendments/>
+  <summary>6/3/2009--Introduced.
+Revises TRICARE (a Department of Defense [DOD] managed health care program) to authorize treatment of autism spectrum disorders, if a health care professional determines that such treatment is medically necessary.</summary>
+</bill>

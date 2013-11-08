@@ -1,0 +1,41 @@
+<bill session="111" type="hr" number="523" updated="2013-07-19T23:00:30-04:00">
+  <state datetime="2009-06-09">REFERRED</state>
+  <status>
+    <introduced datetime="2009-06-09"/>
+  </status>
+  <introduced datetime="2009-06-09"/>
+  <titles>
+    <title as="introduced" type="official">Congratulating the Lambda Chi Alpha Fraternity on the occasion of its 100th Anniversary.</title>
+  </titles>
+  <sponsor id="412311"/>
+  <cosponsors>
+    <cosponsor id="400046" joined="2009-06-09"/>
+    <cosponsor id="400111" joined="2009-06-09"/>
+    <cosponsor id="400221" joined="2009-06-09"/>
+    <cosponsor id="400311" joined="2009-06-09"/>
+    <cosponsor id="400315" joined="2009-10-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-09">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2009-07-23">
+      <text>Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education, Lifelong Learning, and Competitiveness" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Higher education"/>
+  </subjects>
+  <amendments/>
+  <summary>6/9/2009--Introduced.
+Congratulates the Lambda Chi Alpha Fraternity on the occasion of its 100th Anniversary. Recognizes its members for their work and dedication to making the fraternity an outstanding and honorable association.</summary>
+</bill>

@@ -1,0 +1,72 @@
+<bill session="111" type="h" number="1617" updated="2013-07-19T23:26:21-04:00">
+  <state datetime="2009-03-24T13:53:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-03-24T13:53:00-04:00"/>
+  </status>
+  <introduced datetime="2009-03-19"/>
+  <titles>
+    <title as="introduced" type="short">Department of Homeland Security Component Privacy Officer Act of 2009</title>
+    <title as="passed house" type="short">Department of Homeland Security Component Privacy Officer Act of 2009</title>
+    <title as="introduced" type="official">To amend the Homeland Security Act of 2002 to provide for a privacy official within each component of the Department of Homeland Security, and for other purposes.</title>
+  </titles>
+  <sponsor id="412234"/>
+  <cosponsors>
+    <cosponsor id="400402" joined="2009-03-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-19">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2009-03-23">
+      <text>Referred to the Subcommittee on Management, Investigations, and Oversight.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2009-03-24T12:32:00-04:00">
+      <text>Mr. Carney moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-03-24T12:33:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3761-3763" label="consideration"/>
+    </action>
+    <action datetime="2009-03-24T12:33:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1617.</text>
+    </action>
+    <action datetime="2009-03-24T12:42:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2009-03-24T13:28:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3771-3772" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-03-24T13:53:00-04:00" how="roll" result="pass" roll="147" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 3 (Roll no. 147).</text>
+      <reference ref="CR H3761" label="text"/>
+    </vote>
+    <action datetime="2009-03-24T13:53:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-03-26">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM09" subcommittee="Management, Investigations, and Oversight" name="House Homeland Security"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Coast guard"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Emergency Management Agency (FEMA)"/>
+    <term name="Federal officials"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Homeland security"/>
+    <term name="Right of privacy"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/2009--Passed House without amendment.
+Department of Homeland Security Component Privacy Officer Act of 2009 - Amends the Homeland Security Act of 2002 to direct the Secretary of Homeland Security to designate a full-time privacy official for each of the following Department of Homeland Security (DHS) components: (1) the Transportation Security Administration (TSA); (2) the Bureau of Citizenship and Immigration Services (CIS); (3) Customs and Border Protection (CBP); (4) Immigration and Customs Enforcement (ICE); (5) the Federal Emergency Management Agency (FEMA); (6) the Coast Guard; (7) the Directorate of Science and Technology; (8) the Office of Intelligence and Analysis; and (9) the Directorate for National Protection and Programs. Grants each component's privacy official primary responsibility for implementing the privacy policy for DHS established by DHS's privacy officer. Requires each designated privacy official to report directly to both the component head and DHS's privacy officer. Lists the responsibilities of each component privacy official, including: (1) serving as DHS's privacy officer's main point of contact at the component to implement that officer's policies and directives; (2) advising the component head on privacy considerations when any law, regulation, or guideline is proposed, developed, or implemented; (3) assuring that the use of technologies sustains or enhances privacy protections; (4) identifying privacy issues related to component programs; (5) monitoring the component's compliance with all applicable federal privacy laws and regulations; (6) assisting in drafting and reviewing privacy impact assessments, privacy threshold assessments, and system of records notices; (7) implementing and monitoring privacy training for component employees and contractors in coordination with DHS's privacy officer; and (8) providing DHS's privacy officer with written materials and information regarding the relevant activities of the component, including privacy violations and abuse, that are needed to successfully prepare reports for Congress and on behalf of DHS. Directs each component head to ensure that the component's privacy official: (1) has the information, resources, and access to material and personnel necessary to fulfill his or her responsibilities; (2) is advised of proposed policy changes and the development of new programs, regulations, procedures, or guidelines during the planning stages; and (3) is included in decisionmaking.</summary>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="112" type="h" number="4140" updated="2013-07-20T01:45:54-04:00">
+  <state datetime="2012-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2012-03-05"/>
+  </status>
+  <introduced datetime="2012-03-05"/>
+  <titles>
+    <title as="introduced" type="short">Restore the Promise GI Bill</title>
+    <title as="introduced" type="official">To amend title 38, United States Code, to eliminate the time limitation for use of eligibility and entitlement to educational assistance under the Montgomery GI Bill.</title>
+  </titles>
+  <sponsor id="412194"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2012-03-05">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2012-03-05">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2012-03-05">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2012-03-12">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2012-03-21">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/2012--Introduced.
+Restore the Promise GI Bill - Provides that, if an individual eligible for educational assistance under the Montgomery GI Bill is enrolled in an educational institution and the period of such individual's entitlement (ten years after discharge or release from active duty) would expire during a quarter or semester of enrollment, that period shall be extended to the end of that quarter or semester. Allows such an extension until the earlier of the end of the course or 12 weeks, in the case of an educational institution not regularly operated on a quarter or semester basis.</summary>
+</bill>

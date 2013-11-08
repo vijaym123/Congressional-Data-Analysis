@@ -1,0 +1,97 @@
+<bill session="112" type="h" number="3117" updated="2013-07-20T01:37:11-04:00">
+  <state datetime="2012-01-23T18:54:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-01-23T18:54:00-05:00"/>
+  </status>
+  <introduced datetime="2011-10-06"/>
+  <titles>
+    <title as="introduced" type="short">Permanent Electronic Duck Stamp Act of 2011</title>
+    <title as="reported to house" type="short">Permanent Electronic Duck Stamp Act of 2011</title>
+    <title as="passed house" type="short">Permanent Electronic Duck Stamp Act of 2012</title>
+    <title as="introduced" type="official">To grant the Secretary of the Interior permanent authority to authorize States to issue electronic duck stamps, and for other purposes.</title>
+  </titles>
+  <sponsor id="412255"/>
+  <cosponsors>
+    <cosponsor id="400218" joined="2011-10-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-10-06">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2011-10-13">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-10-25">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-11-17">
+      <text>Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-11-17">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-11-17">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2012-01-23T14:43:00-05:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-374.</text>
+    </action>
+    <calendar datetime="2012-01-23T14:43:00-05:00" calendar="Union" number="255">
+      <text>Placed on the Union Calendar, Calendar No. 255.</text>
+    </calendar>
+    <action datetime="2012-01-23T16:09:00-05:00">
+      <text>Mr. Wittman moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-01-23T16:10:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H88-90" label="consideration"/>
+    </action>
+    <action datetime="2012-01-23T16:10:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3117.</text>
+    </action>
+    <action datetime="2012-01-23T16:15:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2012-01-23T18:32:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H90" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-01-23T18:54:00-05:00" how="roll" result="pass" roll="5" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 373 - 1 (Roll no. 5).</text>
+      <reference ref="CR H88-89" label="text"/>
+    </vote>
+    <action datetime="2012-01-23T18:54:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-01-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII22" subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" name="House Natural Resources"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="2071"/>
+    <bill relation="unknown" session="112" type="s" number="2071"/>
+    <bill relation="unknown" session="112" type="s" number="3525"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Art, artists, authorship"/>
+    <term name="Birds"/>
+    <term name="Hunting and fishing"/>
+    <term name="Licensing and registrations"/>
+    <term name="Postal service"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>1/23/2012--Passed House amended.
+Permanent Electronic Duck Stamp Act of 2012 - Grants the Secretary of the Interior permanent authority to authorize any state to issue electronic duck stamps. Sets forth state electronic duck stamp application requirements. Allows the Secretary to determine the number of new states permitted per year to participate in the electronic duck stamp program. Instructs the Secretary to require electronic stamp revenue and customer information collected by each state to be transmitted in accordance with a written agreement between the Secretary and the state.</summary>
+</bill>

@@ -1,0 +1,84 @@
+<bill session="111" type="h" number="2611" updated="2013-07-19T23:35:23-04:00">
+  <state datetime="2010-01-20T13:46:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-01-20T13:46:00-05:00"/>
+  </status>
+  <introduced datetime="2009-05-21"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Homeland Security Act of 2002 to authorize the Securing the Cities Initiative of the Department of Homeland Security, and for other purposes.</title>
+  </titles>
+  <sponsor id="400219"/>
+  <cosponsors>
+    <cosponsor id="412221" joined="2009-11-17"/>
+    <cosponsor id="400195" joined="2009-05-21"/>
+    <cosponsor id="400246" joined="2009-05-21"/>
+    <cosponsor id="412253" joined="2009-11-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-05-21">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2009-06-17">
+      <text>Referred to the Subcommittee on Emerging Threats, Cybersecurity, and Science and Technology.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2009-11-17">
+      <text>Subcommittee on Emerging Threats, Cybersecurity, and Science and Technology Discharged.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2009-11-17">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-11-17">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </calendar>
+    <action datetime="2010-01-12T16:37:00-05:00">
+      <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 111-389.</text>
+    </action>
+    <calendar datetime="2010-01-12T16:37:00-05:00" calendar="Union" number="226">
+      <text>Placed on the Union Calendar, Calendar No. 226.</text>
+    </calendar>
+    <action datetime="2010-01-20T13:37:00-05:00">
+      <text>Ms. Clarke moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-01-20T13:37:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H225-226" label="consideration"/>
+    </action>
+    <action datetime="2010-01-20T13:37:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2611.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-01-20T13:46:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H225" label="text"/>
+    </vote>
+    <action datetime="2010-01-20T13:46:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-01-21">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSHM08" subcommittee="Emerging Threats, Cybersecurity, and Science and Technology" name="House Homeland Security"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="3312"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Homeland security"/>
+    <term name="Nuclear weapons"/>
+    <term name="Radioactive wastes and releases"/>
+    <term name="Terrorism"/>
+    <term name="Urban and suburban affairs and development"/>
+  </subjects>
+  <amendments/>
+  <summary>1/20/2010--Passed House amended.
+Amends the Homeland Security Act of 2002 to authorize appropriations to the Director of the Domestic Nuclear Detection Office of the Department of Homeland Security (DHS) for the Securing the Cities Initiative, including funding for: (1) each city in which the Initiative has been implemented by FY2009; and (2) additional Securing the Cities initiatives to be implemented in not fewer than two sites participating in the Urban Area Security Initiative.</summary>
+</bill>

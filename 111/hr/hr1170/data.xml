@@ -1,0 +1,77 @@
+<bill session="111" type="h" number="1170" updated="2013-07-19T23:22:24-04:00">
+  <state datetime="2009-05-19T12:41:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-05-19T12:41:00-04:00"/>
+  </status>
+  <introduced datetime="2009-02-25"/>
+  <titles>
+    <title as="introduced" type="official">To amend chapter 21 of title 38, United States Code, to establish a grant program to encourage the development of new assistive technologies for specially adapted housing.</title>
+  </titles>
+  <sponsor id="400040"/>
+  <cosponsors>
+    <cosponsor id="400056" joined="2009-02-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-25">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-02-27">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-05-01">
+      <text>Subcommittee on Economic Opportunity Discharged.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-05-06">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-05-06">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2009-05-14T16:55:00-04:00">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-109.</text>
+    </action>
+    <calendar datetime="2009-05-14T16:56:00-04:00" calendar="Union" number="53">
+      <text>Placed on the Union Calendar, Calendar No. 53.</text>
+    </calendar>
+    <action datetime="2009-05-19T12:33:00-04:00">
+      <text>Mr. Filner moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-05-19T12:33:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5723-5724" label="consideration"/>
+    </action>
+    <action datetime="2009-05-19T12:33:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1170.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-05-19T12:41:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5723" label="text"/>
+    </vote>
+    <action datetime="2009-05-19T12:41:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-05-20">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Disability and paralysis"/>
+    <term name="Housing for the elderly and disabled"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/2009--Passed House amended.
+Directs the Secretary of Veterans Affairs to make grants to encourage the development of new assistive technologies for specially adapted housing for disabled veterans. Limits grant amounts to $200,000 annually per recipient. Provides that if a grant recipient is awarded a patent related to assistive technology developed with grant amounts, the Secretary shall retain no less than a 30% interest in the patent. Provides grant funds. Terminates grant authority five years after the enactment of this Act.</summary>
+</bill>

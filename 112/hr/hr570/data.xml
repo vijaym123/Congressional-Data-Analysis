@@ -1,0 +1,117 @@
+<bill session="112" type="h" number="570" updated="2013-07-20T01:15:13-04:00">
+  <state datetime="2011-03-08T18:52:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2011-03-08T18:52:00-05:00"/>
+  </status>
+  <introduced datetime="2011-02-09"/>
+  <titles>
+    <title as="introduced" type="short">Dental Emergency Responder Act of 2011</title>
+    <title as="reported to house" type="short">Dental Emergency Responder Act of 2011</title>
+    <title as="passed house" type="short">Dental Emergency Responder Act of 2011</title>
+    <title as="introduced" type="official">To amend the Public Health Service Act to enhance the roles of dentists and allied dental personnel in the Nation's disaster response framework, and for other purposes.</title>
+  </titles>
+  <sponsor id="400052"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2011-02-09"/>
+    <cosponsor id="400616" joined="2011-02-09"/>
+    <cosponsor id="412269" joined="2011-02-09"/>
+    <cosponsor id="412420" joined="2011-02-09"/>
+    <cosponsor id="400122" joined="2011-02-09"/>
+    <cosponsor id="400151" joined="2011-02-09"/>
+    <cosponsor id="400160" joined="2011-02-17"/>
+    <cosponsor id="412278" joined="2011-02-09"/>
+    <cosponsor id="412256" joined="2011-02-09"/>
+    <cosponsor id="412291" joined="2011-02-09"/>
+    <cosponsor id="400260" joined="2011-02-09"/>
+    <cosponsor id="412487" joined="2011-02-17"/>
+    <cosponsor id="400276" joined="2011-02-09"/>
+    <cosponsor id="400288" joined="2011-02-09"/>
+    <cosponsor id="400308" joined="2011-02-09"/>
+    <cosponsor id="400312" joined="2011-02-09"/>
+    <cosponsor id="400342" joined="2011-02-09"/>
+    <cosponsor id="400345" joined="2011-02-09"/>
+    <cosponsor id="412449" joined="2011-02-09"/>
+    <cosponsor id="412261" joined="2011-02-09"/>
+    <cosponsor id="400373" joined="2011-02-09"/>
+    <cosponsor id="400388" joined="2011-02-09"/>
+    <cosponsor id="400400" joined="2011-02-09"/>
+    <cosponsor id="400409" joined="2011-02-09"/>
+    <cosponsor id="400426" joined="2011-02-17"/>
+    <cosponsor id="400431" joined="2011-02-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-02-09">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2011-02-10">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2011-02-11">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2011-02-11">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2011-02-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-02-15">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2011-03-02T15:33:00-05:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 112-24.</text>
+    </action>
+    <calendar datetime="2011-03-02T15:52:00-05:00" calendar="Union" number="12">
+      <text>Placed on the Union Calendar, Calendar No. 12.</text>
+    </calendar>
+    <action datetime="2011-03-08T16:13:00-05:00">
+      <text>Mr. Burgess moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2011-03-08T16:13:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1598-1600" label="consideration"/>
+    </action>
+    <action datetime="2011-03-08T16:13:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 570.</text>
+    </action>
+    <action datetime="2011-03-08T16:22:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2011-03-08T18:31:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H1601-1602" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-03-08T18:52:00-05:00" how="roll" result="pass" roll="163" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 12 (Roll no. 163).</text>
+      <reference ref="CR H1599" label="text"/>
+    </vote>
+    <action datetime="2011-03-08T18:52:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-03-09">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Dental care"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Homeland security"/>
+    <term name="Medical education"/>
+  </subjects>
+  <amendments/>
+  <summary>3/8/2011--Passed House without amendment.
+Dental Emergency Responder Act of 2011 - Amends the Public Health Service Act to authorize the inclusion of dental health facilities in the National Health Security Strategy for purposes of preparedness during public health emergencies. Includes dental entities among entities that may carry out education and training activities to improve responses to public health emergencies.</summary>
+</bill>

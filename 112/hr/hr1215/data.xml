@@ -1,0 +1,48 @@
+<bill session="112" type="h" number="1215" updated="2013-07-20T01:20:54-04:00">
+  <state datetime="2011-04-27T17:50:00-04:00">REPORTED</state>
+  <status>
+    <unknown datetime="2011-04-27T17:50:00-04:00"/>
+  </status>
+  <introduced datetime="2011-03-29"/>
+  <titles>
+    <title as="introduced" type="official">To amend title V of the Social Security Act to convert funding for personal responsibility education programs from direct appropriations to an authorization of appropriations.</title>
+  </titles>
+  <sponsor id="412256"/>
+  <cosponsors>
+    <cosponsor id="412270" joined="2011-04-06"/>
+    <cosponsor id="412271" joined="2011-04-08"/>
+    <cosponsor id="400313" joined="2011-04-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-03-29">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2011-03-29">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2011-04-27T17:49:00-04:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 112-63.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2011-04-27T17:50:00-04:00" calendar="Union" number="31">
+      <text>Placed on the Union Calendar, Calendar No. 31.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Reporting"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Appropriations"/>
+    <term name="Child health"/>
+    <term name="Family planning and birth control"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Sex and reproductive health"/>
+  </subjects>
+  <amendments/>
+  <summary>4/27/2011--Reported to House without amendment.
+Amends title V (Maternal and Child Health Services) of the Social Security Act to change the funding mechanism for personal responsibility education programs from direct appropriations to an authorization of appropriations, and rescinds unobligated funds available to such programs.</summary>
+</bill>

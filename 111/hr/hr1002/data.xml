@@ -1,0 +1,93 @@
+<bill session="111" type="h" number="1002" updated="2013-07-19T23:20:54-04:00">
+  <state datetime="2009-09-15T14:49:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-09-15T14:49:00-04:00"/>
+  </status>
+  <introduced datetime="2009-02-11"/>
+  <titles>
+    <title as="introduced" type="short">Pisgah National Forest Boundary Adjustment Act of 2009</title>
+    <title as="reported to house" type="short">Pisgah National Forest Boundary Adjustment Act of 2009</title>
+    <title as="passed house" type="short">Pisgah National Forest Boundary Adjustment Act of 2009</title>
+    <title as="introduced" type="official">To adjust the boundaries of Pisgah National Forest in McDowell County, North Carolina.</title>
+  </titles>
+  <sponsor id="412225"/>
+  <cosponsors>
+    <cosponsor id="400616" joined="2009-02-11"/>
+    <cosponsor id="400076" joined="2009-02-11"/>
+    <cosponsor id="412272" joined="2009-02-11"/>
+    <cosponsor id="400125" joined="2009-02-11"/>
+    <cosponsor id="400643" joined="2009-02-11"/>
+    <cosponsor id="400209" joined="2009-02-11"/>
+    <cosponsor id="412287" joined="2009-02-11"/>
+    <cosponsor id="400644" joined="2009-02-11"/>
+    <cosponsor id="400266" joined="2009-02-11"/>
+    <cosponsor id="400280" joined="2009-02-11"/>
+    <cosponsor id="400288" joined="2009-02-11"/>
+    <cosponsor id="400326" joined="2009-02-11"/>
+    <cosponsor id="400424" joined="2009-02-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-11">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2009-04-23">
+      <text>Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="2009-07-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-07-29">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Agriculture"/>
+    </calendar>
+    <action datetime="2009-07-29">
+      <text>Subcommittee on Department Operations, Oversight, Nutrition and Forestry Discharged.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="2009-09-10T14:15:00-04:00">
+      <text>Reported by the Committee on Agriculture. H. Rept. 111-251.</text>
+    </action>
+    <calendar datetime="2009-09-10T14:16:00-04:00" calendar="Union" number="139">
+      <text>Placed on the Union Calendar, Calendar No. 139.</text>
+    </calendar>
+    <action datetime="2009-09-15T14:42:00-04:00">
+      <text>Mr. Holden moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-09-15T14:42:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9519-9520" label="consideration"/>
+    </action>
+    <action datetime="2009-09-15T14:42:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1002.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-09-15T14:49:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H9519" label="text"/>
+    </vote>
+    <action datetime="2009-09-15T14:49:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-09-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSAG22" subcommittee="Department Operations, Oversight, Nutrition and Forestry" name="House Agriculture"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="1768"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Land transfers"/>
+    <term name="North Carolina"/>
+  </subjects>
+  <amendments/>
+  <summary>9/15/2009--Passed House without amendment.
+Pisgah National Forest Boundary Adjustment Act of 2009 - Modifies the boundaries of the Pisgah National Forest in McDowell County, North Carolina, to provide for the inclusion of certain private land and Forest Service land in the Forest. Requires an owner's consent to acquire the private land.</summary>
+</bill>

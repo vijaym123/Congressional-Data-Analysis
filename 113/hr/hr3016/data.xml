@@ -1,0 +1,57 @@
+<bill session="113" type="h" number="3016" updated="2013-11-02T06:44:24-04:00">
+  <state datetime="2013-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-02"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="short" as="introduced">Jobs for Urban Sustainability and Training in America Act of 2013</title>
+    <title type="official" as="introduced">To provide grants to cities with high unemployment rates to provide job training, public works, and economic development programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="412236"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Transportation and Infrastructure, Financial Services, and Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2013-08-05">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+      <committee name="House Education and the Workforce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education and Workforce Training" name="House Education and the Workforce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Employment and training programs"/>
+    <term name="Income tax deductions"/>
+    <term name="Oil and gas"/>
+    <term name="Trade adjustment assistance"/>
+    <term name="Unemployment"/>
+    <term name="Urban and suburban affairs and development"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,58 @@
+<bill session="112" type="h" number="6324" updated="2013-07-20T02:04:34-04:00">
+  <state datetime="2012-09-19T16:22:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-09-19T16:22:00-04:00"/>
+  </status>
+  <introduced datetime="2012-08-02"/>
+  <titles>
+    <title as="introduced" type="short">Cutting Federal Unnecessary and Expensive Leasing Act of 2012</title>
+    <title as="introduced" type="short">Cutting FUEL Act</title>
+    <title as="passed house" type="short">Cutting Federal Unnecessary and Expensive Leasing Act of 2012</title>
+    <title as="passed house" type="short">Cutting FUEL Act</title>
+    <title as="introduced" type="official">To reduce the number of nonessential vehicles purchased and leased by the Federal Government, and for other purposes.</title>
+  </titles>
+  <sponsor id="412454"/>
+  <cosponsors>
+    <cosponsor id="400628" joined="2012-08-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-08-02">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2012-09-19T16:06:00-04:00">
+      <text>Mr. Chaffetz moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-09-19T16:06:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6097-6099" label="consideration"/>
+    </action>
+    <action datetime="2012-09-19T16:06:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6324.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-09-19T16:22:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6097" label="text"/>
+    </vote>
+    <action datetime="2012-09-19T16:22:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-09-20">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Motor vehicles"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>9/19/2012--Passed House without amendment.
+Cutting Federal Unnecessary and Expensive Leasing Act of 2012 or the Cutting FUEL Act - Requires the Director of the Office of Management and Budget (OMB) to determine: (1) the number of civilian vehicles purchased and leased by each executive agency in FY2010, (2) the total dollar amounts obligated by each agency to purchase and to lease civilian vehicles in FY2010, and (3) the amount that would be 20% less than those combined totals. Prohibits each agency from obligating more than such amount to purchase and lease civilian vehicles in each of FY2013-FY2017. Exempts the purchase or procurement of any vehicle determined by the President to be essential for reasons of national security. Directs the Administrator of General Services (GSA) to ensure that agencies may share excess or unused vehicles for temporary or long-term use through the Federal Fleet Management System.</summary>
+</bill>

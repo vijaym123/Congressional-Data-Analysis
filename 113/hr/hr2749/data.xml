@@ -1,0 +1,36 @@
+<bill session="113" type="h" number="2749" updated="2013-11-02T06:42:08-04:00">
+  <state datetime="2013-07-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-19"/>
+  </status>
+  <introduced datetime="2013-07-19"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Education Transparency Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to make certain records available to educational institutions where veterans or persons receiving educational assistance under the laws administered by the Secretary are enrolled, and for other purposes.</title>
+  </titles>
+  <sponsor id="400232"/>
+  <cosponsors>
+    <cosponsor id="412505" joined="2013-09-20"/>
+    <cosponsor id="400440" joined="2013-07-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-19" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Government information and archives"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="3665" updated="2013-07-19T23:45:11-04:00">
+  <state datetime="2009-09-29">REFERRED</state>
+  <status>
+    <introduced datetime="2009-09-29"/>
+  </status>
+  <introduced datetime="2009-09-29"/>
+  <titles>
+    <title as="introduced" type="short">Ryan White Grantee Medicaid Payment Equity Act of 2009</title>
+    <title as="introduced" type="official">To amend title XIX of the Social Security Act to provide for payment for Medicaid services furnished by Ryan White part C grantees under a cost-based prospective payment system.</title>
+  </titles>
+  <sponsor id="400013"/>
+  <cosponsors>
+    <cosponsor id="400062" joined="2009-09-29"/>
+    <cosponsor id="400111" joined="2009-10-08"/>
+    <cosponsor id="400663" joined="2009-09-29"/>
+    <cosponsor id="400661" joined="2009-09-29"/>
+    <cosponsor id="400360" joined="2009-10-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-09-29">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2009-09-30">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="HIV/AIDS"/>
+    <term name="Home and outpatient care"/>
+    <term name="Medicaid"/>
+  </subjects>
+  <amendments/>
+  <summary>9/29/2009--Introduced.
+Ryan White Grantee Medicaid Payment Equity Act of 2009 - Amends title XIX (Medicaid) of the Social Security Act to require a state Medicaid plan to provide for payment for Medicaid services furnished by a recipient of a grant under part C of title XXVI of the Public Health Service Act (Ryan White Part C grantees) under a cost-based prospective payment system.</summary>
+</bill>

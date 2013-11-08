@@ -1,0 +1,114 @@
+<bill session="111" type="h" number="3892" updated="2013-07-19T23:47:14-04:00">
+  <state datetime="2010-06-09">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2010-06-09"/>
+  </status>
+  <introduced datetime="2009-10-21"/>
+  <titles>
+    <title as="introduced" type="official">To designate the facility of the United States Postal Service located at 101 West Highway 64 Bypass in Roper, North Carolina, as the "E.V. Wilkins Post Office".</title>
+  </titles>
+  <sponsor id="400616"/>
+  <cosponsors>
+    <cosponsor id="400076" joined="2009-10-21"/>
+    <cosponsor id="400125" joined="2009-10-21"/>
+    <cosponsor id="400643" joined="2009-10-21"/>
+    <cosponsor id="400209" joined="2009-10-21"/>
+    <cosponsor id="412287" joined="2009-10-21"/>
+    <cosponsor id="400644" joined="2009-10-21"/>
+    <cosponsor id="400266" joined="2009-10-21"/>
+    <cosponsor id="400280" joined="2009-10-21"/>
+    <cosponsor id="400288" joined="2009-10-21"/>
+    <cosponsor id="400326" joined="2009-10-21"/>
+    <cosponsor id="412225" joined="2009-10-21"/>
+    <cosponsor id="400424" joined="2009-10-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-10-21">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2009-11-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-11-18">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2010-01-13T12:11:00-05:00">
+      <text>Mr. Lynch moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-01-13T12:13:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H61-63" label="consideration"/>
+    </action>
+    <action datetime="2010-01-13T12:13:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3892.</text>
+    </action>
+    <action datetime="2010-01-13T12:25:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-01-13T16:09:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H108-109" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-01-13T16:16:00-05:00" how="roll" result="pass" roll="5" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 356 - 1 (Roll no. 5).</text>
+      <reference ref="CR H62" label="text"/>
+    </vote>
+    <action datetime="2010-01-13T16:16:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-01-20">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2010-03-04">
+      <text>Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+    <calendar datetime="2010-05-17">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2010-05-18">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2010-05-18" calendar="Senate Legislative" under="General Orders" number="387">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 387.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="2010-05-25" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4171-4172" label="consideration"/>
+    </vote>
+    <action datetime="2010-05-25">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2010-05-25">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2010-06-01">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2010-06-09">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2010-06-09" type="public" number="111-181">
+      <text>Became Public Law No: 111-181.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSGA09" subcommittee="Federal Financial Management, Government Information, Federal Services, and International Security" name="Senate Homeland Security and Governmental Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="North Carolina"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>6/9/2010--Public Law.
+Designates the facility of the United States Postal Service located at 101 West Highway 64 Bypass in Roper, North Carolina, as the "E.V. Wilkins Post Office."</summary>
+</bill>

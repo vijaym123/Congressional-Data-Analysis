@@ -1,0 +1,105 @@
+<bill session="112" type="h" number="5912" updated="2013-07-20T02:01:03-04:00">
+  <state datetime="2012-09-19T19:00:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-09-19T19:00:00-04:00"/>
+  </status>
+  <introduced datetime="2012-06-07"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to prohibit the use of public funds for political party conventions, and to provide for the return of previously distributed funds for deficit reduction.</title>
+    <title as="amended by house" type="official">To amend the Internal Revenue Code of 1986 to prohibit the use of public funds for political party conventions.</title>
+  </titles>
+  <sponsor id="400077"/>
+  <cosponsors>
+    <cosponsor id="400017" joined="2012-06-07"/>
+    <cosponsor id="400029" joined="2012-06-08"/>
+    <cosponsor id="412252" joined="2012-06-07"/>
+    <cosponsor id="412011" joined="2012-06-07"/>
+    <cosponsor id="412481" joined="2012-06-07"/>
+    <cosponsor id="400071" joined="2012-06-07"/>
+    <cosponsor id="400646" joined="2012-06-07"/>
+    <cosponsor id="412476" joined="2012-06-07"/>
+    <cosponsor id="412275" joined="2012-06-07"/>
+    <cosponsor id="412406" joined="2012-06-08"/>
+    <cosponsor id="400651" joined="2012-06-07"/>
+    <cosponsor id="412401" joined="2012-06-07"/>
+    <cosponsor id="400196" joined="2012-06-07"/>
+    <cosponsor id="412226" joined="2012-06-07"/>
+    <cosponsor id="400221" joined="2012-06-07"/>
+    <cosponsor id="400224" joined="2012-06-19"/>
+    <cosponsor id="412191" joined="2012-06-07"/>
+    <cosponsor id="412433" joined="2012-06-07"/>
+    <cosponsor id="412464" joined="2012-06-19"/>
+    <cosponsor id="412209" joined="2012-06-08"/>
+    <cosponsor id="412294" joined="2012-06-07"/>
+    <cosponsor id="412295" joined="2012-06-07"/>
+    <cosponsor id="412475" joined="2012-06-07"/>
+    <cosponsor id="412442" joined="2012-06-08"/>
+    <cosponsor id="400311" joined="2012-06-07"/>
+    <cosponsor id="412303" joined="2012-06-07"/>
+    <cosponsor id="400320" joined="2012-06-07"/>
+    <cosponsor id="412398" joined="2012-06-07"/>
+    <cosponsor id="412489" joined="2012-06-28"/>
+    <cosponsor id="412426" joined="2012-06-20"/>
+    <cosponsor id="412010" joined="2012-06-07"/>
+    <cosponsor id="412408" joined="2012-06-07"/>
+    <cosponsor id="412410" joined="2012-06-07"/>
+    <cosponsor id="400627" joined="2012-06-21"/>
+    <cosponsor id="412430" joined="2012-06-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-06-07">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2012-09-13">
+      <text>Referred to the Subcommittee on Elections.</text>
+      <committee name="House Committee on House Administration"/>
+    </action>
+    <action datetime="2012-09-19T17:38:00-04:00">
+      <text>Mr. Lungren, Daniel E. moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-09-19T17:38:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6113-6115" label="consideration"/>
+    </action>
+    <action datetime="2012-09-19T17:38:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5912.</text>
+    </action>
+    <action datetime="2012-09-19T17:56:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2012-09-19T18:53:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6120-6121" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-09-19T19:00:00-04:00" how="roll" result="pass" roll="586" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 310 - 95 (Roll no. 586).</text>
+      <reference ref="CR H6113" label="text"/>
+    </vote>
+    <action datetime="2012-09-19T19:00:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-09-19T19:00:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-09-20">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+    <committee activity="Referral" code="HSHA08" subcommittee="Elections" name="House Administration"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="3257"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Government trust funds"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>9/19/2012--Passed House amended.
+Amends the Internal Revenue Code to repeal provisions providing for the use of funds from the Presidential Election Campaign Fund for presidential nominating conventions.</summary>
+</bill>

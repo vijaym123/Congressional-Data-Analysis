@@ -1,0 +1,110 @@
+<bill session="112" type="h" number="2062" updated="2013-07-20T01:28:06-04:00">
+  <state datetime="2011-11-07">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2011-11-07"/>
+  </status>
+  <introduced datetime="2011-05-31"/>
+  <titles>
+    <title as="introduced" type="official">To designate the facility of the United States Postal Service located at 45 Meetinghouse Lane in Sagamore Beach, Massachusetts, as the "Matthew A. Pucino Post Office".</title>
+  </titles>
+  <sponsor id="412435"/>
+  <cosponsors>
+    <cosponsor id="400063" joined="2011-05-31"/>
+    <cosponsor id="400140" joined="2011-05-31"/>
+    <cosponsor id="400249" joined="2011-05-31"/>
+    <cosponsor id="400253" joined="2011-05-31"/>
+    <cosponsor id="400263" joined="2011-05-31"/>
+    <cosponsor id="400291" joined="2011-05-31"/>
+    <cosponsor id="400301" joined="2011-05-31"/>
+    <cosponsor id="400407" joined="2011-05-31"/>
+    <cosponsor id="412254" joined="2011-05-31"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-05-31">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2011-06-22">
+      <text>Committee Hearings Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <action datetime="2011-06-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-06-22">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2011-07-28T18:32:00-04:00">
+      <text>Mr. Lankford moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2011-07-28T18:32:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5727-5728" label="consideration"/>
+    </action>
+    <action datetime="2011-07-28T18:32:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2062.</text>
+    </action>
+    <action datetime="2011-07-28T18:37:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Lankford objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2011-07-30T15:14:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5811" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-07-30T15:14:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR 7/28/2011 H5727" label="text"/>
+    </vote>
+    <action datetime="2011-08-01">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2011-08-18">
+      <text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+    <calendar datetime="2011-10-19">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2011-10-19">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2011-10-19" calendar="Senate Legislative" under="General Orders" number="209">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 209.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="2011-10-20" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6812" label="consideration"/>
+    </vote>
+    <action datetime="2011-10-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2011-10-31">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2011-11-07">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2011-11-07" type="public" number="112-49">
+      <text>Became Public Law No: 112-49.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Hearings, Markup"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSGA09" subcommittee="Federal Financial Management, Government Information, Federal Services, and International Security" name="Senate Homeland Security and Governmental Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Massachusetts"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>11/8/2011--Public Law.
+Designates the facility of the United States Postal Service located at 45 Meetinghouse Lane in Sagamore Beach, Massachusetts, as the "Matthew A. Pucino Post Office."</summary>
+</bill>

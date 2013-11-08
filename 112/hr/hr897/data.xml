@@ -1,0 +1,67 @@
+<bill session="112" type="h" number="897" updated="2013-07-20T01:18:04-04:00">
+  <state datetime="2012-08-01T19:31:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-08-01T19:31:00-04:00"/>
+  </status>
+  <introduced datetime="2011-03-03"/>
+  <titles>
+    <title as="introduced" type="short">Residential and Commuter Toll Fairness Act of 2011</title>
+    <title as="passed house" type="short">Residential and Commuter Toll Fairness Act of 2012</title>
+    <title as="introduced" type="official">To provide authority and sanction for the granting and issuance of programs for residential and commuter toll, user fee and fare discounts by States, municipalities, other localities, and all related agencies and departments, and for other purposes.</title>
+  </titles>
+  <sponsor id="412451"/>
+  <cosponsors>
+    <cosponsor id="400271" joined="2011-03-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-03-03">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2011-03-04">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2012-08-01T19:22:00-04:00">
+      <text>Mr. Crawford moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-08-01T19:23:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5604-5606" label="consideration"/>
+    </action>
+    <action datetime="2012-08-01T19:23:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 897.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-08-01T19:31:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H5605" label="text"/>
+    </vote>
+    <action datetime="2012-08-01T19:31:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-08-02">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="346"/>
+    <bill relation="unknown" session="112" type="s" number="346"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Commuting"/>
+    <term name="Public transit"/>
+    <term name="Roads and highways"/>
+    <term name="State and local government operations"/>
+    <term name="Transportation programs funding"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/2012--Passed House without amendment.
+Residential and Commuter Toll Fairness Act of 2012 - Grants state, county, and municipal governments, as well as multi-jurisdictional transportation authorities that operate or manage roads, bridges, railroads, buses, ferries, or other transportation systems, rulemaking authority to establish toll, user fee, or fare discount programs for their local residents or commuters.</summary>
+</bill>

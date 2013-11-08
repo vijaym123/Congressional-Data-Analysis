@@ -1,0 +1,52 @@
+<bill session="113" type="h" number="3040" updated="2013-11-02T06:44:36-04:00">
+  <state datetime="2013-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-02"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="short" as="introduced">Safe Freight Act</title>
+    <title type="official" as="introduced">To provide for the minimum size of crews of freight trains, and for other purposes.</title>
+  </titles>
+  <sponsor id="400274"/>
+  <cosponsors>
+    <cosponsor id="412535" joined="2013-10-04"/>
+    <cosponsor id="400162" joined="2013-09-30"/>
+    <cosponsor id="400204" joined="2013-09-30"/>
+    <cosponsor id="412435" joined="2013-10-23"/>
+    <cosponsor id="400218" joined="2013-10-07"/>
+    <cosponsor id="400219" joined="2013-09-19"/>
+    <cosponsor id="400283" joined="2013-10-30"/>
+    <cosponsor id="400295" joined="2013-09-26"/>
+    <cosponsor id="400310" joined="2013-09-30"/>
+    <cosponsor id="412305" joined="2013-10-23"/>
+    <cosponsor id="412307" joined="2013-08-02"/>
+    <cosponsor id="400352" joined="2013-10-28"/>
+    <cosponsor id="412396" joined="2013-09-10"/>
+    <cosponsor id="400407" joined="2013-10-09"/>
+    <cosponsor id="412254" joined="2013-10-14"/>
+    <cosponsor id="400417" joined="2013-10-22"/>
+    <cosponsor id="412214" joined="2013-10-09"/>
+    <cosponsor id="400440" joined="2013-09-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-08-05">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW14" subcommittee="Railroads, Pipelines, and Hazardous Materials" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Railroads"/>
+    <term name="Transportation employees"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,37 @@
+<bill session="113" type="h" number="3105" updated="2013-11-02T06:45:09-04:00">
+  <state datetime="2013-09-17">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-17"/>
+  </status>
+  <introduced datetime="2013-09-17"/>
+  <titles>
+    <title type="short" as="introduced">Aquaculture Risk Reduction Act</title>
+    <title type="official" as="introduced">To amend the Lacey Act Amendments of 1981 to exempt from such Act animals accidentally included in shipments of aquatic species produced in commercial aquaculture, and for other purposes.</title>
+  </titles>
+  <sponsor id="412400"/>
+  <cosponsors>
+    <cosponsor id="412401" joined="2013-09-26"/>
+    <cosponsor id="400402" joined="2013-09-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-17" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-09-20">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII22" subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Aquaculture"/>
+    <term name="Fishes"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+</bill>

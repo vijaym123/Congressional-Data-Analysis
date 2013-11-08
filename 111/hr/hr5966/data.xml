@@ -1,0 +1,49 @@
+<bill session="111" type="h" number="5966" updated="2013-07-20T00:06:27-04:00">
+  <state datetime="2010-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2010-07-29"/>
+  </status>
+  <introduced datetime="2010-07-29"/>
+  <titles>
+    <title as="introduced" type="short">Cybersecurity Enhancement Act of 2010</title>
+    <title as="introduced" type="official">To enhance the cybersecurity of the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="412233"/>
+  <cosponsors>
+    <cosponsor id="400337" joined="2010-07-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-29">
+      <text>Referred to the Committee on Intelligence (Permanent Select), and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2010-07-29">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="2010-07-29">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2010-09-20">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral, In Committee"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Defense"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Homeland security"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/2010--Introduced.
+Cybersecurity Enhancement Act of 2010 - Authorizes the Director of the National Security Agency (NSA) to establish a five-year pilot program to to recruit highly-skilled individuals who are pursing or have obtained a graduate degree in a field related to cybersecurity. Designates the program as the NSA Cybersecurity Honors Program. Requires: (1) the Director of National Intelligence to submit to Congress a report containing guidelines or legislative recommendations to improve the capabilities of intelligence community and law enforcement agencies to protect U.S. cybersecurity; and (2) two biennial updates of such report.</summary>
+</bill>

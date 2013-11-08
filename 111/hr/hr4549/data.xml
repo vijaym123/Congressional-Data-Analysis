@@ -1,0 +1,56 @@
+<bill session="111" type="h" number="4549" updated="2013-07-19T23:53:30-04:00">
+  <state datetime="2010-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="2010-01-27"/>
+  </status>
+  <introduced datetime="2010-01-27"/>
+  <titles>
+    <title as="introduced" type="short">Small Business Innovation to Job Creation Act of 2010</title>
+    <title as="introduced" type="official">To authorize the Administrator of the Small Business Administration to make grants to small business concerns to assist the commercialization of research developed with funds received under the second phase of the Small Business Innovation Research Program.</title>
+  </titles>
+  <sponsor id="412319"/>
+  <cosponsors>
+    <cosponsor id="400638" joined="2010-02-23"/>
+    <cosponsor id="412327" joined="2010-02-03"/>
+    <cosponsor id="400170" joined="2010-05-20"/>
+    <cosponsor id="412281" joined="2010-07-21"/>
+    <cosponsor id="412293" joined="2010-02-03"/>
+    <cosponsor id="400309" joined="2010-02-03"/>
+    <cosponsor id="412304" joined="2010-05-06"/>
+    <cosponsor id="412253" joined="2010-05-18"/>
+    <cosponsor id="400426" joined="2010-05-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-01-27">
+      <text>Referred to the Committee on Small Business, and in addition to the Committee on Science and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2010-01-27">
+      <text>Referred to House Small Business</text>
+    </action>
+    <action datetime="2010-01-27">
+      <text>Referred to the Subcommittee on Contracting and Technology .</text>
+      <committee name="House Small Business"/>
+    </action>
+    <action datetime="2010-01-27">
+      <text>Referred to House Science and Technology</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSM23" subcommittee="Contracting and Technology" name="House Small Business"/>
+    <committee code="HSSY" name="House Science and Technology" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="3228"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+    <term name="Small business"/>
+    <term name="Technology transfer and commercialization"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/2010--Introduced.
+Small Business Innovation to Job Creation Act of 2010 - Authorizes the Administrator of the Small Business Administration (SBA) to make grants to small businesses to assist in the commercialization of research developed by such businesses with funds received under the second phase of the Small Business Innovation Research Program (a program under which a portion of a federal agency's research and development effort is reserved for award to small businesses).</summary>
+</bill>

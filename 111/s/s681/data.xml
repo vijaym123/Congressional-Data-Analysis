@@ -1,0 +1,56 @@
+<bill session="111" type="s" number="681" updated="2013-07-20T00:29:30-04:00">
+  <state datetime="2009-03-30">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2009-03-30"/>
+  </status>
+  <introduced datetime="2009-03-24"/>
+  <titles>
+    <title as="introduced" type="short">Greensburg, Kansas Recovery Extension Act</title>
+    <title as="passed senate" type="short">Greensburg, Kansas Recovery Extension Act</title>
+    <title as="introduced" type="official">A bill to provide for special rules relating to assistance concerning the Greensburg, Kansas tornado.</title>
+  </titles>
+  <sponsor id="300083"/>
+  <cosponsors>
+    <cosponsor id="300013" joined="2009-03-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-24">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+    <action datetime="2009-03-30">
+      <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+      <reference ref="CR S4007-4008" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2009-03-30" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4008" label="text"/>
+    </vote>
+    <action datetime="2009-03-31T11:04:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2009-03-31">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2009-03-31">
+      <text>Referred to the House Committee on Education and Labor.</text>
+      <reference ref="CR S7979" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Discharged"/>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="h" number="2052"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Employment and training programs"/>
+    <term name="Kansas"/>
+    <term name="Natural disasters"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/2009--Passed Senate without amendment.
+Greensburg, Kansas Recovery Extension Act - Requires funds from any national emergency grant made under the Workforce Investment Act of 1998 to address the effects of the May 4, 2007, Greensburg, Kansas, tornado to remain available for expenditure through June 30, 2010.</summary>
+</bill>

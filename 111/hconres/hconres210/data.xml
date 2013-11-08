@@ -1,0 +1,42 @@
+<bill session="111" type="hc" number="210" updated="2013-07-20T00:14:49-04:00">
+  <state datetime="2009-11-09">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2009-11-09"/>
+  </status>
+  <introduced datetime="2009-11-06"/>
+  <titles>
+    <title as="introduced" type="official">Providing for an adjournment or recess of the two Houses.</title>
+  </titles>
+  <sponsor id="400118"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2009-11-06T12:29:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H12493-12494" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-11-06T12:57:00-05:00" how="roll" result="pass" roll="865" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 235 - 179 (Roll no. 865).</text>
+      <reference ref="CR H12493-12494" label="text"/>
+    </vote>
+    <action datetime="2009-11-06T12:57:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2009-11-09" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11268" label="consideration"/>
+      <reference ref="CR S11268" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2009-11-09">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional operations and organization"/>
+  </subjects>
+  <amendments/>
+  <summary>11/9/2009--Passed Senate without amendment.
+Declares that when the House adjourns on any legislative day from Friday, November 6, 2009, through Tuesday, November 10, 2009, it stand adjourned until 2 p.m. on Monday, November 16, 2009. Declares that when the Senate recesses or adjourns on any day from Friday, November 6, 2009, through Tuesday, November 10, 2009, it stand recessed or adjourned until noon on Monday, November 16, 2009.</summary>
+</bill>

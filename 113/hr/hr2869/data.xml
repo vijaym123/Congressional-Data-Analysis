@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="2869" updated="2013-11-02T06:43:11-04:00">
+  <state datetime="2013-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-31"/>
+  </status>
+  <introduced datetime="2013-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Patient Access to Cancer Treatment Act of 2013</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to establish payment parity under the Medicare program for ambulatory cancer care services furnished in the hospital outpatient department and the physician office setting.</title>
+  </titles>
+  <sponsor id="400342"/>
+  <cosponsors>
+    <cosponsor id="400663" joined="2013-07-31"/>
+    <cosponsor id="412528" joined="2013-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-31" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-07-31">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-07-31">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cancer"/>
+    <term name="Home and outpatient care"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+</bill>

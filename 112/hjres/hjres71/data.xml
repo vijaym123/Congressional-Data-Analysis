@@ -1,0 +1,50 @@
+<bill session="112" type="hj" number="71" updated="2013-07-20T02:08:34-04:00">
+  <state datetime="2011-07-07">REFERRED</state>
+  <status>
+    <introduced datetime="2011-07-07"/>
+  </status>
+  <introduced datetime="2011-07-07"/>
+  <titles>
+    <title as="introduced" type="official">Proposing an amendment to the Constitution of the United States limiting the number of terms that a Member of Congress may serve to 3 in the House of Representatives and 2 in the Senate.</title>
+  </titles>
+  <sponsor id="412399"/>
+  <cosponsors>
+    <cosponsor id="412436" joined="2012-03-16"/>
+    <cosponsor id="412472" joined="2011-07-07"/>
+    <cosponsor id="412453" joined="2011-09-23"/>
+    <cosponsor id="412473" joined="2011-09-23"/>
+    <cosponsor id="412474" joined="2011-09-23"/>
+    <cosponsor id="412489" joined="2012-02-08"/>
+    <cosponsor id="412471" joined="2011-09-23"/>
+    <cosponsor id="412424" joined="2011-07-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-07-07">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2011-08-25">
+      <text>Referred to the Subcommittee on the Constitution.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="hj" number="93"/>
+    <bill relation="unknown" session="112" type="hj" number="96"/>
+    <bill relation="unknown" session="112" type="sj" number="1"/>
+    <bill relation="unknown" session="112" type="sj" number="11"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="House of Representatives"/>
+    <term name="Members of Congress"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>7/7/2011--Introduced.
+Constitutional Amendment - Limits Members of the House of Representatives to three terms and Members of the Senate to two terms.</summary>
+</bill>

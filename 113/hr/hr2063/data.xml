@@ -1,0 +1,34 @@
+<bill session="113" type="h" number="2063" updated="2013-11-02T06:36:23-04:00">
+  <state datetime="2013-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-21"/>
+  </status>
+  <introduced datetime="2013-05-21"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to improve the health care provided to veterans of World War II at facilities of the Department of Veterans Affairs.</title>
+  </titles>
+  <sponsor id="412250"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-05-31">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Hospital care"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2013--Introduced.
+Authorizes enrollment in the Department of Veterans Affairs (VA) patient enrollment system (and thereby, eligibility for VA hospital care and medical services) for veterans who served during World War II who are not otherwise eligible for such care.</summary>
+</bill>

@@ -1,0 +1,82 @@
+<bill session="113" type="h" number="2337" updated="2013-11-02T06:38:41-04:00">
+  <state datetime="2013-10-29T14:49:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-10-29T14:49:00-04:00"/>
+  </status>
+  <introduced datetime="2013-06-12"/>
+  <titles>
+    <title type="short" as="introduced">Lake Hill Administrative Site Affordable Housing Act</title>
+    <title type="short" as="reported to house">Lake Hill Administrative Site Affordable Housing Act</title>
+    <title type="short" as="passed house">Lake Hill Administrative Site Affordable Housing Act</title>
+    <title type="official" as="introduced">To provide for the conveyance of the Forest Service Lake Hill Administrative Site in Summit County, Colorado.</title>
+  </titles>
+  <sponsor id="412308"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-06-12" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-06-20">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-07-19">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-07-24">
+      <text>Subcommittee on Public Lands and Environmental Regulation Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-07-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar datetime="2013-07-24" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2013-09-10T13:53:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 113-196.</text>
+    </action>
+    <calendar datetime="2013-09-10T13:53:00-04:00" calendar="Union" number="143">
+      <text>Placed on the Union Calendar, Calendar No. 143.</text>
+    </calendar>
+    <action datetime="2013-10-29T14:43:00-04:00">
+      <text>Mr. Young (AK) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-10-29T14:43:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6854-6855" label="consideration"/>
+    </action>
+    <action datetime="2013-10-29T14:43:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2337.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2013-10-29T14:49:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6854" label="text"/>
+    </vote>
+    <action datetime="2013-10-30">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="1305"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Colorado"/>
+    <term name="Department of Agriculture"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+  <summary>9/10/2013--Reported to House without amendment.
+Lake Hill Administrative Site Affordable Housing Act - Directs the Secretary of Agriculture (USDA), upon receiving an offer from Summit County, Colorado, in which the county agrees to be responsible for the costs specified below, to convey to the county all interest of the United States in the approximately 40 acres of National Forest System land in the county identified as the Lake Hill Administrative Site. Makes Summit County responsible for the processing and transaction costs related to the direct sale of the Administrative Site. Requires the proceeds received from such conveyance to be made available for capital improvement and maintenance of Forest Service facilities in Region 2 of the Forest Service.</summary>
+</bill>

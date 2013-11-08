@@ -1,0 +1,107 @@
+<bill session="111" type="h" number="4395" updated="2013-07-19T23:52:01-04:00">
+  <state datetime="2010-03-19T17:55:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-03-19T17:55:00-04:00"/>
+  </status>
+  <introduced datetime="2009-12-16"/>
+  <titles>
+    <title as="introduced" type="official">To revise the boundaries of the Gettysburg National Military Park to include the Gettysburg Train Station, and for other purposes.</title>
+  </titles>
+  <sponsor id="400321"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-12-16">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-12-23">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-01-21">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-02-24">
+      <text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-02-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-02-24">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2010-03-11T14:38:00-05:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-438.</text>
+    </action>
+    <calendar datetime="2010-03-11T14:38:00-05:00" calendar="Union" number="254">
+      <text>Placed on the Union Calendar, Calendar No. 254.</text>
+    </calendar>
+    <action datetime="2010-03-18T15:44:00-04:00">
+      <text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-03-18T15:44:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1621-1622" label="consideration"/>
+    </action>
+    <action datetime="2010-03-18T15:44:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4395.</text>
+    </action>
+    <action datetime="2010-03-18T15:50:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-03-19T17:28:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H1712" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-03-19T17:55:00-04:00" how="roll" result="pass" roll="144" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 372 - 31 (Roll no. 144).</text>
+      <reference ref="CR 3/18/2010 H16211" label="text"/>
+    </vote>
+    <action datetime="2010-03-19T17:55:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-03-22">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2010-05-19">
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2010-08-05">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2010-09-27">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-330.</text>
+    </action>
+    <calendar datetime="2010-09-27" calendar="Senate Legislative" under="General Orders" number="616">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 616.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="National Parks" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="3159"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Conflicts and wars"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Land transfers"/>
+    <term name="Military history"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Pennsylvania"/>
+    <term name="Property rights"/>
+    <term name="Railroads"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/2010--Reported to Senate without amendment.
+Requires the inclusion of the land and interests commonly known as Gettysburg Train Station and its immediate surroundings in the Borough of Gettysburg, Pennsylvania, and the land and interests located along Plum Run in Cumberland Township, Pennsylvania, in Gettysburg National Military Park. Authorizes the Secretary of the Interior to acquire publicly owned property within the area of the Train Station by purchase, from willing sellers only, if efforts to acquire such property without cost have been exhausted. Prohibits the acquisition of property within the areas of the Train Station and along Plum Run by eminent domain.</summary>
+</bill>

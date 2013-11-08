@@ -1,0 +1,92 @@
+<bill session="112" type="h" number="4027" updated="2013-07-20T01:44:56-04:00">
+  <state datetime="2012-06-18T16:12:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-06-18T16:12:00-04:00"/>
+  </status>
+  <introduced datetime="2012-02-14"/>
+  <titles>
+    <title as="introduced" type="official">To clarify authority granted under the Act entitled "An Act to define the exterior boundary of the Uintah and Ouray Indian Reservation in the State of Utah, and for other purposes".</title>
+  </titles>
+  <sponsor id="400255"/>
+  <cosponsors>
+    <cosponsor id="400029" joined="2012-02-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-02-14">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2012-02-17">
+      <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-02-17">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-03-20">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-04-25">
+      <text>Subcommittee on Energy and Mineral Resources Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-04-25">
+      <text>Subcommittee Indian and Alaska Native Affairs Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2012-04-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-04-25">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2012-05-31T15:18:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 112-509.</text>
+    </action>
+    <calendar datetime="2012-05-31T15:18:00-04:00" calendar="Union" number="357">
+      <text>Placed on the Union Calendar, Calendar No. 357.</text>
+    </calendar>
+    <action datetime="2012-06-18T16:07:00-04:00">
+      <text>Mr. Hastings (WA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-06-18T16:07:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3712-3713" label="consideration"/>
+    </action>
+    <action datetime="2012-06-18T16:07:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4027.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-06-18T16:12:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H3712" label="text"/>
+    </vote>
+    <action datetime="2012-06-18T16:12:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-06-19">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII24" subcommittee="Indian and Alaska Native Affairs" name="House Natural Resources"/>
+    <committee activity="Referral, Discharged" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="1053"/>
+    <bill relation="unknown" session="112" type="s" number="1209"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Land transfers"/>
+    <term name="Utah"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/2012--Passed House without amendment.
+Authorizes Utah to relinquish for the benefit of the Ute Indian Tribe of the Uintah and Ouray Reservation certain of its school trust or subsurface mineral lands south of the border between Grand County and Uintah County, Utah, in exchange for certain federal subsurface mineral lands north of that border. Directs the Secretary of the Interior to reserve an overriding interest in that portion of the mineral estate composed of minerals subject to leasing under the Mineral Leasing Act in the mineral lands conveyed to Utah. Delineates the extent of that interest. Requires Utah to reserve, for the benefit of its school trust, an overriding interest in that portion of the mineral estate composed of minerals subject to leasing under the Mineral Leasing Act in the mineral lands it relinquished to the federal government. Delineates the extent of that interest. Obligates neither the federal government nor Utah to lease or otherwise develop oil and gas resources in which the other party retains an overriding interest under this Act. Authorizes the Secretary to enter into cooperative agreements with Utah and the Tribe to facilitate the relinquishment and selection of the lands to be conveyed, and the administration of the overriding interests reserved under this Act. Terminates the overriding interests reserved by the Secretary and Utah 30 years after this Act's enactment.</summary>
+</bill>

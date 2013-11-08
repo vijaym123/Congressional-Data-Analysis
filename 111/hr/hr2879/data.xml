@@ -1,0 +1,63 @@
+<bill session="111" type="h" number="2879" updated="2013-07-19T23:37:48-04:00">
+  <state datetime="2009-06-15">REFERRED</state>
+  <status>
+    <introduced datetime="2009-06-15"/>
+  </status>
+  <introduced datetime="2009-06-15"/>
+  <titles>
+    <title as="introduced" type="short">Rural Veterans Health Care Improvement Act of 2009</title>
+    <title as="introduced" type="official">To amend title 38, United States Code, to improve health care for veterans who live in rural areas, and for other purposes.</title>
+  </titles>
+  <sponsor id="412286"/>
+  <cosponsors>
+    <cosponsor id="412279" joined="2009-10-29"/>
+    <cosponsor id="412287" joined="2010-03-10"/>
+    <cosponsor id="412293" joined="2009-09-30"/>
+    <cosponsor id="400274" joined="2009-10-29"/>
+    <cosponsor id="412300" joined="2009-10-06"/>
+    <cosponsor id="412304" joined="2009-06-15"/>
+    <cosponsor id="412316" joined="2009-10-01"/>
+    <cosponsor id="412214" joined="2009-10-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-15">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-06-19">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-03-25">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="658"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Afghanistan"/>
+    <term name="Asia"/>
+    <term name="Congressional oversight"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Indian social and development programs"/>
+    <term name="Iraq"/>
+    <term name="Mental health"/>
+    <term name="Middle East"/>
+    <term name="Military operations and strategy"/>
+    <term name="Minority health"/>
+    <term name="Rural conditions and development"/>
+    <term name="Transportation costs"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>6/15/2009--Introduced.
+Rural Veterans Health Care Improvement Act of 2009 - Authorizes the Secretary of Veterans Affairs to pay travel expenses for veterans receiving treatment at Department of Veterans Affairs (VA) facilities at the rate of 41.5 cents per mile. (Under current law the rate is that provided to federal employees in connection with the performance of official duties.) Directs the Secretary to: (1) establish and operate at least one and up to five centers of excellence for rural health research, education, and clinical activities; (2) establish a grant program to provide innovative transportation options to veterans in highly rural areas; (3) carry out demonstration projects to examine alternatives for expanding care for veterans in rural areas; (4) establish a program to provide peer support, readjustment, and mental health services to veterans who served in Operations Iraqi Freedom and Enduring Freedom (and related services to their family members); (5) assign an Indian Veterans Health Care Coordinator for each of the ten VA facilities that serve communities with the greatest per capita number of Indian veterans; (6) report to Congress jointly with the Secretary of Health and Human Services on the advisability of the joint establishment and operation by the VA's Veterans Health Administration and the Indian Health Service of health clinics to serve populations of Indian reservations, including Indian veterans; and (7) report annually to Congress on matters related to VA care for veterans residing in rural areas.</summary>
+</bill>

@@ -1,0 +1,70 @@
+<bill session="112" type="h" number="1800" updated="2013-07-20T01:25:51-04:00">
+  <state datetime="2011-05-12">REPORTED</state>
+  <status>
+    <unknown datetime="2011-05-12"/>
+  </status>
+  <introduced datetime="2011-05-06"/>
+  <titles>
+    <title as="introduced" type="short">FISA Sunsets Reauthorization Act of 2011</title>
+    <title as="reported to house" type="short">FISA Sunsets Reauthorization Act of 2011</title>
+    <title as="introduced" type="official">To temporarily extend expiring provisions of the USA PATRIOT Improvement and Reauthorization Act of 2005 relating to access to business records and roving wiretaps and to permanently extend expiring provisions of the Intelligence Reform and Terrorism Prevention Act of 2004 relating to individual terrorists as agents of foreign powers.</title>
+  </titles>
+  <sponsor id="400365"/>
+  <cosponsors>
+    <cosponsor id="400617" joined="2011-05-06"/>
+    <cosponsor id="400342" joined="2011-05-06"/>
+    <cosponsor id="400381" joined="2011-05-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-05-06">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-05-06">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2011-05-06">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="2011-05-11T15:32:00-04:00">
+      <text>Mr. Lungren, Daniel E. asked unanimous consent that the Committee on Judiciary have until 5:00 p.m. on May 18 to file a report on H.R. 1800. Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-05-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-05-12">
+      <text>Ordered to be Reported by the Yeas and Nays: 22 - 13.</text>
+      <committee name="House Judiciary"/>
+    </calendar>
+    <action datetime="2011-05-18T16:43:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 112-79, Part I.</text>
+    </action>
+    <action datetime="2011-05-18T16:43:00-04:00">
+      <text>Committee on Intelligence (Permanent) discharged.</text>
+    </action>
+    <calendar datetime="2011-05-18T16:44:00-04:00" calendar="Union" number="40">
+      <text>Placed on the Union Calendar, Calendar No. 40.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="514"/>
+    <bill relation="unknown" session="112" type="s" number="149"/>
+    <bill relation="unknown" session="112" type="s" number="1038"/>
+    <bill relation="unknown" session="112" type="s" number="1114"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Telephone and wireless communication"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>5/18/2011--Reported to House without amendment, Part I.
+FISA Sunsets Reauthorization Act of 2011 - Amends the USA PATRIOT Improvement and Reauthorization Act of 2005 to extend through 2017 a provision granting roving electronic surveillance authority. Amends the Intelligence Reform and Terrorism Prevention Act of 2004 to make permanent a provision revising the definition of an "agent of a foreign power" to include any non-U.S. person who engages in international terrorism or preparatory activities ("lone wolf" provision).</summary>
+</bill>

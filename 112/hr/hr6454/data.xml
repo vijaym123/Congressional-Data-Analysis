@@ -1,0 +1,46 @@
+<bill session="112" type="h" number="6454" updated="2013-07-20T02:05:39-04:00">
+  <state datetime="2012-09-20">REFERRED</state>
+  <status>
+    <introduced datetime="2012-09-20"/>
+  </status>
+  <introduced datetime="2012-09-20"/>
+  <titles>
+    <title as="introduced" type="short">Department of Energy High-End Computing Act of 2012</title>
+    <title as="introduced" type="official">To amend the Department of Energy High-End Computing Revitalization Act of 2004 to improve the high-end computing research and development program of the Department of Energy, and for other purposes.</title>
+  </titles>
+  <sponsor id="400027"/>
+  <cosponsors>
+    <cosponsor id="412422" joined="2012-11-09"/>
+    <cosponsor id="400245" joined="2012-11-13"/>
+    <cosponsor id="412293" joined="2012-11-15"/>
+    <cosponsor id="412239" joined="2012-11-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-09-20">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2012-10-10">
+      <text>Referred to the Subcommittee on Energy and Environment.</text>
+      <committee name="House Committee on Science, Space, and Technology"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSY20" subcommittee="Energy and Environment" name="House Science, Space, and Technology"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="3459"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Computers and information technology"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Energy"/>
+    <term name="Public-private cooperation"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+  </subjects>
+  <amendments/>
+  <summary>9/20/2012--Introduced.
+Department of Energy High-End Computing Act of 2012 - Amends the Department of Energy High-End Computing Revitalization Act of 2004 with respect to: (1) exascale computing (computing system performance at or near 10 to the 18th power floating point operations per second); and (2) a high-end computing sytem with performance substantially exceeding that of systems commonly available for advanced scientific and engineering applications. Directs the Secretary of Energy (DOE) to: (1) coordinate the development of high-end computing systems across DOE; and (2) include among the multiple architectures researched any computer technologies that show promise of substantial reductions in power requirements and substantial gains in parallelism of multicore processors, concurrency, memory and storage, bandwidth, and reliability. Repeals authority for establishment of at least one High-End Software Development Center. Directs the Secretary to conduct a coordinated research program to develop one or more exascale computing systems to advance DOE missions. Requires establishment through competitive merit review of two or more DOE National Laboratory-industry partnerships to conduct integrated research, development, and engineering of one or more prototype exascale systems. Requires the Secretary to conduct mission-related co-design activities in developing prototype exascale platforms. Defines "co-design" as the joint development of application algorithms, models, and codes with computer technology architectures and operating systems to maximize effective use of high-end computing systems. Directs the Secretary to develop any advancements in hardware and software technology required to realize fully the potential of an exascale production system in addressing DOE target applications and solving scientific problems involving predictive modeling and simulation and large-scale data analytics and management.</summary>
+</bill>

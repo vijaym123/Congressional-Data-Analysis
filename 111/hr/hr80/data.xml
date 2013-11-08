@@ -1,0 +1,118 @@
+<bill session="111" type="h" number="80" updated="2013-07-19T23:12:34-04:00">
+  <state datetime="2009-02-24T14:09:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-02-24T14:09:00-05:00"/>
+  </status>
+  <introduced datetime="2009-01-06"/>
+  <titles>
+    <title as="introduced" type="short">Captive Primate Safety Act</title>
+    <title as="passed house" type="short">Captive Primate Safety Act</title>
+    <title as="reported to senate" type="short">Captive Primate Safety Act</title>
+    <title as="introduced" type="official">To amend the Lacey Act Amendments of 1981 to treat nonhuman primates as prohibited wildlife species under that Act, to make corrections in the provisions relating to captive wildlife offenses under that Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="400033"/>
+  <cosponsors>
+    <cosponsor id="400025" joined="2009-02-12"/>
+    <cosponsor id="400041" joined="2009-02-23"/>
+    <cosponsor id="412208" joined="2009-02-23"/>
+    <cosponsor id="400049" joined="2009-01-09"/>
+    <cosponsor id="400062" joined="2009-02-23"/>
+    <cosponsor id="400129" joined="2009-01-09"/>
+    <cosponsor id="400162" joined="2009-02-12"/>
+    <cosponsor id="412282" joined="2009-02-23"/>
+    <cosponsor id="400195" joined="2009-02-12"/>
+    <cosponsor id="400199" joined="2009-02-23"/>
+    <cosponsor id="400204" joined="2009-01-27"/>
+    <cosponsor id="400222" joined="2009-01-06"/>
+    <cosponsor id="400227" joined="2009-02-23"/>
+    <cosponsor id="412290" joined="2009-01-27"/>
+    <cosponsor id="400237" joined="2009-01-22"/>
+    <cosponsor id="400238" joined="2009-02-12"/>
+    <cosponsor id="400245" joined="2009-02-23"/>
+    <cosponsor id="400251" joined="2009-02-23"/>
+    <cosponsor id="400278" joined="2009-01-22"/>
+    <cosponsor id="400282" joined="2009-01-22"/>
+    <cosponsor id="400283" joined="2009-01-09"/>
+    <cosponsor id="400289" joined="2009-01-27"/>
+    <cosponsor id="400308" joined="2009-01-27"/>
+    <cosponsor id="412232" joined="2009-02-23"/>
+    <cosponsor id="400387" joined="2009-01-27"/>
+    <cosponsor id="400415" joined="2009-01-22"/>
+    <cosponsor id="400436" joined="2009-02-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-01-06">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E14"/>
+    </action>
+    <action state="REFERRED" datetime="2009-01-06">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-02-04">
+      <text>Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-02-23T14:56:00-05:00">
+      <text>Ms. Bordallo moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-02-23T14:56:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1616-1622" label="consideration"/>
+    </action>
+    <action datetime="2009-02-23T14:56:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 80.</text>
+    </action>
+    <action datetime="2009-02-23T15:30:00-05:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Broun (GA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2009-02-24T14:01:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2606-2607, H2622" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-02-24T14:09:00-05:00" how="roll" result="pass" roll="76" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 323 - 95 (Roll no. 76).</text>
+      <reference ref="CR 2/23/2009 H1617" label="text"/>
+    </vote>
+    <action datetime="2009-02-24T14:09:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-02-25">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2009-03-12">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <calendar datetime="2009-05-14">
+      <text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Environment and Public Works"/>
+    </calendar>
+    <action datetime="2009-07-20">
+      <text>Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 111-53.</text>
+    </action>
+    <calendar datetime="2009-07-20" calendar="Senate Legislative" under="General Orders" number="118">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 118.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII22" subcommittee="Insular Affairs, Oceans and Wildlife" name="House Natural Resources"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="462"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Crimes against animals and natural resources"/>
+    <term name="Department of the Interior"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Law enforcement officers"/>
+    <term name="Smuggling and trafficking"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>7/20/2009--Reported to Senate without amendment.
+Captive Primate Safety Act - Amends the Lacey Act Amendments of 1981 to add nonhuman primates to the definition of "prohibited wildlife species" for purposes of the prohibition against the sale or purchase of such species in interstate or foreign commerce.Makes it unlawful for a person to import, export, transport, sell, receive, acquire, or purchase a live animal of any prohibited wildlife species in interstate or foreign commerce (i.e., for pet trade purposes). Sets forth exceptions to such prohibition, including, under certain conditions, for: (1) transporting a nonhuman primate to or from a veterinarian; (2) transporting a nonhuman primate to a legally designated caregiver as a result of the death of the preceding owner; and (3) transporting a single primate of the genus Cebus that was obtained from and trained by a charitable organization to assist a permanently disabled individual with a severe mobility impairment. Sets forth civil and criminal penalties for violations of the requirements of this Act. Extends the authorization of appropriations to carry out such prohibition for FY2010-FY2014.Authorizes appropriations to the Secretary for FY2010 to hire additional law enforcement personnel of the United States Fish and Wildlife Service to enforce the Lacey Act Amendments of 1981.</summary>
+</bill>

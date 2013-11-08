@@ -1,0 +1,49 @@
+<bill session="111" type="h" number="2534" updated="2013-07-19T23:34:41-04:00">
+  <state datetime="2009-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="2009-05-20"/>
+  </status>
+  <introduced datetime="2009-05-20"/>
+  <titles>
+    <title as="introduced" type="short">Physician Pathology Services Continuity Act of 2009</title>
+    <title as="introduced" type="official">To amend title XVIII of the Social Security Act to provide for the treatment of certain physician pathology services under the Medicare Program.</title>
+  </titles>
+  <sponsor id="400395"/>
+  <cosponsors>
+    <cosponsor id="400040" joined="2009-07-17"/>
+    <cosponsor id="400633" joined="2009-05-21"/>
+    <cosponsor id="400443" joined="2010-06-10"/>
+    <cosponsor id="400383" joined="2009-10-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-05-20">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-05-20">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-05-20">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2009-05-21">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="947"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2009--Introduced.
+Physician Pathology Services Continuity Act of 2009 - Amends title XVIII (Medicare) of the Social Security Act to require the Secretary of Health and Human Services, with regard to a laboratory-furnished technical component of certain physician pathology services, to treat such component as a service for which payment shall be made to the laboratory, and not as an inpatient hospital or hospital outpatient service for which payment is made to the hospital.</summary>
+</bill>

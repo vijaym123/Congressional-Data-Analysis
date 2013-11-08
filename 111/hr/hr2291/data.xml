@@ -1,0 +1,48 @@
+<bill session="111" type="h" number="2291" updated="2013-07-19T23:32:29-04:00">
+  <state datetime="2009-05-06">REFERRED</state>
+  <status>
+    <introduced datetime="2009-05-06"/>
+  </status>
+  <introduced datetime="2009-05-06"/>
+  <titles>
+    <title as="introduced" type="short">Medicare Early Detection of Cancer Promotion Act of 2009</title>
+    <title as="introduced" type="official">To amend title XVIII of the Social Security Act to eliminate coinsurance for screening mammography and colorectal cancer screening tests in order to promote the early detection of cancer.</title>
+  </titles>
+  <sponsor id="400403"/>
+  <cosponsors>
+    <cosponsor id="400257" joined="2010-02-04"/>
+    <cosponsor id="400660" joined="2009-05-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-05-06">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-05-06">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-05-06">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2009-05-07">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cancer"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Medicare"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/2009--Introduced.
+Medicare Early Detection of Cancer Promotion Act of 2009 - Amends title XVIII (Medicare) of the Social Security Act to eliminate the 20% coinsurance for screening mammography and colorectal cancer screening tests.</summary>
+</bill>

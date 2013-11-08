@@ -1,0 +1,134 @@
+<bill session="111" type="h" number="3820" updated="2013-07-19T23:46:34-04:00">
+  <state datetime="2010-03-02T19:08:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-03-02T19:08:00-05:00"/>
+  </status>
+  <introduced datetime="2009-10-15"/>
+  <titles>
+    <title as="introduced" type="short">Natural Hazards Risk Reduction Act of 2009</title>
+    <title as="introduced" partial="1" type="short">National Earthquake Hazards Reduction Program Reauthorization Act of 2009</title>
+    <title as="introduced" partial="1" type="short">National Windstorm Impact Reduction Act Reauthorization of 2009</title>
+    <title as="reported to house" type="short">Natural Hazards Risk Reduction Act of 2009</title>
+    <title as="reported to house" partial="1" type="short">National Earthquake Hazards Reduction Program Reauthorization Act of 2009</title>
+    <title as="reported to house" partial="1" type="short">National Windstorm Impact Reduction Act Reauthorization of 2009</title>
+    <title as="passed house" type="short">Natural Hazards Risk Reduction Act of 2010</title>
+    <title as="passed house" partial="1" type="short">National Earthquake Hazards Reduction Program Reauthorization Act of 2010</title>
+    <title as="passed house" partial="1" type="short">National Windstorm Impact Reduction Act Reauthorization of 2010</title>
+    <title as="introduced" type="official">To reauthorize Federal natural hazards reduction programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="400437"/>
+  <cosponsors>
+    <cosponsor id="400155" joined="2009-10-20"/>
+    <cosponsor id="412276" joined="2009-10-15"/>
+    <cosponsor id="400282" joined="2009-10-15"/>
+    <cosponsor id="400361" joined="2010-02-26"/>
+    <cosponsor id="412217" joined="2009-10-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-10-15">
+      <text>Referred to the Committee on Science and Technology, and in addition to the Committees on Natural Resources, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-10-15">
+      <text>Referred to House Science and Technology</text>
+    </action>
+    <action datetime="2009-10-15">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2009-10-15">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2009-10-16">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-10-19">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2009-10-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Science and Technology"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-10-21">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Science and Technology"/>
+    </calendar>
+    <action datetime="2010-01-20">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2010-02-26T17:36:00-05:00">
+      <text>Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-424, Part I.</text>
+    </action>
+    <action datetime="2010-02-26T17:36:00-05:00">
+      <text>Committee on Natural Resources discharged.</text>
+    </action>
+    <action datetime="2010-02-26T17:36:00-05:00">
+      <text>Committee on Transportation discharged.</text>
+    </action>
+    <calendar datetime="2010-02-26T17:36:00-05:00" calendar="Union" number="244">
+      <text>Placed on the Union Calendar, Calendar No. 244.</text>
+    </calendar>
+    <action datetime="2010-03-02T14:11:00-05:00">
+      <text>Mr. Wu moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-03-02T14:12:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H975-984" label="consideration"/>
+    </action>
+    <action datetime="2010-03-02T14:12:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3820.</text>
+    </action>
+    <action datetime="2010-03-02T14:34:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-03-02T19:00:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H999-1000" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-03-02T19:08:00-05:00" how="roll" result="pass" roll="76" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 335 - 50 (Roll no. 76).</text>
+      <reference ref="CR H976-980" label="text"/>
+    </vote>
+    <action datetime="2010-03-02T19:08:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-03-03">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science and Technology" activity="Referral, Markup, Reporting"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Discharged"/>
+    <committee activity="Referral, Hearings" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="3535"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Advisory bodies"/>
+    <term name="Building construction"/>
+    <term name="Department of Commerce"/>
+    <term name="Emergency communications systems"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Emergency Management Agency (FEMA)"/>
+    <term name="Fires"/>
+    <term name="Floods and storm protection"/>
+    <term name="Government information and archives"/>
+    <term name="Housing industry and standards"/>
+    <term name="National Science Foundation"/>
+    <term name="Natural disasters"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+    <term name="Technology transfer and commercialization"/>
+  </subjects>
+  <amendments/>
+  <summary>3/2/2010--Passed House amended.
+Natural Hazards Risk Reduction Act of 2010 - Title I: Earthquakes - (Sec. 101) National Earthquake Hazards Reduction Program Reauthorization Act of 2010 - Amends the Earthquake Hazards Reduction Act of 1977 to revise and reauthorize the National Earthquake Hazards Reduction Program through FY2014. Repeals provisions establishing the Interagency Coordinating Committee on Earthquake Hazards Reduction and an associated advisory committee. Revises responsibilities of Program agencies, including by making: (1) the National Institute of Standards and Technology (NIST) responsible for research and development to improve building standards and practices; (2) the Federal Emergency Management Agency (FEMA), consistent with its all hazards approach, responsible for facilitating the adoption of model building codes; (3) the United States Geological Survey (USGS) responsible for providing real-time earthquake information; and (4) the National Science Foundation (NSF) responsible for funding basic research. Makes NIST (currently, USGS) responsible for organizing investigations under the post-earthquake investigations program. (Sec. 106) Includes within the authorization of appropriations for USGS funding for completion of the Advanced National Seismic Research and Monitoring System. Title II: Wind - (Sec. 201) National Windstorm Impact Reduction Reauthorization Act of 2010 - Amends the National Windstorm Impact Reduction Act of 2004 to revise and reauthorize the National Windstorm Impact Reduction Program through FY2014. Repeals provisions requiring the Director of the Office of Science and Technology Policy to establish an Interagency Working Group responsible for the planning, management, and coordination of the Program. Designates NIST as the lead agency and sets forth revised responsibilities of NIST and the other Program agencies: FEMA, NSF, and the National Oceanic and Atmospheric Administration (NOAA). Title III: Interagency Coordinating Committee on Natural Hazards Risk Reduction - (Sec. 301) Establishes an Interagency Coordinating Committee on Natural Hazards Risk Reduction, chaired by the Director of NIST, to oversee the planning and coordination of the National Earthquake Hazards Reduction Program, the National Windstorm Impact Reduction Program, and other federal research for natural hazard mitigation that the Committee considers appropriate. Requires: (1) the Committee to develop strategic plans and coordinated budgets for such Programs; and (2) the Director to establish an Advisory Committee on Earthquake Hazards Reduction, an Advisory Committee on Windstorm Impact Reduction, and other advisory committees to mitigate the impact of natural disasters, as necessary. Directs the Advisory Committee on Earthquake Hazards Reduction and the Advisory Committee on Windstorm Impact Reduction to offer assessments on: (1) trends and developments in the natural, social, and engineering sciences and practices of earthquake hazards or windstorm impact mitigation; (2) the priorities of the Programs' strategic plans; (3) the coordination of the Programs; and (4) any revisions to the Programs which may be necessary. Requires the Advisory Committees to report to the Director of NIST at least every two years with their recommendations. Requires the Subcommittee on Disaster Reduction of the Committee on Environment and Natural Resources of the National Science and Technology Council to report to Congress identifying: (1) current federal research, development, and technology transfer activities that address hazard mitigation for natural disasters, including earthquakes, hurricanes, tornadoes, wildfires, and floods and the current budgets for these activities; (2) areas of research that are common to two or more of those hazards; and (3) opportunities to create synergies between the research activities for such hazards. Title IV: National Construction Safety Team Act Amendments - (Sec. 401) Amends the National Construction Safety Team Act to authorize safety teams to be established for deployment after events causing the failure of infrastructure, as well as buildings, leading to a substantial loss of life. Grants the Director of NIST 72 hours to decide whether to deploy a Construction Safety Team. Grants priority, with respect to an investigation relating to an infrastructure failure, to the federal agency with primary jurisdiction over the failed infrastructure that is conducting an investigation and that asserts priority over the Team investigation, but provides that such priority shall not otherwise affect the Team's authority to continue its investigation under the Act. Title V: Fire Research Program - (Sec. 501) Amends the National Institute of Standards and Technology Act to include among the types of fires subject to the Fire Research Center's research program fires at the wildland-urban interface.</summary>
+</bill>

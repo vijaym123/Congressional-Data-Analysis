@@ -1,0 +1,32 @@
+<bill session="113" type="h" number="2406" updated="2013-11-02T06:39:15-04:00">
+  <state datetime="2013-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-17"/>
+  </status>
+  <introduced datetime="2013-06-17"/>
+  <titles>
+    <title type="official" as="introduced">For the relief of Daniel Wachira.</title>
+  </titles>
+  <sponsor id="400333"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-06-17" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-06-17">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration and Border Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/17/2013--Introduced.
+Provides for the relief of Daniel Wachira.</summary>
+</bill>

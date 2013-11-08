@@ -1,0 +1,54 @@
+<bill session="111" type="h" number="5965" updated="2013-07-20T00:06:26-04:00">
+  <state datetime="2010-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2010-07-29"/>
+  </status>
+  <introduced datetime="2010-07-29"/>
+  <titles>
+    <title as="introduced" type="short">Monongahela Conservation Legacy Act of 2010</title>
+    <title as="introduced" type="official">To designate certain Federal land within the Monongahela National Forest as a component of the National Wilderness Preservation System, and for other purposes.</title>
+  </titles>
+  <sponsor id="400281"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-29">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2010-07-29">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2010-07-29">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2010-08-05">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2010-09-16">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2010-11-16">
+      <text>Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry.</text>
+      <committee name="House Agriculture"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG22" subcommittee="Department Operations, Oversight, Nutrition and Forestry" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3863"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="West Virginia"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/2010--Introduced.
+Monongahela Conservation Legacy Act of 2010 - Designates the federal land within the Monongahela National Forest in West Virginia, to be known as the North Fork Mountain Wilderness, as a wilderness area for inclusion in the National Wilderness Preservation System (NWPS).</summary>
+</bill>

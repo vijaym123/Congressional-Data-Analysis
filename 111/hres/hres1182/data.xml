@@ -1,0 +1,82 @@
+<bill session="111" type="hr" number="1182" updated="2013-07-19T23:06:19-04:00">
+  <state datetime="2010-04-21T14:10:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2010-04-21T14:10:00-04:00"/>
+  </status>
+  <introduced datetime="2010-03-15"/>
+  <titles>
+    <title as="introduced" type="official">Congratulating Radford University on the 100th anniversary of the university.</title>
+  </titles>
+  <sponsor id="400043"/>
+  <cosponsors>
+    <cosponsor id="400616" joined="2010-04-14"/>
+    <cosponsor id="412272" joined="2010-04-14"/>
+    <cosponsor id="400082" joined="2010-04-14"/>
+    <cosponsor id="400110" joined="2010-04-14"/>
+    <cosponsor id="400114" joined="2010-04-14"/>
+    <cosponsor id="400137" joined="2010-03-15"/>
+    <cosponsor id="400152" joined="2010-04-14"/>
+    <cosponsor id="400154" joined="2010-03-18"/>
+    <cosponsor id="400155" joined="2010-04-14"/>
+    <cosponsor id="412222" joined="2010-04-14"/>
+    <cosponsor id="412220" joined="2010-04-14"/>
+    <cosponsor id="400183" joined="2010-04-14"/>
+    <cosponsor id="400237" joined="2010-04-14"/>
+    <cosponsor id="400253" joined="2010-04-14"/>
+    <cosponsor id="400271" joined="2010-04-14"/>
+    <cosponsor id="400661" joined="2010-04-14"/>
+    <cosponsor id="400283" joined="2010-03-15"/>
+    <cosponsor id="400295" joined="2010-04-14"/>
+    <cosponsor id="412304" joined="2010-03-15"/>
+    <cosponsor id="400331" joined="2010-04-14"/>
+    <cosponsor id="412253" joined="2010-04-14"/>
+    <cosponsor id="400345" joined="2010-04-14"/>
+    <cosponsor id="400352" joined="2010-04-14"/>
+    <cosponsor id="400364" joined="2010-03-15"/>
+    <cosponsor id="400425" joined="2010-04-14"/>
+    <cosponsor id="412227" joined="2010-04-14"/>
+    <cosponsor id="412255" joined="2010-03-15"/>
+    <cosponsor id="400435" joined="2010-03-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-03-15">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2010-04-21T14:01:00-04:00">
+      <text>Mr. Sablan moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2010-04-21T14:01:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2755-2756" label="consideration"/>
+    </action>
+    <action datetime="2010-04-21T14:01:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1182.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2010-04-21T14:10:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H2755" label="text"/>
+    </vote>
+    <action datetime="2010-04-21T14:10:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-04-30">
+      <text>Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education, Lifelong Learning, and Competitiveness" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Higher education"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/2010--Passed House without amendment.
+Commends Radford University, in Radford, Virginia, on its 100th anniversary.</summary>
+</bill>

@@ -1,0 +1,53 @@
+<bill session="113" type="h" number="1284" updated="2013-11-02T06:29:45-04:00">
+  <state datetime="2013-03-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-20"/>
+  </status>
+  <introduced datetime="2013-03-20"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to provide for coverage under the beneficiary travel program of the Department of Veterans Affairs of certain disabled veterans for travel for certain special disabilities rehabilitation, and for other purposes.</title>
+  </titles>
+  <sponsor id="412516"/>
+  <cosponsors>
+    <cosponsor id="412502" joined="2013-07-16"/>
+    <cosponsor id="412571" joined="2013-09-17"/>
+    <cosponsor id="412557" joined="2013-08-02"/>
+    <cosponsor id="400274" joined="2013-03-20"/>
+    <cosponsor id="412575" joined="2013-03-21"/>
+    <cosponsor id="412509" joined="2013-06-03"/>
+    <cosponsor id="400407" joined="2013-06-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-20" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-04-02">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2013-05-21">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="633"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Disability and paralysis"/>
+    <term name="Hearing, speech, and vision care"/>
+    <term name="Neurological disorders"/>
+    <term name="Transportation costs"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>3/20/2013--Introduced.
+Authorizes payment under the Department of Veterans Affairs (VA) beneficiary travel program of travel expenses in connection with medical examination, treatment, or care of a veteran with vision impairment, a spinal cord injury or disorder, or double or multiple amputations whose travel is in connection with care provided through a VA special disabilities rehabilitation program, if such care is provided: (1) on an inpatient basis, or (2) while a veteran is provided temporary lodging at a VA facility in order to make such care more accessible. Requires a report from the Secretary to the congressional veterans committees on the travel program.</summary>
+</bill>

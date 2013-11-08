@@ -1,0 +1,41 @@
+<bill session="111" type="h" number="3661" updated="2013-07-19T23:45:09-04:00">
+  <state datetime="2009-09-29">REFERRED</state>
+  <status>
+    <introduced datetime="2009-09-29"/>
+  </status>
+  <introduced datetime="2009-09-29"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to provide for a monthly housing stipend under the Post-9/11 Educational Assistance Program for individuals pursuing programs of education offered through distance learning, and for other purposes.</title>
+  </titles>
+  <sponsor id="400335"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-09-29">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-10-01">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H10436"/>
+    </action>
+    <action datetime="2009-10-02">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="3467"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Educational technology and distance education"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+  </subjects>
+  <amendments/>
+  <summary>9/29/2009--Introduced.
+Allows, and regulates the amount of, housing assistance payable to certain post-9/11 veterans (and, in some instances, those veterans' spouses, children, or both) who are pursuing distance learning.</summary>
+</bill>

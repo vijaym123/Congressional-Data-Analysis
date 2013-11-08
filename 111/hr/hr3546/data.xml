@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="3546" updated="2013-07-19T23:44:04-04:00">
+  <state datetime="2009-09-09">REFERRED</state>
+  <status>
+    <introduced datetime="2009-09-09"/>
+  </status>
+  <introduced datetime="2009-09-09"/>
+  <titles>
+    <title as="introduced" type="short">Small Business Lending Promotion Act of 2009</title>
+    <title as="introduced" type="official">To amend the Small Business Act to make permanent the Community Express Program, and for other purposes.</title>
+  </titles>
+  <sponsor id="412232"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2009-09-09"/>
+    <cosponsor id="412240" joined="2009-09-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-09-09">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+    <action datetime="2009-09-09">
+      <text>Referred to the Subcommittee on Finance and Tax.</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSM19" subcommittee="Finance and Tax" name="House Small Business"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>9/9/2009--Introduced.
+Small Business Lending Promotion Act of 2009 - Directs the Administrator of the Small Business Administration (SBA) to carry out the Community Express Program in the same manner as the SBA's Community Express Pilot Program was carried out on September 8, 2009.</summary>
+</bill>

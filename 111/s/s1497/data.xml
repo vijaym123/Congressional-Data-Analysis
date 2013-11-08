@@ -1,0 +1,40 @@
+<bill session="111" type="s" number="1497" updated="2013-07-20T00:37:06-04:00">
+  <state datetime="2009-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="2009-07-22"/>
+  </status>
+  <introduced datetime="2009-07-22"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend the Internal Revenue Code of 1986 to allow tax-exempt bond financing for fixed-wing emergency medical aircraft.</title>
+  </titles>
+  <sponsor id="300018"/>
+  <cosponsors>
+    <cosponsor id="300076" joined="2009-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-07-22">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S7887-7888"/>
+    </action>
+    <action state="REFERRED" datetime="2009-07-22">
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <reference ref="CR S7888" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="h" number="880"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Aviation and airports"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Income tax exclusion"/>
+    <term name="Securities"/>
+  </subjects>
+  <amendments/>
+  <summary>7/22/2009--Introduced.
+Amends the Internal Revenue Code to exempt fixed-wing aircraft used to provide acute care emergency medical services from certain restrictions on tax-exempt bond financing.</summary>
+</bill>

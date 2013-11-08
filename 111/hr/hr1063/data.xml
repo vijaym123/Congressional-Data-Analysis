@@ -1,0 +1,48 @@
+<bill session="111" type="h" number="1063" updated="2013-07-19T23:21:25-04:00">
+  <state datetime="2009-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2009-02-13"/>
+  </status>
+  <introduced datetime="2009-02-13"/>
+  <titles>
+    <title as="introduced" type="official">To repeal a requirement with respect to the procurement and acquisition of alternative fuels.</title>
+  </titles>
+  <sponsor id="400175"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2009-02-13"/>
+    <cosponsor id="400036" joined="2009-02-13"/>
+    <cosponsor id="400049" joined="2009-06-16"/>
+    <cosponsor id="400060" joined="2009-02-13"/>
+    <cosponsor id="400655" joined="2009-02-13"/>
+    <cosponsor id="400151" joined="2009-02-13"/>
+    <cosponsor id="400315" joined="2009-02-13"/>
+    <cosponsor id="400626" joined="2009-06-16"/>
+    <cosponsor id="400414" joined="2009-06-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-13">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2009-05-04">
+      <text>Referred to the Subcommittee on Government Management, Organization, and Procurement.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO24" subcommittee="Government Management, Organization, and Procurement" name="House Oversight and Government Reform"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="290"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Motor fuels"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2009--Introduced.
+Amends the Energy Independence and Security Act of 2007 to repeal provisions prohibiting any federal agency from entering into a contract for procurement of an alternative or synthetic fuel for any mobility-related use, other than for research or testing, unless the contract specifies that the lifecycle greenhouse gas emissions associated with the production and combustion of the fuel must be less than or equal to such emissions from the equivalent conventional fuel.</summary>
+</bill>

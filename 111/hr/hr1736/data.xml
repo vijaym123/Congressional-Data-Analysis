@@ -1,0 +1,97 @@
+<bill session="111" type="h" number="1736" updated="2013-07-19T23:27:25-04:00">
+  <state datetime="2009-06-08T18:58:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-06-08T18:58:00-04:00"/>
+  </status>
+  <introduced datetime="2009-03-26"/>
+  <titles>
+    <title as="introduced" type="short">International Science and Technology Cooperation Act of 2009</title>
+    <title as="reported to house" type="short">International Science and Technology Cooperation Act of 2009</title>
+    <title as="introduced" type="official">To provide for the establishment of a committee to identify and coordinate international science and technology cooperation that can strengthen the domestic science and technology enterprise and support United States foreign policy goals.</title>
+  </titles>
+  <sponsor id="400011"/>
+  <cosponsors>
+    <cosponsor id="400638" joined="2009-03-26"/>
+    <cosponsor id="400119" joined="2009-03-26"/>
+    <cosponsor id="400184" joined="2009-04-29"/>
+    <cosponsor id="400204" joined="2009-03-26"/>
+    <cosponsor id="400630" joined="2009-03-26"/>
+    <cosponsor id="400280" joined="2009-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-03-24">
+      <text>Hearings Held by the Subcommittee on Research and Science Education Prior to Introduction and Referral.</text>
+    </action>
+    <action state="REFERRED" datetime="2009-03-26">
+      <text>Referred to the House Committee on Science and Technology.</text>
+    </action>
+    <action datetime="2009-03-26">
+      <text>Referred to the Subcommittee on Research and Science Education.</text>
+      <committee name="House Committee on Science and Technology"/>
+    </action>
+    <action datetime="2009-03-31">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Science and Technology"/>
+    </action>
+    <action datetime="2009-03-31">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+      <committee name="House Committee on Science and Technology"/>
+    </action>
+    <action datetime="2009-04-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Science and Technology"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-04-29">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Science and Technology"/>
+    </calendar>
+    <action datetime="2009-05-21T18:38:00-04:00">
+      <text>Reported (Amended) by the Committee on Science and Technology. H. Rept. 111-128.</text>
+    </action>
+    <calendar datetime="2009-05-21T18:39:00-04:00" calendar="Union" number="64">
+      <text>Placed on the Union Calendar, Calendar No. 64.</text>
+    </calendar>
+    <action datetime="2009-06-08T14:13:00-04:00">
+      <text>Mr. Baird moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-06-08T14:13:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6270-6272" label="consideration"/>
+    </action>
+    <action datetime="2009-06-08T14:13:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1736.</text>
+    </action>
+    <action datetime="2009-06-08T14:22:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2009-06-08T18:32:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6289-6290" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-06-08T18:58:00-04:00" how="roll" result="pass" roll="311" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 341 - 52 (Roll no. 311).</text>
+      <reference ref="CR H6270-6271" label="text"/>
+    </vote>
+    <action datetime="2009-06-08T18:58:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-06-09">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science and Technology" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSSY14" subcommittee="Research and Science Education" name="House Science and Technology"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="International scientific cooperation"/>
+    <term name="Office of Science and Technology Policy"/>
+  </subjects>
+  <amendments/>
+  <summary>6/8/2009--Passed House amended.
+International Science and Technology Cooperation Act of 2009 - Requires the Director of the Office of Science and Technology Policy (OSTP) to establish a committee under the National Science and Technology Council that has the responsibility of identifying and coordinating international science and technology cooperation that can strengthen U.S. science and technology enterprise, improve economic and national security, and support U.S. foreign policy goals. Requires the committee to be co-chaired by senior level officials from OSTP and the Department of State. Requires the committee to: (1) plan and coordinate interagency international science and technology cooperative research and training activities and partnerships supported or managed by federal agencies; (2) establish federal priorities and policies for aligning such international science and technology cooperative research and training activities and partnerships with the foreign policy goals of the United States; (3) identify opportunities for new international science and technology cooperative research and training partnerships that advance science and technology and U.S. foreign policy priorities; (4) solicit recommendations from non-federal science and technology stakeholders; (5) work with international science and technology counterparts to establish and maintain partnerships; and (6) address broad issues that influence the ability of U.S. scientists and engineers to collaborate with foreign counterparts. Requires the Director of OSTP to report annually to Congress on: (1) the priorities and policies established under this Act; (2) the ongoing and new partnerships identified in the previous year; and (3) how stakeholder input was received.</summary>
+</bill>

@@ -1,0 +1,98 @@
+<bill session="112" type="h" number="2800" updated="2013-07-20T01:34:29-04:00">
+  <state datetime="2012-09-11T15:08:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-09-11T15:08:00-04:00"/>
+  </status>
+  <introduced datetime="2011-08-05"/>
+  <titles>
+    <title as="reported to house" type="short">Missing Alzheimer's Disease Patient Alert Program Reauthorization Act of 2012</title>
+    <title as="passed house" type="short">Missing Alzheimer's Disease Patient Alert Program Reauthorization Act of 2012</title>
+    <title as="introduced" type="official">To amend the Violent Crime Control and Law Enforcement Act of 1994 to reauthorize the Missing Alzheimer's Disease Patient Alert Program.</title>
+  </titles>
+  <sponsor id="400422"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2011-08-05"/>
+    <cosponsor id="400048" joined="2011-08-05"/>
+    <cosponsor id="400073" joined="2011-08-05"/>
+    <cosponsor id="400074" joined="2011-09-15"/>
+    <cosponsor id="412236" joined="2011-08-05"/>
+    <cosponsor id="412215" joined="2011-09-15"/>
+    <cosponsor id="412327" joined="2011-08-05"/>
+    <cosponsor id="400162" joined="2011-09-15"/>
+    <cosponsor id="400237" joined="2011-08-05"/>
+    <cosponsor id="400249" joined="2012-07-24"/>
+    <cosponsor id="400253" joined="2011-08-05"/>
+    <cosponsor id="400295" joined="2011-08-05"/>
+    <cosponsor id="400312" joined="2011-08-05"/>
+    <cosponsor id="412253" joined="2011-08-05"/>
+    <cosponsor id="400347" joined="2011-08-05"/>
+    <cosponsor id="400350" joined="2011-08-05"/>
+    <cosponsor id="400355" joined="2011-08-05"/>
+    <cosponsor id="400380" joined="2011-08-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-08-05">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2011-08-25">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2012-07-26">
+      <text>Subcommittee on Crime, Terrorism, and Homeland Security Discharged.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2012-08-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-08-01">
+      <text>Ordered to be Reported in the Nature of a Substitute by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2012-09-10T15:18:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 112-651.</text>
+    </action>
+    <calendar datetime="2012-09-10T15:18:00-04:00" calendar="Union" number="469">
+      <text>Placed on the Union Calendar, Calendar No. 469.</text>
+    </calendar>
+    <action datetime="2012-09-11T15:00:00-04:00">
+      <text>Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-09-11T15:00:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5790-5791" label="consideration"/>
+    </action>
+    <action datetime="2012-09-11T15:00:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2800.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-09-11T15:08:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5790" label="text"/>
+    </vote>
+    <action datetime="2012-09-11T15:08:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-09-12">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Aging"/>
+    <term name="Department of Justice"/>
+    <term name="Emergency communications systems"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Neurological disorders"/>
+  </subjects>
+  <amendments/>
+  <summary>9/11/2012--Passed House amended.
+Missing Alzheimer's Disease Patient Alert Program Reauthorization of 2012 - Amends the Violent Crime Control and Law Enforcement Act of 1994 to revise requirements relating to the Missing Alzheimer's Disease Patient Alert Program to direct the Attorney General to: (1) award competitive grants to assist nonprofit organizations in paying for the costs of locally based, proactive programs to protect and locate missing patients with Alzheimer's disease and related dementias; and (2) give a preference for such grants to national nonprofit organizations that have experience working with patients with Alzheimer's disease and related dementias and their families (currently, the Attorney General is directed to award a single grant to a national voluntary organization to operate the Program). Authorizes appropriations for such grants through FY2017.</summary>
+</bill>

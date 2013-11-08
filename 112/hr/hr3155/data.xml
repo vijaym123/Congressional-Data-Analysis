@@ -1,0 +1,62 @@
+<bill session="112" type="h" number="3155" updated="2013-07-20T01:37:30-04:00">
+  <state datetime="2011-10-12">REFERRED</state>
+  <status>
+    <introduced datetime="2011-10-12"/>
+  </status>
+  <introduced datetime="2011-10-12"/>
+  <titles>
+    <title as="introduced" type="short">Northern Arizona Mining Continuity Act of 2011</title>
+    <title as="introduced" type="official">To preserve the multiple use land management policy in the State of Arizona, and for other purposes.</title>
+  </titles>
+  <sponsor id="400141"/>
+  <cosponsors>
+    <cosponsor id="400029" joined="2011-10-12"/>
+    <cosponsor id="412270" joined="2011-10-12"/>
+    <cosponsor id="400134" joined="2011-10-12"/>
+    <cosponsor id="412397" joined="2011-10-12"/>
+    <cosponsor id="400171" joined="2011-10-12"/>
+    <cosponsor id="412294" joined="2011-10-12"/>
+    <cosponsor id="400313" joined="2011-11-02"/>
+    <cosponsor id="412398" joined="2011-10-12"/>
+    <cosponsor id="412314" joined="2011-10-26"/>
+    <cosponsor id="412399" joined="2011-10-12"/>
+    <cosponsor id="400433" joined="2011-10-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-10-12">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2011-10-17">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-10-17">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-11-03">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="1690"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Arizona"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+    <term name="Mining"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments/>
+  <summary>10/12/2011--Introduced.
+Northern Arizona Mining Continuity Act of 2011- Prohibits the extension, renewal, or issuance of a notice of segregation or withdrawal of the public lands and National Forest System lands (including a part of such land) identified in Public Land Order 7773 (concerning emergency withdrawal of such lands in Coconino and Mohave Counties, Arizona), except by an express authorization by Congress that refers to this Act. Prohibits any such notice from having any legal effect.</summary>
+</bill>

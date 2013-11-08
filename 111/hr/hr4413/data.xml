@@ -1,0 +1,48 @@
+<bill session="111" type="h" number="4413" updated="2013-07-19T23:52:10-04:00">
+  <state datetime="2010-01-12">REFERRED</state>
+  <status>
+    <introduced datetime="2010-01-12"/>
+  </status>
+  <introduced datetime="2010-01-12"/>
+  <titles>
+    <title as="introduced" type="short">Science Parks Research and Innovative New Technologies Act</title>
+    <title as="introduced" type="official">To provide grants and loan guarantees for the development and construction of science parks to promote the clustering of innovation through high technology activities.</title>
+  </titles>
+  <sponsor id="412188"/>
+  <cosponsors>
+    <cosponsor id="400118" joined="2010-01-26"/>
+    <cosponsor id="412327" joined="2010-02-22"/>
+    <cosponsor id="412281" joined="2010-01-12"/>
+    <cosponsor id="400281" joined="2010-04-15"/>
+    <cosponsor id="412233" joined="2010-01-21"/>
+    <cosponsor id="412306" joined="2010-02-22"/>
+    <cosponsor id="412308" joined="2010-03-02"/>
+    <cosponsor id="412253" joined="2010-02-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-01-12">
+      <text>Referred to the House Committee on Science and Technology.</text>
+    </action>
+    <action datetime="2010-01-22">
+      <text>Referred to the Subcommittee on Technology and Innovation.</text>
+      <committee name="House Committee on Science and Technology"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science and Technology" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSY19" subcommittee="Technology and Innovation" name="House Science and Technology"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="583"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+  </subjects>
+  <amendments/>
+  <summary>1/12/2010--Introduced.
+Science Parks Research and Innovative New Technologies Act - Amends the Stevenson-Wydler Technology Innovation Act of 1980 to direct the Secretary of Commerce to award grants for the development of feasibility studies and plans for the construction of new or the expansion, including renovation and modernization, of existing science parks. Allows the Secretary to guarantee up to 80% of the loan amount for projects for the construction or the expansion, including renovation and modernization, of such infrastructure. Directs the Secretary to enter into an agreement with the Board on Science, Technology, and Economic Policy of the National Academy of Sciences (NAS) under which the Board shall: (1) conduct an evaluation of such development under this Act; and (2) review and recommend best practices for the development of U.S. science parks, including metrics for their success.</summary>
+</bill>

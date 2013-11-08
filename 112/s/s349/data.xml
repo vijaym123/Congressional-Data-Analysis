@@ -1,0 +1,99 @@
+<bill session="112" type="s" number="349" updated="2013-07-20T02:19:32-04:00">
+  <state datetime="2011-06-29">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2011-06-29"/>
+  </status>
+  <introduced datetime="2011-02-15"/>
+  <titles>
+    <title as="introduced" type="official">A bill to designate the facility of the United States Postal Service located at 4865 Tallmadge Road in Rootstown, Ohio, as the "Marine Sgt. Jeremy E. Murray Post Office".</title>
+  </titles>
+  <sponsor id="400050"/>
+  <cosponsors>
+    <cosponsor id="400325" joined="2011-02-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-02-15">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2011-05-03">
+      <text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-05-11">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2011-05-12">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2011-05-12" calendar="Senate Legislative" under="General Orders" number="46">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 46.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2011-05-16" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S3000" label="consideration"/>
+      <reference ref="CR S3000" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2011-05-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2011-05-23T14:06:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2011-05-23">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2011-06-21T17:42:00-04:00">
+      <text>Mr. Farenthold moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2011-06-21T17:42:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4341-4342" label="consideration"/>
+    </action>
+    <action datetime="2011-06-21T17:42:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 349.</text>
+    </action>
+    <action datetime="2011-06-21T17:47:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2011-06-21T19:02:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4346" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2011-06-21T19:10:00-04:00" how="roll" result="pass" roll="462" type="vote2" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 397 - 0 (Roll no. 462).</text>
+      <reference ref="CR H4341-4342" label="text"/>
+    </vote>
+    <action datetime="2011-06-21T19:10:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2011-06-23">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2011-06-29">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2011-06-29" type="public" number="112-22">
+      <text>Became Public Law No: 112-22.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSGA09" subcommittee="Federal Financial Management, Government Information, Federal Services, and International Security" name="Senate Homeland Security and Governmental Affairs"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="h" number="725"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Ohio"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>6/29/2011--Public Law.
+Designates the facility of the United States Postal Service located at 4865 Tallmadge Road in Rootstown, Ohio, as the "Marine Sgt. Jeremy E. Murray Post Office."</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="4654" updated="2013-07-19T23:54:27-04:00">
+  <state datetime="2010-02-23">REFERRED</state>
+  <status>
+    <introduced datetime="2010-02-23"/>
+  </status>
+  <introduced datetime="2010-02-23"/>
+  <titles>
+    <title as="introduced" type="short">Veterans Access to Care Act</title>
+    <title as="introduced" type="official">To amend the Public Health Service Act to designate certain medical facilities of the Department of Veterans Affairs as health professional shortage areas, and for other purposes.</title>
+  </titles>
+  <sponsor id="412208"/>
+  <cosponsors>
+    <cosponsor id="400042" joined="2010-02-23"/>
+    <cosponsor id="412209" joined="2010-02-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-02-23">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2010-02-24">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3179"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Medical education"/>
+    <term name="Student aid and college costs"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>2/23/2010--Introduced.
+Veterans Access to Care Act - Amends the Public Health Service Act to designate medical facilities of the Department of Veterans Affairs (VA) as health professional shortage areas. Requires, for eligibility to participate in the National Health Service Corps Scholarship Program and the National Health Service Corps Loan Repayment Program, that an individual not be participating in the VA's Health Professionals Educational Assistance Program. Directs the Secretary of Health and Human Services (HHS), in carrying out the National Health Service Corps Program, to consult with the Secretary of Veterans Affairs regarding health professional shortage areas that are VA medical facilities.</summary>
+</bill>

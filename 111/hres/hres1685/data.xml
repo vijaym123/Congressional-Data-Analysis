@@ -1,0 +1,47 @@
+<bill session="111" type="hr" number="1685" updated="2013-07-19T23:10:51-04:00">
+  <state datetime="2010-09-29">REFERRED</state>
+  <status>
+    <introduced datetime="2010-09-29"/>
+  </status>
+  <introduced datetime="2010-09-29"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the 20th anniversary of the annual September celebration of the harvest of rice in the United States.</title>
+  </titles>
+  <sponsor id="400026"/>
+  <cosponsors>
+    <cosponsor id="400006" joined="2010-11-30"/>
+    <cosponsor id="412269" joined="2010-09-29"/>
+    <cosponsor id="412262" joined="2010-09-29"/>
+    <cosponsor id="400121" joined="2010-09-29"/>
+    <cosponsor id="400176" joined="2010-09-29"/>
+    <cosponsor id="412302" joined="2010-09-29"/>
+    <cosponsor id="400311" joined="2010-09-29"/>
+    <cosponsor id="400652" joined="2010-09-29"/>
+    <cosponsor id="400402" joined="2010-09-29"/>
+    <cosponsor id="400403" joined="2010-11-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-09-29">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2010-11-16">
+      <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG16" subcommittee="General Farm Commodities and Risk Management" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="sr" number="651"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Grain"/>
+  </subjects>
+  <amendments/>
+  <summary>9/29/2010--Introduced.
+Recognizes the 20th anniversary of the annual September celebration of the rice harvest in the United States. Encourages the people of the United States to observe National Rice Month with appropriate ceremonies.</summary>
+</bill>

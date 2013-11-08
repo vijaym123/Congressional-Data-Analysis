@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="2603" updated="2013-11-02T06:40:55-04:00">
+  <state datetime="2013-06-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-28"/>
+  </status>
+  <introduced datetime="2013-06-28"/>
+  <titles>
+    <title type="short" as="introduced">Relevancy Act</title>
+    <title type="official" as="introduced">To amend the Foreign Intelligence Surveillance Act of 1978 to allow access to certain business records only if an investigation relates to a specific individual or specific group of individuals.</title>
+  </titles>
+  <sponsor id="412411"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-06-28" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-06-28">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-06-28">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="2013-07-15">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>6/28/2013--Introduced.
+Relevancy Act - Amends the Foreign Intelligence Surveillance Act of 1978 to authorize the Director of the Federal Bureau of Investigation (FBI) to apply for an order requiring the production of tangible things pursuant to an investigation to obtain foreign intelligence information not concerning a U.S. person or to protect against international terrorism or clandestine intelligence activities only if the subject of such investigation is a specific person or a specific group of persons.</summary>
+</bill>

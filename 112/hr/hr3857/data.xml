@@ -1,0 +1,100 @@
+<bill session="112" type="h" number="3857" updated="2013-07-20T01:43:29-04:00">
+  <state datetime="2012-09-12T17:23:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-09-12T17:23:00-04:00"/>
+  </status>
+  <introduced datetime="2012-01-31"/>
+  <titles>
+    <title as="introduced" type="short">Public Transit Security and Local Law Enforcement Support Act</title>
+    <title as="reported to house" type="short">Public Transit Security and Local Law Enforcement Support Act</title>
+    <title as="passed house" type="short">Public Transit Security and Local Law Enforcement Support Act</title>
+    <title as="introduced" type="official">To amend the Implementing Recommendations of the 9/11 Commission Act of 2007 to require the Secretary of Homeland Security to include as an eligible use the sustainment of specialized operational teams used by local law enforcement under the Transit Security Grant Program, and for other purposes.</title>
+  </titles>
+  <sponsor id="412499"/>
+  <cosponsors>
+    <cosponsor id="412451" joined="2012-01-31"/>
+    <cosponsor id="400219" joined="2012-01-31"/>
+    <cosponsor id="400333" joined="2012-05-07"/>
+    <cosponsor id="400341" joined="2012-01-31"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-01-31">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2012-02-02">
+      <text>Referred to the Subcommittee on Emergency Preparedness, Response and Communications.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2012-02-02">
+      <text>Referred to the Subcommittee on Transportation Security.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2012-05-09">
+      <text>Subcommittee on Transportation Security Discharged.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2012-05-09">
+      <text>Subcommittee on Emergency Preparedness, Response and Communications Discharged.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2012-05-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-05-09">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </calendar>
+    <action datetime="2012-05-30T14:25:00-04:00">
+      <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 112-498.</text>
+    </action>
+    <calendar datetime="2012-05-30T14:25:00-04:00" calendar="Union" number="351">
+      <text>Placed on the Union Calendar, Calendar No. 351.</text>
+    </calendar>
+    <action datetime="2012-09-11T16:29:00-04:00">
+      <text>Mr. Turner (NY) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-09-11T16:30:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5821-5824" label="consideration"/>
+    </action>
+    <action datetime="2012-09-11T16:30:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3857.</text>
+    </action>
+    <action datetime="2012-09-11T16:48:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2012-09-12T17:16:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5901" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-09-12T17:23:00-04:00" how="roll" result="pass" roll="570" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 355 - 62 (Roll no. 570).</text>
+      <reference ref="CR 9/11/2012 H5822" label="text"/>
+    </vote>
+    <action datetime="2012-09-12T17:23:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-09-13">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSHM12" subcommittee="Emergency Preparedness, Response, and Communications" name="House Homeland Security"/>
+    <committee activity="Referral, Discharged" code="HSHM07" subcommittee="Transportation Security" name="House Homeland Security"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Homeland security"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Law enforcement officers"/>
+    <term name="Public transit"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>9/12/2012--Passed House amended.
+Public Transit Security and Local Law Enforcement Support Act - Amends the Implementing Recommendations of the 9/11 Commission Act of 2007 to allow grants to eligible public transportation agencies for security improvements to be used for specialized patrol teams, including the sustainment of such teams without fiscal year limitation, as long as the agency applying for grant funds submits a sustainment plan for maintaining in future years the capability or capacity achieved with the funds. Authorizes appropriations for FY2012-FY2013. Prohibits more than 50% of such funds from being used for operational costs.</summary>
+</bill>

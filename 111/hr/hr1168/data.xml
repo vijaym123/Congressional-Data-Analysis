@@ -1,0 +1,97 @@
+<bill session="111" type="h" number="1168" updated="2013-07-19T23:22:23-04:00">
+  <state datetime="2009-11-02T19:01:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-11-02T19:01:00-05:00"/>
+  </status>
+  <introduced datetime="2009-02-25"/>
+  <titles>
+    <title as="introduced" type="short">Veterans Retraining Act of 2009</title>
+    <title as="passed house" type="short">Veterans Retraining Act of 2009</title>
+    <title as="introduced" type="official">To amend chapter 42 of title 38, United States Code, to provide certain veterans with employment training assistance.</title>
+  </titles>
+  <sponsor id="400040"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2009-10-07"/>
+    <cosponsor id="400048" joined="2009-10-28"/>
+    <cosponsor id="412196" joined="2009-10-20"/>
+    <cosponsor id="400056" joined="2009-10-28"/>
+    <cosponsor id="412300" joined="2009-11-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-25">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-02-27">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-05-21">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-10-08">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-10-08">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-10-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-10-28">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2009-11-02T14:24:00-05:00">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 111-323.</text>
+    </action>
+    <calendar datetime="2009-11-02T14:24:00-05:00" calendar="Union" number="185">
+      <text>Placed on the Union Calendar, Calendar No. 185.</text>
+    </calendar>
+    <action datetime="2009-11-02T14:32:00-05:00">
+      <text>Mr. Walz moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-11-02T14:32:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H12149-12151" label="consideration"/>
+    </action>
+    <action datetime="2009-11-02T14:32:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1168.</text>
+    </action>
+    <action datetime="2009-11-02T14:41:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2009-11-02T18:31:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H12177-12178" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-11-02T19:01:00-05:00" how="roll" result="pass" roll="832" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 356 - 0 (Roll no. 832).</text>
+      <reference ref="CR H12149" label="text"/>
+    </vote>
+    <action datetime="2009-11-02T19:01:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-11-03">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Employment and training programs"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>11/2/2009--Passed House amended.
+Veterans Retraining Act of 2009 - Authorizes the Secretary of Labor to pay to each covered veteran an assistance allowance for each month such veteran is enrolled in an employment and training program that teaches a skill in demand, as determined the Secretary. Limits such assistance to six months for each 10-year period. Includes as a covered veteran one who is: (1) unemployed for at least four consecutive months before applying for such assistance; (2) able to successfully complete the program; and (3) ineligible for other veterans' education or training assistance. Authorizes payment of a stipend to a covered veteran for moving expenses related to the receipt of such training. Authorizes appropriations.</summary>
+</bill>

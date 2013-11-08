@@ -1,0 +1,40 @@
+<bill session="112" type="hj" number="15" updated="2013-07-20T02:08:06-04:00">
+  <state datetime="2011-01-07">REFERRED</state>
+  <status>
+    <introduced datetime="2011-01-07"/>
+  </status>
+  <introduced datetime="2011-01-07"/>
+  <titles>
+    <title as="introduced" type="official">Proposing an amendment to the Constitution of the United States to authorize the line item veto.</title>
+  </titles>
+  <sponsor id="400321"/>
+  <cosponsors>
+    <cosponsor id="400147" joined="2011-02-10"/>
+    <cosponsor id="400388" joined="2011-02-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-01-07">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2011-01-24">
+      <text>Referred to the Subcommittee on the Constitution.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Budget process"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="General taxation matters"/>
+    <term name="Presidents and presidential powers"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/2011--Introduced.
+Constitutional Amendment - Authorizes the President, in the case of any bill, order, resolution, or vote presented by Congress, to decline to approve in whole any dollar amount of discretionary budget authority, any item of new direct spending, or any tax benefit.</summary>
+</bill>

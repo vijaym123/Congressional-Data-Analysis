@@ -1,0 +1,51 @@
+<bill session="113" type="h" number="2239" updated="2013-11-02T06:37:52-04:00">
+  <state datetime="2013-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-04"/>
+  </status>
+  <introduced datetime="2013-06-04"/>
+  <titles>
+    <title type="short" as="introduced">Stop Court-Packing Act</title>
+    <title type="official" as="introduced">To reduce the number of Federal judgeships for the U.S. Court of Appeals for the District of Columbia Circuit.</title>
+  </titles>
+  <sponsor id="412508"/>
+  <cosponsors>
+    <cosponsor id="412555" joined="2013-07-09"/>
+    <cosponsor id="400089" joined="2013-06-11"/>
+    <cosponsor id="412526" joined="2013-06-11"/>
+    <cosponsor id="412472" joined="2013-06-11"/>
+    <cosponsor id="400145" joined="2013-06-11"/>
+    <cosponsor id="400651" joined="2013-07-31"/>
+    <cosponsor id="412473" joined="2013-06-11"/>
+    <cosponsor id="412388" joined="2013-06-17"/>
+    <cosponsor id="400165" joined="2013-06-11"/>
+    <cosponsor id="412419" joined="2013-06-11"/>
+    <cosponsor id="412474" joined="2013-06-11"/>
+    <cosponsor id="400381" joined="2013-06-11"/>
+    <cosponsor id="412525" joined="2013-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-04" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-07-15">
+      <text>Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts, Intellectual Property, and the Internet" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="699"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Federal appellate courts"/>
+    <term name="Judges"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/2013--Introduced.
+Stop Court-Packing Act - Reduces from 11 to 8 the number of circuit judges appointed to the District of Columbia circuit court of appeals.</summary>
+</bill>

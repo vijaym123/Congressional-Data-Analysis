@@ -1,0 +1,56 @@
+<bill session="111" type="h" number="29" updated="2013-07-19T23:12:08-04:00">
+  <state datetime="2009-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="2009-01-06"/>
+  </status>
+  <introduced datetime="2009-01-06"/>
+  <titles>
+    <title as="introduced" type="short">Homeless Children and Youth Act of 2009</title>
+    <title as="introduced" type="official">To amend the definition of "homeless person" under the McKinney-Vento Homeless Assistance Act to include certain homeless children and youth.</title>
+  </titles>
+  <sponsor id="400027"/>
+  <cosponsors>
+    <cosponsor id="412258" joined="2009-01-06"/>
+    <cosponsor id="400093" joined="2009-10-06"/>
+    <cosponsor id="400633" joined="2009-01-06"/>
+    <cosponsor id="400179" joined="2009-01-06"/>
+    <cosponsor id="400216" joined="2010-05-20"/>
+    <cosponsor id="400257" joined="2009-01-06"/>
+    <cosponsor id="400282" joined="2009-05-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-01-06">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-01-06">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2009-01-06">
+      <text>Referred to House Education and Labor</text>
+    </action>
+    <action datetime="2009-03-06">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+      <committee name="House Education and Labor"/>
+    </action>
+    <action datetime="2009-03-06">
+      <text>Referred to the Subcommittee on Healthy Families and Communities.</text>
+      <committee name="House Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED14" subcommittee="Early Childhood, Elementary, and Secondary Education" name="House Education and Labor"/>
+    <committee activity="Referral" code="HSED04" subcommittee="Healthy Families and Communities" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Child safety and welfare"/>
+    <term name="Homelessness and emergency shelter"/>
+    <term name="Poverty and welfare assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/2009--Introduced.
+Amends the McKinney-Vento Homeless Assistance Act to redefine "homeless" or "homeless individual or homeless person" to include: (1) a child or youth who has been verified as homeless by a local educational agency (LEA) homeless liaison, and the family of such child or youth; (2) a youth verified as homeless by the director (or a designee) of a program funded under the Runaway and Homeless Youth Act; (3) a child verified as homeless by the program director (or designee) under the Individuals with Disabilities Education Act, and the child's family; and (4) a child verified as homeless by the Head Start program director (or designee) under the Head Start Act, and the child's family.</summary>
+</bill>

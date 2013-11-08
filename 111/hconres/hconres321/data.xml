@@ -1,0 +1,42 @@
+<bill session="111" type="hc" number="321" updated="2013-07-20T00:15:46-04:00">
+  <state datetime="2010-09-29">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2010-09-29"/>
+  </status>
+  <introduced datetime="2010-09-29"/>
+  <titles>
+    <title as="introduced" type="official">Providing for a conditional adjournment of the House of Representatives and a conditional recess or adjournment of the Senate.</title>
+  </titles>
+  <sponsor id="412224"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2010-09-29T12:21:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H7228" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-09-29T12:47:00-04:00" how="roll" result="pass" roll="546" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 210 - 209 (Roll no. 546).</text>
+      <reference ref="CR H7228" label="text"/>
+    </vote>
+    <action datetime="2010-09-29T12:47:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2010-09-29" how="roll" result="pass" roll="248" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Yea-Nay Vote. 54 - 39. Record Vote Number: 248.</text>
+      <reference ref="CR S7715-7716" label="consideration"/>
+      <reference ref="CR S7716" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2010-09-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional operations and organization"/>
+  </subjects>
+  <amendments/>
+  <summary>9/29/2010--Passed House without amendment.
+Declares that when the House adjourns on any legislative day from Wednesday, September 29, 2010, through Friday, October 8, 2010, it stand adjourned until 2 p.m. on Monday, November 15, 2010. Declares that when the Senate recesses or adjourns on any day from Wednesday, September 29, 2010, through Friday, November 12, 2010, it stand recessed or adjourned until noon on Monday, November 15, 2010.</summary>
+</bill>

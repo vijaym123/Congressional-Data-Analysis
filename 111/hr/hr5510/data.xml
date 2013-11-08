@@ -1,0 +1,85 @@
+<bill session="111" type="h" number="5510" updated="2013-07-20T00:02:20-04:00">
+  <state datetime="2010-12-17T16:52:00-05:00">PROV_KILL:SUSPENSIONFAILED</state>
+  <status>
+    <unknown datetime="2010-12-17T16:52:00-05:00"/>
+  </status>
+  <introduced datetime="2010-06-10"/>
+  <titles>
+    <title as="introduced" type="short">Aiding Those Facing Foreclosure Act of 2010</title>
+    <title as="introduced" type="official">To amend the Emergency Economic Stabilization Act of 2008 to allow amounts under the Troubled Assets Relief Program to be used to provide legal assistance to homeowners to avoid foreclosure.</title>
+  </titles>
+  <sponsor id="400211"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2010-07-19"/>
+    <cosponsor id="400048" joined="2010-12-15"/>
+    <cosponsor id="412379" joined="2010-12-08"/>
+    <cosponsor id="400080" joined="2010-07-13"/>
+    <cosponsor id="400100" joined="2010-07-15"/>
+    <cosponsor id="400110" joined="2010-07-15"/>
+    <cosponsor id="412274" joined="2010-06-14"/>
+    <cosponsor id="400133" joined="2010-09-23"/>
+    <cosponsor id="412327" joined="2010-06-23"/>
+    <cosponsor id="400162" joined="2010-06-30"/>
+    <cosponsor id="400170" joined="2010-06-29"/>
+    <cosponsor id="400198" joined="2010-12-15"/>
+    <cosponsor id="412199" joined="2010-12-21"/>
+    <cosponsor id="400216" joined="2010-11-17"/>
+    <cosponsor id="400217" joined="2010-12-08"/>
+    <cosponsor id="400227" joined="2010-06-30"/>
+    <cosponsor id="400235" joined="2010-07-22"/>
+    <cosponsor id="400237" joined="2010-07-19"/>
+    <cosponsor id="400240" joined="2010-12-21"/>
+    <cosponsor id="400280" joined="2010-07-13"/>
+    <cosponsor id="400295" joined="2010-12-09"/>
+    <cosponsor id="400352" joined="2010-07-01"/>
+    <cosponsor id="400360" joined="2010-12-14"/>
+    <cosponsor id="400387" joined="2010-06-30"/>
+    <cosponsor id="412228" joined="2010-12-01"/>
+    <cosponsor id="400409" joined="2010-12-15"/>
+    <cosponsor id="400424" joined="2010-07-13"/>
+    <cosponsor id="400436" joined="2010-12-15"/>
+    <cosponsor id="400437" joined="2010-12-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-06-10">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2010-12-17T11:12:00-05:00">
+      <text>Mr. Capuano moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-12-17T11:12:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8623-8629" label="consideration"/>
+      <reference ref="CR H8623" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2010-12-17T11:12:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5510.</text>
+    </action>
+    <action datetime="2010-12-17T11:47:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-12-17T16:31:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H8768" label="consideration"/>
+    </action>
+    <vote state="PROV_KILL:SUSPENSIONFAILED" datetime="2010-12-17T16:52:00-05:00" how="roll" result="fail" roll="655" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 210 - 145 (Roll no. 655).</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="3979"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Financial crises and stabilization"/>
+    <term name="Housing and community development funding"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Lawyers and legal services"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/2010--Introduced.
+Aiding Those Facing Foreclosure Act of 2010 - Amends the Emergency Economic Stabilization Act of 2008 (EESA) to authorize the Secretary of the Treasury to use otherwise unobligated amounts under the Troubled Asset Relief Program (TARP) to enable nonprofit counseling intermediaries and nonprofit legal organizations to provide legal assistance to homeowners of owner-occupied homes consisting of from one to four dwelling units whose mortgages are in default or delinquency, in danger of default or delinquency, or subject to or at risk of foreclosure (including any deed in lieu of foreclosure or short sale).</summary>
+</bill>

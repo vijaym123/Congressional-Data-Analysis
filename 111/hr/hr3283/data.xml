@@ -1,0 +1,35 @@
+<bill session="111" type="h" number="3283" updated="2013-07-19T23:41:43-04:00">
+  <state datetime="2009-07-21">REFERRED</state>
+  <status>
+    <introduced datetime="2009-07-21"/>
+  </status>
+  <introduced datetime="2009-07-21"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to allow for reimbursement of certain travel at a set rate, and for other purposes.</title>
+  </titles>
+  <sponsor id="400339"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-21">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-07-24">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Health care coverage and access"/>
+    <term name="Transportation costs"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>7/21/2009--Introduced.
+Authorizes the Secretary of Veterans Affairs to pay travel expenses for veterans receiving treatment at Department of Veterans Affairs (VA) facilities at the rate of 41.5 cents per mile. (Under current law the rate is that provided to federal employees in connection with the performance of official duties.) Requires an annual report concerning such expenses.</summary>
+</bill>

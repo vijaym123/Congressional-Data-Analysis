@@ -1,0 +1,85 @@
+<bill session="111" type="h" number="4624" updated="2013-07-19T23:54:10-04:00">
+  <state datetime="2010-03-09T16:25:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-03-09T16:25:00-05:00"/>
+  </status>
+  <introduced datetime="2010-02-09"/>
+  <titles>
+    <title as="introduced" type="official">To designate the facility of the United States Postal Service located at 125 Kerr Avenue in Rome City, Indiana, as the "SPC Nicholas Scott Hartge Post Office".</title>
+  </titles>
+  <sponsor id="400385"/>
+  <cosponsors>
+    <cosponsor id="400055" joined="2010-02-09"/>
+    <cosponsor id="400056" joined="2010-02-23"/>
+    <cosponsor id="412258" joined="2010-02-09"/>
+    <cosponsor id="412205" joined="2010-02-09"/>
+    <cosponsor id="412206" joined="2010-02-09"/>
+    <cosponsor id="400177" joined="2010-02-24"/>
+    <cosponsor id="400315" joined="2010-02-09"/>
+    <cosponsor id="400417" joined="2010-02-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-02-09">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2010-03-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-03-04">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2010-03-09T16:15:00-05:00">
+      <text>Mr. Clay moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-03-09T16:15:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1200-1201" label="consideration"/>
+    </action>
+    <action datetime="2010-03-09T16:15:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4624.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-03-09T16:25:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H1200" label="text"/>
+    </vote>
+    <action datetime="2010-03-09T16:25:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-03-10">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2010-03-26">
+      <text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+    <calendar datetime="2010-05-17">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2010-05-18">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2010-05-18" calendar="Senate Legislative" under="General Orders" number="396">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 396.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSGA09" subcommittee="Federal Financial Management, Government Information, Federal Services, and International Security" name="Senate Homeland Security and Governmental Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Indiana"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>2/9/2010--Introduced.
+Designates the facility of the United States Postal Service located at 125 Kerr Avenue in Rome City, Indiana, as the "SPC Nicholas Scott Hartge Post Office."</summary>
+</bill>

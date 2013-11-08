@@ -1,0 +1,93 @@
+<bill session="112" type="h" number="686" updated="2013-07-20T01:16:13-04:00">
+  <state datetime="2011-10-03T18:54:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2011-10-03T18:54:00-04:00"/>
+  </status>
+  <introduced datetime="2011-02-14"/>
+  <titles>
+    <title as="introduced" type="short">Utah National Guard Readiness Act</title>
+    <title as="reported to house" type="short">Utah National Guard Readiness Act</title>
+    <title as="passed house" type="short">Utah National Guard Readiness Act</title>
+    <title as="introduced" type="official">To require the conveyance of certain public land within the boundaries of Camp Williams, Utah, to support the training and readiness of the Utah National Guard.</title>
+  </titles>
+  <sponsor id="400029"/>
+  <cosponsors>
+    <cosponsor id="412270" joined="2011-02-14"/>
+    <cosponsor id="400255" joined="2011-02-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-02-14">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2011-02-17">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-05-04">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-06-15">
+      <text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2011-06-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-06-15">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2011-07-20T12:58:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-163.</text>
+    </action>
+    <calendar datetime="2011-07-20T12:58:00-04:00" calendar="Union" number="108">
+      <text>Placed on the Union Calendar, Calendar No. 108.</text>
+    </calendar>
+    <action datetime="2011-10-03T16:04:00-04:00">
+      <text>Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2011-10-03T16:04:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6470-6471" label="consideration"/>
+    </action>
+    <action datetime="2011-10-03T16:04:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 686.</text>
+    </action>
+    <action datetime="2011-10-03T16:07:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2011-10-03T18:32:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6485-6486" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-10-03T18:54:00-04:00" how="roll" result="pass" roll="742" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 742).</text>
+      <reference ref="CR H6470" label="text"/>
+    </vote>
+    <action datetime="2011-10-03T18:54:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-10-04">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Land transfers"/>
+    <term name="Military facilities and property"/>
+    <term name="National Guard and reserves"/>
+    <term name="Utah"/>
+  </subjects>
+  <amendments/>
+  <summary>10/3/2011--Passed House amended.
+(This measure has not been amended since it was reported to the House on July 20, 2011. The summary of that version is repeated here.) Utah National Guard Readiness Act - Directs the Secretary of the Interior, through the Bureau of Land Management (BLM) to convey to the state of Utah, without consideration, certain lands located within the boundaries of the public lands currently withdrawn for military use by the Utah National Guard and known as "Camp Williams" for the purpose of permitting the Utah National Guard to use such conveyed land. Provides for the supersedence of a specified Executive Order only insofar as it affects the lands identified for conveyance. Reverts conveyed lands to the United States if the Secretary of Defense (DOD) determines that the land, or any part of such land, is sold or attempted to be sold, or that it or any part is used for non-National Guard or non-national defense purposes. Requires the state, with respect to any part of the land conveyed that the Secretary of Defense determines is subject to reversion, if such Secretary determines that the part contains hazardous materials, to pay the United States the fair market value of that part of the conveyed land. Bars the application of the reversionary interest to that part of the land.</summary>
+</bill>

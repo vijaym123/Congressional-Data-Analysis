@@ -1,0 +1,89 @@
+<bill session="111" type="h" number="1672" updated="2013-07-19T23:26:49-04:00">
+  <state datetime="2009-12-07T12:48:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-12-07T12:48:00-05:00"/>
+  </status>
+  <introduced datetime="2009-03-23"/>
+  <titles>
+    <title as="introduced" type="short">Northwest Straits Marine Conservation Initiative Reauthorization Act of 2009</title>
+    <title as="reported to house" type="short">Northwest Straits Marine Conservation Initiative Reauthorization Act of 2009</title>
+    <title as="passed house" type="short">Northwest Straits Marine Conservation Initiative Reauthorization Act of 2009</title>
+    <title as="introduced" type="official">To reauthorize the Northwest Straits Marine Conservation Initiative Act to promote the protection of the resources of the Northwest Straits, and for other purposes.</title>
+  </titles>
+  <sponsor id="400232"/>
+  <cosponsors>
+    <cosponsor id="400109" joined="2009-03-23"/>
+    <cosponsor id="400193" joined="2009-03-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-23">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-03-26">
+      <text>Referred to the Subcommittee on Insular Affairs, Oceans and Wildlife.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-10-20">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-11-18">
+      <text>Subcommittee on Insular Affairs, Oceans and Wildlife Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-11-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-11-18">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2009-12-07T12:27:00-05:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-354.</text>
+    </action>
+    <calendar datetime="2009-12-07T12:27:00-05:00" calendar="Union" number="206">
+      <text>Placed on the Union Calendar, Calendar No. 206.</text>
+    </calendar>
+    <action datetime="2009-12-07T12:45:00-05:00">
+      <text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-12-07T12:45:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H13530-13532" label="consideration"/>
+    </action>
+    <action datetime="2009-12-07T12:45:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1672.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-12-07T12:48:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H13530-13532" label="text"/>
+    </vote>
+    <action datetime="2009-12-07T12:48:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="2009-12-08" calendar="Senate Legislative" under="General Orders" number="221">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 221.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII22" subcommittee="Insular Affairs, Oceans and Wildlife" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="668"/>
+    <bill relation="unknown" session="111" type="s" number="668"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Ecology"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Washington State"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>12/7/2009--Passed House amended.
+Northwest Straits Marine Conservation Initiative Reauthorization Act of 2009 - Amends the Northwest Straits Marine Conservation Initiative Act to define "Northwest Straits" as the marine waters of the Strait of Juan de Fuca and of Puget Sound from the Canadian border to the south end of Snohomish County, Washington. Sets forth the membership of the Northwest Straits Advisory Commission. Directs the Secretary of Commerce, acting through the Under Secretary for Oceans and Atmosphere, to appoint an employee of the National Oceanic and Atmospheric Administration (NOAA) to serve as a liaison between the Commission and the Department of Commerce and to attend the Commission's meetings and events as a nonvoting participant. States the goal of the Commission as the protection and restoration of the marine waters, habitats, and species of the Northwest Straits region in Washington to achieve ecosystem health and sustainable resource use. Enumerates the duties of the Commission and establishes benchmarks for its work. Requires the Commission to submit annual reports to Congress and the Under Secretary on its activities and its progress in achieving specified benchmarks. Authorizes the Manager of the Shorelands and Environmental Assistance Program of Washington's Department of Ecology, upon the recommendation of the Commission and the Director of the Padilla Bay National Estuarine Research Reserve, to appoint and terminate a Director of the Commission. Requires the Director to be confirmed by the Commission. Provides for the establishment of marine resources committees in specified counties of Washington. Authorizes the Director of the Commission and the Director of the State of Washington Department of Ecology to establish the Northwest Straits Marine Conservation Foundation as a nonprofit foundation to support the Commission and the marine resources committees established by this Act.</summary>
+</bill>

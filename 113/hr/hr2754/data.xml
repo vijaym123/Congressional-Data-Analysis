@@ -1,0 +1,67 @@
+<bill session="113" type="h" number="2754" updated="2013-11-02T06:42:10-04:00">
+  <state datetime="2013-07-30T20:20:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-07-30T20:20:00-04:00"/>
+  </status>
+  <introduced datetime="2013-07-19"/>
+  <titles>
+    <title type="short" as="introduced">Collectible Coin Protection Act</title>
+    <title type="short" as="passed house">Collectible Coin Protection Act</title>
+    <title type="official" as="introduced">To amend the Hobby Protection Act to make unlawful the provision of assistance or support in violation of that Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="400616"/>
+  <cosponsors>
+    <cosponsor id="412269" joined="2013-07-19"/>
+    <cosponsor id="412261" joined="2013-07-19"/>
+    <cosponsor id="400381" joined="2013-07-19"/>
+    <cosponsor id="400400" joined="2013-07-19"/>
+    <cosponsor id="400425" joined="2013-07-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-19" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-07-26">
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2013-07-30T20:12:00-04:00">
+      <text>Mr. Burgess moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-07-30T20:12:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5147-5148" label="consideration"/>
+    </action>
+    <action datetime="2013-07-30T20:12:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2754.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2013-07-30T20:20:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H5147" label="text"/>
+    </vote>
+    <action datetime="2013-07-30T20:20:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-07-31">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF17" subcommittee="Commerce, Manufacturing, and Trade" name="House Energy and Commerce"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="1849"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Competition and antitrust"/>
+    <term name="Currency"/>
+    <term name="Games and hobbies"/>
+    <term name="Intellectual property"/>
+  </subjects>
+  <amendments/>
+  <summary>7/30/2013--Passed House without amendment.
+Collectible Coin Protection Act - Amends the Hobby Protection Act to make it a violation of such Act for a person to provide substantial assistance or support to any manufacturer, importer, or seller if that person knows or should have known that such manufacturer, importer, or seller has engaged in any act or practice that violates requirements for plainly identifying imitation political items or imitation coins and other numismatic items. Provides that if such a violation also involves the unauthorized use of registered trademarks belonging to a collectibles certification service, the owner of such trademarks shall also have all rights provided under appropriate provisions of the Trademark Act of 1946.</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="112" type="h" number="6006" updated="2013-07-20T02:01:52-04:00">
+  <state datetime="2012-06-21">REFERRED</state>
+  <status>
+    <introduced datetime="2012-06-21"/>
+  </status>
+  <introduced datetime="2012-06-21"/>
+  <titles>
+    <title as="introduced" type="short">Early Treatment for HIV Act of 2012</title>
+    <title as="introduced" type="official">To amend title XIX of the Social Security Act to permit States the option to provide Medicaid coverage for low-income individuals infected with HIV.</title>
+  </titles>
+  <sponsor id="400122"/>
+  <cosponsors>
+    <cosponsor id="400361" joined="2012-06-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-06-21">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2012-06-22">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="1774"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="HIV/AIDS"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Medicaid"/>
+    <term name="State and local finance"/>
+  </subjects>
+  <amendments/>
+  <summary>6/21/2012--Introduced.
+Early Treatment for HIV Act of 2012 - Amends title XIX (Medicaid) of the Social Security Act (SSA) to: (1) give states the option to provide Medicaid coverage for low-income HIV-infected individuals, and (2) provide an enhanced federal medical assistance percentage (FMAP) to states taking this option. Amends SSA title XI to exempt medical assistance for optional low-income HIV-infected individuals from the funding limitation for territories.</summary>
+</bill>

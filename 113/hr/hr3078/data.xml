@@ -1,0 +1,41 @@
+<bill session="113" type="h" number="3078" updated="2013-11-02T06:44:55-04:00">
+  <state datetime="2013-09-10">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-10"/>
+  </status>
+  <introduced datetime="2013-09-10"/>
+  <titles>
+    <title type="short" as="introduced">Roth IRA Flexibility Act of 2013</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to disregard amounts transferred from a traditional IRA to a Roth IRA in computing income for purposes of determining the income-related premiums under parts B and D of the Medicare program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400379"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-09-10" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-09-10">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-09-10">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+</bill>

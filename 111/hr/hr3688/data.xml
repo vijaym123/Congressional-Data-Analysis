@@ -1,0 +1,71 @@
+<bill session="111" type="h" number="3688" updated="2013-07-19T23:45:25-04:00">
+  <state datetime="2009-10-01">REFERRED</state>
+  <status>
+    <introduced datetime="2009-10-01"/>
+  </status>
+  <introduced datetime="2009-10-01"/>
+  <titles>
+    <title as="introduced" type="official">To encourage programs of health promotion or disease prevention.</title>
+  </titles>
+  <sponsor id="412224"/>
+  <cosponsors>
+    <cosponsor id="400056" joined="2009-10-01"/>
+    <cosponsor id="412269" joined="2009-11-07"/>
+    <cosponsor id="400070" joined="2009-10-01"/>
+    <cosponsor id="412273" joined="2009-12-11"/>
+    <cosponsor id="400099" joined="2009-10-01"/>
+    <cosponsor id="412205" joined="2009-10-01"/>
+    <cosponsor id="400121" joined="2009-10-27"/>
+    <cosponsor id="412289" joined="2009-11-07"/>
+    <cosponsor id="400654" joined="2009-10-27"/>
+    <cosponsor id="412233" joined="2009-10-22"/>
+    <cosponsor id="412332" joined="2009-12-01"/>
+    <cosponsor id="412308" joined="2009-10-01"/>
+    <cosponsor id="412310" joined="2009-10-27"/>
+    <cosponsor id="412225" joined="2010-01-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-10-01">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Labor, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-10-01">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-10-01">
+      <text>Referred to House Education and Labor</text>
+    </action>
+    <action datetime="2009-10-01">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2009-10-02">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2009-11-16">
+      <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+      <committee name="House Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Health, Employment, Labor, and Pensions" name="House Education and Labor"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="3468"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Physical fitness and lifestyle"/>
+  </subjects>
+  <amendments/>
+  <summary>10/1/2009--Introduced.
+Prohibits anything in the Employee Retirement Income Security Act of 1974, the Internal Revenue Code, or the Public Health Service Act from being interpreted to prevent any health insurance provider from establishing premium discounts or rebates, or modifying copayments or deductibles, for individuals who participate in a health promotion or disease prevention (wellness) program which meets this Act's requirements. States that if none of the conditions for obtaining a premium discount, rebate, or other reward for participation in a wellness program is based on an individual satisfying a standard related to a health status factor, such program shall not violate this Act if participation is made available to all similarly situated individuals with respect to a program: (1) that reimburses the cost for memberships in a fitness center; (2) of diagnostic testing that provides a reward for participation not based on outcomes; (3) that encourages preventive care related to a health condition through the waiver of the copayment or deductible requirement under a health plan for costs related to a health condition (such as prenatal care or well-baby visits); (4) that reimburses individuals for the costs of smoking cessation programs without regard to whether the individual quits smoking; and (5) that rewards individuals for attending a periodic health education seminar. Provides that if any of the conditions for obtaining a premium discount, rebate, or other reward for participation in a wellness program is based on an individual satisfying a standard related to a health status factor, the program shall not violate this Act if specified conditions are met, including that: (1) the reward for the program, together with the reward for other wellness programs regarding the plan that requires satisfaction of a standard related to a health status factor, does not exceed 30% of the cost of employee-only coverage under the plan; (2) the program is reasonably designed to promote health or prevent disease; (3) the plan gives individuals eligible for the program the opportunity to qualify for the reward at least annually; and (4) the full reward under the program is made available to all similarly situated individuals.</summary>
+</bill>

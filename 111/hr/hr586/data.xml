@@ -1,0 +1,101 @@
+<bill session="111" type="h" number="586" updated="2013-07-19T23:17:10-04:00">
+  <state datetime="2009-05-12">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2009-05-12"/>
+  </status>
+  <introduced datetime="2009-01-15"/>
+  <titles>
+    <title as="introduced" type="short">Civil Rights History Project Act of 2009</title>
+    <title as="passed house" type="short">Civil Rights History Project Act of 2009</title>
+    <title as="enacted" type="short">Civil Rights History Project Act of 2009</title>
+    <title as="introduced" type="official">To direct the Librarian of Congress and the Secretary of the Smithsonian Institution to carry out a joint project at the Library of Congress and the National Museum of African American History and Culture to collect video and audio recordings of personal histories and testimonials of individuals who participated in the Civil Rights movement, and for other purposes.</title>
+  </titles>
+  <sponsor id="400257"/>
+  <cosponsors>
+    <cosponsor id="400030" joined="2009-04-21"/>
+    <cosponsor id="400074" joined="2009-04-22"/>
+    <cosponsor id="400240" joined="2009-01-15"/>
+    <cosponsor id="412331" joined="2009-04-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-01-15">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2009-03-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on House Administration"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-03-25">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on House Administration"/>
+    </calendar>
+    <action datetime="2009-04-22T11:08:00-04:00">
+      <text>Mr. Brady (PA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-04-22T11:09:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4597-4601" label="consideration"/>
+    </action>
+    <action datetime="2009-04-22T11:09:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 586.</text>
+    </action>
+    <action datetime="2009-04-22T11:12:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Brady (PA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2009-04-22T15:53:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4654-4655" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-04-22T16:03:00-04:00" how="roll" result="pass" roll="197" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 422 - 0 (Roll no. 197).</text>
+      <reference ref="CR H4597-4598" label="text"/>
+    </vote>
+    <action datetime="2009-04-22T16:03:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-04-23">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2009-04-24" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4723" label="consideration"/>
+    </vote>
+    <topresident datetime="2009-04-24">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2009-04-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2009-04-30">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2009-05-12">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2009-05-12" type="public" number="111-19">
+      <text>Became Public Law No: 111-19.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="395"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Congressional agencies"/>
+    <term name="Government information and archives"/>
+    <term name="Historical and cultural resources"/>
+    <term name="Internet and video services"/>
+    <term name="Libraries and archives"/>
+    <term name="Library of Congress"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Smithsonian Institution"/>
+    <term name="Sound recording"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2009--Public Law.
+Civil Rights History Project Act of 2009 - Requires, within the limits of available funds, the Librarian of Congress and the Secretary of the Smithsonian Institution (acting through the Director of the National Museum of African American History and Culture) to establish an oral history project to: (1) collect video and audio recordings of, and visual and written materials relevant to the personal histories of, participants in the Civil Rights movement; and (2) make the collection available for public use through the Library of Congress and the Museum. Defines, for this Act, "Civil Rights movement" as the movement to secure racial equality in the United States for African Americans that, focusing on the period 1954 through 1968, challenged the practice of racial segregation in the nation and achieved equal rights legislation for all American citizens. Encourages the Librarian and the Secretary to solicit and accept related donations of funds and in-kind contributions. Authorizes appropriations.</summary>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="111" type="h" number="901" updated="2013-07-19T23:20:00-04:00">
+  <state datetime="2009-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2009-02-04"/>
+  </status>
+  <introduced datetime="2009-02-04"/>
+  <titles>
+    <title as="introduced" type="short">Medical Bankruptcy Fairness Act</title>
+    <title as="introduced" type="official">To amend title 11 of the United States Code to provide protection for medical debt homeowners, to restore bankruptcy protections for individuals experiencing economic distress as caregivers to ill or disabled family members, and to exempt from means testing debtors whose financial problems were caused by serious medical problems.</title>
+  </titles>
+  <sponsor id="412219"/>
+  <cosponsors>
+    <cosponsor id="400074" joined="2010-07-01"/>
+    <cosponsor id="412215" joined="2009-10-27"/>
+    <cosponsor id="400217" joined="2009-11-05"/>
+    <cosponsor id="400333" joined="2009-10-27"/>
+    <cosponsor id="412228" joined="2009-11-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-04">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2009-03-16">
+      <text>Referred to the Subcommittee on Commercial and Administrative Law.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2010-07-15">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU09" subcommittee="Commercial and Administrative Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="1624"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bankruptcy"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Housing finance and home ownership"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2009--Introduced.
+Medical Bankruptcy Fairness Act - Amends federal bankruptcy law to cite circumstances under which a medically distressed debtor may elect to exempt from the property of the estate in bankruptcy up to $250,000 of the debtor's aggregate interest in specified real or personal property that the debtor (or debtor's dependent) uses as a residence, in a cooperative, or in a burial plot for the debtor or a dependent.Revises requirements for dismissal or conversion of a Chapter 7 case to prohibit the court or specified parties in interest from filing a motion to dismiss or convert to Chapter 11 or 13 if the debtor is a medically distressed debtor or an economically distressed caregiver.</summary>
+</bill>

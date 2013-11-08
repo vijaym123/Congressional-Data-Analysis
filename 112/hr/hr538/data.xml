@@ -1,0 +1,78 @@
+<bill session="112" type="h" number="538" updated="2013-07-20T01:14:57-04:00">
+  <state datetime="2012-09-11T12:54:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-09-11T12:54:00-04:00"/>
+  </status>
+  <introduced datetime="2011-02-08"/>
+  <titles>
+    <title as="introduced" type="short">Federal Customer Service Enhancement Act</title>
+    <title as="reported to house" type="short">Government Customer Service Improvement Act</title>
+    <title as="passed house" type="short">Government Customer Service Improvement Act</title>
+    <title as="introduced" type="official">To require the establishment of customer service standards for Federal agencies.</title>
+  </titles>
+  <sponsor id="400657"/>
+  <cosponsors>
+    <cosponsor id="400116" joined="2011-08-02"/>
+    <cosponsor id="400154" joined="2011-09-20"/>
+    <cosponsor id="400654" joined="2011-08-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-02-08">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2012-04-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-04-18">
+      <text>Ordered to be Reported (Amended).</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2012-06-15T12:56:00-04:00">
+      <text>Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-534.</text>
+    </action>
+    <calendar datetime="2012-06-15T12:57:00-04:00" calendar="Union" number="382">
+      <text>Placed on the Union Calendar, Calendar No. 382.</text>
+    </calendar>
+    <action datetime="2012-09-11T12:47:00-04:00">
+      <text>Mr. Walsh (IL) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-09-11T12:47:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5778-5779" label="consideration"/>
+    </action>
+    <action datetime="2012-09-11T12:47:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 538.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-09-11T12:54:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5778" label="text"/>
+    </vote>
+    <action datetime="2012-09-11T12:54:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-09-12">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, Reporting"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="3455"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Consumer affairs"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Office of Management and Budget (OMB)"/>
+    <term name="Performance measurement"/>
+  </subjects>
+  <amendments/>
+  <summary>9/11/2012--Passed House amended.
+Government Customer Service Improvement Act - Requires the Director of the Office of Management and Budget (OMB) to: (1) develop performance measures to determine whether federal agencies are providing high-quality customer service and improving delivery service to their customers, (2) develop standards to be met by agencies to provide high-quality customer service and improve service delivery, and (3) include achievements in meeting customer service performance measures and standards in agency performance updates. Requires each federal agency to: (1) collect information from its customers regarding the quality of its customer services, (2) include this information in its performance report to the President and Congress, and (3) designate an employee as the agency's customer relations representative to be responsible for implementing customer service standards. Provides that employee compliance with agency customer service standards shall be measured in employee performance appraisals. Authorizes the President to exempt an agency from the application of this Act for national security reasons. Requires: (1) any savings or reductions in expenditures resulting from this Act to be used to offset the cost of implementing this Act, and (2) any additional savings to be used to reduce the deficit.</summary>
+</bill>

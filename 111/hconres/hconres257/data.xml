@@ -1,0 +1,42 @@
+<bill session="111" type="hc" number="257" updated="2013-07-20T00:15:13-04:00">
+  <state datetime="2010-03-25">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2010-03-25"/>
+  </status>
+  <introduced datetime="2010-03-24"/>
+  <titles>
+    <title as="introduced" type="official">Providing for an adjournment or recess of the two Houses.</title>
+  </titles>
+  <sponsor id="412192"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2010-03-24T12:16:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H2279" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-03-24T12:45:00-04:00" how="roll" result="pass" roll="178" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 236 - 175 (Roll no. 178).</text>
+      <reference ref="CR H2279" label="text"/>
+    </vote>
+    <action datetime="2010-03-24">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2010-03-25" how="roll" result="pass" roll="108" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Yea-Nay Vote. 49 - 39. Record Vote Number: 108.</text>
+      <reference ref="CR S2099-2100" label="consideration"/>
+      <reference ref="CR S2100" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2010-03-25">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional operations and organization"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/2010--Passed Senate without amendment.
+Declares that when the House adjourns on any legislative day from Wednesday, March 24, 2010, through Monday, March 29, 2010, it stand adjourned until 2 p.m. on Tuesday, April 13, 2010. Declares that when the Senate recesses or adjourns on any day from Thursday, March 25, 2010, through Wednesday, March 31, 2010, it stand recessed or adjourned until noon on Monday, April 12, 2010.</summary>
+</bill>

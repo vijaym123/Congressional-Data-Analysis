@@ -1,0 +1,38 @@
+<bill session="111" type="h" number="5181" updated="2013-07-19T23:59:06-04:00">
+  <state datetime="2010-04-29">REFERRED</state>
+  <status>
+    <introduced datetime="2010-04-29"/>
+  </status>
+  <introduced datetime="2010-04-29"/>
+  <titles>
+    <title as="introduced" type="short">Small Arms Competition and Innovation Act of 2010</title>
+    <title as="introduced" type="official">To amend title 10, United States Code, to improve the preservation of the small arms production industrial base.</title>
+  </titles>
+  <sponsor id="412224"/>
+  <cosponsors>
+    <cosponsor id="412283" joined="2010-04-29"/>
+    <cosponsor id="400209" joined="2010-04-29"/>
+    <cosponsor id="412383" joined="2010-04-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-04-29">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2010-05-06">
+      <text>Referred to the Subcommittee on Readiness.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS03" subcommittee="Readiness" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military procurement, research, weapons development"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/2010--Introduced.
+Small Arms Competition and Innovation Act of 2010 - Provides that, if the Secretary of Defense (DOD) determines that the requirement to procure critical repair parts and modifications for small arms from a firm in the small arms production industrial base is not necessary to preserve such industrial base, then any such procurement shall be awarded through the use of competitive procedures that afford such industrial base a fair opportunity for such procurement. Includes pistols within covered procurements for such purposes.</summary>
+</bill>

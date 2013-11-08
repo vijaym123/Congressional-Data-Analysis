@@ -1,0 +1,76 @@
+<bill session="111" type="h" number="869" updated="2013-07-19T23:19:44-04:00">
+  <state datetime="2009-03-10T13:05:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-03-10T13:05:00-04:00"/>
+  </status>
+  <introduced datetime="2009-02-04"/>
+  <titles>
+    <title as="introduced" type="official">To designate the Federal building and United States courthouse located at 101 Barr Street in Lexington, Kentucky, as the "Scott Reed Federal Building and United States Courthouse".</title>
+  </titles>
+  <sponsor id="400442"/>
+  <cosponsors>
+    <cosponsor id="400340" joined="2009-02-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-04">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2009-02-05">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-02-12">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-02-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-02-12">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2009-03-10T12:40:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 111-30.</text>
+    </action>
+    <calendar datetime="2009-03-10T12:40:00-04:00" calendar="House" number="20">
+      <text>Placed on the House Calendar, Calendar No. 20.</text>
+    </calendar>
+    <action datetime="2009-03-10T12:59:00-04:00">
+      <text>Ms. Edwards (MD) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-03-10T12:59:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3118-3119" label="consideration"/>
+    </action>
+    <action datetime="2009-03-10T12:59:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 869.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-03-10T13:05:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H3118" label="text"/>
+    </vote>
+    <action datetime="2009-03-10T13:05:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-03-11">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Kentucky"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/2009--Passed House without amendment.
+Designates the federal building and U.S. courthouse located at 101 Barr Street in Lexington, Kentucky, as the "Scott Reed Federal Building and United States Courthouse."</summary>
+</bill>

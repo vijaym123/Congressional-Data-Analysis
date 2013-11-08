@@ -1,0 +1,47 @@
+<bill session="113" type="h" number="2477" updated="2013-11-02T06:39:50-04:00">
+  <state datetime="2013-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-25"/>
+  </status>
+  <introduced datetime="2013-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Planning Actively for Cancer Treatment (PACT) Act of 2013</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for coverage of cancer care planning and coordination under the Medicare program.</title>
+  </titles>
+  <sponsor id="400062"/>
+  <cosponsors>
+    <cosponsor id="400636" joined="2013-06-25"/>
+    <cosponsor id="412506" joined="2013-10-03"/>
+    <cosponsor id="412219" joined="2013-09-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-25" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-06-25">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-06-25">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-06-28">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cancer"/>
+    <term name="Health care coverage and access"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/2013--Introduced.
+Planning Actively for Cancer Treatment (PACT) Act of 2013 - Amends title XVIII (Medicare) of the Social Security Act to provide for coverage of cancer care planning and coordination services.</summary>
+</bill>

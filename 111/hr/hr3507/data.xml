@@ -1,0 +1,35 @@
+<bill session="111" type="h" number="3507" updated="2013-07-19T23:43:45-04:00">
+  <state datetime="2009-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2009-07-31"/>
+  </status>
+  <introduced datetime="2009-07-31"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to provide for an increase in the rates of survivors' and dependents' educational assistance payable by the Secretary of Veterans Affairs.</title>
+  </titles>
+  <sponsor id="412303"/>
+  <cosponsors>
+    <cosponsor id="412214" joined="2009-07-31"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-31">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-09-11">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/31/2009--Introduced.
+Increases the monthly rates of the educational assistance allowance payable on behalf of veterans' survivors and dependents.</summary>
+</bill>

@@ -1,0 +1,114 @@
+<bill session="111" type="h" number="1242" updated="2013-07-19T23:23:02-04:00">
+  <state datetime="2009-12-02T17:01:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-12-02T17:01:00-05:00"/>
+  </status>
+  <introduced datetime="2009-03-02"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Emergency Economic Stabilization Act of 2008 to provide for additional monitoring and accountability of the Troubled Assets Relief Program.</title>
+    <title as="amended by house" type="official">To amend the Emergency Economic Stabilization Act of 2008 to provide for additional monitoring and accountability of the Troubled Asset Relief Program.</title>
+  </titles>
+  <sponsor id="400251"/>
+  <cosponsors>
+    <cosponsor id="412264" joined="2009-09-10"/>
+    <cosponsor id="400027" joined="2009-09-22"/>
+    <cosponsor id="400039" joined="2009-05-18"/>
+    <cosponsor id="400638" joined="2009-03-18"/>
+    <cosponsor id="400080" joined="2009-06-10"/>
+    <cosponsor id="400087" joined="2009-05-14"/>
+    <cosponsor id="412215" joined="2009-03-02"/>
+    <cosponsor id="400121" joined="2009-03-24"/>
+    <cosponsor id="412230" joined="2009-06-16"/>
+    <cosponsor id="400151" joined="2009-03-18"/>
+    <cosponsor id="400154" joined="2009-03-02"/>
+    <cosponsor id="400160" joined="2009-05-14"/>
+    <cosponsor id="412222" joined="2009-09-25"/>
+    <cosponsor id="400178" joined="2009-03-02"/>
+    <cosponsor id="400179" joined="2009-11-16"/>
+    <cosponsor id="412220" joined="2009-03-12"/>
+    <cosponsor id="400204" joined="2009-03-30"/>
+    <cosponsor id="400209" joined="2009-03-02"/>
+    <cosponsor id="400219" joined="2009-03-02"/>
+    <cosponsor id="400227" joined="2009-10-08"/>
+    <cosponsor id="412291" joined="2009-06-16"/>
+    <cosponsor id="412292" joined="2009-06-04"/>
+    <cosponsor id="400249" joined="2009-09-22"/>
+    <cosponsor id="400656" joined="2009-05-07"/>
+    <cosponsor id="400663" joined="2009-04-02"/>
+    <cosponsor id="400654" joined="2009-05-07"/>
+    <cosponsor id="400263" joined="2009-03-02"/>
+    <cosponsor id="400659" joined="2009-06-26"/>
+    <cosponsor id="400271" joined="2009-03-02"/>
+    <cosponsor id="400282" joined="2009-05-18"/>
+    <cosponsor id="400330" joined="2009-06-16"/>
+    <cosponsor id="400340" joined="2009-05-14"/>
+    <cosponsor id="412311" joined="2009-03-25"/>
+    <cosponsor id="412202" joined="2009-06-04"/>
+    <cosponsor id="400365" joined="2009-03-02"/>
+    <cosponsor id="400367" joined="2009-11-16"/>
+    <cosponsor id="400388" joined="2009-04-02"/>
+    <cosponsor id="400395" joined="2009-06-23"/>
+    <cosponsor id="400400" joined="2009-05-07"/>
+    <cosponsor id="400406" joined="2009-10-08"/>
+    <cosponsor id="400411" joined="2009-03-10"/>
+    <cosponsor id="412239" joined="2009-05-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-02">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2009-12-02T12:04:00-05:00">
+      <text>Mrs. Maloney moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-12-02T12:04:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H13405-13408" label="consideration"/>
+    </action>
+    <action datetime="2009-12-02T12:04:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1242.</text>
+    </action>
+    <action datetime="2009-12-02T12:15:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2009-12-02T16:55:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H13426-13427" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-12-02T17:01:00-05:00" how="roll" result="pass" roll="921" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 921).</text>
+      <reference ref="CR H13405-13406" label="text"/>
+    </vote>
+    <action datetime="2009-12-02T17:01:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-12-02T17:01:00-05:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-12-03">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2009-12-23">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="910"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Accounting and auditing"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Congressional oversight"/>
+    <term name="Financial crises and stabilization"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+  </subjects>
+  <amendments/>
+  <summary>12/2/2009--Passed House amended.
+Amends the Emergency Economic Stabilization Act of 2008 (EESA) to direct the Secretary of the Treasury to: (1) establish an electronic database using data from specified sources to monitor the use of Troubled Asset Relief Program (TARP) funds by institutions receiving financial assistance or procurement contracts; and (2) make such database available to the Special Inspector General of TARP, the Comptroller General, and the Congressional Oversight Panel in order to provide them with access to current information on the status of funds distributed under TARP, including funds distributed through procurement contracts. Requires the Secretary to: (1) collect from each federal agency any regulatory filings, internal models, financial models, and analytics associated with the financial assistance on at least a daily basis in order to determine the effectiveness of TARP in stimulating prudent lending and strengthening bank capital; and (2) compare the data in such database with any other data in order to identify activities inconsistent with TARP goals. Requires the Secretary, if a recipient's use of TARP funds is not meeting TARP goals, to develop, in coordination with federal agencies, recommendations for better meeting such goals. Directs the Secretary, furthermore, to modify permitted uses of TARP funds if such goals are not met within a reasonable time after the recommendations are communicated. Directs the Secretary to: (1) adopt rules and procedures for public access to the electronic database created by this Act; and (2) implement measures to protect confidential or proprietary information. Subjects intentional disclosure of such information to criminal penalties. Requires the Secretary to: (1) issue a request for proposal and award contract services to implement this Act within 30 days after enactment; and (2) ensure that the electronic database is operational within 180 days after the date of enactment of this Act. Modifies the reduction of TARP funds to offset the costs of program changes.</summary>
+</bill>

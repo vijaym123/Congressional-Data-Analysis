@@ -1,0 +1,53 @@
+<bill session="111" type="h" number="2201" updated="2013-07-19T23:31:29-04:00">
+  <state datetime="2009-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2009-04-30"/>
+  </status>
+  <introduced datetime="2009-04-30"/>
+  <titles>
+    <title as="introduced" type="short">Medicare Equity and Accessibility Act of 2009</title>
+    <title as="introduced" type="official">To amend part B of title XVIII of the Social Security Act to provide a floor of 1.0 for the practice expense and for the work expense geographic practice cost indices (GPCI) under the Medicare Program.</title>
+  </titles>
+  <sponsor id="412208"/>
+  <cosponsors>
+    <cosponsor id="400628" joined="2009-04-30"/>
+    <cosponsor id="400040" joined="2009-06-04"/>
+    <cosponsor id="400043" joined="2009-04-30"/>
+    <cosponsor id="412240" joined="2009-06-18"/>
+    <cosponsor id="400218" joined="2009-04-30"/>
+    <cosponsor id="412209" joined="2009-05-13"/>
+    <cosponsor id="400652" joined="2009-05-07"/>
+    <cosponsor id="412217" joined="2009-04-30"/>
+    <cosponsor id="412229" joined="2009-05-04"/>
+    <cosponsor id="412316" joined="2009-04-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-04-30">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-04-30">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-04-30">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2009-05-04">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health personnel"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2009--Introduced.
+Medicare Equity and Accessibility Act of 2009 - Amends part B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act with respect to certain factors and indices in geographic adjustments to the fee schedule for determination of payments for physicians' services. Directs the Secretary of Health and Human Services to increase the practice expense geographic index to 1.0 for any location for which the practice expense geographic index is less than 1.0. Repeals the current termination date in order to extend permanently the 1.0 floor for the work expense geographic index.</summary>
+</bill>

@@ -1,0 +1,87 @@
+<bill session="111" type="hc" number="292" updated="2013-07-20T00:15:31-04:00">
+  <state datetime="2010-09-13">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2010-09-13"/>
+  </status>
+  <introduced datetime="2010-06-30"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals and ideals of National Aerospace Week, and for other purposes.</title>
+  </titles>
+  <sponsor id="400119"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2010-07-19"/>
+    <cosponsor id="400041" joined="2010-07-14"/>
+    <cosponsor id="400057" joined="2010-07-14"/>
+    <cosponsor id="400109" joined="2010-06-30"/>
+    <cosponsor id="412188" joined="2010-07-13"/>
+    <cosponsor id="400166" joined="2010-07-19"/>
+    <cosponsor id="412191" joined="2010-07-15"/>
+    <cosponsor id="400233" joined="2010-07-13"/>
+    <cosponsor id="412302" joined="2010-07-13"/>
+    <cosponsor id="412192" joined="2010-07-20"/>
+    <cosponsor id="412309" joined="2010-07-13"/>
+    <cosponsor id="412253" joined="2010-07-13"/>
+    <cosponsor id="400341" joined="2010-07-13"/>
+    <cosponsor id="412228" joined="2010-07-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-06-30">
+      <text>Referred to the House Committee on Science and Technology.</text>
+    </action>
+    <action datetime="2010-07-21T12:45:00-04:00">
+      <text>Mr. Gordon (TN) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2010-07-21T12:45:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5878-5880" label="consideration"/>
+    </action>
+    <action datetime="2010-07-21T12:45:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 292.</text>
+    </action>
+    <action datetime="2010-07-21T13:01:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-07-21T13:21:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5882-5883" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-07-21T13:55:00-04:00" how="roll" result="pass" roll="454" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 454).</text>
+      <reference ref="CR H5878" label="text"/>
+    </vote>
+    <action datetime="2010-07-21T13:55:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-07-22">
+      <text>Received in the Senate and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <action datetime="2010-09-13">
+      <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text>
+      <reference ref="CR S7048" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2010-09-13" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2010-09-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science and Technology" activity="Referral"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hc" number="167"/>
+    <bill relation="unknown" session="111" type="sr" number="242"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Aviation and airports"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Space flight and exploration"/>
+  </subjects>
+  <amendments/>
+  <summary>9/13/2010--Passed Senate without amendment.
+Supports the goals and ideals of National Aerospace Week. Recognizes the contributions of the aerospace industry to the history, economy, security, and educational system of the United States.</summary>
+</bill>

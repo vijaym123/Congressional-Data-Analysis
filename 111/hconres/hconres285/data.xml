@@ -1,0 +1,72 @@
+<bill session="111" type="hc" number="285" updated="2013-07-20T00:15:27-04:00">
+  <state datetime="2010-06-29">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2010-06-29"/>
+  </status>
+  <introduced datetime="2010-06-10"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the important role that fathers play in the lives of their children and families and supporting the goals and ideals of designating 2010 as the Year of the Father.</title>
+  </titles>
+  <sponsor id="400659"/>
+  <cosponsors>
+    <cosponsor id="400171" joined="2010-06-10"/>
+    <cosponsor id="400232" joined="2010-06-10"/>
+    <cosponsor id="400660" joined="2010-06-10"/>
+    <cosponsor id="400379" joined="2010-06-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-06-10">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2010-06-23T11:23:00-04:00">
+      <text>Mr. Payne moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2010-06-23T11:23:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4692-4693" label="consideration"/>
+    </action>
+    <action datetime="2010-06-23T11:23:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 285.</text>
+    </action>
+    <action datetime="2010-06-23T11:29:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-06-24T12:23:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4794-4795" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-06-24T12:32:00-04:00" how="roll" result="pass" roll="387" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 387).</text>
+      <reference ref="CR 6/23/2010 H4692" label="text"/>
+    </vote>
+    <action datetime="2010-06-24T12:32:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-06-25">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2010-06-29" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S5629" label="consideration"/>
+    </vote>
+    <action datetime="2010-06-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="sr" number="556"/>
+  </relatedbills>
+  <subjects>
+    <term name="Families"/>
+    <term name="Child care and development"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Family relationships"/>
+  </subjects>
+  <amendments/>
+  <summary>6/29/2010--Passed Senate without amendment.
+Recognizes the important role that fathers play in the lives of their children and families. Supports the goals and ideals of the Year of the Father.</summary>
+</bill>

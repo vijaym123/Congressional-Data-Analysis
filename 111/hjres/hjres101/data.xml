@@ -1,0 +1,91 @@
+<bill session="111" type="hj" number="101" updated="2013-07-20T00:12:51-04:00">
+  <state datetime="2010-12-04">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2010-12-04"/>
+  </status>
+  <introduced datetime="2010-11-30"/>
+  <titles>
+    <title as="introduced" type="official">Making further continuing appropriations for fiscal year 2011, and for other purposes.</title>
+  </titles>
+  <sponsor id="400300"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-11-30">
+      <text>Referred to the House Committee on Appropriations.</text>
+    </action>
+    <action datetime="2010-11-30T16:40:00-05:00">
+      <text>Rules Committee Resolution H. Res. 1741 Reported to House. Rule provides for consideration of H.J. Res. 101 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the joint resolution are waived except those arising under clause 9 or 10 of rule XXI. All points of order against provisions in the joint resolution are waived.</text>
+    </action>
+    <action datetime="2010-12-01T12:44:00-05:00">
+      <text>Rule H. Res. 1741 passed House.</text>
+    </action>
+    <action datetime="2010-12-01T13:07:00-05:00">
+      <text>Considered under the provisions of rule H. Res. 1741.</text>
+      <reference ref="CR H7777-7778" label="consideration"/>
+    </action>
+    <action datetime="2010-12-01T13:07:00-05:00">
+      <text>Rule provides for consideration of H.J. Res. 101 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the joint resolution are waived except those arising under clause 9 or 10 of rule XXI. All points of order against provisions in the joint resolution are waived.</text>
+    </action>
+    <action datetime="2010-12-01T13:07:00-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.J. Res. 101.</text>
+    </action>
+    <action datetime="2010-12-01T13:21:00-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H7778" label="consideration"/>
+    </action>
+    <action datetime="2010-12-01T13:22:00-05:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.J. Res. 101, the Chair put the question on adoption of the resolution and by voice vote announced that the ayes had prevailed. Mr. Lewis (CA) demanded the yeas and nays, and the Chair postponed further proceedings on adoption of the resolution until later in the legislative day.</text>
+    </action>
+    <action datetime="2010-12-01T14:34:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7813-7814" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-12-01T15:02:00-05:00" how="roll" result="pass" roll="593" type="vote" where="h">
+      <text>On passage Passed by the Yeas and Nays: 239 - 178 (Roll no. 593).</text>
+      <reference ref="CR H7777" label="text"/>
+    </vote>
+    <action datetime="2010-12-01T15:02:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-12-01">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2010-12-02" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S8391" label="consideration"/>
+    </vote>
+    <topresident datetime="2010-12-02">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2010-12-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2010-12-03">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2010-12-04">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2010-12-04" type="public" number="111-290">
+      <text>Became Public Law No: 111-290.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAP" name="House Appropriations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="111" type="hr" number="1741"/>
+    <bill relation="unknown" session="111" type="hj" number="105"/>
+    <bill relation="unknown" session="111" type="hj" number="105"/>
+    <bill relation="unknown" session="111" type="sj" number="42"/>
+    <bill relation="unknown" session="111" type="sj" number="42"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+    <term name="Executive agency funding and structure"/>
+  </subjects>
+  <amendments/>
+  <summary>12/4/2010--Public Law.
+Amends the Continuing Appropriations Act, 2011 (P.L. 111-242) to extend through December 18, 2010, specified continuing appropriations for FY2011.</summary>
+</bill>

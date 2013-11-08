@@ -1,0 +1,75 @@
+<bill session="112" type="h" number="5843" updated="2013-07-20T02:00:26-04:00">
+  <state datetime="2012-06-28T17:41:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-06-28T17:41:00-04:00"/>
+  </status>
+  <introduced datetime="2012-05-18"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Homeland Security Act of 2002 to permit use of certain grant funds for training conducted in conjunction with a national laboratory or research facility.</title>
+  </titles>
+  <sponsor id="400617"/>
+  <cosponsors>
+    <cosponsor id="412250" joined="2012-05-31"/>
+    <cosponsor id="400219" joined="2012-06-26"/>
+    <cosponsor id="412445" joined="2012-06-26"/>
+    <cosponsor id="412293" joined="2012-06-26"/>
+    <cosponsor id="412468" joined="2012-05-31"/>
+    <cosponsor id="400387" joined="2012-06-26"/>
+    <cosponsor id="412499" joined="2012-06-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-05-18">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2012-06-06">
+      <text>Referred to the Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2012-06-26T17:02:00-04:00">
+      <text>Mr. King (NY) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-06-26T17:02:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4014-4015" label="consideration"/>
+    </action>
+    <action datetime="2012-06-26T17:02:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5843.</text>
+    </action>
+    <action datetime="2012-06-26T17:14:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Thompson (MS) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2012-06-28T17:41:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4421-4422" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-06-28T17:41:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR 6/26/2012 H4014" label="text"/>
+    </vote>
+    <action datetime="2012-06-28T17:41:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-06-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM08" subcommittee="Cybersecurity, Infrastructure Protection, and Security Technologies" name="House Homeland Security"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="3116"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Homeland security"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>6/28/2012--Passed House without amendment.
+Amends the Homeland Security Act of 2002 to permit the use of grant funds under the Urban Area Security Initiative or under the State Homeland Security Grant Program for training conducted in conjunction with a national laboratory or research facility.</summary>
+</bill>

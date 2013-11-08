@@ -1,0 +1,127 @@
+<bill session="112" type="h" number="368" updated="2013-07-20T01:13:30-04:00">
+  <state datetime="2011-11-09">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2011-11-09"/>
+  </status>
+  <introduced datetime="2011-01-20"/>
+  <titles>
+    <title as="introduced" type="short">Removal Clarification Act of 2011</title>
+    <title as="reported to house" type="short">Removal Clarification Act of 2011</title>
+    <title as="passed house" type="short">Removal Clarification Act of 2011</title>
+    <title as="reported to senate" type="short">Removal Clarification Act of 2011</title>
+    <title as="passed senate" type="short">Removal Clarification Act of 2011</title>
+    <title as="enacted" type="short">Removal Clarification Act of 2011</title>
+    <title as="introduced" type="official">To amend title 28, United States Code, to clarify and improve certain provisions relating to the removal of litigation against Federal officers or agencies to Federal courts, and for other purposes.</title>
+  </titles>
+  <sponsor id="412199"/>
+  <cosponsors>
+    <cosponsor id="400381" joined="2011-01-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-01-20">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-01-20">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2011-01-20">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2011-01-21">
+      <text>Referred to the Subcommittee on Courts, Commercial and Administrative Law.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <action datetime="2011-01-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-01-26">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Judiciary"/>
+    </calendar>
+    <action datetime="2011-01-26">
+      <text>Subcommittee on Courts, Commercial and Administrative Law Discharged.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <action datetime="2011-02-28T14:27:00-05:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 112-17, Part I.</text>
+    </action>
+    <action datetime="2011-02-28T14:27:00-05:00">
+      <text>Committee on The Budget discharged.</text>
+    </action>
+    <calendar datetime="2011-02-28T14:27:00-05:00" calendar="Union" number="8">
+      <text>Placed on the Union Calendar, Calendar No. 8.</text>
+    </calendar>
+    <action datetime="2011-02-28T14:28:00-05:00">
+      <text>Mr. Lungren, Daniel E. moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2011-02-28T14:28:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1371-1372" label="consideration"/>
+    </action>
+    <action datetime="2011-02-28T14:28:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 368.</text>
+    </action>
+    <action datetime="2011-02-28T14:37:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2011-02-28T19:03:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H1375-1376" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-02-28T19:09:00-05:00" how="roll" result="pass" roll="150" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 4 (Roll no. 150).</text>
+      <reference ref="CR H1371" label="text"/>
+    </vote>
+    <action datetime="2011-02-28T19:09:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-03-01">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <calendar datetime="2011-10-13">
+      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2011-10-17">
+      <text>Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2011-10-17" calendar="Senate Legislative" under="General Orders" number="197">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 197.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="2011-10-31" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6925" label="consideration"/>
+    </vote>
+    <action datetime="2011-11-01">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2011-11-04">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2011-11-09">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2011-11-09" type="public" number="112-51">
+      <text>Became Public Law No: 112-51.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSJU03" subcommittee="Courts, Commercial and Administrative Law" name="House Judiciary"/>
+    <committee code="HSBU" name="House Budget" activity="Referral, Discharged"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Civil actions and liability"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Federal district courts"/>
+    <term name="Jurisdiction and venue"/>
+  </subjects>
+  <amendments/>
+  <summary>11/9/2011--Public Law.
+(This measure has not been amended since it was passed by the House on February 28, 2011. The summary of that version is repeated here.) Removal Clarification Act of 2011 - (Sec. 2) Revises the federal judicial code to provide that a civil action or criminal prosecution that is commenced in a state court and that is against or directed to the United States or a federal agency or officer, or specified others, may be removed to an appropriate U.S. district court. Declares that civil actions and criminal prosecutions include any proceeding (whether or not ancillary to another proceeding) to the extent that in such proceeding a judicial order, including a subpoena for testimony or documents, is sought or issued. Limits removal of such a proceeding, if there is no other basis for removal, to only that specific proceeding, with the remainder of the civil action or criminal proceeding to remain in state court. Declares that the 30-day notice of removal requirement shall be satisfied in any such civil or criminal proceeding in which such a judicial order is sought, or issued, or sought to be enforced, if the person or entity desiring to remove the proceeding files notice of removal not later than 30 days after receiving, through service, notice of the proceeding.</summary>
+</bill>

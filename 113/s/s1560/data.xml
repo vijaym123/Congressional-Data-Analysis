@@ -1,0 +1,48 @@
+<bill session="113" type="s" number="1560" updated="2013-11-02T07:05:23-04:00">
+  <state datetime="2013-09-30">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2013-09-30"/>
+  </status>
+  <introduced datetime="2013-09-30"/>
+  <titles>
+    <title type="short" as="introduced">Deficit Neutral Disaster Relief Act</title>
+    <title type="short" as="passed senate">Deficit Neutral Disaster Relief Act</title>
+    <title type="official" as="introduced">A bill to allow certain emergency relief amounts to be made available to the Federal Highway Administration to use for disasters occurring in calendar year 2013.</title>
+  </titles>
+  <sponsor id="400412"/>
+  <cosponsors>
+    <cosponsor id="412330" joined="2013-09-30"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Unanimous Consent" type="vote" datetime="2013-09-30" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S7014" label="consideration"/>
+      <reference ref="CR S7014" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2013-09-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2013-09-30T17:20:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2013-09-30T17:47:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="3174"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Appropriations"/>
+    <term name="Colorado"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Floods and storm protection"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation programs funding"/>
+  </subjects>
+  <amendments/>
+  <summary>9/30/2013--Passed Senate without amendment.
+Deficit Neutral Disaster Relief Act - Authorizes the Secretary of Transportation (DOT) to obligate up to $450 million of the amounts made available to carry out federal-aid highways emergency relief under the Disaster Relief Appropriations Act, 2013 (division A, title X, chapter 9 of P.L. 113-2) under the heading "Federal Highway Administration--Federal-Aid Highways--Emergency Relief Program" for emergency relief projects in Colorado arising from damage caused by flooding events in 2013.</summary>
+</bill>

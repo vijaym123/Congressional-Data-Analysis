@@ -1,0 +1,48 @@
+<bill session="112" type="h" number="981" updated="2013-07-20T01:18:50-04:00">
+  <state datetime="2011-03-09">REFERRED</state>
+  <status>
+    <introduced datetime="2011-03-09"/>
+  </status>
+  <introduced datetime="2011-03-09"/>
+  <titles>
+    <title as="introduced" type="official">To allow Members of Congress to decline certain retirement benefits and contributions by the Federal Government, and for other purposes.</title>
+  </titles>
+  <sponsor id="412409"/>
+  <cosponsors>
+    <cosponsor id="412414" joined="2012-02-15"/>
+    <cosponsor id="412483" joined="2011-04-08"/>
+    <cosponsor id="412423" joined="2011-07-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-03-09">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-03-09">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2011-03-09">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2011-03-18">
+      <text>Referred to the Subcommittee on Federal Workforce, U.S. Postal Service, and Labor Policy.</text>
+      <committee name="House Oversight and Government Reform"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO25" subcommittee="Federal Workforce, U.S. Postal Service, and Labor Policy" name="House Oversight and Government Reform"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="3774"/>
+    <bill relation="unknown" session="112" type="h" number="5951"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>3/9/2011--Introduced.
+Congress is Not a Career Act - Redefines "Member of Congress" under the Federal Employees Retirement System (FERS) with respect to the exclusion from the meaning of "Member" of any a Member of the House of Representatives, including a Delegate or Resident Commissioner to Congress, who opts out of FERS, but only if he or she served as a Member before the enactment of the Legislative Branch Appropriations Act, 2004. Repeals the requirement of service before enactment of such Act. (Thus, allows Members to opt out of FERS benefits regardless of when they have been elected.) Amends the Thrift Savings Plan (TSP) Agency Contributions requirements to permit a Member of Congress to elect irrevocably, by written notice to the official by whom such Member is paid, not to receive TSP contributions.</summary>
+</bill>

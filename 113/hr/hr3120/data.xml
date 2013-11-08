@@ -1,0 +1,105 @@
+<bill session="113" type="h" number="3120" updated="2013-11-02T06:45:16-04:00">
+  <state datetime="2013-09-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-18"/>
+  </status>
+  <introduced datetime="2013-09-18"/>
+  <titles>
+    <title type="short" as="introduced">Comprehensive Dental Reform Act of 2013</title>
+    <title type="official" as="introduced">To improve access to oral health care for vulnerable and underserved populations.</title>
+  </titles>
+  <sponsor id="400090"/>
+  <cosponsors>
+    <cosponsor id="400360" joined="2013-09-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-18" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, the Judiciary, Natural Resources, Veterans' Affairs, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-09-18">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-09-18">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-09-18">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-09-18">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-09-18">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2013-09-18">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2013-09-20">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2013-09-24">
+      <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2013-10-14">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2013-10-15">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII24" subcommittee="Indian and Alaska Native Affairs" name="House Natural Resources"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="1522"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Centers for Disease Control and Prevention (CDC)"/>
+    <term name="Child health"/>
+    <term name="Congressional oversight"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Dental care"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Government information and archives"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health information and medical records"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Indian social and development programs"/>
+    <term name="Medicaid"/>
+    <term name="Medical education"/>
+    <term name="Medical research"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Medicare"/>
+    <term name="Military medicine"/>
+    <term name="Minority health"/>
+    <term name="National Guard and reserves"/>
+    <term name="National Institutes of Health (NIH)"/>
+    <term name="Research administration and funding"/>
+    <term name="Rural conditions and development"/>
+    <term name="Student aid and college costs"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+</bill>

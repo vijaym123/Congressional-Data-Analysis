@@ -1,0 +1,122 @@
+<bill session="111" type="h" number="1065" updated="2013-07-19T23:21:26-04:00">
+  <state datetime="2010-01-21T12:43:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-01-21T12:43:00-05:00"/>
+  </status>
+  <introduced datetime="2009-02-13"/>
+  <titles>
+    <title as="introduced" type="short">White Mountain Apache Tribe Water Rights Quantification Act of 2009</title>
+    <title as="reported to house" type="short">White Mountain Apache Tribe Water Rights Quantification Act of 2009</title>
+    <title as="passed house" type="short">White Mountain Apache Tribe Water Rights Quantification Act of 2010</title>
+    <title as="introduced" type="official">To resolve water rights claims of the White Mountain Apache Tribe in the State of Arizona, and for other purposes.</title>
+  </titles>
+  <sponsor id="412286"/>
+  <cosponsors>
+    <cosponsor id="400134" joined="2009-09-29"/>
+    <cosponsor id="400141" joined="2009-09-29"/>
+    <cosponsor id="412188" joined="2009-03-26"/>
+    <cosponsor id="400162" joined="2009-10-08"/>
+    <cosponsor id="412187" joined="2009-03-26"/>
+    <cosponsor id="400310" joined="2009-03-26"/>
+    <cosponsor id="400368" joined="2009-03-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-13">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-02-20">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-07-21">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-09-30">
+      <text>Subcommittee on Water and Power Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-09-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-09-30">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2010-01-12T16:42:00-05:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-391.</text>
+    </action>
+    <calendar datetime="2010-01-12T16:43:00-05:00" calendar="Union" number="228">
+      <text>Placed on the Union Calendar, Calendar No. 228.</text>
+    </calendar>
+    <action datetime="2010-01-19T18:41:00-05:00">
+      <text>Rules Committee Resolution H. Res. 1017 Reported to House. Rule provides for consideration of H.R. 3254, H.R. 3342 and H.R. 1065. Each bill is allowed 1 hour of general debate. Previous question shall be considered as ordered, in each instance, without intervening motions except motion to recommit with or without instructions. Measures will be considered read. Specified amendments are in order, in each instance. The amendment in the nature of a substitute recommended by the Committee on Natural Resources, in each instance,</text>
+    </action>
+    <action datetime="2010-01-20T14:29:00-05:00">
+      <text>Rule H. Res. 1017 passed House.</text>
+    </action>
+    <action datetime="2010-01-21T11:37:00-05:00">
+      <text>Considered under the provisions of rule H. Res. 1017.</text>
+      <reference ref="CR H290-297" label="consideration"/>
+    </action>
+    <action datetime="2010-01-21T11:37:00-05:00">
+      <text>Rule provides for consideration of H.R. 3254, H.R. 3342 and H.R. 1065. Each bill is allowed 1 hour of general debate. Previous question shall be considered as ordered, in each instance, without intervening motions except motion to recommit with or without instructions. Measures will be considered read. Specified amendments are in order, in each instance. The amendment in the nature of a substitute recommended by the Committee on Natural Resources, in each instance,</text>
+    </action>
+    <action datetime="2010-01-21T11:38:00-05:00">
+      <text>DEBATE - Pursuant to the provisions of H.Res. 1017, the House proceeded with one hour of debate on H.R. 1065.</text>
+    </action>
+    <action datetime="2010-01-21T11:55:00-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H297" label="consideration"/>
+    </action>
+    <action datetime="2010-01-21T11:56:00-05:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 1065, the Chair put the question on passage and by voice vote, announced the ayes had prevailed. Mr. Rahall demanded the yeas and nays and the Chair postponed further proceedings on the question of passage until a time to be announced.</text>
+    </action>
+    <action datetime="2010-01-21T12:35:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H299" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-01-21T12:43:00-05:00" how="roll" result="pass" roll="14" type="vote" where="h">
+      <text>On passage Passed by the Yeas and Nays: 262 - 147 (Roll no. 14).</text>
+      <reference ref="CR H290-296" label="text"/>
+    </vote>
+    <action datetime="2010-01-21T12:43:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-01-22">
+      <text>Received in the Senate.</text>
+    </action>
+    <calendar datetime="2010-03-26" calendar="Senate Legislative" under="General Orders" number="340">
+      <text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 340.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="111" type="hr" number="1017"/>
+    <bill relation="unknown" session="111" type="h" number="4783"/>
+    <bill relation="identical" session="111" type="s" number="313"/>
+    <bill relation="unknown" session="111" type="s" number="313"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Arizona"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Government liability"/>
+    <term name="Government studies and investigations"/>
+    <term name="Government trust funds"/>
+    <term name="Indian claims"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Lakes and rivers"/>
+    <term name="Water resources funding"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments>
+    <amendment number="h542"/>
+  </amendments>
+  <summary>1/21/2010--Passed House amended.
+White Mountain Apache Tribe Water Rights Quantification Act of 2010 - (Sec. 4) Authorizes, ratifies, and confirms the White Mountain Apache Tribe Water Rights Quantification Agreement and amendments made to such Agreement by this Act. Requires the Secretary of the Interior, in implementing the Agreement, to comply with all requirements of the National Environmental Policy Act of 1969, the Endangered Species Act of 1973, and all other applicable environmental laws. (Sec. 5) Requires the water rights of the Tribe to be held in trust by the United States and to not be subject to forfeiture or abandonment. Provides for reallocations of certain water rights to the Tribe. Exempts the Tribe from any water service capital charge for tribal CAP water (water from specified aqueducts and pumping plants). Requires the Tribe to enact a water code, as specified. (Sec. 6) Requires the Secretary to enter into a specified contract with the Tribe to provide, among other things, that the Tribe, on approval of the Secretary, may enter into contracts or options to lease, contracts to exchange, or options to exchange tribal CAP water in Maricopa, Pinal, Pima, and Yavapai Counties in Arizona providing for the temporary delivery to any individual or entity of any portion of the tribal CAP water, subject to the conditions that the term of the contract or option to lease shall not be longer than 100 years (with renegotiation permitted at any time), the contracts or options to exchange shall be for the term provided in the contract or option, and a lease or option to lease providing for the temporary delivery of tribal CAP water shall require the lessee to pay to charges associated with the leased water. Authorizes, ratifies, and confirms such a contract or lease, except to the extent that any provision of the contract or lease conflicts with a provision of this Act. Prohibits: (1) use of tribal CAP water outside of Arizona; (2) tribal water rights from being sold, leased, transferred, or used outside the boundaries of the reservation or off-reservation trust land other than pursuant to an exchange, except as specified; and (3) limiting the right of the Tribe to enter into an agreement with the Arizona Water Banking Authority. (Sec. 7) Directs the Secretary, subject to the availability of appropriations, and acting through the Bureau of Reclamation, to plan, design, construct, operate, maintain, replace, and rehabilitate the WMAT rural water system (a specified the municipal, rural, and industrial water diversion, storage, and delivery system) as generally described in a project extension report dated February 2007. Specifies components of the WMAT rural water system, as well as the service area, and construction requirements. Requires title to the WMAT rural water system to be in trust by the United States in its capacity as trustee for the Tribe, but permits conveyance of title to the Tribe to the WMAT rural water system after publication by the Secretary of a specified statement of findings. (Sec. 8) Sets forth provisions relating to the satisfaction, waiver, or release of claims by the Tribe, a limited waiver of U.S. or tribal sovereign immunity for the purpose of resolving issues arising under this Act, and after-acquired trust land. (Sec. 10) Establishes in the Lower Colorado River Basin Development Fund a subaccount to be known as the White Mountain Apache Tribe Water Rights Settlement Subaccount (Subaccount), consisting of specified amounts and including up to $100 million from the Fund. Requires the Tribe: (1) to use amounts in the Subaccount only for the planning, design, and construction of the rural water system; and (2) to report annually to the Secretary on each expenditure from the Subaccount. (Sec. 12) Establishes the WMAT Settlement Fund to be used the The Tribe for: (1) fish production, including hatcheries: (2) rehabilitation of recreational lakes and existing irrigation systems; (3) water-related economic development projects; (4) protection, restoration, and economic development of forest and watershed health; and (5) cost overruns for the completion of the WMAT rural water system. Establishes the WMAT Maintenance Fund for the operation, maintenance, and replacement costs associated with the delivery of water through the rural water system. Requires annual reports to the Secretary describing all expenditures from the Settlement and Maintenance funds. Transfers up to $100 million from the Emergency Fund for Indian Safety and Health to the Subaccount. Authorizes appropriations. (Sec. 13) Exempts the United States from any liability for failure to carry out any obligation or activity authorized to be carried out, subject to appropriations, under this Act if adequate appropriations for that purpose are not provided by Congress. (Sec. 14) Repeals this Act, and reverts any appropriated funds, if the Secretary does not make specified findings by April 30, 2020.</summary>
+</bill>

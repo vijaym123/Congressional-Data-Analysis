@@ -1,0 +1,40 @@
+<bill session="111" type="h" number="2784" updated="2013-07-19T23:36:53-04:00">
+  <state datetime="2009-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="2009-06-10"/>
+  </status>
+  <introduced datetime="2009-06-10"/>
+  <titles>
+    <title as="introduced" type="short">Partnership to Improve Seniors Access to Medicare Act</title>
+    <title as="introduced" type="official">To establish a loan repayment program for qualifying physicians and nurse practitioners participating in the Medicare Program.</title>
+  </titles>
+  <sponsor id="400404"/>
+  <cosponsors>
+    <cosponsor id="400440" joined="2009-06-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-10">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2009-06-11">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health personnel"/>
+    <term name="Medical education"/>
+    <term name="Medicare"/>
+    <term name="Nursing"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/2009--Introduced.
+Partnership to Improve Seniors Access to Medicare Act - Directs the Secretary of Health and Human Services (HHS) to establish a student loan repayment program for qualified physicians and nurse practitioners participating in Medicare who agree to accept Medicare individuals who seek the services of such health professionals.</summary>
+</bill>

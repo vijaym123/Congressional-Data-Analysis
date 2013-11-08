@@ -1,0 +1,89 @@
+<bill session="113" type="hc" number="18" updated="2013-11-02T06:48:59-04:00">
+  <state datetime="2013-03-21">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-02-26"/>
+  <titles>
+    <title type="official" as="introduced">Authorizing the use of the Capitol Grounds for the National Peace Officers' Memorial Service.</title>
+  </titles>
+  <sponsor id="412469"/>
+  <cosponsors>
+    <cosponsor id="400295" joined="2013-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-26" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-02-27">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar datetime="2013-02-28" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2013-02-28">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2013-03-18T14:28:00-04:00">
+      <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-18.</text>
+    </action>
+    <calendar datetime="2013-03-18T14:28:00-04:00" calendar="House" number="9">
+      <text>Placed on the House Calendar, Calendar No. 9.</text>
+    </calendar>
+    <action datetime="2013-03-18T17:05:00-04:00">
+      <text>Mr. Barletta moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2013-03-18T17:06:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1554-1555" label="consideration"/>
+    </action>
+    <action datetime="2013-03-18T17:06:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 18.</text>
+    </action>
+    <action datetime="2013-03-18T17:13:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-03-18T18:56:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H1557-1558" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="77" datetime="2013-03-18T19:02:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 388 - 0 (Roll no. 77).</text>
+      <reference ref="CR H1554" label="text"/>
+    </vote>
+    <action datetime="2013-03-18T19:02:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-03-19">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2013-03-21" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S2232" label="consideration"/>
+    </vote>
+    <action datetime="2013-03-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Law enforcement officers"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+  <summary>3/21/2013--Passed Senate without amendment.
+Permits the Grand Lodge of the Fraternal Order of Police and its auxiliary to sponsor a free public event, the 32nd Annual National Peace Officers' Memorial Service, on the Capitol grounds on May 15, 2013, to honor the law enforcement officers who died in the line of duty during 2012.</summary>
+</bill>

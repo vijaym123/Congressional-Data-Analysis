@@ -1,0 +1,130 @@
+<bill session="111" type="h" number="3276" updated="2013-07-19T23:41:39-04:00">
+  <state datetime="2009-11-05T17:49:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-11-05T17:49:00-05:00"/>
+  </status>
+  <introduced datetime="2009-07-21"/>
+  <titles>
+    <title as="introduced" type="short">American Medical Isotopes Production Act of 2009</title>
+    <title as="reported to house" type="short">American Medical Isotopes Production Act of 2009</title>
+    <title as="passed house" type="short">American Medical Isotopes Production Act of 2009</title>
+    <title as="reported to senate" type="short">American Medical Isotopes Production Act of 2010</title>
+    <title as="introduced" type="official">To promote the production of molybdenum-99 in the United States for medical isotope production, and to condition and phase out the export of highly enriched uranium for the production of medical isotopes.</title>
+  </titles>
+  <sponsor id="400253"/>
+  <cosponsors>
+    <cosponsor id="400034" joined="2009-10-15"/>
+    <cosponsor id="400638" joined="2009-07-31"/>
+    <cosponsor id="400193" joined="2009-10-20"/>
+    <cosponsor id="400245" joined="2009-11-02"/>
+    <cosponsor id="400263" joined="2009-09-25"/>
+    <cosponsor id="412228" joined="2009-11-02"/>
+    <cosponsor id="400414" joined="2009-07-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-21">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2009-07-21">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2009-07-22">
+      <text>Referred to the Subcommittee on Energy and Environment.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2009-09-09">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2009-10-14">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2009-10-14">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2009-10-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-10-21">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2009-11-04T17:31:00-05:00">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 111-328.</text>
+    </action>
+    <calendar datetime="2009-11-04T17:32:00-05:00" calendar="Union" number="187">
+      <text>Placed on the Union Calendar, Calendar No. 187.</text>
+    </calendar>
+    <action datetime="2009-11-05T15:09:00-05:00">
+      <text>Mr. Markey (MA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2009-11-05T15:09:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H12401-12406" label="consideration"/>
+    </action>
+    <action datetime="2009-11-05T15:09:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3276.</text>
+    </action>
+    <action datetime="2009-11-05T15:23:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2009-11-05T17:41:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H12426-12427" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-11-05T17:49:00-05:00" how="roll" result="pass" roll="863" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 17 (Roll no. 863).</text>
+      <reference ref="CR H12401-12403" label="text"/>
+    </vote>
+    <action datetime="2009-11-05T17:49:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-11-06">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2009-12-03">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2009-12-16">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2010-01-28">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. With written report No. 111-120.</text>
+    </action>
+    <calendar datetime="2010-01-28" calendar="Senate Legislative" under="General Orders" number="263">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 263.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSIF03" subcommittee="Energy and Environment" name="House Energy and Commerce"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Congressional oversight"/>
+    <term name="Government studies and investigations"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Licensing and registrations"/>
+    <term name="Manufacturing"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Nuclear power"/>
+    <term name="Nuclear weapons"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Radioactive wastes and releases"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/2010--Reported to Senate amended.
+American Medical Isotopes Production Act of 2010 - (Sec. 2) Directs the Secretary of Energy to establish a technology-neutral program to evaluate and support projects for the production in the United States (domestic production), without the use of highly enriched uranium, of significant quantities of molybdenum-99 for medical uses, implemented in cooperation with non-federal entities, the costs of which shall be shared in accordance with certain cost sharing requirements of the Energy Policy Act of 2005. States that an existing reactor fueled with highly enriched uranium shall not be disqualified from the program if the Secretary makes specified determinations. Instructs the Secretary to: (1) develop a program plan and update it annually through public workshops; and (2) use the Nuclear Science Advisory Committee to conduct annual reviews of the progress made in achieving program goals. Authorizes appropriations for FY2010-FY2014 to implement the program. Requires the Secretary to establish a program to make low enriched uranium available, through lease contracts, for irradiation for molybdenum-99 production for medical uses. Requires lease contracts to retain in the Secretary responsibility for the final disposition of radioactive waste created by irradiation, processing, or purification of leased uranium. (Sec. 3) Amends the Atomic Energy Act of 1954 to prohibit the Nuclear Regulatory Commission (NRC), beginning seven years after enactment of this Act, from issuing a license for the export of highly enriched uranium from the United States for medical isotope production purposes. Authorizes an extension of the seven-year period for up to another six years if the Secretary certifies to certain congressional committees that: (1) there is insufficient global supply of molybdenum-99 produced without the use of highly enriched uranium available to satisfy the domestic US market; and (2) the export of United States-origin highly enriched uranium for the purposes of medical isotope production is the most effective temporary means to increase the supply of molybdenum-99 to such market. Requires development of such certification to be carried out through announcement in the Federal Register in order to ensure public review and comment. Permits suspension of the export license restriction for a 12-month period if: (1) there is a critical shortage of molybdenum-99 to satisfy domestic medical isotope needs; (2) the Secretary certifies to Congress that the export of domestic-origin highly enriched uranium for medical isotope production is the only effective temporary means to increase the supply of molybdenum-99 necessary to meet domestic medical isotope needs during that period; and (3) Congress enacts a joint resolution approving the temporary suspension of such export license restriction. (Sec. 4) Requires the NRC Chairman to report to Congress on the current disposition of previous U.S. exports of highly enriched uranium. (Sec. 5) Amends the Atomic Energy Act of 1954 to authorize the NRC to issue a license, or grant an amendment to an existing license, for the use in the United States of highly enriched uranium as a target for medical isotope production in a nuclear reactor, only if specified conditions are met, including certification by the Secretary that the federal government is actively supporting development of an alternative medical isotope production target that can be used in that reactor. (Sec. 6) Directs the Secretary to report to Congress annually for five years on Department of Energy (DOE) actions to support domestic production of molybdenum-99 for medical uses without the use of highly enriched uranium. (Sec. 7) Directs the Secretary to arrange with the National Academy of Sciences (NAS) to study and report to Congress on the state of molybdenum-99 production and utilization. Requires such study to assess: (1) progress made in the previous five years toward establishing domestic production of molybdenum-99 for medical uses, including the extent to which other medical isotopes that have been produced with molybdenum-99, such as iodine-131 and xenon-133, are being used for such purposes; and (2) the progress made by DOE and others to eliminate all worldwide use of highly enriched uranium in reactor fuel, reactor targets, and medical isotope production facilities.</summary>
+</bill>

@@ -1,0 +1,139 @@
+<bill session="112" type="h" number="3670" updated="2013-07-20T01:41:53-04:00">
+  <state datetime="2012-08-16">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2012-08-16"/>
+  </status>
+  <introduced datetime="2011-12-14"/>
+  <titles>
+    <title as="introduced" type="official">To require the Transportation Security Administration to comply with the Uniformed Services Employment and Reemployment Rights Act.</title>
+  </titles>
+  <sponsor id="412214"/>
+  <cosponsors>
+    <cosponsor id="412250" joined="2011-12-14"/>
+    <cosponsor id="400032" joined="2012-01-23"/>
+    <cosponsor id="412208" joined="2012-03-28"/>
+    <cosponsor id="400638" joined="2012-04-23"/>
+    <cosponsor id="412379" joined="2012-03-13"/>
+    <cosponsor id="412271" joined="2012-01-23"/>
+    <cosponsor id="412205" joined="2012-04-17"/>
+    <cosponsor id="412200" joined="2012-01-27"/>
+    <cosponsor id="412283" joined="2012-02-02"/>
+    <cosponsor id="400199" joined="2012-03-13"/>
+    <cosponsor id="412460" joined="2012-03-20"/>
+    <cosponsor id="400209" joined="2012-03-13"/>
+    <cosponsor id="400219" joined="2012-02-08"/>
+    <cosponsor id="412209" joined="2012-04-16"/>
+    <cosponsor id="400617" joined="2012-02-02"/>
+    <cosponsor id="400273" joined="2012-02-08"/>
+    <cosponsor id="400274" joined="2012-04-17"/>
+    <cosponsor id="412383" joined="2011-12-14"/>
+    <cosponsor id="400333" joined="2012-03-13"/>
+    <cosponsor id="400355" joined="2012-03-13"/>
+    <cosponsor id="412392" joined="2012-05-08"/>
+    <cosponsor id="412424" joined="2012-03-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-12-14">
+      <text>Referred to the Committee on Homeland Security, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-12-14">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2011-12-14">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2011-12-23">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2011-12-27">
+      <text>Referred to the Subcommittee on Transportation Security.</text>
+      <committee name="House Homeland Security"/>
+    </action>
+    <action datetime="2012-03-08">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2012-03-28">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2012-03-28">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2012-04-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-04-27">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2012-05-18T13:18:00-04:00">
+      <text>Reported by the Committee on Veterans' Affairs. H. Rept. 112-487, Part I.</text>
+    </action>
+    <action datetime="2012-05-30T17:59:00-04:00">
+      <text>Mr. King (NY) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-05-30T17:59:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3239-3241" label="consideration"/>
+    </action>
+    <action datetime="2012-05-30T17:59:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3670.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-05-30T18:13:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H3239" label="text"/>
+    </vote>
+    <action datetime="2012-05-30T18:13:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-06-04">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <action datetime="2012-08-02">
+      <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text>
+      <reference ref="CR S6007" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2012-08-02" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2012-08-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2012-08-07">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2012-08-16">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2012-08-16" type="public" number="112-171">
+      <text>Became Public Law No: 112-171.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM07" subcommittee="Transportation Security" name="House Homeland Security"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="1990"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Law enforcement officers"/>
+    <term name="Military personnel and dependents"/>
+    <term name="National Guard and reserves"/>
+    <term name="Transportation safety and security"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>8/16/2012--Public Law.
+Amends the Aviation and Transportation Security Act to require the Transportation Security Administration (TSA) to comply with the Uniformed Services Employment and Reemployment Rights Act when carrying out certain personnel decisions with respect to the employment of air transportation passenger and property screeners.</summary>
+</bill>

@@ -1,0 +1,59 @@
+<bill session="113" type="h" number="3112" updated="2013-11-02T06:45:12-04:00">
+  <state datetime="2013-09-17">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-17"/>
+  </status>
+  <introduced datetime="2013-09-17"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Orthotics and Prosthetics Improvement Act of 2013</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to modify the designation of accreditation organizations for orthotics and prosthetics, to apply accreditation and licensure requirements to suppliers of such devices and items for purposes of payment under the Medicare program, and to modify the payment rules for such devices and items under such program to account for practitioner qualifications and complexity of care, and for other purposes.</title>
+  </titles>
+  <sponsor id="412317"/>
+  <cosponsors>
+    <cosponsor id="412533" joined="2013-09-19"/>
+    <cosponsor id="400219" joined="2013-10-08"/>
+    <cosponsor id="412202" joined="2013-10-28"/>
+    <cosponsor id="400349" joined="2013-09-19"/>
+    <cosponsor id="412314" joined="2013-10-23"/>
+    <cosponsor id="400403" joined="2013-09-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-17">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H5575"/>
+    </action>
+    <action datetime="2013-09-17" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-09-17">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-09-17">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-09-20">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="1951"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Allied health services"/>
+    <term name="Congressional oversight"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health personnel"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Licensing and registrations"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+</bill>

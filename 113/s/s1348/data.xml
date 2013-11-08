@@ -1,0 +1,97 @@
+<bill session="113" type="s" number="1348" updated="2013-11-02T07:03:37-04:00">
+  <state datetime="2013-10-04">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2013-10-04"/>
+  </status>
+  <introduced datetime="2013-07-23"/>
+  <titles>
+    <title type="short" as="introduced">Congressional Award Program Reauthorization Act of 2013</title>
+    <title type="short" as="reported to senate">Congressional Award Program Reauthorization Act of 2013</title>
+    <title type="short" as="passed senate">Congressional Award Program Reauthorization Act of 2013</title>
+    <title type="short" as="enacted">Congressional Award Program Reauthorization Act of 2013</title>
+    <title type="official" as="introduced">A bill to reauthorize the Congressional Award Act.</title>
+  </titles>
+  <sponsor id="300019"/>
+  <cosponsors>
+    <cosponsor id="412390" joined="2013-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2013-07-31" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2013-09-23">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. With written report No. 113-109.</text>
+    </action>
+    <calendar datetime="2013-09-23" calendar="Senate Legislative" under="General Orders" number="196">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 196.</text>
+    </calendar>
+    <action datetime="2013-09-26">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S6968" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2013-09-26" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S6968" label="text"/>
+    </vote>
+    <action datetime="2013-09-27T10:49:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2013-09-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2013-09-27">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2013-09-30T10:51:00-04:00">
+      <text>Ms. Foxx moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-09-30T10:51:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6019-6020" label="consideration"/>
+    </action>
+    <action datetime="2013-09-30T10:51:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 1348.</text>
+    </action>
+    <action datetime="2013-09-30T10:57:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Foxx objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.</text>
+    </action>
+    <action datetime="2013-09-30T19:16:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6030-6031" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote2" roll="503" datetime="2013-09-30T19:23:00-04:00" where="h" result="pass" suspension="1" state="PASSED:BILL">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 35 (Roll no. 503).</text>
+      <reference ref="CR H6020" label="text"/>
+    </vote>
+    <topresident datetime="2013-10-01">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2013-10-04">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-43" type="public" datetime="2013-10-04" state="ENACTED:SIGNED">
+      <text>Became Public Law No: 113-43.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Higher education"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1998"/>
+  </amendments>
+  <summary>10/4/2013--Public Law.
+Congressional Award Program Reauthorization Act of 2013 - Amends the Congressional Award Act to extend the date for termination of the Congressional Award Board from October 1, 2013, to October 1, 2018.</summary>
+</bill>

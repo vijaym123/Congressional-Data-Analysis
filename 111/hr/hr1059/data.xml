@@ -1,0 +1,45 @@
+<bill session="111" type="h" number="1059" updated="2013-07-19T23:21:23-04:00">
+  <state datetime="2009-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2009-02-13"/>
+  </status>
+  <introduced datetime="2009-02-13"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to provide eligibility for an heir of a deceased homeowner to receive certain housing-related disaster assistance.</title>
+  </titles>
+  <sponsor id="400032"/>
+  <cosponsors>
+    <cosponsor id="412268" joined="2009-04-23"/>
+    <cosponsor id="412236" joined="2009-02-13"/>
+    <cosponsor id="400081" joined="2009-03-17"/>
+    <cosponsor id="400096" joined="2009-03-17"/>
+    <cosponsor id="400116" joined="2009-04-23"/>
+    <cosponsor id="400155" joined="2009-03-12"/>
+    <cosponsor id="412310" joined="2009-04-23"/>
+    <cosponsor id="412311" joined="2009-03-05"/>
+    <cosponsor id="400395" joined="2009-02-13"/>
+    <cosponsor id="400421" joined="2009-03-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-13">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2009-02-13">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Housing finance and home ownership"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2009--Introduced.
+Amends the Robert T. Stafford Disaster Relief and Emergency Assistance Act to provide eligibility for an heir of a deceased homeowner to receive certain housing-related disaster assistance (i.e., financial assistance for the repair or replacement of owner-occupied private residences damaged by a major disaster).</summary>
+</bill>

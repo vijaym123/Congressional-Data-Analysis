@@ -1,0 +1,83 @@
+<bill session="113" type="h" number="3096" updated="2013-11-02T06:45:04-04:00">
+  <state datetime="2013-09-27T10:38:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-09-27T10:38:00-04:00"/>
+  </status>
+  <introduced datetime="2013-09-12"/>
+  <titles>
+    <title type="official" as="introduced">To designate the building occupied by the Federal Bureau of Investigation located at 801 Follin Lane, Vienna, Virginia, as the "Michael D. Resnick Terrorist Screening Center".</title>
+  </titles>
+  <sponsor id="412272"/>
+  <cosponsors>
+    <cosponsor id="412454" joined="2013-09-12"/>
+    <cosponsor id="400283" joined="2013-09-12"/>
+    <cosponsor id="400435" joined="2013-09-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-12" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2013-09-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar datetime="2013-09-19" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2013-09-19">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2013-09-27T09:20:00-04:00">
+      <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-235.</text>
+    </action>
+    <calendar datetime="2013-09-27T09:20:00-04:00" calendar="House" number="60">
+      <text>Placed on the House Calendar, Calendar No. 60.</text>
+    </calendar>
+    <action datetime="2013-09-27T09:30:00-04:00">
+      <text>Mr. Barletta moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-09-27T09:30:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5892-5893" label="consideration"/>
+    </action>
+    <action datetime="2013-09-27T09:30:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3096.</text>
+    </action>
+    <action datetime="2013-09-27T09:40:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Barletta objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.</text>
+    </action>
+    <action datetime="2013-09-27T10:23:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5894-5895" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="492" datetime="2013-09-27T10:38:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 403 - 2 (Roll no. 492).</text>
+      <reference ref="CR H5892" label="text"/>
+    </vote>
+    <action datetime="2013-09-27">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Federal Bureau of Investigation (FBI)"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/2013--Passed House without amendment.
+Designates the building occupied by the Federal Bureau of Investigation (FBI) located at 801 Follin Lane, Vienna, Virginia, as the "Michael D. Resnick Terrorist Screening Center."</summary>
+</bill>

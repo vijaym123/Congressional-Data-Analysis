@@ -1,0 +1,43 @@
+<bill session="111" type="h" number="2945" updated="2013-07-19T23:38:24-04:00">
+  <state datetime="2009-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2009-06-18"/>
+  </status>
+  <introduced datetime="2009-06-18"/>
+  <titles>
+    <title as="introduced" type="official">To amend title XVIII of the Social Security Act to permit a Medicare beneficiary to elect to take ownership, or to decline ownership, of a certain item of complex durable medical equipment after the 13-month capped rental period ends.</title>
+  </titles>
+  <sponsor id="400177"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-18">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-06-18">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-06-18">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2009-06-19">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="880"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/2009--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to permit a Medicare beneficiary to elect to take, or decline to take, ownership of a Group 3 Support Surface item of complex durable medical equipment (DME) after the 13-month capped rental period ends.</summary>
+</bill>

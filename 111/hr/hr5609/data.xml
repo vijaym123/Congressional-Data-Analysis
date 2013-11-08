@@ -1,0 +1,64 @@
+<bill session="111" type="h" number="5609" updated="2013-07-20T00:03:11-04:00">
+  <state datetime="2010-07-01T17:28:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-07-01T17:28:00-04:00"/>
+  </status>
+  <introduced datetime="2010-06-28"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Federal Election Campaign Act of 1971 to prohibit any registered lobbyist whose clients include foreign governments which are found to be sponsors of international terrorism or include other foreign nationals from making contributions and other campaign-related disbursements in elections for public office.</title>
+    <title as="amended by house" type="official">To amend the Lobbying Disclosure Act of 1995 to prohibit any person from performing lobbying activities on behalf of a client which is determined by the Secretary of State to be a State sponsor of terrorism.</title>
+  </titles>
+  <sponsor id="412222"/>
+  <cosponsors>
+    <cosponsor id="412296" joined="2010-06-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-06-28">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2010-07-01T16:12:00-04:00">
+      <text>Mr. Conyers moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-07-01T16:12:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5336-5340" label="consideration"/>
+    </action>
+    <action datetime="2010-07-01T16:17:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5609.</text>
+    </action>
+    <action datetime="2010-07-01T16:52:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-07-01T17:21:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5341-5342" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-07-01T17:28:00-04:00" how="roll" result="pass" roll="425" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 4 (Roll no. 425).</text>
+      <reference ref="CR H5336-5337" label="text"/>
+    </vote>
+    <action datetime="2010-07-01T17:28:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-07-01T17:28:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-07-13">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Public participation and lobbying"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>7/1/2010--Passed House amended.
+Amends the Lobbying Disclosure Act of 1995 to prohibit anyone from performing lobbying activities on behalf of a client which is a country whose government the Secretary of State has determined has repeatedly provided support for acts of international terrorism.</summary>
+</bill>

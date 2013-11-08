@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="2407" updated="2013-11-02T06:39:15-04:00">
+  <state datetime="2013-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-18"/>
+  </status>
+  <introduced datetime="2013-06-18"/>
+  <titles>
+    <title type="official" as="introduced">To reauthorize the Hudson River Valley National Heritage Area.</title>
+  </titles>
+  <sponsor id="412562"/>
+  <cosponsors>
+    <cosponsor id="412453" joined="2013-06-18"/>
+    <cosponsor id="400219" joined="2013-06-27"/>
+    <cosponsor id="400246" joined="2013-06-18"/>
+    <cosponsor id="400289" joined="2013-06-20"/>
+    <cosponsor id="400333" joined="2013-06-20"/>
+    <cosponsor id="412319" joined="2013-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-18" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-06-24">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="1138"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Lakes and rivers"/>
+    <term name="New York State"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/2013--Introduced.
+Amends the Hudson Valley National Heritage Area Act of 1996 to extend through FY2022 the authority of the Secretary of the Interior to make grants or provide assistance for the Hudson River Valley National Heritage Area in New York.</summary>
+</bill>

@@ -1,0 +1,103 @@
+<bill session="111" type="h" number="3224" updated="2013-07-19T23:41:09-04:00">
+  <state datetime="2009-12-08T14:17:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-12-08T14:17:00-05:00"/>
+  </status>
+  <introduced datetime="2009-07-15"/>
+  <titles>
+    <title as="introduced" type="official">To authorize the Board of Regents of the Smithsonian Institution to plan, design, and construct a vehicle maintenance building at the vehicle maintenance branch of the Smithsonian Institution located in Suitland, Maryland, and for other purposes.</title>
+  </titles>
+  <sponsor id="400021"/>
+  <cosponsors>
+    <cosponsor id="400206" joined="2009-07-15"/>
+    <cosponsor id="400663" joined="2009-07-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-15">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-07-15">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2009-07-15">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2009-07-16">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-07-30">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-07-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-07-30">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2009-09-30T14:44:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 111-276, Part I.</text>
+    </action>
+    <action datetime="2009-11-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House House Administration"/>
+    </action>
+    <calendar datetime="2009-11-04">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House House Administration"/>
+    </calendar>
+    <action datetime="2009-12-03T14:57:00-05:00">
+      <text>Reported by the Committee on House Administration. H. Rept. 111-276, Part II.</text>
+    </action>
+    <calendar datetime="2009-12-03T14:57:00-05:00" calendar="Union" number="204">
+      <text>Placed on the Union Calendar, Calendar No. 204.</text>
+    </calendar>
+    <action datetime="2009-12-08T14:13:00-05:00">
+      <text>Mr. Brady (PA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-12-08T14:13:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H13582" label="consideration"/>
+    </action>
+    <action datetime="2009-12-08T14:13:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3224.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-12-08T14:17:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H13582" label="text"/>
+    </vote>
+    <action datetime="2009-12-08T14:17:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-12-09">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2009-12-24">
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Markup, Reporting"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="1372"/>
+    <bill relation="unknown" session="111" type="s" number="1372"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Maryland"/>
+    <term name="Motor vehicles"/>
+    <term name="Smithsonian Institution"/>
+  </subjects>
+  <amendments/>
+  <summary>12/8/2009--Passed House without amendment.
+(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) Authorizes the Board of Regents of the Smithsonian Institution to construct a vehicle maintenance building at the vehicle maintenance branch of the Smithsonian Institution in Suitland, Maryland, to be used for housing and maintaining vehicles and transportation equipment of the Smithsonian. Authorizes appropriations.</summary>
+</bill>

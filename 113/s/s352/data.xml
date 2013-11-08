@@ -1,0 +1,70 @@
+<bill session="113" type="s" number="352" updated="2013-11-02T06:55:09-04:00">
+  <state datetime="2013-06-19">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2013-06-19"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title type="short" as="introduced">Devil's Staircase Wilderness Act of 2013</title>
+    <title type="short" as="reported to senate">Devil's Staircase Wilderness Act of 2013</title>
+    <title type="short" as="passed senate">Devil's Staircase Wilderness Act of 2013</title>
+    <title type="official" as="introduced">A bill to provide for the designation of the Devil's Staircase Wilderness Area in the State of Oregon, to designate segments of Wasson and Franklin Creeks in the State of Oregon as wild rivers, and for other purposes.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="412325" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S780-782"/>
+    </action>
+    <action datetime="2013-02-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <calendar datetime="2013-03-14" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2013-04-22">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-28.</text>
+    </action>
+    <calendar datetime="2013-04-22" calendar="Senate Legislative" under="General Orders" number="59">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 59.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2013-06-19" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4717-4722" label="consideration"/>
+      <reference ref="CR S4721" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2013-06-20T14:00:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2013-06-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2013-06-20">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-06-21">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Lakes and rivers"/>
+    <term name="Land transfers"/>
+    <term name="Oregon"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+  <summary>6/19/2013--Passed Senate without amendment.
+Devil's Staircase Wilderness Act of 2013 - Designates certain federal land in Oregon administered by the Forest Service and the Bureau of Land Management (BLM) as the Devil's Staircase Wilderness and as wilderness and a component of the National Wilderness Preservation System. Specifies this Act's effect on: (1) Oregon's jurisdiction and responsibilities with respect to fish and wildlife, (2) protective perimeters and buffer zones around the Wilderness, (3) activities and uses outside of the boundary of the Wilderness, and (4) treaty rights of Indian tribes. Transfers the administrative jurisdiction over BLM land north of the Umpqua River to the Forest Service. Amends the Wild and Scenic Rivers Act to designate Franklin and Wasson Creeks in Oregon as wild rivers and as components of the Wild and Scenic Rivers System.</summary>
+</bill>

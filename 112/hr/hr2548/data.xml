@@ -1,0 +1,83 @@
+<bill session="112" type="h" number="2548" updated="2013-07-20T01:32:21-04:00">
+  <state datetime="2011-07-28T18:49:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2011-07-28T18:49:00-04:00"/>
+  </status>
+  <introduced datetime="2011-07-14"/>
+  <titles>
+    <title as="introduced" type="official">To designate the facility of the United States Postal Service located at 6310 North University Street in Peoria, Illinois, as the "Charles 'Chip' Lawrence Chan Post Office Building".</title>
+  </titles>
+  <sponsor id="412314"/>
+  <cosponsors>
+    <cosponsor id="400027" joined="2011-07-14"/>
+    <cosponsor id="400082" joined="2011-07-14"/>
+    <cosponsor id="400093" joined="2011-07-14"/>
+    <cosponsor id="412420" joined="2011-07-14"/>
+    <cosponsor id="400163" joined="2011-07-14"/>
+    <cosponsor id="412422" joined="2011-07-14"/>
+    <cosponsor id="400198" joined="2011-07-14"/>
+    <cosponsor id="400207" joined="2011-07-14"/>
+    <cosponsor id="412421" joined="2011-07-14"/>
+    <cosponsor id="400630" joined="2011-07-14"/>
+    <cosponsor id="400252" joined="2011-07-14"/>
+    <cosponsor id="412331" joined="2011-07-14"/>
+    <cosponsor id="412202" joined="2011-07-14"/>
+    <cosponsor id="400350" joined="2011-07-14"/>
+    <cosponsor id="400360" joined="2011-07-14"/>
+    <cosponsor id="412423" joined="2011-07-14"/>
+    <cosponsor id="400373" joined="2011-07-14"/>
+    <cosponsor id="412424" joined="2011-07-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-07-14">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2011-07-28T17:44:00-04:00">
+      <text>Mr. Lankford moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2011-07-28T17:44:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5721-5722" label="consideration"/>
+    </action>
+    <action datetime="2011-07-28T17:44:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2548.</text>
+    </action>
+    <action datetime="2011-07-28T17:51:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Lankford objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2011-07-28T18:49:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5729" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-07-28T18:49:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H5721" label="text"/>
+    </vote>
+    <action datetime="2011-07-28T18:49:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-07-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2011-08-18">
+      <text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSGA09" subcommittee="Federal Financial Management, Government Information, Federal Services, and International Security" name="Senate Homeland Security and Governmental Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Illinois"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>7/14/2011--Introduced.
+Designates the facility of the United States Postal Service located at 6310 North University Street in Peoria, Illinois, as the "Charles 'Chip' Lawrence Chan Post Office Building."</summary>
+</bill>

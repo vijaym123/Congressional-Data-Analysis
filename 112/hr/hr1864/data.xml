@@ -1,0 +1,97 @@
+<bill session="112" type="h" number="1864" updated="2013-07-20T01:26:25-04:00">
+  <state datetime="2012-05-15T16:17:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-05-15T16:17:00-04:00"/>
+  </status>
+  <introduced datetime="2011-05-12"/>
+  <titles>
+    <title as="introduced" type="short">Mobile Workforce State Income Tax Simplification Act of 2011</title>
+    <title as="reported to house" type="short">Mobile Workforce State Income Tax Simplification Act of 2011</title>
+    <title as="passed house" type="short">Mobile Workforce State Income Tax Simplification Act of 2012</title>
+    <title as="introduced" type="official">To limit the authority of States to tax certain income of employees for employment duties performed in other States.</title>
+  </titles>
+  <sponsor id="400076"/>
+  <cosponsors>
+    <cosponsor id="400645" joined="2011-06-14"/>
+    <cosponsor id="412270" joined="2011-05-25"/>
+    <cosponsor id="400086" joined="2011-06-14"/>
+    <cosponsor id="400137" joined="2011-09-14"/>
+    <cosponsor id="400141" joined="2011-05-24"/>
+    <cosponsor id="412473" joined="2011-05-25"/>
+    <cosponsor id="400199" joined="2011-11-14"/>
+    <cosponsor id="412199" joined="2011-05-12"/>
+    <cosponsor id="412226" joined="2011-06-22"/>
+    <cosponsor id="412398" joined="2011-07-26"/>
+    <cosponsor id="412311" joined="2011-06-22"/>
+    <cosponsor id="412411" joined="2011-05-24"/>
+    <cosponsor id="400367" joined="2011-05-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-05-12">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2011-05-23">
+      <text>Referred to the Subcommittee on Courts, Commercial and Administrative Law.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2011-05-24">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2011-11-15">
+      <text>Subcommittee on Courts, Commercial and Administrative Law Discharged.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2011-11-17">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-11-17">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2012-02-03T12:41:00-05:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 112-386.</text>
+    </action>
+    <calendar datetime="2012-02-03T12:42:00-05:00" calendar="Union" number="264">
+      <text>Placed on the Union Calendar, Calendar No. 264.</text>
+    </calendar>
+    <action datetime="2012-05-15T16:08:00-04:00">
+      <text>Mr. Coble moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-05-15T16:08:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2667-2669" label="consideration"/>
+    </action>
+    <action datetime="2012-05-15T16:08:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1864.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-05-15T16:17:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H2667-2668" label="text"/>
+    </vote>
+    <action datetime="2012-05-15T16:17:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-05-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSJU03" subcommittee="Courts, Commercial and Administrative Law" name="House Judiciary"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="3485"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employment taxes"/>
+    <term name="Intergovernmental relations"/>
+    <term name="State and local taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/15/2012--Passed House amended.
+Mobile Workforce State Income Tax Simplification Act of 2012 - Prohibits the wages or other remuneration earned by an employee who performs employment duties in more than one state from being subject to income tax in any state other than: (1) the state of the employee's residence, and (2) the state within which the employee is present and performing employment duties for more than 30 days during the calendar year. Exempts employers from withholding of tax and information reporting requirements for employees not subject to income tax under this Act. Allows an employer, for purposes of determining penalties related to employer withholding or reporting requirements, to rely on an employee's annual determination of the time such employee will spend working in a state in the absence of fraud or collusion by such employee. Exempts from the definition of "employee" for purposes of this Act professional athletes, professional entertainers, and public figures who are persons of prominence who perform services for wages or other remuneration on a per-event basis. Makes this Act effective on January 1 of the 2nd year that begins after the enactment of this Act. Renders this Act inapplicable to any tax obligation that accrues before the effective date of this Act.</summary>
+</bill>

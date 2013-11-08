@@ -1,0 +1,51 @@
+<bill session="112" type="s" number="745" updated="2013-07-20T02:22:58-04:00">
+  <state datetime="2011-06-29">REPORTED</state>
+  <status>
+    <unknown datetime="2011-06-29"/>
+  </status>
+  <introduced datetime="2011-04-06"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend title 38, United States Code, to protect certain veterans who would otherwise be subject to a reduction in educational assistance benefits, and for other purposes.</title>
+  </titles>
+  <sponsor id="300087"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2011-04-14"/>
+    <cosponsor id="412246" joined="2011-07-13"/>
+    <cosponsor id="412223" joined="2011-07-22"/>
+    <cosponsor id="412325" joined="2011-05-03"/>
+    <cosponsor id="300093" joined="2011-07-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-04-06">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2011-06-08">
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+      <committee name="Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-06-29">
+      <text>Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2011-07-19">
+      <text>Committee on Veterans' Affairs. Reported by Senator Murray with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="2011-07-19" calendar="Senate Legislative" under="General Orders" number="105">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 105.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="1383"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Higher education"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/19/2011--Reported to Senate amended.
+Makes the amount payable for programs of education at nonpublic institutions of higher education pursued by individuals enrolled in the Department of Veterans Affairs (VA) post-9/11 educational assistance program (post-9/11 program) during the period beginning on August 1, 2011, and ending on December 31, 2014, the lesser of: (1) the established charges for that program; (2) the established charges payable under a VA maximum payments table published on October 27, 2010; or (3) the amount for the previous academic year, increased by the authorized annual percentage increase. Modifies guaranteed home loan fees for certain veterans.</summary>
+</bill>

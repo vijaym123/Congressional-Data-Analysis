@@ -1,0 +1,68 @@
+<bill session="113" type="h" number="475" updated="2013-11-02T06:22:58-04:00">
+  <state datetime="2013-06-25">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2013-06-25"/>
+  </status>
+  <introduced datetime="2013-02-04"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to include vaccines against seasonal influenza within the definition of taxable vaccines.</title>
+  </titles>
+  <sponsor id="400147"/>
+  <cosponsors>
+    <cosponsor id="400291" joined="2013-02-05"/>
+    <cosponsor id="400333" joined="2013-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-04" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2013-06-18T12:50:00-04:00">
+      <text>Mr. Gerlach moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-06-18T12:50:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3704-3705" label="consideration"/>
+    </action>
+    <action datetime="2013-06-18T12:50:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 475.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2013-06-18T13:00:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H3704" label="text"/>
+    </vote>
+    <action datetime="2013-06-18T13:00:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="2013-06-19" where="s" result="pass" state="PASSED:BILL">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+      <reference ref="CR S4725" label="consideration"/>
+    </vote>
+    <action datetime="2013-06-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2013-06-21">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2013-06-25">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-15" type="public" datetime="2013-06-25" state="ENACTED:SIGNED">
+      <text>Became Public Law No: 113-15.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="391"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Infectious and parasitic diseases"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/2013--Public Law.
+Amends the Internal Revenue Code to add vaccines against seasonal influenza to the list of those vaccines subject to the excise tax on taxable vaccines. Makes this Act applicable to sales and uses of such vaccines on or after the later of: (1) the first day of the first month which begins more than four weeks after the enactment of this Act, or (2) the date on which the Secretary of Health and Human Services (HHS) lists any vaccine against seasonal influenza for purposes of compensation for any vaccine-related injury or death through the Vaccine Injury Compensation Trust Fund.</summary>
+</bill>

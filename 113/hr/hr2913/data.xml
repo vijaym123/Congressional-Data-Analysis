@@ -1,0 +1,65 @@
+<bill session="113" type="h" number="2913" updated="2013-11-02T06:43:33-04:00">
+  <state datetime="2013-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-01"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Local Access Act</title>
+    <title type="official" as="introduced">To authorize certain Department of Veterans Affairs major medical facility leases, and for other purposes.</title>
+  </titles>
+  <sponsor id="400636"/>
+  <cosponsors>
+    <cosponsor id="412449" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-01" state="REFERRED">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2013-08-13">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+    <committee code="HSBU" name="House Budget" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Arizona"/>
+    <term name="California"/>
+    <term name="Caribbean area"/>
+    <term name="Connecticut"/>
+    <term name="Florida"/>
+    <term name="Georgia"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Hawaii"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Illinois"/>
+    <term name="Kansas"/>
+    <term name="Louisiana"/>
+    <term name="Massachusetts"/>
+    <term name="Missouri"/>
+    <term name="Nebraska"/>
+    <term name="New Jersey"/>
+    <term name="New Mexico"/>
+    <term name="Oklahoma"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Puerto Rico"/>
+    <term name="South Carolina"/>
+    <term name="Tennessee"/>
+    <term name="Texas"/>
+    <term name="U.S. territories and protectorates"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+</bill>

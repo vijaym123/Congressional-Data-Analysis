@@ -1,0 +1,72 @@
+<bill session="111" type="h" number="3960" updated="2013-07-19T23:47:51-04:00">
+  <state datetime="2010-09-28T20:06:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-09-28T20:06:00-04:00"/>
+  </status>
+  <introduced datetime="2009-10-28"/>
+  <titles>
+    <title as="introduced" type="short">Residential and Commuter Toll Fairness Act of 2009</title>
+    <title as="passed house" type="short">Residential and Commuter Toll Fairness Act of 2010</title>
+    <title as="introduced" type="official">To provide authority and sanction for the granting and issuance of programs for residential and commuter toll, user fee and fare discounts by States, municipalities, other localities, as well as all related agencies and departments thereof, and for other purposes.</title>
+    <title as="amended by house" type="official">To clarify the existing authority of, and as necessary provide express authorization for, public authorities to offer discounts in transportation tolls to captive tollpayers, and for other purposes.</title>
+  </titles>
+  <sponsor id="412296"/>
+  <cosponsors>
+    <cosponsor id="412299" joined="2009-12-01"/>
+    <cosponsor id="400426" joined="2009-12-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-10-28">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2009-10-29">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-09-28T19:58:00-04:00">
+      <text>Mr. McMahon moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-09-28T19:58:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7142-7143" label="consideration"/>
+    </action>
+    <action datetime="2010-09-28T19:58:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3960.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-09-28T20:06:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7142" label="text"/>
+    </vote>
+    <action datetime="2010-09-28T20:06:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-09-28T20:07:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-09-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="2775"/>
+    <bill relation="unknown" session="111" type="s" number="2775"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Commuting"/>
+    <term name="Public transit"/>
+    <term name="Roads and highways"/>
+    <term name="State and local government operations"/>
+    <term name="Transportation programs funding"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/2010--Passed House amended.
+Residential and Commuter Toll Fairness Act of 2010 - Grants a public authority the authority to carry out a program that offers discounts in transportation tolls to individuals who are residents of, or regular commuters to, a U.S. locality on an island, peninsula, or other area where transportation access is substantially constrained by geography and subject to a transportation toll to access or depart the locality (captive tollpayers). Declares that nothing in this Act may be construed to: (1) limit any other authority of a public authority, including the authority to offer discounts in transportation tolls to other tollpayers; or (2) affect, alter, or limit the applicability of state or local law with respect to the authority of a public authority to impose toll discounts.</summary>
+</bill>

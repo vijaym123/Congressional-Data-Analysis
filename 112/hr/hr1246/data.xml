@@ -1,0 +1,65 @@
+<bill session="112" type="h" number="1246" updated="2013-07-20T01:21:09-04:00">
+  <state datetime="2011-04-04T18:51:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2011-04-04T18:51:00-04:00"/>
+  </status>
+  <introduced datetime="2011-03-29"/>
+  <titles>
+    <title as="introduced" type="official">To reduce the amounts otherwise authorized to be appropriated to the Department of Defense for printing and reproduction.</title>
+  </titles>
+  <sponsor id="412413"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2011-03-29">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2011-04-04T14:11:00-04:00">
+      <text>Mr. West moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2011-04-04T14:11:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2273-2274" label="consideration"/>
+    </action>
+    <action datetime="2011-04-04T14:11:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1246.</text>
+    </action>
+    <action datetime="2011-04-04T14:19:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2011-04-04T18:31:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2274-2275" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-04-04T18:51:00-04:00" how="roll" result="pass" roll="225" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 225).</text>
+      <reference ref="CR H2273" label="text"/>
+    </vote>
+    <action datetime="2011-04-04T18:52:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-04-05">
+      <text>Received in the Senate and Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+    <action datetime="2011-05-18">
+      <text>Referred to the Subcommittee on Readiness.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS03" subcommittee="Readiness" name="House Armed Services"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="1247"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Defense spending"/>
+    <term name="Department of Defense"/>
+    <term name="Executive agency funding and structure"/>
+  </subjects>
+  <amendments/>
+  <summary>4/4/2011--Passed House without amendment.
+Reduces by 10% the amounts authorized to be appropriated to the Department of Defense (DOD) for FY2012 for printing and reproduction under Army, Navy, Marine Corps, Air Force, and defense-wide operation and maintenance funds.</summary>
+</bill>

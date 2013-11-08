@@ -1,0 +1,82 @@
+<bill session="111" type="h" number="4823" updated="2013-07-19T23:55:58-04:00">
+  <state datetime="2010-09-23T13:24:00-04:00">PROV_KILL:SUSPENSIONFAILED</state>
+  <status>
+    <unknown datetime="2010-09-23T13:24:00-04:00"/>
+  </status>
+  <introduced datetime="2010-03-11"/>
+  <titles>
+    <title as="introduced" type="short">Sedona-Red Rock National Scenic Area Act of 2010</title>
+    <title as="reported to house" type="short">Sedona-Red Rock National Scenic Area Act of 2010</title>
+    <title as="introduced" type="official">To establish the Sedona-Red Rock National Scenic Area in the Coconino National Forest, Arizona, and for other purposes.</title>
+  </titles>
+  <sponsor id="412286"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-03-11">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2010-03-16">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-06-10">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-07-22">
+      <text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-07-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-07-22">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2010-09-16T14:40:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-599.</text>
+    </action>
+    <calendar datetime="2010-09-16T14:40:00-04:00" calendar="Union" number="344">
+      <text>Placed on the Union Calendar, Calendar No. 344.</text>
+    </calendar>
+    <action datetime="2010-09-22T14:48:00-04:00">
+      <text>Mrs. Christensen moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-09-22T14:48:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6824-6825" label="consideration"/>
+      <reference ref="CR H6824" label="text of measure as reported in House"/>
+    </action>
+    <action datetime="2010-09-22T14:48:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4823.</text>
+    </action>
+    <action datetime="2010-09-22T14:59:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-09-23T13:15:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6904" label="consideration"/>
+    </action>
+    <vote state="PROV_KILL:SUSPENSIONFAILED" datetime="2010-09-23T13:24:00-04:00" how="roll" result="fail" roll="538" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 258 - 160 (Roll no. 538).</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Arizona"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Government trust funds"/>
+    <term name="Land transfers"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+  <summary>9/16/2010--Reported to House amended.
+Sedona-Red Rock National Scenic Area Act of 2010 - Establishes the Sedona-Red Rock National Scenic Area in the Coconino National Forest in Arizona to limit exchanges of land involving National Forest System land included in the Scenic Area and to manage the System land included in the Scenic Area as provided in the land resource management plan for the Forest. Bars the inclusion of any land located outside the boundaries of Coconino National Forest in the Scenic Area. Requires the Scenic Area to be administered in accordance with this Act, the land and resource management plan for the Coconino National Forest, and the laws and regulations applicable to the National Forest System. Permits land exchanges that dispose of System land included in the Scenic Area only if: (1) they result in the acquisition of land from a willing seller for inclusion in the Area; (2) there is no net loss of System land; and (3) an environmental analysis is completed before any land is exchanged. Requires the deposit of the proceeds received from sales or exchanges of land within the Coconino National Forest in a special fund in the Treasury to be used for the acquisition of land or interests within the National Forest System in Arizona. Prohibits the establishment of the Scenic Area from affecting: (1) the maintenance and use of public, private, or Forest Service roads; and (2) the legal status, maintenance and use rights-of-way and utility easements; (3) the management of state, municipal, or private land; (4) the management of National Forest System land that is not included in the Scenic Area; and (5) the construction or siting of transportation or water projects and associated facilities. Prohibits anything in this Act creating a private cause of action in any federal, state, or tribal courts.</summary>
+</bill>

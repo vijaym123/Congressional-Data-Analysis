@@ -1,0 +1,50 @@
+<bill session="111" type="h" number="6410" updated="2013-07-20T00:10:24-04:00">
+  <state datetime="2010-11-16">REFERRED</state>
+  <status>
+    <introduced datetime="2010-11-16"/>
+  </status>
+  <introduced datetime="2010-11-16"/>
+  <titles>
+    <title as="introduced" type="short">Air Cargo Security Act</title>
+    <title as="introduced" type="official">To improve air cargo security.</title>
+  </titles>
+  <sponsor id="400253"/>
+  <cosponsors>
+    <cosponsor id="400246" joined="2010-11-16"/>
+    <cosponsor id="400251" joined="2010-11-16"/>
+    <cosponsor id="400263" joined="2010-11-16"/>
+    <cosponsor id="400289" joined="2010-11-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-11-16">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2010-11-23">
+      <text>Referred to the Subcommittee on Transportation Security and Infrastructure Protection.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSHM07" subcommittee="Transportation Security and Infrastructure Protection" name="House Homeland Security"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="3954"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Aviation and airports"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Employment and training programs"/>
+    <term name="Homeland security"/>
+    <term name="Research and development"/>
+    <term name="Terrorism"/>
+    <term name="Transportation employees"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>11/16/2010--Introduced.
+Air Cargo Security Act - Directs the Secretary of Homeland Security (DHS) to establish systems to inspect cargo to ensure the security of all cargo transported in domestic or foreign all-cargo aircraft, including in intrastate air transportation. Requires such systems to meet minimum standards that ensure equipment, technology, procedures, or personnel used to screen cargo provide a level of security commensurate with the security level for the screening of passenger checked baggage. Directs the Secretary to: (1) establish a system for the regular inspection of shipping facilities for shipments of cargo transported in air transportation, including intrastate air transportation, to ensure that appropriate security controls, systems, and protocols are observed; and (2) enter into arrangements with civil aviation authorities of foreign countries to ensure that such inspections regularly occur at shipping facilities for cargo transported by air to the United States. Authorizes the Secretary to increase the number of air cargo inspectors to carry out such screenings and inspections. Directs the Secretary to establish a training and evaluation program for persons who handle air cargo to ensure that such cargo is properly handled and safeguarded from security breaches.</summary>
+</bill>

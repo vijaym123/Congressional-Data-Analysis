@@ -1,0 +1,56 @@
+<bill session="111" type="h" number="2504" updated="2013-07-19T23:34:26-04:00">
+  <state datetime="2009-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="2009-05-19"/>
+  </status>
+  <introduced datetime="2009-05-19"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to provide for an increase in the annual amount authorized to be appropriated to the Secretary of Veterans Affairs to carry out comprehensive service programs for homeless veterans.</title>
+  </titles>
+  <sponsor id="412316"/>
+  <cosponsors>
+    <cosponsor id="412236" joined="2009-11-04"/>
+    <cosponsor id="412222" joined="2009-09-21"/>
+    <cosponsor id="412204" joined="2009-06-02"/>
+    <cosponsor id="412293" joined="2009-09-21"/>
+    <cosponsor id="400274" joined="2009-10-22"/>
+    <cosponsor id="400316" joined="2009-10-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-05-19">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-05-22">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-10-01">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-10-22">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2009-10-22">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="2760"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/2009--Introduced.
+Increases and extends through FY2010 the annual authorization of appropriations for Department of Veterans Affairs (VA) comprehensive service programs for homeless veterans.</summary>
+</bill>

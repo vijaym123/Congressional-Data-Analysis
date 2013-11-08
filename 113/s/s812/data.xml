@@ -1,0 +1,58 @@
+<bill session="113" type="s" number="812" updated="2013-11-02T06:59:04-04:00">
+  <state datetime="2013-10-12">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2013-10-12"/>
+  </status>
+  <introduced datetime="2013-04-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the Secretary of the Interior to take actions to implement the Agreement between the United States of America and the United Mexican States Concerning Transboundary Hydrocarbon Reservoirs in the Gulf of Mexico.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="300075" joined="2013-04-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2013-10-01">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <action datetime="2013-10-12">
+      <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+      <reference ref="CR S7431" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2013-10-12" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S7431" label="text"/>
+    </vote>
+    <action datetime="2013-10-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2013-10-14T14:08:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2013-10-14T16:56:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings, Discharged, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="1613"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Gulf of Mexico"/>
+    <term name="International law and treaties"/>
+    <term name="Latin America"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Mexico"/>
+    <term name="Oil and gas"/>
+  </subjects>
+  <amendments/>
+  <summary>4/25/2013--Introduced.
+Approves the Agreement between the United States of America and the United Mexican States Concerning Transboundary Hydrocarbon Reservoirs in the Gulf of Mexico. Authorizes the Secretary of the Interior to implement the Agreement's terms, including: (1) approving unitization agreements and related arrangements for the exploration of, and development or production of oil or gas from, transboundary reservoirs and geological structures; (2) disclosing information, as necessary, regarding exploration, development, and production of a transboundary reservoir or geological structure that may be considered confidential, privileged, or proprietary information under law; and (3) accepting and taking action not inconsistent with an expert determination under the Agreement.</summary>
+</bill>

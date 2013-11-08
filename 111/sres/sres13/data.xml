@@ -1,0 +1,47 @@
+<bill session="111" type="sr" number="13" updated="2013-07-20T00:16:25-04:00">
+  <state datetime="2009-01-14">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2009-01-14"/>
+  </status>
+  <introduced datetime="2009-01-13"/>
+  <titles>
+    <title as="introduced" type="official">A resolution congratulating the University of Florida football team for winning the 2008 Bowl Championship Series (BCS) national championship.</title>
+  </titles>
+  <sponsor id="300078"/>
+  <cosponsors>
+    <cosponsor id="400621" joined="2009-01-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-01-13">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S348-349" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2009-01-14">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2009-01-14">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S398-399" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2009-01-14" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S398-399" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Sports and recreation"/>
+    <term name="Congressional tributes"/>
+    <term name="Florida"/>
+    <term name="Higher education"/>
+    <term name="School athletics"/>
+  </subjects>
+  <amendments>
+    <amendment number="s22"/>
+  </amendments>
+  <summary>1/14/2009--Passed Senate amended.
+Congratulates the University of Florida Gators for winning the 2008 Bowl Championship Series (BCS) national championship.</summary>
+</bill>

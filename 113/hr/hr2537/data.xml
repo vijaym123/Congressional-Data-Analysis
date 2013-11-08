@@ -1,0 +1,41 @@
+<bill session="113" type="h" number="2537" updated="2013-11-02T06:40:20-04:00">
+  <state datetime="2013-06-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-27"/>
+  </status>
+  <introduced datetime="2013-06-27"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 49, United States Code, with respect to employee protective arrangements, and for other purposes.</title>
+  </titles>
+  <sponsor id="400151"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2013-07-31"/>
+    <cosponsor id="400154" joined="2013-09-17"/>
+    <cosponsor id="412445" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-27" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-06-28">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Labor-management relations"/>
+    <term name="Transportation employees"/>
+    <term name="Transportation programs funding"/>
+  </subjects>
+  <amendments/>
+  <summary>6/27/2013--Introduced.
+Repeals requirements that condition certain financial assistance for public transportation projects upon employee protective arrangements approved by the Secretary of Labor.</summary>
+</bill>

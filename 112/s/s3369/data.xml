@@ -1,0 +1,132 @@
+<bill session="112" type="s" number="3369" updated="2013-07-20T02:45:49-04:00">
+  <state datetime="2012-07-17">PROV_KILL:CLOTUREFAILED</state>
+  <status>
+    <unknown datetime="2012-07-17"/>
+  </status>
+  <introduced datetime="2012-07-10"/>
+  <titles>
+    <title as="introduced" type="short">Democracy Is Strengthened by Casting Light On Spending in Elections Act of 2012</title>
+    <title as="introduced" type="short">DISCLOSE Act of 2012</title>
+    <title as="introduced" type="official">A bill to amend the Federal Election Campaign Act of 1971 to provide for additional disclosure requirements for corporations, labor organizations, Super PACs and other entities, and for other purposes.</title>
+  </titles>
+  <sponsor id="412247"/>
+  <cosponsors>
+    <cosponsor id="300001" joined="2012-07-16"/>
+    <cosponsor id="412326" joined="2012-07-16"/>
+    <cosponsor id="412330" joined="2012-07-10"/>
+    <cosponsor id="300009" joined="2012-07-11"/>
+    <cosponsor id="412490" joined="2012-07-11"/>
+    <cosponsor id="300011" joined="2012-07-17"/>
+    <cosponsor id="400050" joined="2012-07-10"/>
+    <cosponsor id="400064" joined="2012-07-16"/>
+    <cosponsor id="300019" joined="2012-07-16"/>
+    <cosponsor id="300026" joined="2012-07-11"/>
+    <cosponsor id="412390" joined="2012-07-11"/>
+    <cosponsor id="300038" joined="2012-07-16"/>
+    <cosponsor id="300043" joined="2012-07-16"/>
+    <cosponsor id="412378" joined="2012-07-10"/>
+    <cosponsor id="412223" joined="2012-07-11"/>
+    <cosponsor id="412324" joined="2012-07-11"/>
+    <cosponsor id="300051" joined="2012-07-11"/>
+    <cosponsor id="300056" joined="2012-07-11"/>
+    <cosponsor id="300058" joined="2012-07-16"/>
+    <cosponsor id="300060" joined="2012-07-16"/>
+    <cosponsor id="412242" joined="2012-07-16"/>
+    <cosponsor id="300061" joined="2012-07-11"/>
+    <cosponsor id="300063" joined="2012-07-11"/>
+    <cosponsor id="300064" joined="2012-07-16"/>
+    <cosponsor id="300065" joined="2012-07-11"/>
+    <cosponsor id="300066" joined="2012-07-11"/>
+    <cosponsor id="412243" joined="2012-07-11"/>
+    <cosponsor id="400272" joined="2012-07-11"/>
+    <cosponsor id="412325" joined="2012-07-10"/>
+    <cosponsor id="300073" joined="2012-07-11"/>
+    <cosponsor id="300076" joined="2012-07-16"/>
+    <cosponsor id="300078" joined="2012-07-10"/>
+    <cosponsor id="300081" joined="2012-07-11"/>
+    <cosponsor id="400357" joined="2012-07-11"/>
+    <cosponsor id="300087" joined="2012-07-10"/>
+    <cosponsor id="412323" joined="2012-07-10"/>
+    <cosponsor id="300093" joined="2012-07-11"/>
+    <cosponsor id="400412" joined="2012-07-11"/>
+    <cosponsor id="400413" joined="2012-07-10"/>
+    <cosponsor id="412321" joined="2012-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2012-07-10">
+      <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2012-07-11" calendar="Senate Legislative" under="General Orders" number="446">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 446.</text>
+    </calendar>
+    <action datetime="2012-07-12">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S4919-4932" label="consideration"/>
+    </action>
+    <action datetime="2012-07-12">
+      <text>Motion to proceed to measure considered in Senate.</text>
+      <reference ref="CR S4938-4943" label="consideration"/>
+    </action>
+    <action datetime="2012-07-12">
+      <text>Cloture motion on the motion to proceed to the measure presented in Senate.</text>
+      <reference ref="CR S4942-4943" label="consideration"/>
+      <reference ref="CR S4942" label="text"/>
+    </action>
+    <action datetime="2012-07-16">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S4985, S4985-4988, S4988-4991, S4993-4994, S4995-4998, S4999-5003, S5007-5008, S5010-5023, S5025-5044" label="consideration"/>
+    </action>
+    <action state="PROV_KILL:CLOTUREFAILED" datetime="2012-07-16">
+      <text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 51 - 44. Record Vote Number: 179.</text>
+    </action>
+    <action datetime="2012-07-16">
+      <text>Motion by Senator Reid to reconsider the vote by which cloture was not invoked on the motion to proceed to the measure (Roll Call Vote No. 179) entered in Senate.</text>
+      <reference ref="CR S5008" label="consideration"/>
+      <reference ref="CR S5008" label="text"/>
+    </action>
+    <action datetime="2012-07-17">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S5051-5052, S5057-5064, S5065-5066, S5066-5071, S5071-5072" label="consideration"/>
+    </action>
+    <action datetime="2012-07-17">
+      <text>Motion to proceed to consideration of the motion to reconsider the vote by which cloture was not invoked on the motion to proceed to the measure (Roll Call Vote No. 179) agreed to in Senate by Unanimous Consent.</text>
+    </action>
+    <action datetime="2012-07-17">
+      <text>Motion by Senator Reid to reconsider the vote by which cloture was not invoked on the motion to proceed to the measure (Roll Call Vote No. 179) agreed to in Senate by Unanimous Consent.</text>
+      <reference ref="CR S5071-5072" label="consideration"/>
+      <reference ref="CR S5071" label="text"/>
+    </action>
+    <action state="PROV_KILL:CLOTUREFAILED" datetime="2012-07-17">
+      <text>Upon reconsideration, cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 53 - 45. Record Vote Number: 180.</text>
+    </action>
+    <action datetime="2012-07-17">
+      <text>Motion to proceed to consideration of measure withdrawn in Senate.</text>
+      <reference ref="CR S5072" label="consideration"/>
+    </action>
+    <action datetime="2012-07-24">
+      <text>Committee on the Judiciary Subcommittee on the Constitution, Civil Rights and Human Rights. Hearings held.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="4010"/>
+    <bill relation="unknown" session="112" type="s" number="2219"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Business records"/>
+    <term name="Congressional elections"/>
+    <term name="Corporate finance and management"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Financial services and investments"/>
+    <term name="Government information and archives"/>
+    <term name="Labor-management relations"/>
+    <term name="Political advertising"/>
+    <term name="Political parties and affiliation"/>
+    <term name="Public participation and lobbying"/>
+    <term name="Tax-exempt organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>7/10/2012--Introduced.
+Democracy Is Strengthened by Casting Light On Spending in Elections Act of 2012 or DISCLOSE Act of 2012 - Amends the Federal Election Campaign Act of 1971 (FECA) to redefine the term "independent expenditure" as an expenditure by a person that, when taken as a whole, expressly advocates the election or defeat of a clearly identified candidate, or is the functional equivalent of express advocacy because it can be interpreted by a reasonable person only as advocating the election or defeat of a candidate, taking into account whether the communication involved mentions a candidacy, a political party, or a challenger to a candidate, or takes a position on a candidates, qualifications, or fitness for office. Expands the period during which certain communications are treated as electioneering communications. Prescribes disclosure requirements for corporations, labor organizations, and certain other entities, including a political committee with an account established for the purpose of accepting donations or contributions that do not comply with the contribution limits or source prohibitions under FECA (but only with respect to such accounts). Repeals the prohibition against political contributions by individuals age 17 or younger.</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="113" type="h" number="2946" updated="2013-11-02T06:43:49-04:00">
+  <state datetime="2013-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-01"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="short" as="introduced">Risk-Based Cockpit Security Act of 2013</title>
+    <title type="official" as="introduced">To direct the Administrator of the Transportation Security Administration to assess and report on the risk posed to commercial aviation security if a flight deck door is opened during flight.</title>
+  </titles>
+  <sponsor id="400244"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-08-01" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2013-09-06">
+      <text>Referred to the Subcommittee on Transportation Security.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM07" subcommittee="Transportation Security" name="House Homeland Security"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Aviation and airports"/>
+    <term name="Congressional oversight"/>
+    <term name="Government studies and investigations"/>
+    <term name="Terrorism"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+</bill>

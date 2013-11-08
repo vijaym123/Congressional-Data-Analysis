@@ -1,0 +1,76 @@
+<bill session="111" type="h" number="5545" updated="2013-07-20T00:02:39-04:00">
+  <state datetime="2010-07-20T14:27:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-07-20T14:27:00-04:00"/>
+  </status>
+  <introduced datetime="2010-06-16"/>
+  <titles>
+    <title as="introduced" type="official">To deauthorize a portion of the project for navigation, Potomac River, Washington Channel, District of Columbia, under the jurisdiction of the Corps of Engineers.</title>
+  </titles>
+  <sponsor id="400295"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-06-16">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2010-06-17">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-07-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-07-01">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2010-07-01">
+      <text>Subcommittee on Water Resources and Environment Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-07-15T15:14:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 111-540.</text>
+    </action>
+    <calendar datetime="2010-07-15T15:14:00-04:00" calendar="Union" number="309">
+      <text>Placed on the Union Calendar, Calendar No. 309.</text>
+    </calendar>
+    <action datetime="2010-07-20T14:22:00-04:00">
+      <text>Ms. Norton moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-07-20T14:22:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5742-5743" label="consideration"/>
+    </action>
+    <action datetime="2010-07-20T14:22:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5545.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-07-20T14:27:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H5742-5743" label="text"/>
+    </vote>
+    <action datetime="2010-07-20T14:27:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-07-21">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="5103"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="District of Columbia"/>
+    <term name="Lakes and rivers"/>
+    <term name="Navigation, waterways, harbors"/>
+  </subjects>
+  <amendments/>
+  <summary>7/20/2010--Passed House without amendment.
+Deauthorizes a specified portion of the project for navigation, Potomac River, Washington Channel, District of Columbia.</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="113" type="hj" number="55" updated="2013-11-02T06:48:27-04:00">
+  <state datetime="2013-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-01"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="official" as="introduced">Proposing an amendment to the Constitution of the United States relating to the equal application to the Senators and Representatives of the laws that apply to all citizens of the United States.</title>
+  </titles>
+  <sponsor id="412526"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2013-09-09"/>
+    <cosponsor id="412541" joined="2013-09-09"/>
+    <cosponsor id="400068" joined="2013-09-09"/>
+    <cosponsor id="412472" joined="2013-08-02"/>
+    <cosponsor id="412442" joined="2013-09-09"/>
+    <cosponsor id="400606" joined="2013-08-01"/>
+    <cosponsor id="412596" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-01" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution and Civil Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/2013--Introduced.
+Constitutional Amendment - Prohibits Congress from making any law respecting the citizens of the United States that does not also apply to the Senators and Representatives.</summary>
+</bill>

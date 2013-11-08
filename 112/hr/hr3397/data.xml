@@ -1,0 +1,78 @@
+<bill session="112" type="h" number="3397" updated="2013-07-20T01:39:34-04:00">
+  <state datetime="2012-09-10T16:06:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-09-10T16:06:00-04:00"/>
+  </status>
+  <introduced datetime="2011-11-10"/>
+  <titles>
+    <title as="introduced" type="short">Cabin Fee Act of 2011</title>
+    <title as="reported to house" type="short">Cabin Fee Act of 2011</title>
+    <title as="passed house" type="short">Cabin Fee Act of 2012</title>
+    <title as="introduced" type="official">To modify the Forest Service Recreation Residence Program by implementing a simple, equitable, and predictable procedure for determining cabin user fees, and for other purposes.</title>
+  </titles>
+  <sponsor id="400171"/>
+  <cosponsors>
+    <cosponsor id="412283" joined="2011-12-20"/>
+    <cosponsor id="400335" joined="2011-12-08"/>
+    <cosponsor id="400376" joined="2011-11-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-11-10">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2011-11-17">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-11-17">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2012-07-17T18:10:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 112-602.</text>
+    </action>
+    <calendar datetime="2012-07-17T18:10:00-04:00" calendar="Union" number="437">
+      <text>Placed on the Union Calendar, Calendar No. 437.</text>
+    </calendar>
+    <action datetime="2012-09-10T16:01:00-04:00">
+      <text>Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-09-10T16:01:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5730-5732" label="consideration"/>
+    </action>
+    <action datetime="2012-09-10T16:01:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3397.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-09-10T16:06:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5730-5731" label="text"/>
+    </vote>
+    <action datetime="2012-09-10T16:06:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-09-11">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="1906"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Administrative remedies"/>
+    <term name="Alaska"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Licensing and registrations"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>9/10/2012--Passed House amended.
+Cabin Fee Act of 2012 - Directs the Secretary of Agriculture (USDA) to set an annual fee for, and requires the payment of such fee to the United States by, an authorized owner of a privately built and owned recreational cabin located on National Forest System land. Reduces such fee to $100 annually if access to a cabin is significantly impaired, either by natural causes or governmental actions. Requires payment of a transfer fee to the United States upon the transfer of a cabin between private parties for consideration. Requires the Secretary to grant a cabin owner the right to administrative appeal of a cabin fee decision, which may be reviewed by bringing a civil action in U.S. district court.</summary>
+</bill>

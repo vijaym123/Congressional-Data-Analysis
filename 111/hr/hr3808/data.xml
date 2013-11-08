@@ -1,0 +1,117 @@
+<bill session="111" type="h" number="3808" updated="2013-07-19T23:46:27-04:00">
+  <state datetime="2010-11-17T17:24:00-05:00">VETOED:OVERRIDE_FAIL_ORIGINATING:HOUSE</state>
+  <status>
+    <unknown datetime="2010-11-17T17:24:00-05:00"/>
+  </status>
+  <introduced datetime="2009-10-14"/>
+  <titles>
+    <title as="introduced" type="short">Interstate Recognition of Notarizations Act of 2009</title>
+    <title as="passed house" type="short">Interstate Recognition of Notarizations Act of 2010</title>
+    <title as="passed senate" type="short">Interstate Recognition of Notarizations Act of 2010</title>
+    <title as="introduced" type="official">To require any Federal or State court to recognize any notarization made by a notary public licensed by a State other than the State where the court is located when such notarization occurs in or affects interstate commerce.</title>
+  </titles>
+  <sponsor id="400004"/>
+  <cosponsors>
+    <cosponsor id="412208" joined="2009-10-14"/>
+    <cosponsor id="400070" joined="2009-10-14"/>
+    <cosponsor id="400092" joined="2009-10-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-10-14">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2010-01-04">
+      <text>Referred to the Subcommittee on Courts and Competition Policy.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2010-04-27T17:15:00-04:00">
+      <text>Ms. Baldwin moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-04-27T17:15:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2919-2920" label="consideration"/>
+    </action>
+    <action datetime="2010-04-27T17:15:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3808.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-04-27T17:23:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2919" label="text"/>
+    </vote>
+    <action datetime="2010-04-27T17:23:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-04-28">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2010-09-27">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S7557-7558" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2010-09-27" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <topresident datetime="2010-09-27">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2010-09-28">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2010-09-30">
+      <text>Presented to President.</text>
+    </topresident>
+    <action state="PROV_KILL:VETO" datetime="2010-10-08">
+      <text>Vetoed by President.</text>
+      <reference ref="CR 11/15/2010 H7402" label="text of veto message"/>
+    </action>
+    <action datetime="2010-11-15T14:14:00-05:00">
+      <text>VETO MESSAGE FROM THE PRESIDENT - The Chair laid before the House the veto message from the President on H.R. 3808. The objections of the President were spread at large upon the Journal, and the veto message was ordered to be printed as a House Document No. 111-152. Pursuant to the order of the House of earlier today, further consideration of the veto message and the bill are postponed until the legislative day of Wednesday, Nov. 17, 2010, and that on that legislative day, the House shall proceed to the constitutional question of reconsideration and dispose of such question without intervening motion.</text>
+    </action>
+    <action datetime="2010-11-17T10:26:00-05:00">
+      <text>DEBATE LIMITATION - Mr. Ellison asked unanimous consent that debate on passing H.R. 3808, the objections of the President to the contrary notwithstanding, be limited to 10 minutes equally divided and controlled by the chair and ranking minority member of the Committee on the Judiciary. Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-11-17T16:32:00-05:00">
+      <text>Pursuant to the order of the House of November 15, 2010, the Chair announced that the unfinished business was the further consideration of the veto message of the President on H.R. 3808.</text>
+      <reference ref="CR H7504-7506" label="consideration"/>
+    </action>
+    <action datetime="2010-11-17T16:33:00-05:00">
+      <text>DEBATE - Pursuant to the order of the House of today, the House proceeded with 10 minutes of debate on the veto message from the President on H.R. 3808, equally divided and controlled.</text>
+    </action>
+    <action datetime="2010-11-17T16:41:00-05:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of the allotted debate time, the Chair announced that under the Constitution, the yeas and nays were ordered on the question of passage upon reconsideration, the objection of the President to the contrary notwithstanding. The Chair further announced that further proceedings on that question would be postponed until a time to be announced.</text>
+    </action>
+    <action datetime="2010-11-17T17:14:00-05:00">
+      <text>UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of passage of H.R. 3808 on reconsideration, the objections of the President to the contrary notwithstanding, and on motions to suspend the rules which had been debated earlier and on which further proceedings had been postponed.</text>
+      <reference ref="CR H7506-7507" label="consideration"/>
+    </action>
+    <vote state="VETOED:OVERRIDE_FAIL_ORIGINATING:HOUSE" datetime="2010-11-17T17:24:00-05:00" how="roll" result="fail" roll="573" type="override" where="h">
+      <text>On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 185 - 235 (Roll no. 573).</text>
+    </vote>
+    <action datetime="2010-11-17T17:24:00-05:00">
+      <text>Motion to refer the bill and accompanying veto message to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="2010-11-17T17:24:00-05:00">
+      <text>On motion to refer the bill and the accompanying veto message to the Committee on the Judiciary. Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts and Competition Policy" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Federal appellate courts"/>
+    <term name="Federal district courts"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Licensing and registrations"/>
+    <term name="State and local courts"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/2010--Passed Senate without amendment.
+Interstate Recognition of Notarizations Act of 2010 - Requires each federal and state court to recognize any lawful notarization occurring in or affecting interstate commerce which is made by a notary public licensed or commissioned under the laws of a state other than the state where the court is located. Requires such a notarization to: (1) use a seal of office as symbol of the notary public's authority; or (2) have the seal information, in the case of an electronic record, securely attached to, or logically associated with, the electronic record so as to render the record tamper-resistant.</summary>
+</bill>

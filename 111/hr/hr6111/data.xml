@@ -1,0 +1,45 @@
+<bill session="111" type="h" number="6111" updated="2013-07-20T00:07:44-04:00">
+  <state datetime="2010-09-14">REFERRED</state>
+  <status>
+    <introduced datetime="2010-09-14"/>
+  </status>
+  <introduced datetime="2010-09-14"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Chesapeake and Ohio Canal Development Act to extend to the Chesapeake and Ohio Canal National Historical Park Commission.</title>
+  </titles>
+  <sponsor id="400415"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-09-14">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2010-09-15">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-09-16">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3949"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Advisory bodies"/>
+    <term name="Dams and canals"/>
+    <term name="District of Columbia"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Maryland"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="West Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>9/14/2010--Introduced.
+Amends the Chesapeake and Ohio Canal Development Act to extend the Chesapeake and Ohio Canal National Historical Park Commission for an additional 10 years.</summary>
+</bill>

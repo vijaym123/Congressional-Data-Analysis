@@ -1,0 +1,80 @@
+<bill session="111" type="h" number="3124" updated="2013-07-19T23:40:12-04:00">
+  <state datetime="2009-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2009-07-08"/>
+  </status>
+  <introduced datetime="2009-07-08"/>
+  <titles>
+    <title as="introduced" type="short">Health Information Technology (IT) Public Utility Act of 2009</title>
+    <title as="introduced" type="official">To provide for the use of improved health information technology with respect to certain safety net health care providers.</title>
+  </titles>
+  <sponsor id="412327"/>
+  <cosponsors>
+    <cosponsor id="400048" joined="2009-07-08"/>
+    <cosponsor id="412258" joined="2009-07-08"/>
+    <cosponsor id="412221" joined="2009-07-08"/>
+    <cosponsor id="400639" joined="2009-07-08"/>
+    <cosponsor id="412215" joined="2009-07-08"/>
+    <cosponsor id="412276" joined="2009-07-08"/>
+    <cosponsor id="412204" joined="2009-07-08"/>
+    <cosponsor id="400204" joined="2009-07-08"/>
+    <cosponsor id="412199" joined="2009-07-08"/>
+    <cosponsor id="400217" joined="2009-07-08"/>
+    <cosponsor id="400237" joined="2009-07-08"/>
+    <cosponsor id="412209" joined="2009-07-08"/>
+    <cosponsor id="412299" joined="2009-07-08"/>
+    <cosponsor id="400271" joined="2009-07-08"/>
+    <cosponsor id="400312" joined="2009-07-08"/>
+    <cosponsor id="400409" joined="2009-07-08"/>
+    <cosponsor id="400423" joined="2009-07-08"/>
+    <cosponsor id="400424" joined="2009-07-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-08">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Veterans' Affairs, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-07-08">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-07-08">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2009-07-08">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2009-07-09">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2009-07-10">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="890"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Health care quality"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health information and medical records"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Performance measurement"/>
+    <term name="Rural conditions and development"/>
+  </subjects>
+  <amendments/>
+  <summary>7/8/2009--Introduced.
+Health Information Technology (IT) Public Utility Act of 2009 - Establishes within the Office of the National Coordinator for Health Information Technology of the Department of Health and Human Services (HHS) a Federal Consolidated Health Information Technology Board to facilitate the implementation of electronic health record systems among safety-net health care providers, particularly small, rural providers. Sets forth the duties of the Board, which include: (1) ensuring that there is a constant interoperability between VistA (the software program utilized by the Department of Veterans Affair [VA]) and the RPMS (the Resource and Patient Management System of the Indian Health Service); (2) updating VistA and RPMS open source software on a timely basis; (3) establishing a child-specific electronic health record; and (4) developing and integrating quality and performance measurements. Directs the Board to establish the 21st Century Health Information Technology (HIT) Grant Program to award competitive grants to eligible safety-net health care providers to enable such providers to fully implement VistA or RPMS with respect to the patients served by such providers. Directs the Board to give preference to applicants that: (1) are located in geographical areas that have a greater likelihood of serving the same patients and utilizing interoperability to promote coordinated care management; or (2) demonstrate the greatest need for such award. Authorizes the Board to award competitive grants to eligible long-term care providers for demonstration projects to implement VistA or RPMS with respect to the individuals served by such providers.</summary>
+</bill>

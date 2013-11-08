@@ -1,0 +1,90 @@
+<bill session="112" type="h" number="2189" updated="2013-07-20T01:29:14-04:00">
+  <state datetime="2011-09-20T19:01:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2011-09-20T19:01:00-04:00"/>
+  </status>
+  <introduced datetime="2011-06-15"/>
+  <titles>
+    <title as="introduced" type="short">Death in Custody Reporting Act of 2011</title>
+    <title as="reported to house" type="short">Death in Custody Reporting Act of 2011</title>
+    <title as="passed house" type="short">Death in Custody Reporting Act of 2011</title>
+    <title as="reported to senate" type="short">Death in Custody Reporting Act of 2011</title>
+    <title as="introduced" type="official">To encourage States to report to the Attorney General certain information regarding the deaths of individuals in the custody of law enforcement agencies, and for other purposes.</title>
+  </titles>
+  <sponsor id="400364"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2011-07-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-06-15">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2011-08-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-08-01">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2011-09-07T19:01:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 112-198.</text>
+    </action>
+    <calendar datetime="2011-09-07T19:01:00-04:00" calendar="Union" number="127">
+      <text>Placed on the Union Calendar, Calendar No. 127.</text>
+    </calendar>
+    <action datetime="2011-09-20T14:18:00-04:00">
+      <text>Mr. Smith (TX) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2011-09-20T14:18:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6244-6246" label="consideration"/>
+    </action>
+    <action datetime="2011-09-20T14:18:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2189.</text>
+    </action>
+    <action datetime="2011-09-20T14:24:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Smith (TX) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2011-09-20T18:54:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6256-6257" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-09-20T19:01:00-04:00" how="roll" result="pass" roll="713" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 18 (Roll no. 713).</text>
+      <reference ref="CR H6244-6245" label="text"/>
+    </vote>
+    <action datetime="2011-09-20T19:01:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-09-21">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <calendar datetime="2011-11-17">
+      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2011-11-17">
+      <text>Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2011-11-17" calendar="Senate Legislative" under="General Orders" number="237">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 237.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Detention of persons"/>
+    <term name="Government studies and investigations"/>
+    <term name="Law enforcement administration and funding"/>
+  </subjects>
+  <amendments/>
+  <summary>11/17/2011--Reported to Senate without amendment.
+Death in Custody Reporting Act of 2011 - Requires states that receive certain criminal justice assistance grants to report to the Attorney General on a quarterly basis certain information regarding the death of any person who is detained, under arrest, in the process of being arrested, en route to incarceration, or incarcerated at a municipal or county jail, state prison, state-run or contracted boot camp prison, state or local contract facility, or other local or state correctional facility. Imposes penalties of up to a 10% reduction of federal Byrne Justice Assistance Grant funding, at the Attorney General's discretion, on states that fail to comply with such reporting requirements. Requires the head of each federal law enforcement agency to report to the Attorney General annually certain information regarding the death of any person who: (1) is detained, under arrest, or or in the process of being arrested by any officer of such agency (or by any state or local law enforcement officer for purposes of a federal law enforcement operation); or (2) is en route to be incarcerated or detained, or is incarcerated or detained, at any federal correctional or pre-trial detention facility located within the United States or any other facility pursuant to a contract with or used by such agency. Requires the Attorney General to study such information and report on means by which it can be used to reduce the number of such deaths.</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="111" type="h" number="3049" updated="2013-07-19T23:39:32-04:00">
+  <state datetime="2009-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2009-06-25"/>
+  </status>
+  <introduced datetime="2009-06-25"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to modify the application of the tonnage tax on vessels operating in the dual United States domestic and foreign trades, and for other purposes.</title>
+  </titles>
+  <sponsor id="400033"/>
+  <cosponsors>
+    <cosponsor id="400001" joined="2009-06-25"/>
+    <cosponsor id="400176" joined="2009-06-25"/>
+    <cosponsor id="400641" joined="2009-06-25"/>
+    <cosponsor id="412200" joined="2009-06-25"/>
+    <cosponsor id="400309" joined="2009-06-25"/>
+    <cosponsor id="412253" joined="2009-06-25"/>
+    <cosponsor id="400355" joined="2009-06-25"/>
+    <cosponsor id="400403" joined="2009-06-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-25">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2009-06-26">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1575"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="58"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax rates"/>
+    <term name="Marine and inland water transportation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/2009--Introduced.
+Amends the Internal Revenue Code to modify the alternative tax on qualifying shipping activities to treat a corporation electing such tax as continuing to use a qualifying vessel in the U.S. foreign trade during any period of use in the U.S. domestic trade, thus eliminating the 30 day limitation on operating in U.S. domestic trade under current law.</summary>
+</bill>

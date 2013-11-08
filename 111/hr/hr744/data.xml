@@ -1,0 +1,52 @@
+<bill session="111" type="h" number="744" updated="2013-07-19T23:18:33-04:00">
+  <state datetime="2009-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="2009-01-28"/>
+  </status>
+  <introduced datetime="2009-01-28"/>
+  <titles>
+    <title as="introduced" type="official">To provide for the treatment of service as a member of the Alaska Territorial Guard during World War II as active service for purposes of retired pay for members of the Armed Forces.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors>
+    <cosponsor id="400001" joined="2009-03-03"/>
+    <cosponsor id="400029" joined="2009-03-09"/>
+    <cosponsor id="400032" joined="2009-07-31"/>
+    <cosponsor id="400040" joined="2009-03-09"/>
+    <cosponsor id="400041" joined="2009-03-03"/>
+    <cosponsor id="400056" joined="2009-03-03"/>
+    <cosponsor id="400128" joined="2009-03-03"/>
+    <cosponsor id="400133" joined="2009-03-26"/>
+    <cosponsor id="412200" joined="2009-03-26"/>
+    <cosponsor id="412306" joined="2009-03-03"/>
+    <cosponsor id="400335" joined="2009-03-16"/>
+    <cosponsor id="409888" joined="2009-03-03"/>
+    <cosponsor id="412214" joined="2009-03-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-01-28">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2009-02-17">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="342"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Alaska"/>
+    <term name="Military history"/>
+    <term name="National Guard and reserves"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/2009--Introduced.
+Treats the service as a member of the Alaska Territorial Guard during World War II of any individual who was honorably discharged therefrom as active service for purposes of eligibility for, and the computation of, retired pay for members of the Armed Forces. Makes such provision applicable for retired pay for months beginning on or after August 9, 2000.</summary>
+</bill>

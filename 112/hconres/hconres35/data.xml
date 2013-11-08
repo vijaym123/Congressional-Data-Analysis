@@ -1,0 +1,75 @@
+<bill session="112" type="hc" number="35" updated="2013-07-20T02:09:18-04:00">
+  <state datetime="2011-04-14">FAIL:SECOND:SENATE</state>
+  <status>
+    <unknown datetime="2011-04-14"/>
+  </status>
+  <introduced datetime="2011-04-11"/>
+  <titles>
+    <title as="introduced" type="official">Directing the Clerk of the House of Representatives to make a correction in the enrollment of H.R. 1473.</title>
+  </titles>
+  <sponsor id="400006"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2011-04-11">
+      <text>Referred to the Committee on Appropriations, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-04-11">
+      <text>Referred to House Appropriations</text>
+    </action>
+    <action datetime="2011-04-11">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2011-04-14T15:07:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 218.</text>
+      <reference ref="CR H2795-2798" label="consideration"/>
+    </action>
+    <action datetime="2011-04-14T15:08:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 218, the House proceeded with 20 minutes of debate on H. Con. Res. 35.</text>
+    </action>
+    <action datetime="2011-04-14T15:32:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H2798" label="consideration"/>
+    </action>
+    <action datetime="2011-04-14T15:33:00-04:00">
+      <text>POSTPONED PROCEEDINGS - The Chair put the question on agreeing to H.Con Res. 35 and by voice vote, announced that the ayes had prevailed. Mr. Alexander demanded the yeas and nays and the Chair postponed further proceedings on agreeing to H.Con.Res. 35 until later in the legislative day.</text>
+    </action>
+    <action datetime="2011-04-14T16:07:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2802-2803" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-04-14T16:29:00-04:00" how="roll" result="pass" roll="270" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 240 - 185 (Roll no. 270).</text>
+      <reference ref="CR H2795" label="text"/>
+    </vote>
+    <action datetime="2011-04-14T16:29:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-04-14">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="FAIL:SECOND:SENATE" datetime="2011-04-14" how="roll" result="fail" roll="59" type="vote2" where="s">
+      <text>Disagreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 59.</text>
+      <reference ref="CR S2492-2493" label="consideration"/>
+    </vote>
+    <action datetime="2011-04-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAP" name="House Appropriations" activity="Referral"/>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="hr" number="218"/>
+    <bill relation="rule" session="112" type="hr" number="218"/>
+    <bill relation="unknown" session="112" type="h" number="1473"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+  </subjects>
+  <amendments/>
+  <summary>4/14/2011--Passed House without amendment.
+Directs the Clerk of the House of Representatives to make a correction in the enrollment of H.R. 1473 (Department of Defense and Full-Year Continuing Appropriations Act, 2011) to prohibit any funds under such Act or any previous Act from being used to carry out the provisions of the Patient Protection and Affordable Care Act or the health care provisions of the Health Care and Education Reconciliation Act of 2010 or any amendments made by those Acts.</summary>
+</bill>

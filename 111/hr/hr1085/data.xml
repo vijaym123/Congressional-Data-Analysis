@@ -1,0 +1,76 @@
+<bill session="111" type="h" number="1085" updated="2013-07-19T23:21:39-04:00">
+  <state datetime="2009-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2009-02-13"/>
+  </status>
+  <introduced datetime="2009-02-13"/>
+  <titles>
+    <title as="introduced" type="short">Health Insurance Coverage Protection Act</title>
+    <title as="introduced" type="official">To impose a limitation on lifetime aggregate limits imposed by health plans.</title>
+  </titles>
+  <sponsor id="400124"/>
+  <cosponsors>
+    <cosponsor id="412231" joined="2009-02-13"/>
+    <cosponsor id="400133" joined="2009-03-03"/>
+    <cosponsor id="400140" joined="2009-02-26"/>
+    <cosponsor id="400165" joined="2009-02-26"/>
+    <cosponsor id="400183" joined="2009-03-03"/>
+    <cosponsor id="400184" joined="2009-06-02"/>
+    <cosponsor id="400195" joined="2009-03-03"/>
+    <cosponsor id="412199" joined="2009-03-03"/>
+    <cosponsor id="400211" joined="2009-03-03"/>
+    <cosponsor id="400215" joined="2009-03-18"/>
+    <cosponsor id="400216" joined="2009-02-13"/>
+    <cosponsor id="400230" joined="2009-02-13"/>
+    <cosponsor id="400240" joined="2009-03-23"/>
+    <cosponsor id="400263" joined="2009-03-03"/>
+    <cosponsor id="400290" joined="2009-03-12"/>
+    <cosponsor id="400310" joined="2009-03-12"/>
+    <cosponsor id="400323" joined="2010-02-25"/>
+    <cosponsor id="400352" joined="2009-03-03"/>
+    <cosponsor id="412228" joined="2009-02-13"/>
+    <cosponsor id="400400" joined="2009-05-20"/>
+    <cosponsor id="400406" joined="2010-03-02"/>
+    <cosponsor id="412255" joined="2009-03-04"/>
+    <cosponsor id="400436" joined="2009-06-04"/>
+    <cosponsor id="400439" joined="2009-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-13">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-02-13">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-02-13">
+      <text>Referred to House Education and Labor</text>
+    </action>
+    <action datetime="2009-02-23">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2009-03-30">
+      <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+      <committee name="House Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Health, Employment, Labor, and Pensions" name="House Education and Labor"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="442"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2009--Introduced.
+Health Insurance Coverage Protection Act - Amends the Employee Retirement Income Security Act (ERISA) and the Public Health Service Act to prohibit a group health plan from imposing an aggregate lifetime benefit limit of less than: (1) $5 million for the first two plan years; (2) $10 million for the third and fourth plan years; and (3) adjusted amounts based on the consumer price index for subsequent plan years. Excludes from such prohibition a group health plan offered to employees of a small employer, except upon request of the employer for a consistent limit.Requires the Secretary of Health and Human Services to contract with the Institute of Medicine for a study to determine the number of individuals who have reached the lifetime limitations set forth in this Act.</summary>
+</bill>

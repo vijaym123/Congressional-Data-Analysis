@@ -1,0 +1,50 @@
+<bill session="113" type="h" number="2736" updated="2013-11-02T06:42:01-04:00">
+  <state datetime="2013-07-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-18"/>
+  </status>
+  <introduced datetime="2013-07-18"/>
+  <titles>
+    <title type="short" as="introduced">Government Surveillance Transparency Act of 2013</title>
+    <title type="official" as="introduced">To allow entities required to comply with orders or directives under the Foreign Intelligence Surveillance Act of 1978 to publicly report every 90 days certain aggregate information related to the compliance with such orders or directives.</title>
+  </titles>
+  <sponsor id="400232"/>
+  <cosponsors>
+    <cosponsor id="412438" joined="2013-07-18"/>
+    <cosponsor id="400295" joined="2013-07-22"/>
+    <cosponsor id="412259" joined="2013-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-18" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-07-18">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-07-18">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Government information and archives"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Specialized courts"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+  <summary>7/18/2013--Introduced.
+Government Surveillance Transparency Act of 2013 - Amends the Foreign Intelligence Surveillance Act of 1978 (FISA) to authorize an entity that is required to comply with an order or directive issued by a FISA court under such Act to make publicly available every 90 days with respect to the preceding 90-day period: (1) the aggregate number of orders or directives with which such entity was required to comply; (2) a general description of the types of assistance, information, or tangible things such entity was required to provide pursuant to such orders or directives; (3) the aggregate number of each type of assistance, information, or tangible things such entity was required to provide pursuant to such orders or directives; and (4) the aggregate number of user accounts with respect to which such entity was required to provide assistance, information, or tangible things pursuant to such orders or directives.</summary>
+</bill>

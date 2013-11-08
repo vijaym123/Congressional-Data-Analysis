@@ -1,0 +1,41 @@
+<bill session="112" type="h" number="3503" updated="2013-07-20T01:40:27-04:00">
+  <state datetime="2011-11-18">REFERRED</state>
+  <status>
+    <introduced datetime="2011-11-18"/>
+  </status>
+  <introduced datetime="2011-11-18"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Sarbanes-Oxley Act of 2002 to make Public Company Accounting Oversight Board disciplinary proceedings open to the public.</title>
+  </titles>
+  <sponsor id="400627"/>
+  <cosponsors>
+    <cosponsor id="400140" joined="2011-12-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-11-18">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2012-01-12">
+      <text>Referred to the Subcommittee on Capital Markets and Government Sponsored Enterprises.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA16" subcommittee="Capital Markets and Government Sponsored Enterprises" name="House Financial Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="1907"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Accounting and auditing"/>
+    <term name="Administrative remedies"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Corporate finance and management"/>
+    <term name="Public participation and lobbying"/>
+  </subjects>
+  <amendments/>
+  <summary>11/18/2011--Introduced.
+Amends the Sarbanes-Oxley Act of 2002 to make Public Company Accounting Oversight Board disciplinary proceedings public unless the Board, on its own motion or after considering the motion of a party, orders otherwise.</summary>
+</bill>

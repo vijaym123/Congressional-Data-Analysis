@@ -1,0 +1,53 @@
+<bill session="112" type="h" number="1952" updated="2013-07-20T01:27:10-04:00">
+  <state datetime="2011-05-23">REFERRED</state>
+  <status>
+    <introduced datetime="2011-05-23"/>
+  </status>
+  <introduced datetime="2011-05-23"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 23, United States Code, to modify the deadline for filing a claim seeking judicial review of a permit, license, or approval issued by a Federal agency for a highway or public transportation capital project, and for other purposes.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors>
+    <cosponsor id="400158" joined="2011-05-23"/>
+    <cosponsor id="412010" joined="2011-05-23"/>
+    <cosponsor id="400627" joined="2011-05-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-05-23">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-05-23">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2011-05-23">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2011-05-24">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2011-08-25">
+      <text>Referred to the Subcommittee on Courts, Commercial and Administrative Law.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts, Commercial and Administrative Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Licensing and registrations"/>
+    <term name="Public transit"/>
+    <term name="Roads and highways"/>
+  </subjects>
+  <amendments/>
+  <summary>5/23/2011--Introduced.
+Reduces from 180 days to 90 days after publication of a final action notice in the Federal Register the deadline for filing a claim seeking judicial review of a permit, license, or approval issued by a federal agency for a highway or public transportation capital project.</summary>
+</bill>

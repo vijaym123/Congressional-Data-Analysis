@@ -1,0 +1,41 @@
+<bill session="111" type="h" number="6429" updated="2013-07-20T00:10:34-04:00">
+  <state datetime="2010-11-18">REFERRED</state>
+  <status>
+    <introduced datetime="2010-11-18"/>
+  </status>
+  <introduced datetime="2010-11-18"/>
+  <titles>
+    <title as="introduced" type="official">To extend expiring provisions of the USA PATRIOT Improvement and Reauthorization Act of 2005 and Intelligence Reform and Terrorism Prevention Act of 2004 until February 29, 2012.</title>
+  </titles>
+  <sponsor id="400182"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-11-18">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2010-11-18">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2010-11-18">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="4048"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Homeland security"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>11/18/2010--Introduced.
+Amends the USA PATRIOT Improvement and Reauthorization Act of 2005 to extend through February 29, 2012, a provision granting roving electronic surveillance authority. Amends the Intelligence Reform and Terrorism Prevention Act of 2004 to extend until February 29, 2012, a provision revising the definition of an "agent of a foreign power" to include any non-U.S. person who engages in international terrorism or preparatory activities ("lone wolf" provision).</summary>
+</bill>

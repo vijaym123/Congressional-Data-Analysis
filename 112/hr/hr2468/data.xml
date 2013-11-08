@@ -1,0 +1,54 @@
+<bill session="112" type="h" number="2468" updated="2013-07-20T01:31:40-04:00">
+  <state datetime="2011-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2011-07-08"/>
+  </status>
+  <introduced datetime="2011-07-08"/>
+  <titles>
+    <title as="introduced" type="short">Medicare Home Health Flexibility Act of 2011</title>
+    <title as="introduced" type="official">To ensure that home health agencies can assign the most appropriate skilled professional to conduct the initial assessment visit and complete the comprehensive assessment for home health services for Medicare beneficiaries requiring rehabilitation therapy under a home health plan of care, based upon physician referral.</title>
+  </titles>
+  <sponsor id="400636"/>
+  <cosponsors>
+    <cosponsor id="400628" joined="2012-07-17"/>
+    <cosponsor id="412434" joined="2012-01-27"/>
+    <cosponsor id="400240" joined="2011-07-08"/>
+    <cosponsor id="400297" joined="2011-10-18"/>
+    <cosponsor id="400326" joined="2012-10-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-07-08">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-07-08">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2011-07-08">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2011-07-12">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Ways and Means"/>
+    </action>
+    <action datetime="2011-07-15">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Allied health services"/>
+    <term name="Home and outpatient care"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>7/8/2011--Introduced.
+Medicare Home Health Flexibility Act of 2011 - Permits a home health agency to determine the most appropriate skilled professional to conduct the initial assessment visit and to complete the comprehensive assessment for an individual who: (1) is eligible for home health services under title XVIII (Medicare) of the Social Security Act; but (2) does not require skilled nursing care as long as that skilled service is initially ordered by the physician and, in the case of a referral order that includes occupational therapy, the order also includes physical therapy or speech language pathology.</summary>
+</bill>

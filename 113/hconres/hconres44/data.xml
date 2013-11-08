@@ -1,0 +1,93 @@
+<bill session="113" type="hc" number="44" updated="2013-11-02T06:49:12-04:00">
+  <state datetime="2013-07-30">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2013-07-30"/>
+  </status>
+  <introduced datetime="2013-07-08"/>
+  <titles>
+    <title type="official" as="introduced">Authorizing the use of the Capitol Grounds for the District of Columbia Special Olympics Law Enforcement Torch Run.</title>
+  </titles>
+  <sponsor id="400295"/>
+  <cosponsors>
+    <cosponsor id="412469" joined="2013-07-08"/>
+    <cosponsor id="412537" joined="2013-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-08" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-07-09">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2013-07-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar datetime="2013-07-10" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2013-07-10">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2013-07-22T12:12:00-04:00">
+      <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-163.</text>
+    </action>
+    <calendar datetime="2013-07-22T12:12:00-04:00" calendar="House" number="45">
+      <text>Placed on the House Calendar, Calendar No. 45.</text>
+    </calendar>
+    <action datetime="2013-07-22T17:05:00-04:00">
+      <text>Mr. Ribble moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2013-07-22T17:05:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4836-4837" label="consideration"/>
+    </action>
+    <action datetime="2013-07-22T17:05:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 44.</text>
+    </action>
+    <action datetime="2013-07-22T17:10:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-07-22T18:58:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4840-4841" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="376" datetime="2013-07-22T19:05:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 388 - 0 (Roll no. 376).</text>
+      <reference ref="CR H4837" label="text"/>
+    </vote>
+    <action datetime="2013-07-22T19:05:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-07-23">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2013-07-30" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6082" label="consideration"/>
+    </vote>
+    <action datetime="2013-07-31">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Athletes"/>
+    <term name="Congressional tributes"/>
+    <term name="Disability and paralysis"/>
+    <term name="Olympic games"/>
+    <term name="Outdoor recreation"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+  <summary>7/30/2013--Passed Senate without amendment.
+Authorizes the use of the Capitol grounds for the 28th Annual District of Columbia Special Olympics Law Enforcement Torch Run on September 27, 2013.</summary>
+</bill>

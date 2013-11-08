@@ -1,0 +1,81 @@
+<bill session="111" type="h" number="4614" updated="2013-07-19T23:54:05-04:00">
+  <state datetime="2010-05-18T19:10:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-05-18T19:10:00-04:00"/>
+  </status>
+  <introduced datetime="2010-02-04"/>
+  <titles>
+    <title as="introduced" type="short">Katie Sepich Enhanced DNA Collection Act of 2010</title>
+    <title as="passed house" type="short">Katie Sepich Enhanced DNA Collection Act of 2010</title>
+    <title as="introduced" type="official">To amend part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 to provide for incentive payments under the Edward Byrne Memorial Justice Assistance Grant program for States to implement minimum and enhanced DNA collection processes.</title>
+  </titles>
+  <sponsor id="412316"/>
+  <cosponsors>
+    <cosponsor id="412272" joined="2010-05-18"/>
+    <cosponsor id="412281" joined="2010-03-09"/>
+    <cosponsor id="400183" joined="2010-05-18"/>
+    <cosponsor id="412240" joined="2010-02-23"/>
+    <cosponsor id="412288" joined="2010-03-11"/>
+    <cosponsor id="412293" joined="2010-02-24"/>
+    <cosponsor id="412298" joined="2010-03-09"/>
+    <cosponsor id="400660" joined="2010-02-24"/>
+    <cosponsor id="412311" joined="2010-03-20"/>
+    <cosponsor id="400361" joined="2010-02-04"/>
+    <cosponsor id="400426" joined="2010-05-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-02-04">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2010-04-26">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2010-05-18T15:46:00-04:00">
+      <text>Mr. Johnson (GA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-05-18T15:46:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3502-3505" label="consideration"/>
+    </action>
+    <action datetime="2010-05-18T15:46:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4614.</text>
+    </action>
+    <action datetime="2010-05-18T16:11:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2010-05-18T19:02:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3512-3513" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-05-18T19:10:00-04:00" how="roll" result="pass" roll="274" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 357 - 32 (Roll no. 274).</text>
+      <reference ref="CR H3502-3503" label="text"/>
+    </vote>
+    <action datetime="2010-05-18T19:10:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-05-19">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="3805"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Congressional oversight"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Law enforcement administration and funding"/>
+  </subjects>
+  <amendments/>
+  <summary>5/18/2010--Passed House amended.
+Katie Sepich Enhanced DNA Collection Act of 2010 - Amends the Omnibus Crime Control and Safe Streets Act of 1968 to increase payments to states under the Edward Byrne Memorial Justice Assistance Grant program for implementing a minimum or an enhanced DNA collection process. Increases such payments by 5% for states that implement a minimum DNA collection process and by 10% for states that implement an enhanced DNA process. Defines "minimum DNA collection process" as a process under which the Combined DNA Index System (CODIS) of the Federal Bureau of Investigation (FBI) is searched at least one time against samples of individuals who are at least 18 years of age and who are arrested for, charged with, or indicted for crimes involving murder, manslaughter, sexual assaults, and kidnapping or abduction. Defines "enhanced DNA collection process" as a process under which states provide for the collection, for purposes of inclusion in CODIS, of DNA samples from individuals who are at least 18 years of age and who are arrested or charged with crimes involving murder, manslaughter, sexual assault, certain sexual offenses involving a minor, burglary, and aggravated assault. Directs the Attorney General to submit to the Judiciary Committees of Congress an annual report: (1) listing states which have (and which have not) implemented a minimum or enhanced DNA collection process and which use such processes; (2) describing the increases in grant payments to states; and (3) including statistics on benefits to law enforcement resulting from the implementation of minimum and enhanced DNA collection processes. Authorizes appropriations for FY2011-FY2015.</summary>
+</bill>

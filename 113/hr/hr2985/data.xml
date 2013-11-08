@@ -1,0 +1,37 @@
+<bill session="113" type="h" number="2985" updated="2013-11-02T06:44:09-04:00">
+  <state datetime="2013-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-02"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="short" as="introduced">Combination Drug Development Incentive Act of 2013</title>
+    <title type="official" as="introduced">To amend section 505 of the Federal Food, Drug, and Cosmetic Act to provide incentives for the development of new combination drugs.</title>
+  </titles>
+  <sponsor id="412270"/>
+  <cosponsors>
+    <cosponsor id="400076" joined="2013-08-02"/>
+    <cosponsor id="400606" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Prescription drugs"/>
+    <term name="Product development and innovation"/>
+  </subjects>
+  <amendments/>
+</bill>

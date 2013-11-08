@@ -1,0 +1,110 @@
+<bill session="111" type="h" number="3254" updated="2013-07-19T23:41:25-04:00">
+  <state datetime="2010-01-21T12:27:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-01-21T12:27:00-05:00"/>
+  </status>
+  <introduced datetime="2009-07-17"/>
+  <titles>
+    <title as="introduced" type="short">Taos Pueblo Indian Water Rights Settlement Act</title>
+    <title as="passed house" type="short">Taos Pueblo Indian Water Rights Settlement Act</title>
+    <title as="introduced" type="official">To approve the Taos Pueblo Indian Water Rights Settlement Agreement, and for other purposes.</title>
+  </titles>
+  <sponsor id="412293"/>
+  <cosponsors>
+    <cosponsor id="412281" joined="2009-07-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-07-17">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-07-22">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-09-09">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-09-30">
+      <text>Subcommittee on Water and Power Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-09-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-09-30">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2010-01-12T16:56:00-05:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 111-395.</text>
+    </action>
+    <calendar datetime="2010-01-12T16:56:00-05:00" calendar="Union" number="232">
+      <text>Placed on the Union Calendar, Calendar No. 232.</text>
+    </calendar>
+    <action datetime="2010-01-19T18:41:00-05:00">
+      <text>Rules Committee Resolution H. Res. 1017 Reported to House. Rule provides for consideration of H.R. 3254, H.R. 3342 and H.R. 1065. Each bill is allowed 1 hour of general debate. Previous question shall be considered as ordered, in each instance, without intervening motions except motion to recommit with or without instructions. Measures will be considered read. Specified amendments are in order, in each instance. The amendment in the nature of a substitute recommended by the Committee on Natural Resources, in each instance,</text>
+    </action>
+    <action datetime="2010-01-21T10:34:00-05:00">
+      <text>Considered under the provisions of rule H. Res. 1017.</text>
+      <reference ref="CR H272-279" label="consideration"/>
+    </action>
+    <action datetime="2010-01-21T10:35:00-05:00">
+      <text>Rule provides for consideration of H.R. 3254, H.R. 3342 and H.R. 1065. Each bill is allowed 1 hour of general debate. Previous question shall be considered as ordered, in each instance, without intervening motions except motion to recommit with or without instructions. Measures will be considered read. Specified amendments are in order, in each instance. The amendment in the nature of a substitute recommended by the Committee on Natural Resources, in each instance,</text>
+    </action>
+    <action datetime="2010-01-21T10:35:00-05:00">
+      <text>DEBATE - Pursuant to the provisions of H.Res. 1017, the House proceeded with one hour of debate on H.R. 3254.</text>
+    </action>
+    <action datetime="2010-01-21T11:06:00-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H298" label="consideration"/>
+    </action>
+    <action datetime="2010-01-21T11:06:00-05:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 3254, the Chair put the question on passage and by voice vote, announced the ayes had prevailed. Mr. Rahall demanded the yeas and nays and the Chair postponed further proceedings on the question of passage until a time to be announced.</text>
+    </action>
+    <action datetime="2010-01-21T11:57:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H298-299" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-01-21T12:27:00-05:00" how="roll" result="pass" roll="12" type="vote" where="h">
+      <text>On passage Passed by the Yeas and Nays: 254 - 158 (Roll no. 12).</text>
+      <reference ref="CR H272-275" label="text"/>
+    </vote>
+    <action datetime="2010-01-21T12:27:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-01-22">
+      <text>Received in the Senate.</text>
+    </action>
+    <calendar datetime="2010-02-01" calendar="Senate Legislative" under="General Orders" number="266">
+      <text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 266.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hr" number="1017"/>
+    <bill relation="rule" session="111" type="hr" number="1017"/>
+    <bill relation="ruled-by" session="111" type="hr" number="1017"/>
+    <bill relation="unknown" session="111" type="h" number="4783"/>
+    <bill relation="identical" session="111" type="s" number="965"/>
+    <bill relation="unknown" session="111" type="s" number="965"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Government trust funds"/>
+    <term name="Indian claims"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="New Mexico"/>
+    <term name="Water use and supply"/>
+    <term name="Watersheds"/>
+  </subjects>
+  <amendments>
+    <amendment number="h541"/>
+  </amendments>
+  <summary>1/21/2010--Passed House amended.
+Taos Pueblo Indian Water Rights Settlement Act - Authorizes, ratifies, and confirms the Settlement Agreement of March 31, 2006, between the United States, the Taos Pueblo, New Mexico, the Taos Valley Acequia Association and its 55 member ditches, Taos, the El Prado Water and Sanitation District (EPWSD), and the 12 Taos area Mutual Domestic Water Consumers Associations, and any amendments executed to make the Agreement consistent with this Act. Requires water rights to which the Taos Pueblo is entitled under the Partial Final Decree entered in New Mexico v. Abeyta and New Mexico v. Arellano to be held in trust by the United States. Directs the Secretary of the Interior, acting through the Commissioner of Reclamation, to provide: (1) grants and technical assistance to the Pueblo to construct, replace, or rehabilitate water infrastructure, to protect the environment associated with the Buffalo Pasture area, and to enhance watershed conditions; and (2) financial assistance to eligible non-Pueblo entities for mutual-benefit projects in accordance with the Agreement. Establishes in the Treasury the Taos Pueblo Water Development Fund. Authorizes the Pueblo to market its water rights under the Agreement. Directs the Secretary to enter into three repayment contracts for the delivery of specified amounts of San Juan-Chama Project water to the Pueblo, the town of Taos, and EPWSD. Provides for the waiver and release of claims against the parties to New Mexico v. Abeyta and New Mexico v. Arellano in return for recognition of the Pueblo's water rights. Authorizes appropriations for FY2010-FY2016 for the Taos Pueblo Infrastructure and Watershed Fund, for the Taos Pueblo Water Development Fund, and for Mutual-Benefit Projects funding (to minimize adverse impacts on the Pueblo's water resources by moving future non-Indian ground water pumping away from the Pueblo's Buffalo Pasture and to implement the resolution of a dispute over the allocation of certain surface water flows between the Pueblo and non-Indian irrigation water right owners in the community of Arroyo Seco Arriba).</summary>
+</bill>

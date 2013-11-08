@@ -1,0 +1,134 @@
+<bill session="111" type="h" number="2990" updated="2013-07-19T23:38:49-04:00">
+  <state datetime="2009-06-24T15:18:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-06-24T15:18:00-04:00"/>
+  </status>
+  <introduced datetime="2009-06-23"/>
+  <titles>
+    <title as="introduced" type="short">Disabled Military Retiree Relief Act of 2009</title>
+    <title as="introduced" partial="1" type="short">Non-Foreign AREA Act of 2009</title>
+    <title as="introduced" partial="1" type="short">Non-Foreign Area Retirement Equity Assurance Act of 2009</title>
+    <title as="passed house" type="short">Disabled Military Retiree Relief Act of 2009</title>
+    <title as="passed house" partial="1" type="short">Non-Foreign AREA Act of 2009</title>
+    <title as="passed house" partial="1" type="short">Non-Foreign Area Retirement Equity Assurance Act of 2009</title>
+    <title as="introduced" type="official">To provide special pays and allowances to certain members of the Armed Forces, expand concurrent receipt of military retirement and VA disability benefits to disabled military retirees, and for other purposes.</title>
+  </titles>
+  <sponsor id="400377"/>
+  <cosponsors>
+    <cosponsor id="400001" joined="2009-06-24"/>
+    <cosponsor id="400041" joined="2009-06-24"/>
+    <cosponsor id="400047" joined="2009-06-24"/>
+    <cosponsor id="412271" joined="2009-06-24"/>
+    <cosponsor id="412193" joined="2009-06-24"/>
+    <cosponsor id="400097" joined="2009-06-23"/>
+    <cosponsor id="412206" joined="2009-06-24"/>
+    <cosponsor id="412188" joined="2009-06-24"/>
+    <cosponsor id="412281" joined="2009-06-24"/>
+    <cosponsor id="412199" joined="2009-06-24"/>
+    <cosponsor id="400244" joined="2009-06-24"/>
+    <cosponsor id="400249" joined="2009-06-23"/>
+    <cosponsor id="400253" joined="2009-06-23"/>
+    <cosponsor id="400254" joined="2009-06-24"/>
+    <cosponsor id="400279" joined="2009-06-24"/>
+    <cosponsor id="412307" joined="2009-06-24"/>
+    <cosponsor id="400331" joined="2009-06-23"/>
+    <cosponsor id="400356" joined="2009-06-24"/>
+    <cosponsor id="412232" joined="2009-06-24"/>
+    <cosponsor id="412219" joined="2009-06-24"/>
+    <cosponsor id="400383" joined="2009-06-24"/>
+    <cosponsor id="400386" joined="2009-06-23"/>
+    <cosponsor id="400409" joined="2009-06-23"/>
+    <cosponsor id="412254" joined="2009-06-24"/>
+    <cosponsor id="400425" joined="2009-06-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-23">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committees on Oversight and Government Reform, Natural Resources, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-06-23">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2009-06-23">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2009-06-23">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2009-06-23">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2009-06-24T11:07:00-04:00">
+      <text>Mr. Skelton moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-06-24T11:07:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7154-7161" label="consideration"/>
+    </action>
+    <action datetime="2009-06-24T11:07:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2990.</text>
+    </action>
+    <action datetime="2009-06-24T12:10:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2009-06-24T15:11:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7162-7166, H7177-7178" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-06-24T15:18:00-04:00" how="roll" result="pass" roll="433" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 433).</text>
+      <reference ref="CR H7154-7160" label="text"/>
+    </vote>
+    <action datetime="2009-06-24T15:18:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-06-25T15:50:00-04:00">
+      <text>Pursuant to the provisions of H. Res. 572, H.R. 2990 is laid on the table.</text>
+    </action>
+    <action datetime="2009-08-03">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hr" number="572"/>
+    <bill relation="unknown" session="111" type="hr" number="572"/>
+    <bill relation="unknown" session="111" type="h" number="2647"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Alaska"/>
+    <term name="American Samoa"/>
+    <term name="Caribbean area"/>
+    <term name="Disability assistance"/>
+    <term name="Energy research"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government trust funds"/>
+    <term name="Guam"/>
+    <term name="Hawaii"/>
+    <term name="Health personnel"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Military medicine"/>
+    <term name="Military personnel and dependents"/>
+    <term name="National Guard and reserves"/>
+    <term name="Northern Mariana Islands"/>
+    <term name="Office of Personnel Management (OPM)"/>
+    <term name="Oil and gas"/>
+    <term name="Puerto Rico"/>
+    <term name="Research administration and funding"/>
+    <term name="Temporary and part-time employment"/>
+    <term name="U.S. territories and protectorates"/>
+    <term name="Veterans' pensions and compensation"/>
+    <term name="Virgin Islands"/>
+  </subjects>
+  <amendments/>
+  <summary>6/24/2009--Passed House without amendment.
+Disabled Military Retiree Relief Act of 2009 - Title I: Compensation and Benefits for Members of the Armed Forces and Military Retirees - Subtitle A: Bonuses and Special and Incentive Pays - (Sec. 101) Extends through 2010 specified authorities currently scheduled to expire at the end of 2009 with respect to certain special pay and bonus programs within the regular and reserve Armed Forces. Subtitle B: Retired Pay Benefits - (Sec. 111) Provides for the recomputation of retired pay and adjustment of the retired grade of reserve retirees recalled to an active status in the Selected Reserve for at least two years. Authorizes the Secretary of the military department concerned to reduce the two-year service requirement for a member so recalled to serve as an adjutant or assistant adjutant general in the National Guard when the member serves for at least six months but fails to serve for two years as required by the laws of the state, district, or territory in which the member is serving. (Sec. 112) Allows members who serve in an active reserve status in the Selected Reserve for at least two years after becoming eligible for active-duty (regular) retirement to elect a non-regular retirement for which they are qualified in lieu of the active-duty retirement. Authorizes the Secretary concerned to reduce the two-year service requirement for a member so recalled to serve as an adjutant or assistant adjutant general in the National Guard when the member serves for at least six months but fails to serve for two years as required by the laws of the state, district, or territory in which the member is serving. Subtitle C: Concurrent Receipt of Military Retired Pay and Veterans' Disability Compensation - (Sec. 121) Extends through 2013 eligibility for the concurrent receipt of military retired pay and veterans' disability compensation for veterans who were retired or separated due to physical disability, regardless of their disability rating or years of service. Title II: Federal Employee Benefits - Subtitle A: General Provisions - (Sec. 201) Provides, with respect to federal employees, credit for unused sick leave for annuity computation purposes. (Sec. 202) Extends to federal employees who separated before March 1, 1991, (under current law, October 1, 1990) eligibility to receive an actuarially-reduced annuity under the Civil Service Retirement System (CSRS). (Sec. 203) Revises the computation of certain annuities based on part-time service performed before April 7, 1986. (Sec. 204) Allows federal employees under the Federal Employee Retirement System (FERS) to deposit retirement refunds received, with interest. (Sec. 205) Provides limited federal retirement credit for service in the District of Columbia (D.C.) of certain employees who transferred to federal government service after the D.C. service, but prohibits any D.C. service from being included in the federal annuity computation. Outlines the types of D.C. service that will qualify for the federal retirement credit. Requires certification of performance of the qualifying service. Subtitle B: Non-Foreign Area Retirement Equity Assurance - Non-Foreign Area Retirement Equity Assurance Act of 2009 or Non-Foreign AREA Act of 2009 - (Sec. 212) Revises federal employee locality-based comparability payments provisions to include U.S. territories and possessions, including the Commonwealth of Puerto Rico and the Commonwealth of the Northern Mariana Islands, within a pay locality. Sets forth maximum rates of pay for Senior Executive Service (SES) personnel in such areas. Revises the calculation of allowances based on living costs and conditions of environment for pay of employees stationed outside the continental United States or in Alaska to apply it only to areas designated as of December 31, 2009. Provides a formula for adjustment of such rate using a transition schedule for calendar years 2010 and thereafter. (Sec. 213) Requires adjustment of special rates of pay determined to be necessary to obtain or retain the services of persons specified by statute in such a cost-of-living area in accordance with regulations to be prescribed by the Director of the Office of Personnel Management (OPM) under this Act. (Sec. 214) Provides a phased transition schedule for the amount of special rates during the transition period of January 1, 2010, to January 1, 2012, allowing the full amount thereafter. (Sec. 215) Expresses the sense of the Congress with respect to the correction of pay disparities for federal positions located in Alaska, Hawaii, or a U.S. territory and sets forth savings provisions. (Sec. 216) Applies the non-foreign area pay adjustment provisions of this Subtitle to certain other federal employees, including employees of the Transportation Security Administration (TSA) of the Department of Homeland Security (DHS) and postal employees. (Sec. 217) Allows an employee subject to this Act's transition schedule who retires from service during the period from January 1, 2010, through December 31, 2012, to elect to have any COLA paid during that period considered as basic pay for purposes of annuity computation. Provides for appropriate contributions into the Civil Service Retirement and Disability Retirement Fund. Title III: Deepwater Oil and Gas Research and Development Funding Source Repeal - (Sec. 301) Amends the Energy Policy Act of 2005 to repeal provisions: (1) requiring the deposit of certain funds received from oil and gas leases into the Ultra-Deepwater and Unconventional Natural Gas and Other Petroleum Research Fund; and (2) establishing the Fund.</summary>
+</bill>

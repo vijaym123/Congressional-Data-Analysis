@@ -1,0 +1,44 @@
+<bill session="111" type="h" number="2514" updated="2013-07-19T23:34:31-04:00">
+  <state datetime="2009-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="2009-05-20"/>
+  </status>
+  <introduced datetime="2009-05-20"/>
+  <titles>
+    <title as="introduced" type="short">National Amusement Park Ride Safety Act of 2009</title>
+    <title as="introduced" type="official">To restore the jurisdiction of the Consumer Product Safety Commission over amusement park rides which are at a fixed site, and for other purposes.</title>
+  </titles>
+  <sponsor id="400253"/>
+  <cosponsors>
+    <cosponsor id="400263" joined="2009-07-14"/>
+    <cosponsor id="400333" joined="2009-07-14"/>
+    <cosponsor id="400360" joined="2009-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-05-20">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1219"/>
+    </action>
+    <action state="REFERRED" datetime="2009-05-20">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2009-05-21">
+      <text>Referred to the Subcommittee on Commerce, Trade and Consumer Protection.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF17" subcommittee="Commerce, Trade and Consumer Protection" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Outdoor recreation"/>
+    <term name="Product safety and quality"/>
+    <term name="Sports and recreation facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2009--Introduced.
+National Amusement Park Ride Safety Act of 2009 - Amends the Consumer Product Safety Act to expand the definition of consumer product to include amusement rides permanently fixed to a site (thereby granting the Consumer Product Safety Commission jurisdiction over such rides).</summary>
+</bill>

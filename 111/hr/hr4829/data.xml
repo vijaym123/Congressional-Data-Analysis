@@ -1,0 +1,62 @@
+<bill session="111" type="h" number="4829" updated="2013-07-19T23:56:01-04:00">
+  <state datetime="2010-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="2010-03-11"/>
+  </status>
+  <introduced datetime="2010-03-11"/>
+  <titles>
+    <title as="introduced" type="short">Next Generation 9-1-1 Preservation Act of 2010</title>
+    <title as="introduced" type="official">To amend the National Telecommunications and Information Administration Organization Act to enhance and promote the Nation's public safety and citizen activated emergency response capabilities through the use of 9-1-1 services, to further upgrade public safety answering point capabilities and related functions in receiving 9-1-1 calls, and to support in the construction and operation of a ubiquitous and reliable citizen activated system.</title>
+  </titles>
+  <sponsor id="400124"/>
+  <cosponsors>
+    <cosponsor id="412193" joined="2010-04-15"/>
+    <cosponsor id="400125" joined="2010-04-15"/>
+    <cosponsor id="400185" joined="2010-09-29"/>
+    <cosponsor id="412240" joined="2010-03-11"/>
+    <cosponsor id="400232" joined="2010-04-15"/>
+    <cosponsor id="412298" joined="2010-04-15"/>
+    <cosponsor id="400663" joined="2010-04-15"/>
+    <cosponsor id="412194" joined="2010-04-15"/>
+    <cosponsor id="400373" joined="2010-03-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2010-03-11">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E362"/>
+    </action>
+    <action state="REFERRED" datetime="2010-03-11">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2010-03-12">
+      <text>Referred to the Subcommittee on Communications, Technology, and the Internet.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2010-06-17">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSIF16" subcommittee="Communications, Technology, and the Internet" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3115"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Commerce"/>
+    <term name="Emergency communications systems"/>
+    <term name="Federal Communications Commission (FCC)"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Internet and video services"/>
+    <term name="Telecommunication rates and fees"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/2010--Introduced.
+Next Generation 9-1-1 Preservation Act of 2010 - Revises provisions of the National Telecommunications and Information Administration Organization Act to provide for matching grants (with a federal share of up to 80%) to eligible entities for: (1) the implementation and operation of E-911 services, migration to an IP-enabled emergency network, and adoption and operation of Next Generation 9-1-1 services and applications; (2) the implementation of IP-enabled emergency services and applications enabled by Next Generation 9-1-1 services, including the establishment of IP backbone networks and the application layer software infrastructure needed to interconnect the multitude of emergency response organizations; and (3) training in 9-1-1 services of public safety personnel, including call-takers, first responders, and other individuals and organizations who are part of the emergency response chain. Defines "9-1-1 services" as service including both E-911 services and Next Generation 9-1-1 services. Defines "Next Generation 9-1-1 services" to mean an IP-based system comprised of hardware, software, data, and operational policies and procedures that: (1) provides standardized interfaces from emergency call and message services to support emergency communications; (2) processes all types of emergency calls, including voice, data, and multimedia information; (3) acquires and integrates additional emergency call data useful to call routing and handling; (4) delivers the emergency calls, messages, and data to the appropriate public safety answering point and other appropriate emergency entities; (5) supports data or video communications needs for coordinated incident response and management; or (6) provides broadband service to public safety answering points or other first responder entities. Requires a report to Congress from: (1) the Administrator of General Services (GSA) identifying the 9-1-1 capabilities of the multi-line telephone system in use by all federal agencies in all federal buildings and properties; and (2) the Comptroller General (GAO) concerning state and local use of 9-1-1 service charges.</summary>
+</bill>

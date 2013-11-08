@@ -1,0 +1,42 @@
+<bill session="111" type="h" number="4019" updated="2013-07-19T23:48:24-04:00">
+  <state datetime="2009-11-04">REFERRED</state>
+  <status>
+    <introduced datetime="2009-11-04"/>
+  </status>
+  <introduced datetime="2009-11-04"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Public Health Service Act to limit preexisting condition exclusions in the individual health insurance market to those permitted in the group health insurance market.</title>
+  </titles>
+  <sponsor id="400099"/>
+  <cosponsors>
+    <cosponsor id="400034" joined="2009-11-04"/>
+    <cosponsor id="400052" joined="2009-11-04"/>
+    <cosponsor id="400056" joined="2009-11-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-11-04">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2009-11-05">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="1558"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Disability and health-based discrimination"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+  </subjects>
+  <amendments/>
+  <summary>11/4/2009--Introduced.
+Amends the Public Health Service Act to allow a health insurance issuer to impose a preexisting condition exclusion with respect to individual health insurance coverage only to the extent the issuer may impose such exclusion with respect to group health insurance coverage.</summary>
+</bill>

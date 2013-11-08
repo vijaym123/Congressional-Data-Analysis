@@ -1,0 +1,69 @@
+<bill session="112" type="s" number="2224" updated="2013-07-20T02:35:46-04:00">
+  <state datetime="2012-05-09">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2012-05-09"/>
+  </status>
+  <introduced datetime="2012-03-22"/>
+  <titles>
+    <title as="introduced" type="official">A bill to require the President to report to Congress on issues related to Syria.</title>
+  </titles>
+  <sponsor id="412248"/>
+  <cosponsors>
+    <cosponsor id="300027" joined="2012-05-08"/>
+    <cosponsor id="412249" joined="2012-03-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-03-22">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2012-04-26">
+      <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Foreign Relations"/>
+    </calendar>
+    <action datetime="2012-04-26">
+      <text>Committee on Foreign Relations. Reported by Senator Kerry without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2012-04-26" calendar="Senate Legislative" under="General Orders" number="385">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 385.</text>
+    </calendar>
+    <action datetime="2012-05-09">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S3048-3049" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2012-05-09" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2012-05-10T10:55:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2012-05-10">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2012-05-10">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="4310"/>
+    <bill relation="unknown" session="112" type="s" number="3254"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Congressional oversight"/>
+    <term name="Middle East"/>
+    <term name="Political movements and philosophies"/>
+    <term name="Protest and dissent"/>
+    <term name="Syria"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2098"/>
+  </amendments>
+  <summary>5/9/2012--Passed Senate amended.
+Directs the President to submit a report to Congress, within 15 days after enactment of this Act, describing all known Syrian opposition groups, both independent and state-sponsored and inside and outside of Syria, operating to oppose the government of Syria. Requires such report to include: (1) assessments of their composition and military, financial, and political capacities; and (2) an assessment of the relationship between each opposition group and the Muslim Brotherhood, al Qaeda, Hezbollah, Hamas, and other groups that have promoted an agenda that would negatively impact U.S. national interests. Directs the President to submit to Congress, within 30 days after enactment of this Act, an assessment of the size and security of conventional and non-conventional weapons stockpiles in Syria which shall describe: (1) who has or may have access to such stockpiles; (2) the sources and types of weapons flowing from outside Syria to both government and opposition forces; and (3) a plan to prevent the proliferation of conventional, biological, chemical, and other types of weapons in Syria. Directs the President to submit a report to Congress, within 30 days after enactment of this Act, describing all support provided to opposition political forces in Syria. Requires such report to include: (1) a description of the current technical assistance democracy programs conducted by the Department of State and United States Agency for International Development (USAID) to support the political opposition in Syria (opposition); (2) a summary of the communications equipment that is currently being provided to the opposition, including a description of the entities that have received and that will continue to receive such equipment; (3) a description of any additional activities the United States plans to support the opposition; and (4) a description of the funding levels currently dedicated to support the opposition.</summary>
+</bill>

@@ -1,0 +1,91 @@
+<bill session="112" type="h" number="313" updated="2013-07-20T01:13:02-04:00">
+  <state datetime="2011-12-13T20:06:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2011-12-13T20:06:00-05:00"/>
+  </status>
+  <introduced datetime="2011-01-18"/>
+  <titles>
+    <title as="introduced" type="short">Drug Trafficking Safe Harbor Elimination Act of 2011</title>
+    <title as="passed house" type="short">Drug Trafficking Safe Harbor Elimination Act of 2011</title>
+    <title as="introduced" type="official">To amend the Controlled Substances Act to clarify that persons who enter into a conspiracy within the United States to possess or traffic illegal controlled substances outside the United States, or engage in conduct within the United States to aid or abet drug trafficking outside the United States, may be criminally prosecuted in the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="400381"/>
+  <cosponsors>
+    <cosponsor id="400361" joined="2011-01-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-01-18">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-01-18">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2011-01-18">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2011-02-01">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2011-02-07">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <action datetime="2011-10-06">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-10-06">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 7.</text>
+      <committee name="House Judiciary"/>
+    </calendar>
+    <action datetime="2011-12-12T14:25:00-05:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 112-324, Part I.</text>
+    </action>
+    <action datetime="2011-12-12T14:25:00-05:00">
+      <text>Committee on Energy and Commerce discharged.</text>
+    </action>
+    <calendar datetime="2011-12-12T14:27:00-05:00" calendar="Union" number="222">
+      <text>Placed on the Union Calendar, Calendar No. 222.</text>
+    </calendar>
+    <action datetime="2011-12-13T19:39:00-05:00">
+      <text>Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2011-12-13T19:40:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8831-8834" label="consideration"/>
+    </action>
+    <action datetime="2011-12-13T19:40:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 313.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-12-13T20:06:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H8831" label="text"/>
+    </vote>
+    <action datetime="2011-12-13T20:06:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-12-14">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="1672"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Jurisdiction and venue"/>
+  </subjects>
+  <amendments/>
+  <summary>12/13/2011--Passed House amended.
+Drug Trafficking Safe Harbor Elimination Act of 2011 - Amends the Controlled Substances Act to provide that anyone within the United States who enters into a conspiracy to possess or traffic in controlled substances outside the United States, or who aids or abets others in such conduct, shall be subject to the same penalties that would apply to such conduct if it were to occur within the United States. Excludes simple possession of a controlled substance from the application of this Act.</summary>
+</bill>

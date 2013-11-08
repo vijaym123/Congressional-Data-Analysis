@@ -1,0 +1,69 @@
+<bill session="111" type="h" number="4194" updated="2013-07-19T23:50:07-04:00">
+  <state datetime="2009-12-16T19:04:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-12-16T19:04:00-05:00"/>
+  </status>
+  <introduced datetime="2009-12-03"/>
+  <titles>
+    <title as="introduced" type="short">Law Student Clinic Participation Act of 2009</title>
+    <title as="passed house" type="short">Law Student Clinic Participation Act of 2009</title>
+    <title as="introduced" type="official">To amend title 18, United States Code, to exempt qualifying law school students participating in legal clinics or externships from the application of the conflict of interest rules under section 205 of such title.</title>
+  </titles>
+  <sponsor id="400617"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-12-03">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2009-12-15T11:59:00-05:00">
+      <text>Mr. Cohen moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-12-15T11:59:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H14899-14900" label="consideration"/>
+    </action>
+    <action datetime="2009-12-15T11:59:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4194.</text>
+    </action>
+    <action datetime="2009-12-15T12:08:00-05:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Cohen objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2009-12-16T19:04:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H15473" label="consideraation"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-12-16T19:04:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR 12/15/2009 H14899" label="text"/>
+    </vote>
+    <action datetime="2009-12-16T19:04:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-12-17">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2010-01-04">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="2888"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="District of Columbia"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Higher education"/>
+    <term name="Lawyers and legal services"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>12/16/2009--Passed House without amendment.
+Law Student Clinic Participation Act of 2009 - Amends the federal criminal code to exempt a law student or staff member participating in a legal clinic or externship of an accredited law school with respect to a matter within the scope of the clinic or externship from the criminal conflict of interest rules applicable to federal and District of Columbia employees, unless: (1) the student or staff has participated personally and substantially in the matter as a government employee; or (2) the matter is pending in the department or agency in which the student is serving.</summary>
+</bill>

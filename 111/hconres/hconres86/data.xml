@@ -1,0 +1,59 @@
+<bill session="111" type="hc" number="86" updated="2013-07-20T00:13:44-04:00">
+  <state datetime="2009-04-23">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2009-04-23"/>
+  </status>
+  <introduced datetime="2009-03-30"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of Emancipation Hall in the Capitol Visitor Center for the unveiling of a bust of Sojourner Truth.</title>
+  </titles>
+  <sponsor id="400199"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-30">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2009-04-22T11:12:00-04:00">
+      <text>Mr. Brady (PA) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2009-04-22T11:12:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4601-4602" label="consideration"/>
+    </action>
+    <action datetime="2009-04-22T11:12:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 86.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-04-22T11:22:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H4601" label="text"/>
+    </vote>
+    <action datetime="2009-04-22T11:22:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2009-04-23" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4705" label="consideration"/>
+    </vote>
+    <action datetime="2009-04-24">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="sc" number="17"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Monuments and memorials"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="U.S. Capitol"/>
+    <term name="U.S. history"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2009--Passed Senate without amendment.
+Authorizes the use of Emancipation Hall in the Capitol Visitor Center for an event on April 28, 2009, to unveil a bust of Sojourner Truth.</summary>
+</bill>

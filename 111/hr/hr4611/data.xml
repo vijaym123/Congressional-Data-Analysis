@@ -1,0 +1,37 @@
+<bill session="111" type="h" number="4611" updated="2013-07-19T23:54:03-04:00">
+  <state datetime="2010-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2010-02-04"/>
+  </status>
+  <introduced datetime="2010-02-04"/>
+  <titles>
+    <title as="introduced" type="short">Dollars to the Classroom Act</title>
+    <title as="introduced" type="official">To provide dollars to the classroom.</title>
+  </titles>
+  <sponsor id="400320"/>
+  <cosponsors>
+    <cosponsor id="400158" joined="2010-07-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-02-04">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2010-02-23">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED14" subcommittee="Early Childhood, Elementary, and Secondary Education" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2010--Introduced.
+Dollars to the Classroom Act - Requires at least 95% of any federal funds made available to a state by the Secretary of Education for elementary or secondary education to be used for: (1) academic purposes; and (2) classroom-related purposes or at the school level.</summary>
+</bill>

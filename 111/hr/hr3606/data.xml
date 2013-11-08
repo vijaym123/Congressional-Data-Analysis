@@ -1,0 +1,77 @@
+<bill session="111" type="h" number="3606" updated="2013-07-19T23:44:40-04:00">
+  <state datetime="2009-11-06">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2009-11-06"/>
+  </status>
+  <introduced datetime="2009-09-17"/>
+  <titles>
+    <title as="introduced" type="short">Credit CARD Technical Corrections Act of 2009</title>
+    <title as="passed house" type="short">Credit CARD Technical Corrections Act of 2009</title>
+    <title as="passed senate" type="short">Credit CARD Technical Corrections Act of 2009</title>
+    <title as="introduced" type="official">To amend the Truth in Lending Act to make a technical correction to an amendment made by the Credit CARD Act of 2009.</title>
+  </titles>
+  <sponsor id="412239"/>
+  <cosponsors>
+    <cosponsor id="400210" joined="2009-10-08"/>
+    <cosponsor id="412291" joined="2009-10-07"/>
+    <cosponsor id="412309" joined="2009-10-08"/>
+    <cosponsor id="400377" joined="2009-10-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-09-17">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2009-10-13T15:55:00-04:00">
+      <text>Mr. Frank (MA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-10-13T15:55:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11257-11259" label="consideration"/>
+    </action>
+    <action datetime="2009-10-13T15:55:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3606.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-10-13T16:00:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H11257" label="text"/>
+    </vote>
+    <action datetime="2009-10-13T16:00:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-10-14">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2009-10-29" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S10943" label="consideration"/>
+    </vote>
+    <topresident datetime="2009-10-29">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2009-10-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2009-10-30">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2009-11-06">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2009-11-06" type="public" number="111-93">
+      <text>Became Public Law No: 111-93.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Consumer affairs"/>
+    <term name="Consumer credit"/>
+  </subjects>
+  <amendments/>
+  <summary>11/6/2009--Public Law.
+Credit CARD Technical Corrections Act of 2009 - Amends the Truth in Lending Act, as amended by the Credit Card Accountability Responsibility and Disclosure Act of 2009 (Credit CARD Act of 2009), to make a technical amendment with respect to the timing of payments related to open end consumer credit plans. Adds the phrase "a credit card account under" to the timing requirement to specify that a creditor may not treat a payment on a credit card account under an open end consumer credit plan as late for any purpose, unless the creditor has adopted reasonable procedures designed to ensure that each periodic statement is mailed or delivered to the consumer at least 21 days before the payment due date.</summary>
+</bill>

@@ -1,0 +1,86 @@
+<bill session="112" type="h" number="1004" updated="2013-07-20T01:19:03-04:00">
+  <state datetime="2012-05-31">REPORTED</state>
+  <status>
+    <unknown datetime="2012-05-31"/>
+  </status>
+  <introduced datetime="2011-03-10"/>
+  <titles>
+    <title as="introduced" type="short">Medical FSA Improvement Act of 2011</title>
+    <title as="reported to house" type="short">Health Flexible Spending Arrangements Improvements Act of 2012</title>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to increase participation in medical flexible spending arrangements.</title>
+  </titles>
+  <sponsor id="400636"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2012-04-19"/>
+    <cosponsor id="412265" joined="2011-05-31"/>
+    <cosponsor id="400017" joined="2012-03-28"/>
+    <cosponsor id="412458" joined="2012-02-27"/>
+    <cosponsor id="400030" joined="2011-03-10"/>
+    <cosponsor id="412478" joined="2012-02-17"/>
+    <cosponsor id="412196" joined="2012-05-07"/>
+    <cosponsor id="400055" joined="2011-03-10"/>
+    <cosponsor id="412470" joined="2011-06-16"/>
+    <cosponsor id="412193" joined="2011-09-22"/>
+    <cosponsor id="400633" joined="2011-05-10"/>
+    <cosponsor id="400147" joined="2011-05-03"/>
+    <cosponsor id="412401" joined="2011-06-13"/>
+    <cosponsor id="412434" joined="2011-09-06"/>
+    <cosponsor id="412486" joined="2011-09-13"/>
+    <cosponsor id="412282" joined="2011-03-30"/>
+    <cosponsor id="412422" joined="2011-11-01"/>
+    <cosponsor id="400206" joined="2012-03-26"/>
+    <cosponsor id="400207" joined="2011-03-10"/>
+    <cosponsor id="400233" joined="2011-03-10"/>
+    <cosponsor id="412194" joined="2011-05-03"/>
+    <cosponsor id="400297" joined="2012-02-14"/>
+    <cosponsor id="400311" joined="2011-03-15"/>
+    <cosponsor id="412303" joined="2011-03-10"/>
+    <cosponsor id="400660" joined="2011-03-29"/>
+    <cosponsor id="412202" joined="2011-05-23"/>
+    <cosponsor id="412423" joined="2012-03-29"/>
+    <cosponsor id="412314" joined="2011-03-11"/>
+    <cosponsor id="412259" joined="2011-03-11"/>
+    <cosponsor id="400400" joined="2012-04-16"/>
+    <cosponsor id="400406" joined="2011-04-15"/>
+    <cosponsor id="412424" joined="2012-05-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-03-10">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2011-03-14">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Ways and Means"/>
+    </action>
+    <action datetime="2012-05-31">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Ways and Means"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-05-31">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 6.</text>
+      <committee name="House Committee on Ways and Means"/>
+    </calendar>
+    <action datetime="2012-06-05T13:30:00-04:00">
+      <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 112-515.</text>
+    </action>
+    <calendar datetime="2012-06-05T13:30:00-04:00" calendar="Union" number="363">
+      <text>Placed on the Union Calendar, Calendar No. 363.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="1404"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Income tax exclusion"/>
+  </subjects>
+  <amendments/>
+  <summary>6/5/2012--Reported to House amended.
+Health Flexible Spending Arrangements Improvements Act of 2012 - Amends the Internal Revenue Code to allow a distribution to a participant in a flexible spending arrangement (FSA) of FSA funds not used to reimburse medical expenses by the end of the plan year (currently, unspent funds must be forfeited). Limits the amount of such distribution to the lesser of: (1) $500; or (2) the excess of the salary reduction contributions to the FSA, over reimbursements for medical expenses for the plan year. Includes such distributions in the gross income of the FSA participant for income and employment tax purposes.</summary>
+</bill>

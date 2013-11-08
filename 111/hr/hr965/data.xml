@@ -1,0 +1,117 @@
+<bill session="111" type="h" number="965" updated="2013-07-19T23:20:34-04:00">
+  <state datetime="2009-09-10T12:20:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-09-10T12:20:00-04:00"/>
+  </status>
+  <introduced datetime="2009-02-10"/>
+  <titles>
+    <title as="introduced" type="short">Chesapeake Bay Gateways and Watertrails Network Continuing Authorization Act</title>
+    <title as="passed house" type="short">Chesapeake Bay Gateways and Watertrails Network Continuing Authorization Act</title>
+    <title as="introduced" type="official">To amend the Chesapeake Bay Initiative Act of 1998 to provide for the continuing authorization of the Chesapeake Bay Gateways and Watertrails Network.</title>
+  </titles>
+  <sponsor id="412212"/>
+  <cosponsors>
+    <cosponsor id="400017" joined="2009-02-10"/>
+    <cosponsor id="400070" joined="2009-02-10"/>
+    <cosponsor id="412272" joined="2009-09-08"/>
+    <cosponsor id="400090" joined="2009-02-10"/>
+    <cosponsor id="412263" joined="2009-02-10"/>
+    <cosponsor id="400189" joined="2009-02-10"/>
+    <cosponsor id="412289" joined="2009-02-10"/>
+    <cosponsor id="400283" joined="2009-02-10"/>
+    <cosponsor id="400295" joined="2009-02-10"/>
+    <cosponsor id="412301" joined="2009-02-10"/>
+    <cosponsor id="400321" joined="2009-02-10"/>
+    <cosponsor id="400349" joined="2009-02-10"/>
+    <cosponsor id="400364" joined="2009-02-10"/>
+    <cosponsor id="400415" joined="2009-02-10"/>
+    <cosponsor id="412255" joined="2009-02-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-02-10">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E236"/>
+    </action>
+    <action state="REFERRED" datetime="2009-02-10">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-02-13">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-09-09T14:49:00-04:00">
+      <text>Rules Committee Resolution H. Res. 726 Reported to House. Rule provides for consideration of H.R. 965 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.</text>
+    </action>
+    <action datetime="2009-09-10T10:33:00-04:00">
+      <text>Rule H. Res. 726 passed House.</text>
+    </action>
+    <action datetime="2009-09-10T10:34:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 726.</text>
+      <reference ref="CR H9402-9409, H9409-9410" label="consideration"/>
+    </action>
+    <action datetime="2009-09-10T10:34:00-04:00">
+      <text>Rule provides for consideration of H.R. 965 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.</text>
+    </action>
+    <action datetime="2009-09-10T10:35:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 965.</text>
+    </action>
+    <action datetime="2009-09-10T11:01:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H.Res. 726, the House proceeded with 20 minutes of debate on the Bishop (UT) amendment.</text>
+    </action>
+    <action datetime="2009-09-10T11:07:00-04:00">
+      <text>DEBATE - The House continued with further debate on the Bishop (UT) amendment.</text>
+    </action>
+    <action datetime="2009-09-10T11:20:00-04:00">
+      <text>Mr. Hastings (WA) moved to recommit with instructions to Natural Resources.</text>
+      <reference ref="CR H9407-9409" label="consideration"/>
+      <reference ref="CR H9407" label="text"/>
+    </action>
+    <action datetime="2009-09-10T11:21:00-04:00">
+      <text>DEBATE - The House proceeded with 10 minutes of debate on the Hastings (WA) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment stating that the authorization for appropriations declared in Section 2 of the bill shall not take effect until the national deficit is less than $1,000,000,000,000.</text>
+    </action>
+    <action datetime="2009-09-10T11:26:00-04:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H9408" label="consideration"/>
+    </action>
+    <action datetime="2009-09-10T12:07:00-04:00">
+      <text>On motion to recommit with instructions Failed by the Yeas and Nays: 194 - 229 (Roll no. 694).</text>
+      <reference ref="CR H9408-9409" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-09-10T12:20:00-04:00" how="roll" result="pass" roll="695" type="vote" where="h">
+      <text>On passage Passed by recorded vote: 311 - 107 (Roll no. 695).</text>
+      <reference ref="CR H9402" label="text"/>
+    </vote>
+    <action datetime="2009-09-10T12:20:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-09-10">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2009-10-14">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="111" type="hr" number="726"/>
+    <bill relation="identical" session="111" type="s" number="479"/>
+    <bill relation="unknown" session="111" type="s" number="479"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Chesapeake Bay"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Historical and cultural resources"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments>
+    <amendment number="h411"/>
+  </amendments>
+  <summary>9/10/2009--Passed House without amendment.
+Chesapeake Bay Gateways and Watertrails Network Continuing Authorization Act - Amends the Chesapeake Bay Initiative Act of 1998 to make permanent the authorization of appropriations for the Chesapeake Bay Gateways and Watertrails Network.</summary>
+</bill>

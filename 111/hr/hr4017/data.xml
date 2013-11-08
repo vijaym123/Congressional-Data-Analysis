@@ -1,0 +1,111 @@
+<bill session="111" type="h" number="4017" updated="2013-07-19T23:48:23-04:00">
+  <state datetime="2010-06-09">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2010-06-09"/>
+  </status>
+  <introduced datetime="2009-11-04"/>
+  <titles>
+    <title as="introduced" type="official">To designate the facility of the United States Postal Service located at 43 Maple Avenue in Shrewsbury, Massachusetts, as the "Ann Marie Blute Post Office".</title>
+  </titles>
+  <sponsor id="400263"/>
+  <cosponsors>
+    <cosponsor id="400063" joined="2009-11-04"/>
+    <cosponsor id="400102" joined="2009-11-04"/>
+    <cosponsor id="400140" joined="2009-11-04"/>
+    <cosponsor id="400249" joined="2009-11-04"/>
+    <cosponsor id="400253" joined="2009-11-04"/>
+    <cosponsor id="400291" joined="2009-11-04"/>
+    <cosponsor id="400301" joined="2009-11-04"/>
+    <cosponsor id="400407" joined="2009-11-04"/>
+    <cosponsor id="412254" joined="2009-11-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-11-04">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2009-11-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-11-18">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2009-12-08T13:12:00-05:00">
+      <text>Mr. Lynch moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-12-08T13:13:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H13574-13576" label="consideration"/>
+    </action>
+    <action datetime="2009-12-08T13:13:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4017.</text>
+    </action>
+    <action datetime="2009-12-08T13:25:00-05:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Lynch objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2009-12-10T14:03:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H14480" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-12-10T14:11:00-05:00" how="roll" result="pass" roll="950" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 419 - 0 (Roll no. 950).</text>
+      <reference ref="CR 12/8/2009 H13574" label="text"/>
+    </vote>
+    <action datetime="2009-12-10T14:11:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-12-11">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2010-04-16">
+      <text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+    <calendar datetime="2010-05-17">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2010-05-18">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2010-05-18" calendar="Senate Legislative" under="General Orders" number="389">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 389.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="2010-05-25" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4171-4172" label="consideration"/>
+    </vote>
+    <action datetime="2010-05-25">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2010-05-25">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2010-06-01">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2010-06-09">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2010-06-09" type="public" number="111-182">
+      <text>Became Public Law No: 111-182.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSGA09" subcommittee="Federal Financial Management, Government Information, Federal Services, and International Security" name="Senate Homeland Security and Governmental Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Massachusetts"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>6/9/2010--Public Law.
+Designates the facility of the United States Postal Service located at 43 Maple Avenue in Shrewsbury, Massachusetts, as the "Ann Marie Blute Post Office."</summary>
+</bill>

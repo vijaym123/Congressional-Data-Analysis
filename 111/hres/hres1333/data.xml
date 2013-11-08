@@ -1,0 +1,53 @@
+<bill session="111" type="hr" number="1333" updated="2013-07-19T23:07:40-04:00">
+  <state datetime="2010-05-12T12:47:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2010-05-12T12:47:00-04:00"/>
+  </status>
+  <introduced datetime="2010-05-06"/>
+  <titles>
+    <title as="introduced" type="official">Expressing support for the goals and ideals of Children's Book Week.</title>
+  </titles>
+  <sponsor id="412310"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2010-05-06">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2010-05-12T12:42:00-04:00">
+      <text>Ms. Woolsey moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2010-05-12T12:42:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3347" label="consideration"/>
+    </action>
+    <action datetime="2010-05-12T12:42:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1333.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2010-05-12T12:47:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H3347" label="text"/>
+    </vote>
+    <action datetime="2010-05-12T12:47:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-05-27">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral"/>
+    <committee activity="Referral" code="HSED14" subcommittee="Early Childhood, Elementary, and Secondary Education" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Language arts"/>
+    <term name="Literature"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2010--Passed House without amendment.
+Supports the goals and ideals of Children's Book Week. Encourages parents to read with their children and schools, libraries, and community organizations to hold events to encourage children and students of all ages to read.</summary>
+</bill>

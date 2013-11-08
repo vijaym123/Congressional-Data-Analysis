@@ -1,0 +1,93 @@
+<bill session="111" type="h" number="1747" updated="2013-07-19T23:27:31-04:00">
+  <state datetime="2009-04-27T15:36:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-04-27T15:36:00-04:00"/>
+  </status>
+  <introduced datetime="2009-03-26"/>
+  <titles>
+    <title as="introduced" type="short">Great Lakes Icebreaker Replacement Act</title>
+    <title as="reported to house" type="short">Great Lakes Icebreaker Replacement Act</title>
+    <title as="passed house" type="short">Great Lakes Icebreaker Replacement Act</title>
+    <title as="introduced" type="official">To authorize appropriations for the design, acquisition, and construction of a combined buoy tender-icebreaker to replace icebreaking capacity on the Great Lakes.</title>
+  </titles>
+  <sponsor id="400299"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2009-03-26">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E784"/>
+    </action>
+    <action state="REFERRED" datetime="2009-03-26">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2009-03-27">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-04-02">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-04-02">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2009-04-02">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-04-21T20:07:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 111-81.</text>
+    </action>
+    <calendar datetime="2009-04-21T20:07:00-04:00" calendar="Union" number="36">
+      <text>Placed on the Union Calendar, Calendar No. 36.</text>
+    </calendar>
+    <action datetime="2009-04-27T15:21:00-04:00">
+      <text>Mr. Oberstar moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-04-27T15:21:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4749-4750" label="consideration"/>
+    </action>
+    <action datetime="2009-04-27T15:21:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1747.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-04-27T15:36:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H4749" label="text"/>
+    </vote>
+    <action datetime="2009-04-27T15:36:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-04-28">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <action datetime="2009-10-23">
+      <text>Provisions of measure incorporated in to Title IV of H.R. 3619.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="3619"/>
+    <bill relation="unknown" session="111" type="h" number="3619"/>
+    <bill relation="unknown" session="111" type="s" number="1024"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Coast guard"/>
+    <term name="Department of Defense"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Great Lakes"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Transportation programs funding"/>
+  </subjects>
+  <amendments/>
+  <summary>4/27/2009--Passed House without amendment.
+Great Lakes Icebreaker Replacement Act - Authorizes appropriations for the design, acquisition, and construction of a combined buoy tender-icebreaker to replace icebreaking capacity on the Great Lakes.</summary>
+</bill>

@@ -1,0 +1,63 @@
+<bill session="111" type="h" number="4635" updated="2013-07-19T23:54:15-04:00">
+  <state datetime="2010-02-22">REFERRED</state>
+  <status>
+    <introduced datetime="2010-02-22"/>
+  </status>
+  <introduced datetime="2010-02-22"/>
+  <titles>
+    <title as="introduced" type="short">Foreclosure Mandatory Mediation Act of 2010</title>
+    <title as="introduced" type="official">To require lenders of loans with Federal guarantees or Federal insurance to consent to mandatory mediation.</title>
+  </titles>
+  <sponsor id="412327"/>
+  <cosponsors>
+    <cosponsor id="400093" joined="2010-03-10"/>
+    <cosponsor id="412215" joined="2010-04-20"/>
+    <cosponsor id="400133" joined="2010-03-23"/>
+    <cosponsor id="412276" joined="2010-03-10"/>
+    <cosponsor id="400199" joined="2010-04-20"/>
+    <cosponsor id="412285" joined="2010-02-22"/>
+    <cosponsor id="400270" joined="2010-02-22"/>
+    <cosponsor id="400295" joined="2010-03-10"/>
+    <cosponsor id="412228" joined="2010-02-22"/>
+    <cosponsor id="400422" joined="2010-02-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-02-22">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2010-02-22">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2010-02-22">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2010-02-26">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-06-10">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2010-06-10">
+      <text>Committee Hearings Held.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Hearings, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="2912"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Alternative dispute resolution, mediation, arbitration"/>
+    <term name="Housing finance and home ownership"/>
+  </subjects>
+  <amendments/>
+  <summary>2/22/2010--Introduced.
+Foreclosure Mandatory Mediation Act of 2010 - Amends the Helping Families Save Their Homes Act of 2009 to require the mortgagee of certain one- to four-family residences, as a prerequisite to a foreclosure proceeding or a sheriff sale, and at the mortgagee's expense, to conduct a one-time mediation with the affected mortgagor and a housing counseling agency.</summary>
+</bill>

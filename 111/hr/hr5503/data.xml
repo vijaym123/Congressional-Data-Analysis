@@ -1,0 +1,127 @@
+<bill session="111" type="h" number="5503" updated="2013-07-20T00:02:16-04:00">
+  <state datetime="2010-07-01T16:11:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2010-07-01T16:11:00-04:00"/>
+  </status>
+  <introduced datetime="2010-06-10"/>
+  <titles>
+    <title as="introduced" type="short">Securing Protections for the Injured from Limitations on Liability Act</title>
+    <title as="reported to house" type="short">Securing Protections for the Injured from Limitations on Liability Act</title>
+    <title as="passed house" type="short">Securing Protections for the Injured from Limitations on Liability Act</title>
+    <title as="introduced" type="official">To revise laws regarding liability in certain civil actions arising from maritime incidents, and for other purposes.</title>
+  </titles>
+  <sponsor id="400080"/>
+  <cosponsors>
+    <cosponsor id="400009" joined="2010-06-28"/>
+    <cosponsor id="400025" joined="2010-06-23"/>
+    <cosponsor id="412208" joined="2010-06-10"/>
+    <cosponsor id="412379" joined="2010-06-10"/>
+    <cosponsor id="412236" joined="2010-06-10"/>
+    <cosponsor id="412272" joined="2010-06-22"/>
+    <cosponsor id="412385" joined="2010-06-10"/>
+    <cosponsor id="400163" joined="2010-06-16"/>
+    <cosponsor id="400178" joined="2010-06-17"/>
+    <cosponsor id="412200" joined="2010-06-30"/>
+    <cosponsor id="400184" joined="2010-06-30"/>
+    <cosponsor id="400199" joined="2010-06-10"/>
+    <cosponsor id="412199" joined="2010-06-10"/>
+    <cosponsor id="412297" joined="2010-06-24"/>
+    <cosponsor id="400251" joined="2010-06-30"/>
+    <cosponsor id="400663" joined="2010-06-24"/>
+    <cosponsor id="400635" joined="2010-06-10"/>
+    <cosponsor id="400289" joined="2010-06-10"/>
+    <cosponsor id="400312" joined="2010-06-30"/>
+    <cosponsor id="412331" joined="2010-06-22"/>
+    <cosponsor id="400355" joined="2010-06-10"/>
+    <cosponsor id="400356" joined="2010-06-24"/>
+    <cosponsor id="400371" joined="2010-06-30"/>
+    <cosponsor id="400402" joined="2010-06-28"/>
+    <cosponsor id="400422" joined="2010-06-10"/>
+    <cosponsor id="400426" joined="2010-06-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-06-10">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2010-06-10">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2010-06-10">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2010-06-11">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-06-11">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-06-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-06-23">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 16 - 11.</text>
+      <committee name="House Judiciary"/>
+    </calendar>
+    <action datetime="2010-06-30T20:41:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 111-521, Part I.</text>
+    </action>
+    <action datetime="2010-06-30T20:42:00-04:00">
+      <text>Committee on Transportation discharged.</text>
+    </action>
+    <calendar datetime="2010-06-30T20:42:00-04:00" calendar="Union" number="296">
+      <text>Placed on the Union Calendar, Calendar No. 296.</text>
+    </calendar>
+    <action datetime="2010-07-01T15:29:00-04:00">
+      <text>Mr. Conyers moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-07-01T15:29:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5330-5336" label="consideration"/>
+    </action>
+    <action datetime="2010-07-01T15:29:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5503.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-07-01T16:11:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5330" label="text"/>
+    </vote>
+    <action datetime="2010-07-01T16:11:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-07-13">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="3600"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Accidents"/>
+    <term name="Bankruptcy"/>
+    <term name="Business records"/>
+    <term name="Civil actions and liability"/>
+    <term name="Corporate finance and management"/>
+    <term name="Environmental health"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Marine pollution"/>
+    <term name="Oil and gas"/>
+    <term name="Transportation employees"/>
+    <term name="Transportation safety and security"/>
+    <term name="Worker safety and health"/>
+  </subjects>
+  <amendments/>
+  <summary>7/1/2010--Passed House amended.
+Securing Protections for the Injured from Limitations on Liability Act - (Sec. 2) Amends the Death on the High Seas Act to permit the personal representative of a decedent to bring a civil action in admiralty or law (limited to admiralty under current law) against the person or vessel responsible for the decedent's death when the death was caused by wrongful act, neglect, or default occurring on the high seas beyond three nautical miles from the shore of the United States. Limits the right to bring such an action to the decedent's survivors only (including, as under current law, spouse, parent, child, or dependent relative). Allows recovery in such an action for fair compensation for nonpecuniary loss (limited to pecuniary loss under current law), plus a fair compensation for the decedent's pain and suffering. Defines "nonpecuniary loss" as loss of care, comfort, and companionship. (Sec. 3) Amends the Jones Act to allow recovery for the loss of the care, comfort, and companionship of a seaman who died in the course of employment. Removes restrictions on the bringing of actions under U.S. maritime law by workers who are not U.S. citizens or permanent residents against a mineral or energy company for personal injury or death occurring in the territorial waters or continental shelf of a foreign country. (Sec. 4) Repeals specified general limitations on a shipowner's liability (the Limitation of Liability Act) for personal injury or death on seagoing vessels. (Sec. 5) Amends the bankruptcy code to prohibit a trustee in bankruptcy from selling or leasing, except in the ordinary course of business, significant property of the estate of a debtor liable for a claim for wrongful death, personal injury, or property damage arising from an incident under the Oil Pollution Act of 1990 unless: (1) more than one-half of the creditors, holding at least two-thirds the dollar aggregate amount of the claims not paid by the debtor, consent to such sale or lease; or (2) the court finds, after notice and a hearing, that all such claims will be paid because sufficient property will remain in the estate or the debtor's anticipated future income will be sufficient.</summary>
+</bill>

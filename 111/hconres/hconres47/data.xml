@@ -1,0 +1,45 @@
+<bill session="111" type="hc" number="47" updated="2013-07-20T00:13:20-04:00">
+  <state datetime="2009-02-13">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2009-02-13"/>
+  </status>
+  <introduced datetime="2009-02-11"/>
+  <titles>
+    <title as="introduced" type="official">Providing for an adjournment or recess of the two Houses.</title>
+  </titles>
+  <sponsor id="400155"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2009-02-11T14:04:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H1195-1196" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-02-11T14:32:00-05:00" how="roll" result="pass" roll="60" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 238 - 181, 1 Present (Roll no. 60).</text>
+      <reference ref="CR H1195" label="text"/>
+    </vote>
+    <action datetime="2009-02-11T14:32:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-02-11">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2009-02-13" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S2347" label="consideration"/>
+      <reference ref="CR S2347" label="text as passed Senated"/>
+    </vote>
+    <action datetime="2009-02-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional operations and organization"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2009--Passed Senate without amendment.
+Declares that, when the House adjourns on any legislative day from Thursday, February 12, 2009, through Monday, February 16, 2009, it stand adjourned until 2 p.m. on Monday, February 23, 2009. Declares that, when the Senate recesses or adjourns on any day from Friday, February 13, 2009, through Friday, February 20, 2009, it stand recessed or adjourned until 2 p.m. on Monday, February 23, 2009.</summary>
+</bill>

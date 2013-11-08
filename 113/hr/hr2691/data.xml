@@ -1,0 +1,45 @@
+<bill session="113" type="h" number="2691" updated="2013-11-02T06:41:39-04:00">
+  <state datetime="2013-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-16"/>
+  </status>
+  <introduced datetime="2013-07-16"/>
+  <titles>
+    <title type="official" as="introduced">To amend certain appropriation Acts to repeal the requirement directing the Administrator of General Services to sell Federal property and assets that support the operations of the Plum Island Animal Disease Center in Plum Island, New York, and for other purposes.</title>
+  </titles>
+  <sponsor id="400031"/>
+  <cosponsors>
+    <cosponsor id="412193" joined="2013-07-16"/>
+    <cosponsor id="400103" joined="2013-07-17"/>
+    <cosponsor id="412524" joined="2013-08-01"/>
+    <cosponsor id="412451" joined="2013-07-16"/>
+    <cosponsor id="400195" joined="2013-09-10"/>
+    <cosponsor id="400219" joined="2013-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-16" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2013-07-23">
+      <text>Referred to the Subcommittee on Oversight and Management Efficiency.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM09" subcommittee="Oversight and Management Efficiency" name="House Homeland Security"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="1303"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Land transfers"/>
+    <term name="New York State"/>
+    <term name="Research administration and funding"/>
+  </subjects>
+  <amendments/>
+  <summary>7/16/2013--Introduced.
+Repeals provisions of the Department of Homeland Security Appropriations Act, 2009, and the Department of Homeland Security Appropriations Act, 2012, authorizing the Secretary of Homeland Security (DHS) to direct the Administrator of General Services (GSA) to sell all real and personal property and transportation assets of the National Bio and Agro-defense Facility at Plum Island, New York.</summary>
+</bill>

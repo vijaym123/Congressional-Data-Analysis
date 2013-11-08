@@ -1,0 +1,56 @@
+<bill session="111" type="hj" number="21" updated="2013-07-20T00:12:10-04:00">
+  <state datetime="2009-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="2009-02-11"/>
+  </status>
+  <introduced datetime="2009-02-11"/>
+  <titles>
+    <title as="introduced" type="official">Proposing an amendment to the Constitution of the United States relative to the election of Senators.</title>
+  </titles>
+  <sponsor id="400115"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2009-02-11"/>
+    <cosponsor id="400133" joined="2009-02-25"/>
+    <cosponsor id="400643" joined="2009-03-05"/>
+    <cosponsor id="400144" joined="2009-02-25"/>
+    <cosponsor id="400252" joined="2009-09-16"/>
+    <cosponsor id="412306" joined="2009-02-11"/>
+    <cosponsor id="400365" joined="2009-02-11"/>
+    <cosponsor id="400381" joined="2009-02-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-02-11">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2009-03-06">
+      <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2009-03-11">
+      <text>Committee Hearings Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2009-03-11">
+      <text>Committee on the Judiciary. Joint hearings held Subcommittee on The Constitution and Subcommittee on The Constitution, Civil Rights and Civil Liberties. Hearings printed: S.Hrg. 111-203.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Hearings, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU10" subcommittee="Constitution, Civil Rights, and Civil Liberties" name="House Judiciary"/>
+    <committee activity="Hearings" code="HSJU" subcommittee="Constitution" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="sj" number="7"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Members of Congress"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2009--Introduced.
+Constitutional Amendment - Provides that no person shall be a Senator from a state unless such person has been elected by the people thereof, and that when vacancies happen in the representation of any state in the Senate, the executive authority of such state shall issue writs of election to fill such vacancies.</summary>
+</bill>

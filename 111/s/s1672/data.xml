@@ -1,0 +1,66 @@
+<bill session="111" type="s" number="1672" updated="2013-07-20T00:38:47-04:00">
+  <state datetime="2009-12-16">REPORTED</state>
+  <status>
+    <unknown datetime="2009-12-16"/>
+  </status>
+  <introduced datetime="2009-09-15"/>
+  <titles>
+    <title as="introduced" type="short">National Oilheat Research Alliance Reauthorization Act of 2009</title>
+    <title as="introduced" type="official">A bill to reauthorize the National Oilheat Research Alliance Act of 2000.</title>
+  </titles>
+  <sponsor id="300081"/>
+  <cosponsors>
+    <cosponsor id="400054" joined="2009-10-19"/>
+    <cosponsor id="400064" joined="2009-11-20"/>
+    <cosponsor id="300025" joined="2009-09-22"/>
+    <cosponsor id="412223" joined="2009-09-23"/>
+    <cosponsor id="300049" joined="2009-10-14"/>
+    <cosponsor id="300060" joined="2009-09-29"/>
+    <cosponsor id="300067" joined="2009-12-01"/>
+    <cosponsor id="400272" joined="2010-01-25"/>
+    <cosponsor id="400357" joined="2009-10-06"/>
+    <cosponsor id="412323" joined="2009-09-15"/>
+    <cosponsor id="300091" joined="2009-09-15"/>
+    <cosponsor id="412247" joined="2009-10-19"/>
+    <cosponsor id="300100" joined="2009-11-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-09-15">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S9378"/>
+    </action>
+    <action state="REFERRED" datetime="2009-09-15">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <reference ref="CR S9378" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-12-16">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2009-12-16">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2009-12-16" calendar="Senate Legislative" under="General Orders" number="229">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 229.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="h" number="3589"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Consumer affairs"/>
+    <term name="Energy prices"/>
+    <term name="Energy research"/>
+    <term name="Lighting and heating"/>
+    <term name="Oil and gas"/>
+    <term name="Research and development"/>
+    <term name="Retail and wholesale trades"/>
+  </subjects>
+  <amendments/>
+  <summary>12/16/2009--Reported to Senate without amendment.
+National Oilheat Research Alliance Reauthorization Act of 2009 - Amends the National Oilheat Research Alliance Act of 2000 to extend the national oilheat research alliance program until February 6, 2011.</summary>
+</bill>

@@ -1,0 +1,66 @@
+<bill session="111" type="h" number="5112" updated="2013-07-19T23:58:30-04:00">
+  <state datetime="2010-07-29">REPORTED</state>
+  <status>
+    <unknown datetime="2010-07-29"/>
+  </status>
+  <introduced datetime="2010-04-22"/>
+  <titles>
+    <title as="introduced" type="short">Federal Buildings Personnel Training Act of 2010</title>
+    <title as="reported to house" type="short">Federal Buildings Personnel Training Act of 2010</title>
+    <title as="introduced" type="official">To provide for the training of Federal building personnel, and for other purposes.</title>
+  </titles>
+  <sponsor id="400638"/>
+  <cosponsors>
+    <cosponsor id="400027" joined="2010-04-22"/>
+    <cosponsor id="400442" joined="2010-05-25"/>
+    <cosponsor id="400295" joined="2010-04-22"/>
+    <cosponsor id="400367" joined="2010-07-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-04-22">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2010-04-23">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-07-29">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-07-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-07-29">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2010-11-30T15:42:00-05:00">
+      <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 111-662.</text>
+    </action>
+    <calendar datetime="2010-11-30T15:42:00-05:00" calendar="Union" number="394">
+      <text>Placed on the Union Calendar, Calendar No. 394.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3250"/>
+    <bill relation="unknown" session="111" type="s" number="3250"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Performance measurement"/>
+    <term name="Water use and supply"/>
+    <term name="Worker safety and health"/>
+  </subjects>
+  <amendments/>
+  <summary>11/30/2010--Reported to House without amendment.
+Federal Buildings Personnel Training Act of 2010 - Directs the Administrator of General Services (GSA) to: (1) identify, annually, the core competencies necessary for federal personnel performing building operations and maintenance, energy management, safety, and design functions to comply with requirements under federal law, including competencies relating to sustainability, water efficiency, electrical safety, and building performance measures; and (2) identify a course, certification, degree, license, or registration to demonstrate, and for ongoing training in, each core competency for the appropriate category of personnel. Requires individuals in each category to demonstrate each core competency identified for the category within one year. Directs the Administrator: (1) to develop or identify comprehensive continuing education courses to ensure the operation of federal buildings in accordance with industry best practices and standards; and (2) and the Secretary of Energy to develop, annually, a recommended curriculum relating to facility management and the operation of high-performance buildings.Makes training requirements under this Act applicable to non-federal personnel performing building operations and maintenance, energy management, safety, and design functions under contract with a federal agency. Requires a contractor to provide training to, and certify the demonstration of core competencies for, non-federal personnel in a manner that is approved by the Administrator.</summary>
+</bill>

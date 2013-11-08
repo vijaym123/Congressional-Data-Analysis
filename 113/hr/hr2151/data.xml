@@ -1,0 +1,41 @@
+<bill session="113" type="h" number="2151" updated="2013-11-02T06:37:07-04:00">
+  <state datetime="2013-05-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-23"/>
+  </status>
+  <introduced datetime="2013-05-23"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to authorize individuals who are pursuing programs of rehabilitation, education, or training under laws administered by the Secretary of Veterans Affairs to receive work-study allowances for certain outreach services provided through congressional offices, and for other purposes.</title>
+  </titles>
+  <sponsor id="400100"/>
+  <cosponsors>
+    <cosponsor id="400274" joined="2013-05-23"/>
+    <cosponsor id="412520" joined="2013-05-23"/>
+    <cosponsor id="412522" joined="2013-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-23" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-06-11">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="894"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional officers and employees"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/23/2013--Introduced.
+Includes within authorized work-study activities, for individuals entitled to work-study allowances through the Department of Veterans Affairs (VA) in connection with VA rehabilitation, education, or training programs, the following activities carried out at offices of Members of Congress: (1) the distribution of information to members of the Armed Forces, veterans, and their dependents concerning available benefits and services under governmental and nongovernmental programs; and (2) the preparation and processing of papers and other documents, including those used to assist in the preparation and presentation of veterans' benefits claims.</summary>
+</bill>

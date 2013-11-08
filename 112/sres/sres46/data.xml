@@ -1,0 +1,39 @@
+<bill session="112" type="sr" number="46" updated="2013-07-20T02:11:03-04:00">
+  <state datetime="2011-02-08">REFERRED</state>
+  <status>
+    <introduced datetime="2011-02-08"/>
+  </status>
+  <introduced datetime="2011-02-08"/>
+  <titles>
+    <title as="introduced" type="official">A resolution requiring that legislation considered by the Senate to be confined to a single issue.</title>
+  </titles>
+  <sponsor id="300041"/>
+  <cosponsors>
+    <cosponsor id="412251" joined="2011-02-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2011-02-08">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S634"/>
+    </action>
+    <action state="REFERRED" datetime="2011-02-08">
+      <text>Referred to the Committee on Rules and Administration.</text>
+      <reference ref="CR S634" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="sc" number="39"/>
+    <bill relation="unknown" session="112" type="s" number="360"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>2/8/2011--Introduced.
+Makes it out of order in the Senate to consider a bill or resolution that is not confined to a single subject. Permits waiver or suspension of such prohibition, or successful appeals from rulings of the Chair, only by an affirmative vote of three-fifths (60) of the Senate.</summary>
+</bill>

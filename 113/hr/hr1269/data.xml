@@ -1,0 +1,54 @@
+<bill session="113" type="h" number="1269" updated="2013-11-02T06:29:37-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Life, Liberty, and Justice for All Americans Act</title>
+    <title type="official" as="introduced">To prohibit the use of lethal military force against citizens of the United States located within the United States.</title>
+  </titles>
+  <sponsor id="412528"/>
+  <cosponsors>
+    <cosponsor id="412438" joined="2013-03-19"/>
+    <cosponsor id="412503" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-19" state="REFERRED">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committees on the Judiciary, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-19">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2013-03-19">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-03-19">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="2013-04-15">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, and Investigations" name="House Judiciary"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="1242"/>
+    <bill relation="unknown" session="113" type="s" number="505"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Aviation and airports"/>
+    <term name="Due process and equal protection"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2013--Introduced.
+Life, Liberty, and Justice for All Americans Act - Prohibits the President from using lethal military force against a U.S. citizen located in the United States. Provides an exception if the President determines that: (1) the individual poses an imminent threat of death or serious bodily injury to another individual, and (2) using such force will prevent or minimize such death or injury. States that nothing in this Act shall be construed to allow the killing of a U.S. citizen without due process of law.</summary>
+</bill>

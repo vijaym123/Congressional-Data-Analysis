@@ -1,0 +1,105 @@
+<bill session="111" type="hr" number="410" updated="2013-07-19T22:59:33-04:00">
+  <state datetime="2009-06-09T18:42:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2009-06-09T18:42:00-04:00"/>
+  </status>
+  <introduced datetime="2009-05-06"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the numerous contributions of the recreational boating community and the boating industry to the continuing prosperity and affluence of the United States.</title>
+  </titles>
+  <sponsor id="412198"/>
+  <cosponsors>
+    <cosponsor id="412224" joined="2009-06-03"/>
+    <cosponsor id="400011" joined="2009-06-04"/>
+    <cosponsor id="400024" joined="2009-06-03"/>
+    <cosponsor id="400041" joined="2009-06-03"/>
+    <cosponsor id="400049" joined="2009-05-06"/>
+    <cosponsor id="412234" joined="2009-06-04"/>
+    <cosponsor id="400076" joined="2009-06-03"/>
+    <cosponsor id="400107" joined="2009-06-04"/>
+    <cosponsor id="400147" joined="2009-06-04"/>
+    <cosponsor id="400209" joined="2009-06-03"/>
+    <cosponsor id="400622" joined="2009-06-03"/>
+    <cosponsor id="400656" joined="2009-06-04"/>
+    <cosponsor id="400654" joined="2009-06-04"/>
+    <cosponsor id="400262" joined="2009-06-04"/>
+    <cosponsor id="400266" joined="2009-06-03"/>
+    <cosponsor id="400274" joined="2009-06-04"/>
+    <cosponsor id="400276" joined="2009-05-06"/>
+    <cosponsor id="400299" joined="2009-06-03"/>
+    <cosponsor id="400311" joined="2009-06-08"/>
+    <cosponsor id="400315" joined="2009-06-08"/>
+    <cosponsor id="400328" joined="2009-06-03"/>
+    <cosponsor id="400344" joined="2009-06-03"/>
+    <cosponsor id="400368" joined="2009-06-04"/>
+    <cosponsor id="409888" joined="2009-06-03"/>
+    <cosponsor id="400399" joined="2009-05-06"/>
+    <cosponsor id="400623" joined="2009-06-03"/>
+    <cosponsor id="412255" joined="2009-06-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-05-06">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2009-05-07">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-06-04">
+      <text>Subcommittee on Coast Guard and Maritime Transportation Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2009-06-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-06-04">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2009-06-08T19:49:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 111-142.</text>
+    </action>
+    <calendar datetime="2009-06-08T19:49:00-04:00" calendar="House" number="66">
+      <text>Placed on the House Calendar, Calendar No. 66.</text>
+    </calendar>
+    <action datetime="2009-06-09T18:27:00-04:00">
+      <text>Mr. Larsen (WA) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2009-06-09T18:28:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6366-6368" label="consideration"/>
+    </action>
+    <action datetime="2009-06-09T18:28:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 410.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2009-06-09T18:42:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H6366" label="text"/>
+    </vote>
+    <action datetime="2009-06-09T18:42:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hr" number="415"/>
+    <bill relation="unknown" session="111" type="sr" number="132"/>
+    <bill relation="unknown" session="111" type="sr" number="199"/>
+    <bill relation="unknown" session="111" type="sr" number="199"/>
+  </relatedbills>
+  <subjects>
+    <term name="Sports and recreation"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Manufacturing"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Marine and inland water transportation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/9/2009--Passed House without amendment.
+Commends the recreational boating community and the U.S. boating industry for their contributions to the economy, the well-being of U.S. citizens, and responsible environmental stewardship of marine resources. Urges the President to issue a proclamation calling for the observation of National Boating Day.</summary>
+</bill>

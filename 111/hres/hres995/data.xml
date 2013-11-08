@@ -1,0 +1,66 @@
+<bill session="111" type="hr" number="995" updated="2013-07-19T23:04:41-04:00">
+  <state datetime="2010-01-27">REPORTED</state>
+  <status>
+    <unknown datetime="2010-01-27"/>
+  </status>
+  <introduced datetime="2009-12-19"/>
+  <titles>
+    <title as="introduced" type="official">Of inquiry requesting the President to transmit to the House of Representatives all information in the possession of the Administrator of the Environmental Protection Agency relating to nutrient management of the Illinois River Watershed, Arkansas and Oklahoma.</title>
+  </titles>
+  <sponsor id="400040"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2009-12-19">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2009-12-21">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-01-27">
+      <text>Subcommittee on Water Resources and Environment Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2010-01-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2010-01-27">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2010-01-29T12:05:00-05:00">
+      <text>Reported (Amended) by the Committee on Transportation. H. Rept. 111-407.</text>
+    </action>
+    <calendar datetime="2010-01-29T12:23:00-05:00" calendar="House" number="154">
+      <text>Placed on the House Calendar, Calendar No. 154.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hr" number="985"/>
+    <bill relation="unknown" session="111" type="hr" number="985"/>
+    <bill relation="unknown" session="111" type="hr" number="985"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Agricultural conservation and pollution"/>
+    <term name="Arkansas"/>
+    <term name="Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Government information and archives"/>
+    <term name="House of Representatives"/>
+    <term name="Lakes and rivers"/>
+    <term name="Oklahoma"/>
+    <term name="Water quality"/>
+    <term name="Watersheds"/>
+  </subjects>
+  <amendments/>
+  <summary>1/29/2010--Reported to House amended.
+Requests the President to transmit to the House of Representatives copies of all technical and scientific documentation in the possession of the Administrator of the Environmental Protection Agency (EPA) relating to the Administrator's technical and scientific rationale for the establishment of a total phosphorous limit of 0.1 milligram per liter for the Northwest Arkansas Conservation Authority wastewater treatment facility, Arkansas.</summary>
+</bill>

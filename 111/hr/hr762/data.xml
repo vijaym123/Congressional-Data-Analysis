@@ -1,0 +1,105 @@
+<bill session="111" type="h" number="762" updated="2013-07-19T23:18:43-04:00">
+  <state datetime="2009-07-15T12:48:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2009-07-15T12:48:00-04:00"/>
+  </status>
+  <introduced datetime="2009-01-28"/>
+  <titles>
+    <title as="introduced" type="official">To validate final patent number 27-2005-0081, and for other purposes.</title>
+  </titles>
+  <sponsor id="412218"/>
+  <cosponsors>
+    <cosponsor id="400024" joined="2009-01-28"/>
+    <cosponsor id="412318" joined="2009-01-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-01-28">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2009-02-04">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-05-14">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-06-10">
+      <text>Subcommittee on National Parks, Forests and Public Lands Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2009-06-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-06-10">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2009-06-23T19:12:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 111-178.</text>
+    </action>
+    <calendar datetime="2009-06-23T19:12:00-04:00" calendar="Union" number="95">
+      <text>Placed on the Union Calendar, Calendar No. 95.</text>
+    </calendar>
+    <action datetime="2009-07-14T14:44:00-04:00">
+      <text>Ms. Bordallo moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-07-14T14:44:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8050-8051" label="consideration"/>
+    </action>
+    <action datetime="2009-07-14T14:44:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 762.</text>
+    </action>
+    <action datetime="2009-07-14T14:53:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2009-07-15T12:43:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H8116-8117" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2009-07-15T12:48:00-04:00" how="roll" result="pass" roll="542" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 542).</text>
+      <reference ref="CR 7/15/2009 H8050-8051" label="text"/>
+    </vote>
+    <action datetime="2009-07-15T12:48:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2009-07-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2009-12-17">
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2010-06-21">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2010-08-05">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 111-272.</text>
+    </action>
+    <calendar datetime="2010-08-05" calendar="Senate Legislative" under="General Orders" number="542">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 542.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG03" subcommittee="Public Lands and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Land transfers"/>
+    <term name="Nevada"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>8/5/2010--Reported to Senate without amendment.
+Affirms and validates a specified patent and its associated land reconfiguration issued by the Bureau of Land Management (BLM) as having been issued in compliance with the Nevada-Florida Land Exchange Authorization Act of 1988, the National Environmental Policy Act of 1969, and the Federal Land Policy Management Act of 1976 for the benefit and recovery of the desert tortoise and other species and their habitat. Ratifies: (1) the process used by the U.S. Fish and Wildlife Service and the BLM for the reconfiguration of those lands as shown in a specified environmental impact statement; and (2) the reconfiguration provided for in a specified Army Corps of Engineers permit.</summary>
+</bill>

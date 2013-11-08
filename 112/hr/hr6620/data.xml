@@ -1,0 +1,77 @@
+<bill session="112" type="h" number="6620" updated="2013-07-20T02:07:03-04:00">
+  <state datetime="2013-01-10">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2013-01-10"/>
+  </status>
+  <introduced datetime="2012-11-30"/>
+  <titles>
+    <title as="introduced" type="short">Former Presidents Protection Act of 2012</title>
+    <title as="passed house" type="short">Former Presidents Protection Act of 2012</title>
+    <title as="passed senate" type="short">Former Presidents Protection Act of 2012</title>
+    <title as="enacted" type="short">Former Presidents Protection Act of 2012</title>
+    <title as="introduced" type="official">To amend title 18, United States Code, to eliminate certain limitations on the length of Secret Service Protection for former Presidents and for the children of former Presidents.</title>
+  </titles>
+  <sponsor id="412473"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2012-11-30"/>
+    <cosponsor id="400364" joined="2012-11-30"/>
+    <cosponsor id="400381" joined="2012-11-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-11-30">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2012-12-05T10:02:00-05:00">
+      <text>Mr. Smith (TX) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-12-05T10:03:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6646-6647" label="consideration"/>
+    </action>
+    <action datetime="2012-12-05T10:03:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6620.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-12-05T10:18:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6646" label="text"/>
+    </vote>
+    <action datetime="2012-12-05T10:18:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-12-06">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2012-12-28">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S8516-8517" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2012-12-28" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2012-12-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2013-01-01">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2013-01-10">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2013-01-10" type="public" number="112-257">
+      <text>Became Public Law No: 112-257.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Presidents and presidential powers"/>
+  </subjects>
+  <amendments/>
+  <summary>1/10/2013--Public Law.
+Former Presidents Protection Act of 2012 - Amends the federal criminal code to eliminate certain limitations on the length of Secret Service protection for former Presidents and their spouses and children. Authorizes the Secret Service to protect: (1) former Presidents and their spouses for their lifetimes, except that protection of a spouse shall terminate in the event of remarriage; and (2) children of a former President who are under age 16.</summary>
+</bill>

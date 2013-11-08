@@ -1,0 +1,46 @@
+<bill session="111" type="h" number="3732" updated="2013-07-19T23:45:47-04:00">
+  <state datetime="2009-10-06">REFERRED</state>
+  <status>
+    <introduced datetime="2009-10-06"/>
+  </status>
+  <introduced datetime="2009-10-06"/>
+  <titles>
+    <title as="introduced" type="short">Protecting Resort Cities from Discrimination Act of 2009</title>
+    <title as="introduced" type="official">To prohibit an agency or department of the United States from establishing or implementing an internal policy that discourages or prohibits the selection of a resort or vacation destination as the location for a conference or event, and for other purposes.</title>
+  </titles>
+  <sponsor id="412187"/>
+  <cosponsors>
+    <cosponsor id="400039" joined="2009-11-19"/>
+    <cosponsor id="412218" joined="2009-10-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-10-06">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E2459"/>
+    </action>
+    <action state="REFERRED" datetime="2009-10-06">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2009-10-23">
+      <text>Referred to the Subcommittee on Government Management, Organization, and Procurement.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO24" subcommittee="Government Management, Organization, and Procurement" name="House Oversight and Government Reform"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="1530"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Travel and tourism"/>
+  </subjects>
+  <amendments/>
+  <summary>10/6/2009--Introduced.
+Protecting Resort Cities from Discrimination Act of 2009 - Prohibits a federal agency from establishing or implementing an internal policy that discourages or prohibits the selection of a travel, event, meeting, or conference location because it is perceived to be a resort or vacation destination.</summary>
+</bill>

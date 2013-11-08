@@ -1,0 +1,92 @@
+<bill session="112" type="h" number="525" updated="2013-07-20T01:14:50-04:00">
+  <state datetime="2011-03-08T19:01:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2011-03-08T19:01:00-05:00"/>
+  </status>
+  <introduced datetime="2011-02-08"/>
+  <titles>
+    <title as="introduced" type="short">Veterinary Public Health Amendments Act of 2011</title>
+    <title as="introduced" type="official">To amend the Public Health Service Act to enhance and increase the number of veterinarians trained in veterinary public health.</title>
+  </titles>
+  <sponsor id="400013"/>
+  <cosponsors>
+    <cosponsor id="400151" joined="2011-02-11"/>
+    <cosponsor id="400308" joined="2011-02-11"/>
+    <cosponsor id="412315" joined="2011-02-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-02-08">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2011-02-10">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2011-02-11">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2011-02-11">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2011-02-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-02-15">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2011-03-02T15:21:00-05:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 112-22.</text>
+    </action>
+    <calendar datetime="2011-03-02T15:21:00-05:00" calendar="Union" number="10">
+      <text>Placed on the Union Calendar, Calendar No. 10.</text>
+    </calendar>
+    <action datetime="2011-03-08T16:23:00-05:00">
+      <text>Mr. Burgess moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2011-03-08T16:23:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1600-1601" label="consideration"/>
+    </action>
+    <action datetime="2011-03-08T16:23:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 525.</text>
+    </action>
+    <action datetime="2011-03-08T16:29:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2011-03-08T18:53:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H1602-1603" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2011-03-08T19:01:00-05:00" how="roll" result="pass" roll="164" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 280 - 138 (Roll no. 164).</text>
+      <reference ref="CR H1600" label="text"/>
+    </vote>
+    <action datetime="2011-03-08T19:01:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2011-03-09">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medical education"/>
+    <term name="Student aid and college costs"/>
+    <term name="Veterinary medicine and animal diseases"/>
+  </subjects>
+  <amendments/>
+  <summary>3/8/2011--Passed House without amendment.
+Veterinary Public Health Amendments Act of 2011 - Amends the Public Health Service Act to revise a public health workforce grant program designed to increase the number of individuals in the public health workforce to include a health professions school or program of veterinary public health. Defines "veterinary public health" to include veterinarians engaged in one or more of the following areas to the extent such areas have an impact on human health: biodefense and emergency preparedness; emerging and reemerging infection diseases; environmental health; ecosystem health pre- and post-harvest food protection; regulatory medicine; diagnostic laboratory medicine; veterinary pathology; biomedical research; the practice of food animal medicine in rural areas; and government practice. Expands the public health workforce loan repayment program to make such veterinarians eligible for the program.</summary>
+</bill>

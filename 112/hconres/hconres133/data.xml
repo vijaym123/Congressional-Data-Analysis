@@ -1,0 +1,58 @@
+<bill session="112" type="hc" number="133" updated="2013-07-20T02:10:07-04:00">
+  <state datetime="2012-07-26">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2012-07-26"/>
+  </status>
+  <introduced datetime="2012-07-17"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the rotunda of the United States Capitol for an event to present the Congressional Gold Medal to Arnold Palmer, in recognition of his service to the Nation in promoting excellence and good sportsmanship in golf.</title>
+  </titles>
+  <sponsor id="400285"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2012-07-17">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2012-07-19T19:12:00-04:00">
+      <text>Committee on House Administration discharged.</text>
+    </action>
+    <action datetime="2012-07-19T19:12:00-04:00">
+      <text>Mr. Lungren, Daniel E. asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2012-07-19T19:12:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H5072" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-07-19T19:13:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H5072" label="text"/>
+    </vote>
+    <action datetime="2012-07-19T19:13:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-07-23">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2012-07-26" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S5628" label="consideration"/>
+    </vote>
+    <action datetime="2012-07-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Athletes"/>
+    <term name="Congressional tributes"/>
+    <term name="Professional sports"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+  <summary>7/26/2012--Passed Senate without amendment.
+Authorizes the use of the rotunda of the United States Capitol on September 12, 2012, for the presentation of the Congressional Gold Medal to Arnold Palmer, in recognition of his service to the nation in promoting excellence and good sportsmanship in golf.</summary>
+</bill>

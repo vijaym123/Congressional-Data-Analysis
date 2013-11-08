@@ -1,0 +1,52 @@
+<bill session="111" type="h" number="5648" updated="2013-07-20T00:03:34-04:00">
+  <state datetime="2010-06-30">REFERRED</state>
+  <status>
+    <introduced datetime="2010-06-30"/>
+  </status>
+  <introduced datetime="2010-06-30"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to reinstate criminal penalties for persons charging veterans unauthorized fees.</title>
+  </titles>
+  <sponsor id="412250"/>
+  <cosponsors>
+    <cosponsor id="400051" joined="2010-07-15"/>
+    <cosponsor id="412196" joined="2010-07-13"/>
+    <cosponsor id="412234" joined="2010-07-15"/>
+    <cosponsor id="400279" joined="2010-07-13"/>
+    <cosponsor id="412229" joined="2010-07-15"/>
+    <cosponsor id="412214" joined="2010-07-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-06-30">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2010-06-30">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2010-06-30">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2010-07-02">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/30/2010--Introduced.
+Provides criminal penalties against any person who solicits, contracts for, charges, or receives any fee or compensation from a veteran other than that currently permitted under law.</summary>
+</bill>

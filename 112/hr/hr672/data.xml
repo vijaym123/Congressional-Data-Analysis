@@ -1,0 +1,117 @@
+<bill session="112" type="h" number="672" updated="2013-07-20T01:16:05-04:00">
+  <state datetime="2011-06-22T14:43:00-04:00">PROV_KILL:SUSPENSIONFAILED</state>
+  <status>
+    <unknown datetime="2011-06-22T14:43:00-04:00"/>
+  </status>
+  <introduced datetime="2011-02-11"/>
+  <titles>
+    <title as="reported to house" type="short">Election Support Consolidation and Efficiency Act</title>
+    <title as="introduced" type="official">To terminate the Election Assistance Commission, and for other purposes.</title>
+  </titles>
+  <sponsor id="412280"/>
+  <cosponsors>
+    <cosponsor id="400017" joined="2011-04-07"/>
+    <cosponsor id="412436" joined="2011-04-07"/>
+    <cosponsor id="400029" joined="2011-04-07"/>
+    <cosponsor id="412395" joined="2011-04-07"/>
+    <cosponsor id="412011" joined="2011-04-07"/>
+    <cosponsor id="412271" joined="2011-05-25"/>
+    <cosponsor id="412479" joined="2011-04-07"/>
+    <cosponsor id="412275" joined="2011-04-07"/>
+    <cosponsor id="400151" joined="2011-02-11"/>
+    <cosponsor id="400651" joined="2011-03-01"/>
+    <cosponsor id="412434" joined="2011-04-07"/>
+    <cosponsor id="400176" joined="2011-04-07"/>
+    <cosponsor id="400617" joined="2011-02-11"/>
+    <cosponsor id="400656" joined="2011-04-15"/>
+    <cosponsor id="400279" joined="2011-03-01"/>
+    <cosponsor id="412409" joined="2011-04-15"/>
+    <cosponsor id="412309" joined="2011-03-01"/>
+    <cosponsor id="412483" joined="2011-04-07"/>
+    <cosponsor id="412426" joined="2011-02-11"/>
+    <cosponsor id="400392" joined="2011-03-01"/>
+    <cosponsor id="412317" joined="2011-04-07"/>
+    <cosponsor id="400627" joined="2011-05-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-02-11">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2011-02-11">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2011-02-11">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+    <action datetime="2011-02-28">
+      <text>Referred to the Subcommittee on Technology and Innovation.</text>
+      <committee name="House Science, Space, and Technology"/>
+    </action>
+    <action datetime="2011-04-01">
+      <text>Referred to the Subcommittee on Elections.</text>
+      <committee name="House House Administration"/>
+    </action>
+    <action datetime="2011-05-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House House Administration"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-05-25">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House House Administration"/>
+    </calendar>
+    <action datetime="2011-06-02T20:56:00-04:00">
+      <text>Reported (Amended) by the Committee on House Administration. H. Rept. 112-100, Part I.</text>
+    </action>
+    <action datetime="2011-06-02T20:56:00-04:00">
+      <text>Committee on Science, Space, and Technology discharged.</text>
+    </action>
+    <calendar datetime="2011-06-02T20:56:00-04:00" calendar="Union" number="55">
+      <text>Placed on the Union Calendar, Calendar No. 55.</text>
+    </calendar>
+    <action datetime="2011-06-21T19:13:00-04:00">
+      <text>Mr. Harper moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2011-06-21T19:13:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4347-4354" label="consideration"/>
+      <reference ref="CR H4347-4349" label="text of measure as reported in House"/>
+    </action>
+    <action datetime="2011-06-21T19:13:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 672.</text>
+    </action>
+    <action datetime="2011-06-21T19:58:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2011-06-22T14:37:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4392-4393" label="consideration"/>
+    </action>
+    <vote state="PROV_KILL:SUSPENSIONFAILED" datetime="2011-06-22T14:43:00-04:00" how="roll" result="fail" roll="466" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 235 - 187 (Roll no. 466).</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSHA08" subcommittee="Elections" name="House Administration"/>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSSY19" subcommittee="Technology and Innovation" name="House Science, Space, and Technology"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="3463"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Computers and information technology"/>
+    <term name="Congressional elections"/>
+    <term name="Department of Commerce"/>
+    <term name="Election Assistance Commission"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Election Commission (FEC)"/>
+    <term name="Government studies and investigations"/>
+    <term name="Office of Management and Budget (OMB)"/>
+  </subjects>
+  <amendments/>
+  <summary>6/2/2011--Reported to House amended, Part I.
+Election Support Consolidation and Efficiency Act - (Sec. 2) Amends the Help America Vote Act of 2002 to terminate the Election Assistance Commission (EAC), the EAC Standards Board, and the EAC Board of Advisors 61 days after enactment of this Act. Requires the Director of the Office of Management and Budget (OMB) to perform EAC functions with respect to certain existing contracts and agreements during the transition period for winding up EAC affairs. Transfers specified election administration functions of the EAC to the Federal Election Commission (FEC). (Sec. 3) Replaces the Standards Board and the Board of Advisors with a Guidelines Review Board to review voluntary voting system guidelines proposed by the Technical Guidelines Development Committee. (Sec. 4) Sets forth special requirements relating to the transfer of certain EAC authorities to the FEC with respect to development of such guidelines. Transfers to the FEC the EAC Office of Voting System Testing and Certification. (Sec. 7) Directs the Comptroller General to: (1) study the procedures used to adopt and modify the voluntary voting system guidelines applicable to the administration of elections for federal office, and (2) develop recommendations on methods to improve such procedures. Requires the FEC to: (1) study the procedures for the testing, certification, decertification, and recertification of voting system hardware and software used in federal elections, and (2) develop a recommendation on the entity best suited to oversee and carry out such procedures. Requires the recommendations in both studies to take into account the needs of persons affected by such guidelines, including state and local election officials, voters with disabilities, absent military and overseas voters, and the manufacturers of voting systems.</summary>
+</bill>

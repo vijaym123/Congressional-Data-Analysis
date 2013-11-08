@@ -1,0 +1,44 @@
+<bill session="112" type="h" number="245" updated="2013-07-20T01:12:28-04:00">
+  <state datetime="2011-01-07">REFERRED</state>
+  <status>
+    <introduced datetime="2011-01-07"/>
+  </status>
+  <introduced datetime="2011-01-07"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Federal Reserve Act to remove the mandate on the Board of Governors of the Federal Reserve System and the Federal Open Market Committee to focus on maximum employment.</title>
+  </titles>
+  <sponsor id="400315"/>
+  <cosponsors>
+    <cosponsor id="412452" joined="2011-05-04"/>
+    <cosponsor id="400209" joined="2011-05-03"/>
+    <cosponsor id="412295" joined="2011-01-18"/>
+    <cosponsor id="412398" joined="2012-02-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-01-07">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2011-03-23">
+      <text>Referred to the Subcommittee on Domestic Monetary Policy and Technology.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2012-05-08">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSBA19" subcommittee="Domestic Monetary Policy and Technology" name="House Financial Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Inflation and prices"/>
+    <term name="Monetary policy"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/2011--Introduced.
+Amends the Federal Reserve Act to repeal the joint mandate on the Board of Governors of the Federal Reserve System and the Federal Open Market Committee to make maximum employment one of the goals of their duty to maintain long run growth of the monetary and credit aggregates commensurate with the U.S. economy's long run potential to increase production.</summary>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="111" type="h" number="4043" updated="2013-07-19T23:48:39-04:00">
+  <state datetime="2009-11-06">REFERRED</state>
+  <status>
+    <introduced datetime="2009-11-06"/>
+  </status>
+  <introduced datetime="2009-11-06"/>
+  <titles>
+    <title as="introduced" type="short">Military Spouse Pin Act</title>
+    <title as="introduced" type="official">To amend title 10, United States Code, to recognize the spouses of members of the Armed Forces who are serving in combat or have served in combat through the presentation of an official lapel button.</title>
+  </titles>
+  <sponsor id="412219"/>
+  <cosponsors>
+    <cosponsor id="400047" joined="2010-01-13"/>
+    <cosponsor id="400073" joined="2010-01-13"/>
+    <cosponsor id="400137" joined="2010-01-13"/>
+    <cosponsor id="400653" joined="2010-02-02"/>
+    <cosponsor id="400179" joined="2010-01-13"/>
+    <cosponsor id="400209" joined="2009-11-06"/>
+    <cosponsor id="400263" joined="2010-01-13"/>
+    <cosponsor id="400312" joined="2010-01-13"/>
+    <cosponsor id="400361" joined="2010-02-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-11-06">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2009-11-18">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="5233"/>
+    <bill relation="unknown" session="111" type="h" number="5333"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>11/6/2009--Introduced.
+Military Spouse Pin Act - Requires the design of a spouse-of-a-combat-veteran lapel button to identify and recognize the spouse of a member of the Armed Forces who is serving in a combat zone for a period of more than 30 days. Directs the: (1) Secretary of the military department concerned to present the button to such a spouse; and (2) Secretary of Defense (DOD) to make the button available to qualifying spouses of veterans of military conflicts that took place before the enactment of this Act.</summary>
+</bill>

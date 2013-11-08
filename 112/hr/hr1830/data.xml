@@ -1,0 +1,48 @@
+<bill session="112" type="h" number="1830" updated="2013-07-20T01:26:07-04:00">
+  <state datetime="2011-05-11">REFERRED</state>
+  <status>
+    <introduced datetime="2011-05-11"/>
+  </status>
+  <introduced datetime="2011-05-11"/>
+  <titles>
+    <title as="introduced" type="official">To authorize the interstate traffic of unpasteurized milk and milk products that are packaged for direct human consumption.</title>
+  </titles>
+  <sponsor id="400311"/>
+  <cosponsors>
+    <cosponsor id="412295" joined="2011-10-24"/>
+    <cosponsor id="400288" joined="2012-01-24"/>
+    <cosponsor id="412307" joined="2011-09-12"/>
+    <cosponsor id="412483" joined="2012-02-13"/>
+    <cosponsor id="412213" joined="2011-11-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2011-05-11">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E858"/>
+    </action>
+    <action state="REFERRED" datetime="2011-05-11">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2011-05-13">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="1955"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Agricultural marketing and promotion"/>
+    <term name="Civil actions and liability"/>
+    <term name="Food supply, safety, and labeling"/>
+  </subjects>
+  <amendments/>
+  <summary>5/11/2011--Introduced.
+Prohibits any federal department, agency, or court from taking any action that would prohibit, interfere with, regulate, or otherwise restrict the interstate traffic of milk, or a milk product, that is unpasteurized and packaged for direct human consumption based on the determination that solely because the milk or milk product is unpasteurized, it is adulterated, misbranded, or otherwise in violation of federal law.</summary>
+</bill>

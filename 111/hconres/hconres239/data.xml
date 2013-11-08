@@ -1,0 +1,67 @@
+<bill session="111" type="hc" number="239" updated="2013-07-20T00:15:04-04:00">
+  <state datetime="2010-03-05">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2010-03-05"/>
+  </status>
+  <introduced datetime="2010-02-24"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony to present the Congressional Gold Medal to the Women Airforce Service Pilots.</title>
+  </titles>
+  <sponsor id="400097"/>
+  <cosponsors>
+    <cosponsor id="400344" joined="2010-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2010-02-24">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E229"/>
+    </action>
+    <action state="REFERRED" datetime="2010-02-24">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2010-03-03T17:47:00-05:00">
+      <text>Mrs. Davis (CA) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2010-03-03T17:47:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1076-1078" label="consideration"/>
+    </action>
+    <action datetime="2010-03-03T17:47:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 239.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2010-03-03T18:03:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H1076" label="text"/>
+    </vote>
+    <action datetime="2010-03-03T18:03:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-03-03">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2010-03-05" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S1240" label="consideration"/>
+    </vote>
+    <action datetime="2010-03-05">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hc" number="237"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Aviation and airports"/>
+    <term name="Congressional tributes"/>
+    <term name="Military history"/>
+    <term name="U.S. Capitol"/>
+    <term name="Women's employment"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/2010--Passed Senate without amendment.
+Authorizes use of Emancipation Hall in the Capitol Visitor Center for a ceremony to present the Congressional Gold Medal to the Women Airforce Service Pilots.</summary>
+</bill>

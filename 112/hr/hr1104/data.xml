@@ -1,0 +1,41 @@
+<bill session="112" type="h" number="1104" updated="2013-07-20T01:19:55-04:00">
+  <state datetime="2011-03-15">REFERRED</state>
+  <status>
+    <introduced datetime="2011-03-15"/>
+  </status>
+  <introduced datetime="2011-03-15"/>
+  <titles>
+    <title as="introduced" type="short">Representation for Farmers Act</title>
+    <title as="introduced" type="official">To amend the Environmental Research, Development, and Demonstration Authorization Act of 1978 to require the appointment of a member of the Science Advisory Board based on the recommendation of the Secretary of Agriculture.</title>
+  </titles>
+  <sponsor id="412392"/>
+  <cosponsors>
+    <cosponsor id="412208" joined="2011-03-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-03-15">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2011-04-01">
+      <text>Referred to the Subcommittee on Energy and Environment.</text>
+      <committee name="House Committee on Science, Space, and Technology"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSY20" subcommittee="Energy and Environment" name="House Science, Space, and Technology"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="s" number="580"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Advisory bodies"/>
+    <term name="Agricultural conservation and pollution"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental assessment, monitoring, research"/>
+  </subjects>
+  <amendments/>
+  <summary>3/15/2011--Introduced.
+Representation for Farmers Act - Amends the Environmental Research, Development, and Demonstration Authorization Act of 1978 to modify the provision governing the composition of the membership of the Science Advisory Board to provide for the appointment of up to three Board members based on a recommendation of the Secretary of Agriculture (USDA).</summary>
+</bill>

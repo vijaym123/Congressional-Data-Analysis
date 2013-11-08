@@ -1,0 +1,85 @@
+<bill session="113" type="h" number="2353" updated="2013-11-02T06:38:49-04:00">
+  <state datetime="2013-07-22T17:04:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-07-22T17:04:00-04:00"/>
+  </status>
+  <introduced datetime="2013-06-13"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 23, United States Code, with respect to the operation of vehicles on certain Wisconsin highways, and for other purposes.</title>
+  </titles>
+  <sponsor id="400318"/>
+  <cosponsors>
+    <cosponsor id="412488" joined="2013-06-14"/>
+    <cosponsor id="400218" joined="2013-06-14"/>
+    <cosponsor id="400661" joined="2013-06-14"/>
+    <cosponsor id="412585" joined="2013-06-14"/>
+    <cosponsor id="412489" joined="2013-06-13"/>
+    <cosponsor id="400351" joined="2013-06-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-13" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-06-14">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2013-07-18">
+      <text>Subcommittee on Highways and Transit Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2013-07-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar datetime="2013-07-18" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2013-07-22T12:11:00-04:00">
+      <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-162.</text>
+    </action>
+    <calendar datetime="2013-07-22T12:11:00-04:00" calendar="Union" number="117">
+      <text>Placed on the Union Calendar, Calendar No. 117.</text>
+    </calendar>
+    <action datetime="2013-07-22T16:58:00-04:00">
+      <text>Mr. Petri moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-07-22T16:58:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4836" label="consideration"/>
+    </action>
+    <action datetime="2013-07-22T16:58:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2353.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2013-07-22T17:04:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H4836" label="text"/>
+    </vote>
+    <action datetime="2013-07-22T17:04:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-07-23">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="1299"/>
+    <bill relation="unknown" session="113" type="s" number="1299"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Motor carriers"/>
+    <term name="Motor vehicles"/>
+    <term name="Roads and highways"/>
+    <term name="Wisconsin"/>
+  </subjects>
+  <amendments/>
+  <summary>7/22/2013--Passed House without amendment.
+Permits the continued operation of trucks on any segment of the U.S. Route 41 corridor in Wisconsin designated as a route on the Interstate System that could operate legally on such segment before that designation without regard to federal weight limitation requirements.</summary>
+</bill>

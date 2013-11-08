@@ -1,0 +1,66 @@
+<bill session="112" type="h" number="6028" updated="2013-07-20T02:02:02-04:00">
+  <state datetime="2012-09-11T17:01:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2012-09-11T17:01:00-04:00"/>
+  </status>
+  <introduced datetime="2012-06-26"/>
+  <titles>
+    <title as="introduced" type="short">No-Hassle Flying Act of 2012</title>
+    <title as="passed house" type="short">No-Hassle Flying Act of 2012</title>
+    <title as="introduced" type="official">To authorize the Assistant Secretary of Homeland Security (Transportation Security Administration) to modify screening requirements for checked baggage arriving from preclearance airports, and for other purposes.</title>
+  </titles>
+  <sponsor id="412424"/>
+  <cosponsors>
+    <cosponsor id="412435" joined="2012-07-26"/>
+    <cosponsor id="400271" joined="2012-08-07"/>
+    <cosponsor id="400341" joined="2012-06-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-06-26">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2012-07-28">
+      <text>Referred to the Subcommittee on Transportation Security.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2012-09-11T16:49:00-04:00">
+      <text>Mr. Walsh (IL) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2012-09-11T16:49:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5824-5826" label="consideration"/>
+    </action>
+    <action datetime="2012-09-11T16:49:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6028.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2012-09-11T17:01:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5824" label="text"/>
+    </vote>
+    <action datetime="2012-09-11T17:01:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2012-09-12">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee activity="Referral" code="HSHM07" subcommittee="Transportation Security" name="House Homeland Security"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="s" number="3542"/>
+    <bill relation="unknown" session="112" type="s" number="3542"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Aviation and airports"/>
+    <term name="Firearms and explosives"/>
+    <term name="International law and treaties"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>9/11/2012--Passed House amended.
+No-Hassle Flying Act of 2012 - Authorizes the Assistant Secretary of Homeland Security (Transportation Security Administration [TSA]) to determine whether checked baggage on a flight or flight segment originating at an airport outside the United States where U.S. Customs and Border Protection (CBP) has established preclearance operations must be re-screened in the United States for explosives before it can continue on any additional flight or flight segment. Prohibits the Assistant Secretary from exercising this authority, however, unless an agreement is in effect between the United States and the flight originating country requiring implementation of security standards and protocols determined comparable to those of the United States and therefore sufficiently effective to enable passengers to deplane into sterile areas of U.S. airports. Requires the Assistant Secretary to report annually to Congress on the re-screening of baggage.</summary>
+</bill>

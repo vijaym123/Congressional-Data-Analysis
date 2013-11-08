@@ -1,0 +1,53 @@
+<bill session="111" type="h" number="504" updated="2013-07-19T23:16:25-04:00">
+  <state datetime="2009-01-14">REFERRED</state>
+  <status>
+    <introduced datetime="2009-01-14"/>
+  </status>
+  <introduced datetime="2009-01-14"/>
+  <titles>
+    <title as="introduced" type="short">Medicare Hearing Enhancement and Auditory Rehabilitation (HEAR) Act of 2009</title>
+    <title as="introduced" type="official">To amend title XVIII of the Social Security Act to cover hearing aids and auditory rehabilitation services under the Medicare Program.</title>
+  </titles>
+  <sponsor id="412250"/>
+  <cosponsors>
+    <cosponsor id="400043" joined="2009-10-20"/>
+    <cosponsor id="400638" joined="2009-05-20"/>
+    <cosponsor id="400140" joined="2009-01-14"/>
+    <cosponsor id="400184" joined="2010-02-04"/>
+    <cosponsor id="400235" joined="2009-05-05"/>
+    <cosponsor id="400360" joined="2010-04-15"/>
+    <cosponsor id="400380" joined="2009-01-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-01-14">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-01-14">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-01-14">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2009-01-15">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="1837"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Hearing, speech, and vision care"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>1/14/2009--Introduced.
+Medicare Hearing Enhancement and Auditory Rehabilitation (HEAR) Act of 2009 - Amends title XVIII (Medicare) of the Social Security Act to cover hearing aids and auditory rehabilitation services under the Medicare program.</summary>
+</bill>

@@ -1,0 +1,55 @@
+<bill session="111" type="h" number="5487" updated="2013-07-20T00:02:08-04:00">
+  <state datetime="2010-06-09">REFERRED</state>
+  <status>
+    <introduced datetime="2010-06-09"/>
+  </status>
+  <introduced datetime="2010-06-09"/>
+  <titles>
+    <title as="introduced" type="short">Water Resources Research Amendments Act of 2010</title>
+    <title as="introduced" type="official">To amend the Water Resources Research Act of 1984 to reauthorize grants for and require applied water supply research regarding the water resources research and technology institutes established under that Act.</title>
+  </titles>
+  <sponsor id="400290"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2010-06-15"/>
+    <cosponsor id="412382" joined="2010-06-15"/>
+    <cosponsor id="412281" joined="2010-09-16"/>
+    <cosponsor id="400237" joined="2010-07-14"/>
+    <cosponsor id="412293" joined="2010-06-15"/>
+    <cosponsor id="400259" joined="2010-06-10"/>
+    <cosponsor id="400295" joined="2010-06-15"/>
+    <cosponsor id="400299" joined="2010-06-15"/>
+    <cosponsor id="412253" joined="2010-06-10"/>
+    <cosponsor id="400620" joined="2010-06-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-06-09">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2010-06-10">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2010-06-17">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3363"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Research administration and funding"/>
+    <term name="Water quality"/>
+    <term name="Water resources funding"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <summary>6/9/2010--Introduced.
+Water Resources Research Amendments Act of 2010 - Amends the Water Resources Research Act of 1984 to: (1) authorize appropriations for water resources research and technology institutes through FY2016; and (2) require the Secretary of the Interior to conduct his or her evaluation of each institute's research and effectiveness as an institution for planning, conducting, and arranging for research at least once every five (currently, three) years.</summary>
+</bill>
