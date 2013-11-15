@@ -24,13 +24,14 @@ for congress in directories:
 					private = str(0)
 			except AttributeError:
 				private = str(0)
-			try :
-				houseCommittee = jsonDump["committees"][0]["committee"]
-			except IndexError:
-				houseCommittee = "NA"
+			houseCommittee = ""
+			for i in jsonDump["committees"]:
+				houseCommittee += i["committee"] + ","
+			if houseCommittee == "":
+				houseCommittee = "NA,"
 			line = str(jsonDump["congress"])+","+billType[jsonDump["bill_type"]]+","+jsonDump["number"]+","+private+"\n"
 			fwHouseBill.write(line)
-			fwHouseCommittee.write(houseCommittee+"\n")
+			fwHouseCommittee.write(houseCommittee[:-1]+"\n")
 
 fwHouseBill.close()
 fwHouseCommittee.close()
