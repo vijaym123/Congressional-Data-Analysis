@@ -1,0 +1,51 @@
+<bill session="113" type="sc" number="22" updated="2013-11-02T06:52:12-04:00">
+  <state datetime="2013-08-02T12:52:00-04:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2013-08-02T12:52:00-04:00"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution providing for a conditional adjournment or recess of the Senate and an adjournment of the House of Representatives.</title>
+  </titles>
+  <sponsor id="300082"/>
+  <cosponsors/>
+  <actions>
+    <vote how="by Unanimous Consent" type="vote" datetime="2013-08-01" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6162" label="consideration"/>
+      <reference ref="CR S6162" label="text as passed Senate"/>
+      <reference ref="CR S6237" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2013-08-01T18:18:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2013-08-01T19:39:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2013-08-02T12:52:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H5377" label="consideration"/>
+    </action>
+    <vote how="without objection" type="vote2" datetime="2013-08-02T12:52:00-04:00" where="h" result="pass" state="PASSED:CONCURRENTRES">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H5377" label="text"/>
+    </vote>
+    <action datetime="2013-08-02T12:52:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional operations and organization"/>
+    <term name="House of Representatives"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/2013--Passed Senate without amendment.
+Declares that when the Senate recesses or adjourns: (1) on any day from Thursday, August 1, 2013, through Sunday, August 11, 2013, it stand recessed or adjourned until 12:00 noon on Monday, August 12, 2013; and (2) on such date, it stand adjourned until 12:00 noon on Monday, September 9, 2013. Declares that when the House adjourns on any legislative day from Friday, August 2, 2013, through Friday, September 6, 2013, it stand adjourned until 2:00 p.m. on Monday, September 9, 2013.</summary>
+</bill>

@@ -1,0 +1,71 @@
+<bill session="112" type="sj" number="24" updated="2013-07-20T02:10:27-04:00">
+  <state datetime="2011-12-14">FAIL:ORIGINATING:SENATE</state>
+  <status>
+    <unknown datetime="2011-12-14"/>
+  </status>
+  <introduced datetime="2011-08-02"/>
+  <titles>
+    <title as="introduced" type="official">A joint resolution proposing an amendment to the Constitution relative to requiring a balanced budget.</title>
+    <title as="amended by senate" type="official">Joint resolution proposing a balanced budget amendment to the Constitution of the United States.</title>
+  </titles>
+  <sponsor id="400412"/>
+  <cosponsors>
+    <cosponsor id="300005" joined="2011-08-02"/>
+    <cosponsor id="412391" joined="2011-08-02"/>
+    <cosponsor id="412243" joined="2011-08-02"/>
+    <cosponsor id="300077" joined="2011-08-02"/>
+    <cosponsor id="300078" joined="2011-08-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-08-02">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2011-11-30">
+      <text>Committee on the Judiciary Subcommittee on the Constitution, Civil Rights and Human Rights. Hearings held. With printed Hearing: S.Hrg. 112-512.</text>
+      <committee name="Committee on the Judiciary"/>
+    </action>
+    <action datetime="2011-12-13">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent as pursuant to the Budget Control Act of 2011.</text>
+    </action>
+    <action datetime="2011-12-13">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S8507-8508" label="consideration"/>
+    </action>
+    <action datetime="2011-12-14">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S8565-8567" label="consideration"/>
+    </action>
+    <vote state="FAIL:ORIGINATING:SENATE" datetime="2011-12-14" how="roll" result="fail" roll="228" type="vote" where="s">
+      <text>Failed of passage in Senate by Yea-Nay Vote. 21 - 79. Record Vote Number: 228.</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+    <committee activity="Hearings" code="SSJU21" subcommittee="Constitution, Civil Rights and Human Rights" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="hj" number="1"/>
+    <bill relation="unknown" session="112" type="hj" number="4"/>
+    <bill relation="unknown" session="112" type="hj" number="10"/>
+    <bill relation="unknown" session="112" type="hj" number="18"/>
+    <bill relation="unknown" session="112" type="hj" number="41"/>
+    <bill relation="unknown" session="112" type="hj" number="54"/>
+    <bill relation="unknown" session="112" type="hj" number="89"/>
+    <bill relation="unknown" session="112" type="sj" number="3"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Budget process"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Government trust funds"/>
+    <term name="Income tax rates"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="Social security and elderly assistance"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1459"/>
+  </amendments>
+  <summary>8/2/2011--Introduced.
+Constitutional Amendment - Prohibits outlays for a fiscal year (except those for repayment of debt principal) from exceeding total receipts for that fiscal year (except those derived from borrowing) unless Congress, by a three-fifths roll call vote of each chamber, authorizes a specific excess of outlays over receipts. Excludes receipts (including attributable interest) and outlays of the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, or either of their successor funds, from consideration as receipts or outlays for purposes of this Amendment. Directs the President to submit a balanced budget to Congress annually. Authorizes waivers of these provisions when a declaration of war is in effect or under other specified circumstances involving military conflict. Prohibits Congress from passing any bill that provides a net reduction in individual income taxes for those with incomes over $1 million (as may be adjusted by Congress to account for inflation) if, after enactment, total outlays would exceed total receipts in any fiscal year affected by the bill. Prohibits a federal or state court from ordering any reduction in the Social Security benefits authorized by law, including any benefits provided from the Federal Old-Age and Survivors Insurance Trust Fund, the Federal Disability Insurance Trust Fund, or either of their successor funds.</summary>
+</bill>

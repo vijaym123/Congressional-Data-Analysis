@@ -1,0 +1,42 @@
+<bill session="112" type="sr" number="617" updated="2013-07-20T02:15:53-04:00">
+  <state datetime="2012-12-20">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2012-12-20"/>
+  </status>
+  <introduced datetime="2012-12-13"/>
+  <titles>
+    <title as="introduced" type="official">A resolution congratulating the recipient of the 2012 Heisman Memorial Trophy.</title>
+  </titles>
+  <sponsor id="300054"/>
+  <cosponsors>
+    <cosponsor id="300027" joined="2012-12-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-12-13">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S8043-8044" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2012-12-20">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S8320" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2012-12-20" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S8320" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Sports and recreation"/>
+    <term name="Congressional tributes"/>
+    <term name="Higher education"/>
+    <term name="School athletics"/>
+    <term name="Texas"/>
+  </subjects>
+  <amendments/>
+  <summary>12/20/2012--Passed Senate without amendment.
+Congratulates Johnny Manziel for winning the 2012 Heisman Memorial Trophy.</summary>
+</bill>

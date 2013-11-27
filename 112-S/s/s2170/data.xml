@@ -1,0 +1,107 @@
+<bill session="112" type="s" number="2170" updated="2013-07-20T02:35:18-04:00">
+  <state datetime="2012-12-28">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2012-12-28"/>
+  </status>
+  <introduced datetime="2012-03-07"/>
+  <titles>
+    <title as="introduced" type="short">Hatch Act Modernization Act of 2012</title>
+    <title as="passed house" type="short">Hatch Act Modernization Act of 2012</title>
+    <title as="reported to senate" type="short">Hatch Act Modernization Act of 2012</title>
+    <title as="passed senate" type="short">Hatch Act Modernization Act of 2012</title>
+    <title as="enacted" type="short">Hatch Act Modernization Act of 2012</title>
+    <title as="introduced" type="official">A bill to amend the provisions of title 5, United States Code, which are commonly referred to as the "Hatch Act" to eliminate the provision preventing certain State and local employees from seeking elective office, clarify the application of certain provisions to the District of Columbia, and modify the penalties which may be imposed for certain violations under subchapter III of chapter 73 of that title.</title>
+    <title as="amended by senate" type="official">A bill to amend the provisions of title 5, United States Code, which are commonly referred to as the 'Hatch Act', to scale back the provision forbidding certain State and local employees from seeking elective office, clarify the application of certain provisions to the District of Columbia, and modify the penalties which may be imposed for certain violations under subchapter III of chapter 73 of that title.</title>
+  </titles>
+  <sponsor id="300001"/>
+  <cosponsors>
+    <cosponsor id="412495" joined="2012-03-07"/>
+    <cosponsor id="300066" joined="2012-03-07"/>
+    <cosponsor id="300067" joined="2012-03-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2012-03-07">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1461"/>
+    </action>
+    <action state="REFERRED" datetime="2012-03-07">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <reference ref="CR S1461-1462" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2012-03-13">
+      <text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Oversight of Government Management, the Federal Workforce, and the District of Columbia.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-06-29">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2012-09-13">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute and an amendment to the title. With written report No. 112-211.</text>
+    </action>
+    <calendar datetime="2012-09-13" calendar="Senate Legislative" under="General Orders" number="508">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 508.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2012-11-30" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.</text>
+      <reference ref="CR S7307-7308" label="consideration"/>
+      <reference ref="CR S7307-7308" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2012-12-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2012-12-03T16:39:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2012-12-03">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2012-12-19T15:44:00-05:00">
+      <text>Mr. Farenthold moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2012-12-19T15:44:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7320-7323" label="consideration"/>
+    </action>
+    <action datetime="2012-12-19T15:44:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 2170.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2012-12-19T16:09:00-05:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H7320" label="text"/>
+    </vote>
+    <action datetime="2012-12-19T16:09:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2012-12-20">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2012-12-28">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2012-12-28" type="public" number="112-230">
+      <text>Became Public Law No: 112-230.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSGA03" subcommittee="Oversight of Government Management, the Federal Workforce, and the District of Columbia" name="Senate Homeland Security and Governmental Affairs"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="h" number="4152"/>
+    <bill relation="unknown" session="112" type="h" number="4186"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative remedies"/>
+    <term name="District of Columbia"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Merit Systems Protection Board"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>12/28/2012--Public Law.
+Hatch Act Modernization Act of 2012 - (Sec. 2) Allows a state or local officer or employee to be a candidate for partisan elective office unless the salary of such officer or employee is paid completely, directly or indirectly, by loans or grants made by the United States or a federal agency. (Sec. 3) Redefines "state or local agency" for purposes of the Hatch Act to include the executive branch of the District of Columbia, or an agency or department thereof. Extends the exemption from Hatch Act requirements for state or local officers or employees to individuals employed by an educational or research institution, establishment, agency or system supported in whole or in part by the District of Columbia. Extends the exemption from the prohibition against running for elective office to the head of an executive department of the District of Columbia who is not classified under an applicable merit or civil-service system. Extends to agencies of the District of Columbia provisions requiring the the Merit System Protection Board (MSPB) to withhold funds from agencies that reappoint employees removed for violating the Hatch Act within 18 months after removal. Exempts individuals employed or holding office in the District of Columbia from provisions of the Hatch Act applicable to federal employees. Makes federal employees living in the District of Columbia eligible to participate in local politics to the same extent as federal employees living in nearby areas of Maryland or Virginia. (Sec. 4) Replaces existing penalty provisions for violations of the Hatch Act to make an offending employee subject to removal (currently, removal is mandatory), reduction in grade, debarment from federal employment for five years, suspension, reprimand, or a civil penalty of not more than $1,000. (Sec. 5) Makes the new penalties imposed by this Act applicable to violations occurring before, on, or after the effective date of this Act, unless, before the effective date of this Act, the Special Counsel has presented a complaint for disciplinary action with respect to an alleged violation or the employee alleged to have committed the violation has entered into a signed settlement agreement with the Special Counsel.</summary>
+</bill>

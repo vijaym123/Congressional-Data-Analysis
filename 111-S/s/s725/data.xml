@@ -1,0 +1,42 @@
+<bill session="111" type="s" number="725" updated="2013-07-20T00:29:54-04:00">
+  <state datetime="2009-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2009-03-26"/>
+  </status>
+  <introduced datetime="2009-03-26"/>
+  <titles>
+    <title as="introduced" type="short">Equity for Our Nation's Self Employed Act of 2009</title>
+    <title as="introduced" type="official">A bill to amend the Internal Revenue Code of 1986 to allow self-employed individuals to deduct health insurance costs in computing self-employment taxes.</title>
+  </titles>
+  <sponsor id="300009"/>
+  <cosponsors>
+    <cosponsor id="300052" joined="2009-03-26"/>
+    <cosponsor id="300063" joined="2009-09-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-03-26">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3925"/>
+    </action>
+    <action state="REFERRED" datetime="2009-03-26">
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <reference ref="CR S3925" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="h" number="1470"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Income tax deductions"/>
+    <term name="Income tax rates"/>
+    <term name="Self-employed"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2009--Introduced.
+Equity for Our Nation's Self Employed Act of 2009 - Amends the Internal Revenue Code to allow self-employed individuals to deduct health insurance costs in computing the tax on self-employment income.</summary>
+</bill>

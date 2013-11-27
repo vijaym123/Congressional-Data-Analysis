@@ -1,0 +1,56 @@
+<bill session="111" type="sr" number="427" updated="2013-07-20T00:20:01-04:00">
+  <state datetime="2010-03-26">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2010-03-26"/>
+  </status>
+  <introduced datetime="2010-03-01"/>
+  <titles>
+    <title as="introduced" type="official">A resolution designating the first week of April 2010 as "National Asbestos Awareness Week".</title>
+  </titles>
+  <sponsor id="300005"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2010-03-01"/>
+    <cosponsor id="300038" joined="2010-03-01"/>
+    <cosponsor id="300043" joined="2010-03-01"/>
+    <cosponsor id="400194" joined="2010-03-01"/>
+    <cosponsor id="300065" joined="2010-03-01"/>
+    <cosponsor id="300076" joined="2010-03-01"/>
+    <cosponsor id="300082" joined="2010-03-01"/>
+    <cosponsor id="412244" joined="2010-03-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-03-01">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S859" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2010-03-26">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2010-03-26">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S2167" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2010-03-26" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.</text>
+      <reference ref="CR S2167" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hr" number="1138"/>
+    <bill relation="unknown" session="111" type="sr" number="57"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Health promotion and preventive care"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3719"/>
+  </amendments>
+  <summary>3/26/2010--Passed Senate without amendment.
+Designates the first week of April 2010 as National Asbestos Awareness Week. Urges the Surgeon General to warn and educate people about asbestos exposure, which may be hazardous to their health.</summary>
+</bill>

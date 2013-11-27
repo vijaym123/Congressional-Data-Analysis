@@ -1,0 +1,83 @@
+<bill session="111" type="s" number="1338" updated="2013-07-20T00:35:34-04:00">
+  <state datetime="2010-12-14">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2010-12-14"/>
+  </status>
+  <introduced datetime="2009-06-24"/>
+  <titles>
+    <title as="introduced" type="official">A bill to require the accreditation of English language training programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="300019"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2009-06-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-24">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2010-09-27">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S7559" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2010-09-27" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S7559" label="text"/>
+    </vote>
+    <action datetime="2010-09-28">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2010-09-28T12:05:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2010-09-28">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2010-12-01T15:50:00-05:00">
+      <text>Mr. Conyers moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2010-12-01T15:50:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7817-7818" label="consideration"/>
+    </action>
+    <action datetime="2010-12-01T15:50:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 1338.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2010-12-01T15:57:00-05:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H7817-7818" label="text"/>
+    </vote>
+    <action datetime="2010-12-01T15:57:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2010-12-01">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2010-12-03">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2010-12-14">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2010-12-14" type="public" number="111-306">
+      <text>Became Public Law No: 111-306.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="h" number="2361"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Area studies and international education"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Language arts"/>
+    <term name="Licensing and registrations"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>12/14/2010--Public Law.
+Amends the Immigration and Nationality Act to require that a nonimmigrant foreign student seeking to enter the United States to study at a language training program enroll at a language program that is accredited by an accrediting agency recognized by the Secretary of Education. Provides for a specified three-year exception to such requirement.</summary>
+</bill>

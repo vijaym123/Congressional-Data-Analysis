@@ -1,0 +1,53 @@
+<bill session="111" type="sr" number="200" updated="2013-07-20T00:18:03-04:00">
+  <state datetime="2009-08-03">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2009-08-03"/>
+  </status>
+  <introduced datetime="2009-06-23"/>
+  <titles>
+    <title as="introduced" type="official">A resolution designating September 12, 2009, as "National Childhood Cancer Awareness Day".</title>
+  </titles>
+  <sponsor id="400412"/>
+  <cosponsors>
+    <cosponsor id="300006" joined="2009-07-27"/>
+    <cosponsor id="300021" joined="2009-07-22"/>
+    <cosponsor id="300026" joined="2009-07-20"/>
+    <cosponsor id="300042" joined="2009-07-15"/>
+    <cosponsor id="400194" joined="2009-06-23"/>
+    <cosponsor id="300064" joined="2009-07-23"/>
+    <cosponsor id="300092" joined="2009-07-07"/>
+    <cosponsor id="412321" joined="2009-07-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-06-23">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S6947" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2009-08-03">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S8699" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2009-08-03" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S8699" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hr" number="576"/>
+    <bill relation="unknown" session="111" type="hr" number="1154"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cancer"/>
+    <term name="Child health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Medical research"/>
+  </subjects>
+  <amendments/>
+  <summary>8/3/2009--Passed Senate without amendment.
+Designates September 12, 2009, as National Childhood Cancer Awareness Day. Pledges to make the prevention and cure of cancer a public health priority.Urges public and private sector efforts to promote awareness, invest in research, and improve treatments for childhood cancer.</summary>
+</bill>

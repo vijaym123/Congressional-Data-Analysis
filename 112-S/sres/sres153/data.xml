@@ -1,0 +1,52 @@
+<bill session="112" type="sr" number="153" updated="2013-07-20T02:11:57-04:00">
+  <state datetime="2011-05-09">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2011-05-09"/>
+  </status>
+  <introduced datetime="2011-04-14"/>
+  <titles>
+    <title as="introduced" type="official">A resolution recognizing the 25th anniversary of the Chernobyl nuclear disaster.</title>
+  </titles>
+  <sponsor id="300070"/>
+  <cosponsors>
+    <cosponsor id="300060" joined="2011-04-14"/>
+    <cosponsor id="400272" joined="2011-05-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-04-14">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S2544" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2011-05-09">
+      <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2011-05-09">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S2799" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2011-05-09" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S2799" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Accidents"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Europe"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Nuclear power"/>
+    <term name="Ukraine"/>
+  </subjects>
+  <amendments>
+    <amendment number="s319"/>
+  </amendments>
+  <summary>5/9/2011--Passed Senate amended.
+Recognizes the 25th anniversary of the Chernobyl nuclear disaster and the courage of the Ukrainian people in addressing its consequences. Commends efforts to mitigate the consequences of the Chernobyl nuclear disaster.</summary>
+</bill>

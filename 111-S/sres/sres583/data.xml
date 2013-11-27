@@ -1,0 +1,52 @@
+<bill session="111" type="sr" number="583" updated="2013-07-20T00:21:23-04:00">
+  <state datetime="2010-09-23">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2010-09-23"/>
+  </status>
+  <introduced datetime="2010-07-15"/>
+  <titles>
+    <title as="introduced" type="official">A resolution expressing support for designation of 2011 as "World Veterinary Year" to bring attention to and show appreciation for the veterinary profession on its 250th anniversary.</title>
+  </titles>
+  <sponsor id="300040"/>
+  <cosponsors>
+    <cosponsor id="300001" joined="2010-08-12"/>
+    <cosponsor id="300093" joined="2010-09-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-07-15">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S5972" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2010-09-23">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2010-09-23">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S7426" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2010-09-23" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S7426" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hr" number="1531"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Food supply, safety, and labeling"/>
+    <term name="Health personnel"/>
+    <term name="Veterinary medicine and animal diseases"/>
+  </subjects>
+  <amendments>
+    <amendment number="s4657"/>
+  </amendments>
+  <summary>9/23/2010--Passed Senate amended.
+Expresses support for: (1) the designation of 2011 as World Veterinary Year; and (2) such Year's goals and ideals of bringing attention to and expressing appreciation for the veterinary profession's contributions to animal health, public health, animal welfare, and food safety.</summary>
+</bill>

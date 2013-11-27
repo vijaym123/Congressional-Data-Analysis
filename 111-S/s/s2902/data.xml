@@ -1,0 +1,66 @@
+<bill session="111" type="s" number="2902" updated="2013-07-20T00:51:56-04:00">
+  <state datetime="2010-12-13">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2010-12-13"/>
+  </status>
+  <introduced datetime="2009-12-17"/>
+  <titles>
+    <title as="introduced" type="short">Federal Acquisition Institute Improvement Act of 2009</title>
+    <title as="reported to senate" type="short">Federal Acquisition Institute Act of 2010</title>
+    <title as="passed senate" type="short">Federal Acquisition Institute Act of 2010</title>
+    <title as="introduced" type="official">A bill to improve the Federal Acquisition Institute.</title>
+  </titles>
+  <sponsor id="300025"/>
+  <cosponsors>
+    <cosponsor id="300001" joined="2010-07-27"/>
+    <cosponsor id="300007" joined="2009-12-17"/>
+    <cosponsor id="412384" joined="2010-07-27"/>
+    <cosponsor id="300067" joined="2010-07-27"/>
+    <cosponsor id="412243" joined="2009-12-17"/>
+    <cosponsor id="300098" joined="2010-07-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-12-17">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2010-07-28">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2010-12-08">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="2010-12-08" calendar="Senate Legislative" under="General Orders" number="679">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 679.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2010-12-13" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S8947-8948" label="consideration"/>
+      <reference ref="CR S8947-8948" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2010-12-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2010-12-14T16:06:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2010-12-14">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional oversight"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>12/13/2010--Passed Senate amended.
+Federal Acquisition Institute Act of 2010 - Amends the National Defense Authorization Act for Fiscal Year 2008 to provide that the Associate Administrator for Acquisition Workforce Programs shall: (1) be chosen on the basis of demonstrated knowledge and expertise in acquisition, human capital, and management; (2) be located in the Office of Federal Procurement Policy; and (3) implement acquisition workforce programs. Requires the Federal Acquisition Institute (FAI) to: (1) foster and promote the development of a professional acquisition workforce government-wide; (2) promote and coordinate government-wide research and studies to improve the procurement process and the laws, policies, methods, regulations, procedures, and forms relating to acquisition by the executive agencies; (3) collect and analyze acquisition workforce data from the Office of Personnel Management (OPM), from the heads of executive agencies, and through periodic surveys of individual employees; (4) periodically analyze acquisition career fields to identify critical competencies, duties, tasks, and related academic prerequisites, skills, and knowledge; (5) coordinate and assist agencies in identifying and recruiting highly qualified candidates for acquisition fields; (6) develop instructional materials for acquisition personnel in coordination with private and public acquisition colleges and training facilities; (7) evaluate the effectiveness of training and career development programs for acquisition personnel; (8) promote the establishment and utilization of academic programs by colleges and universities in acquisition fields; and (9) facilitate interagency intern and training programs. Requires: (1) the Director of the Office of Management and Budget (OMB) and the Administrator of General Services (GSA) to provide FAI with the necessary budget resources and authority to support government-wide training standards and certification requirements necessary to enhance the mobility and career opportunities of the federal acquisition workforce; and (2) the GSA Administrator to provide FAI with amounts from the acquisition training fund sufficient to meet the annual budget for FAI requested by the Administrator for Federal Procurement Policy. Directs FAI to report through its Board of Directors directly to the Administrator for Federal Procurement Policy. Sets forth the composition of the Board, which shall provide general direction to FAI and make recommendations to the Administrator regarding the development and execution of FAI's annual budget. Requires the Director of FAI to be appointed by, and report directly to, the Administrator. Directs: (1) the Administrator for Federal Procurement Policy, acting through FAI, to provide and update government-wide training standards and certification requirements; (2) all federal civilian agency acquisition internship or acquisition training programs to follow guidelines provided by the Office of Federal Procurement Policy to ensure consistent training standards necessary to develop uniform core competencies throughout the federal government; and (3) the Administrator to submit to specified congressional committees an annual report on the projected budget needs and expense plans of FAI. Directs the GSA Administrator to manage the acquisition workforce training fund through FAI to support FAI activities and to ensure that funds collected are only used for such purposes.</summary>
+</bill>

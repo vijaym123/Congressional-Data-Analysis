@@ -1,0 +1,39 @@
+<bill session="111" type="s" number="3082" updated="2013-07-20T00:53:29-04:00">
+  <state datetime="2010-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2010-03-05"/>
+  </status>
+  <introduced datetime="2010-03-05"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend title 38, United States Code, to authorize individuals who are pursuing programs of rehabilitation, education, or training under laws administered by the Secretary of Veterans Affairs to receive work-study allowances for certain outreach services provided through congressional offices, and for other purposes.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2010-03-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2010-03-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1230"/>
+    </action>
+    <action state="REFERRED" datetime="2010-03-05">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <reference ref="CR S1230" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="h" number="4765"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional officers and employees"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/2010--Introduced.
+Includes within authorized work-study activities, for individuals entitled to work-study allowances through the Department of Veterans Affairs (VA) in connection with VA rehabilitation, education, or training programs, the following activities carried out at offices of Members of Congress: (1) the distribution of information to members of the Armed Forces, veterans, and their dependents concerning available benefits and services under governmental and nongovernmental programs; and (2) the preparation and processing of papers and other documents, including those used to assist in the preparation and presentation of veterans' benefits claims.</summary>
+</bill>

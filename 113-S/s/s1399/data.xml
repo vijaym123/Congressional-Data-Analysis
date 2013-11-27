@@ -1,0 +1,42 @@
+<bill session="113" type="s" number="1399" updated="2013-11-02T07:04:02-04:00">
+  <state datetime="2013-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-30"/>
+  </status>
+  <introduced datetime="2013-07-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Servicemembers Civil Relief Act to extend the interest rate limitation on debt entered into during military service to debt incurred during military service to consolidate or refinance student loans incurred before military service.</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-07-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <reference ref="CR S6077" label="text of measure as introduced in Senate"/>
+    </action>
+    <action datetime="2013-07-31">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S6104"/>
+    </action>
+    <action datetime="2013-10-30">
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+      <committee name="Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="2859"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Student aid and college costs"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/30/2013--Introduced.
+Amends the Servicemembers Civil Relief Act to extend the 6% interest rate limitation on debt entered into during a servicemember's military service to any debt entered into to consolidate or refinance one or more student loans incurred before such service.</summary>
+</bill>

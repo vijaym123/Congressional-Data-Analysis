@@ -1,0 +1,50 @@
+<bill session="111" type="sr" number="498" updated="2013-07-20T00:20:38-04:00">
+  <state datetime="2010-04-27">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2010-04-27"/>
+  </status>
+  <introduced datetime="2010-04-22"/>
+  <titles>
+    <title as="introduced" type="official">A resolution designating April 2010 as "National Child Abuse Prevention Month".</title>
+  </titles>
+  <sponsor id="300025"/>
+  <cosponsors>
+    <cosponsor id="300034" joined="2010-04-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2010-04-22">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2595"/>
+    </action>
+    <action state="REFERRED" datetime="2010-04-22">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S2594-2595" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2010-04-27">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S2712" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2010-04-27" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S2712" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hr" number="337"/>
+    <bill relation="unknown" session="111" type="hr" number="1293"/>
+  </relatedbills>
+  <subjects>
+    <term name="Families"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Crime prevention"/>
+    <term name="Crimes against children"/>
+    <term name="Domestic violence and child abuse"/>
+  </subjects>
+  <amendments/>
+  <summary>4/27/2010--Passed Senate without amendment.
+Designates April 2010 as National Child Abuse Prevention Month.</summary>
+</bill>

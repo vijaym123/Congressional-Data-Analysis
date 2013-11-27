@@ -1,0 +1,39 @@
+<bill session="111" type="sc" number="70" updated="2013-07-20T00:23:08-04:00">
+  <state datetime="2010-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="2010-08-05"/>
+  </status>
+  <introduced datetime="2010-08-05"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution supporting the observance of "Spirit of '45 Day".</title>
+  </titles>
+  <sponsor id="300025"/>
+  <cosponsors>
+    <cosponsor id="300001" joined="2010-08-05"/>
+    <cosponsor id="400054" joined="2010-08-05"/>
+    <cosponsor id="300056" joined="2010-08-05"/>
+    <cosponsor id="300064" joined="2010-08-05"/>
+    <cosponsor id="300067" joined="2010-08-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-08-05">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S6909" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="hc" number="226"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Conflicts and wars"/>
+    <term name="Military history"/>
+  </subjects>
+  <amendments/>
+  <summary>8/5/2010--Introduced.
+Supports the observance of Spirit of '45 Day (commemorating the anniversary of the end of World War II on August 14, 1945).</summary>
+</bill>

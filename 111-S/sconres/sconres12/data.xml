@@ -1,0 +1,56 @@
+<bill session="111" type="sc" number="12" updated="2013-07-20T00:22:35-04:00">
+  <state datetime="2009-03-24">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2009-03-24"/>
+  </status>
+  <introduced datetime="2009-03-23"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution recognizing and honoring the signing by President Abraham Lincoln of the legislation authorizing the establishment of collegiate programs at Gallaudet University.</title>
+  </titles>
+  <sponsor id="400050"/>
+  <cosponsors>
+    <cosponsor id="300051" joined="2009-03-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-03-23">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S3618" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2009-03-24">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S3735" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2009-03-24" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S3735" label="text"/>
+    </vote>
+    <action datetime="2009-03-25T14:22:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2009-03-25">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2009-03-25T14:32:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hc" number="77"/>
+    <bill relation="unknown" session="111" type="hc" number="77"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="District of Columbia"/>
+    <term name="Hearing, speech, and vision care"/>
+    <term name="Higher education"/>
+    <term name="U.S. history"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/2009--Passed Senate without amendment.
+Congratulates and honors Gallaudet University on the 145th anniversary of President Abraham Lincoln's signing of the legislation authorizing the establishment of collegiate programs at Gallaudet University. Congratulates Gallaudet University for 145 years of unique and exceptional service to the deaf people of the United States and the world deaf community.</summary>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="111" type="sr" number="537" updated="2013-07-20T00:21:00-04:00">
+  <state datetime="2010-05-26">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2010-05-26"/>
+  </status>
+  <introduced datetime="2010-05-24"/>
+  <titles>
+    <title as="introduced" type="official">A resolution designating May 2010 as "National Brain Tumor Awareness Month".</title>
+  </titles>
+  <sponsor id="300025"/>
+  <cosponsors>
+    <cosponsor id="412246" joined="2010-05-24"/>
+    <cosponsor id="300047" joined="2010-05-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2010-05-24">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4147"/>
+    </action>
+    <action state="REFERRED" datetime="2010-05-24">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S4147" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2010-05-26">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S4470" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2010-05-26" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S4470" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hr" number="1410"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cancer"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Health care quality"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Medical research"/>
+    <term name="Neurological disorders"/>
+    <term name="Public-private cooperation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/26/2010--Passed Senate without amendment.
+Designates May 2010 as National Brain Tumor Awareness Month. Expresses support for: (1) efforts to develop better treatments to improve the quality of life and the long-term prognosis of individuals diagnosed with a brain tumor; and (2) individuals who are battling brain tumors, as well as their families, friends, and caregivers. Encourages increased awareness of brain tumors to honor individuals who are living with or who have lost their lives to brain tumors. Urges a collaborative public-private approach to brain tumor research.</summary>
+</bill>

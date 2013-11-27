@@ -1,0 +1,46 @@
+<bill session="111" type="s" number="3801" updated="2013-07-20T00:59:40-04:00">
+  <state datetime="2010-09-16">REFERRED</state>
+  <status>
+    <introduced datetime="2010-09-16"/>
+  </status>
+  <introduced datetime="2010-09-16"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend title 38, United States Code, to increase the maximum age for children eligible for medical care under the CHAMPVA program, and for other purposes.</title>
+  </titles>
+  <sponsor id="300001"/>
+  <cosponsors>
+    <cosponsor id="300042" joined="2010-09-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2010-09-16">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S7177"/>
+    </action>
+    <action datetime="2010-09-16">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S7177"/>
+    </action>
+    <action state="REFERRED" datetime="2010-09-16">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <reference ref="CR S7177-7178" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="5206"/>
+    <bill relation="unknown" session="111" type="s" number="3356"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Child health"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>9/16/2010--Introduced.
+Makes a child eligible for medical care under the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA) eligible for such care until the child's 26th birthday, regardless of the child's marital status. Makes such provision inapplicable before January 1, 2014, to a child who is eligible to enroll in an employer-sponsored health care plan.</summary>
+</bill>

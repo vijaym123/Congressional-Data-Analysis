@@ -1,0 +1,42 @@
+<bill session="113" type="s" number="1422" updated="2013-11-02T07:04:14-04:00">
+  <state datetime="2013-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-01"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Congressional Budget Act of 1974 respecting the scoring of preventive health savings.</title>
+  </titles>
+  <sponsor id="400064"/>
+  <cosponsors>
+    <cosponsor id="300030" joined="2013-08-01"/>
+    <cosponsor id="412545" joined="2013-08-01"/>
+    <cosponsor id="412323" joined="2013-08-01"/>
+    <cosponsor id="400413" joined="2013-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-01">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S6215-6216"/>
+    </action>
+    <action datetime="2013-08-01" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Budget.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBU" name="Senate Budget" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="2663"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Accounting and auditing"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Budget process"/>
+    <term name="Congressional oversight"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health promotion and preventive care"/>
+  </subjects>
+  <amendments/>
+</bill>

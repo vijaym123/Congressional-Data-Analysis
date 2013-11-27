@@ -1,0 +1,122 @@
+<bill session="111" type="s" number="3397" updated="2013-07-20T00:35:09-04:00">
+  <state datetime="2010-10-12">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2010-10-12"/>
+  </status>
+  <introduced datetime="2010-05-24"/>
+  <titles>
+    <title as="introduced" type="short">Secure and Responsible Drug Disposal Act of 2010</title>
+    <title as="passed house" type="short">Secure and Responsible Drug Disposal Act of 2010</title>
+    <title as="reported to senate" type="short">Secure and Responsible Drug Disposal Act of 2010</title>
+    <title as="passed senate" type="short">Secure and Responsible Drug Disposal Act of 2010</title>
+    <title as="enacted" type="short">Secure and Responsible Drug Disposal Act of 2010</title>
+    <title as="introduced" type="official">A bill to amend the Controlled Substances Act to provide for take-back disposal of controlled substances in certain instances, and for other purposes.</title>
+  </titles>
+  <sponsor id="412242"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2010-05-24"/>
+    <cosponsor id="300025" joined="2010-07-12"/>
+    <cosponsor id="412248" joined="2010-07-14"/>
+    <cosponsor id="300027" joined="2010-05-24"/>
+    <cosponsor id="300038" joined="2010-08-03"/>
+    <cosponsor id="300042" joined="2010-07-22"/>
+    <cosponsor id="412223" joined="2010-06-21"/>
+    <cosponsor id="300048" joined="2010-05-24"/>
+    <cosponsor id="300061" joined="2010-07-29"/>
+    <cosponsor id="300087" joined="2010-08-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-05-24">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2010-07-29">
+      <text>Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2010-07-29">
+      <text>Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.</text>
+    </action>
+    <calendar datetime="2010-07-29" calendar="Senate Legislative" under="General Orders" number="495">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 495.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2010-08-03" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with amendments by Unanimous Consent.</text>
+      <reference ref="CR S6666-6667" label="consideration"/>
+      <reference ref="CR S6666-6667" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2010-08-04">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2010-08-09T19:07:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2010-08-09">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2010-08-09">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2010-08-09">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2010-09-29T20:06:00-04:00">
+      <text>Mr. Inslee moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2010-09-29T20:06:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7316-7318" label="consideration"/>
+    </action>
+    <action datetime="2010-09-29T20:06:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 3397.</text>
+    </action>
+    <vote state="PASS_BACK:HOUSE" datetime="2010-09-29T20:19:00-04:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7316" label="text"/>
+    </vote>
+    <action datetime="2010-09-29T20:19:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2010-09-29">
+      <text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text>
+    </action>
+    <action datetime="2010-09-29">
+      <text>Senate concurred in House Amendment to Senate bill by Unanimous Consent.</text>
+      <reference ref="CR S7770" label="consideration"/>
+      <reference ref="CR S7770" label="text as Senate agreed to House amendment in Senate"/>
+    </action>
+    <topresident datetime="2010-09-29">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2010-09-30">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2010-10-12">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2010-10-12" type="public" number="111-273">
+      <text>Became Public Law No: 111-273.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="1359"/>
+    <bill relation="unknown" session="111" type="s" number="1292"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Justice"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Prescription drugs"/>
+    <term name="Solid waste and recycling"/>
+  </subjects>
+  <amendments/>
+  <summary>10/12/2010--Public Law.
+Secure and Responsible Drug Disposal Act of 2010 - Amends the Controlled Substances Act to allow an ultimate user of a controlled substance (or, if deceased, any person lawfully entitled to dispose of the ultimate user's property) who has lawfully obtained such substance to deliver that substance to another person, without being registered, for disposal if: (1) the person receiving the controlled substance is authorized to engage in such activity; and (2) the disposal takes place in accordance with regulations issued by the Attorney General to prevent diversion of controlled substances. Requires the Attorney General, in developing regulations under this Act, to consider the public health and safety, as well as the ease and cost of program implementation and participation by various communities. Permits the Attorney General to authorize long-term care facilities to dispose of controlled substances on behalf of ultimate users who reside, or have resided, at such facilities in a manner that will provide effective controls against diversion and that is consistent with public health and safety. Directs the United States Sentencing Commission to review and, if appropriate, amend its guidelines and policy statements to ensure an appropriate penalty increase for persons convicted of a drug offense involving receipt of a controlled substance for disposal.</summary>
+</bill>

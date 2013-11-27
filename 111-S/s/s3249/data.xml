@@ -1,0 +1,61 @@
+<bill session="111" type="s" number="3249" updated="2013-07-20T00:54:58-04:00">
+  <state datetime="2010-06-28">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2010-06-28"/>
+  </status>
+  <introduced datetime="2010-04-22"/>
+  <titles>
+    <title as="introduced" type="short">Predisaster Hazard Mitigation Act of 2010</title>
+    <title as="reported to senate" type="short">Predisaster Hazard Mitigation Act of 2010</title>
+    <title as="passed senate" type="short">Predisaster Hazard Mitigation Act of 2010</title>
+    <title as="introduced" type="official">A bill to amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to reauthorize the predisaster hazard mitigation program and for other purposes.</title>
+  </titles>
+  <sponsor id="300067"/>
+  <cosponsors>
+    <cosponsor id="300025" joined="2010-04-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-04-22">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2010-04-28">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2010-06-23">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment. With written report No. 111-215.</text>
+    </action>
+    <calendar datetime="2010-06-23" calendar="Senate Legislative" under="General Orders" number="440">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 440.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2010-06-28" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S5496" label="consideration"/>
+      <reference ref="CR 6/29/2010 S5629" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2010-06-29T10:33:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2010-06-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2010-06-29T11:30:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="h" number="1746"/>
+    <bill relation="unknown" session="111" type="h" number="3377"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Emergency planning and evacuation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/28/2010--Passed Senate amended.
+Predisaster Hazard Mitigation Act of 2010 - Amends the Robert T. Stafford Disaster Relief and Emergency Assistance Act to require the President to: (1) award financial assistance under the pre-disaster hazard mitigation program on a competitive basis; and (2) ensure that the amount of assistance made available to each state is not less than the lesser of $575,000 or 1% of the total funds appropriated to carry out such program for the fiscal year, and not more than 15% of such appropriated funds. Authorizes appropriations for the program for FY2011-FY2015. Repeals the program termination date. Prohibits funds appropriated or otherwise made available to carry out such program from being used for congressionally directed spending. Requires the Administrator of the Federal Emergency Management Agency (FEMA) to report to Congress explaining the reasons for awarding any grants using procedures other than competitive procedures.</summary>
+</bill>

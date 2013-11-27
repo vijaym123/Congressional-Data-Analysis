@@ -1,0 +1,61 @@
+<bill session="111" type="sc" number="42" updated="2013-07-20T00:22:53-04:00">
+  <state datetime="2009-10-06T19:20:00-04:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2009-10-06T19:20:00-04:00"/>
+  </status>
+  <introduced datetime="2009-10-01"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution providing for the acceptance of a statue of Helen Keller, presented by the people of Alabama.</title>
+  </titles>
+  <sponsor id="300088"/>
+  <cosponsors>
+    <cosponsor id="300089" joined="2009-10-01"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2009-10-01" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S10076" label="consideration"/>
+      <reference ref="CR S10076" label="text as passed Senate"/>
+      <reference ref="CR S10068-10069" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2009-10-05">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2009-10-06T14:06:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2009-10-06T17:42:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2009-10-06T19:20:00-04:00">
+      <text>Mrs. Davis (CA) asked unanimous consent to take from the Speaker's table and consider.</text>
+    </action>
+    <action datetime="2009-10-06T19:20:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H10486-10487" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2009-10-06T19:20:00-04:00" how="without objection" result="pass" type="vote2" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H10486-10487" label="text"/>
+    </vote>
+    <action datetime="2009-10-06T19:20:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="identical" session="111" type="sc" number="41"/>
+    <bill relation="unknown" session="111" type="sc" number="41"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Alabama"/>
+    <term name="Art, artists, authorship"/>
+    <term name="Congressional tributes"/>
+    <term name="Disability and paralysis"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+  <summary>10/6/2009--Passed House without amendment.
+Accepts in the name of the United States the statue of Helen Keller, furnished by the people of Alabama for placement in the Capitol. Tenders the thanks of Congress to the people of Alabama for providing this commemoration of one of Alabama's most eminent personages. Authorizes the state of Alabama to use the Rotunda of the Capitol on October 7, 2009, for a presentation ceremony. Directs the Architect of the Capitol to provide for the display of the statue in the Rotunda for a period of up to six months, after which the statue shall be displayed in the Capitol.</summary>
+</bill>

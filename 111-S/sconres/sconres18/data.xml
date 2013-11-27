@@ -1,0 +1,62 @@
+<bill session="111" type="sc" number="18" updated="2013-07-20T00:22:41-04:00">
+  <state datetime="2009-04-22">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2009-04-22"/>
+  </status>
+  <introduced datetime="2009-04-22"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution supporting the goals and ideals of World Malaria Day, and reaffirming United States leadership and support for efforts to combat malaria.</title>
+  </titles>
+  <sponsor id="300042"/>
+  <cosponsors>
+    <cosponsor id="300009" joined="2009-04-22"/>
+    <cosponsor id="300013" joined="2009-04-22"/>
+    <cosponsor id="300018" joined="2009-04-22"/>
+    <cosponsor id="400064" joined="2009-04-22"/>
+    <cosponsor id="300038" joined="2009-04-22"/>
+    <cosponsor id="400194" joined="2009-04-22"/>
+    <cosponsor id="400621" joined="2009-04-22"/>
+    <cosponsor id="400272" joined="2009-04-23"/>
+    <cosponsor id="400357" joined="2009-04-24"/>
+    <cosponsor id="400432" joined="2009-04-22"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2009-04-22" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S4598-4599" label="consideration"/>
+      <reference ref="CR S4599" label="text as passed Senate"/>
+      <reference ref="CR S4587-4588" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2009-04-23T10:50:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2009-04-23">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2009-04-23">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hc" number="103"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Child health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="HIV/AIDS"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Infectious and parasitic diseases"/>
+    <term name="Women's health"/>
+    <term name="World health"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/2009--Passed Senate without amendment.
+Supports the goals of Malaria Awareness Day (April 25 of each year), including the achievable target of ending malaria deaths by 2015. Reaffirms: (1) the commitments to combat malaria in the Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, Tuberculosis, and Malaria Reauthorization Act of 2008; and (2) U.S. support for achievement of the targets set by the Roll Back Malaria Partnership Global Malaria Action plan. Commends the progress made by anti-malaria programs, including the President's Malaria Initiative and the Global Fund to Fight AIDS, Tuberculosis, and Malaria. Encourages fellow donor nations to maintain their support and honor their funding commitments for malaria programs. Urges greater integration of U.S. and international health programs targeting malaria, HIV/AIDS, tuberculosis, neglected tropical diseases, and basic child and maternal health. Commits to continued U.S. leadership in efforts to reduce global malaria deaths.</summary>
+</bill>

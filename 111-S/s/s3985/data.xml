@@ -1,0 +1,70 @@
+<bill session="111" type="s" number="3985" updated="2013-07-20T01:01:15-04:00">
+  <state datetime="2010-12-08">PROV_KILL:CLOTUREFAILED</state>
+  <status>
+    <unknown datetime="2010-12-08"/>
+  </status>
+  <introduced datetime="2010-11-29"/>
+  <titles>
+    <title as="introduced" type="short">Emergency Senior Citizens Relief Act of 2010</title>
+    <title as="introduced" type="official">A bill to amend the Internal Revenue Code of 1986 to extend certain expiring provisions, and for other purposes.</title>
+  </titles>
+  <sponsor id="400357"/>
+  <cosponsors>
+    <cosponsor id="412326" joined="2010-11-29"/>
+    <cosponsor id="400050" joined="2010-11-29"/>
+    <cosponsor id="412246" joined="2010-11-29"/>
+    <cosponsor id="412223" joined="2010-11-29"/>
+    <cosponsor id="300064" joined="2010-11-29"/>
+    <cosponsor id="300065" joined="2010-11-29"/>
+    <cosponsor id="400272" joined="2010-11-29"/>
+    <cosponsor id="300082" joined="2010-11-29"/>
+    <cosponsor id="300087" joined="2010-11-29"/>
+    <cosponsor id="300093" joined="2010-11-29"/>
+    <cosponsor id="412247" joined="2010-11-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2010-11-29">
+      <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2010-11-30" calendar="Senate Legislative" under="General Orders" number="655">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 655.</text>
+    </calendar>
+    <action datetime="2010-12-06">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S8552" label="consideration"/>
+    </action>
+    <action datetime="2010-12-06">
+      <text>Cloture motion on the motion to proceed to the bill presented in Senate.</text>
+      <reference ref="CR S8627-8628" label="consideration"/>
+    </action>
+    <action datetime="2010-12-06">
+      <text>Motion to proceed to consideration of measure withdrawn in Senate.</text>
+    </action>
+    <action state="PROV_KILL:CLOTUREFAILED" datetime="2010-12-08">
+      <text>Cloture on the motion to proceed to the bill not invoked in Senate by Yea-Nay Vote. 53 - 45. Record Vote Number: 267.</text>
+      <reference ref="CR S8627-8628" label="consideration"/>
+      <reference ref="CR S8627" label="text"/>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="identical" session="111" type="s" number="3976"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Appropriations"/>
+    <term name="Computers and information technology"/>
+    <term name="Disability assistance"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government information and archives"/>
+    <term name="Income tax credits"/>
+    <term name="Railroads"/>
+    <term name="Social security and elderly assistance"/>
+    <term name="Transportation employees"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>11/29/2010--Introduced.
+Emergency Senior Citizens Relief Act of 2010 - Amends the Assistance for Unemployed Workers and Struggling Families Act, title II of the American Recovery and Reinvestment Tax Act of 2009, to extend: (1) through 2011 the $250 economic recovery payments to recipients of Social Security, Supplemental Security Income (SSI) (title XVI of the Social Security Act), railroad retirement benefits, and veterans disability compensation or pension benefits; and (2) through 2011 the special tax credit for certain government retirees. Makes additional appropriations through FY2013 to cover such payments.</summary>
+</bill>

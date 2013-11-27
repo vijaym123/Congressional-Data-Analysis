@@ -1,0 +1,55 @@
+<bill session="112" type="s" number="1874" updated="2013-07-20T02:32:46-04:00">
+  <state datetime="2011-12-17">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2011-12-17"/>
+  </status>
+  <introduced datetime="2011-11-15"/>
+  <titles>
+    <title as="introduced" type="short">HUBZone Qualified Census Tract Act of 2011</title>
+    <title as="passed senate" type="short">HUBZone Qualified Census Tract Act of 2011</title>
+    <title as="introduced" type="official">A bill to require the timely identification of qualified census tracts for purposes of the HUBZone program, and for other purposes.</title>
+  </titles>
+  <sponsor id="412325"/>
+  <cosponsors>
+    <cosponsor id="300063" joined="2011-11-15"/>
+    <cosponsor id="300091" joined="2011-11-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-11-15">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+    <action datetime="2011-12-17">
+      <text>Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.</text>
+      <reference ref="CR S8780-8781" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2011-12-17" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S8781" label="text"/>
+    </vote>
+    <action datetime="2011-12-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2011-12-19T10:05:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2011-12-19T22:24:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Census and government statistics"/>
+    <term name="Congressional oversight"/>
+    <term name="Economic development"/>
+    <term name="Government information and archives"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>12/17/2011--Passed Senate without amendment.
+HUBZone Qualified Census Tract Act of 2011 - Requires the Secretary of Housing and Urban Development (HUD), within two months after receiving from the Census Bureau decennial census data on census tracts, to identify and publish the list of those tracts that meet the Internal Revenue Code criteria for a "qualified census tract" triggering an increase in the low-income housing income tax credit relating to buildings in high cost areas. Requires HUD to designate dates upon which the list of qualified census tracts shall become effective for: (1) areas that qualify as HUBZones (historically underutilized business zones) under the Small Business Act; and (2) purposes of those increases in the low-income housing tax credit. Declares that nothing in this Act may be construed to affect the HUD method used to designate qualified census tracts in a year in which HUD receives no data from the Census Bureau relating to census tract boundaries. Requires the Administrator of the Small Business Administration (SBA) to report to congressional small business committees: (1) a description of the benefits and drawbacks of using qualified census tract data to designate HUBZones; (2) a description of any problems encountered by the SBA in using such data; and (3) recommendations, if any, for ways to improve the process of designating HUBZones.</summary>
+</bill>

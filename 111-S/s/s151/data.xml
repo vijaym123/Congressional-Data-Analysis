@@ -1,0 +1,82 @@
+<bill session="111" type="s" number="151" updated="2013-07-20T00:24:36-04:00">
+  <state datetime="2009-07-24">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2009-07-24"/>
+  </status>
+  <introduced datetime="2009-01-06"/>
+  <titles>
+    <title as="introduced" type="short">Indian Arts and Crafts Amendments Act of 2009</title>
+    <title as="reported to senate" type="short">Indian Arts and Crafts Amendments Act of 2009</title>
+    <title as="passed senate" type="short">Indian Arts and Crafts Amendments Act of 2009</title>
+    <title as="introduced" type="official">A bill to protect Indian arts and crafts through the improvement of applicable criminal proceedings, and for other purposes.</title>
+  </titles>
+  <sponsor id="300071"/>
+  <cosponsors>
+    <cosponsor id="300037" joined="2009-06-17"/>
+    <cosponsor id="300062" joined="2009-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2009-01-06">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S137"/>
+    </action>
+    <action state="REFERRED" datetime="2009-01-06">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2009-04-30">
+      <text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Indian Affairs"/>
+    </calendar>
+    <action datetime="2009-07-22">
+      <text>Committee on Indian Affairs. Reported by Senator Dorgan without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2009-07-22" calendar="Senate Legislative" under="General Orders" number="124">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 124.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2009-07-24" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S8100-8101" label="consideration"/>
+      <reference ref="CR S8100-8101" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2009-07-24T17:13:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2009-07-24">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2009-07-24">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-07-24">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2009-07-24">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2009-08-19">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral, Markup, Reporting"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="h" number="725"/>
+    <bill relation="unknown" session="111" type="h" number="725"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Civil actions and liability"/>
+    <term name="Consumer affairs"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Historical and cultural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>7/24/2009--Passed Senate without amendment.
+Indian Arts and Crafts Amendments Act of 2009 - Amends the Indian Arts and Crafts Act of 1990 to expand the authority of the Indian Arts and Crafts Board to bring criminal and civil actions for offenses under such Act involving the sale of misrepresented Indian produced goods or products. Authorizes: (1) any federal law enforcement officer to conduct an investigation of an alleged violation of this Act occurring within the jurisdiction of the United States; and (2) the Indian Arts and Crafts Board to refer an alleged violation to any federal law enforcement officer (currently, only to the Federal Bureau of Investigation (FBI)) for investigation. Permits federal law enforcement officers to investigate an alleged violation regardless of whether the Board makes a referral of an alleged violation. Requires the findings of any investigation of an alleged violation to be submitted to a federal or state prosecuting authority or the Indian Arts and Crafts Board. Authorizes the Board, upon receiving the findings of such an investigation, to: (1) recommend to the Attorney General that criminal proceedings be initiated (current law); (2) provide such support to the Attorney General relating to the criminal proceedings as the Attorney General determines to be appropriate; or (3) recommend, in lieu of, or in addition to, any such criminal proceeding, that the Attorney General initiate a civil action. Allows the Attorney General, an Indian tribe, an Indian, or an Indian arts and crafts organization to initiate a civil action under this Act. Amends the federal criminal code to revise penalties for the sale of misrepresented Indian produced goods and products.</summary>
+</bill>

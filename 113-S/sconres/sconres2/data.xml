@@ -1,0 +1,51 @@
+<bill session="113" type="sc" number="2" updated="2013-11-02T06:51:58-04:00">
+  <state datetime="2013-01-03T17:13:00-05:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2013-01-03T17:13:00-05:00"/>
+  </status>
+  <introduced datetime="2013-01-03"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution extending the life of the Joint Congressional Committee on Inaugural Ceremonies.</title>
+  </titles>
+  <sponsor id="300082"/>
+  <cosponsors>
+    <cosponsor id="300072" joined="2013-01-03"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Unanimous Consent" type="vote" datetime="2013-01-03" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S7" label="consideration"/>
+      <reference ref="CR S7" label="text as passed Senate"/>
+      <reference ref="CR S16" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2013-01-03T16:43:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2013-01-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2013-01-03T17:13:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H25" label="consideration"/>
+    </action>
+    <vote how="without objection" type="vote2" datetime="2013-01-03T17:13:00-05:00" where="h" result="pass" state="PASSED:CONCURRENTRES">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H25" label="text"/>
+    </vote>
+    <action datetime="2013-01-03T17:13:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional committees"/>
+    <term name="Congressional operations and organization"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+  <summary>1/3/2013--Passed House without amendment.
+Declares that: (1) the Joint Congressional Committee on Inaugural Ceremonies, created by S.Con.Res. 35 (112th Congress), to make the necessary arrangements for the inauguration of the President-elect and the Vice President-elect of the United States, is continued with the same power and authority provided for in such resolution; and (2) the provisions of S.Con.Res. 36 (112th Congress), to authorize the rotunda and Emancipation Hall of the Capitol to be used in connection with such proceedings and ceremonies, are continued with the same power and authority provided for in such resolution.</summary>
+</bill>

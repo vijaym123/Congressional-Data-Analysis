@@ -1,0 +1,44 @@
+<bill session="111" type="sr" number="395" updated="2013-07-20T00:19:42-04:00">
+  <state datetime="2010-01-25">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2010-01-25"/>
+  </status>
+  <introduced datetime="2010-01-22"/>
+  <titles>
+    <title as="introduced" type="official">A resolution commemorating the 150th anniversary of the founding of the Colorado National Guard.</title>
+  </titles>
+  <sponsor id="400412"/>
+  <cosponsors>
+    <cosponsor id="412330" joined="2010-01-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-01-22">
+      <text>Referred to the Committee on Armed Services.</text>
+      <reference ref="CR S155-156" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2010-01-25">
+      <text>Senate Committee on Armed Services discharged by Unanimous Consent.</text>
+      <reference ref="CR S203-204" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2010-01-25" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S204" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="hc" number="230"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Colorado"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="National Guard and reserves"/>
+  </subjects>
+  <amendments/>
+  <summary>1/25/2010--Passed Senate without amendment.
+Recognizes the 150th anniversary of the founding of the Colorado National Guard (Guard) and its exemplary service to the state of Colorado and the nation. Thanks Guard members and their families for their service and sacrifice on behalf of Colorado and the nation. Pledges continued support in providing the Guard with the resources necessary to perform state and federal missions. Expresses condolences to the families of those Guard members who made the ultimate sacrifice while serving in the Guard. Honors the dedication of Guard members who play a central role in protecting the United States and the freedoms and liberties of its citizens.</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="111" type="s" number="3778" updated="2013-07-20T00:59:29-04:00">
+  <state datetime="2010-09-14">REFERRED</state>
+  <status>
+    <introduced datetime="2010-09-14"/>
+  </status>
+  <introduced datetime="2010-09-14"/>
+  <titles>
+    <title as="introduced" type="short">Fort Pulaski National Monument Lease Authorization Act</title>
+    <title as="introduced" type="official">A bill to authorize the Secretary of the Interior to lease certain lands within Fort Pulaski National Monument, and for other purposes.</title>
+  </titles>
+  <sponsor id="400194"/>
+  <cosponsors>
+    <cosponsor id="300021" joined="2010-09-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2010-09-14">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2010-09-29">
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <action datetime="2010-09-29">
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="National Parks" name="Senate Energy and Natural Resources"/>
+    <committee activity="Hearings" code="SSEG03" subcommittee="Public Lands and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="h" number="4773"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Georgia"/>
+    <term name="Land transfers"/>
+    <term name="Monuments and memorials"/>
+  </subjects>
+  <amendments/>
+  <summary>9/14/2010--Introduced.
+Fort Pulaski National Monument Lease Authorization Act - Authorizes the Secretary of the Interior to lease to the Savannah Bar Pilots Association or a successor organization up to 30,000 square feet of land and improvements in Fort Pulaski National Monument in Georgia at the location on Cockspur Island that has been used continuously by the Association since 1940.</summary>
+</bill>

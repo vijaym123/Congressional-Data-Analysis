@@ -1,0 +1,55 @@
+<bill session="111" type="s" number="814" updated="2013-07-20T00:30:42-04:00">
+  <state datetime="2009-06-19">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2009-06-19"/>
+  </status>
+  <introduced datetime="2009-04-02"/>
+  <titles>
+    <title as="introduced" type="short">Miami Dade College Land Conveyance Act</title>
+    <title as="passed senate" type="short">Miami Dade College Land Conveyance Act</title>
+    <title as="introduced" type="official">A bill to provide for the conveyance of a parcel of land held by the Bureau of Prisons of the Department of Justice in Miami Dade County, Florida, to facilitate the construction of a new educational facility that includes a secure parking area for the Bureau of Prisons, and for other purposes.</title>
+  </titles>
+  <sponsor id="300078"/>
+  <cosponsors>
+    <cosponsor id="400621" joined="2009-04-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-04-02">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2009-06-19">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S6854" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2009-06-19" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6854" label="text"/>
+    </vote>
+    <action datetime="2009-06-19T16:21:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2009-06-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2009-06-19T16:38:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="h" number="838"/>
+    <bill relation="unknown" session="111" type="h" number="838"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Florida"/>
+    <term name="Higher education"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+  <summary>6/19/2009--Passed Senate without amendment.
+Miami Dade College Land Conveyance Act - Directs the Attorney General to convey to Miami Dade College in Miami Dade County, Florida, a parcel of land held by the Bureau of Prisons for a new educational building that includes a parking area with designated parking spaces for the Bureau of Prisons.</summary>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="112" type="s" number="1466" updated="2013-07-20T02:29:05-04:00">
+  <state datetime="2011-08-01">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2011-08-01"/>
+  </status>
+  <introduced datetime="2011-08-01"/>
+  <titles>
+    <title as="introduced" type="short">Faster FOIA Act of 2011</title>
+    <title as="passed senate" type="short">Faster FOIA Act of 2011</title>
+    <title as="introduced" type="official">A bill to establish the Commission on Freedom of Information Act Processing Delays.</title>
+  </titles>
+  <sponsor id="300065"/>
+  <cosponsors>
+    <cosponsor id="300027" joined="2011-08-01"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2011-08-01" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S5197-5199" label="consideration"/>
+      <reference ref="CR S5198-5199" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2011-08-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2011-08-02T10:03:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2011-08-02T10:16:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="identical" session="112" type="h" number="1564"/>
+    <bill relation="unknown" session="112" type="s" number="627"/>
+    <bill relation="unknown" session="112" type="s" number="627"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Advisory bodies"/>
+    <term name="Freedom of information"/>
+    <term name="Government studies and investigations"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/2011--Passed Senate without amendment.
+Faster FOIA Act of 2011 - Establishes the Commission on Freedom of Information Act Processing Delays to conduct a study to: (1) identify methods that will help reduce delays in processing Freedom of Information Act (FOIA) requests submitted to federal agencies; (2) ensure the efficient and equitable administration of FOIA throughout the federal government; (3) examine whether the system for charging fees for such requests and granting waivers of such fees needs to be reformed; (4) determine why the government's use of FOIA exemptions increased during FY2009, whether the increase contributed to delays, what efforts were made by federal agencies to comply with President Obama's January 21, 2009, Presidential Memorandum on Freedom of Information Act Requests, whether those efforts were successful, and how the use of exemptions may be limited; and (5) determine whether any disparities in processing, processing times, and completeness of responses to FOIA requestors have occurred based upon political considerations, ideological viewpoints, the identity of the requestors, affiliation with the media, or affiliation with advocacy groups, why such disparities occurred, and the extent to which political appointees have been involved in the FOIA process.</summary>
+</bill>

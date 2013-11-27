@@ -10,6 +10,8 @@ billType["hconres"] = "HC"
 billType["hjres"] = "HJ"
 billType["hr"] = "HR"
 billType["hres"] = "HE"
+billType["HZ"] = "HZ"
+
 for congress in directories:
 	for root, subFolders, files in os.walk(congress):
 		if files:
@@ -22,11 +24,15 @@ for congress in directories:
 					private = str(1)
 				else :
 					private = str(0)
+				if jsonDump["amendments"] != []:
+					#print "./"+root+"/"+files[0]
+					#print jsonDump["amendments"]
+					jsonDump["bill_type"]="HZ"
 			except AttributeError:
 				private = str(0)
 			houseCommittee = ""
 			for i in jsonDump["committees"]:
-				houseCommittee += i["committee"] + ","
+				houseCommittee += i["committee"].replace(",","") + ","
 			if houseCommittee == "":
 				houseCommittee = "NA,"
 			line = str(jsonDump["congress"])+","+billType[jsonDump["bill_type"]]+","+jsonDump["number"]+","+private+"\n"

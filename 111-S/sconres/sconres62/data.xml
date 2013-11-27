@@ -1,0 +1,81 @@
+<bill session="111" type="sc" number="62" updated="2013-07-20T00:23:04-04:00">
+  <state datetime="2010-05-11T15:22:00-04:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2010-05-11T15:22:00-04:00"/>
+  </status>
+  <introduced datetime="2010-04-29"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution congratulating the outstanding professional public servants, both past and present, of the Natural Resources Conservation Service on the occasion of its 75th anniversary.</title>
+  </titles>
+  <sponsor id="300068"/>
+  <cosponsors>
+    <cosponsor id="300005" joined="2010-04-29"/>
+    <cosponsor id="412330" joined="2010-04-29"/>
+    <cosponsor id="300013" joined="2010-04-29"/>
+    <cosponsor id="412246" joined="2010-04-29"/>
+    <cosponsor id="300021" joined="2010-04-29"/>
+    <cosponsor id="300030" joined="2010-04-29"/>
+    <cosponsor id="300038" joined="2010-04-29"/>
+    <cosponsor id="300048" joined="2010-04-29"/>
+    <cosponsor id="300051" joined="2010-04-29"/>
+    <cosponsor id="412320" joined="2010-04-29"/>
+    <cosponsor id="300061" joined="2010-04-29"/>
+    <cosponsor id="300065" joined="2010-04-29"/>
+    <cosponsor id="300076" joined="2010-04-29"/>
+    <cosponsor id="300080" joined="2010-04-29"/>
+    <cosponsor id="300082" joined="2010-04-29"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2010-04-29" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S2982-2983" label="consideration"/>
+      <reference ref="CR S2982-2983" label="text aas passed Senate"/>
+      <reference ref="CR S2813-2814" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2010-04-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2010-05-03T10:05:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2010-05-03">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2010-05-11T15:16:00-04:00">
+      <text>Mr. Holden moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2010-05-11T15:16:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3292-3293" label="consideration"/>
+    </action>
+    <action datetime="2010-05-11T15:16:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 62.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2010-05-11T15:22:00-04:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H3292-3293" label="text"/>
+    </vote>
+    <action datetime="2010-05-11T15:22:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="hc" number="269"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Agricultural conservation and pollution"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Department of Agriculture"/>
+    <term name="Land use and conservation"/>
+    <term name="Soil pollution"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <summary>5/11/2010--Passed House without amendment.
+Congratulates the outstanding professionals of the National Resources Conservation Service on the occasion of its 75th anniversary. Expresses the continued commitment of Congress to the conservation of natural resources on private lands in both the national interest and as a national priority.</summary>
+</bill>

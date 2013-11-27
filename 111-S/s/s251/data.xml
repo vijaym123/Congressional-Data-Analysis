@@ -1,0 +1,91 @@
+<bill session="111" type="s" number="251" updated="2013-07-20T00:25:32-04:00">
+  <state datetime="2009-10-05">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2009-10-05"/>
+  </status>
+  <introduced datetime="2009-01-15"/>
+  <titles>
+    <title as="introduced" type="short">Safe Prisons Communications Act of 2009</title>
+    <title as="passed senate" type="short">Safe Prisons Communications Act of 2009</title>
+    <title as="introduced" type="official">A bill to amend the Communications Act of 1934 to permit targeted interference with mobile radio services within prison facilities.</title>
+  </titles>
+  <sponsor id="300054"/>
+  <cosponsors>
+    <cosponsor id="412326" joined="2009-07-15"/>
+    <cosponsor id="300023" joined="2009-02-27"/>
+    <cosponsor id="300027" joined="2009-07-23"/>
+    <cosponsor id="400105" joined="2009-01-15"/>
+    <cosponsor id="300043" joined="2009-07-16"/>
+    <cosponsor id="412242" joined="2009-07-16"/>
+    <cosponsor id="300067" joined="2009-06-04"/>
+    <cosponsor id="300073" joined="2009-04-20"/>
+    <cosponsor id="300075" joined="2009-08-04"/>
+    <cosponsor id="300080" joined="2009-07-23"/>
+    <cosponsor id="400546" joined="2009-02-09"/>
+    <cosponsor id="400418" joined="2009-02-09"/>
+    <cosponsor id="400432" joined="2009-02-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-01-15">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <action datetime="2009-07-15">
+      <text>Committee on Commerce, Science, and Transportation. Hearings held.</text>
+      <committee name="Committee on Commerce, Science, and Transportation"/>
+    </action>
+    <calendar state="REPORTED" datetime="2009-08-05">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Commerce, Science, and Transportation"/>
+    </calendar>
+    <action datetime="2009-09-24">
+      <text>Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. With written report No. 111-79.</text>
+    </action>
+    <calendar datetime="2009-09-24" calendar="Senate Legislative" under="General Orders" number="166">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 166.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2009-10-05" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S10115-10117" label="consideration"/>
+      <reference ref="CR S10115-10117" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2009-10-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2009-10-06T14:06:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2009-10-06">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2009-10-06">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2009-10-06">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2009-10-19">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Hearings, Markup, Reporting"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="h" number="560"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Federal Communications Commission (FCC)"/>
+    <term name="Government information and archives"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+  <summary>10/5/2009--Passed Senate amended.
+Safe Prisons Communications Act of 2009 - (Sec. 2) Amends the Communications Act of 1934 to authorize the Federal Communications Commission (FCC) to permit the supervisory authority of a correctional facility to operate a jamming system within the facility to prevent, jam, or otherwise interfere with unauthorized wireless communications by individuals held in the facility. Defines "supervisory authority" as the Director of the Federal Bureau of Prisons, the chief executive officer of a state, or the person in charge of a county or local correctional facility not under the authority of the chief executive officer of a state. Requires the supervisory authority: (1) to file a notice of intent with the FCC; and (2) if requested by the public agencies and commercial mobile service providers identified by the FCC, consult with them to determine the types of equipment, facilities and frequencies in use in the correctional facility's area, and provide testing access to the outer perimeter of the correctional facility. Authorizes the supervisory authority upon completion of such procedures to file a petition with the FCC to install and operate a jamming system. Requires FCC action within 60 days of petition receipt. States that an approved petition shall be: (1) valid for up to five years and renewable; and (2) terminated or suspended if the FCC receives notice from a commercial mobile service provider, supported by affidavit and documentation, that the correctional facility jamming device is interfering with commercial mobile service. Sets forth jamming use limitations. Requires a supervisory authority to: (1) destroy a jamming device within 60 days after an authorization expires; (2) destroy a jamming device that is permanently removed from service; (3) certify such destruction to the FCC; and (4) notify the FCC upon acquisition of any jamming device that replaces a destroyed device. Requires the FCC to maintain a petition database. (Sec. 3) Requires the FCC to promulgate final regulations governing the use of wireless jamming systems in correctional facilities within 180 days of enactment of this Act. (Sec. 4) Requires the FCC to: (1) adopt a final rule within 120 days of enactment of this Act establishing the criteria for the manufacture, sale, importation, and interstate shipment of jamming devices; and (2) maintain a website list of all approved devices.</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="111" type="s" number="1155" updated="2013-07-20T00:33:51-04:00">
+  <state datetime="2009-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2009-05-21"/>
+  </status>
+  <introduced datetime="2009-05-21"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend title 38, United States Code, to establish the position of Director of Physician Assistant Services within the office of the Under Secretary of Veterans Affairs for health.</title>
+  </titles>
+  <sponsor id="300025"/>
+  <cosponsors>
+    <cosponsor id="412328" joined="2009-07-31"/>
+    <cosponsor id="300042" joined="2009-10-20"/>
+    <cosponsor id="300051" joined="2009-08-03"/>
+    <cosponsor id="300056" joined="2009-05-21"/>
+    <cosponsor id="412244" joined="2009-06-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-05-21">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2009-10-21">
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+      <committee name="Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="h" number="1302"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Health personnel"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2009--Introduced.
+Establishes within the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA) the position of Director of Physician Assistant Services, who shall report to the VHA's Under Secretary for Health on all matters relating to the education and training, employment, appropriate utilization, and optimal participation of physician assistants within VHA programs and initiatives.</summary>
+</bill>

@@ -1,0 +1,80 @@
+<bill session="111" type="s" number="1717" updated="2013-07-20T00:35:19-04:00">
+  <state datetime="2009-10-26">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2009-10-26"/>
+  </status>
+  <introduced datetime="2009-09-25"/>
+  <titles>
+    <title as="introduced" type="official">A bill to authorize major medical facility leases for the Department of Veterans Affairs for fiscal year 2010, and for other purposes.</title>
+  </titles>
+  <sponsor id="300001"/>
+  <cosponsors>
+    <cosponsor id="400054" joined="2009-09-25"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2009-09-25" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S9889-9890" label="consideration"/>
+      <reference ref="CR S9889-9890" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2009-09-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2009-09-29T15:50:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2009-09-29T16:51:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2009-10-07T15:30:00-04:00">
+      <text>Mr. Filner moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2009-10-07T15:30:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10559-10561" label="consideration"/>
+    </action>
+    <action datetime="2009-10-07T15:30:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 1717.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2009-10-07T15:43:00-04:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H10559" label="text"/>
+    </vote>
+    <action datetime="2009-10-07T15:43:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2009-10-07">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2009-10-15">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2009-10-26">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2009-10-26" type="public" number="111-82">
+      <text>Became Public Law No: 111-82.</text>
+    </enacted>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="111" type="s" number="1310"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Alabama"/>
+    <term name="California"/>
+    <term name="Florida"/>
+    <term name="Georgia"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Home and outpatient care"/>
+    <term name="Kansas"/>
+    <term name="North Carolina"/>
+    <term name="South Carolina"/>
+    <term name="Texas"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>10/26/2009--Public Law.
+Authorizes the Secretary of Veterans Affairs to carry out major medical facility leases in FY2010 in specified locations in Alabama, California, Florida, Georgia, Kansas, North Carolina, Pennsylvania, South Carolina, and Texas. Authorizes appropriations for such leases.</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="112" type="s" number="1413" updated="2013-07-20T02:28:38-04:00">
+  <state datetime="2011-07-25">REFERRED</state>
+  <status>
+    <introduced datetime="2011-07-25"/>
+  </status>
+  <introduced datetime="2011-07-25"/>
+  <titles>
+    <title as="introduced" type="short">Geothermal Tax Parity Act of 2011</title>
+    <title as="introduced" type="official">A bill to amend the Internal Revenue Code of 1986 to temporarily increase the investment tax credit for geothermal energy property.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="300030" joined="2011-07-25"/>
+    <cosponsor id="412218" joined="2011-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2011-07-25">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4870"/>
+    </action>
+    <action state="REFERRED" datetime="2011-07-25">
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <reference ref="CR S4870" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="h" number="1384"/>
+    <bill relation="identical" session="112" type="h" number="2408"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Business investment and capital"/>
+    <term name="Income tax credits"/>
+  </subjects>
+  <amendments/>
+  <summary>7/25/2011--Introduced.
+Geothermal Tax Parity Act of 2011 - Amends the Internal Revenue Code to allow through 2016 a 30% energy tax credit for investment in geothermal energy property.</summary>
+</bill>

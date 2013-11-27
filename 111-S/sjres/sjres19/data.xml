@@ -1,0 +1,81 @@
+<bill session="111" type="sj" number="19" updated="2013-07-20T00:16:03-04:00">
+  <state datetime="2009-08-19">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2009-08-19"/>
+  </status>
+  <introduced datetime="2009-07-28"/>
+  <titles>
+    <title as="introduced" type="official">A joint resolution granting the consent and approval of Congress to amendments made by the State of Maryland, the Commonwealth of Virginia, and the District of Columbia to the Washington Metropolitan Area Transit Regulation Compact.</title>
+  </titles>
+  <sponsor id="400064"/>
+  <cosponsors>
+    <cosponsor id="300073" joined="2009-07-28"/>
+    <cosponsor id="412321" joined="2009-07-28"/>
+    <cosponsor id="412249" joined="2009-07-28"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2009-07-28" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S8211-8212" label="consideration"/>
+      <reference ref="CR S8212" label="text as passed Senate"/>
+      <reference ref="CR S8203" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2009-07-29T10:27:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2009-07-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2009-07-29">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2009-07-31T14:13:00-04:00">
+      <text>Committee on Judiciary discharged.</text>
+    </action>
+    <action datetime="2009-07-31T14:15:00-04:00">
+      <text>Mr. Cohen asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2009-07-31T14:15:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H9245-9246" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2009-07-31T14:15:00-04:00" how="without objection" result="pass" type="vote2" where="h">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H9245-9246" label="text"/>
+    </vote>
+    <action datetime="2009-07-31T14:15:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2009-07-31">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2009-08-07">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2009-08-19">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2009-08-19" type="public" number="111-62">
+      <text>Became Public Law No: 111-62.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="hj" number="58"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Congressional oversight"/>
+    <term name="District of Columbia"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Maryland"/>
+    <term name="Public transit"/>
+    <term name="State and local government operations"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>7/31/2009--Public Law.
+Grants the consent and approval of Congress to amendments made by Maryland, the Commonwealth of Virginia, and the District of Columbia to sections 5, 9, and 18 of title III of the Washington Metropolitan Area Transit Regulation Compact as specified in this Act.</summary>
+</bill>

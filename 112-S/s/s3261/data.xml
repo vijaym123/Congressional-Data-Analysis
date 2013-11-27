@@ -1,0 +1,80 @@
+<bill session="112" type="s" number="3261" updated="2013-07-20T02:44:52-04:00">
+  <state datetime="2012-06-13">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2012-06-13"/>
+  </status>
+  <introduced datetime="2012-06-04"/>
+  <titles>
+    <title as="introduced" type="official">A bill to allow the Chief of the Forest Service to award certain contracts for large air tankers.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="300009" joined="2012-06-04"/>
+    <cosponsor id="300043" joined="2012-06-06"/>
+    <cosponsor id="412244" joined="2012-06-06"/>
+    <cosponsor id="400412" joined="2012-06-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2012-06-04">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+    <action datetime="2012-06-07">
+      <text>Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.</text>
+      <reference ref="CR S3870-3871" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2012-06-07" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S3871" label="text"/>
+    </vote>
+    <action datetime="2012-06-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2012-06-07T22:10:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2012-06-07">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2012-06-08T12:08:00-04:00">
+      <text>Mr. Thompson (PA) asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2012-06-08T12:08:00-04:00">
+      <text>Committee on Agriculture discharged.</text>
+    </action>
+    <action datetime="2012-06-08T12:08:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="H3691" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2012-06-08T12:09:00-04:00" how="without objection" result="pass" type="vote2" where="h">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H3691" label="text"/>
+    </vote>
+    <action datetime="2012-06-08T12:09:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2012-06-12">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2012-06-13">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2012-06-13" type="public" number="112-132">
+      <text>Became Public Law No: 112-132.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Discharged"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Aviation and airports"/>
+    <term name="Fires"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>6/13/2012--Public Law.
+Authorizes the Chief of the Forest Service to award certain contracts for fire suppression air tankers earlier than the end of the 30-day period beginning on the date of a required notification.</summary>
+</bill>

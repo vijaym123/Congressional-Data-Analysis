@@ -1,0 +1,69 @@
+<bill session="112" type="s" number="3363" updated="2013-07-20T02:45:46-04:00">
+  <state datetime="2012-08-10">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2012-08-10"/>
+  </status>
+  <introduced datetime="2012-06-29"/>
+  <titles>
+    <title as="introduced" type="official">A bill to provide for the use of National Infantry Museum and Soldier Center Commemorative Coin surcharges, and for other purposes.</title>
+  </titles>
+  <sponsor id="300021"/>
+  <cosponsors>
+    <cosponsor id="300081" joined="2012-06-29"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2012-06-29" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4781" label="consideration"/>
+      <reference ref="CR S4781" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2012-06-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2012-07-09T14:02:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2012-07-09T18:26:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2012-08-01T20:16:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H5613" label="consideration"/>
+    </action>
+    <action datetime="2012-08-01T20:16:00-04:00">
+      <text>Mr. Dold asked unanimous consent to take from the Speaker's table and consider.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2012-08-01T20:17:00-04:00" how="without objection" result="pass" type="vote2" where="h">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H5613" label="text"/>
+    </vote>
+    <action datetime="2012-08-01T20:17:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2012-08-03">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2012-08-10">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2012-08-10" type="public" number="112-169">
+      <text>Became Public Law No: 112-169.</text>
+    </enacted>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="6133"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Building construction"/>
+    <term name="Currency"/>
+    <term name="Georgia"/>
+    <term name="Military history"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+  </subjects>
+  <amendments/>
+  <summary>8/10/2012--Public Law.
+Amends the National Infantry Museum and Soldier Center Commemorative Coin Act to allow surcharges from the sale of a coin commemorating the legacy of the U.S. Army Infantry and the establishment of the National Infantry Museum and Soldier Center to be used for the retirement of debt associated with building such Museum and Center.</summary>
+</bill>

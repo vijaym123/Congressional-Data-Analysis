@@ -1,0 +1,42 @@
+<bill session="111" type="s" number="3028" updated="2013-07-20T00:53:01-04:00">
+  <state datetime="2010-02-24">REFERRED</state>
+  <status>
+    <introduced datetime="2010-02-24"/>
+  </status>
+  <introduced datetime="2010-02-24"/>
+  <titles>
+    <title as="introduced" type="short">Medicare Mental Health Inpatient Equity Act</title>
+    <title as="introduced" type="official">A bill to amend title XVIII of the Social Security Act to eliminate the 190-day lifetime limit on inpatient psychiatric hospital services under the Medicare program.</title>
+  </titles>
+  <sponsor id="300060"/>
+  <cosponsors>
+    <cosponsor id="300025" joined="2010-03-15"/>
+    <cosponsor id="400357" joined="2010-03-04"/>
+    <cosponsor id="300091" joined="2010-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2010-02-24">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S744"/>
+    </action>
+    <action state="REFERRED" datetime="2010-02-24">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="h" number="6143"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health care coverage and access"/>
+    <term name="Hospital care"/>
+    <term name="Medicare"/>
+    <term name="Mental health"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/2010--Introduced.
+Medicare Mental Health Inpatient Equity Act - Amends title XVIII (Medicare) of the Social Security Act to eliminate the 190-day lifetime limit on inpatient psychiatric hospital services.</summary>
+</bill>

@@ -1,0 +1,56 @@
+<bill session="112" type="s" number="134" updated="2013-07-20T02:17:42-04:00">
+  <state datetime="2012-06-28">REPORTED</state>
+  <status>
+    <unknown datetime="2012-06-28"/>
+  </status>
+  <introduced datetime="2011-01-25"/>
+  <titles>
+    <title as="introduced" type="short">Mescalero Apache Tribe Leasing Authorization Act</title>
+    <title as="reported to senate" type="short">Mescalero Apache Tribe Leasing Authorization Act</title>
+    <title as="introduced" type="official">A bill to authorize the Mescalero Apache Tribe to lease adjudicated water rights.</title>
+  </titles>
+  <sponsor id="300009"/>
+  <cosponsors>
+    <cosponsor id="400413" joined="2011-01-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2011-01-25">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S202"/>
+    </action>
+    <action state="REFERRED" datetime="2011-01-25">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+      <reference ref="CR S202" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2011-10-20">
+      <text>Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 112-492.</text>
+      <committee name="Committee on Indian Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-06-28">
+      <text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Indian Affairs"/>
+    </calendar>
+    <action datetime="2012-09-19">
+      <text>Committee on Indian Affairs. Reported by Senator Akaka without amendment. With written report No. 112-218.</text>
+    </action>
+    <calendar datetime="2012-09-19" calendar="Senate Legislative" under="General Orders" number="522">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 522.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="h" number="1461"/>
+    <bill relation="unknown" session="112" type="h" number="1461"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="New Mexico"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <summary>9/19/2012--Reported to Senate without amendment.
+Mescalero Apache Tribe Leasing Authorization Act - Authorizes the Mescalero Apache Tribe to lease or transfer certain of their water rights for a term of up to 99 years, provided the lease or transfer complies with the laws of New Mexico.</summary>
+</bill>

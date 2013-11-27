@@ -1,0 +1,56 @@
+<bill session="111" type="sj" number="12" updated="2013-07-20T00:16:00-04:00">
+  <state datetime="2009-03-02">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2009-03-02"/>
+  </status>
+  <introduced datetime="2009-03-02"/>
+  <titles>
+    <title as="introduced" type="official">A joint resolution proclaiming Casimir Pulaski to be an honorary citizen of the United States posthumously.</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2009-03-02"/>
+    <cosponsor id="412328" joined="2009-03-02"/>
+    <cosponsor id="400064" joined="2009-03-02"/>
+    <cosponsor id="300034" joined="2009-03-02"/>
+    <cosponsor id="300042" joined="2009-10-21"/>
+    <cosponsor id="300073" joined="2009-03-02"/>
+    <cosponsor id="300075" joined="2009-03-02"/>
+    <cosponsor id="300080" joined="2009-03-02"/>
+    <cosponsor id="412247" joined="2009-03-02"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2009-03-02" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S2645-2646" label="consideration"/>
+      <reference ref="CR S2645-2646" label="text as passed"/>
+    </vote>
+    <action datetime="2009-03-03T10:31:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2009-03-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2009-03-03">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="hj" number="26"/>
+    <bill relation="unknown" session="111" type="hj" number="26"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Citizenship and naturalization"/>
+    <term name="Europe"/>
+    <term name="Military history"/>
+    <term name="Poland"/>
+    <term name="U.S. history"/>
+  </subjects>
+  <amendments/>
+  <summary>3/2/2009--Passed Senate without amendment.
+Proclaims Casimir Pulaski as an honorary U.S. citizen, posthumously.</summary>
+</bill>

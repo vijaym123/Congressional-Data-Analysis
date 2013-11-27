@@ -1,0 +1,71 @@
+<bill session="112" type="sr" number="116" updated="2013-07-20T02:11:39-04:00">
+  <state datetime="2011-06-29">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2011-06-29"/>
+  </status>
+  <introduced datetime="2011-03-30"/>
+  <titles>
+    <title as="introduced" type="official">A resolution to provide for expedited Senate consideration of certain nominations subject to advice and consent.</title>
+  </titles>
+  <sponsor id="300087"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2011-03-30"/>
+    <cosponsor id="300009" joined="2011-03-30"/>
+    <cosponsor id="412384" joined="2011-03-30"/>
+    <cosponsor id="300019" joined="2011-03-30"/>
+    <cosponsor id="300025" joined="2011-03-30"/>
+    <cosponsor id="300038" joined="2011-03-30"/>
+    <cosponsor id="412320" joined="2011-03-30"/>
+    <cosponsor id="300062" joined="2011-03-30"/>
+    <cosponsor id="300067" joined="2011-03-30"/>
+    <cosponsor id="300070" joined="2011-03-30"/>
+    <cosponsor id="300072" joined="2011-03-30"/>
+    <cosponsor id="300076" joined="2011-05-03"/>
+    <cosponsor id="300081" joined="2011-03-30"/>
+    <cosponsor id="300082" joined="2011-03-30"/>
+    <cosponsor id="412247" joined="2011-03-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-03-30">
+      <text>Referred to the Committee on Rules and Administration.</text>
+      <reference ref="CR S1994" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2011-05-11">
+      <text>Committee on Rules and Administration. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Rules and Administration"/>
+    </calendar>
+    <action datetime="2011-05-12">
+      <text>Committee on Rules and Administration. Reported by Senator Schumer without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2011-05-12" calendar="Senate Legislative" under="General Orders" number="45">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 45.</text>
+    </calendar>
+    <action datetime="2011-06-29">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S4181-4197, S4201-4209" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2011-06-29" how="roll" result="pass" roll="103" type="vote" where="s">
+      <text>Resolution agreed to in Senate with amendments by Yea-Nay. 89 - 8. Record Vote Number: 103.</text>
+      <reference ref="CR S4208-4209" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Federal officials"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments>
+    <amendment number="s518"/>
+    <amendment number="s521"/>
+    <amendment number="s522"/>
+    <amendment number="s523"/>
+  </amendments>
+  <summary>6/29/2011--Passed Senate amended.
+Prescribes expedited procedures for Senate consideration of nominations (subject to advice and consent) for specified positions. Requires the Secretary of the Senate to create the appropriate sections on the Executive Calendar to reflect and effectuate the requirements of this resolution. Requires the report accompanying each public bill or joint resolution reported by any committee to contain an evaluation and justification for the establishment in the measure of any new position appointed by the President within an existing or new federal entity.</summary>
+</bill>

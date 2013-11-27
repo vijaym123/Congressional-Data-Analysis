@@ -1,0 +1,64 @@
+<bill session="113" type="s" number="244" updated="2013-11-02T06:54:15-04:00">
+  <state datetime="2013-06-19">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2013-06-19"/>
+  </status>
+  <introduced datetime="2013-02-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Energy Policy Act of 2005 to modify the Pilot Project offices of the Federal Permit Streamlining Pilot Project.</title>
+  </titles>
+  <sponsor id="412494"/>
+  <cosponsors>
+    <cosponsor id="412554" joined="2013-02-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <calendar datetime="2013-03-14" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2013-04-22">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Wyden without amendment. With written report No. 113-22.</text>
+    </action>
+    <calendar datetime="2013-04-22" calendar="Senate Legislative" under="General Orders" number="53">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 53.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2013-06-19" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4717-4722" label="consideration"/>
+      <reference ref="CR S4720" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2013-06-20T14:00:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2013-06-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2013-06-20T15:41:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="767"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Colorado"/>
+    <term name="Department of the Interior"/>
+    <term name="Land use and conservation"/>
+    <term name="Licensing and registrations"/>
+    <term name="Montana"/>
+    <term name="New Mexico"/>
+    <term name="Oil and gas"/>
+    <term name="Utah"/>
+    <term name="Wyoming"/>
+  </subjects>
+  <amendments/>
+  <summary>6/19/2013--Passed Senate without amendment.
+Amends the Energy Policy Act of 2005 to revise the list of Bureau of Land Management (BLM) Federal Permit Streamlining Pilot Project offices. Replaces the Miles City, Montana, field office with the Montana/Dakotas State Office, Montana (Billings).</summary>
+</bill>

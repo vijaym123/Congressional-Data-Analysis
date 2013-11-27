@@ -1,0 +1,96 @@
+<bill session="112" type="s" number="3313" updated="2013-07-20T02:45:19-04:00">
+  <state datetime="2012-12-13">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2012-12-13"/>
+  </status>
+  <introduced datetime="2012-06-19"/>
+  <titles>
+    <title as="introduced" type="short">Women Veterans and Other Health Care Improvements Act of 2012</title>
+    <title as="reported to senate" type="short">Women Veterans and Other Health Care Improvements Act of 2012</title>
+    <title as="passed senate" type="short">Women Veterans and Other Health Care Improvements Act of 2012</title>
+    <title as="introduced" type="official">A bill to amend title 38, United States Code, to improve the assistance provided by the Department of Veterans Affairs to women veterans, to improve health care furnished by the Department, and for other purposes.</title>
+    <title as="amended by senate" type="official">A bill to amend title 38, United States Code, to improve the reproductive assistance provided by the Department of Veterans Affairs to severely wounded, ill, or injured veterans and their spouses, and for other purposes.</title>
+  </titles>
+  <sponsor id="300076"/>
+  <cosponsors>
+    <cosponsor id="412326" joined="2012-06-20"/>
+    <cosponsor id="300073" joined="2012-07-25"/>
+    <cosponsor id="400357" joined="2012-06-26"/>
+    <cosponsor id="412244" joined="2012-06-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2012-06-19">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4302-4303"/>
+    </action>
+    <action state="REFERRED" datetime="2012-06-19">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <reference ref="CR S4303-4304" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2012-06-27">
+      <text>Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 112-668.</text>
+      <committee name="Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2012-09-12">
+      <text>Committee on Veterans' Affairs. Ordered to be reported with amendments favorably.</text>
+      <committee name="Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2012-12-13">
+      <text>Committee on Veterans' Affairs. Reported by Senator Murray with an amendment in the nature of a substitute and an amendment to the title. Without written report.</text>
+    </action>
+    <calendar datetime="2012-12-13" calendar="Senate Legislative" under="General Orders" number="564">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 564.</text>
+    </calendar>
+    <action datetime="2012-12-13">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S8016-8018" label="consideration"/>
+      <reference ref="CR S8016" label="text of measure as reported in Senate"/>
+    </action>
+    <action datetime="2012-12-13">
+      <text>The committee substitute as amended agreed to by Unanimous Consent.</text>
+      <reference ref="CR S8017" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2012-12-13" how="by Voice Vote" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment and an amendment to the Title by Voice Vote.</text>
+      <reference ref="CR S8017-8018" label="text"/>
+    </vote>
+    <action datetime="2012-12-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2012-12-17T14:12:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2012-12-17">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-01-02">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, Markup, Reporting"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="112" type="h" number="6527"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Child care and development"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Government information and archives"/>
+    <term name="Health care coverage and access"/>
+    <term name="Mental health"/>
+    <term name="Sex and reproductive health"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' medical care"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3336"/>
+  </amendments>
+  <summary>12/13/2012--Passed Senate amended.
+Women Veterans and Other Health Care Improvements Act of 2012 - Directs the Secretary of Veterans Affairs to furnish fertility counseling and treatment, including assisted reproductive technology, to a spouse or surrogate of a severely wounded, ill, or injured veteran who has an infertility condition incurred or aggravated during active duty and is enrolled in the Department of Veterans Affairs (VA) patient enrollment system. Authorizes the Secretary to pay, to any such veteran, an amount to assist in the adoption of one or more children. Directs the Secretary to: (1) report annually to the congressional veterans committees on the counseling and treatment provided under this Act; (2) prescribe regulations on the furnishing of such counseling, treatment, and adoption assistance; and (3) coordinate the furnishing of such counseling and treatment with that provided by the Department of Defense (DOD).</summary>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="112" type="s" number="1958" updated="2013-07-20T02:33:29-04:00">
+  <state datetime="2011-12-07">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2011-12-07"/>
+  </status>
+  <introduced datetime="2011-12-07"/>
+  <titles>
+    <title as="introduced" type="official">A bill to extend the National Flood Insurance Program until May 31, 2012.</title>
+  </titles>
+  <sponsor id="400418"/>
+  <cosponsors>
+    <cosponsor id="300063" joined="2011-12-07"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2011-12-07" how="by Voice Vote" result="pass" type="vote" where="s">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+      <reference ref="CR S8408" label="consideration"/>
+      <reference ref="CR S8408" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2011-12-08T09:15:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2011-12-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2011-12-08">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2012-05-09">
+      <text>Committee on Banking, Housing, and Urban Affairs Subcommittee on Economic Policy. Hearings held. With printed Hearing: S.Hrg. 112-698.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="HSBA" subcommittee="Economic Policy" name="House Financial Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="3628"/>
+    <bill relation="unknown" session="112" type="s" number="1548"/>
+    <bill relation="unknown" session="112" type="s" number="1864"/>
+    <bill relation="unknown" session="112" type="s" number="2344"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Floods and storm protection"/>
+  </subjects>
+  <amendments/>
+  <summary>12/7/2011--Passed Senate without amendment.
+Amends the National Flood Insurance Act of 1968 to extend the National Flood Insurance Program from September 30, 2011, through May 31, 2012. Continues through May 31, 2012, the authority of the Administrator of the Federal Emergency Management Agency (FEMA), with the President's approval, to issue up to $20.725 billion in notes and obligations to finance the Program. Amends the Continuing Appropriations Act, 2012 to repeal the termination of such authority as of November 18, 2011.</summary>
+</bill>

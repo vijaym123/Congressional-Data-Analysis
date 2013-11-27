@@ -1,0 +1,78 @@
+<bill session="112" type="s" number="1409" updated="2013-07-20T02:28:36-04:00">
+  <state datetime="2012-08-01">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2012-08-01"/>
+  </status>
+  <introduced datetime="2011-07-22"/>
+  <titles>
+    <title as="introduced" type="short">Improper Payments Elimination and Recovery Improvement Act of 2011</title>
+    <title as="reported to senate" type="short">Improper Payments Elimination and Recovery Improvement Act of 2012</title>
+    <title as="passed senate" type="short">Improper Payments Elimination and Recovery Improvement Act of 2012</title>
+    <title as="introduced" type="official">A bill to intensify efforts to identify, prevent, and recover payment error, waste, fraud, and abuse within Federal spending.</title>
+  </titles>
+  <sponsor id="300019"/>
+  <cosponsors>
+    <cosponsor id="412384" joined="2011-07-22"/>
+    <cosponsor id="412246" joined="2012-03-12"/>
+    <cosponsor id="300025" joined="2011-07-22"/>
+    <cosponsor id="300067" joined="2011-07-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-07-22">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2011-10-19">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2012-07-12">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 112-181.</text>
+    </action>
+    <calendar datetime="2012-07-12" calendar="Senate Legislative" under="General Orders" number="449">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 449.</text>
+    </calendar>
+    <action datetime="2012-08-01">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S5894-5898" label="consideration"/>
+      <reference ref="CR S5894-5896" label="text of measure as reported in Senate"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2012-08-01" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2012-08-02T09:55:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2012-08-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2012-08-02">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="h" number="4053"/>
+    <bill relation="unknown" session="112" type="h" number="4053"/>
+    <bill relation="unknown" session="112" type="h" number="4310"/>
+    <bill relation="unknown" session="112" type="s" number="2834"/>
+    <bill relation="unknown" session="112" type="s" number="3254"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Accounting and auditing"/>
+    <term name="Congressional oversight"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Social security and elderly assistance"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2770"/>
+  </amendments>
+  <summary>8/1/2012--Passed Senate amended.
+Improper Payments Elimination and Recovery Improvement Act of 2012 - (Sec. 3) Amends the Improper Payments Information Act of 2002 to require the Director of the Office of Management and Budget (OMB) to: (1) identify, on an annual basis, a list of high-priority federal programs for greater levels of oversight and review of improper payments; (2) coordinate with executive agencies responsible for administering high-priority programs to establish semi-annual or quarterly targets and actions for reducing improper payments; and (3) provide guidance to agencies for improving estimates of improper payments. Requires agencies to report to their Inspectors General on an annual basis on any high-priority programs in which the highest dollar value or rate of improper payments occurs or for which there is a higher risk of improper payments. Requires OMB to make agency reports available on a central website. (Sec. 5) Requires each agency to review prepayment and pre-award procedures and available databases to determine program or award eligibility and prevent improper payments before releasing any federal funds. Establishes a Do Not Pay Initiative based on information from databases maintained by the federal government, including: (1) the Death Master File of the Social Security Administration (SSA), (2) the Excluded Parties List System of the General Services Administration (GSA), (3) the Debt Check Database of the Department of the Treasury, (4) the Credit Alert System or Credit Alert Interactive Voice Response System of the Department of Housing and Urban Development (HUD), (5) the List of Excluded Individuals/Entities of the Office of Inspector General of the Department of Health and Human Services (HHS), and (6) any other database designated by the Director of OMB that substantially assists in preventing improper payments. Requires the Director to: (1) provide to Congress a plan for the inclusion of other databases in the Do Not Pay Initiative, for agency access to the Initiative, and for multilateral data use agreements for carrying out the Initiative; (2) establish a working system for prepayment and pre-award review that includes the Do Not Pay Initiative; (3) establish a plan for improving the quality, accuracy, and timeliness of death data maintained by SSA; and (4) submit annual reports to Congress on whether the Do Not Pay Initiative has reduced improper payments or awards. Requires each agency to review all payments and awards for all of its programs through the working system not later later than June 1, 2013. Amends the Privacy Act to authorize each agency head and Inspector General to enter into computer matching agreements that allow ongoing data matching for detecting and preventing improper payments. Requires OMB to issue guidance: (1) for such agreements, including standards for reimbursement of costs, retention and timely destruction of records, and prohibitions on duplication and redisclosure of records; and (2) for Data Integrity Boards established under the Privacy Act to improve their effectiveness and responsiveness and ensure privacy protections. Directs the Attorney General to submit recommendations for increasing the use of, access to, and the technical feasibility of using data on the federal, state, and local conviction and incarceration status of individuals to identify and prevent improper payments and fraud. (Sec. 6) Requires the Director to determine the current and historical rates and amounts of recovery of improper payments and targets for recovering improper payments.</summary>
+</bill>

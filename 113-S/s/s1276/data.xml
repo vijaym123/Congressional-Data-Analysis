@@ -1,0 +1,85 @@
+<bill session="113" type="s" number="1276" updated="2013-11-02T07:03:01-04:00">
+  <state datetime="2013-10-10">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2013-10-10"/>
+  </status>
+  <introduced datetime="2013-07-10"/>
+  <titles>
+    <title type="short" as="introduced">Security Clearance Oversight and Reform Enhancement Act</title>
+    <title type="short" as="reported to senate">Security Clearance Oversight and Reform Enhancement Act</title>
+    <title type="short" as="passed senate">Security Clearance Oversight and Reform Enhancement Act</title>
+    <title type="official" as="introduced">A bill to increase oversight of the Revolving Fund of the Office of Personnel Management, strengthen the authority to terminate or debar employees and contractors involved in misconduct affecting the integrity of security clearance background investigations, enhance transparency regarding the criteria utilized by Federal departments and agencies to determine when a security clearance is required, and for other purposes.</title>
+    <title type="official" as="amended by senate">A bill to increase oversight of the Revolving Fund of the Office of Personnel Management.</title>
+  </titles>
+  <sponsor id="412244"/>
+  <cosponsors>
+    <cosponsor id="300005" joined="2013-07-31"/>
+    <cosponsor id="412326" joined="2013-09-24"/>
+    <cosponsor id="400576" joined="2013-07-10"/>
+    <cosponsor id="412496" joined="2013-07-10"/>
+    <cosponsor id="412243" joined="2013-07-10"/>
+    <cosponsor id="300078" joined="2013-07-11"/>
+    <cosponsor id="400325" joined="2013-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2013-07-31" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2013-09-25">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment in the nature of a substitute. With written report No. 113-111. Additional views filed.</text>
+    </action>
+    <calendar datetime="2013-09-25" calendar="Senate Legislative" under="General Orders" number="199">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 199.</text>
+    </calendar>
+    <action datetime="2013-10-10">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S7387" label="consideration"/>
+      <reference ref="CR S7387" label="text of amendment in the nature of a substitute"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2013-10-10" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2013-10-11">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2013-10-11T14:01:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2013-10-11">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="2860"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Accounting and auditing"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Budget process"/>
+    <term name="Director of National Intelligence"/>
+    <term name="Employee hiring"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government studies and investigations"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Office of Personnel Management (OPM)"/>
+    <term name="Personnel records"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2001"/>
+  </amendments>
+  <summary>7/10/2013--Introduced.
+Security Clearance Oversight and Reform Enhancement Act - Authorizes funding for the cost of audits, investigations, and oversight activities relating to the revolving fund of the Office of Personnel Management (OPM) for financing investigations, training, and other OPM functions. Directs OPM to terminate or debar an individual employed or contracted by OPM if OPM determines that the individual was involved in misconduct affecting the integrity of the OPM background investigations program. Requires the Director of National Intelligence to issue guidance to federal departments and agencies on positions requiring a security clearance.</summary>
+</bill>

@@ -1,0 +1,60 @@
+<bill session="111" type="s" number="3248" updated="2013-07-20T00:54:57-04:00">
+  <state datetime="2010-05-20">REPORTED</state>
+  <status>
+    <unknown datetime="2010-05-20"/>
+  </status>
+  <introduced datetime="2010-04-22"/>
+  <titles>
+    <title as="introduced" type="official">A bill to designate the Department of the Interior Building in Washington, District of Columbia, as the "Stewart Lee Udall Department of the Interior Building".</title>
+  </titles>
+  <sponsor id="300009"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2010-05-20"/>
+    <cosponsor id="400064" joined="2010-05-20"/>
+    <cosponsor id="300019" joined="2010-05-20"/>
+    <cosponsor id="412242" joined="2010-05-19"/>
+    <cosponsor id="300064" joined="2010-05-20"/>
+    <cosponsor id="300071" joined="2010-04-22"/>
+    <cosponsor id="412325" joined="2010-05-26"/>
+    <cosponsor id="300082" joined="2010-04-22"/>
+    <cosponsor id="400357" joined="2010-05-20"/>
+    <cosponsor id="400412" joined="2010-04-22"/>
+    <cosponsor id="412247" joined="2010-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2010-04-22">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2589-2590"/>
+    </action>
+    <action state="REFERRED" datetime="2010-04-22">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2010-05-20">
+      <text>Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Environment and Public Works"/>
+    </calendar>
+    <action datetime="2010-05-25">
+      <text>Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute and an amendment to the title. Without written report.</text>
+    </action>
+    <calendar datetime="2010-05-25" calendar="Senate Legislative" under="General Orders" number="407">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 407.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="h" number="5128"/>
+    <bill relation="unknown" session="111" type="h" number="5128"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Department of the Interior"/>
+    <term name="District of Columbia"/>
+    <term name="Government buildings, facilities, and property"/>
+  </subjects>
+  <amendments/>
+  <summary>5/25/2010--Reported to Senate amended.
+Designates the United States Department of the Interior Building located at 1849 C Street, NW, in Washington, DC, as the "Stewart Lee Udall Department of the Interior Building."</summary>
+</bill>

@@ -1,0 +1,124 @@
+<bill session="113" type="s" number="1238" updated="2013-11-02T07:02:42-04:00">
+  <state datetime="2013-07-10">PROV_KILL:CLOTUREFAILED</state>
+  <status>
+    <unknown datetime="2013-07-10"/>
+  </status>
+  <introduced datetime="2013-06-27"/>
+  <titles>
+    <title type="short" as="introduced">Keep Student Loans Affordable Act of 2013</title>
+    <title type="official" as="introduced">A bill to amend the Higher Education Act of 1965 to extend the current reduced interest rate for undergraduate Federal Direct Stafford Loans for 1 year, to modify required distribution rules for pension plans, and for other purposes.</title>
+  </titles>
+  <sponsor id="300081"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2013-06-27"/>
+    <cosponsor id="412326" joined="2013-06-27"/>
+    <cosponsor id="412330" joined="2013-07-09"/>
+    <cosponsor id="412490" joined="2013-06-27"/>
+    <cosponsor id="300011" joined="2013-06-27"/>
+    <cosponsor id="400050" joined="2013-06-27"/>
+    <cosponsor id="300018" joined="2013-07-09"/>
+    <cosponsor id="400064" joined="2013-06-27"/>
+    <cosponsor id="412246" joined="2013-06-27"/>
+    <cosponsor id="412390" joined="2013-06-27"/>
+    <cosponsor id="412586" joined="2013-07-09"/>
+    <cosponsor id="300038" joined="2013-06-27"/>
+    <cosponsor id="300043" joined="2013-07-08"/>
+    <cosponsor id="412378" joined="2013-06-27"/>
+    <cosponsor id="412223" joined="2013-06-27"/>
+    <cosponsor id="412324" joined="2013-06-27"/>
+    <cosponsor id="300051" joined="2013-06-27"/>
+    <cosponsor id="412281" joined="2013-06-27"/>
+    <cosponsor id="412200" joined="2013-06-27"/>
+    <cosponsor id="300058" joined="2013-06-27"/>
+    <cosponsor id="412242" joined="2013-06-27"/>
+    <cosponsor id="300063" joined="2013-06-27"/>
+    <cosponsor id="300065" joined="2013-06-27"/>
+    <cosponsor id="300066" joined="2013-06-27"/>
+    <cosponsor id="412243" joined="2013-06-27"/>
+    <cosponsor id="400272" joined="2013-06-27"/>
+    <cosponsor id="412325" joined="2013-06-27"/>
+    <cosponsor id="300073" joined="2013-06-27"/>
+    <cosponsor id="412194" joined="2013-06-27"/>
+    <cosponsor id="300076" joined="2013-06-27"/>
+    <cosponsor id="300078" joined="2013-06-27"/>
+    <cosponsor id="300080" joined="2013-06-27"/>
+    <cosponsor id="300082" joined="2013-06-27"/>
+    <cosponsor id="300084" joined="2013-06-27"/>
+    <cosponsor id="400357" joined="2013-06-27"/>
+    <cosponsor id="412507" joined="2013-06-27"/>
+    <cosponsor id="300087" joined="2013-07-08"/>
+    <cosponsor id="412323" joined="2013-06-27"/>
+    <cosponsor id="300093" joined="2013-06-27"/>
+    <cosponsor id="400412" joined="2013-07-11"/>
+    <cosponsor id="400413" joined="2013-06-27"/>
+    <cosponsor id="412542" joined="2013-06-27"/>
+    <cosponsor id="412247" joined="2013-06-27"/>
+    <cosponsor id="300100" joined="2013-06-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-27">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S5317, S5476"/>
+    </action>
+    <calendar datetime="2013-06-27" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="124">
+      <text>Introduced in the Senate. Read twice. Ordered Placed on Senate Legislative Calendar under General Orders. Calendar No. 124.</text>
+    </calendar>
+    <action datetime="2013-07-08">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S5513-5514" label="consideration"/>
+    </action>
+    <action datetime="2013-07-08">
+      <text>Cloture motion on the motion to proceed to measure presented in Senate.</text>
+      <reference ref="CR S5522-5524" label="consideration"/>
+      <reference ref="CR S5522" label="text"/>
+    </action>
+    <action datetime="2013-07-09">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S5531-5537, S5543-5564" label="consideration"/>
+    </action>
+    <action datetime="2013-07-10">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S5584-5602, S5603-5615" label="consideration"/>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="171" datetime="2013-07-10" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Cloture on the motion to proceed to measure not invoked in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 171.</text>
+      <reference ref="CR S5595" label="consideration"/>
+      <reference ref="CR S5595" label="text"/>
+    </vote-aux>
+    <action datetime="2013-07-10">
+      <text>Motion by Senator Reid to reconsider the vote by which cloture was not invoked on the motion to proceed to the measure (Record Vote No. 171) made in Senate.</text>
+      <reference ref="CR S5595" label="consideration"/>
+    </action>
+    <action datetime="2013-07-11">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S5625-5628" label="consideration"/>
+    </action>
+    <action datetime="2013-07-15">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S5675" label="consideration"/>
+    </action>
+    <action datetime="2013-07-16">
+      <text>Motion to proceed to measure considered in Senate.</text>
+      <reference ref="CR S5691" label="consideration"/>
+    </action>
+    <action datetime="2013-07-17">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S5717-5718" label="consideration"/>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="2574"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Higher education"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/27/2013--Introduced.
+Keep Student Loans Affordable Act of 2013 - Amends title IV (Student Assistance) of the Higher Education Act of 1965 to extend the 3.4% interest rate on Direct Stafford loans first disbursed to undergraduate students between July 1, 2011, and July 1, 2013, to Direct Stafford loans first disbursed to undergraduate students between July 1, 2011, and July 1, 2014. Amends the Internal Revenue Code to modify rules for required distributions from tax-exempt pension plans to an employee who dies before such employee's entire interest is distributed to require such interest to be distributed within five years after the death of such employee, subject to exceptions for an eligible designated beneficiary and surviving spouse of such employee. Defines "eligible designated beneficiary" to include a disabled or chronically-ill individual. Exempts from such modification a binding annuity contract in effect on the enactment date of this Act.</summary>
+</bill>

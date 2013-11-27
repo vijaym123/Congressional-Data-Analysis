@@ -1,0 +1,51 @@
+<bill session="111" type="sr" number="340" updated="2013-07-20T00:19:15-04:00">
+  <state datetime="2009-11-10">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2009-11-10"/>
+  </status>
+  <introduced datetime="2009-11-05"/>
+  <titles>
+    <title as="introduced" type="official">A resolution expressing support for designation of a National Veterans History Project Week to encourage public participation in a nationwide project that collects and preserves the stories of the men and women who served our Nation in times of war and conflict.</title>
+  </titles>
+  <sponsor id="300030"/>
+  <cosponsors>
+    <cosponsor id="300068" joined="2009-11-05"/>
+    <cosponsor id="300070" joined="2009-11-09"/>
+    <cosponsor id="412322" joined="2009-11-09"/>
+    <cosponsor id="300084" joined="2009-11-09"/>
+    <cosponsor id="412323" joined="2009-11-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2009-11-05">
+      <text>Referred to the Committee on Veterans' Affairs.</text>
+      <reference ref="CR S11221" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2009-11-10">
+      <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text>
+      <reference ref="CR S11354" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2009-11-10" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S11354" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="111" type="hr" number="866"/>
+    <bill relation="unknown" session="111" type="hr" number="1644"/>
+    <bill relation="unknown" session="111" type="sr" number="648"/>
+    <bill relation="unknown" session="111" type="sr" number="670"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Historical and cultural resources"/>
+    <term name="Military history"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>11/10/2009--Passed Senate without amendment.
+Recognizes National Veterans Awareness Week. Supports the designation of a National Veterans History Project Week. Calls on the people of the United States to interview at least one veteran in their families or communities according to guidelines provided by the Veterans History Project. Encourages local, state, and national organizations along with federal, state, city and county governmental institutions to participate in support of the effort to document, preserve, and honor the service of American wartime veterans.</summary>
+</bill>

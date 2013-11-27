@@ -1,0 +1,52 @@
+<bill session="112" type="sr" number="291" updated="2013-07-20T02:13:07-04:00">
+  <state datetime="2011-10-21">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2011-10-21"/>
+  </status>
+  <introduced datetime="2011-10-12"/>
+  <titles>
+    <title as="introduced" type="official">A resolution recognizing the religious and historical significance of the festival of Diwali.</title>
+  </titles>
+  <sponsor id="400272"/>
+  <cosponsors>
+    <cosponsor id="412384" joined="2011-10-19"/>
+    <cosponsor id="400050" joined="2011-10-13"/>
+    <cosponsor id="412246" joined="2011-10-18"/>
+    <cosponsor id="300027" joined="2011-10-12"/>
+    <cosponsor id="300064" joined="2011-10-13"/>
+    <cosponsor id="300067" joined="2011-10-13"/>
+    <cosponsor id="412325" joined="2011-10-19"/>
+    <cosponsor id="412321" joined="2011-10-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2011-10-12">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S6469" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2011-10-21">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2011-10-21" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S6889" label="consideration"/>
+      <reference ref="CR S6889" label="text as passed Senate"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="112" type="hr" number="439"/>
+    <bill relation="identical" session="112" type="sr" number="592"/>
+  </relatedbills>
+  <subjects>
+    <term name="Arts, culture, religion"/>
+    <term name="Asia"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Religion"/>
+  </subjects>
+  <amendments/>
+  <summary>10/21/2011--Passed Senate without amendment.
+Recognizes the religious and historical significance of the festival of Diwali.</summary>
+</bill>
