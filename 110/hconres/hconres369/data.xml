@@ -1,0 +1,75 @@
+<bill session="110" type="hc" number="369" updated="2013-07-19T22:11:56-04:00">
+  <state datetime="2008-07-14T16:25:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-07-14T16:25:00-04:00"/>
+  </status>
+  <introduced datetime="2008-06-10"/>
+  <titles>
+    <title as="introduced" type="official">Honoring the men and women of the Drug Enforcement Administration on the occasion of its 35th anniversary.</title>
+  </titles>
+  <sponsor id="400385"/>
+  <cosponsors>
+    <cosponsor id="400570" joined="2008-07-09"/>
+    <cosponsor id="400041" joined="2008-06-17"/>
+    <cosponsor id="400047" joined="2008-07-14"/>
+    <cosponsor id="400057" joined="2008-06-19"/>
+    <cosponsor id="412258" joined="2008-06-17"/>
+    <cosponsor id="400093" joined="2008-06-17"/>
+    <cosponsor id="400219" joined="2008-06-19"/>
+    <cosponsor id="400222" joined="2008-06-19"/>
+    <cosponsor id="412256" joined="2008-06-18"/>
+    <cosponsor id="400268" joined="2008-06-17"/>
+    <cosponsor id="400280" joined="2008-06-20"/>
+    <cosponsor id="400339" joined="2008-06-17"/>
+    <cosponsor id="400349" joined="2008-06-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-06-10">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2008-07-14T16:08:00-04:00">
+      <text>Mr. Schiff moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2008-07-14T16:08:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6433-6435" label="consideration"/>
+    </action>
+    <action datetime="2008-07-14T16:08:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 369.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-07-14T16:25:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H6433-6434" label="text"/>
+    </vote>
+    <action datetime="2008-07-14T16:25:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-07-15">
+      <text>Received in the Senate and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="sr" number="610"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Congressional tributes"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Department of Justice"/>
+    <term name="Drug Enforcement Administration (DEA)"/>
+    <term name="Drug abuse"/>
+    <term name="Drug law enforcement"/>
+    <term name="Federal employees"/>
+    <term name="Federal law enforcement officers"/>
+    <term name="Government operations and politics"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>7/14/2008--Passed House without amendment.
+Congratulates the Drug Enforcement Administration (DEA) on its 35th anniversary, honors the heroic sacrifice of its employees, and gives heartfelt thanks to the men and women of the DEA for their past and continued efforts to defend the American people from illegal drugs and terrorism.</summary>
+</bill>

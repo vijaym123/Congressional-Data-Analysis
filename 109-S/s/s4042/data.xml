@@ -1,0 +1,97 @@
+<bill session="109" type="s" number="4042" updated="2013-07-19T20:48:34-04:00">
+  <state datetime="2006-12-22">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2006-12-22"/>
+  </status>
+  <introduced datetime="2006-09-29"/>
+  <titles>
+    <title type="popular">Military Funeral Demonstrations bill</title>
+    <title as="introduced" type="official">A bill to amend title 18, United States Code, to prohibit disruptions of funerals of members or former members of the Armed Forces.</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors>
+    <cosponsor id="300006" joined="2006-09-29"/>
+    <cosponsor id="300021" joined="2006-09-29"/>
+    <cosponsor id="300026" joined="2006-09-29"/>
+    <cosponsor id="300050" joined="2006-11-14"/>
+    <cosponsor id="400194" joined="2006-12-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2006-09-29">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S10745-10746"/>
+    </action>
+    <action state="REFERRED" datetime="2006-09-29">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref=" CR S10746" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2006-12-07">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S11536" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2006-12-07" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11536" label="text"/>
+    </vote>
+    <action datetime="2006-12-07T22:25:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-12-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-12-07T22:51:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-12-07T22:51:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2006-12-09T00:12:00-05:00">
+      <text>Mr. Cannon moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-12-09T00:12:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR 12/8/2006 H9198-9199" label="consideration"/>
+    </action>
+    <action datetime="2006-12-09T00:12:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 4042.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2006-12-09T00:22:00-05:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR 12/8/2006 H9198" label="text"/>
+    </vote>
+    <action datetime="2006-12-09T00:22:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2006-12-09">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2006-12-20">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2006-12-22">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2006-12-22" type="public" number="109-464">
+      <text>Became Public Law No: 109-464.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="5037"/>
+    <bill relation="unknown" session="109" type="s" number="2452"/>
+    <bill relation="unknown" session="109" type="s" number="2779"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Armed forces and national security"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Picketing"/>
+    <term name="Public demonstrations"/>
+  </subjects>
+  <amendments/>
+  <summary>12/22/2006--Public Law.
+Amends the federal criminal code to make it unlawful for any person to engage in an activity within 60 minutes before and after, and within a specified distance of, a funeral of a member or former member of the Armed Forces at a cemetery other than a national cemetery that intentionally disburbs or tends to disturb the peace or good order of such funeral or impedes access to such funeral. Imposes a fine and/or prison term of up to one year for violations.</summary>
+</bill>

@@ -1,0 +1,66 @@
+<bill session="110" type="s" number="2290" updated="2013-07-19T22:40:49-04:00">
+  <state datetime="2007-11-16">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2007-11-16"/>
+  </status>
+  <introduced datetime="2007-11-01"/>
+  <titles>
+    <title as="introduced" type="official">A bill to designate the facility of the United States Postal Service located at 16731 Santa Ana Avenue in Fontana, California, as the "Beatrice E. Watson Post Office Building".</title>
+  </titles>
+  <sponsor id="300011"/>
+  <cosponsors>
+    <cosponsor id="300043" joined="2007-11-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2007-11-01">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S13691"/>
+    </action>
+    <action state="REFERRED" datetime="2007-11-01">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2007-11-14">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2007-11-14">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2007-11-14" calendar="Senate Legislative" under="General Orders" number="494">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 494.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2007-11-16" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S14656-14657" label="consideration"/>
+      <reference ref="CR S14656" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2007-11-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2007-12-04T14:12:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2007-12-04T17:02:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="h" number="3569"/>
+    <bill relation="unknown" session="110" type="h" number="3569"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="California"/>
+    <term name="Congressional tributes"/>
+    <term name="Government operations and politics"/>
+    <term name="Local officials"/>
+    <term name="Names"/>
+    <term name="Postal facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>11/1/2007--Introduced.
+Designates the facility of the United States Postal Service located at 16731 Santa Ana Avenue in Fontana, California, as the "Beatrice E. Watson Post Office Building."</summary>
+</bill>

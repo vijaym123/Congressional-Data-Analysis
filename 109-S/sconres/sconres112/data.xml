@@ -1,0 +1,61 @@
+<bill session="109" type="sc" number="112" updated="2013-07-19T20:13:22-04:00">
+  <state datetime="2006-07-29T01:50:00-04:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2006-07-29T01:50:00-04:00"/>
+  </status>
+  <introduced datetime="2006-07-20"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution relating to correcting a clerical error in the enrollment of S. 3693.</title>
+  </titles>
+  <sponsor id="300082"/>
+  <cosponsors/>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2006-07-20" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S8091" label="consideration"/>
+      <reference ref="CR S8091" label="text as passed Senate"/>
+      <reference ref="CR S8071" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2006-07-21">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-07-24T14:03:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-07-24T15:54:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2006-07-29T01:50:00-04:00">
+      <text>Mr. Cannon asked unanimous consent to take from the Speaker's table and consider.</text>
+    </action>
+    <action datetime="2006-07-29T01:50:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H6227" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2006-07-29T01:50:00-04:00" how="without objection" result="pass" type="vote2" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR 7/28/2005 H6227" label="text"/>
+    </vote>
+    <action datetime="2006-07-29T01:50:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="3693"/>
+    <bill relation="unknown" session="109" type="s" number="3693"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Aliens"/>
+    <term name="Congress"/>
+    <term name="Families"/>
+    <term name="Family violence"/>
+    <term name="Immigration"/>
+    <term name="Legislation"/>
+    <term name="Victims of crimes"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/2006--Passed House without amendment.
+Directs the Secretary of the Senate to make a correction in the enrollment of S. 3693 (technical corrections to the Violence Against Women and Department of Justice Reauthorization Act of 2005) relating to provisions of the Immigration and Naturalization Act granting waivers of inadmissibility to aliens who are victims of domestic violence.</summary>
+</bill>

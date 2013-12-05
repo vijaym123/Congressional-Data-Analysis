@@ -1,0 +1,68 @@
+<bill session="109" type="s" number="2028" updated="2013-07-19T20:31:09-04:00">
+  <state datetime="2006-11-16">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2006-11-16"/>
+  </status>
+  <introduced datetime="2005-11-17"/>
+  <titles>
+    <title as="introduced" type="official">A bill to provide for the reinstatement of a license for a certain Federal Energy Regulatory Commission project.</title>
+  </titles>
+  <sponsor id="300016"/>
+  <cosponsors>
+    <cosponsor id="300084" joined="2005-11-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-11-17">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <reference ref="CR S13162" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2006-03-30">
+      <text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 109-460.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-05-24">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2006-07-31">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Domenici with an amendment. With written report No. 109-303. Minority views filed.</text>
+    </action>
+    <calendar datetime="2006-07-31" calendar="Senate Legislative" under="General Orders" number="546">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 546.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2006-11-16" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S11105" label="consideration"/>
+      <reference ref="CR S11105" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2006-11-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-12-05T10:21:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-12-05T17:08:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG07" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="4417"/>
+    <bill relation="identical" session="109" type="h" number="4417"/>
+    <bill relation="unknown" session="109" type="h" number="4417"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Hydroelectric power"/>
+    <term name="Law"/>
+    <term name="Licenses"/>
+    <term name="Water resources development"/>
+    <term name="West Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>11/16/2006--Passed Senate amended.
+Directs the Federal Energy Regulatory Commission (FERC), upon the request of the licensee for project numbered 7307, to extend until December 31, 2007, the time required for commencement of project construction. Instructs FERC to reinstate, effective as of the date of its termination, any license terminated before the enactment of this Act.</summary>
+</bill>

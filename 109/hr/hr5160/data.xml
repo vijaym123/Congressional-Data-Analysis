@@ -1,0 +1,174 @@
+<bill session="109" type="h" number="5160" updated="2013-07-19T19:07:02-04:00">
+  <state datetime="2006-10-16">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2006-10-16"/>
+  </status>
+  <introduced datetime="2006-04-06"/>
+  <titles>
+    <title as="introduced" type="short">Long Island Sound Stewardship Act of 2006</title>
+    <title as="passed house" type="short">Long Island Sound Stewardship Act of 2006</title>
+    <title as="passed senate" type="short">Long Island Sound Stewardship Act of 2006</title>
+    <title as="enacted" type="short">Long Island Sound Stewardship Act of 2006</title>
+    <title as="introduced" type="official">To establish the Long Island Sound Stewardship Initiative.</title>
+  </titles>
+  <sponsor id="400375"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="2006-04-06"/>
+    <cosponsor id="400031" joined="2006-04-06"/>
+    <cosponsor id="400035" joined="2006-04-06"/>
+    <cosponsor id="400087" joined="2006-04-06"/>
+    <cosponsor id="400103" joined="2006-04-06"/>
+    <cosponsor id="400122" joined="2006-04-06"/>
+    <cosponsor id="400139" joined="2006-04-06"/>
+    <cosponsor id="400149" joined="2006-04-06"/>
+    <cosponsor id="400641" joined="2006-04-06"/>
+    <cosponsor id="400178" joined="2006-04-06"/>
+    <cosponsor id="400195" joined="2006-04-06"/>
+    <cosponsor id="400205" joined="2006-04-06"/>
+    <cosponsor id="400213" joined="2006-04-06"/>
+    <cosponsor id="400219" joined="2006-04-06"/>
+    <cosponsor id="400233" joined="2006-04-25"/>
+    <cosponsor id="400246" joined="2006-04-06"/>
+    <cosponsor id="400251" joined="2006-04-06"/>
+    <cosponsor id="400257" joined="2006-04-06"/>
+    <cosponsor id="400264" joined="2006-05-11"/>
+    <cosponsor id="400268" joined="2006-04-25"/>
+    <cosponsor id="400271" joined="2006-04-06"/>
+    <cosponsor id="400289" joined="2006-04-06"/>
+    <cosponsor id="400306" joined="2006-04-06"/>
+    <cosponsor id="400333" joined="2006-04-06"/>
+    <cosponsor id="400366" joined="2006-04-06"/>
+    <cosponsor id="400370" joined="2006-04-06"/>
+    <cosponsor id="400393" joined="2006-04-25"/>
+    <cosponsor id="400420" joined="2006-04-06"/>
+    <cosponsor id="400426" joined="2006-04-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-04-06">
+      <text>Referred to the Committee on Resources, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2006-04-06">
+      <text>Referred to House Resources</text>
+    </action>
+    <action datetime="2006-04-06">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2006-04-07">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2006-04-19">
+      <text>Referred to the Subcommittee on Fisheries and Oceans.</text>
+      <committee name="House Resources"/>
+    </action>
+    <action datetime="2006-04-19">
+      <text>Executive Comment Requested from Commerce.</text>
+      <committee name="House Resources"/>
+    </action>
+    <action datetime="2006-09-27T22:49:00-04:00">
+      <text>Mr. Pearce moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2006-09-27T22:50:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7644-7648" label="consideration"/>
+    </action>
+    <action datetime="2006-09-27T22:50:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5160.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-09-27T22:58:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7644-7646" label="text"/>
+    </vote>
+    <action datetime="2006-09-27T22:58:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-09-28">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2006-09-30" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR 9/29/2006 S10793" label="consideration"/>
+    </vote>
+    <topresident datetime="2006-09-30">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2006-10-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2006-10-06">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2006-10-16">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2006-10-16" type="public" number="109-359">
+      <text>Became Public Law No: 109-359.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII15" subcommittee="Fisheries Conservation, Wildlife, and Oceans" name="House Resources"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="307"/>
+    <bill relation="unknown" session="109" type="h" number="307"/>
+    <bill relation="unknown" session="109" type="s" number="158"/>
+    <bill relation="unknown" session="109" type="s" number="158"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Animals"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Coastal zone"/>
+    <term name="Commemorations"/>
+    <term name="Connecticut"/>
+    <term name="Conservation easements"/>
+    <term name="Cultural property"/>
+    <term name="Economics and public finance"/>
+    <term name="Ecosystem management"/>
+    <term name="Electronic government information"/>
+    <term name="Environmental education"/>
+    <term name="Environmental justice"/>
+    <term name="Environmental protection"/>
+    <term name="Estuaries"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal aid to water pollution control"/>
+    <term name="Gifts"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Government publicity"/>
+    <term name="Grants-in-aid"/>
+    <term name="Habitat conservation"/>
+    <term name="Historic sites"/>
+    <term name="History"/>
+    <term name="Internet"/>
+    <term name="Land transfers"/>
+    <term name="Land use"/>
+    <term name="Landowners"/>
+    <term name="Landscape protection"/>
+    <term name="Long Island Sound"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Natural areas"/>
+    <term name="Nature conservation"/>
+    <term name="New York State"/>
+    <term name="Nonprofit organizations"/>
+    <term name="Open space lands"/>
+    <term name="Outdoor recreation"/>
+    <term name="Performance measurement"/>
+    <term name="Planning"/>
+    <term name="Recreation areas"/>
+    <term name="Research natural areas"/>
+    <term name="Right of property"/>
+    <term name="Science, technology, communications"/>
+    <term name="Shore protection"/>
+    <term name="Social welfare"/>
+    <term name="Sports and recreation"/>
+    <term name="Wildlife conservation"/>
+  </subjects>
+  <amendments/>
+  <summary>10/16/2006--Public Law.
+Long Island Sound Stewardship Act of 2006 - (Sec. 2) States that the purpose of this Act is to establish the Long Island Sound Stewardship Initiative to identify, protect, and enhance upland sites within the Long Island Sound ecosystem with significant ecological, educational, open space, public access, or recreational value through a bi-state network of sites. (Sec. 4) Establishes the Long Island Sound Stewardship Initiative Region within Connecticut and New York. (Sec. 5) Authorizes the Administrator of the Environmental Protection Agency (EPA) to designate as a stewardship site any area that contributes to accomplishing the purpose of this Act. Requires the Administrator to provide: (1) a public comment period on the list of sites recommended by the Long Island Sound Stewardship Advisory Committee (established by this Act); and (2) an opportunity for owners of such sites to decline designation. Prohibits the Administrator from designating an area as a stewardship site unless the owner of the area is provided, and acknowledges the receipt of, an opinion of the owner's responsibility that arises from such designation. Requires the Administrator to review recommendations of the Committee. Authorizes the Administrator to designate as a stewardship site any site included on the Committee's list. (Sec. 6) Requires the Committee to: (1) evaluate applications for designation of areas as stewardship sites, develop management plans to address threats to such sites, and act on opportunities to protect and enhance stewardship sites; (2) develop recommended guidelines, criteria, and due dates for the submission of applications and the evaluation of information to recommend areas for designation as stewardship sites that fulfill terms of a multi-year management plan; (3) recommend to the Administrator a list of sites for designation; (4) develop management plans to address threats to stewardship sites; (5) raise awareness of the values of and threats to stewardship sties; (6) makes grant recommendations to the Administrator; and (7) recommend to the Administrator ways to leverage additional resources for improved stewardship of the region. Authorizes the Committee, in reviewing applications for recommendation of a recreation area for designation, to use a selection technique that includes consideration of public access, community support, high population density, environmental justice, open spaces, and cultural, historic, and scenic characteristics. Authorizes the Committee, in reviewing applications for recommendation of a natural area with ecological value for designation, to use a selection technique that includes consideration of: (1) measurable conservation targets for the region; and (2) prioritizing new sites using systematic site selection that considers ecological uniqueness, species viability, habitat heterogeneity, size, quality, open spaces, land cover, value, and threats. Requires the Committee to submit to the Administrator its list of sites recommended for designation. Prohibits the Committee from including a site on the list unless, prior to submission, the owner of the site is notified of and allowed to decline inclusion of the site in the list. Requires the Committee, in identifying sites for inclusion in the list, to provide an opportunity for public comments. (Sec. 7) Authorizes the Administrator to provide grants and other assistance for projects to fulfill the purpose of this Act. Limits the federal share to 60%. (Sec. 8) Establishes the Long Island Sound Stewardship Advisory Committee and provides for the composition of the Committee's membership. Requires the Committee to use an adaptive management framework to: (1) identify the best policy initiatives and actions; and (2) apply the framework to the process for making recommendations to the Administrator concerning designation of stewardship sites. Terminates the Committee on December 31, 2011. (Sec. 9) Requires the Administrator to make available to the public a report concerning: (1) the role of this Act in protecting the Long Island Sound; (2) site evaluation; (3) information about grants for the purchase of land or property rights to protect stewardship sites; and (4) information about funding and any new stewardship sites. Requires the Committee to report annually (until its termination) to the Administrator and the decision making body of the Long Island Sound Study Management Conference on the Committee's findings and recommendations. Requires the Committee to recommend that the Administrator award grants to help secure and improve the open space, public access, or ecological values of stewardship sites through: (1) purchase of stewardship property; (2) purchase of relevant property rights; or (3) entering into any other binding legal arrangement that ensures that the values of a site are sustained. Requires the Committee to exert due diligence to ensure that its recommendations result in an equitable distribution of funds between the states. (Sec. 10) Prohibits anything in this Act from requiring private property owners located within the Region to participate in the Initiative. (Sec. 11) Authorizes appropriations.</summary>
+</bill>

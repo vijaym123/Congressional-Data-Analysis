@@ -1,0 +1,44 @@
+<bill session="109" type="h" number="1027" updated="2013-07-19T19:13:14-04:00">
+  <state datetime="2005-03-01">REFERRED</state>
+  <status>
+    <introduced datetime="2005-03-01"/>
+  </status>
+  <introduced datetime="2005-03-01"/>
+  <titles>
+    <title as="introduced" type="official">To release to the State of Arkansas a reversionary interest in Camp Joseph T. Robinson.</title>
+  </titles>
+  <sponsor id="400383"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-03-01">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2005-03-17">
+      <text>Executive Comment Requested from DOD.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+    <action datetime="2005-03-17">
+      <text>Referred to the Subcommittee on Readiness.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS03" subcommittee="Readiness" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="s" number="454"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Arkansas"/>
+    <term name="Armed forces and national security"/>
+    <term name="Army"/>
+    <term name="Land transfers"/>
+    <term name="Military bases"/>
+    <term name="National Guard"/>
+  </subjects>
+  <amendments/>
+  <summary>3/1/2005--Introduced.
+Releases to the State of Arkansas certain reversionary interests in and to the surface estate of the land comprising Camp Joseph T. Robinson, Arkansas.</summary>
+</bill>

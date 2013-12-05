@@ -1,0 +1,67 @@
+<bill session="110" type="s" number="1585" updated="2013-07-19T22:34:10-04:00">
+  <state datetime="2007-12-13">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2007-12-13"/>
+  </status>
+  <introduced datetime="2007-06-11"/>
+  <titles>
+    <title as="introduced" type="official">A bill to designate the Department of Veterans Affairs Outpatient Clinic in Tulsa, Oklahoma, as the "Ernest Childers Department of Veterans Affairs Outpatient Clinic".</title>
+  </titles>
+  <sponsor id="300055"/>
+  <cosponsors>
+    <cosponsor id="400576" joined="2007-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2007-06-11">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S7454"/>
+    </action>
+    <action state="REFERRED" datetime="2007-06-11">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <reference ref="CR S7454" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2007-12-13">
+      <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text>
+      <reference ref="CR S15572" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2007-12-13" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S15572" label="text"/>
+    </vote>
+    <action datetime="2007-12-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2007-12-17T14:27:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2007-12-17T14:28:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="366"/>
+    <bill relation="unknown" session="110" type="h" number="366"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Ambulatory care"/>
+    <term name="Armed forces and national security"/>
+    <term name="Clinics"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Health"/>
+    <term name="History"/>
+    <term name="Minorities"/>
+    <term name="Names"/>
+    <term name="Native Americans"/>
+    <term name="Oklahoma"/>
+    <term name="Veterans' hospitals"/>
+    <term name="World War II"/>
+  </subjects>
+  <amendments/>
+  <summary>12/13/2007--Passed Senate without amendment.
+Designates the Department of Veterans Affairs Outpatient Clinic in Tulsa, Oklahoma, as the "Ernest Childers Department of Veterans Affairs Outpatient Clinic."</summary>
+</bill>

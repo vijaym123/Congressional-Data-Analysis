@@ -1,0 +1,95 @@
+<bill session="109" type="h" number="4382" updated="2013-07-19T19:43:02-04:00">
+  <state datetime="2006-09-25T14:26:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-09-25T14:26:00-04:00"/>
+  </status>
+  <introduced datetime="2005-11-17"/>
+  <titles>
+    <title as="introduced" type="short">Southern Nevada Readiness Center Act</title>
+    <title as="reported to house" type="short">Southern Nevada Readiness Center Act</title>
+    <title as="passed house" type="short">Southern Nevada Readiness Center Act</title>
+    <title as="introduced" type="official">To provide for the conveyance of certain land in Clark County, Nevada, for use by the Nevada National Guard.</title>
+  </titles>
+  <sponsor id="400324"/>
+  <cosponsors>
+    <cosponsor id="400024" joined="2005-11-17"/>
+    <cosponsor id="400148" joined="2005-11-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-11-17">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-11-18">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E2397"/>
+    </action>
+    <action datetime="2005-11-29">
+      <text>Referred to the Subcommittee on Forests and Forest Health.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-03-09">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-07-19">
+      <text>Subcommittee on Forests and Forest Health Discharged.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-07-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-07-19">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="2006-09-06T19:30:00-04:00">
+      <text>Reported by the Committee on Resources. H. Rept. 109-629.</text>
+    </action>
+    <calendar datetime="2006-09-06T19:36:00-04:00" calendar="Union" number="369">
+      <text>Placed on the Union Calendar, Calendar No. 369.</text>
+    </calendar>
+    <action datetime="2006-09-25T14:22:00-04:00">
+      <text>Mr. Renzi moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-09-25T14:22:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6938-6939" label="consideration"/>
+    </action>
+    <action datetime="2006-09-25T14:22:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4382.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-09-25T14:26:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6939" label="text"/>
+    </vote>
+    <action datetime="2006-09-25T14:26:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-09-26">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2006-11-13">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII20" subcommittee="Forests and Forest Health" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="1914"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Armed forces and national security"/>
+    <term name="Land transfers"/>
+    <term name="Military bases"/>
+    <term name="National Guard"/>
+    <term name="Nevada"/>
+  </subjects>
+  <amendments/>
+  <summary>9/25/2006--Passed House without amendment.
+Southern Nevada Readiness Center Act - Permits Clark County, Nevada, to convey, without consideration, between 35 and 50 acres of land in Clark County to the Nevada Division of State Lands for use by the Nevada National Guard.</summary>
+</bill>

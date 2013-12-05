@@ -1,0 +1,114 @@
+<bill session="110" type="h" number="1337" updated="2013-07-19T21:15:25-04:00">
+  <state datetime="2007-10-22T15:40:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-10-22T15:40:00-04:00"/>
+  </status>
+  <introduced datetime="2007-03-06"/>
+  <titles>
+    <title as="introduced" type="official">To provide for a feasibility study of alternatives to augment the water supplies of the Central Oklahoma Master Conservancy District and cities served by the District.</title>
+  </titles>
+  <sponsor id="400077"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2007-03-06">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-03-12">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-04-19">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-04-19">
+      <text>Forwarded by Subcommittee to Full Committee by Unanimous Consent .</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-06-28">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2007-06-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-07-10T14:01:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-221.</text>
+    </action>
+    <calendar datetime="2007-07-10T14:01:00-04:00" calendar="Union" number="137">
+      <text>Placed on the Union Calendar, Calendar No. 137.</text>
+    </calendar>
+    <action datetime="2007-07-10T14:39:00-04:00">
+      <text>Mr. Sarbanes moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-07-10T14:40:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7443-7444" label="consideration"/>
+    </action>
+    <action datetime="2007-07-10T14:40:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1337.</text>
+    </action>
+    <action datetime="2007-07-10T14:45:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2007-07-11T20:10:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7628" label="consideration"/>
+    </action>
+    <vote state="PROV_KILL:SUSPENSIONFAILED" datetime="2007-07-11T20:18:00-04:00" how="roll" result="fail" roll="616" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 208 - 211 (Roll no. 616).</text>
+      <reference ref="CR 7/10/2007 CR H7443" label="text"/>
+    </vote>
+    <action datetime="2007-07-11T20:18:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-10-22T15:37:00-04:00">
+      <text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-10-22T15:37:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11802-11803" label="consideration"/>
+    </action>
+    <action datetime="2007-10-22T15:38:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1337.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-10-22T15:40:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H11802-11803" label="text"/>
+    </vote>
+    <action datetime="2007-10-22T15:40:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="2007-10-23" calendar="Senate Legislative" under="General Orders" number="437">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 437.</text>
+    </calendar>
+    <action datetime="2008-06-11">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+      <reference ref="CR S5530" label="consideration"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="175"/>
+    <bill relation="identical" session="110" type="s" number="175"/>
+    <bill relation="unknown" session="110" type="s" number="175"/>
+    <bill relation="unknown" session="110" type="s" number="2739"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Governmental investigations"/>
+    <term name="Infrastructure"/>
+    <term name="Lakes"/>
+    <term name="Oklahoma"/>
+    <term name="Water districts"/>
+    <term name="Water storage"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>10/22/2007--Passed House amended.
+Directs the Commissioner of the Bureau of Reclamation to conduct a feasibility study of alternatives to augment the water supplies of the Central Oklahoma Master Conservatory District and cities served by the District. Authorizes appropriations.</summary>
+</bill>

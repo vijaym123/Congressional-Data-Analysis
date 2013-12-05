@@ -1,0 +1,136 @@
+<bill session="109" type="s" number="39" updated="2013-07-19T20:13:48-04:00">
+  <state datetime="2005-07-01">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-07-01"/>
+  </status>
+  <introduced datetime="2005-01-25"/>
+  <titles>
+    <title as="introduced" type="short">National Ocean Exploration Program Act</title>
+    <title as="reported to senate" type="short">National Ocean Exploration Program Act</title>
+    <title as="passed senate" type="short">National Ocean Exploration Program Act</title>
+    <title as="passed senate" partial="1" type="short">NOAA Undersea Research Program Act of 2005</title>
+    <title as="introduced" type="official">A bill to establish a coordinated national ocean exploration program within the National Oceanic and Atmospheric Administration.</title>
+  </titles>
+  <sponsor id="300094"/>
+  <cosponsors>
+    <cosponsor id="300018" joined="2005-03-03"/>
+    <cosponsor id="300023" joined="2005-07-01"/>
+    <cosponsor id="300034" joined="2005-01-25"/>
+    <cosponsor id="300056" joined="2005-01-25"/>
+    <cosponsor id="300060" joined="2005-02-10"/>
+    <cosponsor id="300064" joined="2005-02-10"/>
+    <cosponsor id="300081" joined="2005-04-25"/>
+    <cosponsor id="300091" joined="2005-01-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-01-25">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S452"/>
+    </action>
+    <action state="REFERRED" datetime="2005-01-25">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <reference ref="CR S452-453" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-03-10">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Commerce, Science, and Transportation"/>
+    </calendar>
+    <action datetime="2005-04-13">
+      <text>Committee on Commerce, Science, and Transportation. Reported by Senator Stevens without amendment. With written report No. 109-57.</text>
+    </action>
+    <calendar datetime="2005-04-13" calendar="Senate Legislative" under="General Orders" number="71">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 71.</text>
+    </calendar>
+    <action datetime="2005-07-01">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S7929-7930" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2005-07-01" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2005-07-11T14:01:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-07-11">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-07-11">
+      <text>Referred to the Committee on Science, and in addition to the Committee on Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2005-07-11">
+      <text>Referred to House Science</text>
+    </action>
+    <action datetime="2005-07-11">
+      <text>Referred to House Resources</text>
+    </action>
+    <action datetime="2005-07-15">
+      <text>Referred to the Subcommittee on Fisheries and Oceans.</text>
+      <committee name="House Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting"/>
+    <committee code="HSSY" name="House Science" activity="Referral, In Committee"/>
+    <committee code="HSII" name="House Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII15" subcommittee="Fisheries Conservation, Wildlife, and Oceans" name="House Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Agriculture and food"/>
+    <term name="Aquaculture"/>
+    <term name="Archaeology"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Authorization"/>
+    <term name="Commemorations"/>
+    <term name="Commerce"/>
+    <term name="Communication in science"/>
+    <term name="Communication satellites"/>
+    <term name="Department of Commerce"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Environmental education"/>
+    <term name="Environmental protection"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal aid to research"/>
+    <term name="Federal officials"/>
+    <term name="Gifts"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Government publicity"/>
+    <term name="Great Lakes"/>
+    <term name="Higher education"/>
+    <term name="Historic sites"/>
+    <term name="History"/>
+    <term name="Information networks"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Marine ecology"/>
+    <term name="Marine safety"/>
+    <term name="Marine transportation"/>
+    <term name="Navigation"/>
+    <term name="Ocean"/>
+    <term name="Ocean floor"/>
+    <term name="Ocean mining"/>
+    <term name="Oceanographic research"/>
+    <term name="Oceanography"/>
+    <term name="Product development"/>
+    <term name="Public-private partnerships"/>
+    <term name="Remote sensing"/>
+    <term name="Reprogramming of appropriated funds"/>
+    <term name="Research and development"/>
+    <term name="Research centers"/>
+    <term name="Research grants"/>
+    <term name="Robots"/>
+    <term name="Science, technology, communications"/>
+    <term name="Scientific education"/>
+    <term name="Technological innovations"/>
+    <term name="Technology transfer"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1100"/>
+  </amendments>
+  <summary>7/1/2005--Passed Senate amended.
+Title I: National Ocean Exploration Program - National Ocean Exploration Program Act - (Sec. 102) Directs the Secretary of Commerce to establish within the National Oceanic and Atmospheric Administration (NOAA) a coordinated national ocean exploration program that promotes collaboration with existing programs of NOAA, including those authorized under the Undersea Research Program. (Sec. 103) Directs the Administrator of NOAA, in carrying out the program, to: (1) conduct interdisciplinary exploration voyages or other scientific activities to survey, inventory, observe, and assess little-known areas of the marine environment; (2) promote the development of oceanographic research; (3) accept donations for purposes of exploring or increasing knowledge of the oceans; and (4) avoid directing the programs towards activities relating to global warming, and instead focus on underwater regions of particular interest. (Sec. 104) Requires the NOAA to convene an ocean technology and infrastructure task force to develop and implement a strategy to: (1) facilitate the transfer of new exploration technology to the program; (2) improve the availability of communications infrastructure (including satellite capabilities) to the program; (3) develop a data management information processing system for information obtained under the program; (4) conduct public outreach activities to improve public understanding of ocean science, resources, and processes; and (5) encourage cost-sharing partnerships to assist in transferring exploration technology and technical expertise to the program. (Sec. 105) Authorizes the NOAA, the National Science Foundation, and other federal agencies participating in the program to participate in interagency financing in carrying out program activities. (Sec. 107) Authorizes appropriations for FY2006-FY2015. Title II: Undersea Research Program - NOAA Undersea Research Program Act of 2005 - (Sec. 202) Directs the Administrator of NOAA to establish and maintain an undersea research program. (Sec. 203) Requires the program to: (1) be conducted through a national headquarters, a network of regional undersea research centers, and a national technology institute; and (2) increase scientific knowledge for the informed management, use, and preservation of oceanic, coastal, and large lake resources through undersea research, exploration, education, and technology development. (Sec. 207) Authorizes appropriations for FY2006-FY2015.</summary>
+</bill>

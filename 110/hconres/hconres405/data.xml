@@ -1,0 +1,92 @@
+<bill session="110" type="hc" number="405" updated="2013-07-19T22:12:15-04:00">
+  <state datetime="2008-09-26T20:30:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-09-26T20:30:00-04:00"/>
+  </status>
+  <introduced datetime="2008-07-31"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the first full week of April as "National Workplace Wellness Week".</title>
+  </titles>
+  <sponsor id="400443"/>
+  <cosponsors>
+    <cosponsor id="400001" joined="2008-09-10"/>
+    <cosponsor id="400027" joined="2008-09-24"/>
+    <cosponsor id="400041" joined="2008-09-17"/>
+    <cosponsor id="400636" joined="2008-07-31"/>
+    <cosponsor id="400062" joined="2008-09-17"/>
+    <cosponsor id="400070" joined="2008-09-24"/>
+    <cosponsor id="400076" joined="2008-09-25"/>
+    <cosponsor id="400090" joined="2008-09-24"/>
+    <cosponsor id="400103" joined="2008-09-25"/>
+    <cosponsor id="400119" joined="2008-09-23"/>
+    <cosponsor id="400121" joined="2008-09-10"/>
+    <cosponsor id="400125" joined="2008-09-25"/>
+    <cosponsor id="400152" joined="2008-09-24"/>
+    <cosponsor id="400224" joined="2008-09-23"/>
+    <cosponsor id="400225" joined="2008-09-24"/>
+    <cosponsor id="400642" joined="2008-09-23"/>
+    <cosponsor id="400263" joined="2008-09-18"/>
+    <cosponsor id="400264" joined="2008-09-24"/>
+    <cosponsor id="400267" joined="2008-09-25"/>
+    <cosponsor id="400659" joined="2008-09-24"/>
+    <cosponsor id="400282" joined="2008-09-24"/>
+    <cosponsor id="400318" joined="2008-09-23"/>
+    <cosponsor id="400319" joined="2008-09-24"/>
+    <cosponsor id="400326" joined="2008-09-11"/>
+    <cosponsor id="412201" joined="2008-09-23"/>
+    <cosponsor id="412212" joined="2008-09-24"/>
+    <cosponsor id="400370" joined="2008-09-25"/>
+    <cosponsor id="400396" joined="2008-09-24"/>
+    <cosponsor id="400409" joined="2008-09-24"/>
+    <cosponsor id="400421" joined="2008-09-23"/>
+    <cosponsor id="400433" joined="2008-09-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-07-31">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2008-09-26T20:30:00-04:00">
+      <text>Mr. Andrews asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2008-09-26T20:30:00-04:00">
+      <text>Committee on Education and Labor discharged.</text>
+    </action>
+    <action datetime="2008-09-26T20:30:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H10117" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-09-26T20:30:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H10117" label="text"/>
+    </vote>
+    <action datetime="2008-09-26T20:30:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-09-27">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2008-10-02">
+      <text>Referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, Discharged"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="sr" number="673"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Employee health benefits"/>
+    <term name="Health"/>
+    <term name="Labor and employment"/>
+    <term name="Medical economics"/>
+    <term name="Occupational health and safety"/>
+    <term name="Preventive medicine"/>
+    <term name="Special weeks"/>
+  </subjects>
+  <amendments/>
+  <summary>9/26/2008--Passed House without amendment.
+Supports the goals and ideas of a National Workplace Wellness Week. Calls on private and public employers to voluntarily implement worksite health promotion programs to help maximize employees health, well-being, and lower health care costs.</summary>
+</bill>

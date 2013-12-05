@@ -1,0 +1,63 @@
+<bill session="110" type="s" number="2448" updated="2013-07-19T22:42:13-04:00">
+  <state datetime="2008-09-11">REPORTED</state>
+  <status>
+    <unknown datetime="2008-09-11"/>
+  </status>
+  <introduced datetime="2007-12-11"/>
+  <titles>
+    <title as="introduced" type="short">Surface Mining Control and Reclamation Act of 1977 Technical Corrections Act</title>
+    <title as="reported to senate" type="short">Surface Mining Control and Reclamation Act of 1977 Technical Corrections Act</title>
+    <title as="introduced" type="official">A bill to amend the Surface Mining Control and Reclamation Act of 1977 to make certain technical corrections.</title>
+  </titles>
+  <sponsor id="300041"/>
+  <cosponsors>
+    <cosponsor id="412251" joined="2007-12-11"/>
+    <cosponsor id="300005" joined="2007-12-11"/>
+    <cosponsor id="412244" joined="2007-12-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2007-12-11">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S15140"/>
+    </action>
+    <action state="REFERRED" datetime="2007-12-11">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2008-07-16">
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held. With printed Hearing: S.Hrg. 110-603.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-09-11">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2008-09-16">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2008-09-16" calendar="Senate Legislative" under="General Orders" number="983">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 983.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG03" subcommittee="Public Lands and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="h" number="4353"/>
+    <bill relation="unknown" session="110" type="h" number="4353"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Economics and public finance"/>
+    <term name="Energy"/>
+    <term name="Fees"/>
+    <term name="Government operations and politics"/>
+    <term name="Government trust funds"/>
+    <term name="Reclamation of land"/>
+    <term name="Revenue sharing"/>
+    <term name="Strip mining"/>
+  </subjects>
+  <amendments/>
+  <summary>9/16/2008--Reported to Senate without amendment.
+Surface Mining Control and Reclamation Act of 1977 Technical Corrections Act - Amends the Surface Mining Control and Reclamation Act of 1977 to modify procedures governing payments of moneys derived from reclamation fees to certified states and Indian tribes. Requires that such payments: (1) be distributed as direct transfers of funds rather than in the form of grants; and (2) be made at the same time as specified payments from the Abandoned Mine Reclamation Fund are made available, including without fiscal year limitation.</summary>
+</bill>

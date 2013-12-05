@@ -10,7 +10,7 @@ billType["sconres"] = "SC"
 billType["sjres"] = "SJ"
 billType["s"] = "SN"
 billType["sres"] = "SE"
-billType["SP"] = "SP"
+#billType["SP"] = "SP"
 
 for congress in directories:
 	for root, subFolders, files in os.walk(congress):
@@ -26,9 +26,9 @@ for congress in directories:
 				else :
 					private = str(0)
 				if jsonDump["amendments"] != []:
-					#print "./"+root+"/"+files[0]
+					print "./"+root+"/"+files[0]
 					#print jsonDump["amendments"]
-					jsonDump["bill_type"] = "SP"
+					#jsonDump["bill_type"] = "SP"
 			except AttributeError:
 				private = str(0)
 			houseCommittee = ""

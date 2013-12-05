@@ -1,0 +1,83 @@
+<bill session="109" type="h" number="1606" updated="2013-07-19T19:18:26-04:00">
+  <state datetime="2005-11-02T20:06:00-05:00">PROV_KILL:SUSPENSIONFAILED</state>
+  <status>
+    <unknown datetime="2005-11-02T20:06:00-05:00"/>
+  </status>
+  <introduced datetime="2005-04-13"/>
+  <titles>
+    <title as="introduced" type="short">Online Freedom of Speech Act</title>
+    <title as="reported to house" type="short">Online Freedom of Speech Act</title>
+    <title as="introduced" type="official">To amend the Federal Election Campaign Act of 1971 to exclude communications over the Internet from the definition of public communication.</title>
+  </titles>
+  <sponsor id="400175"/>
+  <cosponsors>
+    <cosponsor id="400029" joined="2005-06-22"/>
+    <cosponsor id="400043" joined="2005-05-16"/>
+    <cosponsor id="400059" joined="2005-05-12"/>
+    <cosponsor id="400080" joined="2005-05-04"/>
+    <cosponsor id="400134" joined="2005-04-20"/>
+    <cosponsor id="400214" joined="2005-06-07"/>
+    <cosponsor id="400287" joined="2005-04-20"/>
+    <cosponsor id="400311" joined="2005-04-20"/>
+    <cosponsor id="400352" joined="2005-04-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-04-13">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2005-11-02T14:21:00-05:00">
+      <text>Mrs. Miller (MI) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2005-11-02T14:22:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9478-9484" label="consideration"/>
+    </action>
+    <action datetime="2005-11-02T14:22:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1606.</text>
+    </action>
+    <action datetime="2005-11-02T15:08:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2005-11-02T19:44:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H9497" label="consideration"/>
+    </action>
+    <vote state="PROV_KILL:SUSPENSIONFAILED" datetime="2005-11-02T20:06:00-05:00" how="roll" result="fail" roll="559" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 225 - 182 (Roll no. 559).</text>
+      <reference ref="CR H9478" label="text"/>
+    </vote>
+    <action datetime="2005-11-02T20:06:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-03-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on House Administration"/>
+    </action>
+    <calendar datetime="2006-03-09">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on House Administration"/>
+    </calendar>
+    <action datetime="2006-03-13T15:26:00-05:00">
+      <text>Reported by the Committee on House Administration. H. Rept. 109-389.</text>
+    </action>
+    <calendar datetime="2006-03-13T15:27:00-05:00" calendar="Union" number="211">
+      <text>Placed on the Union Calendar, Calendar No. 211.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="1605"/>
+    <bill relation="unknown" session="109" type="s" number="678"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Internet"/>
+    <term name="Political advertising"/>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <summary>3/13/2006--Reported to House without amendment.
+Online Freedom of Speech Act - Amends the Federal Election Campaign Act of 1971 to exclude communications over the Internet from the meaning of public communication subject to the Act.</summary>
+</bill>

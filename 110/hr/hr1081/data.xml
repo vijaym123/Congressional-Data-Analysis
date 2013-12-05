@@ -1,0 +1,64 @@
+<bill session="110" type="h" number="1081" updated="2013-07-19T21:13:11-04:00">
+  <state datetime="2007-02-15">REFERRED</state>
+  <status>
+    <introduced datetime="2007-02-15"/>
+  </status>
+  <introduced datetime="2007-02-15"/>
+  <titles>
+    <title as="introduced" type="short">Insurance Industry Competition Act of 2007</title>
+    <title as="introduced" type="official">To further competition in the insurance industry.</title>
+  </titles>
+  <sponsor id="400100"/>
+  <cosponsors>
+    <cosponsor id="400006" joined="2007-02-15"/>
+    <cosponsor id="412208" joined="2007-05-01"/>
+    <cosponsor id="400634" joined="2007-02-15"/>
+    <cosponsor id="400209" joined="2007-02-15"/>
+    <cosponsor id="400635" joined="2007-02-15"/>
+    <cosponsor id="400399" joined="2007-02-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-02-15">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Energy and Commerce, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2007-02-15">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2007-02-15">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2007-02-15">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2007-02-16">
+      <text>Referred to the Subcommittee on Commerce, Trade and Consumer Protection.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF17" subcommittee="Commerce, Trade and Consumer Protection" name="House Energy and Commerce"/>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="618"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Antitrust law"/>
+    <term name="Department of Justice"/>
+    <term name="Federal Trade Commission"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government operations and politics"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Insurance"/>
+    <term name="Insurance companies"/>
+    <term name="Jurisdiction"/>
+    <term name="Law"/>
+    <term name="Restrictive trade practices"/>
+  </subjects>
+  <amendments/>
+  <summary>2/15/2007--Introduced.
+Insurance Industry Competition Act of 2007 - Amends the McCarran-Ferguson Act to make the Federal Trade Commission Act, as it relates to areas other than unfair methods of competition, applicable to the business of insurance to the extent that such business is not regulated by state law. Authorizes the Department of Justice (DOJ) and the Federal Trade Commission (FTC) to issue joint statements of their antitrust enforcement policies regarding joint activities in the business of insurance.</summary>
+</bill>

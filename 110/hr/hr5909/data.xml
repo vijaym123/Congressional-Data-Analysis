@@ -1,0 +1,92 @@
+<bill session="110" type="h" number="5909" updated="2013-07-19T21:55:32-04:00">
+  <state datetime="2008-06-18T11:50:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-06-18T11:50:00-04:00"/>
+  </status>
+  <introduced datetime="2008-04-24"/>
+  <titles>
+    <title as="reported to house" type="short">Catching Operational Vulnerabilities by Ensuring Random Testing Act of 2008</title>
+    <title as="reported to house" type="short">COVERT Act of 2008</title>
+    <title as="passed house" type="short">Catching Operational Vulnerabilities by Ensuring Random Testing Act of 2008</title>
+    <title as="passed house" type="short">COVERT Act of 2008</title>
+    <title as="introduced" type="official">To amend the Aviation and Transportation Security Act to prohibit advance notice to certain individuals, including security screeners, of covert testing of security screening procedures for the purpose of enhancing transportation security at airports, and for other purposes.</title>
+  </titles>
+  <sponsor id="400246"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2008-04-24">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2008-04-28">
+      <text>Referred to the Subcommittee on Transportation Security and Infrastructure Protection.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2008-05-01">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2008-05-20">
+      <text>Subcommittee on Transportation Security and Infrastructure Protection Discharged.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2008-05-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-05-20">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </calendar>
+    <action datetime="2008-06-05T13:44:00-04:00">
+      <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-687.</text>
+    </action>
+    <calendar datetime="2008-06-05T13:45:00-04:00" calendar="Union" number="431">
+      <text>Placed on the Union Calendar, Calendar No. 431.</text>
+    </calendar>
+    <action datetime="2008-06-18T11:25:00-04:00">
+      <text>Mr. Thompson (MS) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2008-06-18T11:25:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5498-5502" label="consideration"/>
+    </action>
+    <action datetime="2008-06-18T11:25:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5909.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-06-18T11:50:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5498-5499" label="text"/>
+    </vote>
+    <action datetime="2008-06-18T11:50:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-06-19">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Discharged" code="HSHM07" subcommittee="Transportation Security and Infrastructure Protection" name="House Homeland Security"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Airports"/>
+    <term name="Aviation safety"/>
+    <term name="Congress"/>
+    <term name="Congressional investigations"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Federal employees"/>
+    <term name="Government operations and politics"/>
+    <term name="Government publicity"/>
+    <term name="Governmental investigations"/>
+    <term name="Infrastructure"/>
+    <term name="Security measures"/>
+    <term name="Transportation safety"/>
+    <term name="Transportation workers"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/2008--Passed House amended.
+Catching Operational Vulnerabilities by Ensuring Random Testing Act of 2008, or the COVERT Act of 2008 - Amends the Aviation and Transportation Security Act to require the Secretary of Homeland Security to make sure that advance notice of a covert test of a transportation security system is not provided to any individual (including any security screener) before completion of the test, except: (1) that such information may be provided to certain federal, state, and local government employees, officers, and contractors (including military personnel); and (2) an individual conducting such a test may disclose his or her status if a security screener or other non-covered employee identifies such tester as a potential threat. Requires the head of each covert testing office to make sure that a covert testing person or group is accompanied by a cover team to monitor the test and confirm the identity of personnel involved. States, however, that a cover team is not required to be present during a test of the screening of persons or baggage at an aviation security checkpoint if the test: (1) is approved by the Federal Security Director for the airport; and (2) is administered under an aviation screening assessment program of the Department of Homeland Security. Directs the Secretary of Homeland Security to study and report to Congress on the impact of implementing covert testing procedures under this Act on the Department's efforts to improve transportation security.</summary>
+</bill>

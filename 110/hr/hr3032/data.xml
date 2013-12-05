@@ -1,0 +1,68 @@
+<bill session="110" type="h" number="3032" updated="2013-07-19T21:30:21-04:00">
+  <state datetime="2008-07-15T16:59:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-07-15T16:59:00-04:00"/>
+  </status>
+  <introduced datetime="2007-07-12"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Federal Election Campaign Act of 1971 to permit candidates for election for Federal office to designate an individual who will be authorized to disburse funds of the authorized campaign committees of the candidate in the event of the death of the candidate.</title>
+  </titles>
+  <sponsor id="400209"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2007-07-12">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2008-04-02">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on House Administration"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-04-02">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on House Administration"/>
+    </calendar>
+    <action datetime="2008-04-22T16:39:00-04:00">
+      <text>Reported (Amended) by the Committee on House Administration. H. Rept. 110-602.</text>
+    </action>
+    <calendar datetime="2008-04-22T16:39:00-04:00" calendar="Union" number="375">
+      <text>Placed on the Union Calendar, Calendar No. 375.</text>
+    </calendar>
+    <action datetime="2008-07-15T16:53:00-04:00">
+      <text>Ms. Lofgren, Zoe moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2008-07-15T16:53:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6534-6535" label="consideration"/>
+    </action>
+    <action datetime="2008-07-15T16:53:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3032.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-07-15T16:59:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6534" label="text"/>
+    </vote>
+    <action datetime="2008-07-15T16:59:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-07-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Markup, Reporting"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Campaign funds"/>
+    <term name="Congress"/>
+    <term name="Congressional elections"/>
+    <term name="Death"/>
+    <term name="Election candidates"/>
+    <term name="Presidential elections"/>
+  </subjects>
+  <amendments/>
+  <summary>7/15/2008--Passed House amended.
+Amends the Federal Election Campaign Act of 1971 to permit candidates for election to federal office to: (1) designate an individual for each of a candiate's authorized campaign committees who will be authorized to disburse funds of the committee in the event of the candidate's death; and (2) designate another individual to carry out the responsibilities of the designated individual in the event of the death or incapacity of the designated individual or the designated individual's unwillingness to carry out the responsibilities. Prescribes procedures for filing and revoking such a designation. Permits the filing of a designation to contain the candidate's instructions regarding the disbursement of funds.</summary>
+</bill>

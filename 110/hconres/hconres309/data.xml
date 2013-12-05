@@ -1,0 +1,105 @@
+<bill session="110" type="hc" number="309" updated="2013-07-19T22:11:25-04:00">
+  <state datetime="2008-06-03">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2008-06-03"/>
+  </status>
+  <introduced datetime="2008-03-04"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the Capitol Grounds for the District of Columbia Special Olympics Law Enforcement Torch Run.</title>
+  </titles>
+  <sponsor id="400295"/>
+  <cosponsors>
+    <cosponsor id="400090" joined="2008-03-04"/>
+    <cosponsor id="400098" joined="2008-03-04"/>
+    <cosponsor id="400158" joined="2008-03-04"/>
+    <cosponsor id="400189" joined="2008-03-04"/>
+    <cosponsor id="400283" joined="2008-03-04"/>
+    <cosponsor id="400415" joined="2008-03-04"/>
+    <cosponsor id="400435" joined="2008-03-04"/>
+    <cosponsor id="400438" joined="2008-03-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-03-04">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2008-03-05">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2008-05-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-05-15">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2008-05-15">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2008-05-19T14:11:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 110-656.</text>
+    </action>
+    <calendar datetime="2008-05-19T14:11:00-04:00" calendar="House" number="222">
+      <text>Placed on the House Calendar, Calendar No. 222.</text>
+    </calendar>
+    <action datetime="2008-05-19T14:58:00-04:00">
+      <text>Ms. Hirono moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2008-05-19T14:59:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4099-4100" label="consideration"/>
+    </action>
+    <action datetime="2008-05-19T14:59:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 309.</text>
+    </action>
+    <action datetime="2008-05-19T15:03:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Petri objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2008-05-21T21:29:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4432" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-05-21T21:29:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR 5/19/2008 H4100" label="text"/>
+    </vote>
+    <action datetime="2008-05-21T21:29:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-06-02">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2008-06-03" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4989" label="consideration"/>
+    </vote>
+    <action datetime="2008-06-04">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="hc" number="123"/>
+    <bill relation="unknown" session="110" type="hc" number="123"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Disabled"/>
+    <term name="District of Columbia"/>
+    <term name="Law enforcement officers"/>
+    <term name="Olympic games"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Running"/>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/3/2008--Passed Senate without amendment.
+Authorizes the use of the Capitol grounds for the 2008 District of Columbia Special Olympics Law Enforcement Torch Run on June 6, 2008.</summary>
+</bill>

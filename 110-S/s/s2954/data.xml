@@ -1,0 +1,70 @@
+<bill session="110" type="s" number="2954" updated="2013-07-19T22:47:10-04:00">
+  <state datetime="2008-05-02">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2008-05-02"/>
+  </status>
+  <introduced datetime="2008-05-01"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend Public Law 110-196 to provide for a temporary extension of programs authorized by the Farm Security and Rural Investment Act of 2002 beyond May 2, 2008.</title>
+  </titles>
+  <sponsor id="300051"/>
+  <cosponsors/>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2008-05-01" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S3727" label="consideration"/>
+      <reference ref="CR S3727" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2008-05-01T13:25:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2008-05-01">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2008-05-01T13:42:00-04:00">
+      <text>Mr. Holden moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2008-05-01T13:42:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2987-2988" label="consideration"/>
+    </action>
+    <action datetime="2008-05-01T13:42:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 2954.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2008-05-01T13:44:00-04:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2988" label="text"/>
+    </vote>
+    <action datetime="2008-05-01T13:44:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2008-05-01">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2008-05-01">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2008-05-02">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2008-05-02" type="public" number="110-208">
+      <text>Became Public Law No: 110-208.</text>
+    </enacted>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="5813"/>
+    <bill relation="unknown" session="110" type="h" number="6051"/>
+    <bill relation="unknown" session="110" type="s" number="2903"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural credit"/>
+    <term name="Agricultural subsidies"/>
+    <term name="Finance and financial sector"/>
+    <term name="Marketing of farm produce"/>
+  </subjects>
+  <amendments/>
+  <summary>5/2/2008--Public Law.
+Extends, with specified exceptions, agricultural programs under the Farm Security and Rural Investment Act of 2002 until May 16, 2008. Suspends permanent price support authorities through May 16, 2008.</summary>
+</bill>

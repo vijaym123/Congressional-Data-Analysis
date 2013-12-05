@@ -1,0 +1,51 @@
+<bill session="109" type="h" number="6227" updated="2013-07-19T19:59:29-04:00">
+  <state datetime="2006-09-28">REFERRED</state>
+  <status>
+    <introduced datetime="2006-09-28"/>
+  </status>
+  <introduced datetime="2006-09-28"/>
+  <titles>
+    <title as="introduced" type="short">Kids Vision Care Act of 2006</title>
+    <title as="introduced" type="official">To establish a grant program to provide vision care to children.</title>
+  </titles>
+  <sponsor id="400139"/>
+  <cosponsors>
+    <cosponsor id="400122" joined="2006-09-28"/>
+    <cosponsor id="400140" joined="2006-11-13"/>
+    <cosponsor id="400160" joined="2006-09-28"/>
+    <cosponsor id="400201" joined="2006-09-29"/>
+    <cosponsor id="400622" joined="2006-09-29"/>
+    <cosponsor id="400392" joined="2006-09-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-09-28">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2006-10-02">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="6066"/>
+    <bill relation="unknown" session="109" type="s" number="3685"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Economics and public finance"/>
+    <term name="Eye care"/>
+    <term name="Families"/>
+    <term name="Federal aid to child health services"/>
+    <term name="Health education"/>
+    <term name="Medical tests"/>
+    <term name="Optometry"/>
+    <term name="Physical examinations"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/2006--Introduced.
+Kids Vision Care Act of 2006 - Allows the Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention (CDC), to award grants to states to: (1) provide comprehensive eye examinations by a licensed optometrist or ophthalmologist for children identified by a licensed health care provider or vision screener, with priority to children under age nine; (2) provide treatment or services to correct vision problems of such children; and (3) develop and disseminate educational materials on recognizing signs of visual impairment in children.</summary>
+</bill>

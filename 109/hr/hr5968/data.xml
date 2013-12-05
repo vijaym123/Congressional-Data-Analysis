@@ -1,0 +1,55 @@
+<bill session="109" type="h" number="5968" updated="2013-07-19T19:57:08-04:00">
+  <state datetime="2006-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2006-07-28"/>
+  </status>
+  <introduced datetime="2006-07-28"/>
+  <titles>
+    <title as="introduced" type="short">Veterans Community Health Enhancement Act of 2006</title>
+    <title as="introduced" type="official">To provide for increased funding for veterans health care for fiscal year 2007, and for other purposes.</title>
+  </titles>
+  <sponsor id="400175"/>
+  <cosponsors>
+    <cosponsor id="400017" joined="2006-09-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-07-28">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2006-07-28">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2006-07-28">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2006-08-03">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2006-09-28">
+      <text>Referred to the Subcommittee on Select Education.</text>
+      <committee name="House Education and the Workforce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED04" subcommittee="Select Education" name="House Education and the Workforce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to the arts and humanities"/>
+    <term name="Government operations and politics"/>
+    <term name="Health"/>
+    <term name="National Foundation on the Arts and the Humanities"/>
+    <term name="Reprogramming of appropriated funds"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>7/28/2006--Introduced.
+Veterans Community Health Enhancement Act of 2006 - Requires the Secretary of the Treasury to transfer funds appropriated for FY2007 for the National Endowment for the Humanities and the National Endowment for the Arts to the Department of Veterans Affairs for veterans' medical services.</summary>
+</bill>

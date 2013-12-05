@@ -1,0 +1,85 @@
+<bill session="110" type="h" number="187" updated="2013-07-19T21:05:25-04:00">
+  <state datetime="2007-02-07T13:49:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-02-07T13:49:00-05:00"/>
+  </status>
+  <introduced datetime="2007-01-04"/>
+  <titles>
+    <title as="introduced" type="official">To designate the Federal building and United States courthouse and customhouse located at 515 West First Street in Duluth, Minnesota, as the "Gerald W. Heaney Federal Building and United States Courthouse and Customhouse".</title>
+  </titles>
+  <sponsor id="400299"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-04">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2007-01-05">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2007-01-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E20"/>
+    </action>
+    <action datetime="2007-02-06">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2007-02-06">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-02-07">
+      <text>Committee Agreed to Seek Consideration Under Suspension of the Rules, by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2007-02-07T13:35:00-05:00">
+      <text>Mr. Oberstar moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-02-07T13:36:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1299-1300" label="consideration"/>
+    </action>
+    <action datetime="2007-02-07T13:36:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 187.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-02-07T13:49:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H1299" label="text"/>
+    </vote>
+    <action datetime="2007-02-07T13:49:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-02-08">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="2008-03-04">
+      <text>For Further Action See S.521.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral, Markup, Reporting" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="521"/>
+    <bill relation="unknown" session="110" type="s" number="521"/>
+    <bill relation="unknown" session="110" type="s" number="521"/>
+    <bill relation="unknown" session="110" type="s" number="521"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Courthouses"/>
+    <term name="Federal office buildings"/>
+    <term name="Judges"/>
+    <term name="Law"/>
+    <term name="Minnesota"/>
+    <term name="Names"/>
+  </subjects>
+  <amendments/>
+  <summary>2/7/2007--Passed House without amendment.
+Designates the federal building and U.S. courthouse and customhouse located at 515 West First Street in Duluth, Minnesota, as the "Gerald W. Heaney Federal Building and United States Courthouse and Customhouse."</summary>
+</bill>

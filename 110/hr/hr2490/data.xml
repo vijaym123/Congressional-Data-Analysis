@@ -1,0 +1,105 @@
+<bill session="110" type="h" number="2490" updated="2013-07-19T21:25:30-04:00">
+  <state datetime="2008-07-29T19:03:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-07-29T19:03:00-04:00"/>
+  </status>
+  <introduced datetime="2007-05-24"/>
+  <titles>
+    <title as="introduced" type="official">To require the Secretary of Homeland Security to conduct a pilot program for the mobile biometric identification in the maritime environment of aliens unlawfully attempting to enter the United States.</title>
+    <title as="amended by house" type="official">To require the Secretary of Homeland Security to conduct a program in the maritime environment for the mobile biometric identification of suspected individuals, including terrorists, to enhance border security.</title>
+  </titles>
+  <sponsor id="412250"/>
+  <cosponsors>
+    <cosponsor id="400570" joined="2007-10-10"/>
+    <cosponsor id="400051" joined="2007-08-04"/>
+    <cosponsor id="400055" joined="2007-09-04"/>
+    <cosponsor id="412234" joined="2007-08-03"/>
+    <cosponsor id="412235" joined="2007-05-24"/>
+    <cosponsor id="400123" joined="2007-08-02"/>
+    <cosponsor id="400151" joined="2007-07-17"/>
+    <cosponsor id="400219" joined="2007-05-24"/>
+    <cosponsor id="400617" joined="2007-06-05"/>
+    <cosponsor id="400288" joined="2007-07-23"/>
+    <cosponsor id="412192" joined="2007-08-03"/>
+    <cosponsor id="400652" joined="2007-10-04"/>
+    <cosponsor id="400328" joined="2007-08-02"/>
+    <cosponsor id="400385" joined="2007-05-24"/>
+    <cosponsor id="412229" joined="2007-10-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-05-24">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2007-06-07">
+      <text>Referred to the Subcommittee on Border, Maritime, and Global Counterterrorism.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2008-06-26">
+      <text>Subcommittee on Border, Maritime, and Global Counterterrorism Discharged.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <action datetime="2008-06-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-06-26">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </calendar>
+    <action datetime="2008-07-10T17:18:00-04:00">
+      <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-751.</text>
+    </action>
+    <calendar datetime="2008-07-10T17:19:00-04:00" calendar="Union" number="477">
+      <text>Placed on the Union Calendar, Calendar No. 477.</text>
+    </calendar>
+    <action datetime="2008-07-29T12:58:00-04:00">
+      <text>Mr. Thompson (MS) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2008-07-29T12:58:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7182-7183" label="consideration"/>
+    </action>
+    <action datetime="2008-07-29T12:58:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2490.</text>
+    </action>
+    <action datetime="2008-07-29T13:07:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2008-07-29T18:41:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7267-7268" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-07-29T19:03:00-04:00" how="roll" result="pass" roll="534" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 3, 1 Present (Roll no. 534).</text>
+      <reference ref="CR H7182" label="text"/>
+    </vote>
+    <action datetime="2008-07-29T19:03:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-07-29T19:03:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-07-30">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSHM11" subcommittee="Border, Maritime, and Global Counterterrorism" name="House Homeland Security"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Electronic data interchange"/>
+    <term name="Identification devices"/>
+    <term name="Illegal aliens"/>
+    <term name="Immigration"/>
+    <term name="Science, technology, communications"/>
+    <term name="Ships"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/2008--Passed House amended.
+Directs the Secretary of Homeland Security to: (1) conduct, through the Coast Guard in the maritime environment, a program for the mobile biometric identification of suspected individuals, including terrorists, to enhance border security and for other purposes; (2) ensure such program's coordination with other Department of Homeland Security (DHS) biometric identification programs; and (3) report to the appropriate congressional committees respecting the cost of expanding the Coast Guard's biometric identification capabilities for use by other Coast Guard and DHS vessels and units. Defines "biometric identification" as the use of fingerprint and digital photography images.</summary>
+</bill>

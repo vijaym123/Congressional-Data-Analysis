@@ -1,0 +1,64 @@
+<bill session="110" type="hr" number="367" updated="2013-07-19T20:53:47-04:00">
+  <state datetime="2007-05-02">REFERRED</state>
+  <status>
+    <introduced datetime="2007-05-02"/>
+  </status>
+  <introduced datetime="2007-05-02"/>
+  <titles>
+    <title as="introduced" type="official">Commemorating the 25th anniversary of the construction and dedication of the Vietnam Veterans Memorial.</title>
+  </titles>
+  <sponsor id="412201"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2007-05-02">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committees on Natural Resources, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2007-05-02">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2007-05-02">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2007-05-02">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2007-05-04">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2007-05-04">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2007-06-20">
+      <text>Referred to the Subcommittee on Readiness.</text>
+      <committee name="House Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS03" subcommittee="Readiness" name="House Armed Services"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="hr" number="326"/>
+    <bill relation="unknown" session="110" type="sr" number="117"/>
+    <bill relation="unknown" session="110" type="sr" number="122"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional tributes"/>
+    <term name="District of Columbia"/>
+    <term name="National monuments"/>
+    <term name="Vietnam veterans"/>
+    <term name="War casualties"/>
+  </subjects>
+  <amendments/>
+  <summary>5/2/2007--Introduced.
+Expresses support and gratitude for the men and women of the Armed Forces in defense of freedom and democracy during the Vietnam War. Extends sympathies to all people in the United States who suffered the loss of friends and family in Vietnam. Encourages the people of the United States to remember the sacrifices of the nation's veterans. Commemorates the 25th anniversary of the construction and dedication of the Vietnam Veterans Memorial.</summary>
+</bill>

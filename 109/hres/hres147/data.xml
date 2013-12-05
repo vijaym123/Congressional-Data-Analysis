@@ -1,0 +1,56 @@
+<bill session="109" type="hr" number="147" updated="2013-07-19T18:55:49-04:00">
+  <state datetime="2005-03-16T10:25:00-05:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2005-03-16T10:25:00-05:00"/>
+  </status>
+  <introduced datetime="2005-03-10"/>
+  <titles>
+    <title as="introduced" type="official">Electing members to the Joint Committee on Printing and the Joint Committee of Congress on the Library.</title>
+  </titles>
+  <sponsor id="400293"/>
+  <cosponsors>
+    <cosponsor id="400113" joined="2005-03-10"/>
+    <cosponsor id="400119" joined="2005-03-10"/>
+    <cosponsor id="400275" joined="2005-03-10"/>
+    <cosponsor id="400276" joined="2005-03-10"/>
+    <cosponsor id="400338" joined="2005-03-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-03-10">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2005-03-16T10:22:00-05:00">
+      <text>Committee on House Administration discharged.</text>
+    </action>
+    <action datetime="2005-03-16T10:23:00-05:00">
+      <text>Mr. Ney asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2005-03-16T10:23:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H1514" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2005-03-16T10:25:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H1514" label="text"/>
+    </vote>
+    <action datetime="2005-03-16T10:25:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional committee membership"/>
+    <term name="Congressional joint committees"/>
+    <term name="House of Representatives"/>
+    <term name="Joint Library"/>
+    <term name="Joint Printing"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/2005--Passed House without amendment.
+Elects specified Members to the Joint Committee on Printing and the Joint Committee of Congress on the Library.</summary>
+</bill>

@@ -1,0 +1,54 @@
+<bill session="110" type="sr" number="21" updated="2013-07-19T22:13:11-04:00">
+  <state datetime="2007-01-26">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2007-01-26"/>
+  </status>
+  <introduced datetime="2007-01-08"/>
+  <titles>
+    <title as="introduced" type="official">A resolution recognizing the uncommon valor of Wesley Autrey of New York, New York.</title>
+  </titles>
+  <sponsor id="300022"/>
+  <cosponsors>
+    <cosponsor id="300087" joined="2007-01-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-08">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S240" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-01-25">
+      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2007-01-25">
+      <text>Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="2007-01-25" calendar="Senate Legislative" under="General Orders" number="13">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 13.</text>
+    </calendar>
+    <vote state="PASSED:SIMPLERES" datetime="2007-01-26" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S1245" label="consideration"/>
+      <reference ref="CR S1245" label="text as passed Senate"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="sr" number="20"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Emergency management"/>
+    <term name="New York City"/>
+    <term name="Railroad safety"/>
+    <term name="Rescue work"/>
+    <term name="Subways"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>1/26/2007--Passed Senate without amendment.
+Recognizes that Wesley Autry of New York, New York, acted heroically by putting his own life at risk to save that of a fellow citizen. Expresses the Senate's deep appreciation for his example and the values that his actions represent.</summary>
+</bill>

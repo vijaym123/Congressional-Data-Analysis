@@ -1,0 +1,59 @@
+<bill session="110" type="hc" number="258" updated="2013-07-19T22:10:59-04:00">
+  <state datetime="2007-11-14">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2007-11-14"/>
+  </status>
+  <introduced datetime="2007-11-14"/>
+  <titles>
+    <title as="introduced" type="official">Directing the Clerk of the House of Representatives to correct the enrollment of H.R. 1429.</title>
+  </titles>
+  <sponsor id="400216"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2007-11-14T13:31:00-05:00">
+      <text>Mr. Kildee asked unanimous consent to consider as introduced.</text>
+    </action>
+    <action datetime="2007-11-14T13:32:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H13885" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-11-14T13:32:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H13885" label="text"/>
+    </vote>
+    <action datetime="2007-11-14T13:32:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2007-11-14" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S14385, S14387" label="consideration"/>
+    </vote>
+    <action datetime="2007-11-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="1429"/>
+    <bill relation="unknown" session="110" type="h" number="1429"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Administrative procedure"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Education"/>
+    <term name="Education of the disadvantaged"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Families"/>
+    <term name="Government operations and politics"/>
+    <term name="Homeless"/>
+    <term name="House of Representatives"/>
+    <term name="Law"/>
+    <term name="Legislation"/>
+    <term name="Preschool education"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>11/14/2007--Passed House without amendment.
+Makes corrections in the enrollment of H.R. 1429 (Improving Head Start for School Readiness Act of 2007) to require the Secretary of Health and Human Services to issue regulations that require Head Start agencies to implement policies and procedures to ensure that homeless children are identified and prioritized for enrollment.</summary>
+</bill>

@@ -1,0 +1,97 @@
+<bill session="109" type="s" number="705" updated="2013-07-19T20:19:32-04:00">
+  <state datetime="2005-11-17">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-11-17"/>
+  </status>
+  <introduced datetime="2005-04-05"/>
+  <titles>
+    <title as="introduced" type="short">Meeting the Housing and Service Needs of Seniors Act of 2005</title>
+    <title as="reported to senate" type="short">Meeting the Housing and Service Needs of Seniors Act of 2005</title>
+    <title as="passed senate" type="short">Meeting the Housing and Service Needs of Seniors Act of 2005</title>
+    <title as="introduced" type="official">A bill to establish the Interagency Council on Meeting the Housing and Service Needs of Seniors, and for other purposes.</title>
+  </titles>
+  <sponsor id="300086"/>
+  <cosponsors>
+    <cosponsor id="300003" joined="2005-07-29"/>
+    <cosponsor id="300019" joined="2005-07-27"/>
+    <cosponsor id="300058" joined="2005-07-29"/>
+    <cosponsor id="400621" joined="2005-06-22"/>
+    <cosponsor id="300073" joined="2005-07-28"/>
+    <cosponsor id="300081" joined="2005-06-22"/>
+    <cosponsor id="300085" joined="2005-06-13"/>
+    <cosponsor id="300087" joined="2005-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-04-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3207-3208"/>
+    </action>
+    <action state="REFERRED" datetime="2005-04-05">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <reference ref="CR S3208-3210" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2005-06-16">
+      <text>Committee on Banking, Housing, and Urban Affairs. Hearings held. Hearings printed: S.Hrg. 109-670.</text>
+      <committee name="Committee on Banking, Housing, and Urban Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-07-28">
+      <text>Committee on Banking, Housing, and Urban Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Banking, Housing, and Urban Affairs"/>
+    </calendar>
+    <action datetime="2005-11-15">
+      <text>Committee on Banking, Housing, and Urban Affairs. Reported by Senator Shelby with an amendment in the nature of a substitute. With written report No. 109-178.</text>
+    </action>
+    <calendar datetime="2005-11-15" calendar="Senate Legislative" under="General Orders" number="285">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 285.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2005-11-17" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S13253-13260" label="consideration"/>
+      <reference ref="CR S13253-13256" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-11-17T23:50:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-11-17T23:55:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2005-11-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="3859"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Access to health care"/>
+    <term name="Affordable housing"/>
+    <term name="Continuum of care"/>
+    <term name="Executive reorganization"/>
+    <term name="Geriatrics"/>
+    <term name="Government operations and politics"/>
+    <term name="Government publicity"/>
+    <term name="Health"/>
+    <term name="Housing for the aged"/>
+    <term name="Internet"/>
+    <term name="Land use"/>
+    <term name="Nursing"/>
+    <term name="Old age assistance"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Residential rehabilitation"/>
+    <term name="Science, technology, communications"/>
+    <term name="Social welfare"/>
+    <term name="Technological innovations"/>
+    <term name="Transportation and public works"/>
+    <term name="Transportation and the aged"/>
+    <term name="Urban affairs"/>
+    <term name="Web sites"/>
+    <term name="Zoning and zoning law"/>
+  </subjects>
+  <amendments/>
+  <summary>11/17/2005--Passed Senate amended.
+Meeting the Housing and Service Needs of Seniors Act of 2005 - Establishes in the executive branch the independent Interagency Council on Meeting the Housing and Service Needs of Seniors, which shall identify and promote coordination of senior citizen housing, health care, and service needs. Defines "senior" as an individual 65 years or older. Authorizes FY2005-FY2010 appropriations.</summary>
+</bill>

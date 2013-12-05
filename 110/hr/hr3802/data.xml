@@ -1,0 +1,52 @@
+<bill session="110" type="h" number="3802" updated="2013-07-19T21:37:13-04:00">
+  <state datetime="2007-10-10">REFERRED</state>
+  <status>
+    <introduced datetime="2007-10-10"/>
+  </status>
+  <introduced datetime="2007-10-10"/>
+  <titles>
+    <title as="introduced" type="short">Toll Road Prohibition Act of 2007</title>
+    <title as="introduced" type="official">To prohibit the collection of tolls on highways, bridges, and tunnels constructed using Federal funds.</title>
+  </titles>
+  <sponsor id="400042"/>
+  <cosponsors>
+    <cosponsor id="412208" joined="2007-11-01"/>
+    <cosponsor id="400123" joined="2007-10-10"/>
+    <cosponsor id="400640" joined="2007-10-10"/>
+    <cosponsor id="400317" joined="2007-10-10"/>
+    <cosponsor id="412217" joined="2007-10-18"/>
+    <cosponsor id="400400" joined="2007-10-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-10-10">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2007-10-11">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="3510"/>
+    <bill relation="unknown" session="110" type="h" number="3510"/>
+    <bill relation="unknown" session="110" type="s" number="2019"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Bridges"/>
+    <term name="Collection of accounts"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to transportation"/>
+    <term name="Road construction"/>
+    <term name="Roads and highways"/>
+    <term name="Toll roads"/>
+    <term name="Tunnels"/>
+  </subjects>
+  <amendments/>
+  <summary>10/10/2007--Introduced.
+Toll Road Prohibition Act of 2007 - Prohibits a toll from being collected on highways, bridges, or tunnels that have been constructed with federal funds unless such funds (including reasonable interest) are repaid to the United States from non-federal sources.</summary>
+</bill>

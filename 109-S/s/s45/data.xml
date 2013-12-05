@@ -1,0 +1,109 @@
+<bill session="109" type="s" number="45" updated="2013-07-19T20:13:51-04:00">
+  <state datetime="2005-08-02">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2005-08-02"/>
+  </status>
+  <introduced datetime="2005-01-24"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend the Controlled Substances Act to lift the patient limitation on prescribing drug addiction treatments by medical practitioners in group practices, and for other purposes.</title>
+  </titles>
+  <sponsor id="300066"/>
+  <cosponsors>
+    <cosponsor id="300008" joined="2005-01-24"/>
+    <cosponsor id="300022" joined="2005-07-14"/>
+    <cosponsor id="300038" joined="2005-05-10"/>
+    <cosponsor id="300048" joined="2005-02-03"/>
+    <cosponsor id="300052" joined="2005-01-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-01-24">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S231-232"/>
+    </action>
+    <action state="REFERRED" datetime="2005-01-24">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S232" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2005-02-01">
+      <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2005-02-01">
+      <text>Referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2005-07-19">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S8501" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2005-07-19" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S8501" label="text"/>
+    </vote>
+    <action datetime="2005-07-21T19:26:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-07-21">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-07-21T21:17:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2005-07-27T12:38:00-04:00">
+      <text>Mr. Deal (GA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2005-07-27T12:38:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6679-6681" label="consideration"/>
+    </action>
+    <action datetime="2005-07-27T12:38:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 45.</text>
+    </action>
+    <action datetime="2005-07-27T12:52:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2005-07-27T14:47:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6841" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2005-07-27T14:54:00-04:00" how="roll" result="pass" roll="435" type="vote2" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 429 - 0 (Roll no. 435).</text>
+      <reference ref="CR H6679" label="text"/>
+    </vote>
+    <action datetime="2005-07-27T14:54:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2005-07-27">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2005-07-29">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2005-08-02">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2005-08-02" type="public" number="109-56">
+      <text>Became Public Law No: 109-56.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Discharged"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Drug abuse"/>
+    <term name="Drug abuse treatment"/>
+    <term name="Drug addiction"/>
+    <term name="Drug traffic"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Group medical practice"/>
+    <term name="Law"/>
+    <term name="Licenses"/>
+    <term name="Physicians"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/2005--Public Law.
+Amends the Controlled Substances Act to eliminate the 30-patient limit for medical group practices allowed to dispense narcotic drugs in schedules III, IV, or V for maintenance or detoxification treatment (retains the 30-patient limit for an individual physician).</summary>
+</bill>

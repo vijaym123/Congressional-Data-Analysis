@@ -1,0 +1,44 @@
+<bill session="109" type="s" number="1327" updated="2013-07-19T20:25:06-04:00">
+  <state datetime="2005-06-29">REFERRED</state>
+  <status>
+    <introduced datetime="2005-06-29"/>
+  </status>
+  <introduced datetime="2005-06-29"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend the Internal Revenue Code of 1986 to modify the active business definition under section 355.</title>
+  </titles>
+  <sponsor id="300069"/>
+  <cosponsors>
+    <cosponsor id="300005" joined="2005-06-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-06-29">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S7616"/>
+    </action>
+    <action state="REFERRED" datetime="2005-06-29">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="2911"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Affiliated corporations"/>
+    <term name="Commerce"/>
+    <term name="Corporate reorganizations"/>
+    <term name="Corporation taxes"/>
+    <term name="Finance and financial sector"/>
+    <term name="Income tax"/>
+    <term name="Securities"/>
+    <term name="Stocks"/>
+    <term name="Tax exemption"/>
+  </subjects>
+  <amendments/>
+  <summary>6/29/2005--Introduced.
+Amends the Internal Revenue Code to treat all members of a corporation's separate affiliated group as one corporation for purposes of determining whether such corporation and its subsidiaries meet the active business test required for corporations seeking nonrecognition of gain from the distribution of property in a reorganization.</summary>
+</bill>

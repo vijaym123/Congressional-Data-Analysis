@@ -1,0 +1,43 @@
+<bill session="110" type="h" number="5985" updated="2013-07-19T21:56:11-04:00">
+  <state datetime="2008-05-07">REFERRED</state>
+  <status>
+    <introduced datetime="2008-05-07"/>
+  </status>
+  <introduced datetime="2008-05-07"/>
+  <titles>
+    <title as="introduced" type="short">Compensation for Combat Veterans Act</title>
+    <title as="introduced" type="official">To amend title 38, United States Code, to clarify the service treatable as service engaged in combat with the enemy for utilization of non-official evidence for proof of service-connection in a combat-related disease or injury.</title>
+  </titles>
+  <sponsor id="412208"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2008-05-07">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2008-05-09">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-06-12">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="2309"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disabled"/>
+    <term name="Military operations"/>
+    <term name="Military pay"/>
+    <term name="Veterans' disability compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/7/2008--Introduced.
+Compensation for Combat Veterans Act - Provides that, for a veteran claiming disability benefits related to combat, service in a combat zone that is recognized as such service under the Internal Revenue Code shall be considered proof that the veteran engaged in combat.</summary>
+</bill>

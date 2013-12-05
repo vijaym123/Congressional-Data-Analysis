@@ -1,0 +1,55 @@
+<bill session="110" type="hc" number="269" updated="2013-07-19T22:11:05-04:00">
+  <state datetime="2007-12-14">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2007-12-14"/>
+  </status>
+  <introduced datetime="2007-12-12"/>
+  <titles>
+    <title as="introduced" type="official">Directing the Clerk of the House of Representatives to correct the enrollment of the bill H.R. 1585.</title>
+  </titles>
+  <sponsor id="400377"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2007-12-12T14:49:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H15353" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-12-12T14:50:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H15353" label="text"/>
+    </vote>
+    <action datetime="2007-12-12T14:50:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-12-12">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2007-12-14" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S15619" label="consideration"/>
+    </vote>
+    <action datetime="2007-12-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="1585"/>
+    <bill relation="unknown" session="110" type="h" number="1585"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Armed forces and national security"/>
+    <term name="Authorization"/>
+    <term name="Defense budgets"/>
+    <term name="Economics and public finance"/>
+    <term name="Legislation"/>
+    <term name="Military base closures"/>
+    <term name="Military bases"/>
+    <term name="Military construction operations"/>
+    <term name="Washington State"/>
+  </subjects>
+  <amendments/>
+  <summary>12/14/2007--Passed Senate without amendment.
+Makes corrections in the enrollment of H.R. 1585 (National Defense Authorization Act for Fiscal Year 2008) concerning: (1) Navy construction and land acquisition projects, including costs of construction at Naval Station Bremerton, Washington; and (2) the general reduction of the amount authorized for base closure and realignment activities.</summary>
+</bill>

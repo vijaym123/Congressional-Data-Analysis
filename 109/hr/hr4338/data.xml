@@ -1,0 +1,46 @@
+<bill session="109" type="h" number="4338" updated="2013-07-19T19:42:40-04:00">
+  <state datetime="2005-11-16">REFERRED</state>
+  <status>
+    <introduced datetime="2005-11-16"/>
+  </status>
+  <introduced datetime="2005-11-16"/>
+  <titles>
+    <title as="introduced" type="short">Combat Merchant Mariners Veterans Benefits Act of 2005</title>
+    <title as="introduced" type="official">To provide veterans benefits to certain individuals who serve in the United States merchant marine during a period of war.</title>
+  </titles>
+  <sponsor id="400330"/>
+  <cosponsors>
+    <cosponsor id="400030" joined="2006-03-07"/>
+    <cosponsor id="400133" joined="2005-12-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-11-16">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2006-01-03">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2006-01-03">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Merchant marine"/>
+    <term name="Merchant seamen"/>
+    <term name="Transportation and public works"/>
+    <term name="Veterans' benefits"/>
+    <term name="War"/>
+  </subjects>
+  <amendments/>
+  <summary>11/16/2005--Introduced.
+Combat Merchant Mariners Veterans Benefits Act of 2005 - Provides that: (1) qualifying service in the U.S. merchant marine during a period of war for a total period equal to at least 12 months shall be considered active duty in determining eligibility for veterans' benefits; and (2) such service may be verified by entries in a continuous discharge book, a certificate of discharge to merchant seamen, a certificate of substantially continuous service, or other documentation available from the Secretary of Transportation or the head of any other Federal agency.</summary>
+</bill>

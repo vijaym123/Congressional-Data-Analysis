@@ -1,0 +1,58 @@
+<bill session="110" type="s" number="2107" updated="2013-07-19T22:38:56-04:00">
+  <state datetime="2007-11-14">REPORTED</state>
+  <status>
+    <unknown datetime="2007-11-14"/>
+  </status>
+  <introduced datetime="2007-09-27"/>
+  <titles>
+    <title as="introduced" type="official">A bill to designate the facility of the United States Postal Service located at 570 Broadway in Bayonne, New Jersey, as the "Dennis P. Collins Post Office Building".</title>
+  </titles>
+  <sponsor id="400272"/>
+  <cosponsors>
+    <cosponsor id="300064" joined="2007-11-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-09-27">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2007-10-19">
+      <text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-11-14">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2007-11-14">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2007-11-14" calendar="Senate Legislative" under="General Orders" number="490">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 490.</text>
+    </calendar>
+    <action datetime="2007-12-04">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+      <reference ref="CR S14748" label="consideration"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSGA09" subcommittee="Federal Financial Management, Government Information, Federal Services, and International Security" name="Senate Homeland Security and Governmental Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="h" number="3307"/>
+    <bill relation="identical" session="110" type="h" number="3307"/>
+    <bill relation="unknown" session="110" type="h" number="3307"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Government operations and politics"/>
+    <term name="Mayors"/>
+    <term name="Names"/>
+    <term name="New Jersey"/>
+    <term name="Postal facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/2007--Introduced.
+Designates the facility of the United States Postal Service located at 570 Broadway in Bayonne, New Jersey, as the "Dennis P. Collins Post Office Building."</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="109" type="h" number="6242" updated="2013-07-19T19:59:37-04:00">
+  <state datetime="2006-09-28">REFERRED</state>
+  <status>
+    <introduced datetime="2006-09-28"/>
+  </status>
+  <introduced datetime="2006-09-28"/>
+  <titles>
+    <title as="introduced" type="short">Withholding Tax Relief Act of 2006</title>
+    <title as="introduced" type="official">To repeal the imposition of withholding on certain payments made to vendors by government entities.</title>
+  </titles>
+  <sponsor id="400176"/>
+  <cosponsors>
+    <cosponsor id="400020" joined="2006-09-29"/>
+    <cosponsor id="409888" joined="2006-11-13"/>
+    <cosponsor id="400432" joined="2006-12-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-09-28">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2006-09-29">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1912-1913"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="s" number="2821"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Government contractors"/>
+    <term name="Government operations and politics"/>
+    <term name="Government service contracts"/>
+    <term name="Income tax"/>
+    <term name="Withholding tax"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/2006--Introduced.
+Withholding Tax Relief Act of 2006 - Repeals provisions of the Tax Increase Prevention and Reconciliation Act of 2005 requiring federal, state, and local governmental entities to withhold 3% of payments due to vendors providing goods and services to such entities.</summary>
+</bill>

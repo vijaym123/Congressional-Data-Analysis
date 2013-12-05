@@ -1,0 +1,66 @@
+<bill session="110" type="hr" number="1176" updated="2013-07-19T21:00:40-04:00">
+  <state datetime="2008-05-14T14:01:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2008-05-14T14:01:00-04:00"/>
+  </status>
+  <introduced datetime="2008-05-06"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals and ideals of National Train Day.</title>
+  </titles>
+  <sponsor id="400048"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2008-05-06">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2008-05-07">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2008-05-13T15:18:00-04:00">
+      <text>Ms. Brown, Corrine moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2008-05-13T15:18:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3712-3714" label="consideration"/>
+    </action>
+    <action datetime="2008-05-13T15:18:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1176.</text>
+    </action>
+    <action datetime="2008-05-13T15:36:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Simpson objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2008-05-14T13:53:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3800" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2008-05-14T14:01:00-04:00" how="roll" result="pass" roll="313" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 313).</text>
+      <reference ref="CR 5/13/2008 H3712" label="text"/>
+    </vote>
+    <action datetime="2008-05-14T14:01:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW14" subcommittee="Railroads, Pipelines, and Hazardous Materials" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="hr" number="1055"/>
+    <bill relation="unknown" session="110" type="hr" number="1085"/>
+    <bill relation="unknown" session="110" type="sr" number="557"/>
+    <bill relation="unknown" session="110" type="sr" number="557"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Railroad freight operations"/>
+    <term name="Railroad passenger traffic"/>
+    <term name="Railroads"/>
+    <term name="Special days"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>5/14/2008--Passed House without amendment.
+Recognizes the contribution trains make to the national transportation system. Supports the goals and ideals of National Train Day. Urges the people of the United States to recognize such a day as an opportunity to learn more about trains.</summary>
+</bill>

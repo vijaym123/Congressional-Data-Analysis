@@ -1,0 +1,109 @@
+<bill session="109" type="hc" number="6" updated="2013-07-19T20:02:12-04:00">
+  <state datetime="2005-02-09T17:11:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-02-09T17:11:00-05:00"/>
+  </status>
+  <introduced datetime="2005-01-04"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of the Congress that the Department of Defense should continue to exercise its statutory authority to support the activities of the Boy Scouts of America, in particular the periodic national and world Boy Scout Jamborees.</title>
+  </titles>
+  <sponsor id="400174"/>
+  <cosponsors>
+    <cosponsor id="400016" joined="2005-02-08"/>
+    <cosponsor id="400017" joined="2005-01-20"/>
+    <cosponsor id="400030" joined="2005-01-20"/>
+    <cosponsor id="400040" joined="2005-02-01"/>
+    <cosponsor id="400056" joined="2005-01-20"/>
+    <cosponsor id="400057" joined="2005-01-20"/>
+    <cosponsor id="400072" joined="2005-01-20"/>
+    <cosponsor id="400081" joined="2005-01-20"/>
+    <cosponsor id="400131" joined="2005-01-20"/>
+    <cosponsor id="400646" joined="2005-02-08"/>
+    <cosponsor id="400136" joined="2005-02-08"/>
+    <cosponsor id="400137" joined="2005-01-20"/>
+    <cosponsor id="400139" joined="2005-01-20"/>
+    <cosponsor id="400150" joined="2005-02-08"/>
+    <cosponsor id="400164" joined="2005-01-20"/>
+    <cosponsor id="400191" joined="2005-01-20"/>
+    <cosponsor id="400209" joined="2005-01-20"/>
+    <cosponsor id="400214" joined="2005-01-20"/>
+    <cosponsor id="400239" joined="2005-02-08"/>
+    <cosponsor id="400260" joined="2005-02-08"/>
+    <cosponsor id="400279" joined="2005-01-20"/>
+    <cosponsor id="400286" joined="2005-01-20"/>
+    <cosponsor id="400288" joined="2005-01-20"/>
+    <cosponsor id="400305" joined="2005-01-20"/>
+    <cosponsor id="400311" joined="2005-01-20"/>
+    <cosponsor id="400319" joined="2005-01-20"/>
+    <cosponsor id="400321" joined="2005-01-20"/>
+    <cosponsor id="400337" joined="2005-01-20"/>
+    <cosponsor id="400376" joined="2005-01-20"/>
+    <cosponsor id="400377" joined="2005-01-20"/>
+    <cosponsor id="400380" joined="2005-01-20"/>
+    <cosponsor id="400383" joined="2005-01-20"/>
+    <cosponsor id="400385" joined="2005-02-01"/>
+    <cosponsor id="400394" joined="2005-01-20"/>
+    <cosponsor id="400399" joined="2005-01-20"/>
+    <cosponsor id="400400" joined="2005-02-09"/>
+    <cosponsor id="400431" joined="2005-01-20"/>
+    <cosponsor id="400435" joined="2005-02-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-01-04">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2005-01-27">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+    <action datetime="2005-02-09T10:21:00-05:00">
+      <text>Mr. Hefley moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2005-02-09T10:23:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H419-422" label="consideration"/>
+    </action>
+    <action datetime="2005-02-09T10:23:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 6.</text>
+    </action>
+    <action datetime="2005-02-09T10:33:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2005-02-09T16:49:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H479-480" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-02-09T17:11:00-05:00" how="roll" result="pass" roll="24" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 418 - 7 (Roll no. 24).</text>
+      <reference ref="CR H419" label="text"/>
+    </vote>
+    <action datetime="2005-02-09T17:11:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-02-14">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2005-02-17">
+      <text>Referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="sc" number="4"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Boy Scouts"/>
+    <term name="Civil-military relations"/>
+    <term name="Department of Defense"/>
+    <term name="Families"/>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>2/9/2005--Passed House without amendment.
+Expresses the sense of Congress that the Department of Defense should continue to exercise its long-standing statutory authority to support activities of the Boy Scouts of America, particularly the periodic national and world Boy Scout Jamborees.</summary>
+</bill>

@@ -1,0 +1,87 @@
+<bill session="110" type="hc" number="60" updated="2013-07-19T22:09:18-04:00">
+  <state datetime="2007-11-05T15:41:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-11-05T15:41:00-05:00"/>
+  </status>
+  <introduced datetime="2007-02-07"/>
+  <titles>
+    <title as="introduced" type="official">Expressing support for the goals of Veterans Educate Today's Students (VETS) Day, and for other purposes.</title>
+  </titles>
+  <sponsor id="400308"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2007-02-15"/>
+    <cosponsor id="400044" joined="2007-03-26"/>
+    <cosponsor id="412234" joined="2007-03-07"/>
+    <cosponsor id="400073" joined="2007-03-01"/>
+    <cosponsor id="400133" joined="2007-03-07"/>
+    <cosponsor id="400640" joined="2007-03-01"/>
+    <cosponsor id="400199" joined="2007-03-01"/>
+    <cosponsor id="400204" joined="2007-03-01"/>
+    <cosponsor id="412199" joined="2007-03-01"/>
+    <cosponsor id="400209" joined="2007-03-01"/>
+    <cosponsor id="412198" joined="2007-03-01"/>
+    <cosponsor id="400238" joined="2007-03-01"/>
+    <cosponsor id="400260" joined="2007-02-15"/>
+    <cosponsor id="400659" joined="2007-03-01"/>
+    <cosponsor id="400279" joined="2007-03-07"/>
+    <cosponsor id="400288" joined="2007-03-01"/>
+    <cosponsor id="400652" joined="2007-04-17"/>
+    <cosponsor id="400327" joined="2007-03-01"/>
+    <cosponsor id="412202" joined="2007-03-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-02-07">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2007-02-09">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2007-03-30">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2007-11-05T15:33:00-05:00">
+      <text>Mr. Filner moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2007-11-05T15:33:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H12475-12476" label="consideration"/>
+    </action>
+    <action datetime="2007-11-05T15:33:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 60.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-11-05T15:41:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H12475" label="text"/>
+    </vote>
+    <action datetime="2007-11-05T15:41:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-11-06">
+      <text>Received in the Senate and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Citizenship education"/>
+    <term name="Commemorations"/>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Elementary education"/>
+    <term name="Government operations and politics"/>
+    <term name="Patriotism"/>
+    <term name="Secondary education"/>
+    <term name="Special days"/>
+  </subjects>
+  <amendments/>
+  <summary>11/5/2007--Passed House without amendment.
+Recognizes the importance of veterans to the United States. Expresses support for the goals of Veterans Educate Today's Students Day (programs that educate children about the service and sacrifices of veterans and their families).</summary>
+</bill>

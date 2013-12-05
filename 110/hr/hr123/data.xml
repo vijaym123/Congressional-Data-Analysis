@@ -1,0 +1,137 @@
+<bill session="110" type="h" number="123" updated="2013-07-19T21:04:53-04:00">
+  <state datetime="2007-12-11T12:42:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-12-11T12:42:00-05:00"/>
+  </status>
+  <introduced datetime="2007-01-04"/>
+  <titles>
+    <title as="introduced" type="official">To authorize appropriations for the San Gabriel Basin Restoration Fund.</title>
+  </titles>
+  <sponsor id="400115"/>
+  <cosponsors>
+    <cosponsor id="400277" joined="2007-01-04"/>
+    <cosponsor id="400290" joined="2007-01-04"/>
+    <cosponsor id="400347" joined="2007-01-09"/>
+    <cosponsor id="400355" joined="2007-05-22"/>
+    <cosponsor id="400361" joined="2007-01-04"/>
+    <cosponsor id="400384" joined="2007-01-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-04">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2007-01-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E16-17"/>
+    </action>
+    <action datetime="2007-06-25T14:36:00-04:00">
+      <text>DISCHARGE AND RE-REFERRAL OF H.R. 123 - Ms. Norton asked unanimous consent that the Committee on Transportation and Infrastructure be discharged from consideration of the bill, H.R. 123, and that the bill be re-referred to the Committee on Natural Resources. Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-06-25T14:46:00-04:00">
+      <text>Committee on Transportation discharged.</text>
+    </action>
+    <action datetime="2007-06-25">
+      <text>Rereferred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-07-03">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-09-25">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-10-16">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-10-16">
+      <text>Forwarded by Subcommittee to Full Committee Without Recommendation by Unanimous Consent .</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-11-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-11-15">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2007-12-11T12:19:00-05:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-483.</text>
+    </action>
+    <calendar datetime="2007-12-11T12:20:00-05:00" calendar="Union" number="298">
+      <text>Placed on the Union Calendar, Calendar No. 298.</text>
+    </calendar>
+    <action datetime="2007-12-11T12:28:00-05:00">
+      <text>Mrs. Napolitano moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-12-11T12:32:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H15227-15229" label="consideration"/>
+    </action>
+    <action datetime="2007-12-11T12:32:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 123.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-12-11T12:42:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H15227-15228" label="text"/>
+    </vote>
+    <action datetime="2007-12-11T12:42:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-12-12">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="2008-04-10">
+      <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2008-04-10">
+      <text>Referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2008-04-24">
+      <text>Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2008-05-07">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2008-06-16">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-375.</text>
+    </action>
+    <calendar datetime="2008-06-16" calendar="Senate Legislative" under="General Orders" number="807">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 807.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Discharged"/>
+    <committee code="HSII" name="House Natural Resources" activity="Re-Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Discharged"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG07" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Agriculture and food"/>
+    <term name="Authorization"/>
+    <term name="California"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to water pollution control"/>
+    <term name="Government trust funds"/>
+    <term name="Groundwater"/>
+    <term name="Irrigation"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Restoration ecology"/>
+    <term name="Water districts"/>
+    <term name="Water pollution control"/>
+    <term name="Water quality"/>
+    <term name="Water resources development"/>
+    <term name="Watersheds"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/2008--Reported to Senate without amendment.
+Amends the Miscellaneous Appropriations Act, 2001 to establish a 35% non-federal matching requirement for specified federal funds made available to: (1) the San Gabriel Water Quality Authority; and (2) the Central Basin Municipal Water District.Increases the authorization of appropriations for the San Gabriel Restoration Fund. Sets aside a specified sum to carry out the Central Basin Water Quality Project.</summary>
+</bill>

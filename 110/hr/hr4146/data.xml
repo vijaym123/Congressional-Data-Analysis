@@ -1,0 +1,49 @@
+<bill session="110" type="h" number="4146" updated="2013-07-19T21:40:11-04:00">
+  <state datetime="2007-11-09">REFERRED</state>
+  <status>
+    <introduced datetime="2007-11-09"/>
+  </status>
+  <introduced datetime="2007-11-09"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to clarify the availability of emergency medical care for veterans in non-Department of Veterans Affairs medical facilities.</title>
+  </titles>
+  <sponsor id="400185"/>
+  <cosponsors>
+    <cosponsor id="400051" joined="2007-11-09"/>
+    <cosponsor id="400073" joined="2007-11-09"/>
+    <cosponsor id="400080" joined="2007-11-09"/>
+    <cosponsor id="400162" joined="2007-11-09"/>
+    <cosponsor id="412222" joined="2007-11-09"/>
+    <cosponsor id="400262" joined="2007-11-09"/>
+    <cosponsor id="400289" joined="2007-11-09"/>
+    <cosponsor id="400385" joined="2007-11-09"/>
+    <cosponsor id="400436" joined="2007-11-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-11-09">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2007-11-16">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Emergency management"/>
+    <term name="Emergency medicine"/>
+    <term name="Health"/>
+    <term name="Hospital care"/>
+    <term name="Hospitals"/>
+    <term name="Veterans' hospitals"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>11/9/2007--Introduced.
+Requires the determination of whether a veteran can be transferred to a Department of Veterans Affairs medical facility after receiving emergency medical treatment in a non-Department facility to be based both on the condition of the veteran and on the availability of a bed in a Department facility that is not geographically inaccessible to the veteran.</summary>
+</bill>

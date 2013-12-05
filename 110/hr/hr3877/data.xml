@@ -1,0 +1,96 @@
+<bill session="110" type="h" number="3877" updated="2013-07-19T21:37:51-04:00">
+  <state datetime="2007-10-29T16:48:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-10-29T16:48:00-04:00"/>
+  </status>
+  <introduced datetime="2007-10-17"/>
+  <titles>
+    <title as="introduced" type="short">Mine Communications Technology Innovation Act</title>
+    <title as="reported to house" type="short">Mine Communications Technology Innovation Act</title>
+    <title as="passed house" type="short">Mine Communications Technology Innovation Act</title>
+    <title as="introduced" type="official">To require the Director of the National Institute of Standards and Technology to establish an initiative to promote the research, development, and demonstration of miner tracking and communications systems and to promote the establishment of standards regarding underground communications to protect miners in the United States.</title>
+    <title as="amended by house" type="official">To require the Director of the National Institute of Standards and Technology to establish an initiative to promote the research, development, and demonstration of miner tracking and communications systems and to promote the establishment of standards and other measurement services regarding underground communications to protect miners in the United States.</title>
+  </titles>
+  <sponsor id="400255"/>
+  <cosponsors>
+    <cosponsor id="400010" joined="2007-10-17"/>
+    <cosponsor id="400059" joined="2007-10-17"/>
+    <cosponsor id="400633" joined="2007-10-17"/>
+    <cosponsor id="400155" joined="2007-10-17"/>
+    <cosponsor id="400178" joined="2007-10-29"/>
+    <cosponsor id="400340" joined="2007-10-17"/>
+    <cosponsor id="400345" joined="2007-10-17"/>
+    <cosponsor id="400412" joined="2007-10-25"/>
+    <cosponsor id="400431" joined="2007-10-17"/>
+    <cosponsor id="400437" joined="2007-10-23"/>
+    <cosponsor id="400440" joined="2007-10-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-10-17">
+      <text>Referred to the House Committee on Science and Technology.</text>
+    </action>
+    <action datetime="2007-10-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Science and Technology"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-10-24">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Science and Technology"/>
+    </calendar>
+    <action datetime="2007-10-29T15:23:00-04:00">
+      <text>Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-411.</text>
+    </action>
+    <calendar datetime="2007-10-29T15:23:00-04:00" calendar="Union" number="259">
+      <text>Placed on the Union Calendar, Calendar No. 259.</text>
+    </calendar>
+    <action datetime="2007-10-29T16:38:00-04:00">
+      <text>Mr. Matheson moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-10-29T16:38:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H12130-12131" label="consideration"/>
+    </action>
+    <action datetime="2007-10-29T16:38:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3877.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-10-29T16:48:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H12130" label="text"/>
+    </vote>
+    <action datetime="2007-10-29T16:48:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-10-29T16:48:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-10-30">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science and Technology" activity="Referral, Markup, Reporting"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="2263"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Coal"/>
+    <term name="Commerce"/>
+    <term name="Economics and public finance"/>
+    <term name="Emergency communication systems"/>
+    <term name="Emergency management"/>
+    <term name="Energy"/>
+    <term name="Mine safety"/>
+    <term name="Research and development"/>
+    <term name="Research grants"/>
+    <term name="Science, technology, communications"/>
+    <term name="Standards"/>
+    <term name="Technological innovations"/>
+    <term name="Wireless communication"/>
+  </subjects>
+  <amendments/>
+  <summary>10/29/2007--Passed House amended.
+Mine Communications Technology Innovation Act - Requires the Director of the National Institute of Standards and Technology to establish a program of research, development, and demonstration, including the establishment of best practices, adaptation of existing technology, and efforts to accelerate the development of next generation technology and tracking systems for mine communications.Requires the Director to evaluate areas of research and development and best practices that will be most promising in protecting miner safety.Authorizes the Director, in establishing the program, to focus on the following communications and tracking system characteristics: (1) systems that are likely to work in emergency situations; (2) systems that work in coal mines, with special attention paid to deep underground coal mines; (3) systems that provide coverage throughout all areas of the mine; (4) hybrid systems that use both wireless and infrastructure-based systems; (5) functionality for two-way and voice communications; (6) systems that serve emergency and routine communications needs; (7) the ability to work with existing legacy systems and to be quickly integrated; and (8) propagation environment characterization, performance metrics, and independently derived validation tests to verify performance for standards development.Requires the Director to: (1) work with industry and federal agencies to develop consensus industry standards for communications in underground mines; and (2) develop and provide any needed measurement services to support implementation of these standards. Urges that the following issues be addressed: (1) the appropriate use of frequency bands and power levels; (2) matters related to interoperability; and (3) technology to prevent interference.Authorizes appropriations for carrying out this Act for FY2009-FY2010, to be derived from amounts authorized under the America COMPETES Act.</summary>
+</bill>

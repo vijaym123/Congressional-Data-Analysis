@@ -1,0 +1,114 @@
+<bill session="110" type="hc" number="207" updated="2013-07-19T22:10:34-04:00">
+  <state datetime="2007-09-18T16:37:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-09-18T16:37:00-04:00"/>
+  </status>
+  <introduced datetime="2007-09-07"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the 60th anniversary of the United States Air Force as an independent military service.</title>
+  </titles>
+  <sponsor id="400386"/>
+  <cosponsors>
+    <cosponsor id="400001" joined="2007-09-07"/>
+    <cosponsor id="400008" joined="2007-09-07"/>
+    <cosponsor id="400024" joined="2007-09-07"/>
+    <cosponsor id="412250" joined="2007-09-17"/>
+    <cosponsor id="400029" joined="2007-09-07"/>
+    <cosponsor id="400041" joined="2007-09-18"/>
+    <cosponsor id="400645" joined="2007-09-07"/>
+    <cosponsor id="400044" joined="2007-09-07"/>
+    <cosponsor id="412210" joined="2007-09-07"/>
+    <cosponsor id="400047" joined="2007-09-07"/>
+    <cosponsor id="400055" joined="2007-09-17"/>
+    <cosponsor id="400056" joined="2007-09-07"/>
+    <cosponsor id="412195" joined="2007-09-07"/>
+    <cosponsor id="400655" joined="2007-09-07"/>
+    <cosponsor id="400081" joined="2007-09-07"/>
+    <cosponsor id="412193" joined="2007-09-07"/>
+    <cosponsor id="400095" joined="2007-09-07"/>
+    <cosponsor id="400097" joined="2007-09-07"/>
+    <cosponsor id="400109" joined="2007-09-17"/>
+    <cosponsor id="412206" joined="2007-09-07"/>
+    <cosponsor id="400141" joined="2007-09-07"/>
+    <cosponsor id="412188" joined="2007-09-07"/>
+    <cosponsor id="412223" joined="2007-09-07"/>
+    <cosponsor id="400151" joined="2007-09-07"/>
+    <cosponsor id="400152" joined="2007-09-07"/>
+    <cosponsor id="412204" joined="2007-09-18"/>
+    <cosponsor id="400172" joined="2007-09-07"/>
+    <cosponsor id="400204" joined="2007-09-07"/>
+    <cosponsor id="400206" joined="2007-09-07"/>
+    <cosponsor id="400215" joined="2007-09-17"/>
+    <cosponsor id="400221" joined="2007-09-07"/>
+    <cosponsor id="412191" joined="2007-09-07"/>
+    <cosponsor id="412209" joined="2007-09-07"/>
+    <cosponsor id="400254" joined="2007-09-07"/>
+    <cosponsor id="412190" joined="2007-09-18"/>
+    <cosponsor id="400261" joined="2007-09-07"/>
+    <cosponsor id="400266" joined="2007-09-07"/>
+    <cosponsor id="400267" joined="2007-09-07"/>
+    <cosponsor id="412233" joined="2007-09-07"/>
+    <cosponsor id="400288" joined="2007-09-07"/>
+    <cosponsor id="400441" joined="2007-09-07"/>
+    <cosponsor id="400299" joined="2007-09-07"/>
+    <cosponsor id="400302" joined="2007-09-07"/>
+    <cosponsor id="400359" joined="2007-09-07"/>
+    <cosponsor id="412232" joined="2007-09-18"/>
+    <cosponsor id="412219" joined="2007-09-07"/>
+    <cosponsor id="400377" joined="2007-09-07"/>
+    <cosponsor id="400379" joined="2007-09-07"/>
+    <cosponsor id="400383" joined="2007-09-07"/>
+    <cosponsor id="400388" joined="2007-09-07"/>
+    <cosponsor id="400396" joined="2007-09-07"/>
+    <cosponsor id="400411" joined="2007-09-07"/>
+    <cosponsor id="400412" joined="2007-09-07"/>
+    <cosponsor id="400434" joined="2007-09-07"/>
+    <cosponsor id="400433" joined="2007-09-07"/>
+    <cosponsor id="400440" joined="2007-09-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-09-07">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2007-09-18T16:07:00-04:00">
+      <text>Mr. Spratt moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2007-09-18T16:08:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10488-10494" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-09-18T16:37:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H10488-10489" label="text"/>
+    </vote>
+    <action datetime="2007-09-18T16:38:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-09-19">
+      <text>Received in the Senate and referred to the Committee on Armed Services.</text>
+    </action>
+    <action datetime="2007-09-25">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="sc" number="47"/>
+    <bill relation="identical" session="110" type="sr" number="416"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Air force"/>
+    <term name="Anniversaries"/>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional tributes"/>
+  </subjects>
+  <amendments/>
+  <summary>9/18/2007--Passed House without amendment.
+Declares that Congress remembers, honors, and commends the achievements of the U.S. Air Force in serving and defending the United States on the 60th anniversary of its creation as an independent military service.</summary>
+</bill>

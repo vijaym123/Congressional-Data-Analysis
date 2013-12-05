@@ -1,0 +1,89 @@
+<bill session="110" type="h" number="3332" updated="2013-07-19T21:33:09-04:00">
+  <state datetime="2008-02-12T14:56:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-02-12T14:56:00-05:00"/>
+  </status>
+  <introduced datetime="2007-08-02"/>
+  <titles>
+    <title as="introduced" type="short">Kalaupapa Memorial Act of 2007</title>
+    <title as="passed house" type="short">Kalaupapa Memorial Act of 2008</title>
+    <title as="reported to senate" type="short">Kalaupapa Memorial Act of 2008</title>
+    <title as="introduced" type="official">To provide for the establishment of a memorial within Kalaupapa National Historical Park located on the island of Molokai, in the State of Hawaii, to honor and perpetuate the memory of those individuals who were forcibly relocated to the Kalaupapa Peninsula from 1866 to 1969, and for other purposes.</title>
+  </titles>
+  <sponsor id="412200"/>
+  <cosponsors>
+    <cosponsor id="400001" joined="2007-08-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-08-02">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-08-03">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1725-1726"/>
+    </action>
+    <action datetime="2007-08-08">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2008-02-12T14:35:00-05:00">
+      <text>Mr. Grijalva moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2008-02-12T14:36:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H824-827" label="consideration"/>
+    </action>
+    <action datetime="2008-02-12T14:36:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3332.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-02-12T14:56:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H824-825" label="text"/>
+    </vote>
+    <action datetime="2008-02-12T14:56:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-02-13">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2008-04-09">
+      <text>Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2008-05-07">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2008-06-16">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-389.</text>
+    </action>
+    <calendar datetime="2008-06-16" calendar="Senate Legislative" under="General Orders" number="821">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 821.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="National Parks" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="2502"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Hawaii"/>
+    <term name="Hawaiians"/>
+    <term name="Historic sites"/>
+    <term name="History"/>
+    <term name="Monuments and memorials"/>
+    <term name="National parks"/>
+    <term name="Nonprofit organizations"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Relocation"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/2008--Reported to Senate without amendment.
+Kalaupapa Memorial Act of 2008 - Requires the Secretary of the Interior to authorize Ka 'Ohana O Kalaupapa, a nonprofit organization consisting of patient residents at Kalaupapa National Historical Park, to establish a memorial at the location(s) approved by the Secretary at Kalawao or Kalaupapa within the boundaries of Kalaupapa National Historical Park on the island of Molokai, Hawaii, to honor those individuals who were forcibly relocated to Kalaupapa Peninsula from 1866 to 1969. Sets forth requirements concerning the design of the memorial. Requires that the location, size, design, and inscriptions of the memorial be subject to the approval of the Secretary.Makes Ka 'Ohana O Kalaupapa solely responsible for the acceptance of contributions for, and payment of, expenses associated with the establishment of the memorial.</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="110" type="hc" number="355" updated="2013-07-19T22:11:49-04:00">
+  <state datetime="2008-05-22">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2008-05-22"/>
+  </status>
+  <introduced datetime="2008-05-20"/>
+  <titles>
+    <title as="introduced" type="official">Providing for a conditional adjournment of the House of Representatives and a conditional recess or adjournment of the Senate.</title>
+  </titles>
+  <sponsor id="400031"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2008-05-20T16:43:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H4279-4280" label="consideration"/>
+    </action>
+    <action datetime="2008-05-20T17:09:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-05-20T17:09:00-04:00" how="roll" result="pass" roll="334" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 239 - 175 (Roll no. 334).</text>
+      <reference ref="CR H4279" label="text"/>
+    </vote>
+    <action datetime="2008-05-20">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2008-05-22" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4848" label="consideration"/>
+      <reference ref="CR S4848" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2008-05-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2008--Passed House without amendment.
+Declares that, when: (1) the House adjourns on the legislative day of Thursday, May 22 or 23, 2008, it stand adjourned until 2 p.m. on Tuesday, June 3, 2008; and (2) the Senate recesses or adjourns on any day from Thursday, May 22, 2008, through Friday, May 30, 2008, it stand recessed or adjourned until noon on Monday, June 2, 2008.</summary>
+</bill>

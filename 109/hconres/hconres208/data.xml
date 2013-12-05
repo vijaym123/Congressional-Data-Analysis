@@ -1,0 +1,133 @@
+<bill session="109" type="hc" number="208" updated="2013-07-19T20:03:56-04:00">
+  <state datetime="2005-11-18">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2005-11-18"/>
+  </status>
+  <introduced datetime="2005-07-13"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the 50th anniversary of Rosa Louise Parks' refusal to give up her seat on the bus and the subsequent desegregation of American society.</title>
+  </titles>
+  <sponsor id="400080"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2005-07-13"/>
+    <cosponsor id="400024" joined="2005-07-13"/>
+    <cosponsor id="400067" joined="2005-07-13"/>
+    <cosponsor id="400639" joined="2005-07-13"/>
+    <cosponsor id="400081" joined="2005-07-13"/>
+    <cosponsor id="400087" joined="2005-07-13"/>
+    <cosponsor id="400093" joined="2005-07-13"/>
+    <cosponsor id="400111" joined="2005-07-13"/>
+    <cosponsor id="400129" joined="2005-07-13"/>
+    <cosponsor id="400646" joined="2005-07-13"/>
+    <cosponsor id="400160" joined="2005-07-13"/>
+    <cosponsor id="400162" joined="2005-07-13"/>
+    <cosponsor id="400165" joined="2005-07-13"/>
+    <cosponsor id="400443" joined="2005-07-13"/>
+    <cosponsor id="400184" joined="2005-07-13"/>
+    <cosponsor id="400185" joined="2005-07-13"/>
+    <cosponsor id="400198" joined="2005-07-13"/>
+    <cosponsor id="400204" joined="2005-07-13"/>
+    <cosponsor id="400208" joined="2005-07-13"/>
+    <cosponsor id="400211" joined="2005-07-14"/>
+    <cosponsor id="400237" joined="2005-07-13"/>
+    <cosponsor id="400251" joined="2005-07-13"/>
+    <cosponsor id="400663" joined="2005-07-13"/>
+    <cosponsor id="400259" joined="2005-07-13"/>
+    <cosponsor id="400262" joined="2005-07-13"/>
+    <cosponsor id="400269" joined="2005-07-13"/>
+    <cosponsor id="400280" joined="2005-07-19"/>
+    <cosponsor id="400661" joined="2005-07-13"/>
+    <cosponsor id="400283" joined="2005-07-13"/>
+    <cosponsor id="400289" joined="2005-07-13"/>
+    <cosponsor id="400308" joined="2005-07-13"/>
+    <cosponsor id="400314" joined="2005-07-13"/>
+    <cosponsor id="400346" joined="2005-07-14"/>
+    <cosponsor id="400357" joined="2005-07-13"/>
+    <cosponsor id="400360" joined="2005-07-13"/>
+    <cosponsor id="400361" joined="2005-07-13"/>
+    <cosponsor id="400363" joined="2005-07-13"/>
+    <cosponsor id="400365" joined="2005-07-13"/>
+    <cosponsor id="400373" joined="2005-07-13"/>
+    <cosponsor id="400379" joined="2005-07-13"/>
+    <cosponsor id="400384" joined="2005-07-13"/>
+    <cosponsor id="400402" joined="2005-07-13"/>
+    <cosponsor id="400415" joined="2005-07-13"/>
+    <cosponsor id="400423" joined="2005-07-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-07-13">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1481"/>
+    </action>
+    <action state="REFERRED" datetime="2005-07-13">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2005-07-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-07-27">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2005-07-27T16:22:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 109-193.</text>
+    </action>
+    <calendar datetime="2005-07-27T16:22:00-04:00" calendar="House" number="70">
+      <text>Placed on the House Calendar, Calendar No. 70.</text>
+    </calendar>
+    <action datetime="2005-09-14T11:16:00-04:00">
+      <text>Mr. Sensenbrenner moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2005-09-14T11:16:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7881-7883" label="consideration"/>
+    </action>
+    <action datetime="2005-09-14T11:16:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 208.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-09-14T11:27:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H7881" label="text"/>
+    </vote>
+    <action datetime="2005-09-14T11:27:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-09-15">
+      <text>Received in the Senate and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2005-11-18">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S13409" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2005-11-18" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2005-11-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Alabama"/>
+    <term name="Anniversaries"/>
+    <term name="Blacks"/>
+    <term name="Civil disobedience"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Civil rights workers"/>
+    <term name="Discrimination in public facilities"/>
+    <term name="Law"/>
+    <term name="Minorities"/>
+    <term name="Racial discrimination"/>
+    <term name="Segregation"/>
+    <term name="Supreme Court decisions"/>
+  </subjects>
+  <amendments/>
+  <summary>11/18/2005--Passed Senate without amendment.
+Recognizes the 50th anniversary of Rosa Louise Parks' refusal to give up her bus seat and the subsequent desegregation of American society.</summary>
+</bill>

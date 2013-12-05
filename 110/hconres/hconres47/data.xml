@@ -1,0 +1,80 @@
+<bill session="110" type="hc" number="47" updated="2013-07-19T22:09:11-04:00">
+  <state datetime="2007-03-01">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2007-03-01"/>
+  </status>
+  <introduced datetime="2007-01-30"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals and ideals of a National Medal of Honor Day to celebrate and honor the recipients of the Medal of Honor.</title>
+  </titles>
+  <sponsor id="400377"/>
+  <cosponsors>
+    <cosponsor id="400052" joined="2007-02-27"/>
+    <cosponsor id="400056" joined="2007-02-27"/>
+    <cosponsor id="400109" joined="2007-01-30"/>
+    <cosponsor id="400133" joined="2007-01-30"/>
+    <cosponsor id="400172" joined="2007-02-27"/>
+    <cosponsor id="400191" joined="2007-01-30"/>
+    <cosponsor id="400620" joined="2007-02-27"/>
+    <cosponsor id="400439" joined="2007-02-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-30">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2007-02-26">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+    <action datetime="2007-02-27T14:12:00-05:00">
+      <text>Mr. Skelton moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2007-02-27T14:13:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1900-1903" label="consideration"/>
+    </action>
+    <action datetime="2007-02-27T14:13:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 47.</text>
+    </action>
+    <action datetime="2007-02-27T14:29:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2007-02-27T18:33:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H1931" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-02-27T19:02:00-05:00" how="roll" result="pass" roll="103" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 103).</text>
+      <reference ref="CR H1900" label="text"/>
+    </vote>
+    <action datetime="2007-02-27T19:02:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-02-28">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2007-03-01" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S2541" label="consideration"/>
+    </vote>
+    <action datetime="2007-03-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="sc" number="12"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional Medal of Honor"/>
+    <term name="Special days"/>
+  </subjects>
+  <amendments/>
+  <summary>3/1/2007--Passed Senate without amendment.
+Recognizes the: (1) heroism and sacrifice of Medal of Honor recipients; and (2) educational opportunity that a National Medal of Honor Day would present to the American public. Supports the goals and ideals of such a Day to celebrate and honor the contributions of such recipients.</summary>
+</bill>

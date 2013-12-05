@@ -1,0 +1,54 @@
+<bill session="109" type="h" number="1455" updated="2013-07-19T19:17:08-04:00">
+  <state datetime="2005-10-20">REPORTED</state>
+  <status>
+    <unknown datetime="2005-10-20"/>
+  </status>
+  <introduced datetime="2005-04-05"/>
+  <titles>
+    <title type="popular">Presidential Succession bill</title>
+    <title as="introduced" type="official">To amend title 5 and title 3, United States Code, to include the Department of Homeland Security and the Secretary of Homeland Security in lists of executive departments and officers.</title>
+  </titles>
+  <sponsor id="400098"/>
+  <cosponsors>
+    <cosponsor id="400321" joined="2005-04-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-04-05">
+      <text>Referred to the Committee on Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2005-04-05">
+      <text>Referred to House Government Reform</text>
+    </action>
+    <action datetime="2005-04-05">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2005-05-10">
+      <text>Referred to the Subcommittee on the Constitution.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <action datetime="2005-10-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-10-20">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Government Reform"/>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, Markup, In Committee"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Cabinet officers"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Directories"/>
+    <term name="Presidential succession"/>
+  </subjects>
+  <amendments/>
+  <summary>4/5/2005--Introduced.
+Includes: (1) the Department of Homeland Security in the list of executive departments of the Federal Government; and (2) the Secretary of Homeland Security in the line of presidential succession after the Attorney General.</summary>
+</bill>

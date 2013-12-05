@@ -1,0 +1,74 @@
+<bill session="110" type="sc" number="84" updated="2013-07-19T22:20:06-04:00">
+  <state datetime="2008-09-27T15:37:00-04:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2008-09-27T15:37:00-04:00"/>
+  </status>
+  <introduced datetime="2008-05-22"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution honoring the memory of Robert Mondavi.</title>
+  </titles>
+  <sponsor id="300011"/>
+  <cosponsors>
+    <cosponsor id="300043" joined="2008-05-22"/>
+    <cosponsor id="300065" joined="2008-06-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-05-22">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S4810" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2008-06-16">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S5666" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2008-06-16" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S5666" label="text"/>
+    </vote>
+    <action datetime="2008-06-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2008-06-17T15:52:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2008-06-17">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2008-09-27T15:37:00-04:00">
+      <text>Mr. Clay asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2008-09-27T15:37:00-04:00">
+      <text>Committee on Oversight and Government discharged.</text>
+    </action>
+    <action datetime="2008-09-27T15:37:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H10210" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2008-09-27T15:37:00-04:00" how="without objection" result="pass" type="vote2" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H10210" label="text"/>
+    </vote>
+    <action datetime="2008-09-27T15:37:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="hc" number="365"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Agricultural industries"/>
+    <term name="Agriculture and food"/>
+    <term name="California"/>
+    <term name="Commerce"/>
+    <term name="Congressional tributes"/>
+    <term name="Wine"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/2008--Passed House without amendment.
+Honors the life of Robert Mondavi, a pioneer and a patriarch of the California wine industry.</summary>
+</bill>

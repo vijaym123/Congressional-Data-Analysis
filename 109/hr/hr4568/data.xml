@@ -1,0 +1,71 @@
+<bill session="109" type="h" number="4568" updated="2013-07-19T19:44:39-04:00">
+  <state datetime="2005-12-17T15:49:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-12-17T15:49:00-05:00"/>
+  </status>
+  <introduced datetime="2005-12-16"/>
+  <titles>
+    <title as="introduced" type="short">Proficiency Testing Improvement Act of 2005</title>
+    <title as="passed house" type="short">Proficiency Testing Improvement Act of 2005</title>
+    <title as="introduced" type="official">To improve proficiency testing of clinical laboratories.</title>
+  </titles>
+  <sponsor id="400099"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2005-12-16"/>
+    <cosponsor id="400288" joined="2005-12-16"/>
+    <cosponsor id="400626" joined="2005-12-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-12-16">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2005-12-17T15:19:00-05:00">
+      <text>Mr. Deal (GA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2005-12-17T15:19:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H12059-12063" label="consideration"/>
+    </action>
+    <action datetime="2005-12-17T15:19:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4568.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-12-17T15:49:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H12059" label="text"/>
+    </vote>
+    <action datetime="2005-12-17T15:49:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-12-17">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2006-01-27">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="4268"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Accreditation (Medical care)"/>
+    <term name="Administrative procedure"/>
+    <term name="Cytology"/>
+    <term name="Decision making"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Government operations and politics"/>
+    <term name="Law"/>
+    <term name="Licenses"/>
+    <term name="Medical laboratories"/>
+    <term name="Science, technology, communications"/>
+    <term name="Scientists"/>
+    <term name="Standards"/>
+  </subjects>
+  <amendments/>
+  <summary>12/17/2005--Passed House without amendment.
+Proficiency Testing Improvement Act of 2005 - Prohibits the Secretary of Health and Human Services from conducting laboratory proficiency testing of individuals involved in screening or interpreting cytological preparations for one year. Requires the Secretary, within one year and before resuming testing, to revise such proficiency testing to: (1) reflect the collaborative clinical decision-making of laboratory personnel involved in screening or interpreting cytological preparations; (2) revise grading or scoring criteria to reflect current practice guidelines; (3) provide for such testing to be conducted no more than every two years; and (4) make such other revisions as necessary to reflect changes in laboratory operations and practices since the standards were promulgated.</summary>
+</bill>

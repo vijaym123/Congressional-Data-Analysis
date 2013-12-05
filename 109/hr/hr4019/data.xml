@@ -1,0 +1,144 @@
+<bill session="109" type="h" number="4019" updated="2013-07-19T19:39:53-04:00">
+  <state datetime="2006-08-03">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2006-08-03"/>
+  </status>
+  <introduced datetime="2005-10-07"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 4 of the United States Code to clarify the treatment of self-employment for purposes of the limitation on State taxation of retirement income.</title>
+  </titles>
+  <sponsor id="400059"/>
+  <cosponsors>
+    <cosponsor id="400012" joined="2006-02-08"/>
+    <cosponsor id="400043" joined="2006-02-08"/>
+    <cosponsor id="400051" joined="2006-03-07"/>
+    <cosponsor id="400058" joined="2006-03-09"/>
+    <cosponsor id="400071" joined="2005-12-13"/>
+    <cosponsor id="400076" joined="2006-02-01"/>
+    <cosponsor id="400123" joined="2005-12-07"/>
+    <cosponsor id="400131" joined="2005-12-08"/>
+    <cosponsor id="400137" joined="2006-02-08"/>
+    <cosponsor id="400154" joined="2006-03-07"/>
+    <cosponsor id="400168" joined="2006-02-28"/>
+    <cosponsor id="400175" joined="2006-02-01"/>
+    <cosponsor id="400183" joined="2006-02-28"/>
+    <cosponsor id="400212" joined="2005-12-07"/>
+    <cosponsor id="400656" joined="2005-12-13"/>
+    <cosponsor id="400255" joined="2006-02-28"/>
+    <cosponsor id="400315" joined="2006-02-01"/>
+    <cosponsor id="400626" joined="2006-03-07"/>
+    <cosponsor id="400348" joined="2006-02-28"/>
+    <cosponsor id="400367" joined="2005-12-07"/>
+    <cosponsor id="400385" joined="2006-02-28"/>
+    <cosponsor id="400395" joined="2006-02-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-10-07">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E2064"/>
+    </action>
+    <action state="REFERRED" datetime="2005-10-07">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2005-12-06">
+      <text>Referred to the Subcommittee on Commercial and Administrative Law.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2005-12-13">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2005-12-13">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2005-12-13">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2006-06-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-06-07">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2006-06-29T17:45:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 109-542.</text>
+    </action>
+    <calendar datetime="2006-06-29T17:46:00-04:00" calendar="Union" number="304">
+      <text>Placed on the Union Calendar, Calendar No. 304.</text>
+    </calendar>
+    <action datetime="2006-07-17T15:33:00-04:00">
+      <text>Mr. Sensenbrenner moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2006-07-17T15:33:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5244-5245" label="consideration"/>
+    </action>
+    <action datetime="2006-07-17T15:33:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4019.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-07-17T15:38:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5244" label="text"/>
+    </vote>
+    <action datetime="2006-07-17T15:38:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-07-18">
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <action datetime="2006-07-24">
+      <text>Senate Committee on Finance discharged by Unanimous Consent.</text>
+      <reference ref="CR S8135" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2006-07-24" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S8135" label="text"/>
+    </vote>
+    <topresident datetime="2006-07-24">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2006-07-25">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2006-07-27">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2006-08-03">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2006-08-03" type="public" number="109-264">
+      <text>Became Public Law No: 109-264.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSJU09" subcommittee="Commercial and Administrative Law" name="House Judiciary"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Annuities"/>
+    <term name="Commerce"/>
+    <term name="Cost of living adjustments"/>
+    <term name="Income tax"/>
+    <term name="Individual retirement accounts"/>
+    <term name="Labor and employment"/>
+    <term name="Partnerships"/>
+    <term name="Pension funds"/>
+    <term name="Retirement income"/>
+    <term name="Self-employed"/>
+    <term name="Social welfare"/>
+    <term name="State taxation"/>
+    <term name="Tax exemption"/>
+    <term name="Tax-deferred compensation plans"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>8/3/2006--Public Law.
+Amends federal law provisions which prohibit states from taxing the retirement income of nonresidents to include a prohibition on taxing retirement income paid by a partnership to a nonresident retired partner under any written plan, program, or arrangement in effect immediately before retirement begins. Makes such amendment applicable to retirement income received after December 31, 1995.Provides that certain adjustments to retirement payments under pension or deferred compensation plans, including cost-of-living adjustments, shall not disqualify such plans under the "substantially equal periodic payments" test.</summary>
+</bill>

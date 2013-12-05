@@ -1,0 +1,81 @@
+<bill session="110" type="s" number="1396" updated="2013-07-19T22:32:27-04:00">
+  <state datetime="2007-12-26">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2007-12-26"/>
+  </status>
+  <introduced datetime="2007-05-15"/>
+  <titles>
+    <title as="introduced" type="official">A bill to authorize a major medical facility project to modernize inpatient wards at the Department of Veterans Affairs Medical Center in Atlanta, Georgia.</title>
+  </titles>
+  <sponsor id="400194"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2007-05-15">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2007-12-13">
+      <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text>
+      <reference ref="CR S15571-15572" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2007-12-13" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S15572" label="text"/>
+    </vote>
+    <action datetime="2007-12-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2007-12-17T14:30:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2007-12-17">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2007-12-19T11:32:00-05:00">
+      <text>Mr. Filner moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-12-19T11:34:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H16855-16857" label="consideration"/>
+    </action>
+    <action datetime="2007-12-19T11:34:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 1396.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2007-12-19T11:44:00-05:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H16855" label="text"/>
+    </vote>
+    <action datetime="2007-12-19T11:44:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2007-12-19">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2007-12-21">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2007-12-26">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2007-12-26" type="public" number="110-168">
+      <text>Became Public Law No: 110-168.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Discharged"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="h" number="4143"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Building construction"/>
+    <term name="Construction costs"/>
+    <term name="Georgia"/>
+    <term name="Health"/>
+    <term name="Veterans' hospitals"/>
+  </subjects>
+  <amendments/>
+  <summary>12/26/2007--Public Law.
+Authorizes the Secretary of Veterans Affairs to carry out a major medical facility project for the modernization of inpatient wards at the Department of Veterans Affairs Medical Center, Atlanta, Georgia.</summary>
+</bill>

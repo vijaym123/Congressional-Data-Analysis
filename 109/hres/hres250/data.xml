@@ -1,0 +1,72 @@
+<bill session="109" type="hr" number="250" updated="2013-07-19T18:56:43-04:00">
+  <state datetime="2005-05-05T14:09:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2005-05-05T14:09:00-04:00"/>
+  </status>
+  <introduced datetime="2005-04-28"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals and ideals of National Hepatitis B Awareness Week.</title>
+  </titles>
+  <sponsor id="400285"/>
+  <cosponsors>
+    <cosponsor id="400039" joined="2005-05-05"/>
+    <cosponsor id="400147" joined="2005-05-05"/>
+    <cosponsor id="400185" joined="2005-04-28"/>
+    <cosponsor id="400409" joined="2005-05-03"/>
+    <cosponsor id="400425" joined="2005-05-03"/>
+    <cosponsor id="400434" joined="2005-05-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-04-28">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2005-05-02">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2005-05-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-05-04">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2005-05-05T14:08:00-04:00">
+      <text>Committee on Energy and Commerce discharged.</text>
+    </action>
+    <action datetime="2005-05-05T14:09:00-04:00">
+      <text>Mr. Murphy asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2005-05-05T14:09:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H3028-3029" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2005-05-05T14:09:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H3029" label="text"/>
+    </vote>
+    <action datetime="2005-05-05T14:09:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Discharged"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="sr" number="117"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Chronically ill"/>
+    <term name="Health"/>
+    <term name="Health education"/>
+    <term name="Hepatitis"/>
+    <term name="Preventive medicine"/>
+    <term name="Special weeks"/>
+  </subjects>
+  <amendments/>
+  <summary>5/5/2005--Passed House without amendment.
+Expresses support for: (1) the goals and ideals of National Hepatitis B Awareness Week (the week of May 9, 2005); and (2) raising awareness of the consequences of untreated chronic hepatitis B and the urgency to seek appropriate care as a serious public health issue.</summary>
+</bill>

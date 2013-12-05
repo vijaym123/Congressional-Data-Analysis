@@ -1,0 +1,66 @@
+<bill session="109" type="sc" number="108" updated="2013-07-19T20:13:20-04:00">
+  <state datetime="2006-07-18T19:02:00-04:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2006-07-18T19:02:00-04:00"/>
+  </status>
+  <introduced datetime="2006-07-12"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution authorize the printing of a revised edition of a pocket version of the United States Constitution and other publications.</title>
+  </titles>
+  <sponsor id="300069"/>
+  <cosponsors/>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2006-07-12" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S7441-7442" label="consideration"/>
+      <reference ref="CR S7441-7442" label="text as passed Senate"/>
+      <reference ref="CR S7426" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2006-07-13T10:28:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-07-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-07-13">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2006-07-18T18:59:00-04:00">
+      <text>Committee on House Administration discharged.</text>
+    </action>
+    <action datetime="2006-07-18T18:59:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H5361-5362" label="consideration"/>
+    </action>
+    <action datetime="2006-07-18T18:59:00-04:00">
+      <text>Mr. Ehlers asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2006-07-18T19:02:00-04:00" how="without objection" result="pass" type="vote2" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H5362" label="text"/>
+    </vote>
+    <action datetime="2006-07-18T19:02:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Botanical gardens"/>
+    <term name="Commemorations"/>
+    <term name="Congressional joint committees"/>
+    <term name="Congressional publications"/>
+    <term name="Flags"/>
+    <term name="Government operations and politics"/>
+    <term name="Joint Printing"/>
+    <term name="Law"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>7/18/2006--Passed House without amendment.
+Authorizes the printing of the following as Senate documents: (1) the 22nd edition of the pocket version of the U.S. Constitution; (2) the 2006 revised edition of the publication entitled "Our Flag"; and (3) the book entitled "A Botanic Garden for the Nation."</summary>
+</bill>

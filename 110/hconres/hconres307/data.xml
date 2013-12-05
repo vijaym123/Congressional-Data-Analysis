@@ -1,0 +1,77 @@
+<bill session="110" type="hc" number="307" updated="2013-07-19T22:11:24-04:00">
+  <state datetime="2008-06-20">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2008-06-20"/>
+  </status>
+  <introduced datetime="2008-03-04"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of Congress that Members' Congressional papers should be properly maintained and encouraging Members to take all necessary measures to manage and preserve these papers.</title>
+  </titles>
+  <sponsor id="400047"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2008-03-04">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2008-03-05T13:24:00-05:00">
+      <text>Mr. Brady (PA) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2008-03-05T13:24:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1254-1255" label="consideration"/>
+    </action>
+    <action datetime="2008-03-05T13:24:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 307.</text>
+    </action>
+    <action datetime="2008-03-05T13:28:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-03-05T13:28:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H1254" label="text"/>
+    </vote>
+    <action datetime="2008-03-06">
+      <text>Received in the Senate and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2008-03-28">
+      <text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+    <calendar datetime="2008-04-10">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2008-04-22">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="2008-04-22" calendar="Senate Legislative" under="General Orders" number="705">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 705.</text>
+    </calendar>
+    <vote state="PASSED:CONCURRENTRES" datetime="2008-06-20" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S5947" label="consideration"/>
+    </vote>
+    <action datetime="2008-06-23">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSGA09" subcommittee="Federal Financial Management, Government Information, Federal Services, and International Security" name="Senate Homeland Security and Governmental Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Archives"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Congressional information resources"/>
+    <term name="Government operations and politics"/>
+    <term name="History"/>
+    <term name="Members of Congress"/>
+    <term name="Research centers"/>
+  </subjects>
+  <amendments/>
+  <summary>6/20/2008--Passed Senate without amendment.
+Declares that it is the sense of Congress that: (1) Members' congressional papers should be properly maintained; (2) each Member of Congress should take all necessary measures to manage and preserve the Member's own congressional papers; and (3) each Member of Congress should be encouraged to arrange for the deposit or donation of the Member's own noncurrent congressional papers with a research institution properly equipped to care for them, and to make these papers available for educational purposes at a time the Member considers appropriate.</summary>
+</bill>

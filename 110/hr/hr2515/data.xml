@@ -1,0 +1,120 @@
+<bill session="110" type="h" number="2515" updated="2013-07-19T21:25:43-04:00">
+  <state datetime="2008-03-31T14:58:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-03-31T14:58:00-04:00"/>
+  </status>
+  <introduced datetime="2007-05-24"/>
+  <titles>
+    <title as="introduced" type="short">Lower Colorado River Multi-Species Conservation Program Act</title>
+    <title as="passed house" type="short">Lower Colorado River Multi-Species Conservation Program Act</title>
+    <title as="reported to senate" type="short">Lower Colorado River Multi-Species Conservation Program Act</title>
+    <title as="introduced" type="official">To authorize appropriations for the Bureau of Reclamation to carry out the Lower Colorado River Multi-Species Conservation Program in the States of Arizona, California, and Nevada, and for other purposes.</title>
+  </titles>
+  <sponsor id="412218"/>
+  <cosponsors>
+    <cosponsor id="400024" joined="2007-05-24"/>
+    <cosponsor id="400057" joined="2007-05-24"/>
+    <cosponsor id="400141" joined="2007-05-24"/>
+    <cosponsor id="412187" joined="2007-05-24"/>
+    <cosponsor id="400324" joined="2007-05-24"/>
+    <cosponsor id="400330" joined="2007-05-24"/>
+    <cosponsor id="400336" joined="2007-05-24"/>
+    <cosponsor id="400368" joined="2007-06-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-05-24">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-05-31">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-07-24">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2008-03-12">
+      <text>Subcommittee on Water and Power Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2008-03-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-03-12">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2008-03-31T12:07:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-555.</text>
+    </action>
+    <calendar datetime="2008-03-31T12:08:00-04:00" calendar="Union" number="338">
+      <text>Placed on the Union Calendar, Calendar No. 338.</text>
+    </calendar>
+    <action datetime="2008-03-31T14:53:00-04:00">
+      <text>Mr. Abercrombie moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2008-03-31T14:53:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1786" label="consideration"/>
+    </action>
+    <action datetime="2008-03-31T14:53:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2515.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-03-31T14:58:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H1786" label="text"/>
+    </vote>
+    <action datetime="2008-03-31T14:58:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-04-01">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <calendar datetime="2008-05-07">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2008-06-16">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 110-387.</text>
+    </action>
+    <calendar datetime="2008-06-16" calendar="Senate Legislative" under="General Orders" number="819">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 819.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="300"/>
+    <bill relation="unknown" session="110" type="s" number="300"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Actions and defenses"/>
+    <term name="Animals"/>
+    <term name="Arizona"/>
+    <term name="California"/>
+    <term name="Colorado River development"/>
+    <term name="Environmental assessment"/>
+    <term name="Environmental protection"/>
+    <term name="Federal-state relations"/>
+    <term name="Government operations and politics"/>
+    <term name="Habitat conservation"/>
+    <term name="Law"/>
+    <term name="Legal fees"/>
+    <term name="Nevada"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Reservoirs"/>
+    <term name="Restoration ecology"/>
+    <term name="Riparian ecology"/>
+    <term name="Water use"/>
+    <term name="Watersheds"/>
+    <term name="Wildlife conservation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/2008--Reported to Senate amended.
+Lower Colorado River Multi-Species Conservation Program Act - Authorizes the Secretary of the Interior to: (1) manage and implement the Lower Colorado River Multi-Species Conservation Program; and (2) enter into an agreement with Arizona, California, and Nevada providing for the use of water from the Lower Colorado River for habitat creation and maintenance in accordance with the Habitat Conservation Plan, Biological Assessment and Biological and Conference Opinion, Environmental Impact Statement/Environmental Impact Report, Funding and Management Agreement, Implementing Agreement, and a specified permit issued and executed in connection with the Program. Authorizes appropriations.Allows any party to the Funding and Management Agreement or the Implementing Agreement and any permittee under the permit to commence a civil action in U.S. district court to adjudicate rights and obligations of the parties under the program documents. Permits the United States or any U.S. agency to be named as a defendant in such actions. Waives the sovereign immunity of the United States for purposes of such actions, except as to claims seeking money from the United States.</summary>
+</bill>

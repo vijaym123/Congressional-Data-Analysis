@@ -1,0 +1,92 @@
+<bill session="110" type="h" number="4332" updated="2013-07-19T21:41:49-04:00">
+  <state datetime="2008-04-29T19:09:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-04-29T19:09:00-04:00"/>
+  </status>
+  <introduced datetime="2007-12-06"/>
+  <titles>
+    <title as="introduced" type="short">Financial Consumer Hotline Act of 2007</title>
+    <title as="passed house" type="short">Financial Consumer Hotline Act of 2007</title>
+    <title as="introduced" type="official">To amend the Federal Financial Institutions Examination Council Act to require the Council to establish a single telephone number that consumers with complaints or inquiries could call and be routed to the appropriate Federal banking agency or State bank supervisor, and for other purposes.</title>
+  </titles>
+  <sponsor id="400251"/>
+  <cosponsors>
+    <cosponsor id="400027" joined="2007-12-12"/>
+    <cosponsor id="400051" joined="2007-12-18"/>
+    <cosponsor id="400061" joined="2008-04-29"/>
+    <cosponsor id="400140" joined="2007-12-06"/>
+    <cosponsor id="400653" joined="2007-12-12"/>
+    <cosponsor id="400278" joined="2007-12-12"/>
+    <cosponsor id="400422" joined="2007-12-12"/>
+    <cosponsor id="400430" joined="2008-01-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2007-12-06">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E2516"/>
+    </action>
+    <action state="REFERRED" datetime="2007-12-06">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2007-12-10">
+      <text>Referred to the Subcommittee on Financial Institutions and Consumer Credit.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2008-04-29T15:32:00-04:00">
+      <text>Mrs. Maloney (NY) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2008-04-29T15:32:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2820-2821" label="consideration"/>
+    </action>
+    <action datetime="2008-04-29T15:33:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4332.</text>
+    </action>
+    <action datetime="2008-04-29T15:41:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2008-04-29T18:59:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2829-2830" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-04-29T19:09:00-04:00" how="roll" result="pass" roll="225" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 408 - 1 (Roll no. 225).</text>
+      <reference ref="CR H2820" label="text"/>
+    </vote>
+    <action datetime="2008-04-29T19:09:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-04-30">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee activity="Referral" code="HSBA15" subcommittee="Financial Institutions and Consumer Credit" name="House Financial Services"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="3153"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative remedies"/>
+    <term name="Bank examination"/>
+    <term name="Commerce"/>
+    <term name="Consumer complaints"/>
+    <term name="Department of the Treasury"/>
+    <term name="Federal Deposit Insurance Corporation"/>
+    <term name="Federal reserve system"/>
+    <term name="Federal-state relations"/>
+    <term name="Government corporations"/>
+    <term name="Government operations and politics"/>
+    <term name="Government publicity"/>
+    <term name="Law"/>
+    <term name="National Credit Union Administration"/>
+    <term name="Science, technology, communications"/>
+    <term name="Telephone"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/2008--Passed House without amendment.
+Financial Consumer Hotline Act of 2007 - Amends the Federal Financial Institutions Examination Council Act of 1978 to require federal financial institution regulatory agencies, coordinating through the Federal Financial Institutions Examination Council, to establish: (1) a single, toll-free telephone number for consumer complaints and inquiries concerning institutions under their jurisdiction; and (2) a system for routing such calls to the federal financial institution regulatory agency that primarily supervises the financial institution, or that is otherwise the appropriate agency to address the subject of the complaint or inquiry.Cites circumstances under which state agencies may receive appropriate call transfers from such federal systems.</summary>
+</bill>

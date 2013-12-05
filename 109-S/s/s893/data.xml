@@ -1,0 +1,60 @@
+<bill session="109" type="s" number="893" updated="2013-07-19T20:21:12-04:00">
+  <state datetime="2005-04-25">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-04-25"/>
+  </status>
+  <introduced datetime="2005-04-25"/>
+  <titles>
+    <title as="introduced" type="official">A bill to make technical corrections in the Anabolic Steroid Control Act of 2004.</title>
+  </titles>
+  <sponsor id="300008"/>
+  <cosponsors/>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2005-04-25" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4162" label="consideration"/>
+      <reference ref="CR S4162" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-04-26T12:28:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-04-26">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-04-26">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2005-04-26">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2005-04-26">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2005-05-10">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <action datetime="2005-05-13">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Drug abuse"/>
+    <term name="Drug abuse prevention"/>
+    <term name="Drug law enforcement"/>
+    <term name="Health"/>
+    <term name="Steroids"/>
+  </subjects>
+  <amendments/>
+  <summary>4/25/2005--Passed Senate without amendment.
+Makes technical corrections to amendments made by the Anabolic Steroid Control Act of 2004 regarding names of substances included in the definition of "anabolic steroid" under the Controlled Substances Act.</summary>
+</bill>

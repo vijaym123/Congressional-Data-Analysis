@@ -1,0 +1,87 @@
+<bill session="110" type="h" number="3849" updated="2013-07-19T21:37:36-04:00">
+  <state datetime="2008-09-22T13:40:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-09-22T13:40:00-04:00"/>
+  </status>
+  <introduced datetime="2007-10-16"/>
+  <titles>
+    <title as="introduced" type="short">Box Elder Utah Land Conveyance Act</title>
+    <title as="reported to house" type="short">Box Elder Utah Land Conveyance Act</title>
+    <title as="passed house" type="short">Box Elder Utah Land Conveyance Act</title>
+    <title as="introduced" type="official">To provide for the conveyance of parcels of land to Mantua, Box Elder County, Utah.</title>
+  </titles>
+  <sponsor id="400029"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2007-10-16">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-10-18">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2008-07-10">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2008-07-16">
+      <text>Subcommittee on National Parks, Forests, and Public Lands Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2008-07-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-07-16">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2008-07-29T18:47:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-790.</text>
+    </action>
+    <calendar datetime="2008-07-29T18:47:00-04:00" calendar="Union" number="508">
+      <text>Placed on the Union Calendar, Calendar No. 508.</text>
+    </calendar>
+    <action datetime="2008-09-22T13:37:00-04:00">
+      <text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2008-09-22T13:38:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8500-8501" label="consideration"/>
+    </action>
+    <action datetime="2008-09-22T13:38:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3849.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-09-22T13:40:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H8500-8501" label="text"/>
+    </vote>
+    <action datetime="2008-09-22T13:40:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-09-23">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2008-10-02">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Housing and community development"/>
+    <term name="Land transfers"/>
+    <term name="National forests"/>
+    <term name="Small towns"/>
+    <term name="Urban affairs"/>
+    <term name="Utah"/>
+  </subjects>
+  <amendments/>
+  <summary>9/22/2008--Passed House amended.
+Box Elder Utah Land Conveyance Act - Directs the Secretary of Agriculture to convey to the town of Mantua, Utah, all interest of the United States in and to parcels of National Forest System land in the Wasatch-Cache National Forest in Box Elder County, Utah, that are labeled as parcels A, B, and C on the map entitled "Box Elder Utah Land Conveyance Act" and dated July 14, 2008.Requires the town to use the land conveyed under this Act for public purposes.</summary>
+</bill>

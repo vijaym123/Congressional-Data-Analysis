@@ -1,0 +1,151 @@
+<bill session="110" type="s" number="496" updated="2013-07-19T22:24:36-04:00">
+  <state datetime="2008-10-08">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2008-10-08"/>
+  </status>
+  <introduced datetime="2007-02-06"/>
+  <titles>
+    <title as="introduced" type="short">Appalachian Regional Development Act Amendments of 2007</title>
+    <title as="passed house" type="short">Appalachian Regional Development Act Amendments of 2008</title>
+    <title as="reported to senate" type="short">Appalachian Regional Development Act Amendments of 2007</title>
+    <title as="passed senate" type="short">Appalachian Regional Development Act Amendments of 2007</title>
+    <title as="enacted" type="short">Appalachian Regional Development Act Amendments of 2008</title>
+    <title as="introduced" type="official">A bill to reauthorize and improve the program authorized by the Appalachian Regional Development Act of 1965.</title>
+  </titles>
+  <sponsor id="300098"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2007-02-06"/>
+    <cosponsor id="400050" joined="2007-02-06"/>
+    <cosponsor id="400054" joined="2007-02-06"/>
+    <cosponsor id="300016" joined="2007-02-06"/>
+    <cosponsor id="400064" joined="2007-02-06"/>
+    <cosponsor id="300022" joined="2007-02-06"/>
+    <cosponsor id="300023" joined="2007-02-06"/>
+    <cosponsor id="300035" joined="2007-02-06"/>
+    <cosponsor id="300047" joined="2007-02-06"/>
+    <cosponsor id="300069" joined="2007-02-06"/>
+    <cosponsor id="300072" joined="2007-03-19"/>
+    <cosponsor id="300073" joined="2007-02-06"/>
+    <cosponsor id="300084" joined="2007-02-12"/>
+    <cosponsor id="300087" joined="2007-02-06"/>
+    <cosponsor id="300088" joined="2007-02-26"/>
+    <cosponsor id="300089" joined="2007-02-06"/>
+    <cosponsor id="300092" joined="2007-03-01"/>
+    <cosponsor id="300099" joined="2007-02-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-02-06">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2007-03-29">
+      <text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Environment and Public Works"/>
+    </calendar>
+    <action datetime="2007-05-07">
+      <text>Committee on Environment and Public Works. Reported by Senator Boxer with amendments. With written report No. 110-63.</text>
+    </action>
+    <calendar datetime="2007-05-07" calendar="Senate Legislative" under="General Orders" number="136">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 136.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2007-08-03" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with amendments by Unanimous Consent.</text>
+      <reference ref="CR S10983-10986" label="consideration"/>
+      <reference ref="CR S10983-10986" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2007-08-04T13:35:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2007-08-04">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2007-08-04T18:50:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2008-07-15T11:11:00-04:00">
+      <text>Mr. Space moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2008-07-15T11:11:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6489-6493" label="consideration"/>
+    </action>
+    <action datetime="2008-07-15T11:11:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 496.</text>
+    </action>
+    <vote state="PASS_BACK:HOUSE" datetime="2008-07-15T11:37:00-04:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6489-6490" label="text"/>
+    </vote>
+    <action datetime="2008-07-15T11:37:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-07-16">
+      <text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2008-09-26" how="by Unanimous Consent" result="pass" type="pingpong" where="s">
+      <text>Senate agreed to House amendment by Unanimous Consent.</text>
+      <reference ref="CR S9872-9874" label="consideration"/>
+      <reference ref="CR S9872-9874" label="text as Senate agreed to House amendment"/>
+    </vote>
+    <topresident datetime="2008-09-26">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2008-09-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2008-09-29">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2008-10-08">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2008-10-08" type="public" number="110-371">
+      <text>Became Public Law No: 110-371.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="799"/>
+    <bill relation="identical" session="110" type="h" number="799"/>
+    <bill relation="unknown" session="110" type="h" number="799"/>
+    <bill relation="unknown" session="110" type="h" number="799"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Alternative energy sources"/>
+    <term name="Appalachia"/>
+    <term name="Appalachian Regional Commission"/>
+    <term name="Authorization"/>
+    <term name="Biomass energy"/>
+    <term name="Business education"/>
+    <term name="Coal"/>
+    <term name="Commerce"/>
+    <term name="County politics and government"/>
+    <term name="Depressed areas"/>
+    <term name="Electric power production"/>
+    <term name="Energy"/>
+    <term name="Energy efficiency"/>
+    <term name="Entrepreneurs"/>
+    <term name="Environmental protection"/>
+    <term name="Federal aid to health facilities"/>
+    <term name="Federal aid to housing"/>
+    <term name="Government lending"/>
+    <term name="Government operations and politics"/>
+    <term name="Grants-in-aid"/>
+    <term name="Health"/>
+    <term name="Heating"/>
+    <term name="Housing and community development"/>
+    <term name="Labor and employment"/>
+    <term name="Low-income housing"/>
+    <term name="Moderate income housing"/>
+    <term name="Regional economic development"/>
+    <term name="Rural economic development"/>
+    <term name="Rural health"/>
+    <term name="Rural housing"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>10/8/2008--Public Law.
+Appalachian Regional Development Act Amendments of 2008- Limits the amount of Appalachian regional development grants and loans for projects in at-risk counties to 70% of project costs. Directs the Appalachian Regional Commission to designate as "at-risk" those counties in the Appalachian region that are most at risk of becoming economically distressed.Authorizes the Commission to provide technical assistance, provide grants, enter into contracts, or otherwise provide amounts to entities in the region for projects and activities to: (1) promote energy efficiency; (2) increase the use of renewable energy resources; and (3) support the development of regional, conventional energy resources to produce electricity and heat through advanced technologies.Authorizes appropriations to the Commission through FY2012, with specified amounts designated for the economic and energy development initiative. Requires funds approved by the Commission for a project in an Appalachian state pursuant to a congressional directive to be derived from the amount allocated to that state.Extends the termination date of the Appalachian Regional Development Act of 1965 until October 1, 2012.Adds to the Appalachian region the counties of: (1) Metcalfe, Nicholas, and Robertson in Kentucky; (2) Ashtabula, Mahoning, and Trumbull in Ohio; (3) Lawrence and Lewis in Tennessee; and (4) Henry and Patrick in Virginia.</summary>
+</bill>

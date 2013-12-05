@@ -1,0 +1,89 @@
+<bill session="109" type="h" number="1038" updated="2013-07-19T19:13:21-04:00">
+  <state datetime="2005-04-19T14:56:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-04-19T14:56:00-04:00"/>
+  </status>
+  <introduced datetime="2005-03-02"/>
+  <titles>
+    <title as="introduced" type="short">Multidistrict Litigation Restoration Act of 2005</title>
+    <title as="reported to house" type="short">Multidistrict Litigation Restoration Act of 2005</title>
+    <title as="passed house" type="short">Multidistrict Litigation Restoration Act of 2005</title>
+    <title as="introduced" type="official">To amend title 28, United States Code, to allow a judge to whom a case is transferred to retain jurisdiction over certain multidistrict litigation cases for trial, and for other purposes.</title>
+  </titles>
+  <sponsor id="400365"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-03-02">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2005-03-02">
+      <text>Referred to the Subcommittee on Courts, the Internet, and Intellectual Property.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2005-03-03">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2005-03-03">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2005-03-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-03-09">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2005-03-17T14:18:00-05:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 109-24.</text>
+    </action>
+    <calendar datetime="2005-03-17T14:18:00-05:00" calendar="Union" number="10">
+      <text>Placed on the Union Calendar, Calendar No. 10.</text>
+    </calendar>
+    <action datetime="2005-04-19T14:47:00-04:00">
+      <text>Mr. Sensenbrenner moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2005-04-19T14:47:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2120-2121" label="consideration"/>
+    </action>
+    <action datetime="2005-04-19T14:47:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1038.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-04-19T14:56:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2120" label="text"/>
+    </vote>
+    <action datetime="2005-04-19T14:56:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-04-20">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU03" subcommittee="Courts, the Internet, and Intellectual Property" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="3734"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Actions and defenses"/>
+    <term name="Appellate procedure"/>
+    <term name="Civil procedure"/>
+    <term name="Damages"/>
+    <term name="District courts"/>
+    <term name="Government operations and politics"/>
+    <term name="Jurisdiction"/>
+    <term name="State courts"/>
+    <term name="Trials"/>
+  </subjects>
+  <amendments/>
+  <summary>4/19/2005--Passed House without amendment.
+Multidistrict Litigation Restoration Act of 2005 - Amends the Federal judicial code to allow a civil action transferred for coordinated or consolidated pretrial proceedings (multidistrict litigation) to be transferred to the transferee or other district for trial purposes in the interest of justice and for the convenience of the parties and witnesses. Directs that any such action transferred for trial purposes be remanded to the district court from which it was transferred for the determination of compensatory damages unless the court determines the same justification applies to retaining the action for damages determination. Authorizes the transferee court to retain actions transferred when jurisdiction is or could have been based on the Multiparty, Multiforum Trial Jurisdiction Act of 2002 (granting district courts original jurisdiction of any civil action involving minimal diversity between adverse parties that arises from a single accident, where at least 75 natural persons have died in the accident at a discrete location) for the determination of liability and punitive damages. Directs that an action retained for the determination of liability be remanded to the district court from which the action was transferred, or to the State court from which the action was removed, for the determination of damages other than punitive damages, unless the court finds that the action should be retained for the determination of such damages for the convenience of parties and witnesses and in the interest of justice.</summary>
+</bill>

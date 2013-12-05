@@ -1,0 +1,55 @@
+<bill session="109" type="sr" number="255" updated="2013-07-19T20:09:08-04:00">
+  <state datetime="2005-10-31">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2005-10-31"/>
+  </status>
+  <introduced datetime="2005-09-28"/>
+  <titles>
+    <title as="introduced" type="official">A resolution recognizing the achievements of the United States Fish and Wildlife Service and the Waterfowl Population Survey.</title>
+  </titles>
+  <sponsor id="300068"/>
+  <cosponsors>
+    <cosponsor id="300023" joined="2005-09-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-09-28">
+      <text>Referred to the Committee on Environment and Public Works.</text>
+      <reference ref="CR S10602" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-10-26">
+      <text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Environment and Public Works"/>
+    </calendar>
+    <action datetime="2005-10-26">
+      <text>Committee on Environment and Public Works. Reported by Senator Inhofe without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="2005-10-26" calendar="Senate Legislative" under="General Orders" number="259">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 259.</text>
+    </calendar>
+    <vote state="PASSED:SIMPLERES" datetime="2005-10-31" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S12065" label="consideration"/>
+      <reference ref="CR S12065" label="text as passed Senate"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="hr" number="459"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Ecological surveys"/>
+    <term name="Environmental protection"/>
+    <term name="Hunting"/>
+    <term name="Migratory bird conservation"/>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>10/31/2005--Passed Senate without amendment.
+Recognizes the achievements and contributions of, and expresses support for, the Waterfowl Population Survey Program of the U.S. Fish and Wildlife Service. Encourages the Service to increase partnerships to continue growth and development of the Program.</summary>
+</bill>

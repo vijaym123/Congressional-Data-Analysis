@@ -1,0 +1,93 @@
+<bill session="110" type="h" number="5593" updated="2013-07-19T21:52:50-04:00">
+  <state datetime="2008-06-09T15:58:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-06-09T15:58:00-04:00"/>
+  </status>
+  <introduced datetime="2008-03-11"/>
+  <titles>
+    <title as="introduced" type="short">Congressional Review Act Improvement Act</title>
+    <title as="reported to house" type="short">Congressional Review Act Improvement Act</title>
+    <title as="passed house" type="short">Congressional Review Act Improvement Act</title>
+    <title as="introduced" type="official">To amend title 5, United States Code, to make technical amendments to certain provisions of title 5, United States Code, enacted by the Congressional Review Act.</title>
+  </titles>
+  <sponsor id="400355"/>
+  <cosponsors>
+    <cosponsor id="400059" joined="2008-03-11"/>
+    <cosponsor id="400080" joined="2008-03-11"/>
+    <cosponsor id="400381" joined="2008-03-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2008-03-11">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E348"/>
+    </action>
+    <action state="REFERRED" datetime="2008-03-11">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2008-03-17">
+      <text>Referred to the Subcommittee on Commercial and Administrative Law.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2008-04-24">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2008-04-24">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2008-04-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-04-30">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2008-06-05T18:49:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 110-700.</text>
+    </action>
+    <calendar datetime="2008-06-05T18:49:00-04:00" calendar="Union" number="443">
+      <text>Placed on the Union Calendar, Calendar No. 443.</text>
+    </calendar>
+    <action datetime="2008-06-09T15:53:00-04:00">
+      <text>Ms. Lofgren, Zoe moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2008-06-09T15:53:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5064-5065" label="consideration"/>
+    </action>
+    <action datetime="2008-06-09T15:53:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5593.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-06-09T15:58:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5064" label="text"/>
+    </vote>
+    <action datetime="2008-06-09T15:58:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-06-10">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU09" subcommittee="Commercial and Administrative Law" name="House Judiciary"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Administrative procedure"/>
+    <term name="Congressional Record"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Congressional-executive relations"/>
+    <term name="Government operations and politics"/>
+    <term name="Law"/>
+  </subjects>
+  <amendments/>
+  <summary>6/9/2008--Passed House amended.
+Congressional Review Act Improvement Act - Repeals the requirement that federal agencies must submit rules (and related reports) that are published in the Federal Register to both Houses of Congress before such rules can take effect (thus making the Comptroller General the sole recipient of such rules).Requires the Comptroller General to submit to each House of Congress a weekly report containing a list of the rules received by the Comptroller General, including a notation indicating whether or not a rule is a major rule. Requires the Speaker of the House of Representatives and the Senate to publish in the Congressional Record each report received from the Comptroller General and a statement of referral to the committee or committees responsible for the review of the rules in each such report.</summary>
+</bill>

@@ -1,0 +1,70 @@
+<bill session="110" type="h" number="6272" updated="2013-07-19T21:58:40-04:00">
+  <state datetime="2008-06-12">REFERRED</state>
+  <status>
+    <introduced datetime="2008-06-12"/>
+  </status>
+  <introduced datetime="2008-06-12"/>
+  <titles>
+    <title as="introduced" type="short">SMOCTA Reauthorization Act of 2008</title>
+    <title as="introduced" type="official">To authorize discretionary appropriations to carry out the Service Members Occupational Conversion and Training Act of 1992.</title>
+  </titles>
+  <sponsor id="412239"/>
+  <cosponsors>
+    <cosponsor id="412222" joined="2008-06-12"/>
+    <cosponsor id="400219" joined="2008-06-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-06-12">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committees on Veterans' Affairs, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2008-06-12">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2008-06-12">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2008-06-12">
+      <text>Referred to House Education and Labor</text>
+    </action>
+    <action datetime="2008-06-13">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-06-19">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-06-26">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-06-26">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-07-02">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Authorization"/>
+    <term name="Economics and public finance"/>
+    <term name="Employee training"/>
+    <term name="Labor and employment"/>
+    <term name="Veterans' benefits"/>
+    <term name="Veterans' employment"/>
+  </subjects>
+  <amendments/>
+  <summary>6/12/2008--Introduced.
+SMOCTA Reauthorization Act of 2008 - Authorizes appropriations for FY2009-FY2018 to carry out the Service Members Occupational Conversion and Training Act of 1992.</summary>
+</bill>

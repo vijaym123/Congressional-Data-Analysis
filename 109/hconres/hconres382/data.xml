@@ -1,0 +1,45 @@
+<bill session="109" type="hc" number="382" updated="2013-07-19T20:05:27-04:00">
+  <state datetime="2006-04-07">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2006-04-07"/>
+  </status>
+  <introduced datetime="2006-04-06"/>
+  <titles>
+    <title as="introduced" type="official">Providing for a conditional adjournment of the House of Representatives and a conditional recess or adjournment of the Senate.</title>
+  </titles>
+  <sponsor id="400036"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2006-04-06T19:51:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H1625-1626" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-04-06T19:51:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H1625-1626" label="text"/>
+    </vote>
+    <action datetime="2006-04-06T19:51:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-04-06">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2006-04-07" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S3403" label="consideration"/>
+      <reference ref="CR S3403" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2006-04-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+  </subjects>
+  <amendments/>
+  <summary>4/7/2006--Passed Senate without amendment.
+Provides for an adjournment of the House of Representatives from April 6, 2006, until April 25, 2006 (or until another time of reassembly under this concurrent resolution), and a recess or an adjournment of the Senate on any day from April 6-April 9, 2006, until April 24, 2006 (or until another time of reassembly). Authorizes the Speaker of the House and the Majority Leader of the Senate, or their respective designees, acting jointly after consultation with the Minority Leaders of the House and of the Senate, to notify the Members of the House and the Senate, respectively, to reassemble at such place and time as they may designate whenever, in their opinion, the public interest shall warrant it.</summary>
+</bill>

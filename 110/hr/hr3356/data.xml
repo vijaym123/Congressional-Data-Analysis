@@ -1,0 +1,70 @@
+<bill session="110" type="h" number="3356" updated="2013-07-19T21:33:21-04:00">
+  <state datetime="2007-08-03T20:57:00-04:00">PROV_KILL:SUSPENSIONFAILED</state>
+  <status>
+    <unknown datetime="2007-08-03T20:57:00-04:00"/>
+  </status>
+  <introduced datetime="2007-08-03"/>
+  <titles>
+    <title as="introduced" type="short">Improving Foreign Intelligence Surveillance to Defend the Nation and the Constitution Act of 2007</title>
+    <title as="introduced" type="official">To amend the Foreign Intelligence Surveillance Act of 1978 to establish a procedure for authorizing certain electronic surveillance.</title>
+  </titles>
+  <sponsor id="400337"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2007-08-03"/>
+    <cosponsor id="400134" joined="2007-08-03"/>
+    <cosponsor id="400361" joined="2007-08-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-08-03">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2007-08-03">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2007-08-03">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="2007-08-03T19:20:00-04:00">
+      <text>Mr. Conyers moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-08-03T19:20:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9685-9695" label="consideration"/>
+    </action>
+    <action datetime="2007-08-03T19:20:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3356.</text>
+    </action>
+    <vote state="PROV_KILL:SUSPENSIONFAILED" datetime="2007-08-03T20:57:00-04:00" how="roll" result="fail" roll="821" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 218 - 207 (Roll no. 821).</text>
+      <reference ref="CR H9685-9686" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="1927"/>
+    <bill relation="unknown" session="110" type="s" number="2011"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Aliens"/>
+    <term name="Business records"/>
+    <term name="Commerce"/>
+    <term name="Courts of special jurisdiction"/>
+    <term name="Criminal investigation"/>
+    <term name="Electronic surveillance"/>
+    <term name="Emergency management"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Judicial review"/>
+    <term name="Law"/>
+    <term name="Science, technology, communications"/>
+    <term name="Telecommunication industry"/>
+  </subjects>
+  <amendments/>
+  <summary>8/3/2007--Introduced.
+Improving Foreign Intelligence Surveillance to Defend the Nation and the Constitution Act of 2007 - Amends the Foreign Intelligence Surveillance Act of 1978 (FISA) to provide that a court order is not required for the acquisition of communication between non-U.S. persons who are not located within the United States for collecting foreign intelligence information, whether or not the communication passes through the United States or the surveillance device is located within the United States. Allows the Attorney General (AG), upon authorization of the President, to apply to the Foreign Intelligence Surveillance Court (Court) for an order, or the extension of an order, authorizing for up to one year the acquisition of communications of persons outside the United States who are non-U.S. persons. Allows the AG to authorize such surveillance without a court order for up to 15 days if the AG determines that an emergency situation exists with respect to obtaining such information before an order authorizing the surveillance can be obtained. Authorizes the AG, in either case, to direct a communications service provider, custodian, or other person who has access to such information to furnish the AG with the required information and to maintain appropriate records concerning acquisition of the information.</summary>
+</bill>

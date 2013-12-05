@@ -1,0 +1,55 @@
+<bill session="109" type="s" number="1316" updated="2013-07-19T20:25:01-04:00">
+  <state datetime="2005-06-27">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-06-27"/>
+  </status>
+  <introduced datetime="2005-06-27"/>
+  <titles>
+    <title as="introduced" type="short">Red Tide Emergency Relief Act of 2005</title>
+    <title as="passed senate" type="short">Red Tide Emergency Relief Act of 2005</title>
+    <title as="introduced" type="official">A bill to authorize the Small Business Administration to provide emergency relief to shellfish growers affected by toxic red tide losses.</title>
+  </titles>
+  <sponsor id="300091"/>
+  <cosponsors>
+    <cosponsor id="300020" joined="2005-06-27"/>
+    <cosponsor id="300025" joined="2005-06-27"/>
+    <cosponsor id="300059" joined="2005-06-27"/>
+    <cosponsor id="300060" joined="2005-06-27"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2005-06-27" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S7446-7447" label="consideration"/>
+      <reference ref="CR S7447" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-06-28T08:58:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-06-28">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-06-28T17:49:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Agriculture and food"/>
+    <term name="Algal blooms"/>
+    <term name="Animals"/>
+    <term name="Aquaculture"/>
+    <term name="Disaster loans"/>
+    <term name="Emergency management"/>
+    <term name="Finance and financial sector"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="New England"/>
+    <term name="Red tide"/>
+    <term name="Shellfish"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>6/27/2005--Passed Senate without amendment.
+Red Tide Emergency Relief Act of 2005 - Amends the Small Business Act to make aquaculture enterprises eligible for Small Business Administration (SBA) disaster assistance loans to small businesses. (Currently, such enterprises are specifically excluded from eligibility for such assistance.)</summary>
+</bill>

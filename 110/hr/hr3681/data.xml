@@ -1,0 +1,101 @@
+<bill session="110" type="h" number="3681" updated="2013-07-19T21:36:11-04:00">
+  <state datetime="2008-05-20T12:43:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-05-20T12:43:00-04:00"/>
+  </status>
+  <introduced datetime="2007-09-27"/>
+  <titles>
+    <title as="introduced" type="short">Veterans Benefits Awareness Act of 2007</title>
+    <title as="reported to house" type="short">Veterans Benefits Awareness Act of 2008</title>
+    <title as="passed house" type="short">Veterans Benefits Awareness Act of 2008</title>
+    <title as="introduced" type="official">To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to advertise in the national media to promote awareness of benefits under laws administered by the Secretary.</title>
+  </titles>
+  <sponsor id="400040"/>
+  <cosponsors>
+    <cosponsor id="400628" joined="2008-01-15"/>
+    <cosponsor id="400043" joined="2008-02-06"/>
+    <cosponsor id="400049" joined="2008-03-04"/>
+    <cosponsor id="400056" joined="2008-05-15"/>
+    <cosponsor id="412234" joined="2007-10-25"/>
+    <cosponsor id="400123" joined="2008-03-11"/>
+    <cosponsor id="400133" joined="2008-03-12"/>
+    <cosponsor id="412222" joined="2008-05-14"/>
+    <cosponsor id="400443" joined="2007-09-27"/>
+    <cosponsor id="412187" joined="2008-01-15"/>
+    <cosponsor id="400385" joined="2007-10-22"/>
+    <cosponsor id="412229" joined="2007-10-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-09-27">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2007-10-01">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-04-16">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-04-23">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-04-23">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-04-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-04-30">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2008-05-15T17:01:00-04:00">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-644.</text>
+    </action>
+    <calendar datetime="2008-05-15T17:02:00-04:00" calendar="Union" number="405">
+      <text>Placed on the Union Calendar, Calendar No. 405.</text>
+    </calendar>
+    <action datetime="2008-05-20T12:29:00-04:00">
+      <text>Mr. Filner moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2008-05-20T12:29:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4185-4187" label="consideration"/>
+    </action>
+    <action datetime="2008-05-20T12:29:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3681.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-05-20T12:43:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4185" label="text"/>
+    </vote>
+    <action datetime="2008-05-20T12:43:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-05-21">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Government operations and politics"/>
+    <term name="Government publicity"/>
+    <term name="Mass media"/>
+    <term name="Public service advertising"/>
+    <term name="Science, technology, communications"/>
+    <term name="Veterans' benefits"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2008--Passed House amended.
+Veterans Benefits Awareness Act of 2008 - Authorizes the Secretary of Veterans Affairs to purchase advertising in national media outlets to promote awareness of veterans' benefits, including assistance for homeless veterans, the promotion of veteran-owned small businesses, opportunities for employment in the Department of Veterans Affairs (VA), and for education, training, compensation, pension, vocational rehabilitation, and health care benefits, as well as mental health care (including the prevention of suicide among veterans).</summary>
+</bill>

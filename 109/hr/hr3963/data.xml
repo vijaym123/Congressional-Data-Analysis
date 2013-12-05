@@ -1,0 +1,112 @@
+<bill session="109" type="h" number="3963" updated="2013-07-19T19:39:24-04:00">
+  <state datetime="2005-12-22">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2005-12-22"/>
+  </status>
+  <introduced datetime="2005-09-29"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Federal Water Pollution Control Act to extend the authorization of appropriations for Long Island Sound.</title>
+  </titles>
+  <sponsor id="400375"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="2005-09-29"/>
+    <cosponsor id="400031" joined="2005-09-29"/>
+    <cosponsor id="400087" joined="2005-09-29"/>
+    <cosponsor id="400103" joined="2005-09-29"/>
+    <cosponsor id="400122" joined="2005-09-29"/>
+    <cosponsor id="400195" joined="2005-09-29"/>
+    <cosponsor id="400205" joined="2005-09-29"/>
+    <cosponsor id="400219" joined="2005-09-29"/>
+    <cosponsor id="400233" joined="2005-09-29"/>
+    <cosponsor id="400246" joined="2005-09-29"/>
+    <cosponsor id="400370" joined="2005-09-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-09-29">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2005-09-30">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2005-10-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-10-26">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2005-10-26">
+      <text>Subcommittee on Water Resources and Environment Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2005-11-14T18:12:00-05:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 109-293.</text>
+    </action>
+    <calendar datetime="2005-11-14T18:12:00-05:00" calendar="Union" number="162">
+      <text>Placed on the Union Calendar, Calendar No. 162.</text>
+    </calendar>
+    <action datetime="2005-12-07T11:09:00-05:00">
+      <text>Mr. Duncan moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2005-12-07T11:09:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11122-11124" label="consideration"/>
+    </action>
+    <action datetime="2005-12-07T11:09:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3963.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-12-07T11:21:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H11122" label="text"/>
+    </vote>
+    <action datetime="2005-12-07T11:21:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-12-12">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2005-12-16" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S13937" label="consideration"/>
+    </vote>
+    <action datetime="2005-12-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2005-12-16">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2005-12-19">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2005-12-22">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2005-12-22" type="public" number="109-137">
+      <text>Became Public Law No: 109-137.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Authorization"/>
+    <term name="Connecticut"/>
+    <term name="Economics and public finance"/>
+    <term name="Environmental Protection Agency"/>
+    <term name="Estuaries"/>
+    <term name="Federal aid to water pollution control"/>
+    <term name="Government operations and politics"/>
+    <term name="Long Island Sound"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Marine pollution"/>
+    <term name="New York State"/>
+  </subjects>
+  <amendments/>
+  <summary>12/22/2005--Public Law.
+Amends the Federal Water Pollution Control Act to reauthorize appropriations through FY2010 for: (1) the Office of Management Conference of the Long Island Sound Study; and (2) grants to implement the Long Island Sound Comprehensive Conservation and Management Plan.</summary>
+</bill>

@@ -1,0 +1,95 @@
+<bill session="110" type="h" number="5104" updated="2013-07-19T21:48:36-04:00">
+  <state datetime="2008-01-31">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2008-01-31"/>
+  </status>
+  <introduced datetime="2008-01-23"/>
+  <titles>
+    <title as="introduced" type="official">To extend the Protect America Act of 2007 for 30 days.</title>
+    <title as="amended by house" type="official">To extend the Protect America Act of 2007 for 15 days.</title>
+  </titles>
+  <sponsor id="400080"/>
+  <cosponsors>
+    <cosponsor id="400337" joined="2008-01-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-01-23">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2008-01-23">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2008-01-23">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="2008-01-29T15:22:00-05:00">
+      <text>Mr. Conyers moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2008-01-29T15:22:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H510-517" label="consideration"/>
+    </action>
+    <action datetime="2008-01-29T15:22:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5104.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-01-29T16:03:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H510" label="text"/>
+    </vote>
+    <action datetime="2008-01-29T16:03:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-01-29T16:03:00-05:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2008-01-29" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S457" label="consideration"/>
+    </vote>
+    <topresident datetime="2008-01-29">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2008-01-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2008-01-30">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2008-01-31">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2008-01-31" type="public" number="110-182">
+      <text>Became Public Law No: 110-182.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="2556"/>
+    <bill relation="unknown" session="110" type="s" number="2557"/>
+    <bill relation="unknown" session="110" type="s" number="2615"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Appellate procedure"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Commerce"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Counterintelligence"/>
+    <term name="Courts of special jurisdiction"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Electronic surveillance"/>
+    <term name="Law"/>
+    <term name="Right of privacy"/>
+    <term name="Science, technology, communications"/>
+    <term name="Telecommunication industry"/>
+    <term name="Warrants (Law)"/>
+  </subjects>
+  <amendments/>
+  <summary>1/31/2008--Public Law.
+Amends the Protect America Act of 2007 (currently set to expire on February 1, 2008) to extend its authority for 15 days.</summary>
+</bill>

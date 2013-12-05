@@ -1,0 +1,54 @@
+<bill session="110" type="s" number="2023" updated="2013-07-19T22:38:11-04:00">
+  <state datetime="2007-09-26">REPORTED</state>
+  <status>
+    <unknown datetime="2007-09-26"/>
+  </status>
+  <introduced datetime="2007-09-06"/>
+  <titles>
+    <title as="introduced" type="official">A bill to designate the facility of the United States Postal Service located at 805 Main Street in Ferdinand, Indiana, as the "Staff Sergeant David L. Nord Post Office".</title>
+  </titles>
+  <sponsor id="300006"/>
+  <cosponsors>
+    <cosponsor id="300070" joined="2007-09-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-09-06">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2007-09-26">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2007-09-26">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2007-09-26" calendar="Senate Legislative" under="General Orders" number="387">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 387.</text>
+    </calendar>
+    <action datetime="2008-01-22">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+      <reference ref="CR S156" label="consideration"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="h" number="3106"/>
+    <bill relation="unknown" session="110" type="h" number="3106"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Armed forces and national security"/>
+    <term name="Army"/>
+    <term name="Congressional tributes"/>
+    <term name="Government operations and politics"/>
+    <term name="Indiana"/>
+    <term name="Military personnel"/>
+    <term name="Names"/>
+    <term name="Postal facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>9/6/2007--Introduced.
+Designates the facility of the United States Postal Service located at 805 Main Street in Ferdinand, Indiana, as the "Staff Sergeant David L. Nord Post Office."</summary>
+</bill>

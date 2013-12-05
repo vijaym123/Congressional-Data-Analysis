@@ -1,0 +1,89 @@
+<bill session="109" type="h" number="432" updated="2013-07-19T19:08:07-04:00">
+  <state datetime="2005-06-29T10:03:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-06-29T10:03:00-04:00"/>
+  </status>
+  <introduced datetime="2005-01-26"/>
+  <titles>
+    <title as="introduced" type="short">Betty Dick Residence Protection Act</title>
+    <title as="introduced" type="official">To require the Secretary of the Interior to permit continued occupancy and use of certain lands and improvements within Rocky Mountain National Park.</title>
+  </titles>
+  <sponsor id="400412"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2005-01-26">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E86-87"/>
+    </action>
+    <action state="REFERRED" datetime="2005-01-26">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-02-11">
+      <text>Executive Comment Requested from Interior.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-02-15">
+      <text>Referred to the Subcommittee on National Parks.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-04-14">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-05-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-05-18">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="2005-05-18">
+      <text>Subcommittee on National Parks Discharged.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-06-08T21:42:00-04:00">
+      <text>Reported by the Committee on Resources. H. Rept. 109-114.</text>
+    </action>
+    <calendar datetime="2005-06-08T21:42:00-04:00" calendar="Private" number="1">
+      <text>Placed on the Private Calendar, Calendar No. 1.</text>
+    </calendar>
+    <action datetime="2005-06-29T10:03:00-04:00">
+      <text>Called up from the Private Calendar for consideration.</text>
+    </action>
+    <action datetime="2005-06-29T10:03:00-04:00">
+      <text>Considered from the Private Calendar.</text>
+      <reference ref="CR H5365-5366" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-06-29T10:03:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H5365-5366" label="text as passed House"/>
+    </vote>
+    <action datetime="2005-06-29T10:03:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-06-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2005-07-28">
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 109-201.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Recreation, and Public Lands" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="National Parks" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="584"/>
+  </relatedbills>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Real property"/>
+  </subjects>
+  <amendments/>
+  <summary>6/29/2005--Passed House without amendment.
+Betty Dick Residence Protection Act - Permits continued occupancy and use of specified property by Betty Dick for the remainder of her natural life, subject to certain requirements.</summary>
+</bill>

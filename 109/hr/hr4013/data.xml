@@ -1,0 +1,89 @@
+<bill session="109" type="h" number="4013" updated="2013-07-19T19:39:50-04:00">
+  <state datetime="2006-06-12T14:11:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-06-12T14:11:00-04:00"/>
+  </status>
+  <introduced datetime="2005-10-07"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Reclamation Projects Authorization and Adjustment Act of 1992 to provide for conjunctive use of surface and groundwater in Juab County, Utah.</title>
+  </titles>
+  <sponsor id="400059"/>
+  <cosponsors>
+    <cosponsor id="400029" joined="2006-03-08"/>
+    <cosponsor id="400255" joined="2005-11-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-10-07">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-10-14">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-02-08">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-03-29">
+      <text>Subcommittee on Water and Power Discharged.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-03-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-03-29">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="2006-04-27T16:53:00-04:00">
+      <text>Reported by the Committee on Resources. H. Rept. 109-443.</text>
+    </action>
+    <calendar datetime="2006-04-27T16:53:00-04:00" calendar="Union" number="247">
+      <text>Placed on the Union Calendar, Calendar No. 247.</text>
+    </calendar>
+    <action datetime="2006-06-12T14:08:00-04:00">
+      <text>Mr. Renzi moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-06-12T14:08:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3726-3727" label="consideration"/>
+    </action>
+    <action datetime="2006-06-12T14:08:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4013.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-06-12T14:11:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H3726" label="text"/>
+    </vote>
+    <action datetime="2006-06-12T14:11:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-06-13">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII13" subcommittee="Water and Power" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="1812"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Agriculture and food"/>
+    <term name="Central Valley Reclamation Project (California)"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to water resources development"/>
+    <term name="Groundwater"/>
+    <term name="Infrastructure"/>
+    <term name="Irrigation"/>
+    <term name="Utah"/>
+    <term name="Water use"/>
+  </subjects>
+  <amendments/>
+  <summary>6/12/2006--Passed House without amendment.
+Amends the Reclamation Projects Authorization and Adjustment Act of 1992 to include Juab County among those Utah counties for which Bonneville Unit of the Central Utah Project funds may be provided for a Utah Division of Water Resources feasibility study and development of systems to allow ground water recharge, management, and the conjunctive use of surface water resources with ground water resources.</summary>
+</bill>

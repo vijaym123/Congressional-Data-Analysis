@@ -1,0 +1,33 @@
+<bill session="109" type="h" number="5530" updated="2013-07-19T19:53:17-04:00">
+  <state datetime="2006-06-06">REFERRED</state>
+  <status>
+    <introduced datetime="2006-06-06"/>
+  </status>
+  <introduced datetime="2006-06-06"/>
+  <titles>
+    <title as="introduced" type="official">To lengthen Daylight Savings Time.</title>
+  </titles>
+  <sponsor id="400145"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2006-06-06">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2006-06-23">
+      <text>Referred to the Subcommittee on Energy and Air Quality.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Air Quality" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Time"/>
+  </subjects>
+  <amendments/>
+  <summary>6/6/2006--Introduced.
+Amends the Energy Policy Act of 2005 (amending the Uniform Time Act of 1966) to lengthen the duration of the period for daylight savings time from March to November (currently, April to October) of each year.</summary>
+</bill>

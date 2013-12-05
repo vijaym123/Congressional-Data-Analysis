@@ -1,0 +1,84 @@
+<bill session="109" type="s" number="3759" updated="2013-07-19T20:46:09-04:00">
+  <state datetime="2006-12-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2006-12-18"/>
+  </status>
+  <introduced datetime="2006-07-27"/>
+  <titles>
+    <title as="introduced" type="official">A bill to name the Armed Forces Readiness Center in Great Falls, Montana, in honor of Captain William Wylie Galt, a recipient of the Congressional Medal of Honor.</title>
+  </titles>
+  <sponsor id="300015"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2006-07-27">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S8381-8382"/>
+    </action>
+    <action state="REFERRED" datetime="2006-07-27">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+    <action datetime="2006-11-16">
+      <text>Senate Committee on Armed Services discharged by Unanimous Consent.</text>
+      <reference ref="CR S11096" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2006-11-16" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2006-11-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-12-05T10:21:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-12-05">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2006-12-07T13:28:00-05:00">
+      <text>Mr. Hunter moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-12-07T13:29:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8922-8923" label="consideration"/>
+    </action>
+    <action datetime="2006-12-07T13:29:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 3759.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2006-12-07T13:37:00-05:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H8922" label="text"/>
+    </vote>
+    <action datetime="2006-12-07T13:37:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2006-12-07">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2006-12-11">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2006-12-18">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2006-12-18" type="public" number="109-412">
+      <text>Became Public Law No: 109-412.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, Discharged"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Military bases"/>
+    <term name="Military readiness"/>
+    <term name="Montana"/>
+    <term name="Names"/>
+    <term name="Officer personnel"/>
+  </subjects>
+  <amendments/>
+  <summary>12/18/2006--Public Law.
+Designates the Armed Forces Readiness Center in Great Falls, Montana, as the "Captain William Wylie Galt Great Falls Armed Forces Readiness Center."</summary>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="110" type="h" number="6011" updated="2013-07-19T21:56:25-04:00">
+  <state datetime="2008-05-08">REFERRED</state>
+  <status>
+    <introduced datetime="2008-05-08"/>
+  </status>
+  <introduced datetime="2008-05-08"/>
+  <titles>
+    <title as="introduced" type="short">Veterans to Paramedics Transition Act</title>
+    <title as="introduced" type="official">To amend the Public Health Service Act to facilitate emergency medical services personnel training and certification curriculums for military veterans.</title>
+  </titles>
+  <sponsor id="400443"/>
+  <cosponsors>
+    <cosponsor id="400224" joined="2008-07-30"/>
+    <cosponsor id="400284" joined="2008-05-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-05-08">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2008-05-12">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="2993"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Armed forces and national security"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Emergency management"/>
+    <term name="Emergency medicine"/>
+    <term name="Employee training"/>
+    <term name="Federal aid to health facilities"/>
+    <term name="Higher education"/>
+    <term name="Housing and community development"/>
+    <term name="Labor and employment"/>
+    <term name="Medical education"/>
+    <term name="Paramedical personnel"/>
+    <term name="Rural health"/>
+    <term name="Veterans' employment"/>
+  </subjects>
+  <amendments/>
+  <summary>5/8/2008--Introduced.
+Veterans to Paramedics Transition Act - Amends the Public Health Service Act to: (1) include among entities eligible for rural emergency medical service training and equipment grants entities that provide training for emergency medical services personnel, including institutions of higher education, technical colleges, community colleges, and other state-certified training entities; and (2) include among grant uses the provision of required coursework and training to enable military veterans to satisfy emergency medical services personnel certification requirements, as determined by the appropriate state regulatory entity.</summary>
+</bill>

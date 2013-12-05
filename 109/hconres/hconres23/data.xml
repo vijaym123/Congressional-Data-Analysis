@@ -1,0 +1,42 @@
+<bill session="109" type="hc" number="23" updated="2013-07-19T20:02:20-04:00">
+  <state datetime="2005-01-25">REFERRED</state>
+  <status>
+    <introduced datetime="2005-01-25"/>
+  </status>
+  <introduced datetime="2005-01-25"/>
+  <titles>
+    <title as="introduced" type="official">Urging increased Federal funding for juvenile (Type 1) diabetes research.</title>
+  </titles>
+  <sponsor id="400160"/>
+  <cosponsors>
+    <cosponsor id="400266" joined="2005-12-16"/>
+    <cosponsor id="400352" joined="2005-09-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-01-25">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2005-02-25">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Diabetes"/>
+    <term name="Economics and public finance"/>
+    <term name="Families"/>
+    <term name="Federal aid to research"/>
+    <term name="Medical research"/>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <summary>1/25/2005--Introduced.
+Declares that Federal funding for diabetes research should be increased in accordance with the recommendations of the Diabetes Research Working Group so that a cure for juvenile diabetes can be found.</summary>
+</bill>

@@ -1,0 +1,75 @@
+<bill session="109" type="hj" number="96" updated="2013-07-19T20:02:06-04:00">
+  <state datetime="2006-11-14T13:21:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-11-14T13:21:00-05:00"/>
+  </status>
+  <introduced datetime="2006-09-19"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the contributions of the Christmas tree industry to the United States economy and urging the Secretary of Agriculture to establish programs to raise awareness of the importance of the Christmas tree industry.</title>
+    <title as="amended by house" type="official">Recognizing the contributions of the Christmas tree industry to the United States economy.</title>
+  </titles>
+  <sponsor id="400643"/>
+  <cosponsors>
+    <cosponsor id="400043" joined="2006-11-13"/>
+    <cosponsor id="400644" joined="2006-11-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-09-19">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2006-09-27">
+      <text>Referred to the Subcommittee on Livestock and Horticulture .</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="2006-09-29">
+      <text>Executive Comment Requested from USDA.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="2006-11-14T13:07:00-05:00">
+      <text>Mr. Goodlatte moved to suspend the rules and pass the resolution, as amended.</text>
+    </action>
+    <action datetime="2006-11-14T13:07:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8635-8637" label="consideration"/>
+    </action>
+    <action datetime="2006-11-14T13:07:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.J. Res. 96.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-11-14T13:21:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the resolution, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H8635" label="text"/>
+    </vote>
+    <action datetime="2006-11-14T13:22:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-11-14T13:22:00-05:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-11-15">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG03" subcommittee="Livestock and Horticulture" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="hj" number="94"/>
+    <bill relation="identical" session="109" type="sj" number="41"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Agriculture and food"/>
+    <term name="Christianity"/>
+    <term name="Commerce"/>
+    <term name="Congressional tributes"/>
+    <term name="Farmers"/>
+    <term name="Holidays"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Religion"/>
+    <term name="Trees"/>
+  </subjects>
+  <amendments/>
+  <summary>11/14/2006--Passed House amended.
+Recognizes the important contributions to the U.S. economy of the live-cut Christmas tree industry, Christmas tree growers, and persons employed in the live-cut Christmas tree industry.</summary>
+</bill>

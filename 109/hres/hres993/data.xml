@@ -1,0 +1,69 @@
+<bill session="109" type="hr" number="993" updated="2013-07-19T19:03:08-04:00">
+  <state datetime="2006-11-14T12:15:00-05:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2006-11-14T12:15:00-05:00"/>
+  </status>
+  <introduced datetime="2006-09-12"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of the House of Representatives with respect to raising awareness and enhancing the state of computer security in the United States, and supporting the goals and ideals of National Cyber Security Awareness Month.</title>
+  </titles>
+  <sponsor id="400617"/>
+  <cosponsors>
+    <cosponsor id="400005" joined="2006-09-20"/>
+    <cosponsor id="400035" joined="2006-09-12"/>
+    <cosponsor id="400119" joined="2006-11-13"/>
+    <cosponsor id="400154" joined="2006-09-28"/>
+    <cosponsor id="400155" joined="2006-09-12"/>
+    <cosponsor id="400185" joined="2006-11-13"/>
+    <cosponsor id="400649" joined="2006-11-13"/>
+    <cosponsor id="400199" joined="2006-11-13"/>
+    <cosponsor id="400219" joined="2006-09-12"/>
+    <cosponsor id="400663" joined="2006-09-20"/>
+    <cosponsor id="400356" joined="2006-09-12"/>
+    <cosponsor id="400647" joined="2006-09-28"/>
+    <cosponsor id="400381" joined="2006-11-13"/>
+    <cosponsor id="400402" joined="2006-09-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-09-12">
+      <text>Referred to the House Committee on Science.</text>
+    </action>
+    <action datetime="2006-11-14T11:58:00-05:00">
+      <text>Mr. Inglis (SC) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2006-11-14T12:00:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8621-8624" label="consideration"/>
+    </action>
+    <action datetime="2006-11-14T12:00:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 993.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2006-11-14T12:15:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H8621-8622" label="text"/>
+    </vote>
+    <action datetime="2006-11-14T12:15:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="hc" number="259"/>
+    <bill relation="identical" session="109" type="hr" number="491"/>
+    <bill relation="identical" session="109" type="sc" number="115"/>
+    <bill relation="identical" session="109" type="sr" number="572"/>
+    <bill relation="identical" session="109" type="sr" number="606"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Computer security measures"/>
+    <term name="Internet"/>
+    <term name="Science, technology, communications"/>
+    <term name="Special months"/>
+  </subjects>
+  <amendments/>
+  <summary>11/14/2006--Passed House without amendment.
+Expresses support for the goals and ideals of National Cyber Security Awareness Month. Declares that the House of Representatives will work with federal agencies, national organizations, businesses, and educational institutions to encourage the development and implementation of existing and future computer security voluntary consensus standards, practices, and technologies in order to enhance the state of computer security in the United States.</summary>
+</bill>

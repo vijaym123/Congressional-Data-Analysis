@@ -1,0 +1,128 @@
+<bill session="109" type="h" number="5143" updated="2013-07-19T19:49:46-04:00">
+  <state datetime="2006-05-10T13:35:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-05-10T13:35:00-04:00"/>
+  </status>
+  <introduced datetime="2006-04-06"/>
+  <titles>
+    <title as="introduced" type="short">H-Prize Act of 2006</title>
+    <title as="reported to house" type="short">H-Prize Act of 2006</title>
+    <title as="passed house" type="short">H-Prize Act of 2006</title>
+    <title as="introduced" type="official">To authorize the Secretary of Energy to establish monetary prizes for achievements in overcoming scientific and technical barriers associated with hydrogen energy.</title>
+  </titles>
+  <sponsor id="400649"/>
+  <cosponsors>
+    <cosponsor id="400016" joined="2006-05-02"/>
+    <cosponsor id="400017" joined="2006-04-06"/>
+    <cosponsor id="400035" joined="2006-04-06"/>
+    <cosponsor id="400049" joined="2006-04-06"/>
+    <cosponsor id="400057" joined="2006-05-02"/>
+    <cosponsor id="400648" joined="2006-04-06"/>
+    <cosponsor id="400113" joined="2006-05-04"/>
+    <cosponsor id="400119" joined="2006-04-06"/>
+    <cosponsor id="400131" joined="2006-05-03"/>
+    <cosponsor id="400196" joined="2006-05-02"/>
+    <cosponsor id="400205" joined="2006-05-03"/>
+    <cosponsor id="400207" joined="2006-05-09"/>
+    <cosponsor id="400221" joined="2006-04-06"/>
+    <cosponsor id="400233" joined="2006-04-06"/>
+    <cosponsor id="400630" joined="2006-04-06"/>
+    <cosponsor id="400654" joined="2006-04-06"/>
+    <cosponsor id="400644" joined="2006-05-02"/>
+    <cosponsor id="400660" joined="2006-05-09"/>
+    <cosponsor id="400356" joined="2006-05-09"/>
+    <cosponsor id="400400" joined="2006-04-06"/>
+    <cosponsor id="400421" joined="2006-04-06"/>
+    <cosponsor id="400428" joined="2006-05-02"/>
+    <cosponsor id="400432" joined="2006-05-03"/>
+    <cosponsor id="400433" joined="2006-04-06"/>
+    <cosponsor id="400435" joined="2006-04-06"/>
+    <cosponsor id="400438" joined="2006-04-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-04-06">
+      <text>Referred to the House Committee on Science.</text>
+    </action>
+    <action datetime="2006-04-27">
+      <text>Committee Hearings Held.</text>
+      <committee name="House Committee on Science"/>
+    </action>
+    <action datetime="2006-05-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Science"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-05-03">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Science"/>
+    </calendar>
+    <action datetime="2006-05-09T18:57:00-04:00">
+      <text>Reported (Amended) by the Committee on Science. H. Rept. 109-456.</text>
+    </action>
+    <calendar datetime="2006-05-09T18:57:00-04:00" calendar="Union" number="254">
+      <text>Placed on the Union Calendar, Calendar No. 254.</text>
+    </calendar>
+    <action datetime="2006-05-10T10:44:00-04:00">
+      <text>Mr. Inglis (SC) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2006-05-10T10:44:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2346-2354" label="consideration"/>
+    </action>
+    <action datetime="2006-05-10T10:44:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5143.</text>
+    </action>
+    <action datetime="2006-05-10T11:23:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2006-05-10T13:09:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2366-2367" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-05-10T13:35:00-04:00" how="roll" result="pass" roll="131" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 6, 1 Present (Roll no. 131).</text>
+      <reference ref="CR H2346-2347" label="text"/>
+    </vote>
+    <action datetime="2006-05-10T13:35:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-05-11">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science" activity="Referral, Hearings, Markup, Reporting"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="2796"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Advertising"/>
+    <term name="Awards, medals, prizes"/>
+    <term name="Commemorations"/>
+    <term name="Commercialization"/>
+    <term name="Energy development"/>
+    <term name="Energy research"/>
+    <term name="Energy storage"/>
+    <term name="Environmental protection"/>
+    <term name="Fuel cells"/>
+    <term name="Government operations and politics"/>
+    <term name="Government publicity"/>
+    <term name="Hydrogen"/>
+    <term name="Intellectual property"/>
+    <term name="Motor vehicle pollution control"/>
+    <term name="Natural gas vehicles"/>
+    <term name="Nonprofit organizations"/>
+    <term name="Patents"/>
+    <term name="Research and development"/>
+    <term name="Science, technology, communications"/>
+    <term name="Social welfare"/>
+    <term name="Technological innovations"/>
+    <term name="Technology transfer"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>5/10/2006--Passed House amended.
+H-Prize Act of 2006 - (Sec. 3) Directs the Secretary of Energy to award competitive cash prizes biennially to advance the research, development, demonstration, and commercial application of hydrogen energy technologies. Instructs the Secretary to widely advertise prize competitions to encourage broad participation, including by individuals, universities (including historically Black colleges and universities and other minority-serving institutions), and large and small businesses (including businesses owned or controlled by socially and economically disadvantaged persons). Directs the Secretary enter into an agreement with a private, nonprofit entity to administer the prize competitions. States that funding sources for such cash prizes shall consist of federal appropriated funds and funds provided by the administering entity. Terminates the authority to announce the prize competitions on September 30, 2017. (Sec. 4) Designates prize-eligible categories, including: (1) advancements in certain hydrogen components or systems; (2) prototypes of hydrogen-powered vehicles or other hydrogen-based products that meet or exceed certain performance criteria; and (3) transformational changes in technologies for hydrogen distribution or production that meet or exceed far-reaching criteria, including minimal carbon emissions, and which may include cost criteria designed to facilitate the eventual market success of a winning technology. Prescribes guidelines for implementation and eligibility. (Sec. 6) Declares that the federal government shall not, by virtue of offering or awarding a prize under this Act, be entitled to any intellectual property rights derived as a consequence of, or direct relation to, the participation by a registered participant in a competition authorized by this Act. (Sec. 7) Prescribes guidelines for waiver of liability by registered participants. (Sec. 8) Authorizes appropriations for FY2007-FY2016. Prescribes award allocation guidelines. (Sec. 9) States that the programs created under this Act shall not be considered a substitute for federal research and development programs.</summary>
+</bill>

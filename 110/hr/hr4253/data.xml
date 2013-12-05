@@ -1,0 +1,143 @@
+<bill session="110" type="h" number="4253" updated="2013-07-19T21:41:06-04:00">
+  <state datetime="2008-02-14">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2008-02-14"/>
+  </status>
+  <introduced datetime="2007-12-04"/>
+  <titles>
+    <title as="introduced" type="short">Military Reservist and Veteran Small Business Reauthorization and Opportunity Act of 2007</title>
+    <title as="introduced" partial="1" type="short">National Reservist Enterprise Transition and Sustainability Act of 2007</title>
+    <title as="passed house" type="short">Military Reservist and Veteran Small Business Reauthorization and Opportunity Act of 2007</title>
+    <title as="passed house" partial="1" type="short">National Reservist Enterprise Transition and Sustainability Act of 2007</title>
+    <title as="passed senate" type="short">Military Reservist and Veteran Small Business Reauthorization and Opportunity Act of 2007</title>
+    <title as="enacted" type="short">Military Reservist and Veteran Small Business Reauthorization and Opportunity Act of 2008</title>
+    <title as="introduced" type="official">To improve and expand small business assistance programs for veterans of the armed forces and military reservists, and for other purposes.</title>
+  </titles>
+  <sponsor id="412231"/>
+  <cosponsors>
+    <cosponsor id="412196" joined="2007-12-04"/>
+    <cosponsor id="400071" joined="2007-12-04"/>
+    <cosponsor id="400416" joined="2007-12-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-12-04">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+    <action datetime="2007-12-05T16:50:00-05:00">
+      <text>Ms. Velazquez moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-12-05T16:51:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H14218-14223" label="consideration"/>
+    </action>
+    <action datetime="2007-12-05T16:51:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4253.</text>
+    </action>
+    <action datetime="2007-12-05T17:10:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2007-12-06T12:55:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H14269-14270" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-12-06T13:03:00-05:00" how="roll" result="pass" roll="1138" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 2 (Roll no. 1138).</text>
+      <reference ref="CR 12/5/2007 H14218-14221" label="text"/>
+    </vote>
+    <action datetime="2007-12-06T13:03:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-12-07">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <action datetime="2007-12-19">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S15952" label="consideration"/>
+    </action>
+    <action datetime="2007-12-19">
+      <text>Senate struck all after the Enacting Clause and substituted the language of S. 1784 amended.</text>
+    </action>
+    <vote state="PASS_BACK:SENATE" datetime="2007-12-19" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate in lieu of S.1784 with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2007-12-19">
+      <text>See also S.1784.</text>
+    </action>
+    <action datetime="2007-12-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2008-01-16T12:29:00-05:00">
+      <text>House agreed to Senate amendment with amendment pursuant to H. Res. 921.</text>
+      <reference ref="CR H44-45" label="consideration"/>
+    </action>
+    <action datetime="2008-01-22">
+      <text>Message on House action received in Senate and at desk: House amendment to Senate amendment.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2008-01-31" how="by Unanimous Consent" result="pass" type="pingpong" where="s">
+      <text>Senate agreed to House amendment by Unanimous Consent.</text>
+      <reference ref="CR S555-559" label="consideration"/>
+      <reference ref="CR S556-558" label="text as Senate agreed to House amendment"/>
+    </vote>
+    <topresident datetime="2008-01-31">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2008-02-04">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2008-02-07">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2008-02-14">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2008-02-14" type="public" number="110-186">
+      <text>Became Public Law No: 110-186.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="hr" number="921"/>
+    <bill relation="unknown" session="110" type="hr" number="921"/>
+    <bill relation="unknown" session="110" type="s" number="1784"/>
+    <bill relation="unknown" session="110" type="s" number="1784"/>
+    <bill relation="supersedes" session="110" type="s" number="1784"/>
+    <bill relation="included-in" session="110" type="s" number="1784"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Armed forces and national security"/>
+    <term name="Armed forces reserves"/>
+    <term name="Business education"/>
+    <term name="Capital"/>
+    <term name="Congress"/>
+    <term name="Congressional investigations"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Disabled"/>
+    <term name="Distance education"/>
+    <term name="Economics and public finance"/>
+    <term name="Entrepreneurs"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Government lending"/>
+    <term name="Government operations and politics"/>
+    <term name="Governmental investigations"/>
+    <term name="Grants-in-aid"/>
+    <term name="Industrial relations"/>
+    <term name="Iraq compilation"/>
+    <term name="Labor and employment"/>
+    <term name="Self-employed"/>
+    <term name="Small Business Administration"/>
+    <term name="Small business"/>
+    <term name="Subcontractors"/>
+    <term name="Technical education"/>
+    <term name="Veterans' employment"/>
+    <term name="Vocational education"/>
+    <term name="Women"/>
+    <term name="Women in business"/>
+    <term name="Women veterans"/>
+  </subjects>
+  <amendments/>
+  <summary>2/14/2008--Public Law.
+Military Reservist and Veteran Small Business Reauthorization and Opportunity Act of 2008 - Title I: Veterans Business Development - (Sec. 101) Increases funding (with an offset), for FY2008-FY2009, for the Office of Veterans Business Development of the Small Business Administration (SBA). Expresses the sense of Congress that excess amounts for such Office should be used to support veterans business outreach centers. (Sec. 102) Amends the Small Business Act to direct the President to establish an interagency task force to coordinate federal efforts to improve capital and business development opportunities for, and ensure achievement of the pre-established federal contracting goals for, small businesses owned and controlled by service-disabled veterans and veterans. (Sec. 103) Extends permanently the SBA's Advisory Committee on Veterans Business Affairs. (Sec. 104) Directs the SBA's Associate Administrator for Veterans Business Development to: (1) ensure that veterans business outreach centers regularly participate in the workshops of the transition assistance program of the Department of Labor; and (2) compile information on existing resources available to women veterans for business training. Allows a veterans business outreach center to provide grants to entities to make presentations on opportunities available from the SBA for recently separating or separated veterans. Requires implementation reports from the Associate Administrator to Congress. (Sec. 105) Increases the number of veterans business outreach centers by at least two for each of FY2008 and FY2009, and by the number considered appropriate by the Administrator for each fiscal year thereafter. (Sec. 106) Requires the Administrator to: (1) sponsor an independent study on gaps in the availability of veterans business outreach centers across the United States; and (2) report to Congress on study results. (Sec. 107) Authorizes a small business development center to apply for a grant to carry out a veterans assistance and services program to: (1) promote awareness of the services of the center that are available to veterans; (2) use online counseling and distance learning technology to overcome impediments to entrepreneurship faced by veterans and members of the Armed Forces; and (3) increase coordination among organizations that assist veterans. Title II: Reservist Programs - (Sec. 201) Extends the date by which a small business that has suffered or is likely to suffer substantial economic injury as the result of an essential employee being called or ordered to active duty may apply to the SBA for a disaster loan to one year (current law allows 90 days) after the essential employee is discharged or released from such duty. Authorizes the Administrator, when considered appropriate, to extend such period by up to one additional year. Directs the Administrator to: (1) establish a loan pre-consideration process for loans to small businesses with key employee reservists; and (2) develop an outreach and technical assistance program with respect to loans and grants made to small businesses employing such reservists. Requires a semiannual report from the Administrator to Congress on the status of the outreach and technical assistance program. (Sec. 202) Requires the Administrator and the Secretary of Defense to develop a joint website and printed materials providing information regarding any program for small businesses that is available to veterans or reservists. Authorizes the Administrator to advertise and market SBA reservist programs. (Sec. 203) Authorizes the Administrator to make noncollateralized small business loans of up to $50,000 to small businesses suffering the loss of essential employee reservists. (Sec. 204) Directs the Administrator to give a priority to loan applications involving essential employee reservists. (Sec. 205) Provides relief from SBA time limits in the case of loans made to small businesses owned and controlled by veterans: (1) called to active duty on or after September 11, 2001; or (2) who became service-disabled due to an injury or illness incurred or aggravated during active duty on or after such date. Extends such relief for the period in which the veteran served on active duty. Makes such relief inapplicable to programs subject to the Federal Credit Reform Act of 1990. (Sec. 206) Directs the Comptroller General (CG) to report to the small business committees on types of assistance needed by service-disabled veterans who wish to become entrepreneurs. (Sec. 207) Requires the CG to: (1) study options for promoting positive working relations between employers and their reservist employees; and (2) report study results to the defense and small business committees. (Sec. 208) Directs the Administrator to establish and carry out a two-year pilot program under which the Administrator shall reduce by 50% the fees for loans made to small businesses owned and controlled by veterans or reservists (veteran participation loans). Authorizes the Administrator to waive the fee reduction in certain cases. Requires a pilot program report from the CG to the small business committees.</summary>
+</bill>

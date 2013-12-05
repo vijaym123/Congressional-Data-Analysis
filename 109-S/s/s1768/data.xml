@@ -1,0 +1,59 @@
+<bill session="109" type="s" number="1768" updated="2013-07-19T20:28:54-04:00">
+  <state datetime="2006-03-30">REPORTED</state>
+  <status>
+    <unknown datetime="2006-03-30"/>
+  </status>
+  <introduced datetime="2005-09-26"/>
+  <titles>
+    <title as="introduced" type="official">A bill to permit the televising of Supreme Court proceedings.</title>
+  </titles>
+  <sponsor id="300092"/>
+  <cosponsors>
+    <cosponsor id="300004" joined="2005-09-26"/>
+    <cosponsor id="300027" joined="2005-09-26"/>
+    <cosponsor id="300038" joined="2005-11-07"/>
+    <cosponsor id="300042" joined="2005-09-26"/>
+    <cosponsor id="300048" joined="2005-09-26"/>
+    <cosponsor id="300065" joined="2005-09-26"/>
+    <cosponsor id="300087" joined="2005-09-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-09-26">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S10426-10429"/>
+    </action>
+    <action state="REFERRED" datetime="2005-09-26">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S10429" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2005-11-09">
+      <text>Committee on the Judiciary. Hearings held. Hearings printed: S.Hrg. 109-331.</text>
+      <committee name="Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-03-30">
+      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2006-03-30">
+      <text>Committee on the Judiciary. Reported by Senator Specter without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2006-03-30" calendar="Senate Legislative" under="General Orders" number="384">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 384.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="4380"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Science, technology, communications"/>
+    <term name="Supreme Court"/>
+    <term name="Television broadcasting"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/2006--Reported to Senate without amendment.
+Amends the federal judicial code to require the U.S. Supreme Court to permit television coverage of all open sessions of the Court unless the justices decide, by majority vote, that such coverage in a particular case would violate the due process rights of one or more of the parties before the Court.</summary>
+</bill>

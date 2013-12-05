@@ -1,0 +1,55 @@
+<bill session="110" type="s" number="3681" updated="2013-07-19T22:53:54-04:00">
+  <state datetime="2008-11-20">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2008-11-20"/>
+  </status>
+  <introduced datetime="2008-10-02"/>
+  <titles>
+    <title as="introduced" type="official">A bill to designate the facility of the United States Postal Service located at 5070 Vegas Valley Drive in Las Vegas, Nevada, as the "Joseph A. Ryan Post Office Building".</title>
+  </titles>
+  <sponsor id="300082"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2008-10-02">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S10488-10489"/>
+    </action>
+    <action state="REFERRED" datetime="2008-10-02">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <reference ref="CR S10489" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2008-11-20">
+      <text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text>
+      <reference ref="CR S10768" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2008-11-20" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S10768" label="text"/>
+    </vote>
+    <action datetime="2008-11-24">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2008-12-09T11:04:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2008-12-09">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Discharged"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Government operations and politics"/>
+    <term name="Names"/>
+    <term name="Nevada"/>
+    <term name="Postal facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>10/2/2008--Introduced.
+Designates the facility of the United States Postal Service located at 5070 Vegas Valley Drive in Las Vegas, Nevada, as the "Joseph A. Ryan Post Office Building."</summary>
+</bill>

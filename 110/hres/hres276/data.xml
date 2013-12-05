@@ -1,0 +1,53 @@
+<bill session="110" type="hr" number="276" updated="2013-07-19T20:52:59-04:00">
+  <state datetime="2007-03-27">REFERRED</state>
+  <status>
+    <introduced datetime="2007-03-27"/>
+  </status>
+  <introduced datetime="2007-03-27"/>
+  <titles>
+    <title as="introduced" type="official">Honoring the 53,000 soldiers, sailors, airmen, Marines, and civilians that comprise the Nation's special operations forces community.</title>
+  </titles>
+  <sponsor id="400658"/>
+  <cosponsors>
+    <cosponsor id="400172" joined="2007-03-27"/>
+    <cosponsor id="400209" joined="2008-03-04"/>
+    <cosponsor id="400266" joined="2007-03-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-03-27">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2007-04-03">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+    <action datetime="2007-04-03">
+      <text>Referred to the Subcommittee on Terrorism, Unconventional Threats and Capabilities.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+    <committee activity="Referral" code="HSAS26" subcommittee="Terrorism, Unconventional Threats and Capabilities" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="hr" number="305"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Armed forces abroad"/>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional tributes"/>
+    <term name="East Asia"/>
+    <term name="Families"/>
+    <term name="International affairs"/>
+    <term name="Military dependents"/>
+    <term name="Philippines"/>
+    <term name="Special forces (Military science)"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>3/27/2007--Introduced.
+Honors the sacrifices and commitment of the 53,000 soldiers, sailors, airmen, Marines, and civilians that comprise the nation's special operations forces community. Honors the families of such forces. Recognizes that the U.S. military should seek to replicate the success that such forces has created on the island of Basilan in the Philippines on other fronts throughout the Global War on Terror.</summary>
+</bill>

@@ -1,0 +1,103 @@
+<bill session="110" type="h" number="2649" updated="2013-07-19T21:26:55-04:00">
+  <state datetime="2008-05-20T17:30:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-05-20T17:30:00-04:00"/>
+  </status>
+  <introduced datetime="2007-06-11"/>
+  <titles>
+    <title as="reported to house" type="short">Lake Hodges Surface Water Improvement and Reclamation Act of 2008</title>
+    <title as="passed house" type="short">Lake Hodges Surface Water Improvement and Reclamation Act of 2008</title>
+    <title as="introduced" type="official">To make amendments to the Reclamation Projects Authorization and Adjustment Act of 1992.</title>
+  </titles>
+  <sponsor id="400570"/>
+  <cosponsors>
+    <cosponsor id="400191" joined="2007-06-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-06-11">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-06-13">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2008-04-23">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2008-04-23">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Unanimous Consent .</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2008-04-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-04-30">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2008-05-13T20:33:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-634.</text>
+    </action>
+    <calendar datetime="2008-05-13T20:33:00-04:00" calendar="Union" number="396">
+      <text>Placed on the Union Calendar, Calendar No. 396.</text>
+    </calendar>
+    <action datetime="2008-05-19T12:41:00-04:00">
+      <text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2008-05-19T12:41:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4074-4075" label="consideration"/>
+    </action>
+    <action datetime="2008-05-19T12:41:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2649.</text>
+    </action>
+    <action datetime="2008-05-19T12:46:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Issa objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2008-05-20T17:21:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4281-4282" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-05-20T17:30:00-04:00" how="roll" result="pass" roll="336" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 374 - 39 (Roll no. 336).</text>
+      <reference ref="CR 5/19/2008 H4074" label="text"/>
+    </vote>
+    <action datetime="2008-05-20T17:30:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-05-21">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Agriculture and food"/>
+    <term name="Authorization"/>
+    <term name="California"/>
+    <term name="Construction costs"/>
+    <term name="Department of the Interior"/>
+    <term name="Economics and public finance"/>
+    <term name="Environmental protection"/>
+    <term name="Federal aid to water pollution control"/>
+    <term name="Federal aid to water resources development"/>
+    <term name="Government operations and politics"/>
+    <term name="Groundwater"/>
+    <term name="Infrastructure"/>
+    <term name="Intergovernmental fiscal relations"/>
+    <term name="Irrigation"/>
+    <term name="Waste water treatment"/>
+    <term name="Water conservation"/>
+    <term name="Water treatment plants"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2008--Passed House amended.
+Lake Hodges Surface Water Improvement and Reclamation Act of 2008 - Amends the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Secretary of the Interior, in cooperation with the Olivenhain Municipal Water District, California, to participate in the design, planning, and construction of projects to treat, reclaim, and reuse impaired surface water from Lake Hodges in San Diego County, California. Limits the federal share to 25% of the total project costs. Prohibits the Secretary from providing funds for project operation or maintenance.</summary>
+</bill>

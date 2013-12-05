@@ -1,0 +1,103 @@
+<bill session="110" type="h" number="4461" updated="2013-07-19T21:42:56-04:00">
+  <state datetime="2008-07-09T13:17:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-07-09T13:17:00-04:00"/>
+  </status>
+  <introduced datetime="2007-12-12"/>
+  <titles>
+    <title as="introduced" type="short">Community Building Code Administration Grant Act of 2007</title>
+    <title as="passed house" type="short">Community Building Code Administration Grant Act of 2008</title>
+    <title as="introduced" type="official">To promote and enhance the operation of local building code enforcement administration across the country by establishing a competitive Federal matching grant program.</title>
+  </titles>
+  <sponsor id="400282"/>
+  <cosponsors>
+    <cosponsor id="400631" joined="2007-12-12"/>
+    <cosponsor id="400031" joined="2007-12-12"/>
+    <cosponsor id="400033" joined="2007-12-12"/>
+    <cosponsor id="400040" joined="2008-05-14"/>
+    <cosponsor id="412210" joined="2008-01-28"/>
+    <cosponsor id="400051" joined="2007-12-12"/>
+    <cosponsor id="400063" joined="2008-05-07"/>
+    <cosponsor id="400658" joined="2008-01-16"/>
+    <cosponsor id="412215" joined="2008-06-24"/>
+    <cosponsor id="400140" joined="2008-06-04"/>
+    <cosponsor id="400179" joined="2007-12-12"/>
+    <cosponsor id="400209" joined="2008-07-09"/>
+    <cosponsor id="400219" joined="2008-06-24"/>
+    <cosponsor id="412198" joined="2007-12-12"/>
+    <cosponsor id="400251" joined="2008-06-19"/>
+    <cosponsor id="400663" joined="2007-12-12"/>
+    <cosponsor id="400259" joined="2008-04-29"/>
+    <cosponsor id="400263" joined="2008-02-07"/>
+    <cosponsor id="412194" joined="2007-12-12"/>
+    <cosponsor id="400310" joined="2008-04-22"/>
+    <cosponsor id="412192" joined="2008-01-29"/>
+    <cosponsor id="400364" joined="2008-05-14"/>
+    <cosponsor id="400387" joined="2008-05-21"/>
+    <cosponsor id="412227" joined="2008-02-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-12-12">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2008-03-28">
+      <text>Referred to the Subcommittee on Housing and Community Opportunity.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2008-06-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-06-24">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Financial Services"/>
+    </calendar>
+    <action datetime="2008-06-24">
+      <text>Subcommittee on Housing and Community Opportunity Discharged.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2008-07-09T13:12:00-04:00">
+      <text>Mr. Moore (KS) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2008-07-09T13:12:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6266-6269" label="consideration"/>
+    </action>
+    <action datetime="2008-07-09T13:12:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4461.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-07-09T13:17:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6266-6268" label="text"/>
+    </vote>
+    <action datetime="2008-07-09T13:17:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-07-10">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSBA04" subcommittee="Housing and Community Opportunity" name="House Financial Services"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="2458"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Building laws"/>
+    <term name="Depressed areas"/>
+    <term name="Economics and public finance"/>
+    <term name="Employee training"/>
+    <term name="Federal aid to housing"/>
+    <term name="Government operations and politics"/>
+    <term name="Labor and employment"/>
+    <term name="Local employees"/>
+    <term name="Local laws"/>
+  </subjects>
+  <amendments/>
+  <summary>7/9/2008--Passed House amended.
+Community Building Code Administration Grant Act of 2008 - Requires the Secretary of Housing and Urban Development to award $1 million grants, on a competitive basis and with federal matching funds, to qualified local building code enforcement departments to increase staffing, provide staff training, increase staff competence and professional qualifications, support individual certification or departmental accreditation, or for capital expenditures specifically dedicated to department administration. Allows the Secretary to waive specified non-federal matching fund requirements and to institute new ones, by regulation, based upon the level of economic distress of the local jurisdiction in which the local building code enforcement department seeking such grant is located. Sets forth criteria for rating and ranking of grant proposals. Authorizes appropriations for FY2009-FY2013.</summary>
+</bill>

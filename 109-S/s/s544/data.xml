@@ -1,0 +1,160 @@
+<bill session="109" type="s" number="544" updated="2013-07-19T20:18:05-04:00">
+  <state datetime="2005-07-29">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2005-07-29"/>
+  </status>
+  <introduced datetime="2005-03-08"/>
+  <titles>
+    <title type="popular">Medical Safety bill</title>
+    <title as="introduced" type="short">Patient Safety and Quality Improvement Act of 2005</title>
+    <title as="passed house" type="short">Patient Safety and Quality Improvement Act of 2005</title>
+    <title as="passed senate" type="short">Patient Safety and Quality Improvement Act of 2005</title>
+    <title as="enacted" type="short">Patient Safety and Quality Improvement Act of 2005</title>
+    <title as="introduced" type="official">A bill to amend title IX of the Public Health Service Act to provide for the improvement of patient safety and to reduce the incidence of events that adversely effect patient safety.</title>
+  </titles>
+  <sponsor id="300057"/>
+  <cosponsors>
+    <cosponsor id="300009" joined="2005-03-08"/>
+    <cosponsor id="300025" joined="2005-04-26"/>
+    <cosponsor id="300041" joined="2005-03-08"/>
+    <cosponsor id="300045" joined="2005-03-08"/>
+    <cosponsor id="300049" joined="2005-03-08"/>
+    <cosponsor id="300059" joined="2005-07-21"/>
+    <cosponsor id="300063" joined="2005-03-15"/>
+    <cosponsor id="300076" joined="2005-03-08"/>
+    <cosponsor id="300088" joined="2005-03-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-03-08">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2005-03-09">
+      <text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Health, Education, Labor, and Pensions"/>
+    </calendar>
+    <action datetime="2005-07-21">
+      <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2005-07-21">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S8713-8714" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2005-07-21" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2005-07-21T22:26:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-07-21">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-07-21">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2005-07-27T12:16:00-04:00">
+      <text>Mr. Deal (GA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2005-07-27T12:16:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6673-6679" label="consideration"/>
+    </action>
+    <action datetime="2005-07-27T12:16:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 544.</text>
+    </action>
+    <action datetime="2005-07-27T12:37:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2005-07-27T14:37:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6840-6841" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2005-07-27T14:46:00-04:00" how="roll" result="pass" roll="434" type="vote2" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 428 - 3 (Roll no. 434).</text>
+      <reference ref="CR H6673-6676" label="text"/>
+    </vote>
+    <action datetime="2005-07-27T14:46:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2005-07-27">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2005-07-28">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2005-07-29">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2005-07-29" type="public" number="109-41">
+      <text>Became Public Law No: 109-41.</text>
+    </enacted>
+    <action datetime="2005-08-05">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Markup, Discharged"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="3205"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Accreditation (Medical care)"/>
+    <term name="Administrative procedure"/>
+    <term name="Administrative remedies"/>
+    <term name="Associations, institutions, etc."/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Communication in medicine"/>
+    <term name="Confidential communications"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Data banks"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Disciplining of employees"/>
+    <term name="Discovery (Law)"/>
+    <term name="Economics and public finance"/>
+    <term name="Electronic data interchange"/>
+    <term name="Employee rights"/>
+    <term name="Evidence (Law)"/>
+    <term name="Federal aid programs"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Freedom of information"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Governmental investigations"/>
+    <term name="Health information systems"/>
+    <term name="Health surveys"/>
+    <term name="Hospital care"/>
+    <term name="Information technology"/>
+    <term name="Labor and employment"/>
+    <term name="Law"/>
+    <term name="Licenses"/>
+    <term name="Medical economics"/>
+    <term name="Medical malpractice"/>
+    <term name="Medical personnel"/>
+    <term name="Medical records"/>
+    <term name="Medical research"/>
+    <term name="Medical statistics"/>
+    <term name="Medical technology"/>
+    <term name="Patients' rights"/>
+    <term name="Physicians"/>
+    <term name="Preventive medicine"/>
+    <term name="Quality of care"/>
+    <term name="Right of privacy"/>
+    <term name="Science, technology, communications"/>
+    <term name="Standards"/>
+    <term name="State laws"/>
+    <term name="Subpoena"/>
+    <term name="Technological innovations"/>
+    <term name="Technology assessment"/>
+    <term name="Whistle blowing"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1411"/>
+  </amendments>
+  <summary>7/29/2005--Public Law.
+Patient Safety and Quality Improvement Act of 2005 - Amends the Public Health Service Act to designate patient safety work product as privileged and not subject to: (1) a subpoena or discovery in a civil, criminal, or administrative disciplinary proceeding against a provider; (2) disclosure under the Freedom of Information Act (FOIA) or a similar law; (3) admission as evidence in any civil, criminal, or administrative proceeding; or (4) admission in a professional disciplinary proceeding. Defines "patient safety work product" as any data, reports, records, memoranda, analysis, or written or oral statements which: (1) are assembled or developed by a provider for reporting to a patient safety organization (PSO); (2) are developed by a PSO for patient safety activities and which could result in improved patient safety or health care quality or outcomes; or (3) identify or constitute the deliberations or analysis of, or identify the fact of reporting pursuant to, a patient safety evaluation system. Designates such work product as confidential, but permits: (1) disclosure for use in a criminal proceeding after a court determines that such work product contains evidence of a criminal act and is material to the proceeding and not reasonably available from any other source; (2) disclosure to the extent required to seek redress for violations through a civil action; and (3) disclosure if authorized by each provider identified in such work product. Excludes certain disclosures from confidentiality protection, including: (1) disclosures to carry out patient safety activities; (2) disclosures of nonidentifiable work product; (3) disclosures otherwise allowed under Health Insurance Portability and Accountability Act of 1996 (HIPAA) confidentiality regulations to entities carrying out sanctioned research, evaluation, or demonstration products; (4) disclosures by a provider to the Food and Drug Administration (FDA); (5) voluntary disclosures by a provider to the provider's accrediting body; (6) disclosures necessary for business operations consistent with the goals of this Act; (7) disclosures to law enforcement authorities relating to the commission of a crime if the person making the disclosure reasonably believes the disclosure is necessary; and (8) disclosures that do not include materials that assess the quality of care of an identifiable provider or pertain to actions or failures to act by an identifiable provider by a person other than a PSO. Excludes from privilege any voluntary disclosure of nonidentifiable work product. Instructs that privilege and confidentiality of work product continues for disclosures under this Act, with certain exceptions. Prevents a PSO from being compelled to disclose information collected or developed unless such information is identified, is not work product, and is not reasonably available from another source. Prohibits an accrediting body from: (1) taking an accrediting action against a provider based on the provider's good faith participation in the collection, development, reporting, or maintenance of work product in accordance with this Act; and (2) requiring a provider to reveal communications with any PSO. Prevents a provider from taking an adverse employment action against an individual for the good faith reporting of information. Sets forth penalties for the disclosure of identifiable work product in knowing or reckless violation of this Act. Allows an individual to bring a civil action to enjoin any act or practice that violates this Act. Declares that this Act shall not: (1) limit greater privileges or confidentiality protections under federal, state, or local laws; (2) limit, alter, or affect the legal requirements pertaining to information that is not privileged or confidential; (3) alter or affect the implementation of HIPAA confidentiality regulations; (4) limit the authority of any provider, PSO, or other entity to require greater confidentiality or delegate authority to make disclosures; (5) preempt or affect any state law requiring a provider to report information that is not work product; (6) limit, alter, or affect any requirement for reporting safety information to the FDA; or (7) prohibit any person from conducting additional analysis. Requires the Secretary to report to Congress on effective strategies for reducing medical errors and increasing patient safety. Requires the Secretary to facilitate the creation of and maintain a network of patient safety databases that: (1) provide an interactive evidence-based management resource for providers, PSOs, and other entities; and (2) have the capacity to accept, aggregate across the network, and analyze voluntarily reported nonidentifiable work product. Requires the Secretary to assess the feasibility of providing for a single point of access to the network for qualified researchers for information aggregated across the network and, if feasible, provide for implementation. Allows the Secretary to determine common formats for reporting to the databases that are consistent with the administration simplification provisions of the Social Security Act. Requires that information reported to the databases be used to analyze national and regional statistics and be made available to the public. Requires PSOs to submit an initial certification to the Secretary and renew their certification every three years. Sets forth criteria for certification. Requires the Secretary to: (1) determine if the initial and subsequent certifications meet the requirements of this Act; and (2) compile and maintain a listing of certified PSOs. Makes provisions for work product if a PSO's certification is expired or revoked. Allows the Secretary, acting through the Director of the Agency for Healthcare Research and Quality (AHRQ), to provide technical assistance to PSOs. Requires the Comptroller General to study the effectiveness of this Act.</summary>
+</bill>

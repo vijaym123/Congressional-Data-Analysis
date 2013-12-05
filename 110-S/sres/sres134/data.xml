@@ -1,0 +1,57 @@
+<bill session="110" type="sr" number="134" updated="2013-07-19T22:14:13-04:00">
+  <state datetime="2007-09-07">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2007-09-07"/>
+  </status>
+  <introduced datetime="2007-03-29"/>
+  <titles>
+    <title as="introduced" type="official">A resolution designating September 2007 as "Adopt a School Library Month".</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors>
+    <cosponsor id="300023" joined="2007-04-18"/>
+    <cosponsor id="300024" joined="2007-03-29"/>
+    <cosponsor id="300056" joined="2007-04-18"/>
+    <cosponsor id="400194" joined="2007-05-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2007-03-29">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4215"/>
+    </action>
+    <action state="REFERRED" datetime="2007-03-29">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S4215" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-09-06">
+      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2007-09-06">
+      <text>Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="2007-09-06" calendar="Senate Legislative" under="General Orders" number="342">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 342.</text>
+    </calendar>
+    <vote state="PASSED:SIMPLERES" datetime="2007-09-07" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S11278-11279" label="consideration"/>
+      <reference ref="CR S11278" label="text as passed Senate"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Academic performance"/>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="School libraries"/>
+    <term name="Special months"/>
+  </subjects>
+  <amendments/>
+  <summary>9/7/2007--Passed Senate without amendment.
+Designates September 2007 as "Adopt a School Library Month" to raise public awareness about the important role school libraries play in the academic achievement of children.</summary>
+</bill>

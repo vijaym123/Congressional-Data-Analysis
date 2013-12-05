@@ -1,0 +1,40 @@
+<bill session="110" type="h" number="942" updated="2013-07-19T21:12:00-04:00">
+  <state datetime="2007-02-08">REFERRED</state>
+  <status>
+    <introduced datetime="2007-02-08"/>
+  </status>
+  <introduced datetime="2007-02-08"/>
+  <titles>
+    <title as="introduced" type="short">Clean Air Sustainability Act of 2007</title>
+    <title as="introduced" type="official">To amend the Clean Air Act to clarify certain provisions in the national emission standards for hazardous air pollutants to ensure that no major stationary sources of such air pollutants are exempted by Environmental Potection Agency rules from compliance with the maximum achievable control technology standard, and for other purposes.</title>
+  </titles>
+  <sponsor id="400204"/>
+  <cosponsors>
+    <cosponsor id="400100" joined="2007-03-05"/>
+    <cosponsor id="400162" joined="2007-03-12"/>
+    <cosponsor id="400663" joined="2007-02-14"/>
+    <cosponsor id="400262" joined="2007-02-15"/>
+    <cosponsor id="400438" joined="2007-04-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-02-08">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2007-02-09">
+      <text>Referred to the Subcommittee on Energy and Air Quality.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Air Quality" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Air pollution control"/>
+  </subjects>
+  <amendments/>
+  <summary>2/8/2007--Introduced.
+Clean Air Sustainability Act of 2007 - Amends the Clean Air Act to revise the definition of a "major source" of hazardous air pollutants to specify that a source's "potential to emit" refers to its maximum capacity to emit a pollutant on the date the source is required to comply with a national emission standard, without regard to any lower subsequent emission levels of that pollutant attributable to compliance with such standard or other factors.</summary>
+</bill>

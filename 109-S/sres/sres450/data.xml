@@ -1,0 +1,61 @@
+<bill session="109" type="sr" number="450" updated="2013-07-19T20:10:48-04:00">
+  <state datetime="2006-05-23">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2006-05-23"/>
+  </status>
+  <introduced datetime="2006-04-27"/>
+  <titles>
+    <title as="introduced" type="official">A resolution designating June 2006 as National Safety Month.</title>
+  </titles>
+  <sponsor id="300033"/>
+  <cosponsors>
+    <cosponsor id="300004" joined="2006-04-27"/>
+    <cosponsor id="300021" joined="2006-05-18"/>
+    <cosponsor id="300035" joined="2006-04-27"/>
+    <cosponsor id="300038" joined="2006-04-27"/>
+    <cosponsor id="400194" joined="2006-05-18"/>
+    <cosponsor id="300063" joined="2006-04-27"/>
+    <cosponsor id="300075" joined="2006-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2006-04-27">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3722"/>
+    </action>
+    <action state="REFERRED" datetime="2006-04-27">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S3722" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2006-05-23">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S5027" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2006-05-23" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S5027" label="text as passed Senate"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="sr" number="145"/>
+    <bill relation="unknown" session="109" type="sr" number="160"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Accident prevention"/>
+    <term name="Emergency management"/>
+    <term name="Health"/>
+    <term name="Health education"/>
+    <term name="Labor and employment"/>
+    <term name="Nonprofit organizations"/>
+    <term name="Occupational health and safety"/>
+    <term name="Preventive medicine"/>
+    <term name="Social welfare"/>
+    <term name="Special months"/>
+  </subjects>
+  <amendments/>
+  <summary>5/23/2006--Passed Senate without amendment.
+Designates June 2006 as National Safety Month.</summary>
+</bill>

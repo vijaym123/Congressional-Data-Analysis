@@ -1,0 +1,129 @@
+<bill session="109" type="h" number="2107" updated="2013-07-19T19:22:56-04:00">
+  <state datetime="2006-10-06">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2006-10-06"/>
+  </status>
+  <introduced datetime="2005-05-04"/>
+  <titles>
+    <title as="introduced" type="short">National Law Enforcement Officers Memorial Maintenance Fund Act of 2005</title>
+    <title as="passed house" type="short">National Law Enforcement Officers Memorial Maintenance Fund Act of 2005</title>
+    <title as="reported to senate" type="short">National Law Enforcement Officers Memorial Maintenance Fund Act of 2005</title>
+    <title as="passed senate" type="short">National Law Enforcement Officers Memorial Maintenance Fund Act of 2005</title>
+    <title as="enacted" type="short">National Law Enforcement Officers Memorial Maintenance Fund Act of 2005</title>
+    <title as="introduced" type="official">To amend Public Law 104-329 to modify authorities for the use of the National Law Enforcement Officers Memorial Maintenance Fund, and for other purposes.</title>
+  </titles>
+  <sponsor id="400359"/>
+  <cosponsors>
+    <cosponsor id="400019" joined="2005-05-16"/>
+    <cosponsor id="400116" joined="2005-05-04"/>
+    <cosponsor id="400219" joined="2005-05-04"/>
+    <cosponsor id="400435" joined="2005-05-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-05-04">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-05-11">
+      <text>Referred to the Subcommittee on National Parks.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-05-16T14:48:00-04:00">
+      <text>Mr. Renzi moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2005-05-16T14:48:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3277-3278" label="consideration"/>
+    </action>
+    <action datetime="2005-05-16T14:48:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2107.</text>
+    </action>
+    <action datetime="2005-05-16T14:54:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2005-05-16T19:01:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3288" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-05-16T19:19:00-04:00" how="roll" result="pass" roll="173" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 392 - 0 (Roll no. 173).</text>
+      <reference ref="CR H3277" label="text"/>
+    </vote>
+    <action datetime="2005-05-16T19:19:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-05-17">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2005-09-27">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S10520-10521" label="consideration"/>
+    </action>
+    <action datetime="2005-09-27">
+      <text>Referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2005-11-15">
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 109-355.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2006-03-08">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2006-04-20">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Domenici under authority of the order of the Senate of 04/07/2006 without amendment. With written report No. 109-247.</text>
+    </action>
+    <calendar datetime="2006-04-20" calendar="Senate Legislative" under="General Orders" number="409">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 409.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="2006-09-29" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S10537" label="consideration"/>
+    </vote>
+    <action datetime="2006-09-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2006-09-29">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2006-10-02">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2006-10-06">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2006-10-06" type="public" number="109-314">
+      <text>Became Public Law No: 109-314.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Recreation, and Public Lands" name="House Resources"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="National Parks" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Crime and law enforcement"/>
+    <term name="District of Columbia"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Families"/>
+    <term name="Federal law enforcement officers"/>
+    <term name="Government operations and politics"/>
+    <term name="Higher education"/>
+    <term name="Law enforcement officers"/>
+    <term name="Maintenance and repair"/>
+    <term name="Monuments and memorials"/>
+    <term name="Nonprofit organizations"/>
+    <term name="Police"/>
+    <term name="Revolving funds"/>
+    <term name="Scholarships"/>
+    <term name="Social welfare"/>
+    <term name="Survivors' benefits"/>
+  </subjects>
+  <amendments/>
+  <summary>10/6/2006--Public Law.
+National Law Enforcement Officers Memorial Maintenance Fund Act of 2005 - Amends the United States Commemorative Coin Act of 1996 to direct the Secretary of the Interior, acting through the National Park Service, to: (1) enter into a cooperative agreement with the National Law Enforcement Officers Memorial Fund, Inc. (Corporation), to carry out the Fund's purposes (generally, maintaining and repairing the National Law Enforcement Officers Memorial in Washington, D.C., and periodically adding to it the names of law enforcement officers who have died in the line of duty); and (2) transfer all amounts in the Fund to the Corporation, in accordance with the terms of such agreement.Revises the purposes of the Fund to repeal: (1) authority to provide educational scholarships to immediate family members of law enforcement officers killed in the line of duty whose names appear on the Memorial; and (2) limitation of the Fund's use for its own administration to the lesser of ten percent of its annual income or $200,000 during any one-year period (including an emergency affecting the Memorial's operation).</summary>
+</bill>

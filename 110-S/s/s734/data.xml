@@ -1,0 +1,40 @@
+<bill session="110" type="s" number="734" updated="2013-07-19T22:26:38-04:00">
+  <state datetime="2007-03-01">REFERRED</state>
+  <status>
+    <introduced datetime="2007-03-01"/>
+  </status>
+  <introduced datetime="2007-03-01"/>
+  <titles>
+    <title as="introduced" type="short">AMT Rate Reduction Act of 2007</title>
+    <title as="introduced" type="official">A bill to amend the Internal Revenue Code of 1986 to reduce the rate of the tentative minimum tax for noncorporate taxpayers to 24 percent.</title>
+  </titles>
+  <sponsor id="300092"/>
+  <cosponsors>
+    <cosponsor id="300029" joined="2007-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2007-03-01">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2500-2501"/>
+    </action>
+    <action state="REFERRED" datetime="2007-03-01">
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <reference ref="CR S2501" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="h" number="2253"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax"/>
+    <term name="Minimum tax"/>
+    <term name="Tax rates"/>
+  </subjects>
+  <amendments/>
+  <summary>3/1/2007--Introduced.
+AMT Rate Reduction Act of 2007 - Amends the Internal Revenue Code to reduce to 24% the rate of the tentative alternative minimum tax for noncorporate taxpayers.</summary>
+</bill>

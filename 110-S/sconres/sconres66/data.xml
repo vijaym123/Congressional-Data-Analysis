@@ -1,0 +1,68 @@
+<bill session="110" type="sc" number="66" updated="2013-07-19T22:19:54-04:00">
+  <state datetime="2008-03-10">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2008-03-10"/>
+  </status>
+  <introduced datetime="2008-02-07"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution commemorating the 175th anniversary of the commencement of the special relationship between the United States and the Kingdom of Thailand.</title>
+  </titles>
+  <sponsor id="412249"/>
+  <cosponsors>
+    <cosponsor id="300008" joined="2008-02-07"/>
+    <cosponsor id="300011" joined="2008-02-07"/>
+    <cosponsor id="300034" joined="2008-02-07"/>
+    <cosponsor id="300050" joined="2008-02-07"/>
+    <cosponsor id="300070" joined="2008-02-07"/>
+    <cosponsor id="300075" joined="2008-02-07"/>
+    <cosponsor id="300099" joined="2008-02-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2008-02-07">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S796-797"/>
+    </action>
+    <action state="REFERRED" datetime="2008-02-07">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S796" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2008-03-10">
+      <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+      <reference ref="CR S1822" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2008-03-10" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S1822" label="text"/>
+    </vote>
+    <action datetime="2008-03-11T10:32:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2008-03-11T13:04:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2008-03-11">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="hc" number="290"/>
+    <bill relation="unknown" session="110" type="hc" number="290"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Congressional tributes"/>
+    <term name="Democracy"/>
+    <term name="East Asia"/>
+    <term name="Foreign leaders"/>
+    <term name="Government operations and politics"/>
+    <term name="International affairs"/>
+    <term name="Thailand"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/2008--Passed Senate without amendment.
+Commemorates: (1) the 175th anniversary of relations between the United States and the Kingdom of Thailand; and (2) the 80th birthday of His Majesty King Bhumibol Adulyadej of Thailand.</summary>
+</bill>

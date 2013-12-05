@@ -1,0 +1,63 @@
+<bill session="110" type="s" number="2838" updated="2013-07-19T22:46:03-04:00">
+  <state datetime="2008-09-11">REPORTED</state>
+  <status>
+    <unknown datetime="2008-09-11"/>
+  </status>
+  <introduced datetime="2008-04-09"/>
+  <titles>
+    <title as="introduced" type="short">Fairness in Nursing Home Arbitration Act</title>
+    <title as="reported to senate" type="short">Fairness in Nursing Home Arbitration Act</title>
+    <title as="introduced" type="official">A bill to amend chapter 1 of title 9 of United States Code with respect to arbitration.</title>
+  </titles>
+  <sponsor id="400621"/>
+  <cosponsors>
+    <cosponsor id="300038" joined="2008-07-10"/>
+    <cosponsor id="300042" joined="2008-06-11"/>
+    <cosponsor id="300061" joined="2008-04-09"/>
+    <cosponsor id="300065" joined="2008-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2008-04-09">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2819-2820"/>
+    </action>
+    <action state="REFERRED" datetime="2008-04-09">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2008-06-18">
+      <text>Committees on Aging. Joint hearings held with Committee on the Judiciary, Subcommittee on Antitrust, Competition Policy and Consumer Rights. Hearings printed: S.Hrg. 110-618.</text>
+      <committee name="Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-09-11">
+      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2008-10-01">
+      <text>Committee on the Judiciary. Reported by Senator Leahy without amendment. With written report No. 110-518. Minority views filed.</text>
+    </action>
+    <calendar datetime="2008-10-01" calendar="Senate Legislative" under="General Orders" number="1109">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1109.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="SPAG" name="Senate Aging (Special)" activity="Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="6126"/>
+    <bill relation="unknown" session="110" type="h" number="6126"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Commercial arbitration"/>
+    <term name="Contracts"/>
+    <term name="Health"/>
+    <term name="Long-term care"/>
+    <term name="Nursing homes"/>
+    <term name="Patients' rights"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>10/1/2008--Reported to Senate without amendment.
+Fairness in Nursing Home Arbitration Act - Provides that a pre-dispute arbitration agreement between a long-term care facility and a resident (or anyone acting on the resident's behalf) shall not be valid or specifically enforceable.</summary>
+</bill>

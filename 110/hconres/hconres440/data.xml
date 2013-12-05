@@ -1,0 +1,65 @@
+<bill session="110" type="hc" number="440" updated="2013-07-19T22:12:33-04:00">
+  <state datetime="2008-10-02T19:14:00-04:00">PASSED:BILL</state>
+  <status>
+    <unknown datetime="2008-10-02T19:14:00-04:00"/>
+  </status>
+  <introduced datetime="2008-09-29"/>
+  <titles>
+    <title as="introduced" type="official">Providing for an adjournment or recess of the two Houses.</title>
+  </titles>
+  <sponsor id="400263"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2008-09-29T08:46:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H10335-10336" label="consideration"/>
+    </action>
+    <action datetime="2008-09-29T08:47:00-04:00">
+      <text>The previous question was ordered without objection.</text>
+      <reference ref="CR H10335" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-09-29T09:06:00-04:00" how="roll" result="pass" roll="672" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 213 - 211 (Roll no. 672).</text>
+      <reference ref="CR H10335" label="text"/>
+    </vote>
+    <action datetime="2008-09-29T09:06:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-09-29">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2008-10-02">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S10504" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2008-10-02" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S10504" label="text"/>
+    </vote>
+    <action datetime="2008-10-02T19:14:00-04:00">
+      <text>The Chair laid before the House a privileged message from the Senate and moved to agree to the Senate amendments.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2008-10-02T19:14:00-04:00" how="without objection" result="pass" type="pingpong" where="h">
+      <text>On motion that the House agree to the Senate amendments Agreed to without objection.</text>
+      <reference ref="CR H10686" label="consideration"/>
+      <reference ref="CR H10686" label="text as House agreed to Senate amendment"/>
+    </vote>
+    <action datetime="2008-10-02T19:14:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-10-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional operations and organization"/>
+  </subjects>
+  <amendments>
+    <amendment number="s5692"/>
+  </amendments>
+  <summary>10/2/2008--Passed Senate amended.
+Declares that, when the House adjourns on any legislative day from Monday, September 29, 2008, through Friday, October 3, 2008, it stand adjourned until 11 a.m. on Saturday, January 3, 2009. Declares that the Senate may recess or adjourn on any day from Thursday, October 2, 2008, through January 3, 2009, but not beyond 12 p.m. on Saturday, January 3, 2009.</summary>
+</bill>

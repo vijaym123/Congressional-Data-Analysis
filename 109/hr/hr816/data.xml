@@ -1,0 +1,77 @@
+<bill session="109" type="h" number="816" updated="2013-07-19T19:11:23-04:00">
+  <state datetime="2005-03-14T14:27:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-03-14T14:27:00-05:00"/>
+  </status>
+  <introduced datetime="2005-02-15"/>
+  <titles>
+    <title as="introduced" type="short">Nevada National Forest Land Disposal Act of 2005</title>
+    <title as="passed house" type="short">Nevada National Forest Land Disposal Act of 2005</title>
+    <title as="introduced" type="official">To direct the Secretary of Agriculture to sell certain parcels of National Forest System land in Carson City and Douglas County, Nevada.</title>
+  </titles>
+  <sponsor id="400148"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-02-15">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-02-28">
+      <text>Referred to the Subcommittee on Forests and Forest Health.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-03-14T14:24:00-05:00">
+      <text>Mr. Jones (NC) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2005-03-14T14:25:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1378-1379" label="consideration"/>
+    </action>
+    <action datetime="2005-03-14T14:25:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 816.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-03-14T14:27:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H1378-1379" label="text"/>
+    </vote>
+    <action datetime="2005-03-14T14:27:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-03-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2005-05-11">
+      <text>Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 109-104.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII20" subcommittee="Forests and Forest Health" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="235"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Emergency management"/>
+    <term name="Fire fighters"/>
+    <term name="Forest fires"/>
+    <term name="Land transfers"/>
+    <term name="Maintenance and repair"/>
+    <term name="National forests"/>
+    <term name="Nevada"/>
+    <term name="Parks"/>
+    <term name="Sports and recreation"/>
+    <term name="Trails"/>
+    <term name="Water districts"/>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+  <summary>3/14/2005--Passed House without amendment.
+Nevada National Forest Land Disposal Act of 2005 - Authorizes the Secretary of Agriculture to sell any right, title, or interest of the United States in and to certain parcels of National Forest System lands in Carson City and Douglas County, Nevada. Requires the Secretary to coordinate such sales with the relevant unit of local government. Provides that the sale of such land shall be subject to existing rights in effect on the date of sale. Sets forth percentages of the gross proceeds from sales under this Act that shall be earmarked for: (1) the State of Nevada general education program; (2) the Carson Water Subconservancy District in Nevada; (3) the fund established in the Sisk Act, to be used for land sales costs and for the development and maintenance of parks, trails, and natural areas in specified Nevada counties; and (4) the Minden Interagency Dispatch Center in Minden, Nevada. Declares that the lands authorized to be sold under this Act shall not be subject to specified Federal law pertaining to property management.</summary>
+</bill>

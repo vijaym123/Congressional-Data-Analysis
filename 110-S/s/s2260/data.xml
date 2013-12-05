@@ -1,0 +1,63 @@
+<bill session="110" type="s" number="2260" updated="2013-07-19T22:40:28-04:00">
+  <state datetime="2007-12-19">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2007-12-19"/>
+  </status>
+  <introduced datetime="2007-10-30"/>
+  <titles>
+    <title as="introduced" type="official">A bill to extend the existing provisions regarding the eligibility for essential air service subsidies through fiscal year 2008.</title>
+  </titles>
+  <sponsor id="400546"/>
+  <cosponsors>
+    <cosponsor id="400064" joined="2007-10-30"/>
+    <cosponsor id="412246" joined="2007-10-30"/>
+    <cosponsor id="300058" joined="2007-10-30"/>
+    <cosponsor id="300073" joined="2007-10-30"/>
+    <cosponsor id="300092" joined="2007-10-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-10-30">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <action datetime="2007-12-19">
+      <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text>
+      <reference ref="CR 12/18/2007 S15939-15940" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2007-12-19" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR 12/18/2007 S15940" label="text"/>
+    </vote>
+    <action datetime="2007-12-19T10:04:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2007-12-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2007-12-19T15:21:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="922"/>
+    <bill relation="unknown" session="110" type="s" number="1934"/>
+    <bill relation="identical" session="110" type="s" number="2265"/>
+    <bill relation="unknown" session="110" type="s" number="2265"/>
+    <bill relation="unknown" session="110" type="s" number="2265"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Access to airports"/>
+    <term name="Airline passenger traffic"/>
+    <term name="Airlines"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to transportation"/>
+    <term name="Housing and community development"/>
+    <term name="Subsidies"/>
+  </subjects>
+  <amendments/>
+  <summary>12/19/2007--Passed Senate without amendment.
+Amends the Vision 100--Century of Aviation Reauthorization Act to extend through FY2008 the effectiveness of any final order of the Secretary of Transportation, including exisitng final orders, with respect to the eligibility for essential air service subsidies of any place in the United States based on highway mileage between it and the nearest medium hub airport or large hub airport.</summary>
+</bill>

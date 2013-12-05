@@ -1,0 +1,92 @@
+<bill session="110" type="h" number="4220" updated="2013-07-19T21:40:50-04:00">
+  <state datetime="2007-12-17T13:40:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-12-17T13:40:00-05:00"/>
+  </status>
+  <introduced datetime="2007-11-15"/>
+  <titles>
+    <title as="introduced" type="short">Federal Food Donation Act of 2007</title>
+    <title as="passed house" type="short">Federal Food Donation Act of 2007</title>
+    <title as="introduced" type="official">To encourage the donation of excess food to nonprofit organizations that provide assistance to food-insecure people in the United States in contracts entered into by executive agencies for the provision, service, or sale of food.</title>
+  </titles>
+  <sponsor id="400121"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2007-12-11"/>
+    <cosponsor id="400119" joined="2007-12-11"/>
+    <cosponsor id="400653" joined="2007-12-17"/>
+    <cosponsor id="400195" joined="2007-12-12"/>
+    <cosponsor id="400231" joined="2007-12-12"/>
+    <cosponsor id="400257" joined="2007-12-17"/>
+    <cosponsor id="400263" joined="2007-11-15"/>
+    <cosponsor id="400284" joined="2007-11-15"/>
+    <cosponsor id="400287" joined="2007-12-06"/>
+    <cosponsor id="400291" joined="2007-12-04"/>
+    <cosponsor id="400385" joined="2007-12-11"/>
+    <cosponsor id="412229" joined="2007-12-17"/>
+    <cosponsor id="400400" joined="2007-12-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2007-11-15">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E2451-2452"/>
+    </action>
+    <action state="REFERRED" datetime="2007-11-15">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2007-12-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-12-12">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2007-12-17T13:24:00-05:00">
+      <text>Ms. Norton moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-12-17T13:24:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H15484-15488" label="consideration"/>
+    </action>
+    <action datetime="2007-12-17T13:24:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4220.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-12-17T13:40:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H15484" label="text"/>
+    </vote>
+    <action datetime="2007-12-17T13:40:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-12-18">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2008-01-22">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="2420"/>
+    <bill relation="unknown" session="110" type="s" number="2420"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Agriculture and food"/>
+    <term name="Food relief"/>
+    <term name="Government contractors"/>
+    <term name="Government procurement"/>
+    <term name="Law"/>
+    <term name="Leases"/>
+    <term name="Liability (Law)"/>
+    <term name="Nonprofit organizations"/>
+    <term name="Social welfare"/>
+    <term name="Surplus government property"/>
+  </subjects>
+  <amendments/>
+  <summary>12/17/2007--Passed House amended.
+Federal Food Donation Act of 2007 - Revises the Federal Acquisition Regulation to provide that each contract in an amount greater than $25,000 for the provision, service, or sale of food, or for the lease or rental of federal property to a private entity for events at which food is provided shall include a clause that: (1) encourages the donation of excess, apparently wholesome food to nonprofit organizations that provide assistance to food-insecure people; (2) provides that the head of an executive agency shall not assume responsibility for the costs and logistics of collecting, transporting, maintaining the safety of, or distributing such food; and (3) states that executive agencies and contractors making donations are protected from civil or criminal liability under the Bill Emerson Good Samaritan Food Donation Act.</summary>
+</bill>

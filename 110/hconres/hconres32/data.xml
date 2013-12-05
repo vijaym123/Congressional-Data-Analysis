@@ -1,0 +1,132 @@
+<bill session="110" type="hc" number="32" updated="2013-07-19T22:09:04-04:00">
+  <state datetime="2008-06-24">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2008-06-24"/>
+  </status>
+  <introduced datetime="2007-01-12"/>
+  <titles>
+    <title as="introduced" type="official">Honoring the members of the United States Air Force who were killed in the June 25, 1996, terrorist bombing of the Khobar Towers United States military housing compound near Dhahran, Saudi Arabia.</title>
+  </titles>
+  <sponsor id="400279"/>
+  <cosponsors>
+    <cosponsor id="400016" joined="2008-03-05"/>
+    <cosponsor id="400026" joined="2008-02-07"/>
+    <cosponsor id="412250" joined="2008-03-05"/>
+    <cosponsor id="400040" joined="2008-02-12"/>
+    <cosponsor id="400041" joined="2007-09-07"/>
+    <cosponsor id="400044" joined="2008-01-28"/>
+    <cosponsor id="400055" joined="2007-09-07"/>
+    <cosponsor id="400056" joined="2008-03-05"/>
+    <cosponsor id="400076" joined="2007-12-12"/>
+    <cosponsor id="412236" joined="2007-12-12"/>
+    <cosponsor id="400655" joined="2008-01-28"/>
+    <cosponsor id="400633" joined="2007-12-12"/>
+    <cosponsor id="400658" joined="2007-12-12"/>
+    <cosponsor id="400123" joined="2007-09-25"/>
+    <cosponsor id="400137" joined="2007-12-12"/>
+    <cosponsor id="400144" joined="2007-09-07"/>
+    <cosponsor id="400151" joined="2007-12-12"/>
+    <cosponsor id="400152" joined="2007-09-17"/>
+    <cosponsor id="400172" joined="2007-12-12"/>
+    <cosponsor id="400209" joined="2008-02-07"/>
+    <cosponsor id="400219" joined="2007-09-07"/>
+    <cosponsor id="400221" joined="2008-02-12"/>
+    <cosponsor id="400222" joined="2007-12-12"/>
+    <cosponsor id="400229" joined="2007-12-12"/>
+    <cosponsor id="412197" joined="2007-09-07"/>
+    <cosponsor id="400254" joined="2007-12-12"/>
+    <cosponsor id="400654" joined="2007-12-12"/>
+    <cosponsor id="400263" joined="2007-12-12"/>
+    <cosponsor id="400264" joined="2007-12-12"/>
+    <cosponsor id="400659" joined="2008-01-29"/>
+    <cosponsor id="400273" joined="2007-12-12"/>
+    <cosponsor id="412187" joined="2008-01-29"/>
+    <cosponsor id="412233" joined="2007-12-12"/>
+    <cosponsor id="400288" joined="2007-09-07"/>
+    <cosponsor id="400328" joined="2007-10-17"/>
+    <cosponsor id="400337" joined="2008-01-28"/>
+    <cosponsor id="400342" joined="2008-01-22"/>
+    <cosponsor id="400343" joined="2007-12-12"/>
+    <cosponsor id="400345" joined="2008-03-05"/>
+    <cosponsor id="400359" joined="2007-12-12"/>
+    <cosponsor id="400367" joined="2007-09-07"/>
+    <cosponsor id="400370" joined="2008-01-22"/>
+    <cosponsor id="400383" joined="2008-02-07"/>
+    <cosponsor id="400386" joined="2008-02-07"/>
+    <cosponsor id="400405" joined="2007-12-12"/>
+    <cosponsor id="400411" joined="2007-12-12"/>
+    <cosponsor id="400427" joined="2007-09-24"/>
+    <cosponsor id="400433" joined="2007-12-12"/>
+    <cosponsor id="400435" joined="2007-09-07"/>
+    <cosponsor id="400439" joined="2008-01-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-12">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2007-02-01">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+    <action datetime="2008-05-20T12:08:00-04:00">
+      <text>Mrs. Davis (CA) moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2008-05-20T12:08:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4182-4183" label="consideration"/>
+    </action>
+    <action datetime="2008-05-20T12:08:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 32.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-05-20T12:18:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4182" label="text"/>
+    </vote>
+    <action datetime="2008-05-20T12:18:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-05-21">
+      <text>Received in the Senate and referred to the Committee on Armed Services.</text>
+    </action>
+    <action datetime="2008-06-24">
+      <text>Senate Committee on Armed Services discharged by Unanimous Consent.</text>
+      <reference ref="CR S6082" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2008-06-24" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2008-06-25">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="sc" number="90"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Air force"/>
+    <term name="Anniversaries"/>
+    <term name="Armed forces abroad"/>
+    <term name="Armed forces and national security"/>
+    <term name="Bombings"/>
+    <term name="Congressional tributes"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Housing and community development"/>
+    <term name="International affairs"/>
+    <term name="Middle East and North Africa"/>
+    <term name="Military bases"/>
+    <term name="Military housing"/>
+    <term name="Military personnel"/>
+    <term name="Saudi Arabia"/>
+    <term name="Terrorism"/>
+    <term name="Victims of terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>6/24/2008--Passed Senate without amendment.
+Recognizes, on the 12th anniversary of that attack, the service and sacrifice of the 19 members of the U.S. Air Force who died in the terrorist bombing of the Khobar Towers U.S. military housing compound in Dhahran, Saudi Arabia. Calls upon every American to pause and pay tribute to those brave airmen. Extends the continued sympathies of Congress to the families of those who died. Assures the members of the Armed Forces serving anywhere in the world that their well-being and interests will at all times be given the highest priority.</summary>
+</bill>

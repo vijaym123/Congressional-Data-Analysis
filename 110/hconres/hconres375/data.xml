@@ -1,0 +1,63 @@
+<bill session="110" type="hc" number="375" updated="2013-07-19T22:11:59-04:00">
+  <state datetime="2008-07-09T12:03:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-07-09T12:03:00-04:00"/>
+  </status>
+  <introduced datetime="2008-06-20"/>
+  <titles>
+    <title as="introduced" type="official">To honor the goal of the International Year of Astronomy, and for other purposes.</title>
+  </titles>
+  <sponsor id="412188"/>
+  <cosponsors>
+    <cosponsor id="400089" joined="2008-07-09"/>
+    <cosponsor id="400195" joined="2008-07-09"/>
+    <cosponsor id="400204" joined="2008-07-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-06-20">
+      <text>Referred to the House Committee on Science and Technology.</text>
+    </action>
+    <action datetime="2008-07-09T11:50:00-04:00">
+      <text>Mr. Lampson moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2008-07-09T11:50:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6252-6254" label="consideration"/>
+    </action>
+    <action datetime="2008-07-09T11:50:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 375.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-07-09T12:03:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H6252-6253" label="text"/>
+    </vote>
+    <action datetime="2008-07-09T12:03:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-07-10">
+      <text>Received in the Senate and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science and Technology" activity="Referral"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Astronomy"/>
+    <term name="Congressional tributes"/>
+    <term name="Federal employees"/>
+    <term name="Government operations and politics"/>
+    <term name="Laboratories"/>
+    <term name="National Aeronautics and Space Administration"/>
+    <term name="National Science Foundation"/>
+    <term name="Research centers"/>
+    <term name="Science, technology, communications"/>
+    <term name="Space activities"/>
+    <term name="Special years"/>
+  </subjects>
+  <amendments/>
+  <summary>7/9/2008--Passed House without amendment.
+Honors the goal of the International Year of Astronomy (IYA) to celebrate astronomical discoveries.Encourages the public to participate in IYA celebrations and activities, and discover more about the Universe and the science of astronomy.Applauds the efforts of the employees, centers, and laboratories of the National Aeronautics and Space Administration (NASA) and the National Science Foundation (NSF) in promoting public understanding of the astronomical sciences during the IYA celebration.</summary>
+</bill>

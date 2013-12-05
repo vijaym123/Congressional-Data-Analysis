@@ -1,0 +1,97 @@
+<bill session="109" type="h" number="5295" updated="2013-07-19T19:51:07-04:00">
+  <state datetime="2006-09-19T18:14:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-09-19T18:14:00-04:00"/>
+  </status>
+  <introduced datetime="2006-05-04"/>
+  <titles>
+    <title as="introduced" type="short">Student and Teacher Safety Act of 2006</title>
+    <title as="passed house" type="short">Student and Teacher Safety Act of 2006</title>
+    <title as="introduced" type="official">To protect students and teachers.</title>
+  </titles>
+  <sponsor id="400633"/>
+  <cosponsors>
+    <cosponsor id="400027" joined="2006-09-19"/>
+    <cosponsor id="400636" joined="2006-09-12"/>
+    <cosponsor id="400068" joined="2006-09-19"/>
+    <cosponsor id="400123" joined="2006-09-19"/>
+    <cosponsor id="400646" joined="2006-09-12"/>
+    <cosponsor id="400147" joined="2006-09-13"/>
+    <cosponsor id="400213" joined="2006-09-12"/>
+    <cosponsor id="400214" joined="2006-09-19"/>
+    <cosponsor id="400222" joined="2006-05-04"/>
+    <cosponsor id="400642" joined="2006-05-04"/>
+    <cosponsor id="400241" joined="2006-09-12"/>
+    <cosponsor id="400324" joined="2006-09-14"/>
+    <cosponsor id="400370" joined="2006-09-14"/>
+    <cosponsor id="400373" joined="2006-09-13"/>
+    <cosponsor id="409888" joined="2006-09-19"/>
+    <cosponsor id="400385" joined="2006-09-19"/>
+    <cosponsor id="400428" joined="2006-09-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-05-04">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2006-05-24">
+      <text>Referred to the Subcommittee on Education Reform.</text>
+      <committee name="House Committee on Education and the Workforce"/>
+    </action>
+    <action datetime="2006-09-19T17:35:00-04:00">
+      <text>Mr. Kuhl (NY) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2006-09-19T17:36:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6695-6700" label="consideration"/>
+    </action>
+    <action datetime="2006-09-19T17:36:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5295.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-09-19T18:14:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6695" label="text"/>
+    </vote>
+    <action datetime="2006-09-19T18:14:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-09-20">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED14" subcommittee="Education Reform" name="House Education and the Workforce"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Child safety"/>
+    <term name="Citizenship education"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Drug abuse"/>
+    <term name="Drugs and youth"/>
+    <term name="Economics and public finance"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Elementary education"/>
+    <term name="Environmental protection"/>
+    <term name="Evidence (Law)"/>
+    <term name="Families"/>
+    <term name="Federal aid to education"/>
+    <term name="Firearms"/>
+    <term name="Law"/>
+    <term name="Minors"/>
+    <term name="School districts"/>
+    <term name="School personnel"/>
+    <term name="School security"/>
+    <term name="Searches and seizures"/>
+    <term name="Secondary education"/>
+    <term name="Standards"/>
+    <term name="Students' rights"/>
+    <term name="Teachers"/>
+    <term name="Weapons"/>
+  </subjects>
+  <amendments/>
+  <summary>9/19/2006--Passed House amended.
+Student and Teacher Safety Act of 2006 - Requires local educational agencies to have in effect policies that deem to be reasonable and permissible a search of any minor student on public school grounds if conducted by a full-time teacher or school official, acting on any reasonable suspicion based on professional experience and judgment, to ensure that the school and students remain free from the threat of all weapons, dangerous materials, or illegal narcotics. Requires search measures to be reasonably related to search objectives, without being excessively intrusive in light of the nature of the offense and the student's age and sex. Denies Safe and Drug Free School funds, provided under the Elementary and Secondary Education Act of 1965, to local educational agencies that fail to comply with this Act.</summary>
+</bill>

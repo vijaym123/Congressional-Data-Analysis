@@ -1,0 +1,150 @@
+<bill session="110" type="s" number="2606" updated="2013-07-19T22:43:52-04:00">
+  <state datetime="2008-10-08">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2008-10-08"/>
+  </status>
+  <introduced datetime="2008-02-07"/>
+  <titles>
+    <title as="introduced" type="short">United States Fire Administration Reauthorization Act of 2008</title>
+    <title as="passed house" type="short">United States Fire Administration Reauthorization Act of 2008</title>
+    <title as="reported to senate" type="short">United States Fire Administration Reauthorization Act of 2008</title>
+    <title as="passed senate" type="short">United States Fire Administration Reauthorization Act of 2008</title>
+    <title as="enacted" type="short">United States Fire Administration Reauthorization Act of 2008</title>
+    <title as="introduced" type="official">A bill to reauthorize the United States Fire Administration, and for other purposes.</title>
+  </titles>
+  <sponsor id="300034"/>
+  <cosponsors>
+    <cosponsor id="300008" joined="2008-02-07"/>
+    <cosponsor id="300019" joined="2008-03-11"/>
+    <cosponsor id="300022" joined="2008-03-04"/>
+    <cosponsor id="300024" joined="2008-03-11"/>
+    <cosponsor id="300025" joined="2008-02-07"/>
+    <cosponsor id="300058" joined="2008-05-07"/>
+    <cosponsor id="300067" joined="2008-03-07"/>
+    <cosponsor id="300071" joined="2008-02-07"/>
+    <cosponsor id="412243" joined="2008-03-12"/>
+    <cosponsor id="300073" joined="2008-03-06"/>
+    <cosponsor id="400357" joined="2008-03-05"/>
+    <cosponsor id="300092" joined="2008-06-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2008-02-07">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S787-788"/>
+    </action>
+    <action state="REFERRED" datetime="2008-02-07">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <reference ref="CR S788-789" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-04-10">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2008-07-10">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 110-411.</text>
+    </action>
+    <calendar datetime="2008-07-10" calendar="Senate Legislative" under="General Orders" number="868">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 868.</text>
+    </calendar>
+    <action datetime="2008-09-18">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S9166-9167" label="consideration"/>
+      <reference ref="CR S9166-9167" label="text as reported in Senate"/>
+    </action>
+    <action datetime="2008-09-18">
+      <text>The committee substitute as amended agreed to by Unanimous Consent.</text>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2008-09-18" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2008-09-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2008-09-22T10:48:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2008-09-22T13:23:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2008-09-22T15:54:00-04:00">
+      <text>Ms. Edwards (MD) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2008-09-22T15:54:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8534-8538" label="consideration"/>
+    </action>
+    <action datetime="2008-09-22T15:54:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 2606.</text>
+    </action>
+    <action datetime="2008-09-22T16:00:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2008-09-24T19:08:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H9365-9366" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2008-09-24T19:13:00-04:00" how="roll" result="pass" roll="636" type="vote2" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 2 (Roll no. 636).</text>
+      <reference ref="CR 9/22/2008 H8534-8536" label="text"/>
+    </vote>
+    <action datetime="2008-09-24T19:13:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2008-09-24">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2008-09-29">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2008-10-08">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2008-10-08" type="public" number="110-376">
+      <text>Became Public Law No: 110-376.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="4847"/>
+    <bill relation="unknown" session="110" type="h" number="4847"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Authorization"/>
+    <term name="Curricula"/>
+    <term name="Data banks"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Economics and public finance"/>
+    <term name="Emergency medicine"/>
+    <term name="Employee training"/>
+    <term name="Environmental protection"/>
+    <term name="Federal Emergency Management Agency"/>
+    <term name="Federal-local relations"/>
+    <term name="Federal-state relations"/>
+    <term name="Fire fighters"/>
+    <term name="Fire prevention"/>
+    <term name="Fires"/>
+    <term name="Forest fires"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Government publicity"/>
+    <term name="Health"/>
+    <term name="Housing and community development"/>
+    <term name="Labor and employment"/>
+    <term name="Land use"/>
+    <term name="Marine safety"/>
+    <term name="Marine terminals"/>
+    <term name="Occupational health and safety"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Science, technology, communications"/>
+    <term name="Standards"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments>
+    <amendment number="s5631"/>
+  </amendments>
+  <summary>9/24/2008--Public Law.
+United States Fire Administration Reauthorization Act of 2008 - (Sec. 3) Amends the Federal Fire Prevention and Control Act of 1974 to authorize appropriations for the U.S. Fire Administration (USFA) for FY2009-FY2012. (Sec. 4) Authorizes the Superintendent of the National Academy for Fire Prevention and Control to include within fire service personnel training: (1) tactics and strategies for dealing with natural disasters, acts of terrorism, and other man-made disasters; (2) applying new technology and developing strategies and tactics for fighting wildfires; (3) tactics and strategies for fighting large-scale or multiple fires in a general area that cross jurisdictional boundaries, fires occurring at the wildland-urban interface, and fires involving hazardous materials; and (4) advanced emergency medical services training.Increases (from 4% to 7.5%) the percentage of authorized USFA appropriations that may be used for assistance to state and local fire service training programs. Authorizes the Superintendent to conduct on-site training. Authorizes the Administrator of USFA to contract with nationally recognized organizations that have established on-site training programs that comply with national voluntary consensus standards for fire service personnel to facilitate the delivery of USFA education and training programs directly to such personnel. Prohibits the Administrator from: (1) contracting with an organization unless it provides training that leads to certification by a nationally recognized accreditation organization or an equivalent program; and (2) expending, in any fiscal year, sums exceeding 7.5% of authorized USFA appropriations for on-site training.Requires the Administrator to: (1) include in every third annual report information about changes made to the National Fire Academy curriculum; and (2) report on the feasibility of providing training in incident command for appropriate fire service personnel for fires at U.S. ports and in marine environments, including fires on the water and aboard vessels.(Sec. 5) Directs the Administrator to update the National Fire Incident Reporting system to ensure that the information in the system is available, and can be updated, through the Internet and in real time. (Sec. 6) Authorizes the Administrator to coordinate with the Secretary of Agriculture, the Secretary of the Interior, and the Wildland Fire Leadership Council, in assisting the nation's fire services in rural and remote areas. Provides for such assistance to include: (1) sponsoring and encouraging research into land-use policies; and (2) assistance to improve fire prevention and control in the wildland-urban interface. Requires the Administrator, for each fire-related research program funded, to make available to the public on USFA's website: (1) a description of such research program, including its scope, methodology, and goals; (2) information that identifies the individuals or institutions conducting the program; (3) the amount of funding provided by USFA; and (4) the results or findings. Sets forth deadlines for the publication of such information.(Sec. 7) Requires the Administrator to promote adoption by fire services of voluntary national consensus standards for firefighter health and safety.(Sec. 8) Directs the Secretary of Homeland Security to: (1) establish a fire service position at the National Operations Center to ensure the effective sharing of information between the federal government and state and local fire services; and (2) designate a state or local fire service official for that position on a rotating basis.(Sec. 9) Includes among the Administrator's coordination responsibilities to provide liaison to assure coordination related to emergency medical services (EMS) provided by fire service-based systems with federal, state, and local government agencies and nongovernmental organizations, as well as entities concerned with EMS generally. Authorizes the Administrator to conduct studies of the operations and management aspects of fire service-based EMS and coordination between EMS and fire services, which may include optimum protocols for on-scene care, resource allocation, and training requirements.(Sec. 11) Expresses support for USFA recommendations regarding the adoption of fire sprinklers in commercial buildings and educational programs to raise awareness of the importance of installing fire sprinklers in residential buildings.</summary>
+</bill>

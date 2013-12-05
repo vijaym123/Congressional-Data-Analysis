@@ -1,0 +1,92 @@
+<bill session="109" type="h" number="5323" updated="2013-07-19T19:51:21-04:00">
+  <state datetime="2006-09-25T16:59:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-09-25T16:59:00-04:00"/>
+  </status>
+  <introduced datetime="2006-05-09"/>
+  <titles>
+    <title as="introduced" type="short">Proud to Be an American Citizen Act</title>
+    <title as="reported to house" type="short">Proud to Be an American Citizen Act</title>
+    <title as="passed house" type="short">Proud to Be an American Citizen Act</title>
+    <title as="introduced" type="official">To require the Secretary of Homeland Security to provide for ceremonies on or near Independence Day for administering oaths of allegiance to legal immigrants whose applications for naturalization have been approved.</title>
+  </titles>
+  <sponsor id="400129"/>
+  <cosponsors>
+    <cosponsor id="400180" joined="2006-05-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-05-09">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2006-06-05">
+      <text>Referred to the Subcommittee on Immigration, Border Security, and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2006-06-27">
+      <text>Subcommittee on Immigration, Border Security, and Claims Discharged.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2006-06-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2006-06-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-06-29">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2006-07-17T22:18:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 109-576.</text>
+    </action>
+    <calendar datetime="2006-07-17T22:18:00-04:00" calendar="Union" number="331">
+      <text>Placed on the Union Calendar, Calendar No. 331.</text>
+    </calendar>
+    <action datetime="2006-09-25T16:54:00-04:00">
+      <text>Mr. Sensenbrenner moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2006-09-25T16:55:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6971-6972" label="consideration"/>
+    </action>
+    <action datetime="2006-09-25T16:55:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5323.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-09-25T16:59:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6971" label="text"/>
+    </vote>
+    <action datetime="2006-09-25T16:59:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-09-26">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2006-11-13">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSJU01" subcommittee="Immigration, Border Security, and Claims" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Citizenship"/>
+    <term name="Commemorations"/>
+    <term name="Economics and public finance"/>
+    <term name="Fourth of July"/>
+    <term name="Government operations and politics"/>
+    <term name="Grants-in-aid"/>
+    <term name="Naturalization"/>
+    <term name="Nonprofit organizations"/>
+    <term name="Oaths"/>
+  </subjects>
+  <amendments/>
+  <summary>9/25/2006--Passed House amended.
+Proud to Be an American Citizen Act - Directs the Secretary of Homeland Security to make funds available annually to the Director of U.S. Citizenship and Immigration Services or to approved public or private nonprofit entities to support public ceremonies for administering oaths of allegiance to naturalizing legal immigrants. States that such ceremonies shall: (1) be held on a date that is on or near Independence Day; and (2) include appropriate outreach, ceremonial, and celebratory activities. Specifies: (1) ceremony fund limits ($5,000); and (2) permitted fund uses.</summary>
+</bill>

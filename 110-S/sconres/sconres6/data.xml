@@ -1,0 +1,60 @@
+<bill session="110" type="sc" number="6" updated="2013-07-19T22:19:20-04:00">
+  <state datetime="2007-05-23">REPORTED</state>
+  <status>
+    <unknown datetime="2007-05-23"/>
+  </status>
+  <introduced datetime="2007-01-31"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution expressing the sense of Congress that the National Museum of Wildlife Art, located in Jackson, Wyoming, should be designated as the "National Museum of Wildlife Art of the United States".</title>
+  </titles>
+  <sponsor id="300041"/>
+  <cosponsors>
+    <cosponsor id="300097" joined="2007-01-31"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-31">
+      <text>Referred to the Committee on Energy and Natural Resources.</text>
+      <reference ref="CR S1464" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2007-03-20">
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 110-73.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-05-23">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2007-06-26">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment and with a preamble. With written report No. 110-100.</text>
+    </action>
+    <calendar datetime="2007-06-26" calendar="Senate Legislative" under="General Orders" number="230">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 230.</text>
+    </calendar>
+    <action datetime="2008-06-11">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+      <reference ref="CR S5530" label="consideration"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="National Parks" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="hc" number="116"/>
+    <bill relation="unknown" session="110" type="hc" number="116"/>
+    <bill relation="unknown" session="110" type="s" number="2739"/>
+  </relatedbills>
+  <subjects>
+    <term name="Arts, culture, religion"/>
+    <term name="Animals"/>
+    <term name="Art"/>
+    <term name="Commemorations"/>
+    <term name="Museums"/>
+    <term name="Names"/>
+    <term name="Wildlife"/>
+    <term name="Wyoming"/>
+  </subjects>
+  <amendments/>
+  <summary>6/26/2007--Reported to Senate without amendment.
+Expresses the sense of Congress that the National Museum of Wildlife Art, located at 2820 Rungius Road, Jackson, Wyoming, should be designated as the "National Museum of Wildlife Art of the United States."</summary>
+</bill>

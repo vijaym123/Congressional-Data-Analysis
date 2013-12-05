@@ -1,0 +1,55 @@
+<bill session="109" type="s" number="1102" updated="2013-07-19T20:23:05-04:00">
+  <state datetime="2005-11-17">REPORTED</state>
+  <status>
+    <unknown datetime="2005-11-17"/>
+  </status>
+  <introduced datetime="2005-05-23"/>
+  <titles>
+    <title as="introduced" type="official">A bill to extend the aviation war risk insurance program for 3 years.</title>
+  </titles>
+  <sponsor id="300084"/>
+  <cosponsors>
+    <cosponsor id="300015" joined="2005-05-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-05-23">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S5787"/>
+    </action>
+    <action state="REFERRED" datetime="2005-05-23">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <reference ref="CR S5787" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-11-17">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Commerce, Science, and Transportation"/>
+    </calendar>
+    <action datetime="2006-03-27">
+      <text>Committee on Commerce, Science, and Transportation. Reported by Senator Stevens without amendment. With written report No. 109-223.</text>
+    </action>
+    <calendar datetime="2006-03-27" calendar="Senate Legislative" under="General Orders" number="377">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 377.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="3065"/>
+    <bill relation="unknown" session="109" type="h" number="5197"/>
+    <bill relation="unknown" session="109" type="h" number="5197"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Airlines"/>
+    <term name="Aviation insurance"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Finance and financial sector"/>
+    <term name="International affairs"/>
+    <term name="Terrorism"/>
+    <term name="War risk insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>3/27/2006--Reported to Senate without amendment.
+Amends federal transportation law to extend through December 31, 2008, the Secretary of Transportation's authority to: (1) issue war risk insurance policies to air carriers; and (2) certify that an air carrier is a victim of an act of terrorism and not liable for losses suffered by third parties that exceed $100 million, as well as immunity from punitive damages (with the federal government responsible for any liability above $100 million).</summary>
+</bill>

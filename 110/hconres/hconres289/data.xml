@@ -1,0 +1,123 @@
+<bill session="110" type="hc" number="289" updated="2013-07-19T22:11:15-04:00">
+  <state datetime="2008-03-05">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2008-03-05"/>
+  </status>
+  <introduced datetime="2008-02-07"/>
+  <titles>
+    <title as="introduced" type="official">Honoring and praising the National Association for the Advancement of Colored People on the occasion of its 99th anniversary.</title>
+  </titles>
+  <sponsor id="400653"/>
+  <cosponsors>
+    <cosponsor id="400009" joined="2008-02-13"/>
+    <cosponsor id="400030" joined="2008-02-07"/>
+    <cosponsor id="400041" joined="2008-02-07"/>
+    <cosponsor id="400047" joined="2008-02-12"/>
+    <cosponsor id="400616" joined="2008-02-13"/>
+    <cosponsor id="400073" joined="2008-02-07"/>
+    <cosponsor id="412236" joined="2008-02-07"/>
+    <cosponsor id="400087" joined="2008-02-07"/>
+    <cosponsor id="400090" joined="2008-02-07"/>
+    <cosponsor id="400093" joined="2008-02-07"/>
+    <cosponsor id="400110" joined="2008-02-12"/>
+    <cosponsor id="412215" joined="2008-02-07"/>
+    <cosponsor id="400130" joined="2008-02-07"/>
+    <cosponsor id="400160" joined="2008-02-07"/>
+    <cosponsor id="400170" joined="2008-02-07"/>
+    <cosponsor id="400185" joined="2008-02-13"/>
+    <cosponsor id="400199" joined="2008-02-07"/>
+    <cosponsor id="400216" joined="2008-02-07"/>
+    <cosponsor id="400217" joined="2008-02-12"/>
+    <cosponsor id="400227" joined="2008-02-07"/>
+    <cosponsor id="400237" joined="2008-02-07"/>
+    <cosponsor id="400251" joined="2008-02-07"/>
+    <cosponsor id="400663" joined="2008-02-07"/>
+    <cosponsor id="400259" joined="2008-02-07"/>
+    <cosponsor id="400262" joined="2008-02-07"/>
+    <cosponsor id="400270" joined="2008-02-07"/>
+    <cosponsor id="400282" joined="2008-02-07"/>
+    <cosponsor id="400295" joined="2008-02-07"/>
+    <cosponsor id="400310" joined="2008-02-12"/>
+    <cosponsor id="400345" joined="2008-02-07"/>
+    <cosponsor id="400349" joined="2008-02-07"/>
+    <cosponsor id="400355" joined="2008-02-07"/>
+    <cosponsor id="400360" joined="2008-02-12"/>
+    <cosponsor id="400364" joined="2008-02-07"/>
+    <cosponsor id="400366" joined="2008-02-07"/>
+    <cosponsor id="400402" joined="2008-02-07"/>
+    <cosponsor id="400409" joined="2008-02-07"/>
+    <cosponsor id="400412" joined="2008-02-07"/>
+    <cosponsor id="400417" joined="2008-02-07"/>
+    <cosponsor id="400623" joined="2008-02-12"/>
+    <cosponsor id="400430" joined="2008-02-07"/>
+    <cosponsor id="400433" joined="2008-02-07"/>
+    <cosponsor id="400436" joined="2008-02-07"/>
+    <cosponsor id="400438" joined="2008-02-07"/>
+    <cosponsor id="400440" joined="2008-02-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-02-07">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2008-02-13T16:56:00-05:00">
+      <text>Mr. Cohen moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2008-02-13T16:56:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H910-912" label="consideration"/>
+    </action>
+    <action datetime="2008-02-13T16:56:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 289.</text>
+    </action>
+    <action datetime="2008-02-13T17:12:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2008-02-14T14:59:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H966" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-02-14T15:07:00-05:00" how="roll" result="pass" roll="64" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 64).</text>
+      <reference ref="CR 2/13/2008 H910" label="text"/>
+    </vote>
+    <action datetime="2008-02-14T15:07:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-02-25">
+      <text>Received in the Senate and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2008-03-05">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S1653-1654" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2008-03-05" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2008-03-05">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="hc" number="44"/>
+    <bill relation="unknown" session="110" type="sc" number="10"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Associations, institutions, etc."/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Civil rights workers"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Minorities"/>
+    <term name="Racial discrimination"/>
+    <term name="Racism"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/2008--Passed Senate without amendment.
+Recognizes the 99th anniversary of the historic founding of the National Association for the Advancement of Colored People (NAACP). Honors and praises the NAACP for its work to ensure the political, educational, social, and economic equality of all persons.</summary>
+</bill>

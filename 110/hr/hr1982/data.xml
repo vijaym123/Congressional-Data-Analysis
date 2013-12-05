@@ -1,0 +1,99 @@
+<bill session="110" type="h" number="1982" updated="2013-07-19T21:21:04-04:00">
+  <state datetime="2007-07-16T19:06:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-07-16T19:06:00-04:00"/>
+  </status>
+  <introduced datetime="2007-04-20"/>
+  <titles>
+    <title as="introduced" type="short">Rural Housing and Economic Development Improvement Act of 2007</title>
+    <title as="reported to house" type="short">Rural Housing and Economic Development Improvement Act of 2007</title>
+    <title as="passed house" type="short">Rural Housing and Economic Development Improvement Act of 2007</title>
+    <title as="introduced" type="official">To authorize appropriations for the rural housing and economic development program of the Department of Housing and Urban Development.</title>
+  </titles>
+  <sponsor id="400179"/>
+  <cosponsors>
+    <cosponsor id="400001" joined="2007-05-09"/>
+    <cosponsor id="400639" joined="2007-04-23"/>
+    <cosponsor id="400140" joined="2007-04-20"/>
+    <cosponsor id="412220" joined="2007-05-22"/>
+    <cosponsor id="400336" joined="2007-04-20"/>
+    <cosponsor id="400402" joined="2007-04-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-04-20">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2007-05-08">
+      <text>Referred to the Subcommittee on Housing and Community Opportunity.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2007-05-08">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2007-05-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-05-23">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Financial Services"/>
+    </calendar>
+    <action datetime="2007-06-21T21:06:00-04:00">
+      <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 110-205.</text>
+    </action>
+    <calendar datetime="2007-06-21T21:06:00-04:00" calendar="Union" number="124">
+      <text>Placed on the Union Calendar, Calendar No. 124.</text>
+    </calendar>
+    <action datetime="2007-07-16T14:29:00-04:00">
+      <text>Mr. Hinojosa moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-07-16T14:30:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7793-7795" label="consideration"/>
+    </action>
+    <action datetime="2007-07-16T14:30:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1982.</text>
+    </action>
+    <action datetime="2007-07-16T14:40:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2007-07-16T18:59:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7819-7820" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-07-16T19:06:00-04:00" how="roll" result="pass" roll="631" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 350 - 49 (Roll no. 631).</text>
+      <reference ref="CR H7793" label="text"/>
+    </vote>
+    <action datetime="2007-07-16T19:06:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-07-17">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings" code="HSBA04" subcommittee="Housing and Community Opportunity" name="House Financial Services"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to Indians"/>
+    <term name="Federal aid to housing"/>
+    <term name="Indian economic development"/>
+    <term name="Indian housing"/>
+    <term name="Minorities"/>
+    <term name="Native Americans"/>
+    <term name="Rural economic development"/>
+    <term name="Rural housing"/>
+    <term name="Social security numbers"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>7/16/2007--Passed House amended.
+Rural Housing and Economic Development Improvement Act of 2007 - Authorizes the Secretary of Housing and Urban Development, through the Office of Rural Housing and Economic Development, to implement an assistance program to support innovative housing and economic development activities in rural areas by: (1) Indian tribes; (2) state housing finance agencies; (3) state community or economic development agencies; (4) local nonprofit organizations; and (5) community development corporations. Directs the Secretary of Housing and Urban Development to require, as a condition of initial or continuing assistance under this Act for any housing or economic development activity, that each member of a family so assisted (or of a family applying for such assistance) who is 18 years of age or older, or is the spouse of the head of household, has a valid Social Security number. Authorizes appropriations for FY2008-FY2013.</summary>
+</bill>

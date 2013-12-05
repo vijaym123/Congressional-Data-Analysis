@@ -1,0 +1,81 @@
+<bill session="109" type="h" number="849" updated="2013-07-19T19:11:41-04:00">
+  <state datetime="2005-05-23T15:32:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-05-23T15:32:00-04:00"/>
+  </status>
+  <introduced datetime="2005-02-16"/>
+  <titles>
+    <title as="introduced" type="official">To provide for the conveyance of certain public land in Clark County, Nevada, for use as a heliport.</title>
+  </titles>
+  <sponsor id="400148"/>
+  <cosponsors>
+    <cosponsor id="400024" joined="2005-02-16"/>
+    <cosponsor id="400324" joined="2005-02-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-02-16">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-02-28">
+      <text>Referred to the Subcommittee on Forests and Forest Health.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-05-23T15:21:00-04:00">
+      <text>Mr. Radanovich moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2005-05-23T15:21:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3716-3717" label="consideration"/>
+    </action>
+    <action datetime="2005-05-23T15:21:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 849.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-05-23T15:32:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H3716" label="text"/>
+    </vote>
+    <action datetime="2005-05-23T15:32:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-05-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII20" subcommittee="Forests and Forest Health" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="s" number="405"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Air routes"/>
+    <term name="Airports"/>
+    <term name="Animals"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Commemorations"/>
+    <term name="Commerce"/>
+    <term name="Cultural property"/>
+    <term name="Economics and public finance"/>
+    <term name="Environmental protection"/>
+    <term name="Helicopters"/>
+    <term name="Historic sites"/>
+    <term name="History"/>
+    <term name="Land transfers"/>
+    <term name="Mountains"/>
+    <term name="Natural areas"/>
+    <term name="Nature conservation"/>
+    <term name="Nevada"/>
+    <term name="Tourism"/>
+    <term name="Transportation and public works"/>
+    <term name="User charges"/>
+    <term name="Wilderness areas"/>
+    <term name="Wildlife conservation"/>
+    <term name="Wildlife management"/>
+  </subjects>
+  <amendments/>
+  <summary>5/23/2005--Passed House without amendment.
+Requires the Secretary of the Interior to convey a specified parcel of Federal land to Clark County, Nevada, for operation of a commercial heliport facility. Prohibits the disposal of such conveyed land by the County. Establishes a conservation fee for, and restricts the flight path of, helicopter tours originating from or concluding at the conveyed land which fly over the Sloan Canyon National Conservation Area. Requires collected fees to be deposited into a special account in the Treasury for use by the Secretary for cultural, wildlife, and wilderness resources management on public lands in Nevada. Provides that title to the conveyed land shall revert to the United States if the County ceases to use the land for the purpose described in this Act. Makes the County responsible for any reclamation necessary for reversion. Directs the Secretary to require the County to pay the administrative costs of conveying the land.</summary>
+</bill>

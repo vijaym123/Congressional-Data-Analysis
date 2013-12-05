@@ -1,0 +1,95 @@
+<bill session="110" type="hr" number="1382" updated="2013-07-19T21:02:26-04:00">
+  <state datetime="2008-09-29T14:42:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2008-09-29T14:42:00-04:00"/>
+  </status>
+  <introduced datetime="2008-07-29"/>
+  <titles>
+    <title as="introduced" type="official">Honoring the heritage of the Coast Guard.</title>
+  </titles>
+  <sponsor id="400299"/>
+  <cosponsors>
+    <cosponsor id="400011" joined="2008-07-29"/>
+    <cosponsor id="400031" joined="2008-07-29"/>
+    <cosponsor id="400048" joined="2008-07-29"/>
+    <cosponsor id="400049" joined="2008-09-16"/>
+    <cosponsor id="400061" joined="2008-09-16"/>
+    <cosponsor id="412234" joined="2008-09-16"/>
+    <cosponsor id="400076" joined="2008-07-29"/>
+    <cosponsor id="412236" joined="2008-09-16"/>
+    <cosponsor id="400090" joined="2008-07-29"/>
+    <cosponsor id="412263" joined="2008-09-16"/>
+    <cosponsor id="400133" joined="2008-09-16"/>
+    <cosponsor id="400149" joined="2008-09-16"/>
+    <cosponsor id="400172" joined="2008-09-16"/>
+    <cosponsor id="400641" joined="2008-07-29"/>
+    <cosponsor id="400204" joined="2008-09-16"/>
+    <cosponsor id="400232" joined="2008-07-29"/>
+    <cosponsor id="400235" joined="2008-07-29"/>
+    <cosponsor id="400630" joined="2008-09-16"/>
+    <cosponsor id="400244" joined="2008-07-29"/>
+    <cosponsor id="400273" joined="2008-07-29"/>
+    <cosponsor id="400276" joined="2008-09-16"/>
+    <cosponsor id="400284" joined="2008-09-16"/>
+    <cosponsor id="400290" joined="2008-09-16"/>
+    <cosponsor id="400652" joined="2008-09-16"/>
+    <cosponsor id="400396" joined="2008-09-16"/>
+    <cosponsor id="400399" joined="2008-07-29"/>
+    <cosponsor id="400440" joined="2008-07-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-07-29">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2008-07-30">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2008-07-31">
+      <text>Subcommittee on Coast Guard and Maritime Transportation Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2008-07-31">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-07-31">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2008-09-28T20:14:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 110-899.</text>
+    </action>
+    <calendar datetime="2008-09-28T20:17:00-04:00" calendar="House" number="284">
+      <text>Placed on the House Calendar, Calendar No. 284.</text>
+    </calendar>
+    <action datetime="2008-09-29T14:42:00-04:00">
+      <text>Mr. Rahall asked unanimous consent to take from the Speaker's table and consider.</text>
+    </action>
+    <action datetime="2008-09-29T14:42:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H10618" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2008-09-29T14:42:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H10618" label="text"/>
+    </vote>
+    <action datetime="2008-09-29T14:42:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Coast guard"/>
+    <term name="Congressional tributes"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>9/29/2008--Passed House without amendment.
+Recognizes and honors all the men and women of the Coast Guard and its predecessor organizations since August 7, 1789.</summary>
+</bill>

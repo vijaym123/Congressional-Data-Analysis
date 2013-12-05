@@ -1,0 +1,37 @@
+<bill session="109" type="h" number="2433" updated="2013-07-19T19:25:45-04:00">
+  <state datetime="2005-05-18">REFERRED</state>
+  <status>
+    <introduced datetime="2005-05-18"/>
+  </status>
+  <introduced datetime="2005-05-18"/>
+  <titles>
+    <title as="introduced" type="official">To suspend temporarily the duty on Aspirin.</title>
+  </titles>
+  <sponsor id="400285"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-05-18">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2005-05-26">
+      <text>Referred to the Subcommittee on Trade.</text>
+      <committee name="House Committee on Ways and Means"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="s" number="1450"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Aspirin"/>
+    <term name="Health"/>
+    <term name="Tariff"/>
+  </subjects>
+  <amendments/>
+  <summary>5/18/2005--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 2009, the duty on O-Acetylsalicylic acid (Apirin).</summary>
+</bill>

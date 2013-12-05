@@ -1,0 +1,61 @@
+<bill session="109" type="s" number="1792" updated="2013-07-19T20:29:06-04:00">
+  <state datetime="2006-03-03">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2006-03-03"/>
+  </status>
+  <introduced datetime="2005-09-29"/>
+  <titles>
+    <title as="introduced" type="official">A bill to designate the facility of the United States Postal Service located at 205 West Washington Street in Knox, Indiana, as the "Grant W. Green Post Office Building".</title>
+  </titles>
+  <sponsor id="300070"/>
+  <cosponsors>
+    <cosponsor id="300006" joined="2005-09-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-09-29">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2005-12-15">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2005-12-16">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Collins without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2005-12-16" calendar="Senate Legislative" under="General Orders" number="331">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 331.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2006-03-03" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S1755" label="consideration"/>
+      <reference ref="CR S1755" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2006-03-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-03-06T12:02:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-03-06T13:29:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="3770"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Government operations and politics"/>
+    <term name="Indiana"/>
+    <term name="Names"/>
+    <term name="Postal facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/2006--Passed Senate without amendment.
+Designates the facility of the United States Postal Service located at 205 West Washington Street in Knox, Indiana, as the "Grant W. Green Post Office Building."</summary>
+</bill>

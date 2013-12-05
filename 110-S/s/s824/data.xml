@@ -1,0 +1,44 @@
+<bill session="110" type="s" number="824" updated="2013-07-19T22:27:24-04:00">
+  <state datetime="2007-03-08">REFERRED</state>
+  <status>
+    <introduced datetime="2007-03-08"/>
+  </status>
+  <introduced datetime="2007-03-08"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend Public Law 106-348 to extend the authorization for establishing a memorial in the District of Columbia or its environs to honor veterans who became disabled while serving in the Armed Forces of the United States.</title>
+  </titles>
+  <sponsor id="400546"/>
+  <cosponsors>
+    <cosponsor id="300037" joined="2007-05-15"/>
+    <cosponsor id="300058" joined="2007-06-20"/>
+    <cosponsor id="300091" joined="2007-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-03-08">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2007-07-12">
+      <text>Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 110-158.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="National Parks" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="h" number="995"/>
+    <bill relation="unknown" session="110" type="h" number="995"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Armed forces and national security"/>
+    <term name="Disabled"/>
+    <term name="District of Columbia"/>
+    <term name="Monuments and memorials"/>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>3/8/2007--Introduced.
+Amends the Act of October 24, 2000, which authorized the establishment in the District of Columbia of a service-disabled veterans' memorial, to extend the authority for establishing such memorial until October 24, 2015.</summary>
+</bill>

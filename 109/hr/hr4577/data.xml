@@ -1,0 +1,42 @@
+<bill session="109" type="h" number="4577" updated="2013-07-19T19:44:44-04:00">
+  <state datetime="2005-12-16">REFERRED</state>
+  <status>
+    <introduced datetime="2005-12-16"/>
+  </status>
+  <introduced datetime="2005-12-16"/>
+  <titles>
+    <title as="introduced" type="official">To direct the Secretary of Agriculture to convey certain real property in the Dixie National Forest in the State of Utah, and for other purposes.</title>
+  </titles>
+  <sponsor id="400059"/>
+  <cosponsors>
+    <cosponsor id="400024" joined="2005-12-16"/>
+    <cosponsor id="400029" joined="2005-12-16"/>
+    <cosponsor id="400148" joined="2005-12-16"/>
+    <cosponsor id="400324" joined="2005-12-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-12-16">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2006-01-03">
+      <text>Referred to the Subcommittee on Forests and Forest Health.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII20" subcommittee="Forests and Forest Health" name="House Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="s" number="1941"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Land transfers"/>
+    <term name="National forests"/>
+    <term name="Utah"/>
+  </subjects>
+  <amendments/>
+  <summary>12/16/2005--Introduced.
+Directs the Secretary of Agriculture to convey certain land in the Dixie National Forest in Utah to Kirk R. Harrison. Requires proceeds from the conveyance to be used to acquire other real property or interests for inclusion in the Dixie National Forest.</summary>
+</bill>

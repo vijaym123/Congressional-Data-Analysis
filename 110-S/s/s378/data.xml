@@ -1,0 +1,196 @@
+<bill session="110" type="s" number="378" updated="2013-07-19T22:23:35-04:00">
+  <state datetime="2007-04-19">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2007-04-19"/>
+  </status>
+  <introduced datetime="2007-01-24"/>
+  <titles>
+    <title as="introduced" type="short">Court Security Improvement Act of 2007</title>
+    <title as="reported to senate" type="short">Court Security Improvement Act of 2007</title>
+    <title as="passed senate" type="short">Court Security Improvement Act of 2007</title>
+    <title as="introduced" type="official">A bill to amend title 18, United States Code, to protect judges, prosecutors, witnesses, victims, and their family members, and for other purposes.</title>
+  </titles>
+  <sponsor id="300065"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2007-04-18"/>
+    <cosponsor id="400064" joined="2007-02-28"/>
+    <cosponsor id="400576" joined="2007-04-19"/>
+    <cosponsor id="300025" joined="2007-01-24"/>
+    <cosponsor id="300027" joined="2007-01-24"/>
+    <cosponsor id="300038" joined="2007-01-24"/>
+    <cosponsor id="300052" joined="2007-01-24"/>
+    <cosponsor id="300059" joined="2007-01-24"/>
+    <cosponsor id="400629" joined="2007-04-18"/>
+    <cosponsor id="300082" joined="2007-01-24"/>
+    <cosponsor id="300087" joined="2007-01-24"/>
+    <cosponsor id="300092" joined="2007-01-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2007-01-24">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1062-1063"/>
+    </action>
+    <action state="REFERRED" datetime="2007-01-24">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S1063-1065" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2007-02-14">
+      <text>Committee on the Judiciary. Hearings held.</text>
+      <committee name="Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-03-01">
+      <text>Committee on the Judiciary. Ordered to be reported with an amendment favorably.</text>
+      <committee name="Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2007-03-29">
+      <text>Committee on the Judiciary. Reported by Senator Leahy with an amendment. With written report No. 110-42. Additional views filed.</text>
+    </action>
+    <calendar datetime="2007-03-29" calendar="Senate Legislative" under="General Orders" number="107">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 107.</text>
+    </calendar>
+    <action datetime="2007-04-16">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S4470" label="consideration"/>
+    </action>
+    <action datetime="2007-04-16">
+      <text>Cloture motion on the motion to proceed presented in Senate.</text>
+      <reference ref="CR S4470-4471" label="consideration"/>
+      <reference ref="CR S4470" label="text"/>
+    </action>
+    <action datetime="2007-04-16">
+      <text>Motion to proceed to consideration of measure withdrawn in Senate.</text>
+      <reference ref="CR S4470" label="consideration"/>
+    </action>
+    <action datetime="2007-04-18">
+      <text>Motion to proceed to measure considered in Senate.</text>
+      <reference ref="CR S4636-4653" label="consideration"/>
+    </action>
+    <action datetime="2007-04-18">
+      <text>Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 93 - 3. Record Vote Number: 133.</text>
+      <reference ref="CR S4636" label="consideration"/>
+      <reference ref="CR S4636" label="text"/>
+    </action>
+    <action datetime="2007-04-18">
+      <text>Motion to proceed to measure considered in Senate.</text>
+    </action>
+    <action datetime="2007-04-18">
+      <text>Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.</text>
+    </action>
+    <action datetime="2007-04-18">
+      <text>Measure laid before Senate by motion.</text>
+      <reference ref="CR S4653-4666" label="consideration"/>
+    </action>
+    <action datetime="2007-04-18">
+      <text>The committee reported amendment was agreed to by Unanimous Consent.</text>
+      <reference ref="CR S4653-4655" label="text"/>
+    </action>
+    <action datetime="2007-04-18">
+      <text>Cloture motion on S.378 presented in Senate.</text>
+      <reference ref="CR S4666" label="consideration"/>
+      <reference ref="CR S4666" label="text"/>
+    </action>
+    <action datetime="2007-04-19">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S4729-4744" label="consideration"/>
+    </action>
+    <action datetime="2007-04-19">
+      <text>Cloture motion withdrawn by unanimous consent in Senate.</text>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2007-04-19" how="roll" result="pass" roll="135" type="vote" where="s">
+      <text>Passed Senate with amendments by Yea-Nay. 97 - 0. Record Vote Number: 135.</text>
+      <reference ref="CR S4742-4744" label="text"/>
+    </vote>
+    <action datetime="2007-04-20T09:02:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2007-04-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2007-04-20T13:51:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="660"/>
+    <bill relation="unknown" session="110" type="h" number="660"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Assault"/>
+    <term name="Authorization"/>
+    <term name="Bankruptcy courts"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Computer security measures"/>
+    <term name="Conflict of interests"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal procedure"/>
+    <term name="Department of Justice"/>
+    <term name="District courts"/>
+    <term name="Economics and public finance"/>
+    <term name="Families"/>
+    <term name="Federal aid to law enforcement"/>
+    <term name="Finance and financial sector"/>
+    <term name="Financial disclosure"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Firearms"/>
+    <term name="Fraud"/>
+    <term name="Government attorneys"/>
+    <term name="Government employees' life insurance"/>
+    <term name="Government ethics"/>
+    <term name="Government operations and politics"/>
+    <term name="Government procurement"/>
+    <term name="Guam"/>
+    <term name="Homicide"/>
+    <term name="Informers"/>
+    <term name="Judges"/>
+    <term name="Judicial ethics"/>
+    <term name="Judicial officers"/>
+    <term name="Juries"/>
+    <term name="Law enforcement officers"/>
+    <term name="Liens"/>
+    <term name="Magistrates"/>
+    <term name="Northern Mariana Islands"/>
+    <term name="Obstruction of justice"/>
+    <term name="Office of Government Ethics"/>
+    <term name="Parking facilities"/>
+    <term name="Prosecution"/>
+    <term name="Public prosecutors"/>
+    <term name="Recruiting of employees"/>
+    <term name="Right of privacy"/>
+    <term name="Science, technology, communications"/>
+    <term name="Security measures"/>
+    <term name="State courts"/>
+    <term name="Sunset legislation"/>
+    <term name="Tax courts"/>
+    <term name="Taxation"/>
+    <term name="Transportation and public works"/>
+    <term name="Victims of crimes"/>
+    <term name="Violence"/>
+    <term name="Virgin Islands"/>
+    <term name="Weapons"/>
+    <term name="Witnesses"/>
+  </subjects>
+  <amendments>
+    <amendment number="s888"/>
+    <amendment number="s889"/>
+    <amendment number="s890"/>
+    <amendment number="s891"/>
+    <amendment number="s892"/>
+    <amendment number="s893"/>
+    <amendment number="s894"/>
+    <amendment number="s895"/>
+    <amendment number="s896"/>
+    <amendment number="s897"/>
+    <amendment number="s898"/>
+    <amendment number="s899"/>
+    <amendment number="s900"/>
+    <amendment number="s901"/>
+  </amendments>
+  <summary>4/19/2007--Passed Senate amended.
+Court Security Improvement Act of 2007 - Title I: Judicial Security Improvements and Funding - (Sec. 101) Amends the federal judicial code to require the Director of the U.S. Marshals Service to consult with the Judicial Conference of the United States (Judicial Conference) on a continuing basis regarding the security requirements of the judicial branch.(Sec. 102) Amends the Ethics in Government Act of 1978 to: (1) authorize the Judicial Conference to allow redactions of personal information of family members of judges from financial disclosure forms filed by such judges; (2) extend through 2009 the authority of the Judicial Conference to redact certain personal information of judges from financial disclosure reports; and (3) require the Administrative Office of the U.S. Courts to include in its annual report to the House and Senate Judiciary Committees additional information about redactions from financial disclosure forms.(Sec. 104) Amends the federal judicial code and the Internal Revenue Code to authorize the U.S. Marshals Service to provide security for the U.S. Tax Court. (Sec. 105) Authorizes an additional appropriation in each of FY2007-FY2011 for the U.S. Marshals Service for protection of the judiciary. Requires such additional funding to be used for: (1) hiring entry-level deputy marshals to provide judicial security; (2) hiring senior-level deputy marshals for investigating threats to the judiciary and for providing protection for members of the judiciary and assistant U.S. attorneys; and (3) the Office of Protective Intelligence. Title II: Criminal Law Enhancements To Protect Judges, Family Members, and Witnesses - (Sec. 201) Amends the federal criminal code to prohibit the filing (or attempts or conspiracies to file) in any public record any false lien or encumbrance against the real or personal property of any U.S. officer or employee on account of the performance of that officer's or employee's official duties, knowing such lien or encumbrance is false. Impose a fine and/or prison term of up to 10 years for violations.(Sec. 202) Prohibits the public disclosure of restricted personal information about a federal officer or employee, witness, or juror (or immediate family members) with the intent to threaten or cause harm to such individuals. Imposes a fine and/or prison term of up to five years for violations.(Sec. 203) Prohibits the possession of dangerous weapons in federal court facilities. (Sec. 204) Sets forth venue requirements for prosecutions for retaliation against a witness. (Sec. 205) Increases maximum prison terms for tampering with, or retaliating against, a witness, victim, or informant.(Sec. 207) Increases maximum prison terms for voluntary and involuntary manslaughter. Title III: Protecting State And Local Judges And Related Grant Programs - (Sec. 301) Amends the Violent Crime Control and Law Enforcement Act of 1994 to include as a required use of community-based justice grants the creation and expansion of state, local, or Indian tribe witness protection programs. Authorizes appropriations for FY2007-FY2011.(Sec. 302) Amends the Omnibus Crime Control and Safe Streets Act of 1968 to make state courts eligible for grants to improve court security (correctional options grants) and for armor vests. Title IV: Law Enforcement Officers - Requires the Attorney General to report to the House and Senate Judiciary Committees on the security of assistant U.S. attorneys and other federal attorneys arising from the prosecution of terrorists and other violent criminals. Requires such report to include information on the number and nature of threats and assaults against such attorneys, security measures in place to protect such attorneys, programs available to such attorneys for personal security training, secure parking spaces for such attorneys, and the role of the U.S. Marshals Service in protecting such attorneys.Title V: Miscellaneous Provisions - Amends the federal judicial code to: (1) authorize through FY2010 the U.S. Sentencing Commission to enter into multi-year procurement contracts and to make advance, partial, progress, or other payments for property or services to the same extent as executive agencies; (2) extend certain life insurance benefits to bankruptcy, magistrate, and territorial judges; (3) expand the powers of judges who have retired from active service (senior judges) to include all powers of a sitting judge, including participation in the appointment of court officers, the selection of magistrate judges, rulemaking, governance, and administrative matters; (4) reduce the number of judges on the Court of Appeals for the District of Columbia Circuit from 12 to 11; and (5) increase the number of judges on the Court of Appeals for the Ninth Circuit from 28 to 29.</summary>
+</bill>

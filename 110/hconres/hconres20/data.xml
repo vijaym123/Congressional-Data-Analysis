@@ -1,0 +1,149 @@
+<bill session="110" type="hc" number="20" updated="2013-07-19T22:08:57-04:00">
+  <state datetime="2007-03-15">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2007-03-15"/>
+  </status>
+  <introduced datetime="2007-01-09"/>
+  <titles>
+    <title as="introduced" type="official">Calling on the Government of the United Kingdom to immediately establish a full, independent, and public judicial inquiry into the murder of Northern Ireland defense attorney Patrick Finucane, as recommended by Judge Peter Cory as part of the Weston Park Agreement, in order to move forward on the Northern Ireland peace process.</title>
+  </titles>
+  <sponsor id="400380"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="2007-01-17"/>
+    <cosponsor id="400055" joined="2007-01-22"/>
+    <cosponsor id="400087" joined="2007-01-09"/>
+    <cosponsor id="400122" joined="2007-01-09"/>
+    <cosponsor id="400132" joined="2007-01-22"/>
+    <cosponsor id="400144" joined="2007-01-17"/>
+    <cosponsor id="400145" joined="2007-01-09"/>
+    <cosponsor id="400641" joined="2007-01-17"/>
+    <cosponsor id="400199" joined="2007-01-29"/>
+    <cosponsor id="400219" joined="2007-01-09"/>
+    <cosponsor id="400251" joined="2007-01-17"/>
+    <cosponsor id="400257" joined="2007-01-17"/>
+    <cosponsor id="400260" joined="2007-01-22"/>
+    <cosponsor id="400263" joined="2007-01-22"/>
+    <cosponsor id="400264" joined="2007-01-22"/>
+    <cosponsor id="400268" joined="2007-01-09"/>
+    <cosponsor id="400285" joined="2007-01-29"/>
+    <cosponsor id="400291" joined="2007-01-09"/>
+    <cosponsor id="400308" joined="2007-01-09"/>
+    <cosponsor id="400309" joined="2007-01-22"/>
+    <cosponsor id="400312" joined="2007-01-09"/>
+    <cosponsor id="400343" joined="2007-01-22"/>
+    <cosponsor id="400344" joined="2007-01-17"/>
+    <cosponsor id="400346" joined="2007-01-09"/>
+    <cosponsor id="412186" joined="2007-01-22"/>
+    <cosponsor id="400420" joined="2007-01-09"/>
+    <cosponsor id="400430" joined="2007-01-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-09">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2007-01-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Foreign Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-01-23">
+      <text>Committee Agreed to Seek Consideration Under Suspension of the Rules, by Unanimous Consent.</text>
+      <committee name="House Committee on Foreign Affairs"/>
+    </calendar>
+    <action datetime="2007-01-30T13:14:00-05:00">
+      <text>Mr. Lantos moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2007-01-30T13:14:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1000-1004" label="consideration"/>
+    </action>
+    <action datetime="2007-01-30T13:14:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 20.</text>
+    </action>
+    <action datetime="2007-01-30T13:40:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2007-01-30T16:07:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H1019-1020" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-01-30T16:16:00-05:00" how="roll" result="pass" roll="63" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 364 - 34, 25 Present (Roll no. 63).</text>
+      <reference ref="CR H1000-1001" label="text"/>
+    </vote>
+    <action datetime="2007-01-30T16:16:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-01-31">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2007-02-05">
+      <text>Referred to the Subcommittee on Europe.</text>
+      <committee name="House Committee on Foreign Affairs"/>
+    </action>
+    <action datetime="2007-02-05">
+      <text>Referred to the Subcommittee on International Organizations, Human Rights, and Oversight.</text>
+      <committee name="House Committee on Foreign Affairs"/>
+    </action>
+    <action datetime="2007-02-17">
+      <text>Referred to the Committee on Foreign Relations.</text>
+    </action>
+    <action datetime="2007-03-15">
+      <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2007-03-15">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S3236-3237" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2007-03-15" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2007-03-19">
+      <text>Notwithstanding the Senate's previous adoption of H.Con.Res. 20, the adoption of the amendment to the preamble was vitiated by Unanimous Consent.</text>
+      <reference ref="CR S3283" label="consideration"/>
+    </action>
+    <action datetime="2007-03-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral" code="HSFA14" subcommittee="Europe" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA17" subcommittee="International Organizations, Human Rights, and Oversight" name="House Foreign Affairs"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Armed forces and national security"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional committees (House)"/>
+    <term name="Congressional hearings"/>
+    <term name="Congressional tributes"/>
+    <term name="Congressional witnesses"/>
+    <term name="Conspiracy"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal investigation"/>
+    <term name="Europe"/>
+    <term name="Families"/>
+    <term name="Government operations and politics"/>
+    <term name="Governmental investigations"/>
+    <term name="Human rights"/>
+    <term name="Ireland"/>
+    <term name="Law"/>
+    <term name="Lawyers"/>
+    <term name="Legislation"/>
+    <term name="Murder"/>
+    <term name="Northern Ireland"/>
+    <term name="Paramilitary forces"/>
+    <term name="Political violence"/>
+    <term name="Treaties"/>
+    <term name="United Kingdom"/>
+  </subjects>
+  <amendments>
+    <amendment number="s463"/>
+  </amendments>
+  <summary>3/15/2007--Passed Senate without amendment.
+Expresses deepest condolences to the family of Patrick Finucane on his death, commends their steadfast pursuit of justice in his brutal murder, and thanks his wife Geraldine and son Michael for their willingness to testify on this matter before committees of the House of Representatives. Supports Administration efforts in seeking full implementation of the Weston Park Agreement and establishment of an independent judicial inquiry into Mr. Finucane's murder. Calls on the government of the United Kingdom to: (1) reconsider its position on the matter of an inquiry into Mr. Finucane's murder; (2) amend the Inquiries Act of 2005; and (3) take fully into account objections raised by Judge Cory, U.S. government officials, other governments, international bodies, and Mr. Finucane's family. Urges the government of the United Kingdom to establish a full, independent, and public judicial inquiry into Mr. Finucane's murder which would enjoy the support of his family, the people of Northern Ireland, and the international community as recommended by Judge Cory.</summary>
+</bill>

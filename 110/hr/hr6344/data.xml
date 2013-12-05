@@ -1,0 +1,81 @@
+<bill session="110" type="h" number="6344" updated="2013-07-19T21:59:18-04:00">
+  <state datetime="2008-06-23T15:47:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-06-23T15:47:00-04:00"/>
+  </status>
+  <introduced datetime="2008-06-23"/>
+  <titles>
+    <title as="introduced" type="short">Responsive Government Act of 2008</title>
+    <title as="passed house" type="short">Responsive Government Act of 2008</title>
+    <title as="introduced" type="official">To provide emergency authority to delay or toll judicial proceedings in United States district and circuit courts, and for other purposes.</title>
+  </titles>
+  <sponsor id="400102"/>
+  <cosponsors>
+    <cosponsor id="400073" joined="2008-06-23"/>
+    <cosponsor id="400080" joined="2008-06-23"/>
+    <cosponsor id="400116" joined="2008-06-23"/>
+    <cosponsor id="400144" joined="2008-06-23"/>
+    <cosponsor id="400175" joined="2008-06-23"/>
+    <cosponsor id="400208" joined="2008-06-23"/>
+    <cosponsor id="400315" joined="2008-06-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-06-23">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2008-06-23T15:24:00-04:00">
+      <text>Mr. Conyers moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2008-06-23T15:24:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5811-5816" label="consideration"/>
+    </action>
+    <action datetime="2008-06-23T15:24:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6344.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-06-23T15:47:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H5811-5812" label="text"/>
+    </vote>
+    <action datetime="2008-06-23T15:47:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-06-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2008-07-28">
+      <text>Referred to the Subcommittee on Courts, the Internet, and Intellectual Property.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts, the Internet, and Intellectual Property" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Administrative fees"/>
+    <term name="Administrative remedies"/>
+    <term name="Appellate courts"/>
+    <term name="Appellate procedure"/>
+    <term name="Civil procedure"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal procedure"/>
+    <term name="Department of Commerce"/>
+    <term name="Disasters"/>
+    <term name="District courts"/>
+    <term name="Drugs"/>
+    <term name="Economics and public finance"/>
+    <term name="Emergency management"/>
+    <term name="Government operations and politics"/>
+    <term name="Injunctions"/>
+    <term name="Limitation of actions"/>
+    <term name="Patents"/>
+    <term name="Trademarks"/>
+  </subjects>
+  <amendments/>
+  <summary>6/23/2008--Passed House without amendment.
+Responsive Government Act of 2008 - Amends the federal judicial code to authorize the chief judge of a district or court of appeals to delay, toll, or otherwise grant relief from time deadlines applicable to pending civil and criminal cases in the event of a natural disaster or other emergency situation requiring the closure of courts or rendering it impracticable to comply with such deadlines. Grants the Director of the United States Patent and Trademark Office authority to: (1) waive statutory provisions governing the filing, processing, renewal, and maintenance of patents, trademark registrations, and patent and trademark applications in certain emergencies; and (2) accept late application filings for patent extensions in certain cases of unintentional delay. Prescribes filing fees for patent extensions, including: (1) $65 million for an anticoagulant drug intended for use in humans; and (2) a formula for other items.</summary>
+</bill>

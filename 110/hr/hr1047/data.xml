@@ -1,0 +1,80 @@
+<bill session="110" type="h" number="1047" updated="2013-07-19T21:12:53-04:00">
+  <state datetime="2007-03-05T14:51:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-03-05T14:51:00-05:00"/>
+  </status>
+  <introduced datetime="2007-02-14"/>
+  <titles>
+    <title as="introduced" type="official">To authorize the Secretary of the Interior to conduct a study to determine the suitability and feasibility of designating the Soldiers' Memorial Military Museum located in St. Louis, Missouri, as a unit of the National Park System.</title>
+  </titles>
+  <sponsor id="400074"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2007-02-14">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-03-05T14:43:00-05:00">
+      <text>Mr. Grijalva moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-03-05T14:44:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2132-2133" label="consideration"/>
+    </action>
+    <action datetime="2007-03-05T14:44:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1047.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-03-05T14:51:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2132" label="text"/>
+    </vote>
+    <action datetime="2007-03-05T14:51:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-03-06">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2007-04-26">
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 110-88.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2007-05-23">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2007-06-26">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-106.</text>
+    </action>
+    <calendar datetime="2007-06-26" calendar="Senate Legislative" under="General Orders" number="236">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 236.</text>
+    </calendar>
+    <action datetime="2008-06-11">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+      <reference ref="CR S5530" label="consideration"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="National Parks" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="2739"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Armed forces and national security"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Commemorations"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Governmental investigations"/>
+    <term name="History"/>
+    <term name="Military history"/>
+    <term name="Missouri"/>
+    <term name="Monuments and memorials"/>
+    <term name="Museums"/>
+    <term name="National parks"/>
+  </subjects>
+  <amendments/>
+  <summary>6/26/2007--Reported to Senate without amendment.
+Directs the Secretary of the Interior to carry out a study to determine the suitability and feasibility of designating the Soldiers' Memorial Military Museum, located at 1315 Chestnut, St. Louis, Missouri, as a unit of the National Park System. Requires the submission of a report describing the results of such study.</summary>
+</bill>

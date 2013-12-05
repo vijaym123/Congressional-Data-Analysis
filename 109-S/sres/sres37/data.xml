@@ -1,0 +1,48 @@
+<bill session="109" type="sr" number="37" updated="2013-07-19T20:07:11-04:00">
+  <state datetime="2005-02-10">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2005-02-10"/>
+  </status>
+  <introduced datetime="2005-02-03"/>
+  <titles>
+    <title as="introduced" type="official">A resolution designating the week of February 7 through February 11, 2005, as "National School Counseling Week".</title>
+  </titles>
+  <sponsor id="300076"/>
+  <cosponsors>
+    <cosponsor id="300034" joined="2005-02-03"/>
+    <cosponsor id="300037" joined="2005-02-03"/>
+    <cosponsor id="300038" joined="2005-02-09"/>
+    <cosponsor id="300042" joined="2005-02-03"/>
+    <cosponsor id="300058" joined="2005-02-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-02-03">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S992" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2005-02-10">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S1308-1309" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2005-02-10" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S1309" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="sr" number="360"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Education"/>
+    <term name="Educational counseling"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Special weeks"/>
+  </subjects>
+  <amendments/>
+  <summary>2/10/2005--Passed Senate without amendment.
+Requests the President to designate the week of February 7 through February 11, 2005, as National School Counseling Week.</summary>
+</bill>

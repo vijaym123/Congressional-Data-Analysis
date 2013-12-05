@@ -1,0 +1,50 @@
+<bill session="110" type="h" number="2297" updated="2013-07-19T21:23:46-04:00">
+  <state datetime="2007-05-14">REFERRED</state>
+  <status>
+    <introduced datetime="2007-05-14"/>
+  </status>
+  <introduced datetime="2007-05-14"/>
+  <titles>
+    <title as="introduced" type="short">Arizona National Scenic Trail Act</title>
+    <title as="introduced" type="official">To amend the National Trails System Act to designate the Arizona National Scenic Trail.</title>
+  </titles>
+  <sponsor id="412188"/>
+  <cosponsors>
+    <cosponsor id="400141" joined="2008-03-11"/>
+    <cosponsor id="400162" joined="2007-05-17"/>
+    <cosponsor id="412187" joined="2007-05-17"/>
+    <cosponsor id="400310" joined="2007-05-17"/>
+    <cosponsor id="400336" joined="2007-05-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-05-14">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-05-18">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2008-07-15">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="1304"/>
+    <bill relation="unknown" session="110" type="s" number="1304"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Arizona"/>
+    <term name="Sports and recreation"/>
+    <term name="Trails"/>
+    <term name="Utah"/>
+  </subjects>
+  <amendments/>
+  <summary>5/14/2007--Introduced.
+Arizona National Scenic Trail Act - Amends the National Trails System Act to designate the Arizona Trail, extending approximately 807 miles across Arizona from the border between Arizona and Utah to the international border with Mexico, as the "Arizona National Scenic Trail."</summary>
+</bill>

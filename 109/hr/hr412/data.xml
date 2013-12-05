@@ -1,0 +1,74 @@
+<bill session="109" type="h" number="412" updated="2013-07-19T19:07:56-04:00">
+  <state datetime="2005-03-14T14:42:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-03-14T14:42:00-05:00"/>
+  </status>
+  <introduced datetime="2005-01-26"/>
+  <titles>
+    <title as="introduced" type="short">Western Reserve Heritage Areas Study Act</title>
+    <title as="passed house" type="short">Western Reserve Heritage Areas Study Act</title>
+    <title as="introduced" type="official">To authorize the Secretary of the Interior to conduct a study to determine the suitability and feasibility of establishing the Western Reserve Heritage Area.</title>
+  </titles>
+  <sponsor id="400352"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-01-26">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-02-11">
+      <text>Referred to the Subcommittee on National Parks.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-03-14T14:34:00-05:00">
+      <text>Mr. Jones (NC) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2005-03-14T14:35:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1381-1383" label="consideration"/>
+    </action>
+    <action datetime="2005-03-14T14:35:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 412.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-03-14T14:42:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H1381-1382" label="text"/>
+    </vote>
+    <action datetime="2005-03-14T14:42:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-03-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Recreation, and Public Lands" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="203"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Agriculture and food"/>
+    <term name="Commemorations"/>
+    <term name="Commerce"/>
+    <term name="Environmental protection"/>
+    <term name="Farm lands"/>
+    <term name="Government operations and politics"/>
+    <term name="Governmental investigations"/>
+    <term name="Historic sites"/>
+    <term name="History"/>
+    <term name="Industrialization"/>
+    <term name="Landscape protection"/>
+    <term name="Nature conservation"/>
+    <term name="Ohio"/>
+    <term name="Outdoor recreation"/>
+    <term name="Public-private partnerships"/>
+    <term name="Social life and customs"/>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/14/2005--Passed House without amendment.
+Western Reserve Heritage Areas Study Act - Requires the Secretary of the Interior, acting through the National Park Service Rivers, Trails, and Conservation Assistance Program, Midwest Region, to conduct a study regarding the suitability and feasibility of establishing the Western Reserve Heritage Area in the Ohio counties of Trumbull, Mahoning, Ashtabula, Portage, Geague, Lake, Cuyahoga, Summit, Medina, Huron, Lorain, Erie, Ottawa, and Ashland.</summary>
+</bill>

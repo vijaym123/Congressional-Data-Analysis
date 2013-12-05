@@ -1,0 +1,68 @@
+<bill session="110" type="sc" number="72" updated="2013-07-19T22:20:00-04:00">
+  <state datetime="2008-05-07">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2008-05-07"/>
+  </status>
+  <introduced datetime="2008-04-01"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution supporting the goals and ideals of the International Year of Sanitation.</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2008-04-01"/>
+    <cosponsor id="300013" joined="2008-04-01"/>
+    <cosponsor id="300042" joined="2008-04-01"/>
+    <cosponsor id="300098" joined="2008-04-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-04-01">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S2300-2301" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2008-05-07">
+      <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+      <reference ref="CR S3931" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2008-05-07" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S3931" label="text"/>
+    </vote>
+    <action datetime="2008-05-08T10:05:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2008-05-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2008-05-08">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Discharged"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="hc" number="318"/>
+    <bill relation="identical" session="110" type="hc" number="318"/>
+    <bill relation="unknown" session="110" type="hc" number="318"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Commemorations"/>
+    <term name="Economic development"/>
+    <term name="Economics and public finance"/>
+    <term name="Environmental health"/>
+    <term name="Environmental protection"/>
+    <term name="Health"/>
+    <term name="Potable water"/>
+    <term name="Poverty"/>
+    <term name="Sewage disposal"/>
+    <term name="Special years"/>
+    <term name="Water quality"/>
+    <term name="Water resources development"/>
+    <term name="World health"/>
+  </subjects>
+  <amendments/>
+  <summary>5/7/2008--Passed Senate without amendment.
+Supports the goals and ideals of the International Year of Sanitation. Recognizes the importance of sanitation on public health, poverty reduction, economic and social development, and the environment.</summary>
+</bill>

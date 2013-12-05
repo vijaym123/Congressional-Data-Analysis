@@ -1,0 +1,70 @@
+<bill session="110" type="h" number="3959" updated="2013-07-19T21:38:34-04:00">
+  <state datetime="2008-01-23T13:33:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-01-23T13:33:00-05:00"/>
+  </status>
+  <introduced datetime="2007-10-24"/>
+  <titles>
+    <title as="introduced" type="official">To amend the National Flood Insurance Act of 1968 to provide for the phase-in of actuarial rates for certain pre-FIRM properties.</title>
+  </titles>
+  <sponsor id="400145"/>
+  <cosponsors>
+    <cosponsor id="400140" joined="2007-10-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-10-24">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2007-10-31">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-10-31">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Financial Services"/>
+    </calendar>
+    <action datetime="2008-01-16T17:19:00-05:00">
+      <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 110-510.</text>
+    </action>
+    <calendar datetime="2008-01-16T17:19:00-05:00" calendar="Union" number="311">
+      <text>Placed on the Union Calendar, Calendar No. 311.</text>
+    </calendar>
+    <action datetime="2008-01-23T13:25:00-05:00">
+      <text>Mr. Frank (MA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2008-01-23T13:25:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H412-413" label="consideration"/>
+    </action>
+    <action datetime="2008-01-23T13:26:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3959.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-01-23T13:33:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H412-413" label="text"/>
+    </vote>
+    <action datetime="2008-01-23T13:33:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-01-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup, Reporting"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Disaster insurance"/>
+    <term name="Finance and financial sector"/>
+    <term name="Floods"/>
+    <term name="Housing and community development"/>
+    <term name="Insurance premiums"/>
+    <term name="Single family housing"/>
+  </subjects>
+  <amendments/>
+  <summary>1/23/2008--Passed House amended.
+Amends the National Flood Insurance Act of 1968 (Act) to provide for phased-in actuarial premium rates for recently purchased pre-FIRM single family properties used as a principal residence and purchased for at least $600,000. (A pre-FIRM structure is one that was not constructed or substantially improved after the later of: (1) December 31, 1974; or (2) the effective date of the initial rate map published by the Director of the Federal Emergency Management Agency (FEMA) under the National Flood Insurance Act of 1968 for the area in which such structure is located.)Declares January 1, 2011, the effective date of this Act.Sets forth transition provisions under which the Director of the Federal Emergency Management Agency (FEMA) is instructed to increase annually the chargeable premium rates for certain properties covered under the national flood insurance program if those rates are less than the applicable estimated risk premium rates.</summary>
+</bill>

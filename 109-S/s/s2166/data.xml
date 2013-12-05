@@ -1,0 +1,70 @@
+<bill session="109" type="s" number="2166" updated="2013-07-19T20:32:19-04:00">
+  <state datetime="2006-02-09">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2006-02-09"/>
+  </status>
+  <introduced datetime="2005-12-21"/>
+  <titles>
+    <title as="introduced" type="short">Hurricane Election Relief Act of 2005</title>
+    <title as="passed senate" type="short">Hurricane Election Relief Act of 2005</title>
+    <title as="introduced" type="official">A bill to direct the Election Assistance Commission to make grants to States to restore and replace election administration supplies, materials, records, equipment, and technology which were damaged, destroyed, or dislocated as a result of Hurricane Katrina or Hurricane Rita.</title>
+  </titles>
+  <sponsor id="300069"/>
+  <cosponsors>
+    <cosponsor id="300034" joined="2005-12-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-12-21">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR 12/22/2005 S14328"/>
+    </action>
+    <action state="REFERRED" datetime="2005-12-21">
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+      <reference ref="CR 12/22/2005 S14328" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2006-02-09">
+      <text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text>
+      <reference ref="CR S1044" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2006-02-09" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S1044" label="text"/>
+    </vote>
+    <action datetime="2006-02-10">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-02-14T14:22:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-02-14">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Discharged"/>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="5759"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Alabama"/>
+    <term name="Disaster relief"/>
+    <term name="Displaced persons"/>
+    <term name="Economics and public finance"/>
+    <term name="Election administration"/>
+    <term name="Emergency management"/>
+    <term name="Floods"/>
+    <term name="Grants-in-aid"/>
+    <term name="Hurricane aftermath legislation"/>
+    <term name="Hurricanes"/>
+    <term name="Louisiana"/>
+    <term name="Mississippi"/>
+    <term name="Voting"/>
+    <term name="Voting machines"/>
+  </subjects>
+  <amendments/>
+  <summary>2/9/2006--Passed Senate without amendment.
+Hurricane Election Relief Act of 2005 - Directs the Election Assistance Commission to make a grant to each state for the purpose of: (1) restoring and replacing supplies, materials, records, equipment, and technology used in the administration of federal elections which were damaged, destroyed, or dislocated as a result of Hurricane Katrina or Hurricane Rita; and (2) ensuring the full participation in such elections by individuals displaced as a result of Hurricane Katrina or Hurricane Rita.</summary>
+</bill>

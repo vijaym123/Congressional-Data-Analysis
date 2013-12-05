@@ -1,0 +1,96 @@
+<bill session="110" type="hj" number="15" updated="2013-07-19T22:07:56-04:00">
+  <state datetime="2007-12-17T12:16:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-12-17T12:16:00-05:00"/>
+  </status>
+  <introduced datetime="2007-01-16"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the contributions of the Christmas tree industry to the United States economy.</title>
+  </titles>
+  <sponsor id="400643"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2007-01-16"/>
+    <cosponsor id="412252" joined="2007-12-17"/>
+    <cosponsor id="400058" joined="2007-02-05"/>
+    <cosponsor id="400076" joined="2007-01-16"/>
+    <cosponsor id="400100" joined="2007-01-16"/>
+    <cosponsor id="400147" joined="2007-01-18"/>
+    <cosponsor id="400183" joined="2007-12-12"/>
+    <cosponsor id="400186" joined="2007-01-16"/>
+    <cosponsor id="400209" joined="2007-01-16"/>
+    <cosponsor id="400260" joined="2007-01-16"/>
+    <cosponsor id="400644" joined="2007-01-16"/>
+    <cosponsor id="400659" joined="2007-01-16"/>
+    <cosponsor id="400288" joined="2007-01-16"/>
+    <cosponsor id="400317" joined="2007-01-16"/>
+    <cosponsor id="400318" joined="2007-01-16"/>
+    <cosponsor id="409888" joined="2007-01-16"/>
+    <cosponsor id="400419" joined="2007-01-29"/>
+    <cosponsor id="400437" joined="2007-01-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-16">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2007-02-06">
+      <text>Referred to the Subcommittee on Horticulture and Organic Agriculture.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="2007-02-06">
+      <text>Executive Comment Requested from USDA.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="2007-12-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-12-12">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Agriculture"/>
+    </calendar>
+    <action datetime="2007-12-17T12:08:00-05:00">
+      <text>Mr. Peterson (MN) moved to suspend the rules and pass the resolution.</text>
+    </action>
+    <action datetime="2007-12-17T12:09:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H15473-15474" label="consideration"/>
+    </action>
+    <action datetime="2007-12-17T12:09:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.J. Res. 15.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-12-17T12:16:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H15473" label="text"/>
+    </vote>
+    <action datetime="2007-12-17T12:16:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-12-18">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2007-12-19">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup"/>
+    <committee activity="Referral" code="HSAG03" subcommittee="Horticulture and Organic Agriculture" name="House Agriculture"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Agriculture and food"/>
+    <term name="Christianity"/>
+    <term name="Commerce"/>
+    <term name="Congressional tributes"/>
+    <term name="Farmers"/>
+    <term name="Holidays"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Religion"/>
+    <term name="Trees"/>
+  </subjects>
+  <amendments/>
+  <summary>12/17/2007--Passed House without amendment.
+Recognizes the important contributions to the U.S. economy of the live-cut Christmas tree industry, Christmas tree growers, and persons employed in the live-cut Christmas tree industry.</summary>
+</bill>

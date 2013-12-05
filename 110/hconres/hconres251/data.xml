@@ -1,0 +1,65 @@
+<bill session="110" type="hc" number="251" updated="2013-07-19T22:10:56-04:00">
+  <state datetime="2007-12-05T13:30:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-12-05T13:30:00-05:00"/>
+  </status>
+  <introduced datetime="2007-11-08"/>
+  <titles>
+    <title as="introduced" type="official">Commending the National Renewable Energy Laboratory for its work of promoting energy efficiency for 30 years.</title>
+  </titles>
+  <sponsor id="412192"/>
+  <cosponsors>
+    <cosponsor id="400101" joined="2007-11-08"/>
+    <cosponsor id="400620" joined="2007-11-08"/>
+    <cosponsor id="400412" joined="2007-11-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-11-08">
+      <text>Referred to the House Committee on Science and Technology.</text>
+    </action>
+    <action datetime="2007-12-05T13:19:00-05:00">
+      <text>Mr. McNerney moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2007-12-05T13:19:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1483-14184" label="consideration"/>
+    </action>
+    <action datetime="2007-12-05T13:19:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 251.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-12-05T13:30:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H14183" label="text"/>
+    </vote>
+    <action datetime="2007-12-05T13:30:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-12-06">
+      <text>Received in the Senate and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science and Technology" activity="Referral"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="hc" number="245"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Congressional tributes"/>
+    <term name="Energy"/>
+    <term name="Energy efficiency"/>
+    <term name="Energy research"/>
+    <term name="Energy security"/>
+    <term name="Federal employees"/>
+    <term name="Government operations and politics"/>
+    <term name="Laboratories"/>
+    <term name="Science, technology, communications"/>
+    <term name="Scientists in government"/>
+  </subjects>
+  <amendments/>
+  <summary>12/5/2007--Passed House without amendment.
+Commends the National Renewable Energy Laboratory for its work of promoting energy efficiency for 30 years and seeking other avenues of energy independence. Recognizes the achievements of the scientists and employees of the NREL and their exemplary service to the United States.</summary>
+</bill>

@@ -1,0 +1,79 @@
+<bill session="110" type="h" number="2868" updated="2013-07-19T21:28:57-04:00">
+  <state datetime="2007-10-23T12:26:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-10-23T12:26:00-04:00"/>
+  </status>
+  <introduced datetime="2007-06-26"/>
+  <titles>
+    <title as="introduced" type="official">To eliminate the exemption from State regulation for certain securities designated by national securities exchanges.</title>
+  </titles>
+  <sponsor id="400271"/>
+  <cosponsors>
+    <cosponsor id="400070" joined="2007-07-19"/>
+    <cosponsor id="400074" joined="2007-06-26"/>
+    <cosponsor id="400093" joined="2007-06-26"/>
+    <cosponsor id="400139" joined="2007-06-26"/>
+    <cosponsor id="400641" joined="2007-10-10"/>
+    <cosponsor id="400219" joined="2007-06-26"/>
+    <cosponsor id="400251" joined="2007-06-26"/>
+    <cosponsor id="400409" joined="2007-06-26"/>
+    <cosponsor id="400416" joined="2007-10-10"/>
+    <cosponsor id="400426" joined="2007-07-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-06-26">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2007-09-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-09-18">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Financial Services"/>
+    </calendar>
+    <action datetime="2007-10-15T17:02:00-04:00">
+      <text>Reported by the Committee on Financial Services. H. Rept. 110-380.</text>
+    </action>
+    <calendar datetime="2007-10-15T17:02:00-04:00" calendar="Union" number="237">
+      <text>Placed on the Union Calendar, Calendar No. 237.</text>
+    </calendar>
+    <action datetime="2007-10-23T12:11:00-04:00">
+      <text>Mr. Meeks (NY) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-10-23T12:12:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11866-11868" label="consideration"/>
+    </action>
+    <action datetime="2007-10-23T12:12:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2868.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-10-23T12:26:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H11866" label="text"/>
+    </vote>
+    <action datetime="2007-10-23T12:26:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-10-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup, Reporting"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Federal preemption"/>
+    <term name="Federal-state relations"/>
+    <term name="Government operations and politics"/>
+    <term name="Securities regulation"/>
+    <term name="State laws"/>
+    <term name="Stock exchanges"/>
+  </subjects>
+  <amendments/>
+  <summary>10/23/2007--Passed House without amendment.
+Amends the Securities Act of 1933, with respect to exclusive federal registration of nationally traded securities, to exclude from exclusive federal regulation, and thus permit state regulation of, certain securities any one of specified securities exchanges has listed (or authorized for listing) in a tier or segment for uncovered securities, according to standards for designating such a tier or segment the exchange has adopted.</summary>
+</bill>

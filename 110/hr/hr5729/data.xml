@@ -1,0 +1,97 @@
+<bill session="110" type="h" number="5729" updated="2013-07-19T21:53:59-04:00">
+  <state datetime="2008-05-20T14:26:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-05-20T14:26:00-04:00"/>
+  </status>
+  <introduced datetime="2008-04-08"/>
+  <titles>
+    <title as="introduced" type="short">Spina Bifida Health Care Program Expansion Act</title>
+    <title as="reported to house" type="short">Spina Bifida Health Care Program Expansion Act</title>
+    <title as="passed house" type="short">Spina Bifida Health Care Program Expansion Act</title>
+    <title as="introduced" type="official">To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to provide comprehensive health care to children of Vietnam veterans born with Spina Bifida, and for other purposes.</title>
+  </titles>
+  <sponsor id="412206"/>
+  <cosponsors>
+    <cosponsor id="400056" joined="2008-05-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-04-08">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2008-04-11">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-04-15">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-04-23">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-04-23">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-04-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-04-30">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2008-05-15T17:03:00-04:00">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-645.</text>
+    </action>
+    <calendar datetime="2008-05-15T17:04:00-04:00" calendar="Union" number="406">
+      <text>Placed on the Union Calendar, Calendar No. 406.</text>
+    </calendar>
+    <action datetime="2008-05-20T14:19:00-04:00">
+      <text>Mr. Ellsworth moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2008-05-20T14:19:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4197-4198" label="consideration"/>
+    </action>
+    <action datetime="2008-05-20T14:19:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5729.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-05-20T14:26:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4197" label="text"/>
+    </vote>
+    <action datetime="2008-05-20T14:26:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-05-21">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="3332"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Birth defects"/>
+    <term name="Child health"/>
+    <term name="Comprehensive health care"/>
+    <term name="Disabled"/>
+    <term name="Families"/>
+    <term name="Health"/>
+    <term name="Home care services"/>
+    <term name="Nervous system"/>
+    <term name="Veterans' benefits"/>
+    <term name="Veterans' medical care"/>
+    <term name="Vietnam veterans"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2008--Passed House amended.
+Spina Bifida Health Care Program Expansion Act - Requires the Secretary of Veterans Affairs to provide comprehensive health care coverage through the Department of Veterans Affairs (VA) for a child of a Vietnam veteran who is suffering from spina bifida. (Current law requires the Secretary to provide such child such health care as the Secretary determines is needed by the child for the spina bifida or any disability that is associated with such condition.)</summary>
+</bill>

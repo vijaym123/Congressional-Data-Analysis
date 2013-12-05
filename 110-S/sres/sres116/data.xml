@@ -1,0 +1,59 @@
+<bill session="110" type="sr" number="116" updated="2013-07-19T22:14:04-04:00">
+  <state datetime="2007-05-01">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2007-05-01"/>
+  </status>
+  <introduced datetime="2007-03-21"/>
+  <titles>
+    <title as="introduced" type="official">A resolution designating May 2007 as "National Autoimmune Diseases Awareness Month" and supporting efforts to increase awareness of autoimmune diseases and increase funding for autoimmune disease research.</title>
+  </titles>
+  <sponsor id="300008"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2007-05-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2007-03-21">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3533-3534"/>
+    </action>
+    <action state="REFERRED" datetime="2007-03-21">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S3533" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-04-25">
+      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2007-04-25">
+      <text>Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="2007-04-25" calendar="Senate Legislative" under="General Orders" number="121">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 121.</text>
+    </calendar>
+    <vote state="PASSED:SIMPLERES" datetime="2007-05-01" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S5436" label="consideration"/>
+      <reference ref="CR S5436" label="text as passed Senate"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="hr" number="258"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Autoimmune diseases"/>
+    <term name="Commemorations"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to research"/>
+    <term name="Health education"/>
+    <term name="Medical research"/>
+    <term name="Science, technology, communications"/>
+    <term name="Special months"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2007--Passed Senate without amendment.
+Designates May 2007 as National Autoimmune Diseases Awareness Month. Expresses support for: (1) efforts to increase awareness of the causes of, and treatments for, autoimmune diseases; and (2) increasing federal funding for research to learn the root causes of, and the best diagnostic methods and treatments for, such diseases.</summary>
+</bill>

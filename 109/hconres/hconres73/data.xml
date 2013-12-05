@@ -1,0 +1,56 @@
+<bill session="109" type="hc" number="73" updated="2013-07-19T20:02:47-04:00">
+  <state datetime="2006-12-05T11:17:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-12-05T11:17:00-05:00"/>
+  </status>
+  <introduced datetime="2005-02-17"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals and ideals of National High School Seniors Voter Registration Day.</title>
+  </titles>
+  <sponsor id="400261"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-02-17">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2006-12-05T11:08:00-05:00">
+      <text>Mr. Ehlers moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2006-12-05T11:08:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8684-8685" label="consideration"/>
+    </action>
+    <action datetime="2006-12-05T11:08:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 73.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-12-05T11:17:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H8684" label="text"/>
+    </vote>
+    <action datetime="2006-12-05T11:17:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-12-06">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="sc" number="63"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Commemorations"/>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Secondary education"/>
+    <term name="Special days"/>
+    <term name="Students"/>
+    <term name="Voter registration"/>
+  </subjects>
+  <amendments/>
+  <summary>12/5/2006--Passed House without amendment.
+States that Congress supports the goals and ideals of National High School Seniors Voter Registration Day, and encourages all eligible students to register to vote.</summary>
+</bill>

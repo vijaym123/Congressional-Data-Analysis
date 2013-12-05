@@ -1,0 +1,113 @@
+<bill session="109" type="h" number="5534" updated="2013-07-19T19:53:19-04:00">
+  <state datetime="2006-07-24T19:29:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-07-24T19:29:00-04:00"/>
+  </status>
+  <introduced datetime="2006-06-06"/>
+  <titles>
+    <title as="introduced" type="official">To establish a grant program whereby moneys collected from violations of the corporate average fuel economy program are used to expand infrastructure necessary to increase the availability of alternative fuels.</title>
+    <title as="amended by house" type="official">To provide grants from moneys collected from violations of the corporate average fuel economy program to be used to expand infrastructure necessary to increase the availability of alternative fuels.</title>
+  </titles>
+  <sponsor id="400342"/>
+  <cosponsors>
+    <cosponsor id="400655" joined="2006-06-19"/>
+    <cosponsor id="400119" joined="2006-06-19"/>
+    <cosponsor id="400139" joined="2006-06-06"/>
+    <cosponsor id="400147" joined="2006-06-19"/>
+    <cosponsor id="400172" joined="2006-06-22"/>
+    <cosponsor id="400221" joined="2006-06-22"/>
+    <cosponsor id="400341" joined="2006-06-22"/>
+    <cosponsor id="400373" joined="2006-06-19"/>
+    <cosponsor id="400385" joined="2006-06-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-06-06">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2006-06-19">
+      <text>Referred to the Subcommittee on Energy and Air Quality.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2006-06-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-06-20">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2006-06-28T22:34:00-04:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 109-535.</text>
+    </action>
+    <calendar datetime="2006-06-28T22:34:00-04:00" calendar="Union" number="299">
+      <text>Placed on the Union Calendar, Calendar No. 299.</text>
+    </calendar>
+    <action datetime="2006-07-24T15:55:00-04:00">
+      <text>Mr. Rogers (MI) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2006-07-24T15:55:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5634-5635" label="consideration"/>
+    </action>
+    <action datetime="2006-07-24T15:56:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5534.</text>
+    </action>
+    <action datetime="2006-07-24T16:03:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2006-07-24T19:13:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5649-5650" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-07-24T19:29:00-04:00" how="roll" result="pass" roll="396" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 355 - 9 (Roll no. 396).</text>
+      <reference ref="CR H5634" label="text"/>
+    </vote>
+    <action datetime="2006-07-24T19:29:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-07-24T19:29:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-07-25">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2006-08-04">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Air Quality" name="House Energy and Commerce"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Alcohol as fuel"/>
+    <term name="Alternative energy sources"/>
+    <term name="Automobile industry"/>
+    <term name="Biomass energy"/>
+    <term name="Coal"/>
+    <term name="Commerce"/>
+    <term name="Economics and public finance"/>
+    <term name="Electric vehicles"/>
+    <term name="Energy conservation"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Fuel cells"/>
+    <term name="Fuel consumption"/>
+    <term name="Government trust funds"/>
+    <term name="Hydrogen"/>
+    <term name="Law"/>
+    <term name="Liquefied petroleum gas"/>
+    <term name="Methanol"/>
+    <term name="Natural gas"/>
+    <term name="Natural gas vehicles"/>
+    <term name="Petroleum industry"/>
+    <term name="Solar energy"/>
+    <term name="Subsidies"/>
+  </subjects>
+  <amendments/>
+  <summary>7/24/2006--Passed House amended.
+Establishes in the Treasury a Fuel Economy Fund to be: (1) funded by fines, penalties, and other moneys obtained through certain enforcement actions (subject to the availability of funds provided in advance in appropriations Acts); and (2) used by the Secretary of Energy to implement a grant program for the construction or expansion of infrastructure necessary to increase the availability to consumers of alternative fuels. Declares eligible for such grant any entity also eligible for assistance through the Clean Cities Program of the Department of Energy. Declares ineligible for such grant any large, vertically integrated oil company. Prohibits any grant award totaling more than $60,000 in any fiscal year.</summary>
+</bill>

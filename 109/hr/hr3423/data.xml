@@ -1,0 +1,106 @@
+<bill session="109" type="h" number="3423" updated="2013-07-19T19:34:33-04:00">
+  <state datetime="2005-08-01">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2005-08-01"/>
+  </status>
+  <introduced datetime="2005-07-25"/>
+  <titles>
+    <title as="introduced" type="short">Medical Device User Fee Stabilization Act of 2005</title>
+    <title as="passed house" type="short">Medical Device User Fee Stabilization Act of 2005</title>
+    <title as="passed senate" type="short">Medical Device User Fee Stabilization Act of 2005</title>
+    <title as="enacted" type="short">Medical Device User Fee Stabilization Act of 2005</title>
+    <title as="introduced" type="official">To amend the Federal Food, Drug, and Cosmetic Act with respect to medical device user fees.</title>
+  </titles>
+  <sponsor id="400320"/>
+  <cosponsors>
+    <cosponsor id="400039" joined="2005-07-25"/>
+    <cosponsor id="400094" joined="2005-07-25"/>
+    <cosponsor id="400124" joined="2005-07-25"/>
+    <cosponsor id="400132" joined="2005-07-25"/>
+    <cosponsor id="400193" joined="2005-07-26"/>
+    <cosponsor id="400296" joined="2005-07-25"/>
+    <cosponsor id="400319" joined="2005-07-25"/>
+    <cosponsor id="400390" joined="2005-07-25"/>
+    <cosponsor id="400414" joined="2005-07-25"/>
+    <cosponsor id="400431" joined="2005-07-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-07-25">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2005-07-26T18:41:00-04:00">
+      <text>Committee on Energy and Commerce discharged.</text>
+    </action>
+    <action datetime="2005-07-26T18:42:00-04:00">
+      <text>Mr. Deal (GA) asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2005-07-26T18:42:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H6510-6511" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-07-26T18:46:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H6510-6511" label="text"/>
+    </vote>
+    <action datetime="2005-07-26T18:46:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2005-07-27" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S9196-9197" label="consideration"/>
+    </vote>
+    <topresident datetime="2005-07-27">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2005-07-28">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-07-29">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <topresident datetime="2005-07-29">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2005-08-01">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2005-08-01" type="public" number="109-43">
+      <text>Became Public Law No: 109-43.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="1420"/>
+    <bill relation="unknown" session="109" type="s" number="1420"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative procedure"/>
+    <term name="Appropriations"/>
+    <term name="Biomedical engineering"/>
+    <term name="Collection of accounts"/>
+    <term name="Commerce"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Economics and public finance"/>
+    <term name="Food and Drug Administration (FDA)"/>
+    <term name="Government operations and politics"/>
+    <term name="Government publicity"/>
+    <term name="Identification devices"/>
+    <term name="Labeling"/>
+    <term name="Law"/>
+    <term name="Medical supplies"/>
+    <term name="Medical technology"/>
+    <term name="Science, technology, communications"/>
+    <term name="Small business"/>
+    <term name="User charges"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/2005--Public Law.
+Medical Device User Fee Stabilization Act of 2005 - Amends the Federal Food, Drug, and Cosmetic Act to adjust medical device user fees (e.g., premarket application, premarket report, supplement, and submission fees). Repeals the fee revenue target amounts for FY2006 and FY2007. Eliminates the inflation, workload, compensating, and final year adjustments of revenues used for setting fees. Sets the premarket application fee for devices for FY2006 and FY2007. Allows the Secretary of Health and Human Services to use unobligated carryover balances from fees collected in previous fiscal years with notice to the appropriate congressional committees. Increases the annual gross receipts or sales threshold below which businesses are eligible for reduced fees or a waiver of fees by the Secretary. Removes the prohibition against the Secretary assessing fees unless certain cumulative fee revenues were met for FY2003 through 2006. Requires the Secretary to include in annual reports to Congress: (1) information on the number and total amount of fees paid for each different type of application or notification from small businesses; and (2) a certification that the amounts obligated for the performance of functions other than the review of device applications is not less than such amount for FY2002 multiplied by the adjustment factor. Deems as branded any reprocessed single use device unless it identifies the manufacturer, but allows such information to be provided by a detachable label intended to be affixed to the medical record of a patient.</summary>
+</bill>

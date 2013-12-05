@@ -1,0 +1,58 @@
+<bill session="110" type="h" number="7017" updated="2013-07-19T22:05:04-04:00">
+  <state datetime="2008-09-29T14:41:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-09-29T14:41:00-04:00"/>
+  </status>
+  <introduced datetime="2008-09-23"/>
+  <titles>
+    <title as="introduced" type="official">To amend Public Law 100-573 to extend the authorization of the Delaware Water Gap National Recreation Area Citizen Advisory Commission.</title>
+  </titles>
+  <sponsor id="400145"/>
+  <cosponsors>
+    <cosponsor id="412234" joined="2008-09-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-09-23">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2008-09-29T14:41:00-04:00">
+      <text>Mr. Rahall asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2008-09-29T14:41:00-04:00">
+      <text>Committee on Natural Resources discharged.</text>
+    </action>
+    <action datetime="2008-09-29T14:41:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H10615" label="consideration"/>
+      <reference ref="CR H10615" label="text of measure as introduced"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-09-29T14:41:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+    </vote>
+    <action datetime="2008-09-29T14:41:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-09-30">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="6879"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Government operations and politics"/>
+    <term name="National recreation areas"/>
+    <term name="New Jersey"/>
+    <term name="Pennsylvania"/>
+  </subjects>
+  <amendments>
+    <amendment number="h1187"/>
+  </amendments>
+  <summary>9/29/2008--Passed House amended.
+Amends Public Law 100-573 (relating to the establishment of the Delaware Water Gap National Recreation Area Citizens Advisory Commission) to terminate the Commission 21 years after the enactment of such Act.</summary>
+</bill>

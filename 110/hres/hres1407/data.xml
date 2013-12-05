@@ -1,0 +1,42 @@
+<bill session="110" type="hr" number="1407" updated="2013-07-19T21:02:38-04:00">
+  <state datetime="2008-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2008-07-31"/>
+  </status>
+  <introduced datetime="2008-07-31"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the importance of increasing renewable and alternative fuel use in reducing imports of foreign oil.</title>
+  </titles>
+  <sponsor id="400400"/>
+  <cosponsors>
+    <cosponsor id="400178" joined="2008-09-09"/>
+    <cosponsor id="400193" joined="2008-07-31"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-07-31">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2008-07-31">
+      <text>Referred to the Subcommittee on Energy and Air Quality.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2008-08-01">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1647"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Air Quality" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Energy storage, supplies, demand"/>
+    <term name="Oil and gas"/>
+  </subjects>
+  <amendments/>
+  <summary>7/31/2008--Introduced.
+Recognizes the importance of increasing renewable and alternative fuel use in reducing imports of foreign oil.</summary>
+</bill>

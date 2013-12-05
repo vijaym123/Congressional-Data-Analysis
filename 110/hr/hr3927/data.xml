@@ -1,0 +1,75 @@
+<bill session="110" type="h" number="3927" updated="2013-07-19T21:38:18-04:00">
+  <state datetime="2007-10-23T14:23:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-10-23T14:23:00-04:00"/>
+  </status>
+  <introduced datetime="2007-10-23"/>
+  <titles>
+    <title as="passed house" type="short">Third Higher Education Extension Act of 2007</title>
+    <title as="introduced" type="official">To temporarily extend the programs under the Higher Education Act of 1965, and for other purposes.</title>
+  </titles>
+  <sponsor id="400278"/>
+  <cosponsors>
+    <cosponsor id="400179" joined="2007-10-23"/>
+    <cosponsor id="400212" joined="2007-10-23"/>
+    <cosponsor id="400267" joined="2007-10-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-10-23">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2007-10-23T14:13:00-04:00">
+      <text>Mr. Hinojosa moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-10-23T14:15:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11885-11886" label="consideration"/>
+    </action>
+    <action datetime="2007-10-23T14:15:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3927.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-10-23T14:23:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H11885" label="text"/>
+    </vote>
+    <action datetime="2007-10-23T14:23:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-10-24">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2007-10-30">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="2559"/>
+    <bill relation="unknown" session="110" type="s" number="1704"/>
+    <bill relation="unknown" session="110" type="s" number="1868"/>
+    <bill relation="unknown" session="110" type="s" number="2258"/>
+    <bill relation="unknown" session="110" type="s" number="2733"/>
+    <bill relation="unknown" session="110" type="s" number="2929"/>
+    <bill relation="unknown" session="110" type="s" number="3035"/>
+    <bill relation="unknown" session="110" type="s" number="3180"/>
+    <bill relation="unknown" session="110" type="s" number="3352"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Authorization"/>
+    <term name="Department of Education"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to education"/>
+    <term name="Government operations and politics"/>
+    <term name="Higher education"/>
+    <term name="Scholarships"/>
+    <term name="Student aid"/>
+    <term name="Student loan funds"/>
+  </subjects>
+  <amendments/>
+  <summary>10/23/2007--Passed House without amendment.
+Third Higher Education Extension Act of 2007 - Amends the Higher Education Extension Act of 2005 to extend the programs under the Higher Education Act of 1965 through April 30, 2008.</summary>
+</bill>

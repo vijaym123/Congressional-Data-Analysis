@@ -1,0 +1,91 @@
+<bill session="110" type="h" number="1505" updated="2013-07-19T21:16:50-04:00">
+  <state datetime="2007-05-15T13:35:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-05-15T13:35:00-04:00"/>
+  </status>
+  <introduced datetime="2007-03-13"/>
+  <titles>
+    <title as="introduced" type="official">To designate the Federal building located at 131 East 4th Street in Davenport, Iowa, as the "James A. Leach Federal Building".</title>
+    <title as="amended by house" type="official">To designate the United States courthouse located at 131 East 4th Street in Davenport, Iowa, as the "James A. Leach Federal Building."</title>
+  </titles>
+  <sponsor id="412209"/>
+  <cosponsors>
+    <cosponsor id="400042" joined="2007-03-14"/>
+    <cosponsor id="412208" joined="2007-03-13"/>
+    <cosponsor id="400220" joined="2007-03-19"/>
+    <cosponsor id="400234" joined="2007-03-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-03-13">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2007-03-14">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2007-05-02">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2007-05-02">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-05-02">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2007-05-08T16:51:00-04:00">
+      <text>Reported (Amended) by the Committee on Transportation. H. Rept. 110-132.</text>
+    </action>
+    <calendar datetime="2007-05-08T16:52:00-04:00" calendar="House" number="53">
+      <text>Placed on the House Calendar, Calendar No. 53.</text>
+    </calendar>
+    <action datetime="2007-05-15T13:15:00-04:00">
+      <text>Ms. Johnson, E. B. moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-05-15T13:15:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5001-5003" label="consideration"/>
+    </action>
+    <action datetime="2007-05-15T13:15:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1505.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-05-15T13:35:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5001" label="text"/>
+    </vote>
+    <action datetime="2007-05-15T13:35:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-05-15T13:35:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-05-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="861"/>
+    <bill relation="unknown" session="110" type="s" number="861"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Courthouses"/>
+    <term name="Ex-Members of Congress"/>
+    <term name="Federal office buildings"/>
+    <term name="Iowa"/>
+    <term name="Law"/>
+    <term name="Names"/>
+  </subjects>
+  <amendments/>
+  <summary>5/15/2007--Passed House amended.
+Designates the U.S. courthouse located at 131 East 4th Street in Davenport, Iowa, as the "James A. Leach United States Courthouse."</summary>
+</bill>

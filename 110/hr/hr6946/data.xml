@@ -1,0 +1,75 @@
+<bill session="110" type="h" number="6946" updated="2013-07-19T22:04:28-04:00">
+  <state datetime="2008-10-08">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2008-10-08"/>
+  </status>
+  <introduced datetime="2008-09-18"/>
+  <titles>
+    <title as="introduced" type="official">To make a technical correction in the NET 911 Improvement Act of 2008.</title>
+  </titles>
+  <sponsor id="400110"/>
+  <cosponsors>
+    <cosponsor id="400018" joined="2008-09-18"/>
+    <cosponsor id="400155" joined="2008-09-18"/>
+    <cosponsor id="400253" joined="2008-09-18"/>
+    <cosponsor id="400373" joined="2008-09-18"/>
+    <cosponsor id="400388" joined="2008-09-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-09-18">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2008-09-25T17:14:00-04:00">
+      <text>Committee on Energy and Commerce discharged.</text>
+    </action>
+    <action datetime="2008-09-25T17:15:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H9926" label="consideration"/>
+    </action>
+    <action datetime="2008-09-25T17:15:00-04:00">
+      <text>Mr. Pallone asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-09-25T17:15:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H9926" label="text"/>
+    </vote>
+    <action datetime="2008-09-25T17:15:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-09-26">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2008-09-27" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S10019" label="consideration"/>
+    </vote>
+    <action datetime="2008-09-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2008-09-27">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2008-09-30">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2008-10-08">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2008-10-08" type="public" number="110-368">
+      <text>Became Public Law No: 110-368.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Emergency communication systems"/>
+    <term name="Emergency management"/>
+    <term name="Internet"/>
+  </subjects>
+  <amendments/>
+  <summary>10/8/2008--Public Law.
+Amends the Wireless Communications and Public Safety Act of 1999 to make a technical correction, to be effective on July 23, 2008, immediately after the enactment of the NET 911 Improvement Act of 2008.</summary>
+</bill>

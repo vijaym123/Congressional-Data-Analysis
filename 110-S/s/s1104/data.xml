@@ -1,0 +1,133 @@
+<bill session="110" type="s" number="1104" updated="2013-07-19T22:29:48-04:00">
+  <state datetime="2007-06-15">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2007-06-15"/>
+  </status>
+  <introduced datetime="2007-04-12"/>
+  <titles>
+    <title as="introduced" type="official">A bill to increase the number of Iraqi and Afghani translators and interpreters who may be admitted to the United States as special immigrants.</title>
+    <title as="amended by house" type="official">A bill to increase the number of Iraqi and Afghani translators and interpreters who may be admitted to the United States as special immigrants, and for other purposes.</title>
+    <title as="amended by senate" type="official">An act to increase the number of Iraqi and Afghani translators and interpreters who may be admitted to the United States as special immigrants, and for other purposes.</title>
+  </titles>
+  <sponsor id="300070"/>
+  <cosponsors>
+    <cosponsor id="300010" joined="2007-04-12"/>
+    <cosponsor id="300024" joined="2007-04-12"/>
+    <cosponsor id="300027" joined="2007-04-12"/>
+    <cosponsor id="300034" joined="2007-04-12"/>
+    <cosponsor id="400194" joined="2007-04-12"/>
+    <cosponsor id="300059" joined="2007-04-12"/>
+    <cosponsor id="300065" joined="2007-04-12"/>
+    <cosponsor id="300066" joined="2007-04-12"/>
+    <cosponsor id="300067" joined="2007-04-12"/>
+    <cosponsor id="300090" joined="2007-04-12"/>
+    <cosponsor id="300095" joined="2007-04-12"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2007-04-12" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4454-4455" label="consideration"/>
+      <reference ref="CR S4455" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2007-04-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2007-04-16T14:06:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2007-04-16">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2007-04-20">
+      <text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2007-05-17">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar datetime="2007-05-17">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2007-05-21T20:16:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 110-158.</text>
+    </action>
+    <calendar datetime="2007-05-21T20:16:00-04:00" calendar="Union" number="94">
+      <text>Placed on the Union Calendar, Calendar No. 94.</text>
+    </calendar>
+    <action datetime="2007-05-22T14:59:00-04:00">
+      <text>Mr. Berman moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-05-22T15:01:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5572-5576" label="consideration"/>
+    </action>
+    <action datetime="2007-05-22T15:01:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 1104.</text>
+    </action>
+    <action datetime="2007-05-22T15:29:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2007-05-22T16:30:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5582" label="consideration"/>
+    </action>
+    <vote state="PASS_BACK:HOUSE" datetime="2007-05-22T16:36:00-04:00" how="roll" result="pass" roll="399" type="vote2" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 8 (Roll no. 399).</text>
+      <reference ref="CR H5572" label="text"/>
+    </vote>
+    <action datetime="2007-05-22T16:36:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-05-22T16:36:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-05-23">
+      <text>Message on House action received in Senate and at desk: House amendments to Senate bill.</text>
+    </action>
+    <action datetime="2007-05-24">
+      <text>Senate agreed to the amendments (Amendment and Title Amendment) of the House by Unanimous Consent.</text>
+      <reference ref="CR S6924" label="consideration"/>
+      <reference ref="CR S6924" label="text as Senate agreed to House amendments"/>
+    </action>
+    <topresident datetime="2007-05-24">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2007-06-04">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2007-06-15">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2007-06-15" type="public" number="110-36">
+      <text>Became Public Law No: 110-36.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Citizenship, Refugees, Border Security, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="1790"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Admission of nonimmigrants"/>
+    <term name="Afghanistan"/>
+    <term name="Alien labor"/>
+    <term name="Armed forces and national security"/>
+    <term name="Government operations and politics"/>
+    <term name="Immigrants"/>
+    <term name="Iraq"/>
+    <term name="Iraq compilation"/>
+    <term name="Labor and employment"/>
+    <term name="Middle East and North Africa"/>
+    <term name="Military operations"/>
+    <term name="South Asia"/>
+    <term name="Translating and interpreting"/>
+  </subjects>
+  <amendments/>
+  <summary>6/15/2007--Public Law.
+Amends the National Defense Authorization Act for Fiscal Year 2006 to authorize special immigrant status for certain Afghan or Iraqi translators or interpreters working with the U.S. Armed Forces or federal agencies under the Chief of Mission in Afghanistan and Iraq. (Currently, such status is authorized for Afghan and Iraqi translators working with U.S. Armed Forces in Afghanistan and Iraq.) Authorizes: (1) additional FY2007-FY2008 entrants (up to 500 annually); and (2) adjustment to permanent resident status.</summary>
+</bill>

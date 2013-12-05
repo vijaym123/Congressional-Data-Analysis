@@ -1,0 +1,51 @@
+<bill session="109" type="h" number="4072" updated="2013-07-19T19:40:21-04:00">
+  <state datetime="2005-10-18">REFERRED</state>
+  <status>
+    <introduced datetime="2005-10-18"/>
+  </status>
+  <introduced datetime="2005-10-18"/>
+  <titles>
+    <title as="introduced" type="official">To direct the Federal Trade Commission to revise the do-not-call telemarketing rules to prohibit calls from certain political organizations to persons on the national do-not-call registry.</title>
+  </titles>
+  <sponsor id="400147"/>
+  <cosponsors>
+    <cosponsor id="400019" joined="2005-11-02"/>
+    <cosponsor id="400648" joined="2005-10-28"/>
+    <cosponsor id="400658" joined="2006-02-07"/>
+    <cosponsor id="400646" joined="2006-02-01"/>
+    <cosponsor id="400150" joined="2005-11-10"/>
+    <cosponsor id="400375" joined="2005-10-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-10-18">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2005-11-04">
+      <text>Referred to the Subcommittee on Commerce, Trade and Consumer Protection.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF17" subcommittee="Commerce, Trade and Consumer Protection" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Administrative procedure"/>
+    <term name="Consumer protection"/>
+    <term name="Directories"/>
+    <term name="Federal Trade Commission"/>
+    <term name="Government operations and politics"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Law"/>
+    <term name="Political action committees"/>
+    <term name="Political advertising"/>
+    <term name="Political parties"/>
+    <term name="Science, technology, communications"/>
+    <term name="Telemarketing"/>
+  </subjects>
+  <amendments/>
+  <summary>10/18/2005--Introduced.
+Directs the Federal Trade Commission to prohibit, as an abusive telemarketing act or practice, telephone calls from any political organization to persons on the "do-not-call" registry more than 30 days before a primary or general election.</summary>
+</bill>

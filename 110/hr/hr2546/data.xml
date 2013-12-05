@@ -1,0 +1,104 @@
+<bill session="110" type="h" number="2546" updated="2013-07-19T21:25:59-04:00">
+  <state datetime="2007-11-15">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2007-11-15"/>
+  </status>
+  <introduced datetime="2007-05-24"/>
+  <titles>
+    <title as="introduced" type="official">To designate the Department of Veterans Affairs Medical Center in Asheville, North Carolina, as the "Charles George Department of Veterans Affairs Medical Center".</title>
+  </titles>
+  <sponsor id="412225"/>
+  <cosponsors>
+    <cosponsor id="400616" joined="2007-05-24"/>
+    <cosponsor id="400076" joined="2007-05-24"/>
+    <cosponsor id="400125" joined="2007-05-24"/>
+    <cosponsor id="400643" joined="2007-05-24"/>
+    <cosponsor id="400172" joined="2007-05-24"/>
+    <cosponsor id="400209" joined="2007-05-24"/>
+    <cosponsor id="400644" joined="2007-05-24"/>
+    <cosponsor id="400266" joined="2007-05-24"/>
+    <cosponsor id="400280" joined="2007-05-24"/>
+    <cosponsor id="400288" joined="2007-05-24"/>
+    <cosponsor id="400326" joined="2007-05-24"/>
+    <cosponsor id="400424" joined="2007-05-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-05-24">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2007-05-29">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2007-06-25T16:27:00-04:00">
+      <text>Mr. Hare moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-06-25T16:28:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7037-7039" label="consideration"/>
+    </action>
+    <action datetime="2007-06-25T16:28:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2546.</text>
+    </action>
+    <action datetime="2007-06-25T16:37:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2007-06-25T18:24:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7051" label="consideration"/>
+    </action>
+    <action datetime="2007-06-25T18:30:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-06-25T18:30:00-04:00" how="roll" result="pass" roll="550" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 0 (Roll no. 550).</text>
+      <reference ref="CR H7037" label="text"/>
+    </vote>
+    <action datetime="2007-06-26">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2007-11-01">
+      <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text>
+      <reference ref="CR S13713" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2007-11-01" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <topresident datetime="2007-11-01">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2007-11-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2007-11-06">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2007-11-15">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2007-11-15" type="public" number="110-117">
+      <text>Became Public Law No: 110-117.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional tributes"/>
+    <term name="Health"/>
+    <term name="History"/>
+    <term name="Korean War, 1950-1953"/>
+    <term name="Military personnel"/>
+    <term name="Names"/>
+    <term name="North Carolina"/>
+    <term name="Veterans' hospitals"/>
+  </subjects>
+  <amendments/>
+  <summary>11/15/2007--Public Law.
+Designates the Department of Veterans Affairs Medical Center located at 1100 Tunnel Road, Asheville, North Carolina, as the "Charles George Department of Veterans Affairs Medical Center."</summary>
+</bill>

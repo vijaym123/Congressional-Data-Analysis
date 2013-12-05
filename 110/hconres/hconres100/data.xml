@@ -1,0 +1,124 @@
+<bill session="110" type="hc" number="100" updated="2013-07-19T22:09:39-04:00">
+  <state datetime="2007-04-17T18:51:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-04-17T18:51:00-04:00"/>
+  </status>
+  <introduced datetime="2007-03-26"/>
+  <titles>
+    <title as="introduced" type="official">Condemning the recent violent actions of the Government of Zimbabwe against peaceful opposition party activists and members of civil society.</title>
+  </titles>
+  <sponsor id="400231"/>
+  <cosponsors>
+    <cosponsor id="400001" joined="2007-03-26"/>
+    <cosponsor id="400025" joined="2007-03-26"/>
+    <cosponsor id="400033" joined="2007-03-26"/>
+    <cosponsor id="400048" joined="2007-03-26"/>
+    <cosponsor id="400055" joined="2007-03-26"/>
+    <cosponsor id="400113" joined="2007-03-26"/>
+    <cosponsor id="400122" joined="2007-03-26"/>
+    <cosponsor id="400130" joined="2007-03-26"/>
+    <cosponsor id="400640" joined="2007-03-26"/>
+    <cosponsor id="400662" joined="2007-03-26"/>
+    <cosponsor id="400170" joined="2007-03-26"/>
+    <cosponsor id="400198" joined="2007-03-26"/>
+    <cosponsor id="400199" joined="2007-03-26"/>
+    <cosponsor id="400201" joined="2007-03-26"/>
+    <cosponsor id="400204" joined="2007-03-28"/>
+    <cosponsor id="400215" joined="2007-03-26"/>
+    <cosponsor id="400237" joined="2007-03-27"/>
+    <cosponsor id="400283" joined="2007-03-26"/>
+    <cosponsor id="400312" joined="2007-03-26"/>
+    <cosponsor id="400320" joined="2007-03-26"/>
+    <cosponsor id="400344" joined="2007-03-26"/>
+    <cosponsor id="400348" joined="2007-03-26"/>
+    <cosponsor id="400350" joined="2007-03-26"/>
+    <cosponsor id="400363" joined="2007-03-26"/>
+    <cosponsor id="400371" joined="2007-03-26"/>
+    <cosponsor id="400379" joined="2007-03-26"/>
+    <cosponsor id="400380" joined="2007-03-26"/>
+    <cosponsor id="400412" joined="2007-03-26"/>
+    <cosponsor id="400423" joined="2007-03-26"/>
+    <cosponsor id="400430" joined="2007-03-26"/>
+    <cosponsor id="400436" joined="2007-03-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-03-26">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2007-03-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Foreign Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-03-27">
+      <text>Committee Agreed to Seek Consideration Under Suspension of the Rules, by Voice Vote.</text>
+      <committee name="House Committee on Foreign Affairs"/>
+    </calendar>
+    <action datetime="2007-04-17T14:31:00-04:00">
+      <text>Mr. Lantos moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2007-04-17T14:31:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3426-3429" label="consideration"/>
+    </action>
+    <action datetime="2007-04-17T14:31:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 100.</text>
+    </action>
+    <action datetime="2007-04-17T14:51:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2007-04-17T18:41:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3437" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-04-17T18:51:00-04:00" how="roll" result="pass" roll="216" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0, 4 Present (Roll no. 216).</text>
+      <reference ref="CR H3426-3427" label="text"/>
+    </vote>
+    <action datetime="2007-04-17T18:51:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-04-18">
+      <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="sc" number="25"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Administration of justice"/>
+    <term name="Africa (Sub-Saharan)"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Congressional tributes"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Democracy"/>
+    <term name="Detention of persons"/>
+    <term name="Diplomats"/>
+    <term name="Dissenters"/>
+    <term name="Federal officials"/>
+    <term name="Government operations and politics"/>
+    <term name="Human rights"/>
+    <term name="Judicial opinions"/>
+    <term name="Law"/>
+    <term name="Lawyers"/>
+    <term name="Opposition (Political science)"/>
+    <term name="Police"/>
+    <term name="Political persecution"/>
+    <term name="Political violence"/>
+    <term name="Protection of officials"/>
+    <term name="Regionalism (International organization)"/>
+    <term name="Reporters and reporting"/>
+    <term name="Right to travel"/>
+    <term name="Rule of law"/>
+    <term name="Torture"/>
+    <term name="Transportation and public works"/>
+    <term name="Zimbabwe"/>
+  </subjects>
+  <amendments/>
+  <summary>4/17/2007--Passed House amended.
+Expresses the sense of Congress that: (1) the state-sponsored violence taking place in Zimbabwe represents a serious violation of fundamental human rights and the rule of law and should be condemned by all responsible governments, civic organizations, religious leaders, and international bodies; and (2) the government of Zimbabwe has not lived up to its commitments as a signatory to the Constitutive Act of the African Union and African Charter of Human and Peoples Rights. Condemns: (1) the government of Zimbabwe's violent suppression of political and human rights; (2) government harassment and intimidation of lawyers attempting to carry out their professional obligations to their clients and repeated failure by police to comply with court decisions; and (3) the harassment of foreign officials, journalists, human rights workers, and others. Holds individual police, security force members, and militia involved in abuse and torture responsible for the acts that they have committed. Commends U.S. Ambassador Christopher Dell and other U.S. officials and foreign officials for their support to political detainees and victims of torture and abuse while in police custody or in medical care centers. Calls on the government of Zimbabwe to end: (1) its violent campaign against fundamental human rights, respect the courts and members of the legal profession, and restore the rule of law; and (2) illegitimate interference in travel abroad by its citizens, especially for humanitarian purposes. Calls on the leaders of the Southern Africa Development Community (SADC) and the African Union (AU) to consult with all Zimbabwe stakeholders to intervene with the government of Zimbabwe while applying appropriate pressures to resolve the economic and political crisis.</summary>
+</bill>

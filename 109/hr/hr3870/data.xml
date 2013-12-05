@@ -1,0 +1,52 @@
+<bill session="109" type="h" number="3870" updated="2013-07-19T19:38:34-04:00">
+  <state datetime="2005-09-22">REFERRED</state>
+  <status>
+    <introduced datetime="2005-09-22"/>
+  </status>
+  <introduced datetime="2005-09-22"/>
+  <titles>
+    <title as="introduced" type="official">To amend part D of title XVIII of the Social Security Act to delay for 2 years implementation of the Medicare prescription drug benefit for individuals who are not lowest-income subsidy eligible individuals.</title>
+  </titles>
+  <sponsor id="400134"/>
+  <cosponsors>
+    <cosponsor id="400016" joined="2005-10-26"/>
+    <cosponsor id="400131" joined="2005-10-26"/>
+    <cosponsor id="400175" joined="2005-09-22"/>
+    <cosponsor id="400649" joined="2005-10-19"/>
+    <cosponsor id="400279" joined="2005-09-28"/>
+    <cosponsor id="400284" joined="2005-09-28"/>
+    <cosponsor id="400311" joined="2005-10-20"/>
+    <cosponsor id="400315" joined="2005-09-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-09-22">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2005-09-22">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2005-09-22">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2005-10-07">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Drugs"/>
+    <term name="Medicare"/>
+    <term name="Prescription pricing"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>9/22/2005--Introduced.
+Amends part D (Voluntary Prescription Drug Benefit Program) of title XVIII (Medicare) of the Social Security Act to delay until after 2007 implementation of the Medicare prescription drug benefit for all individuals but the lowest-income subsidy-eligible individuals.</summary>
+</bill>

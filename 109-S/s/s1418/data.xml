@@ -1,0 +1,162 @@
+<bill session="109" type="s" number="1418" updated="2013-07-19T20:25:55-04:00">
+  <state datetime="2005-11-18">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-11-18"/>
+  </status>
+  <introduced datetime="2005-07-18"/>
+  <titles>
+    <title as="introduced" type="short">Wired for Health Care Quality Act</title>
+    <title as="reported to senate" type="short">Wired for Health Care Quality Act</title>
+    <title as="passed senate" type="short">Wired for Health Care Quality Act</title>
+    <title as="introduced" type="official">A bill to enhance the adoption of a nationwide inter operable health information technology system and to improve the quality and reduce the costs of health care in the United States.</title>
+  </titles>
+  <sponsor id="300041"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2005-07-18"/>
+    <cosponsor id="300004" joined="2005-07-29"/>
+    <cosponsor id="300009" joined="2005-07-18"/>
+    <cosponsor id="300010" joined="2005-07-18"/>
+    <cosponsor id="400054" joined="2005-07-18"/>
+    <cosponsor id="300016" joined="2005-10-06"/>
+    <cosponsor id="300018" joined="2005-09-19"/>
+    <cosponsor id="300019" joined="2005-07-26"/>
+    <cosponsor id="300021" joined="2005-07-29"/>
+    <cosponsor id="300022" joined="2005-07-18"/>
+    <cosponsor id="300023" joined="2005-10-04"/>
+    <cosponsor id="300027" joined="2005-09-26"/>
+    <cosponsor id="300033" joined="2005-07-18"/>
+    <cosponsor id="300034" joined="2005-07-18"/>
+    <cosponsor id="300038" joined="2005-07-26"/>
+    <cosponsor id="300040" joined="2005-07-22"/>
+    <cosponsor id="300045" joined="2005-07-18"/>
+    <cosponsor id="300049" joined="2005-07-22"/>
+    <cosponsor id="300050" joined="2005-07-18"/>
+    <cosponsor id="300051" joined="2005-07-18"/>
+    <cosponsor id="400194" joined="2005-07-18"/>
+    <cosponsor id="300057" joined="2005-07-18"/>
+    <cosponsor id="300058" joined="2005-11-08"/>
+    <cosponsor id="300059" joined="2005-07-18"/>
+    <cosponsor id="300063" joined="2005-07-22"/>
+    <cosponsor id="400621" joined="2005-07-18"/>
+    <cosponsor id="300073" joined="2005-07-18"/>
+    <cosponsor id="300076" joined="2005-07-18"/>
+    <cosponsor id="300078" joined="2005-07-18"/>
+    <cosponsor id="400629" joined="2005-07-18"/>
+    <cosponsor id="300081" joined="2005-07-22"/>
+    <cosponsor id="300083" joined="2005-07-18"/>
+    <cosponsor id="300085" joined="2005-11-17"/>
+    <cosponsor id="300088" joined="2005-07-22"/>
+    <cosponsor id="300091" joined="2005-11-17"/>
+    <cosponsor id="300093" joined="2005-11-17"/>
+    <cosponsor id="300096" joined="2005-07-18"/>
+    <cosponsor id="300098" joined="2005-10-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-07-18">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S8420-8421"/>
+    </action>
+    <action state="REFERRED" datetime="2005-07-18">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S8421-8426" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-07-20">
+      <text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Health, Education, Labor, and Pensions"/>
+    </calendar>
+    <action datetime="2005-07-27">
+      <text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Enzi with an amendment in the nature of a substitute. With written report No. 109-111.</text>
+    </action>
+    <calendar datetime="2005-07-27" calendar="Senate Legislative" under="General Orders" number="178">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 178.</text>
+    </calendar>
+    <action datetime="2005-11-18">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR 11/17/2005 S13260-13277" label="consideration"/>
+      <reference ref="CR 11/17/2005 S13261-13271" label="text of measure as reported in Senate"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2005-11-18" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2005-11-18T10:33:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-11-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-11-18">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2005-12-16">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Markup, Reporting"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="4642"/>
+    <bill relation="unknown" session="109" type="h" number="4726"/>
+    <bill relation="unknown" session="109" type="s" number="1355"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Authorization"/>
+    <term name="Biological warfare"/>
+    <term name="Chronically ill"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Commerce"/>
+    <term name="Communicable diseases"/>
+    <term name="Communication in medicine"/>
+    <term name="Computer security measures"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Cost control"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Electronic data interchange"/>
+    <term name="Emergency management"/>
+    <term name="Emergency medicine"/>
+    <term name="Epidemiology"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal aid to health facilities"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government lending"/>
+    <term name="Government operations and politics"/>
+    <term name="Government publicity"/>
+    <term name="Governmental investigations"/>
+    <term name="Health information systems"/>
+    <term name="Higher education"/>
+    <term name="Hospitals"/>
+    <term name="Information technology"/>
+    <term name="Law"/>
+    <term name="Licenses"/>
+    <term name="Medical economics"/>
+    <term name="Medical education"/>
+    <term name="Medical personnel"/>
+    <term name="Medical records"/>
+    <term name="Medical research"/>
+    <term name="Performance measurement"/>
+    <term name="Presidential appointments"/>
+    <term name="Preventive medicine"/>
+    <term name="Public-private partnerships"/>
+    <term name="Quality of care"/>
+    <term name="Right of privacy"/>
+    <term name="Science, technology, communications"/>
+    <term name="Standards"/>
+    <term name="State laws"/>
+    <term name="Strategic planning"/>
+    <term name="Telemedicine"/>
+    <term name="Telephone"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2671"/>
+  </amendments>
+  <summary>11/18/2005--Passed Senate amended.
+Wired for Health Care Quality Act - (Sec. 2) Amends the Public Health Service Act to establish the Office of the National Coordinator of Health Information Technology to coordinate with relevant federal agencies and private entities and oversee programs and activities to develop a nationwide interoperable health information technology infrastructure. Requires the National Coordinator to: (1) serve as the principal advisor to the Secretary of Health and Human Services (the Secretary) concerning the development, application, and use of health information technology and to coordinate and oversee the health information technology programs of the Department of Health and Human Services (HHS); (2) facilitate the adoption of a nationwide, interoperable system for the electronic exchange of health information; (3) ensure the adoption and implementation of standards for such exchange; (4) ensure that HHS health information technology policy and programs are coordinated with those of relevant executive branch agencies; (5) coordinate outreach and consultation by the relevant executive branch agencies with public and private parties of interest; and (6) advise the President regarding specific federal health information technology programs. Requires the Secretary to establish the public-private American Health Information Collaborative to: (1) advise the Secretary and recommend actions to achieve a nationwide interoperable health information technology infrastructure; (2) serve as a forum for the participation of a broad range of stakeholders to provide input on achieving the interoperability of health information technology; and (3) recommend standards for the electronic exchange of health information by the federal government and private entities. Requires the Collaborative to recommend to the Secretary uniform national policies to support the widespread adoption of health information technology, including: (1) protecting individually identifiable health information through privacy and security practices; (2) preventing unauthorized access to health information; (3) notifying patients if their individually identifiable health information is wrongfully disclosed; (4) facilitating secure patient access to health information; and (5) fostering the public understanding of health information technology. Deems the standards adopted by the Consolidated Health Informatics Initiative as having been recommended by the Collaborative. Requires the Collaborative to annually review existing standards, identify deficiencies, omissions, duplication, and overlap, and recommend modifications and/or new standards. Requires the Secretaries of HHS, Veteran Affairs, and Defense to jointly review the Collaborative's recommendations. Requires the Secretary of HHS to provide for the adoption by the federal government of any recommended standards, if appropriate. Prohibits any federal agency from expending federal funds to purchase any new health information technology that is inconsistent with adopted standards. Requires all federal agencies collecting health data to comply with the adopted standards within three years. Requires the Secretary to develop criteria to: (1) ensure uniform and consistent implementation of any standards voluntarily adopted by private entities; and (2) ensure and certify hardware, software, and support services compliance with applicable adopted standards. Allows the Secretary to award grants to: (1) facilitate the purchase and enhance the utilization of qualified health information technology systems; (2) implement regional or local health information plans; and (3) carry out demonstration projects to develop academic curricula integrating qualified health information technology systems in the clinical education of health professionals. Requires the Secretary to develop measures of the quality of care patients receive and ensure that such measures: (1) are evidence based, reliable, and valid; (2) are consistent with the purposes of developing a nationwide interoperable health information technology infrastructure; (3) include measures of clinical processes and outcomes, patient experience, efficiency, and equity; and (4) include measures of overuse and underuse of health care items and services. Requires the Secretary to: (1) adopt and utilize such quality measures; (2) implement procedures to accept the electronic submission of quality measurement data; and (3) disseminate recommendations and best practices derived from the analysis of quality measures. (Sec. 3) Requires the Secretary to carry out a study that examines the impact that variations among state laws relating to licensure, registration, and certification of medical professionals have on the secure electronic exchange of health information. (Sec. 5) Requires the Comptroller General to report on the necessity and workability of requiring health plans, health care clearinghouses, and health care providers who transmit health information in electronic form to notify patients if their individually identifiable health information is wrongfully disclosed. (Sec. 6) Requires the Secretary to study methods to create efficient reimbursement incentives for improving health care quality in federally qualified health centers, rural health clinics, and free clinics. (Sec. 7) Requires the Secretary, acting through the Director of the Agency for Healthcare Quality and Research (AHRQ), to develop a Health Information Technology Resource Center to provide technical assistance and develop best practices to support and accelerate efforts to adopt, implement, and effectively use interoperable health information technology. Requires the Secretary to establish a toll-free telephone number or Internet website to provide health care providers and patients with a single point of contact regarding health information technology. (Sec. 8) Reauthorizes appropriations for grants to reduce statutory and regulatory barriers to telemedicine.</summary>
+</bill>

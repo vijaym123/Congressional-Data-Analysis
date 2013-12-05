@@ -1,0 +1,117 @@
+<bill session="110" type="h" number="4140" updated="2013-07-19T21:40:08-04:00">
+  <state datetime="2008-07-15">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2008-07-15"/>
+  </status>
+  <introduced datetime="2007-11-09"/>
+  <titles>
+    <title as="introduced" type="official">To designate the Port Angeles Federal Building in Port Angeles, Washington, as the "Richard B. Anderson Federal Building".</title>
+  </titles>
+  <sponsor id="400109"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2007-11-09">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2007-11-13">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2008-01-16">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2008-01-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-01-16">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2008-01-28T14:00:00-05:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 110-515.</text>
+    </action>
+    <calendar datetime="2008-01-28T14:01:00-05:00" calendar="House" number="180">
+      <text>Placed on the House Calendar, Calendar No. 180.</text>
+    </calendar>
+    <action datetime="2008-01-28T14:34:00-05:00">
+      <text>Ms. Johnson, E. B. moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2008-01-28T14:34:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H463-464" label="consideration"/>
+    </action>
+    <action datetime="2008-01-28T14:34:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4140.</text>
+    </action>
+    <action datetime="2008-01-28T14:38:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2008-01-28T17:28:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H471-472" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-01-28T17:37:00-05:00" how="roll" result="pass" roll="24" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 388 - 0 (Roll no. 24).</text>
+      <reference ref="CR H463" label="text"/>
+    </vote>
+    <action datetime="2008-01-28T17:37:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-01-29">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2008-02-28">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <calendar datetime="2008-05-21">
+      <text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Environment and Public Works"/>
+    </calendar>
+    <action datetime="2008-06-04">
+      <text>Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2008-06-04" calendar="Senate Legislative" under="General Orders" number="766">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 766.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="2008-06-24" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6080-6081" label="consideration"/>
+    </vote>
+    <topresident datetime="2008-06-24">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2008-06-25">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2008-07-07">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2008-07-15">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2008-07-15" type="public" number="110-266">
+      <text>Became Public Law No: 110-266.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="2336"/>
+    <bill relation="unknown" session="110" type="s" number="2336"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Federal office buildings"/>
+    <term name="Names"/>
+    <term name="Washington State"/>
+  </subjects>
+  <amendments/>
+  <summary>7/15/2008--Public Law.
+Designates the federal building located at 138 West First Street, Port Angeles, Washington, as the "Richard B. Anderson Federal Building."</summary>
+</bill>

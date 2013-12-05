@@ -1,0 +1,125 @@
+<bill session="110" type="h" number="2139" updated="2013-07-19T21:22:25-04:00">
+  <state datetime="2007-06-25T15:31:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-06-25T15:31:00-04:00"/>
+  </status>
+  <introduced datetime="2007-05-03"/>
+  <titles>
+    <title as="introduced" type="short">FHA Manufactured Housing Loan Modernization Act of 2007</title>
+    <title as="reported to house" type="short">FHA Manufactured Housing Loan Modernization Act of 2007</title>
+    <title as="passed house" type="short">FHA Manufactured Housing Loan Modernization Act of 2007</title>
+    <title as="introduced" type="official">To modernize the manufactured housing loan insurance program under title I of the National Housing Act.</title>
+  </titles>
+  <sponsor id="412205"/>
+  <cosponsors>
+    <cosponsor id="400042" joined="2007-06-13"/>
+    <cosponsor id="400044" joined="2007-06-13"/>
+    <cosponsor id="400057" joined="2007-06-13"/>
+    <cosponsor id="400067" joined="2007-05-24"/>
+    <cosponsor id="400442" joined="2007-06-14"/>
+    <cosponsor id="400639" joined="2007-06-13"/>
+    <cosponsor id="400633" joined="2007-06-13"/>
+    <cosponsor id="400096" joined="2007-06-14"/>
+    <cosponsor id="412215" joined="2007-06-15"/>
+    <cosponsor id="412206" joined="2007-06-14"/>
+    <cosponsor id="400125" joined="2007-06-19"/>
+    <cosponsor id="400131" joined="2007-05-03"/>
+    <cosponsor id="400140" joined="2007-05-03"/>
+    <cosponsor id="400150" joined="2007-06-15"/>
+    <cosponsor id="400178" joined="2007-05-24"/>
+    <cosponsor id="400209" joined="2007-06-19"/>
+    <cosponsor id="400222" joined="2007-06-14"/>
+    <cosponsor id="400225" joined="2007-06-15"/>
+    <cosponsor id="400644" joined="2007-06-13"/>
+    <cosponsor id="400282" joined="2007-06-14"/>
+    <cosponsor id="400661" joined="2007-06-14"/>
+    <cosponsor id="400313" joined="2007-06-13"/>
+    <cosponsor id="400331" joined="2007-06-13"/>
+    <cosponsor id="400363" joined="2007-06-13"/>
+    <cosponsor id="400371" joined="2007-06-13"/>
+    <cosponsor id="412186" joined="2007-06-15"/>
+    <cosponsor id="400385" joined="2007-06-15"/>
+    <cosponsor id="400406" joined="2007-05-03"/>
+    <cosponsor id="412227" joined="2007-06-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-05-03">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2007-05-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-05-23">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Financial Services"/>
+    </calendar>
+    <action datetime="2007-06-21T21:07:00-04:00">
+      <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 110-206.</text>
+    </action>
+    <calendar datetime="2007-06-21T21:07:00-04:00" calendar="Union" number="125">
+      <text>Placed on the Union Calendar, Calendar No. 125.</text>
+    </calendar>
+    <action datetime="2007-06-25T15:21:00-04:00">
+      <text>Mr. Donnelly moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-06-25T15:21:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7025-7027" label="consideration"/>
+    </action>
+    <action datetime="2007-06-25T15:21:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2139.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-06-25T15:31:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7025-7026" label="text"/>
+    </vote>
+    <action datetime="2007-06-25T15:31:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-06-26">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup, Reporting"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="1741"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Administrative procedure"/>
+    <term name="Block grants"/>
+    <term name="Commerce"/>
+    <term name="Community development"/>
+    <term name="Congressional investigations"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Department of Housing and Urban Development"/>
+    <term name="Economics and public finance"/>
+    <term name="Emergency management"/>
+    <term name="Evidence (Law)"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government operations and politics"/>
+    <term name="Indexing (Economic policy)"/>
+    <term name="Infrastructure"/>
+    <term name="Insurance premiums"/>
+    <term name="Law"/>
+    <term name="Mobile homes"/>
+    <term name="Mortgage banks"/>
+    <term name="Mortgage guaranty insurance"/>
+    <term name="Mortgages"/>
+    <term name="Prefabricated buildings"/>
+    <term name="Risk"/>
+    <term name="Social security numbers"/>
+    <term name="Social welfare"/>
+    <term name="Standards"/>
+    <term name="Tornadoes"/>
+    <term name="Urban affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/2007--Passed House amended.
+FHA Manufactured Housing Loan Modernization Act of 2007 - Amends the National Housing Act with respect to Federal Housing Administration (FHA) housing loan insurance for manufactured homes (or lots for such homes). (Sec. 3) Exempts such loans from certain financial institution portfolio limits, increasing an allowable claim for loss from 10% to 90% of an institution's total amount of such loans, credit advances, and purchases. (Sec. 4) Makes any new contract of insurance for such loans, credit advances, or purchases conclusive evidence of an institution's insurance eligibility. (Thus requires each loan to be insured individually instead of as part of a bundle of such loans.) (Sec. 5) Increases loan limits, requiring annual indexing. (Sec. 6) Prescribes requirements for payment by a borrower of premium charges for credit insurance, including an up-front premium of up to 2.25% and an annual premium of up to 1%. (Sec. 7) Revises requirements for the handling and disposal of any real or personal conveyed to or acquired by the Secretary of Housing and Urban Development (HUD), and the pursuit of all claims against mortgagors assigned to the Secretary by mortgagees. (Sec. 8) Directs the Secretary of HUD to: (1) establish underwriting criteria for loans and credit in connection with a manufactured home, or a lot for one, that will ensure the manufactured housing program's financial soundness; and (2) revise within six months existing criteria to accord with those established under this Act. (Sec. 9) Prohibits any grant of credit insurance to a financial institution unless the borrower to which a housing renovation or modernization loan or advance of credit was made, and each member of the borrower's family age 18 years or older, including the borrower's spouse, has a valid Social Security number. (Sec. 10) Directs the Comptroller General to assess, and report to Congress on, how the Secretary of HUD utilizes the FHA manufactured housing loan insurance program, the community development block grant program, and other programs and resources to mitigate the risks to manufactured housing residents and communities resulting from tornados.</summary>
+</bill>

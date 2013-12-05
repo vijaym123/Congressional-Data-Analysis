@@ -1,12 +1,24 @@
 import os
 import json
 import time
-directories = ["111","112","113"]
+directories = ["111","112"]
+
+
+def readicpsr(congress):
+	f=open(congress+"-icpsr.csv","r")
+	icpsrDict = dict()
+	for line in f:
+		#print line
+		data = line.split(";")
+		#print data
+		icpsrDict[" ".join(data[-1].split(","))[:5]]=data[1]
+	return icpsrDict
 
 for congress in directories:
 	fw = open("cosponsorship2013/house_datematrices/"+congress+"_housedatematrix.txt","w")
 	fwMembers = open("cosponsorship2013/house_members/"+congress+"_house.txt","w")	
 	fwMatrix = open("cosponsorship2013/house_matrices/"+congress+"_housematrix.txt","w")
+	icpsrDict = readicpsr(congress)
 	dataMatrix = dict()
 	members = dict()
 	matrix = dict()
@@ -51,7 +63,11 @@ for congress in directories:
 	line = ",".join(myList)
 	fw.write(line+"\n")
 	for thomasId in dataMatrix:
-		fwMembers.write(members[thomasId] +", "+ thomasId+"\n")
+		try :
+			fwMembers.write(members[thomasId] +", "+ thomasId+", "+ icpsrDict[members[thomasId].upper()[:5]]+"\n")
+		except:
+			print members[thomasId].upper(), congress
+			
 		myList = ["NA" for i in range(1,count+1)]
 		for bill in dataMatrix[thomasId]:
 			myList[int(bill[1:])-1] = dataMatrix[thomasId][bill]

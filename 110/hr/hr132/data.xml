@@ -1,0 +1,48 @@
+<bill session="110" type="h" number="132" updated="2013-07-19T21:04:57-04:00">
+  <state datetime="2007-01-04">REFERRED</state>
+  <status>
+    <introduced datetime="2007-01-04"/>
+  </status>
+  <introduced datetime="2007-01-04"/>
+  <titles>
+    <title as="introduced" type="official">To impose a criminal penalty on an alien who fails voluntarily to depart the United States after securing permission to do so, or who unlawfully returns to the United States after voluntarily departing.</title>
+  </titles>
+  <sponsor id="400144"/>
+  <cosponsors>
+    <cosponsor id="400260" joined="2007-01-16"/>
+    <cosponsor id="400277" joined="2007-01-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-04">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2007-01-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E3-4"/>
+    </action>
+    <action datetime="2007-02-02">
+      <text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2007-02-02">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Citizenship, Refugees, Border Security, and International Law" name="House Judiciary"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Illegal aliens"/>
+    <term name="Mandatory sentences"/>
+  </subjects>
+  <amendments/>
+  <summary>1/4/2007--Introduced.
+Amends the Immigration and Nationality Act to establish a criminal penalty for an alien permitted to depart voluntarily from the United States who: (1) fails to do so within the time period specified (currently, subject to civil penalty only); or (2) after such departure, illegally reenters, attempts to reenter, or is present in the United States.</summary>
+</bill>

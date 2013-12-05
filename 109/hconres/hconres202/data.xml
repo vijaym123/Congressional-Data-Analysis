@@ -1,0 +1,70 @@
+<bill session="109" type="hc" number="202" updated="2013-07-19T20:03:53-04:00">
+  <state datetime="2005-07-21">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2005-07-21"/>
+  </status>
+  <introduced datetime="2005-06-30"/>
+  <titles>
+    <title as="introduced" type="official">Permitting the use of the rotunda of the Capitol for a ceremony to honor Constantino Brumidi on the 200th anniversary of his birth.</title>
+  </titles>
+  <sponsor id="400309"/>
+  <cosponsors>
+    <cosponsor id="400028" joined="2005-06-30"/>
+    <cosponsor id="400231" joined="2005-07-19"/>
+    <cosponsor id="400251" joined="2005-06-30"/>
+    <cosponsor id="400268" joined="2005-07-20"/>
+    <cosponsor id="400273" joined="2005-06-30"/>
+    <cosponsor id="400316" joined="2005-07-20"/>
+    <cosponsor id="400377" joined="2005-07-19"/>
+    <cosponsor id="400423" joined="2005-07-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-06-30">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2005-07-20T10:45:00-04:00">
+      <text>Mr. Mica moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2005-07-20T10:45:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6115-6117" label="consideration"/>
+    </action>
+    <action datetime="2005-07-20T10:45:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 202.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-07-20T11:14:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H6115" label="text"/>
+    </vote>
+    <action datetime="2005-07-20T11:14:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2005-07-21" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S8712" label="consideration"/>
+    </vote>
+    <action datetime="2005-07-21">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="sc" number="44"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Art"/>
+    <term name="Artists"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="History"/>
+  </subjects>
+  <amendments/>
+  <summary>7/21/2005--Passed Senate without amendment.
+Authorizes the use of the rotunda of the Capitol on July 26, 2005, for a ceremony to honor Constantino Brumidi on the 200th anniversary of his birth.</summary>
+</bill>

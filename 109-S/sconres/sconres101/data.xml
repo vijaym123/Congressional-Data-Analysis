@@ -1,0 +1,74 @@
+<bill session="109" type="sc" number="101" updated="2013-07-19T20:13:17-04:00">
+  <state datetime="2006-11-16">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2006-11-16"/>
+  </status>
+  <introduced datetime="2006-06-14"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution condemning the repression of the Iranian Baha'i community and calling for the emancipation of Iranian Baha'is.</title>
+  </titles>
+  <sponsor id="300082"/>
+  <cosponsors>
+    <cosponsor id="300008" joined="2006-11-14"/>
+    <cosponsor id="300013" joined="2006-06-14"/>
+    <cosponsor id="300022" joined="2006-07-11"/>
+    <cosponsor id="300038" joined="2006-06-14"/>
+    <cosponsor id="300043" joined="2006-06-14"/>
+    <cosponsor id="300058" joined="2006-06-14"/>
+    <cosponsor id="300066" joined="2006-06-26"/>
+    <cosponsor id="300067" joined="2006-06-14"/>
+    <cosponsor id="300073" joined="2006-07-11"/>
+    <cosponsor id="300085" joined="2006-09-05"/>
+    <cosponsor id="300086" joined="2006-06-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-06-14">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S5879" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2006-11-16">
+      <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2006-11-16">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S11097-11102" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2006-11-16" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S11102" label="text"/>
+    </vote>
+    <action datetime="2006-11-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-12-05T10:20:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-12-05T17:08:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="hc" number="415"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Diplomacy"/>
+    <term name="Europe"/>
+    <term name="European Union"/>
+    <term name="Human rights"/>
+    <term name="Iran"/>
+    <term name="Middle East and North Africa"/>
+    <term name="Religion"/>
+    <term name="Religious liberty"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments>
+    <amendment number="s5193"/>
+  </amendments>
+  <summary>11/16/2006--Passed Senate amended.
+Calls on the government of Iran to cease repressive activities aimed at the Iranian Baha'i community, and holds the government of Iran responsible for upholding the rights of its nationals, including the Baha'i community. Requests the President to: (1) call for the government of Iran to emancipate the Baha'i community by granting those rights guaranteed by the International Covenant on Civil and Political Rights and other international human rights covenants; (2) emphasize that the United States regards the government of Iran's human rights practices, including its treatment of the Baha'i community and other religious minorities, as a significant factor in U.S.-Iran foreign policy; and (3) initiate a consistent dialogue with other governments and the European Union (EU) in order to persuade the government of Iran to rectify its human rights practices.</summary>
+</bill>

@@ -1,0 +1,76 @@
+<bill session="110" type="h" number="361" updated="2013-07-19T21:06:55-04:00">
+  <state datetime="2007-06-05T15:04:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-06-05T15:04:00-04:00"/>
+  </status>
+  <introduced datetime="2007-01-10"/>
+  <titles>
+    <title as="introduced" type="short">Lower Rio Grande Valley Water Resources Conservation and Improvement Act of 2007</title>
+    <title as="passed house" type="short">Lower Rio Grande Valley Water Resources Conservation and Improvement Act of 2007</title>
+    <title as="introduced" type="official">To amend the Lower Rio Grande Valley Water Resources Conservation and Improvement Act of 2000 to authorize additional projects and activities under that Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="400179"/>
+  <cosponsors>
+    <cosponsor id="400657" joined="2007-01-10"/>
+    <cosponsor id="400302" joined="2007-01-10"/>
+    <cosponsor id="400337" joined="2007-01-10"/>
+    <cosponsor id="400339" joined="2007-01-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-10">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-02-07">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-06-05T15:02:00-04:00">
+      <text>Mrs. Christensen moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-06-05T15:02:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5942-5944" label="consideration"/>
+    </action>
+    <action datetime="2007-06-05T15:02:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 361.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-06-05T15:04:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H5942-5943" label="text"/>
+    </vote>
+    <action datetime="2007-06-05T15:04:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-06-07">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2007-07-17">
+      <text>Star Print ordered on the bill.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Agriculture and food"/>
+    <term name="Authorization"/>
+    <term name="Canals"/>
+    <term name="Department of the Interior"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to water resources development"/>
+    <term name="Government operations and politics"/>
+    <term name="Infrastructure"/>
+    <term name="Irrigation"/>
+    <term name="Pipelines"/>
+    <term name="Texas"/>
+    <term name="Water conservation"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>6/5/2007--Passed House without amendment.
+Lower Rio Grande Valley Water Resources Conservation and Improvement Act of 2007 - Amends the Lower Rio Grande Valley Water Resources Conservation and Improvement Act of 2000 to authorize specified additional projects, including projects for water conservation and improvement in Cameron, Hidalgo, Willacy, Hudspeth, and El Paso counties, Texas. Authorizes appropriations.Permits each project that the Secretary of the Interior, acting through the Commissioner of the Bureau of Reclamation, conducts or participates in under such Act to include: (1) the replacement of irrigation canals and lateral canals with buried pipelines; (2) the impervious lining of canals; (3) the installation of water level, flow measurement, pump control, and telemetry systems; (4) the renovation and replacement of pumping plants; and (5) other activities that will result in water conservation or an improved water supply.Authorizes the Secretary to transfer and use up to 10% of amounts made available for any project authorized by this Act for any other such project.</summary>
+</bill>

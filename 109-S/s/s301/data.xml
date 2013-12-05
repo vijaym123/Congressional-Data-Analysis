@@ -1,0 +1,95 @@
+<bill session="109" type="s" number="301" updated="2013-07-19T20:16:01-04:00">
+  <state datetime="2005-07-26">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-07-26"/>
+  </status>
+  <introduced datetime="2005-02-07"/>
+  <titles>
+    <title as="introduced" type="short">Upper Connecticut River Partnership Act</title>
+    <title as="reported to senate" type="short">Upper Connecticut River Partnership Act</title>
+    <title as="passed senate" type="short">Upper Connecticut River Partnership Act</title>
+    <title as="introduced" type="official">A bill to authorize the Secretary of the Interior to provide assistance in implementing cultural heritage, conservation, and recreational activities in the Connecticut River watershed of the States of New Hampshire and Vermont.</title>
+  </titles>
+  <sponsor id="300065"/>
+  <cosponsors>
+    <cosponsor id="300049" joined="2005-02-07"/>
+    <cosponsor id="300057" joined="2005-02-07"/>
+    <cosponsor id="300095" joined="2005-02-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-02-07">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1053-1054"/>
+    </action>
+    <action state="REFERRED" datetime="2005-02-07">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <reference ref="CR S1054" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-02-16">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2005-03-08">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Domenici with an amendment. With written report No. 109-22.</text>
+    </action>
+    <calendar datetime="2005-03-08" calendar="Senate Legislative" under="General Orders" number="33">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 33.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2005-07-26" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S9018-9052" label="consideration"/>
+      <reference ref="CR S9027" label="text as reported in Senate"/>
+      <reference ref="CR S9027-9028" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-07-27T10:35:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-07-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-07-27">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-08-02">
+      <text>Referred to the Subcommittee on National Parks.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee code="HSII" name="House Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Recreation, and Public Lands" name="House Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Anadromous fishes"/>
+    <term name="Animals"/>
+    <term name="Boats and boating"/>
+    <term name="Commemorations"/>
+    <term name="Environmental protection"/>
+    <term name="Fishery management"/>
+    <term name="Habitat conservation"/>
+    <term name="Historic sites"/>
+    <term name="History"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="New Hampshire"/>
+    <term name="Outdoor recreation"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Riparian ecology"/>
+    <term name="Rivers"/>
+    <term name="Scenic byways"/>
+    <term name="Shore protection"/>
+    <term name="Sports and recreation"/>
+    <term name="Tourism"/>
+    <term name="Trails"/>
+    <term name="Transportation and public works"/>
+    <term name="Vermont"/>
+    <term name="Watersheds"/>
+    <term name="Wetlands"/>
+    <term name="Wildlife conservation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/26/2005--Passed Senate amended.
+Upper Connecticut River Partnership Act - Directs the Secretary of the Interior to establish a Connecticut River Grants and Technical Assistance Program to provide grants and technical assistance to the governments of New Hampshire and Vermont, local governments, nonprofits, and the private sector to carry out projects for the conservation, restoration, and interpretation of historic and other resources in the Connecticut River watershed. Limits to a maximum of 75 percent the Federal share of the cost of any project funded by a grant under this Act. Authorizes appropriations.</summary>
+</bill>

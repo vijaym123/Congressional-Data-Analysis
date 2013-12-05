@@ -1,0 +1,46 @@
+<bill session="110" type="sr" number="180" updated="2013-07-19T22:14:38-04:00">
+  <state datetime="2007-05-10">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2007-05-10"/>
+  </status>
+  <introduced datetime="2007-05-01"/>
+  <titles>
+    <title as="introduced" type="official">A resolution recognizing the 70th anniversary of the Idaho Potato Commission and designating May 2007 as "Idaho Potato Month".</title>
+  </titles>
+  <sponsor id="300030"/>
+  <cosponsors>
+    <cosponsor id="300029" joined="2007-05-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-05-01">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S5400" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2007-05-10">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S6001-6002" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2007-05-10" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S6001-6002" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="hr" number="360"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Agriculture and food"/>
+    <term name="Anniversaries"/>
+    <term name="Idaho"/>
+    <term name="Marketing of farm produce"/>
+    <term name="Potatoes"/>
+    <term name="Special months"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2007--Introduced.
+Recognizes the 70th anniversary of the Idaho Potato Commission. Designates May 2007 as Idaho Potato Month.</summary>
+</bill>

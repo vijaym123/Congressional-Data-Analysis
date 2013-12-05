@@ -1,0 +1,41 @@
+<bill session="109" type="s" number="145" updated="2013-07-19T20:14:42-04:00">
+  <state datetime="2005-01-25">REFERRED</state>
+  <status>
+    <introduced datetime="2005-01-25"/>
+  </status>
+  <introduced datetime="2005-01-25"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend title 10, United States Code, to require the naval forces of the Navy to include not less than 12 operational aircraft carriers.</title>
+  </titles>
+  <sponsor id="300078"/>
+  <cosponsors>
+    <cosponsor id="300004" joined="2005-01-25"/>
+    <cosponsor id="400621" joined="2005-01-25"/>
+    <cosponsor id="300088" joined="2005-01-25" withdrawn="2005-02-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-01-25">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S453"/>
+    </action>
+    <action state="REFERRED" datetime="2005-01-25">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+      <reference ref="CR S453" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="304"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military readiness"/>
+    <term name="Navy"/>
+    <term name="Warships"/>
+  </subjects>
+  <amendments/>
+  <summary>1/25/2005--Introduced.
+Requires Navy combat forces to include not less than 12 operational aircraft carriers.</summary>
+</bill>

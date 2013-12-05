@@ -1,0 +1,130 @@
+<bill session="109" type="h" number="606" updated="2013-07-19T19:09:36-04:00">
+  <state datetime="2005-12-01">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2005-12-01"/>
+  </status>
+  <introduced datetime="2005-02-02"/>
+  <titles>
+    <title as="introduced" type="short">Angel Island Immigration Station Restoration and Preservation Act</title>
+    <title as="passed house" type="short">Angel Island Immigration Station Restoration and Preservation Act</title>
+    <title as="reported to senate" type="short">Angel Island Immigration Station Restoration and Preservation Act</title>
+    <title as="passed senate" type="short">Angel Island Immigration Station Restoration and Preservation Act</title>
+    <title as="enacted" type="short">Angel Island Immigration Station Restoration and Preservation Act</title>
+    <title as="introduced" type="official">To authorize appropriations to the Secretary of the Interior for the restoration of the Angel Island Immigration Station in the State of California.</title>
+  </titles>
+  <sponsor id="400436"/>
+  <cosponsors>
+    <cosponsor id="400001" joined="2005-02-02"/>
+    <cosponsor id="400025" joined="2005-02-09"/>
+    <cosponsor id="400041" joined="2005-03-17"/>
+    <cosponsor id="400062" joined="2005-03-09"/>
+    <cosponsor id="400069" joined="2005-02-02"/>
+    <cosponsor id="400618" joined="2005-03-02"/>
+    <cosponsor id="400087" joined="2005-02-02"/>
+    <cosponsor id="400097" joined="2005-03-09"/>
+    <cosponsor id="400124" joined="2005-02-15"/>
+    <cosponsor id="400129" joined="2005-02-02"/>
+    <cosponsor id="400163" joined="2005-03-02"/>
+    <cosponsor id="400185" joined="2005-02-02"/>
+    <cosponsor id="400199" joined="2005-02-09"/>
+    <cosponsor id="400231" joined="2005-02-09"/>
+    <cosponsor id="400237" joined="2005-02-02"/>
+    <cosponsor id="400240" joined="2005-03-17"/>
+    <cosponsor id="400245" joined="2005-02-09"/>
+    <cosponsor id="400262" joined="2005-02-02"/>
+    <cosponsor id="400271" joined="2005-03-09"/>
+    <cosponsor id="400306" joined="2005-02-02"/>
+    <cosponsor id="400314" joined="2005-02-02"/>
+    <cosponsor id="400347" joined="2005-03-09"/>
+    <cosponsor id="400357" joined="2005-02-09"/>
+    <cosponsor id="400361" joined="2005-03-09"/>
+    <cosponsor id="400371" joined="2005-02-02"/>
+    <cosponsor id="400379" joined="2005-02-09"/>
+    <cosponsor id="400384" joined="2005-02-02"/>
+    <cosponsor id="400385" joined="2005-02-02"/>
+    <cosponsor id="400387" joined="2005-04-18"/>
+    <cosponsor id="400396" joined="2005-02-15"/>
+    <cosponsor id="400422" joined="2005-04-05"/>
+    <cosponsor id="400423" joined="2005-02-09"/>
+    <cosponsor id="400425" joined="2005-02-09"/>
+    <cosponsor id="400437" joined="2005-02-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-02-02">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-02-15">
+      <text>Referred to the Subcommittee on National Parks.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-05-23T15:17:00-04:00">
+      <text>Mr. Radanovich moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2005-05-23T15:18:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3714-3716" label="consideration"/>
+    </action>
+    <action datetime="2005-05-23T15:18:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 606.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-05-23T15:21:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H3714" label="text"/>
+    </vote>
+    <action datetime="2005-05-23T15:21:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-05-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2005-10-19">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-157.</text>
+    </action>
+    <calendar datetime="2005-10-19" calendar="Senate Legislative" under="General Orders" number="249">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 249.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="2005-11-16" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S13057" label="consideration"/>
+    </vote>
+    <action datetime="2005-11-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2005-11-16">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2005-11-28">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2005-12-01">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2005-12-01" type="public" number="109-119">
+      <text>Became Public Law No: 109-119.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Recreation, and Public Lands" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="262"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Commemorations"/>
+    <term name="Federal installations"/>
+    <term name="Health"/>
+    <term name="Historic sites"/>
+    <term name="History"/>
+    <term name="Hospitals"/>
+    <term name="Immigration"/>
+    <term name="Islands"/>
+    <term name="Marine and coastal resources, fisheries"/>
+  </subjects>
+  <amendments/>
+  <summary>12/1/2005--Public Law.
+Angel Island Immigration Station Restoration and Preservation Act - Authorizes appropriations to the Secretary of the Interior for restoring the Angel Island Immigration Station in San Francisco Bay, in coordination with the Angel Island Immigration Station Foundation and the California Department of Parks and Recreation. Limits federal funding under this Act to 50% of the total funds from all sources spent to restore the Angel Island Immigration Station. Requires: (1) funds appropriated by this Act to be used first for restoration of the Immigration Station Hospital on Angel Island; and (2) any remaining funds to be used solely for the restoration of the Angel Island Immigration Station.</summary>
+</bill>

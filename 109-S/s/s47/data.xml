@@ -1,0 +1,88 @@
+<bill session="109" type="s" number="47" updated="2013-07-19T20:13:52-04:00">
+  <state datetime="2005-07-26">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-07-26"/>
+  </status>
+  <introduced datetime="2005-01-24"/>
+  <titles>
+    <title as="introduced" type="short">Pecos National Historical Park Land Exchange Act of 2005</title>
+    <title as="reported to senate" type="short">Pecos National Historical Park Land Exchange Act of 2005</title>
+    <title as="passed senate" type="short">Pecos National Historical Park Land Exchange Act of 2005</title>
+    <title as="introduced" type="official">A bill to provide for the exchange of certain Federal land in the Santa Fe National Forest and certain non-Federal land in the Pecos National Historical Park in the State of New Mexico.</title>
+  </titles>
+  <sponsor id="300009"/>
+  <cosponsors>
+    <cosponsor id="300036" joined="2005-01-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-01-24">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S234"/>
+    </action>
+    <action state="REFERRED" datetime="2005-01-24">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <reference ref="CR S234-235" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-02-09">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2005-02-23">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Domenici under authority of the order of the Senate of 02/17/05 without amendment. With written report No. 109-7.</text>
+    </action>
+    <calendar datetime="2005-02-23" calendar="Senate Legislative" under="General Orders" number="18">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 18.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2005-07-26" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S9018-9052" label="consideration"/>
+      <reference ref="CR S9018-9019" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-07-27T10:35:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-07-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-07-27">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-08-02">
+      <text>Referred to the Subcommittee on Forests and Forest Health.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-08-02">
+      <text>Referred to the Subcommittee on National Parks.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee code="HSII" name="House Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII20" subcommittee="Forests and Forest Health" name="House Resources"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Recreation, and Public Lands" name="House Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Easements"/>
+    <term name="Historic sites"/>
+    <term name="History"/>
+    <term name="Infrastructure"/>
+    <term name="Land transfers"/>
+    <term name="Maps"/>
+    <term name="National parks"/>
+    <term name="New Mexico"/>
+    <term name="Pipelines"/>
+    <term name="Transportation and public works"/>
+    <term name="Water resources development"/>
+    <term name="Water supply"/>
+    <term name="Wells"/>
+  </subjects>
+  <amendments/>
+  <summary>7/26/2005--Passed Senate without amendment.
+Pecos National Historical Park Land Exchange Act of 2005 - Directs the Secretary of the Interior to accept certain non-Federal land in the State of New Mexico for addition to the Pecos National Historical Park (Park). Directs the Secretary of Agriculture to convey certain Federal land in the Santa Fe National Forest to private landowners. Directs the Secretary of the Interior to grant the private landowners an easement for water pipelines to two well sites located in the Park. Authorizes the Secretary of Agriculture and the Secretary of the Interior (Secretaries) to require terms and conditions relating to the exchange of Federal and non-Federal lands and the granting of easements that protect the interests of the United States. Sets a deadline for the completion of land exchanges under this Act and requires the Secretaries to report to Congress on the completion of such exchanges. Provides for the administration of lands exchanged under this Act. Directs the Secretaries to transmit to Congress a revised map that depicts the lands exchanged and the easement granted under this Act.</summary>
+</bill>

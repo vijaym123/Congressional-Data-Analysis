@@ -1,0 +1,43 @@
+<bill session="110" type="h" number="2777" updated="2013-07-19T21:28:08-04:00">
+  <state datetime="2007-06-19">REFERRED</state>
+  <status>
+    <introduced datetime="2007-06-19"/>
+  </status>
+  <introduced datetime="2007-06-19"/>
+  <titles>
+    <title as="introduced" type="short">Utah National Guard Lands Consolidation Act</title>
+    <title as="introduced" type="official">To provide for the acquisition of five isolated parcels of land owned by the State of Utah, under the control of the Utah National Guard, and withdrawn for military use as part of Camp Williams, Utah, in exchange for a consolidated parcel of public land of approximate equal value, also within the boundaries of Camp Williams, necessary for future military mission training.</title>
+  </titles>
+  <sponsor id="400029"/>
+  <cosponsors>
+    <cosponsor id="400059" joined="2007-06-19"/>
+    <cosponsor id="400255" joined="2007-06-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-06-19">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-06-25">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="3651"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Armed forces and national security"/>
+    <term name="Land transfers"/>
+    <term name="Military bases"/>
+    <term name="National Guard"/>
+    <term name="Utah"/>
+  </subjects>
+  <amendments/>
+  <summary>6/19/2007--Introduced.
+Utah National Guard Lands Consolidation Act - Directs the Secretary of the Interior, acting through the Bureau of Land Management (BLM) to accept ownership of certain lands owned by the State of Utah and located within the boundaries of the public lands currently withdrawn for military use by the Utah National Guard as "Camp Williams", if such lands are offered to the Secretary by the State, in exchange for conveyance to the State by the Secretary of public lands within the boundaries of Camp Williams of substantially equal value to the acquired lands.</summary>
+</bill>

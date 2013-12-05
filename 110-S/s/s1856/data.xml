@@ -1,0 +1,58 @@
+<bill session="110" type="s" number="1856" updated="2013-07-19T22:36:39-04:00">
+  <state datetime="2007-07-23">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2007-07-23"/>
+  </status>
+  <introduced datetime="2007-07-23"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend title 18, United States Code, to make technical corrections to the new border tunnels and passages offense.</title>
+  </titles>
+  <sponsor id="300043"/>
+  <cosponsors/>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2007-07-23" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S9792" label="consideration"/>
+      <reference ref="CR S9792" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2007-07-24T10:04:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2007-07-24">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2007-07-24">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2007-07-24">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="h" number="4326"/>
+    <bill relation="identical" session="110" type="s" number="1844"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Administrative procedure"/>
+    <term name="Boundaries"/>
+    <term name="Forfeiture"/>
+    <term name="Government operations and politics"/>
+    <term name="Illegal aliens"/>
+    <term name="Immigration"/>
+    <term name="Law"/>
+    <term name="Sentencing guidelines"/>
+    <term name="Smuggling"/>
+    <term name="Transportation and public works"/>
+    <term name="Tunnels"/>
+    <term name="U.S. Sentencing Commission"/>
+  </subjects>
+  <amendments/>
+  <summary>7/23/2007--Passed Senate without amendment.
+Amends the federal criminal code to assign a new section number (555 instead of 554) to the provision prohibiting the construction of border tunnels and passages into the United States.</summary>
+</bill>

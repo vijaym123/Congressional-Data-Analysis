@@ -1,0 +1,67 @@
+<bill session="110" type="h" number="3040" updated="2013-07-19T21:30:25-04:00">
+  <state datetime="2007-07-12">REFERRED</state>
+  <status>
+    <introduced datetime="2007-07-12"/>
+  </status>
+  <introduced datetime="2007-07-12"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to provide additional educational assistance under the Montgomery GI Bill to veterans pursuing a degree in science, technology, engineering, or math.</title>
+  </titles>
+  <sponsor id="412229"/>
+  <cosponsors>
+    <cosponsor id="400001" joined="2007-09-14"/>
+    <cosponsor id="412208" joined="2007-07-24"/>
+    <cosponsor id="412204" joined="2007-07-24"/>
+    <cosponsor id="400178" joined="2007-07-24"/>
+    <cosponsor id="412200" joined="2007-10-15"/>
+    <cosponsor id="400663" joined="2007-07-24"/>
+    <cosponsor id="400316" joined="2007-07-24"/>
+    <cosponsor id="412219" joined="2007-10-12"/>
+    <cosponsor id="412228" joined="2007-08-03"/>
+    <cosponsor id="412227" joined="2007-07-31"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-07-12">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2007-07-12">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2007-07-12">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2007-07-23">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2007-08-08">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="1719"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Education"/>
+    <term name="Engineering"/>
+    <term name="Engineers"/>
+    <term name="Higher education"/>
+    <term name="Infrastructure"/>
+    <term name="Mathematics"/>
+    <term name="Science, technology, communications"/>
+    <term name="Scientific education"/>
+    <term name="Student aid"/>
+    <term name="Veterans' education"/>
+  </subjects>
+  <amendments/>
+  <summary>7/12/2007--Introduced.
+Directs the Secretary of Veterans Affairs to pay to each individual entitled to basic educational assistance under the Montgomery GI Bill and pursuing a program of education with a focus on science, technology, engineering, or math a lump-sum payment of $2,000 per academic year, or fraction thereof for enrollment lasting less than a year. Makes such amount in addition to any other educational assistance to which the individual is entitled.</summary>
+</bill>

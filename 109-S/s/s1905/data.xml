@@ -1,0 +1,41 @@
+<bill session="109" type="s" number="1905" updated="2013-07-19T20:30:04-04:00">
+  <state datetime="2005-10-20">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-10-20"/>
+  </status>
+  <introduced datetime="2005-10-20"/>
+  <titles>
+    <title as="introduced" type="official">A bill to clarify Foreign Service Grievance Board procedures.</title>
+  </titles>
+  <sponsor id="300070"/>
+  <cosponsors>
+    <cosponsor id="300008" joined="2005-10-20"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2005-10-20" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11699" label="consideration"/>
+      <reference ref="CR S11699" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-10-25T12:31:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-10-25">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-10-25T18:24:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Dismissal of employees"/>
+    <term name="Foreign service"/>
+    <term name="Grievance procedures"/>
+  </subjects>
+  <amendments/>
+  <summary>10/20/2005--Passed Senate without amendment.
+Amends the Foreign Service Act of 1980 to authorize the Foreign Service Grievance Board to retain an employee on the payroll while a grievance is being reviewed.</summary>
+</bill>

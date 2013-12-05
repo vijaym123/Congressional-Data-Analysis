@@ -1,0 +1,57 @@
+<bill session="110" type="hr" number="1158" updated="2013-07-19T21:00:30-04:00">
+  <state datetime="2008-06-09T15:20:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2008-06-09T15:20:00-04:00"/>
+  </status>
+  <introduced datetime="2008-04-29"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the 100th anniversary of the establishment of the Ozark National Forest in Arkansas.</title>
+  </titles>
+  <sponsor id="400040"/>
+  <cosponsors>
+    <cosponsor id="400026" joined="2008-04-29"/>
+    <cosponsor id="400345" joined="2008-04-29"/>
+    <cosponsor id="400383" joined="2008-04-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-04-29">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2008-05-01">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2008-06-09T15:04:00-04:00">
+      <text>Mr. Costa moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2008-06-09T15:04:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5057-5059" label="consideration"/>
+    </action>
+    <action datetime="2008-06-09T15:04:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1158.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2008-06-09T15:20:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H5057" label="text"/>
+    </vote>
+    <action datetime="2008-06-09T15:20:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Arkansas"/>
+    <term name="National forests"/>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>6/9/2008--Passed House without amendment.
+Recognizes the 100th anniversary of the establishment of the Ozark National Forest in Arkansas.</summary>
+</bill>

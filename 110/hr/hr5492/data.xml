@@ -1,0 +1,78 @@
+<bill session="110" type="h" number="5492" updated="2013-07-19T21:51:58-04:00">
+  <state datetime="2008-03-11T13:06:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-03-11T13:06:00-04:00"/>
+  </status>
+  <introduced datetime="2008-02-26"/>
+  <titles>
+    <title as="introduced" type="official">To authorize the Board of Regents of the Smithsonian Institution to construct a greenhouse facility at its museum support facility in Suitland, Maryland, and for other purposes.</title>
+  </titles>
+  <sponsor id="400663"/>
+  <cosponsors>
+    <cosponsor id="400021" joined="2008-02-26"/>
+    <cosponsor id="400206" joined="2008-02-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-02-26">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2008-02-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-02-28">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2008-03-10T18:48:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 110-545.</text>
+    </action>
+    <calendar datetime="2008-03-10T18:48:00-04:00" calendar="Union" number="332">
+      <text>Placed on the Union Calendar, Calendar No. 332.</text>
+    </calendar>
+    <action datetime="2008-03-11T12:57:00-04:00">
+      <text>Ms. Matsui moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2008-03-11T12:58:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1454-1455" label="consideration"/>
+    </action>
+    <action datetime="2008-03-11T12:58:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5492.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-03-11T13:06:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H1454" label="text"/>
+    </vote>
+    <action datetime="2008-03-11T13:06:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-03-12">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2008-04-29">
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Arts, culture, religion"/>
+    <term name="Agriculture and food"/>
+    <term name="Botanical gardens"/>
+    <term name="Building construction"/>
+    <term name="Flowers"/>
+    <term name="Government operations and politics"/>
+    <term name="Horticulture"/>
+    <term name="Maryland"/>
+    <term name="Museums"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Smithsonian Institution"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/2008--Passed House without amendment.
+Authorizes the Board of Regents of the Smithsonian Institution to construct a greenhouse facility at its museum support facility in Suitland, Maryland, to maintain its horticultural operations and preserve the orchid collection it holds in trust.Authorizes appropriations.</summary>
+</bill>

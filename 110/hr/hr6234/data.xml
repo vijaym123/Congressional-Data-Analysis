@@ -1,0 +1,48 @@
+<bill session="110" type="h" number="6234" updated="2013-07-19T21:58:21-04:00">
+  <state datetime="2008-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="2008-06-11"/>
+  </status>
+  <introduced datetime="2008-06-11"/>
+  <titles>
+    <title as="introduced" type="short">Bridge Life Extension Act of 2008</title>
+    <title as="introduced" type="official">To amend title 23, United States Code, to require corrosion mitigation and prevention plans for bridges receiving Federal funding, and for other purposes.</title>
+  </titles>
+  <sponsor id="400655"/>
+  <cosponsors>
+    <cosponsor id="412224" joined="2008-07-31"/>
+    <cosponsor id="412235" joined="2008-06-19"/>
+    <cosponsor id="412232" joined="2008-06-25"/>
+    <cosponsor id="412228" joined="2008-07-31"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-06-11">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2008-06-12">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="3319"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Bridges"/>
+    <term name="Corrosion"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to transportation"/>
+    <term name="Highway finance"/>
+    <term name="Highway maintenance"/>
+    <term name="Infrastructure"/>
+    <term name="Road construction"/>
+  </subjects>
+  <amendments/>
+  <summary>6/11/2008--Introduced.
+Bridge Life Extension Act of 2008 - Allows the Secretary of Transportation to approve federal-aid highway funding for states for bridge reconstruction, replacement, or rehabilitation projects only if the state submits, and the Secretary approves, a corrosion mitigation and prevention plan.</summary>
+</bill>

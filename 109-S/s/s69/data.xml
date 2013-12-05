@@ -1,0 +1,41 @@
+<bill session="109" type="s" number="69" updated="2013-07-19T20:14:03-04:00">
+  <state datetime="2005-01-24">REFERRED</state>
+  <status>
+    <introduced datetime="2005-01-24"/>
+  </status>
+  <introduced datetime="2005-01-24"/>
+  <titles>
+    <title as="introduced" type="official">A bill for the relief of Donald C. Pence.</title>
+  </titles>
+  <sponsor id="300056"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2005-01-24">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S246"/>
+    </action>
+    <action state="REFERRED" datetime="2005-01-24">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+      <reference ref="CR S246" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2005-02-17">
+      <text>Senate Committee on Armed Services discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2005-02-17">
+      <text>Referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, Discharged"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Armed forces and national security"/>
+    <term name="Veterans' benefits"/>
+  </subjects>
+  <amendments/>
+  <summary>1/24/2005--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum to Donald C. Pence in compensation for the failure of the Department of Veterans Affairs to pay dependency and indemnity compensation for a specified period to his now deceased mother.</summary>
+</bill>

@@ -1,0 +1,87 @@
+<bill session="109" type="h" number="126" updated="2013-07-19T19:05:26-04:00">
+  <state datetime="2005-12-01">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2005-12-01"/>
+  </status>
+  <introduced datetime="2005-01-04"/>
+  <titles>
+    <title as="introduced" type="official">To amend Public Law 89-366 to allow for an adjustment in the number of free roaming horses permitted in Cape Lookout National Seashore.</title>
+  </titles>
+  <sponsor id="400209"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-01-04">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-02-03">
+      <text>Referred to the Subcommittee on National Parks, Recreation and Public Lands.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-03-14T14:09:00-05:00">
+      <text>Mr. Jones (NC) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2005-03-14T14:10:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1375" label="consideration"/>
+    </action>
+    <action datetime="2005-03-14T14:10:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 126.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-03-14T14:12:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H1375" label="text"/>
+    </vote>
+    <action datetime="2005-03-14T14:12:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-03-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2005-04-28">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <action datetime="2005-10-19">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-154.</text>
+    </action>
+    <calendar datetime="2005-10-19" calendar="Senate Legislative" under="General Orders" number="246">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 246.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="2005-11-16" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S13056" label="consideration"/>
+    </vote>
+    <action datetime="2005-11-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2005-11-16">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2005-11-28">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2005-12-01">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2005-12-01" type="public" number="109-117">
+      <text>Became Public Law No: 109-117.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Recreation, and Public Lands" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Animals"/>
+    <term name="Horses"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="National seashores"/>
+    <term name="North Carolina"/>
+  </subjects>
+  <amendments/>
+  <summary>12/1/2005--Public Law.
+Increases from 100 to a minimum of 110 the number of free roaming horses the Secretary of the Interior is required to permit in Cape Lookout National Seashore, North Carolina, with a target population of between 120 and 130. Prohibits the Secretary from removing, assisting in, or permitting the removal of any free roaming horses from Federal lands, within the boundaries of the seashore unless removal is carried out as part of a plan to maintain the viability of the herd. Prohibits anything in such law from being construed to require the Secretary to replace horses or otherwise increase the number of horses within such boundaries where the herd numbers fall below 110 (currently, 100) as a result of natural causes, including, but not limited to, disease or natural disasters.</summary>
+</bill>

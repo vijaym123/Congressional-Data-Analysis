@@ -1,0 +1,48 @@
+<bill session="109" type="hc" number="480" updated="2013-07-19T20:06:18-04:00">
+  <state datetime="2006-09-26">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2006-09-26"/>
+  </status>
+  <introduced datetime="2006-09-25"/>
+  <titles>
+    <title as="introduced" type="official">To correct the enrollment of the bill H.R. 3127.</title>
+  </titles>
+  <sponsor id="400380"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2006-09-25T18:26:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H6993" label="consideration"/>
+    </action>
+    <action datetime="2006-09-25T18:26:00-04:00">
+      <text>Mr. Smith (NJ) asked unanimous consent to consider as introduced.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-09-25T18:27:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H6993" label="text"/>
+    </vote>
+    <action datetime="2006-09-25T18:27:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2006-09-26" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S10219" label="consideration"/>
+    </vote>
+    <action datetime="2006-09-26">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="3127"/>
+    <bill relation="unknown" session="109" type="h" number="3127"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="House rules and procedure"/>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>9/26/2006--Passed Senate without amendment.
+Corrects the enrollment of H.R. 3127 (Darfur Peace and Accountability Act of 2006).</summary>
+</bill>

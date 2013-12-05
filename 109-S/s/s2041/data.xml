@@ -1,0 +1,81 @@
+<bill session="109" type="s" number="2041" updated="2013-07-19T20:31:15-04:00">
+  <state datetime="2006-07-11">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2006-07-11"/>
+  </status>
+  <introduced datetime="2005-11-17"/>
+  <titles>
+    <title as="introduced" type="short">Ed Fountain Park Expansion Act</title>
+    <title as="reported to senate" type="short">Ed Fountain Park Expansion Act</title>
+    <title as="passed senate" type="short">Ed Fountain Park Expansion Act</title>
+    <title as="introduced" type="official">A bill to provide for the conveyance of a United States Fish and Wildlife Service administrative site to the city of Las Vegas, Nevada.</title>
+  </titles>
+  <sponsor id="300082"/>
+  <cosponsors>
+    <cosponsor id="300040" joined="2006-04-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-11-17">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S13167-13168"/>
+    </action>
+    <action state="REFERRED" datetime="2005-11-17">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <reference ref="CR S13168" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-05-23">
+      <text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Environment and Public Works"/>
+    </calendar>
+    <action datetime="2006-06-06">
+      <text>Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 109-260.</text>
+    </action>
+    <calendar datetime="2006-06-06" calendar="Senate Legislative" under="General Orders" number="465">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 465.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2006-07-11" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S7358" label="consideration"/>
+      <reference ref="CR S7358" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2006-07-12T10:03:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-07-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-07-12T15:10:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2006-09-12">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2006-09-12">
+      <text>Referred to the Subcommittee on Fisheries and Oceans.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-09-14">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+    <committee code="HSII" name="House Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII15" subcommittee="Fisheries Conservation, Wildlife, and Oceans" name="House Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="4345"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Land transfers"/>
+    <term name="Nevada"/>
+    <term name="Parks"/>
+    <term name="Recreation areas"/>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/11/2006--Passed Senate without amendment.
+Ed Fountain Park Expansion Act - Directs the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, to convey to the city of Las Vegas, Nevada, all interest of the United States in a specified administrative site for use by the City as a park or for any other recreation or nonprofit-related purpose. Instructs the Secretary of Interior, acting through the Director of the U.S. Fish and Wildlife Service, as a condition of the conveyance, to require that the City pay the administrative costs of such conveyance. Permit reversion of the site to the United States if the Secretary determines that the City is not using such site for a purpose described above.</summary>
+</bill>

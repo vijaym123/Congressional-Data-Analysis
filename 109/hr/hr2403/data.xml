@@ -1,0 +1,34 @@
+<bill session="109" type="h" number="2403" updated="2013-07-19T19:25:28-04:00">
+  <state datetime="2005-05-17">REFERRED</state>
+  <status>
+    <introduced datetime="2005-05-17"/>
+  </status>
+  <introduced datetime="2005-05-17"/>
+  <titles>
+    <title as="introduced" type="official">To suspend temporarily the duty on Chloroacetone.</title>
+  </titles>
+  <sponsor id="400160"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-05-17">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2005-05-26">
+      <text>Referred to the Subcommittee on Trade.</text>
+      <committee name="House Committee on Ways and Means"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Chemicals"/>
+    <term name="Tariff"/>
+  </subjects>
+  <amendments/>
+  <summary>5/17/2005--Introduced.
+Amends the Harmonized Tariff Schedule of the United States to suspend, through December 31, 2008, the duty on 1-Chloro-2-propanone (Chloroacetone).</summary>
+</bill>

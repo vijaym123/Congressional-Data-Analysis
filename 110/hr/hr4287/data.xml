@@ -1,0 +1,69 @@
+<bill session="110" type="h" number="4287" updated="2013-07-19T21:41:24-04:00">
+  <state datetime="2007-12-05">REFERRED</state>
+  <status>
+    <introduced datetime="2007-12-05"/>
+  </status>
+  <introduced datetime="2007-12-05"/>
+  <titles>
+    <title as="introduced" type="short">Medicare Provider Accountability Act</title>
+    <title as="introduced" type="official">To include Medicare provider payments in the Federal Payment Levy Program, to require the Department of Health and Human Services to offset Medicare provider payments by the amount of the provider's delinquent Federal debt, and for other purposes.</title>
+  </titles>
+  <sponsor id="400120"/>
+  <cosponsors>
+    <cosponsor id="412236" joined="2007-12-11"/>
+    <cosponsor id="400387" joined="2007-12-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-12-05">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2007-12-05">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2007-12-05">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2007-12-05">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2007-12-05">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2007-12-10">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Ways and Means"/>
+    </action>
+    <action datetime="2008-02-25">
+      <text>Referred to the Subcommittee on Commercial and Administrative Law.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU09" subcommittee="Commercial and Administrative Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="1307"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative remedies"/>
+    <term name="Collection of accounts"/>
+    <term name="Hospital care"/>
+    <term name="Law"/>
+    <term name="Medicare"/>
+    <term name="Social welfare"/>
+    <term name="Tax administration"/>
+    <term name="Tax liens"/>
+    <term name="Tax refunds"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>12/5/2007--Introduced.
+Medicare Provider Accountability Act - Directs the Centers for Medicare and Medicaid Services to: (1) take all necessary steps to participate in the Federal Payment Levy Program as soon as possible; and (2) ensure that at least 50% of all payments under parts A (Hospital Insurance) and B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act are processed through such program within one year of enactment of this Act, and all remaining payments within two years.Requires the Department of Health and Human Services to offset Medicare provider payments by the amount of the provider's delinquent federal debt.Amends the Internal Revenue Code to make notice and opportunity for hearing before levy requirements inapplicable if the Secretary of the Treasury has approved a levy on specified (Medicare provider) payments.</summary>
+</bill>

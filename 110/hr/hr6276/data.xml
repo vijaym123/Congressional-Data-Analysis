@@ -1,0 +1,71 @@
+<bill session="110" type="h" number="6276" updated="2013-07-19T21:58:42-04:00">
+  <state datetime="2008-06-18T15:08:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-06-18T15:08:00-04:00"/>
+  </status>
+  <introduced datetime="2008-06-17"/>
+  <titles>
+    <title as="introduced" type="short">Public Housing Disaster Relief Act of 2008</title>
+    <title as="introduced" type="official">To repeal section 9(k) of the United States Housing Act of 1937.</title>
+  </titles>
+  <sponsor id="412260"/>
+  <cosponsors>
+    <cosponsor id="400061" joined="2008-06-17"/>
+    <cosponsor id="412262" joined="2008-06-17"/>
+    <cosponsor id="400657" joined="2008-06-17"/>
+    <cosponsor id="400140" joined="2008-06-17"/>
+    <cosponsor id="400201" joined="2008-06-18"/>
+    <cosponsor id="400635" joined="2008-06-18"/>
+    <cosponsor id="400402" joined="2008-06-17"/>
+    <cosponsor id="400422" joined="2008-06-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-06-17">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2008-06-18T14:37:00-04:00">
+      <text>Mr. Cazayoux moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2008-06-18T14:37:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5530-5533" label="consideration"/>
+    </action>
+    <action datetime="2008-06-18T14:37:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6276.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-06-18T15:08:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H5530" label="text"/>
+    </vote>
+    <action datetime="2008-06-18T15:08:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-06-19">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Disaster relief"/>
+    <term name="Economics and public finance"/>
+    <term name="Emergency management"/>
+    <term name="Federal aid to housing"/>
+    <term name="Government liability"/>
+    <term name="Housing subsidies"/>
+    <term name="Law"/>
+    <term name="Low-income housing"/>
+    <term name="Public housing"/>
+    <term name="Rental housing"/>
+    <term name="Social welfare"/>
+    <term name="Violence"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/2008--Passed House without amendment.
+Public Housing Disaster Relief Act of 2008 - Amends the United States Housing Act of 1937 with respect to the Public Housing Capital and Operating Funds. Repeals the requirement that the Secretary of Housing and Urban Development set-aside up to 2% of annual appropriations to provide assistance for emergencies and other disasters, and housing needs resulting from any litigation settlement, including a specified allocation to the Operation Safe Home program, administered by the Office of the Inspector General of the Department of Housing and Urban Development, for law enforcement efforts to combat violent crime on or near the premises of public and federally assisted housing.(Currently such funds may be used for emergency assistance for any eligible use under the Operating Fund or the Capital Fund, or for tenant-based assistance).</summary>
+</bill>

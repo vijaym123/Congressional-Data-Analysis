@@ -1,0 +1,64 @@
+<bill session="109" type="sc" number="123" updated="2013-07-19T20:13:28-04:00">
+  <state datetime="2006-12-09T00:51:00-05:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2006-12-09T00:51:00-05:00"/>
+  </status>
+  <introduced datetime="2006-12-07"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution providing for correction to the enrollment of the bill H.R. 5946.</title>
+  </titles>
+  <sponsor id="300094"/>
+  <cosponsors/>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2006-12-07" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11543" label="consideration"/>
+      <reference ref="CR S11543" label="text as passed Senate"/>
+      <reference ref="CR S11506" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2006-12-08T10:18:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-12-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-12-08T12:43:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2006-12-09T00:48:00-05:00">
+      <text>Mr. Gilchrest moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2006-12-09T00:48:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR 12/8/2006 H9206" label="consideration"/>
+    </action>
+    <action datetime="2006-12-09T00:48:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 123.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2006-12-09T00:51:00-05:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR 12/8/2006 H9206" label="text"/>
+    </vote>
+    <action datetime="2006-12-09T00:51:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="5946"/>
+    <bill relation="unknown" session="109" type="h" number="5946"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Department of Commerce"/>
+    <term name="Emergency management"/>
+    <term name="Federal Communications Commission"/>
+    <term name="Government operations and politics"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Legislation"/>
+    <term name="Marine and coastal resources, fisheries"/>
+  </subjects>
+  <amendments/>
+  <summary>12/9/2006--Passed House without amendment.
+Directs the Clerk of the House of Representatives to correct the enrollment of H.R. 5946 (Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006) by removing a rule of construction concerning the authority of the Department of Commerce and the Federal Communications Commission.</summary>
+</bill>

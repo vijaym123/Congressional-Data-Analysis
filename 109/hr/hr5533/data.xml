@@ -1,0 +1,127 @@
+<bill session="109" type="h" number="5533" updated="2013-07-19T19:53:19-04:00">
+  <state datetime="2006-09-26T20:01:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-09-26T20:01:00-04:00"/>
+  </status>
+  <introduced datetime="2006-06-06"/>
+  <titles>
+    <title as="introduced" type="short">Biodefense and Pandemic Vaccine and Drug Development Act of 2006</title>
+    <title as="reported to house" type="short">Biodefense and Pandemic Vaccine and Drug Development Act of 2006</title>
+    <title as="passed house" type="short">Biodefense and Pandemic Vaccine and Drug Development Act of 2006</title>
+    <title as="introduced" type="official">To prepare and strengthen the biodefenses of the United States against deliberate, accidental, and natural outbreaks of illness, and for other purposes.</title>
+  </titles>
+  <sponsor id="400342"/>
+  <cosponsors>
+    <cosponsor id="400052" joined="2006-06-07"/>
+    <cosponsor id="400062" joined="2006-07-17"/>
+    <cosponsor id="400075" joined="2006-06-19"/>
+    <cosponsor id="400124" joined="2006-06-06"/>
+    <cosponsor id="400132" joined="2006-09-06"/>
+    <cosponsor id="400155" joined="2006-07-28"/>
+    <cosponsor id="400182" joined="2006-06-06"/>
+    <cosponsor id="400201" joined="2006-06-15"/>
+    <cosponsor id="400264" joined="2006-06-06"/>
+    <cosponsor id="400373" joined="2006-09-06"/>
+    <cosponsor id="400438" joined="2006-09-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-06-06">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2006-06-23">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2006-09-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-09-20">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2006-09-26T18:40:00-04:00">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 109-686.</text>
+    </action>
+    <calendar datetime="2006-09-26T18:41:00-04:00" calendar="Union" number="416">
+      <text>Placed on the Union Calendar, Calendar No. 416.</text>
+    </calendar>
+    <action datetime="2006-09-26T19:47:00-04:00">
+      <text>Mr. Deal (GA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2006-09-26T19:47:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7445-7450" label="consideration"/>
+    </action>
+    <action datetime="2006-09-26T19:47:00-04:00">
+      <text>DEBATE - The House proceeded with forty mintues of debate on H.R. 5533.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-09-26T20:01:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7445-7447" label="text"/>
+    </vote>
+    <action datetime="2006-09-26T20:01:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-09-27">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2006-11-13">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="1873"/>
+    <bill relation="unknown" session="109" type="s" number="2564"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Access to health care"/>
+    <term name="Antibiotics"/>
+    <term name="Antitrust law"/>
+    <term name="Awards, medals, prizes"/>
+    <term name="Biological warfare"/>
+    <term name="Chemical warfare"/>
+    <term name="Commemorations"/>
+    <term name="Commerce"/>
+    <term name="Communicable diseases"/>
+    <term name="Communication in medicine"/>
+    <term name="Communication in science"/>
+    <term name="Conferences"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Drug industry"/>
+    <term name="Economics and public finance"/>
+    <term name="Epidemics"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal aid to research"/>
+    <term name="Government operations and politics"/>
+    <term name="Government procurement"/>
+    <term name="Government trust funds"/>
+    <term name="Health planning"/>
+    <term name="Laboratories"/>
+    <term name="Medical technology"/>
+    <term name="Medical tests"/>
+    <term name="Nuclear terrorism"/>
+    <term name="Pharmaceutical research"/>
+    <term name="Radiation victims"/>
+    <term name="Research and development"/>
+    <term name="Research and development facilities"/>
+    <term name="Research centers"/>
+    <term name="Research grants"/>
+    <term name="Science, technology, communications"/>
+    <term name="Strategic planning"/>
+    <term name="Technological innovations"/>
+    <term name="Terrorism"/>
+    <term name="Vaccines"/>
+  </subjects>
+  <amendments/>
+  <summary>9/26/2006--Passed House amended.
+Biodefense and Pandemic Vaccine and Drug Development Act of 2006 - Amends the Public Health Service Act to establish the Biomedical Advanced Research and Development Authority (BARDA) within the Department of Health and Human Services (HHS). Requires the Secretary of Health and Human Services to coordinate and oversee the acceleration of countermeasure and product advanced research and development. Requires the Secretary to: (1) facilitate and increase expeditious and direct communication with respect to such research and development; (2) conduct ongoing searches for, and support calls for, potential qualified countermeasures and qualified pandemic or epidemic products; (3) direct and coordinate such research and development activities of HHS; (4) establish strategic initiatives to accelerate such research and development and innovation in priority unmet need areas; and (5) connect interested persons with authorized offices or employees to advise such persons regarding relevant regulatory requirements related to qualified countermeasures or qualified pandemic or epidemic products. Allows the Secretary to award contracts, grants, and cooperative agreements or enter into other transactions to promote: (1) innovation in technologies that may assist such research and development; (2) research on and development of research tools and other devices and technologies; and (3) research to promote strategic initiatives, such as rapid diagnostics, broad spectrum antimicrobials, and vaccine manufacturing technologies. Authorizes the Secretary to enter into other transactions for countermeasure and product advanced research and development. Gives the Secretary expedited procurement authorities, the authority to expedite peer review, and the authority for personal services contracts. Authorizes the Secretary to require that, as a condition of being awarded a contract, grant, cooperative agreement, or other transaction, a person make available to the Secretary relevant data related to or resulting from such research and development. Exempts the Secretary's authority to enter into contracts from advertising and advance payment requirements. Allows the Secretary to: (1) use milestone-based awards and payments; (2) make awards to and enter into transactions with highly qualified foreign national persons outside the United States under certain circumstances; (3) establish one or more federally-funded research and development centers or university-affiliated research centers; (4) give priority to the advanced research and development of qualified countermeasures and qualified pandemic or epidemic products that are likely to be safe and effective with respect to the emergency health security needs of children and other vulnerable populations; (5) appoint highly qualified individuals to scientific or professional positions in BARDA without regard to federal provisions governing appointments in the competitive service; (6) appoint special consultants; and (7) accept voluntary and uncompensated services. Requires the Secretary to withhold from disclosure under the Freedom of Information Act specific technical data or scientific information that is created or obtained during the countermeasure and product advanced research and development funded by the Secretary that reveals vulnerabilities of existing medical or public health defenses against biological, chemical, nuclear, or radiological threats. Authorizes appropriations for FY2007-FY2008. Requires the Secretary to establish the National Biodefense Science Board to provide expert advice and guidance to the Secretary on scientific, technical, and other matters of special interest to HHS regarding current and future chemical, biological, nuclear, and radiological agents. (Sec. 4) Includes within the definitions of "qualified countermeasure" and "security countermeasure" an agent to diagnose, mitigate, prevent, or treat harm from organisms that cause an infectious disease. Deems as a qualified countermeasure without further administrative action any countermeasure for a biological agent if the Secretary determines that there is credible evidence that such agent has the potential to cause an epidemic or pandemic that may constitute a public health emergency. (Sec. 5) Amends the Federal Food, Drug, and Cosmetic Act to require the Secretary to establish within the Food and Drug Administration (FDA) a team of experts on manufacturing and regulatory activities to provide technical assistance to the manufacturers of qualified countermeasures, security countermeasures, or vaccines if the Secretary determines that a shortage or potential shortage may occur. (Sec, 6) Allows partial payment on a procurement contract for a security countermeasure for significant milestones or a payment to increase manufacturing capacity. Allows procurement contracts to provide: (1) for advance payments for milestones; (2) that the vendor is the sole and exclusive supplier of the product to the government for a specified period if the vendor is able to satisfy the government's needs; (3) that the vendor establish domestic manufacturing capacity of the product to ensure that additional production is available as necessary; (4) dosing and administration requirements for countermeasures; (5) the amount of funding that will be dedicated by the Secretary for countermeasure research and development; and (6) specifications the countermeasure must meet to qualify for procurement under a contract.</summary>
+</bill>

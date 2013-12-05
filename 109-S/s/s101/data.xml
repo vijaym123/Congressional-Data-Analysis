@@ -1,0 +1,98 @@
+<bill session="109" type="s" number="101" updated="2013-07-19T20:14:20-04:00">
+  <state datetime="2006-12-01">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2006-12-01"/>
+  </status>
+  <introduced datetime="2005-01-24"/>
+  <titles>
+    <title as="introduced" type="official">A bill to convey to the town of Frannie, Wyoming, certain land withdrawn by the Commissioner of Reclamation.</title>
+  </titles>
+  <sponsor id="300041"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-01-24">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2005-02-16">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2005-03-30">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Domenici under authority of the order of the Senate of 3-17-2005 without amendment. With written report No. 109-46.</text>
+    </action>
+    <calendar datetime="2005-03-30" calendar="Senate Legislative" under="General Orders" number="65">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 65.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2005-07-26" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S9018-9052" label="consideration"/>
+      <reference ref="CR S9046-9047" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-07-27T10:35:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-07-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-07-27">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-08-01">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-12-07">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-11-15T10:19:00-05:00">
+      <text>Mrs. Drake moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-11-15T10:19:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8645-8646" label="consideration"/>
+    </action>
+    <action datetime="2006-11-15T10:20:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 101.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2006-11-15T10:22:00-05:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H8645" label="text"/>
+    </vote>
+    <action datetime="2006-11-15T10:22:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2006-11-15">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2006-11-21">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2006-12-01">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2006-12-01" type="public" number="109-380">
+      <text>Became Public Law No: 109-380.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee code="HSII" name="House Resources" activity="Referral"/>
+    <committee activity="Referral, Hearings" code="HSII13" subcommittee="Water and Power" name="House Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Energy"/>
+    <term name="Land transfers"/>
+    <term name="Land use"/>
+    <term name="Law"/>
+    <term name="Leases"/>
+    <term name="Natural gas reserves"/>
+    <term name="Petroleum reserves"/>
+    <term name="Wyoming"/>
+  </subjects>
+  <amendments/>
+  <summary>12/1/2006--Public Law.
+Directs the Secretary of the Interior to convey by quitclaim deed, without consideration and subject to valid existing rights, all right, title, and interest of the United States in and to a specified parcel of land to the town of Frannie, Wyoming. Reserves any oil and gas rights for the United States. Revokes a special use permit and two Secretarial Orders issued by the Commissioner of Reclamation with respect to the land.</summary>
+</bill>

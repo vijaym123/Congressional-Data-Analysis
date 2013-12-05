@@ -1,0 +1,80 @@
+<bill session="110" type="s" number="1002" updated="2013-07-19T22:28:55-04:00">
+  <state datetime="2007-04-23">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2007-04-23"/>
+  </status>
+  <introduced datetime="2007-03-27"/>
+  <titles>
+    <title as="passed house" type="short">Older Americans Reauthorization Technical Corrections Act</title>
+    <title as="passed senate" type="short">Older Americans Reauthorization Technical Corrections Act</title>
+    <title as="enacted" partial="1" type="short">Older Americans Reauthorization Technical Corrections Act</title>
+    <title as="introduced" type="official">A bill to amend the Older Americans Act of 1965 to reinstate certain provisions relating to the nutrition services incentive program.</title>
+  </titles>
+  <sponsor id="300059"/>
+  <cosponsors>
+    <cosponsor id="300041" joined="2007-03-27"/>
+    <cosponsor id="300083" joined="2007-03-27"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2007-03-27" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S3983-3984" label="consideration"/>
+      <reference ref="CR S3984" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2007-03-27T20:37:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2007-03-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2007-03-27">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2007-03-28T17:12:00-04:00">
+      <text>Committee on Education and Labor discharged.</text>
+    </action>
+    <action datetime="2007-03-28T17:13:00-04:00">
+      <text>Mr. Loebsack asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2007-03-28T17:13:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H3236-3237" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2007-03-28T17:13:00-04:00" how="without objection" result="pass" type="vote2" where="h">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H3236-3237" label="text"/>
+    </vote>
+    <action datetime="2007-03-28T17:13:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2007-03-28">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2007-04-12">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2007-04-23">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2007-04-23" type="public" number="110-19">
+      <text>Became Public Law No: 110-19.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Agricultural surpluses"/>
+    <term name="Agriculture and food"/>
+    <term name="Federal-state relations"/>
+    <term name="Food relief"/>
+    <term name="Government operations and politics"/>
+    <term name="Nutrition"/>
+    <term name="Old age assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2007--Public Law.
+Older Americans Reauthorization Technical Corrections Act - Amends the Older Americans Act of 1965 with respect to incentives for effective performance by states and tribal organizations in the efficient delivery of nutritious meals to older individuals. Repeals certain provisions regarding state agency and tribal grantee commodity purchases, as added by the Older Americans Act Amendments of 2006. Restores former commodity purchase provisions, with revisions. Entitles each state agency and tribal grantee to use its allotments to obtain from the Secretary of Agriculture commodities available through any food program of the Department of Agriculture (USDA) at the rates at which such commodities are valued for such program. (Currently, such purchases are not limited to commodities from USDA food programs, but may be any U.S. agricultural commodity and other foods.) Repeals the authority of a state agency or tribal grantee to opt to use part or all of the amounts it receives to pay a school food authority to obtain U.S. agricultural commodities for its nutrition projects. Prescribes requirements for Secretary of Agriculture determination of state agency and tribal grantee allotments. Requires the Secretary of Health and Human Services and the Secretary of Agriculture to agree on reimbursement amounts and procedures.</summary>
+</bill>

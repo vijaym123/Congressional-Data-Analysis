@@ -1,0 +1,93 @@
+<bill session="110" type="sc" number="29" updated="2013-07-19T22:19:35-04:00">
+  <state datetime="2007-05-10">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2007-05-10"/>
+  </status>
+  <introduced datetime="2007-04-26"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution encouraging the recognition of the Negro Baseball Leagues and their players on May 20th of each year.</title>
+  </titles>
+  <sponsor id="300078"/>
+  <cosponsors>
+    <cosponsor id="300009" joined="2007-05-09"/>
+    <cosponsor id="400050" joined="2007-05-07"/>
+    <cosponsor id="300013" joined="2007-04-26"/>
+    <cosponsor id="300014" joined="2007-05-10"/>
+    <cosponsor id="300018" joined="2007-05-09"/>
+    <cosponsor id="300022" joined="2007-04-26"/>
+    <cosponsor id="300023" joined="2007-05-09"/>
+    <cosponsor id="300024" joined="2007-05-09"/>
+    <cosponsor id="412248" joined="2007-05-07"/>
+    <cosponsor id="300038" joined="2007-05-09"/>
+    <cosponsor id="300059" joined="2007-05-09"/>
+    <cosponsor id="300060" joined="2007-05-07"/>
+    <cosponsor id="300061" joined="2007-05-09"/>
+    <cosponsor id="300064" joined="2007-05-08"/>
+    <cosponsor id="300065" joined="2007-04-26"/>
+    <cosponsor id="300066" joined="2007-05-09"/>
+    <cosponsor id="300067" joined="2007-05-09"/>
+    <cosponsor id="300070" joined="2007-05-08"/>
+    <cosponsor id="400621" joined="2007-04-26"/>
+    <cosponsor id="400272" joined="2007-05-09"/>
+    <cosponsor id="400629" joined="2007-04-26"/>
+    <cosponsor id="300082" joined="2007-04-26"/>
+    <cosponsor id="400619" joined="2007-05-09"/>
+    <cosponsor id="300087" joined="2007-05-07"/>
+    <cosponsor id="300092" joined="2007-04-26"/>
+    <cosponsor id="300093" joined="2007-05-07"/>
+    <cosponsor id="300098" joined="2007-05-08"/>
+    <cosponsor id="300099" joined="2007-05-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2007-04-26">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S5223"/>
+    </action>
+    <action state="REFERRED" datetime="2007-04-26">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S5223" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2007-05-10">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2007-05-10">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S6000-6001" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2007-05-10" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.</text>
+      <reference ref="CR S6000-6001" label="text"/>
+    </vote>
+    <action datetime="2007-05-11">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2007-05-14T12:02:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2007-05-14T13:45:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="hc" number="84"/>
+    <bill relation="unknown" session="110" type="hr" number="162"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Athletes"/>
+    <term name="Baseball"/>
+    <term name="Blacks"/>
+    <term name="Congressional tributes"/>
+    <term name="Minorities"/>
+    <term name="Special days"/>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1082"/>
+  </amendments>
+  <summary>5/10/2007--Passed Senate without amendment.
+Recognizes the teams and players of the Negro Baseball Leagues for their achievements, dedication, sacrifices, and contributions to both baseball and our nation. Encourages the observation of Negro Leaguers Recognition Day on May 20 of each year.</summary>
+</bill>

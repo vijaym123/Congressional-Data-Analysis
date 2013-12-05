@@ -1,0 +1,99 @@
+<bill session="110" type="h" number="407" updated="2013-07-19T21:07:18-04:00">
+  <state datetime="2007-05-07T18:56:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-05-07T18:56:00-04:00"/>
+  </status>
+  <introduced datetime="2007-01-11"/>
+  <titles>
+    <title as="introduced" type="short">Columbia-Pacific National Heritage Area Study Act</title>
+    <title as="passed house" type="short">Columbia-Pacific National Heritage Area Study Act</title>
+    <title as="reported to senate" type="short">Columbia-Pacific National Heritage Area Study Act</title>
+    <title as="introduced" type="official">To direct the Secretary of the Interior to conduct a study to determine the feasibility of establishing the Columbia-Pacific National Heritage Area in the States of Washington and Oregon, and for other purposes.</title>
+  </titles>
+  <sponsor id="400011"/>
+  <cosponsors>
+    <cosponsor id="400437" joined="2007-01-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-11">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-02-07">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-05-07T15:00:00-04:00">
+      <text>Mr. Grijalva moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-05-07T15:00:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4499-4502" label="consideration"/>
+    </action>
+    <action datetime="2007-05-07T15:00:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 407.</text>
+    </action>
+    <action datetime="2007-05-07T15:19:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2007-05-07T18:33:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4526-4527" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-05-07T18:56:00-04:00" how="roll" result="pass" roll="302" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 294 - 80 (Roll no. 302).</text>
+      <reference ref="CR H4499" label="text"/>
+    </vote>
+    <action datetime="2007-05-07T18:56:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-05-08">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <calendar datetime="2007-07-25">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2007-09-17">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-164.</text>
+    </action>
+    <calendar datetime="2007-09-17" calendar="Senate Legislative" under="General Orders" number="362">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 362.</text>
+    </calendar>
+    <action datetime="2008-06-11">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+      <reference ref="CR S5530" label="consideration"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="257"/>
+    <bill relation="unknown" session="110" type="s" number="2739"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Columbia River development"/>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Cultural property"/>
+    <term name="Environmental protection"/>
+    <term name="Governmental investigations"/>
+    <term name="Historic sites"/>
+    <term name="History"/>
+    <term name="Minorities"/>
+    <term name="Native Americans"/>
+    <term name="Nature conservation"/>
+    <term name="Oregon"/>
+    <term name="Social life and customs"/>
+    <term name="Washington State"/>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+  <summary>9/17/2007--Reported to Senate without amendment.
+Columbia-Pacific National Heritage Area Study Act - Directs the Secretary of the Interior to conduct a study to determine the feasibility of designating the coastal areas of Clatsop County, Oregon, and Pacific County, Washington (also known as the North Beach Peninsula) and areas relating to Native American history, local history, Euro-American settlement culture, and related economic activities of the Columbia River eastward in Clatsop County and Pacific, Columbia, and Wahkiakum Counties, Washington, as the "Columbia-Pacific National Heritage Area." Requires the study to include analysis, documentation, and determinations on whether the study area: (1) has an assemblage of natural, historic, and cultural resources that together represent distinctive aspects of American heritage worthy of recognition, conservation, interpretation, and continuing use, and are best managed through partnerships among public and private entities and by combining diverse and sometimes noncontiguous resources and active communities; and (2) provides outstanding recreational and educational opportunities. Instructs the Secretary, in conducting the study, to analyze the potential impact that designation of the area as a national heritage area is likely to have on land within the proposed area or bordering such area that is privately owned. Requires the Secretary to submit to specified congressional committees a report describing the findings, conclusions, and recommendations of the Secretary with respect to such study.</summary>
+</bill>

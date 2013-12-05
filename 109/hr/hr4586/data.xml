@@ -1,0 +1,132 @@
+<bill session="109" type="h" number="4586" updated="2013-07-19T19:44:48-04:00">
+  <state datetime="2006-09-20T18:30:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-09-20T18:30:00-04:00"/>
+  </status>
+  <introduced datetime="2005-12-16"/>
+  <titles>
+    <title as="introduced" type="short">Benjamin Franklin Tercentenary Commission Act of 2005</title>
+    <title as="passed house" type="short">Benjamin Franklin Tercentenary Commission Act of 2005</title>
+    <title as="introduced" type="official">To extend the authorization of the Benjamin Franklin Tercentenary Commission.</title>
+    <title as="amended by house" type="official">To extend the life of the Benjamin Franklin Tercentenary Commission.</title>
+  </titles>
+  <sponsor id="400070"/>
+  <cosponsors>
+    <cosponsor id="400019" joined="2006-03-29"/>
+    <cosponsor id="400035" joined="2006-03-29"/>
+    <cosponsor id="400636" joined="2006-03-29"/>
+    <cosponsor id="400047" joined="2006-03-29"/>
+    <cosponsor id="400060" joined="2006-03-29"/>
+    <cosponsor id="400067" joined="2006-03-29"/>
+    <cosponsor id="400102" joined="2006-03-29"/>
+    <cosponsor id="400648" joined="2006-03-29"/>
+    <cosponsor id="400110" joined="2006-03-29"/>
+    <cosponsor id="400114" joined="2006-03-29"/>
+    <cosponsor id="400119" joined="2006-03-29"/>
+    <cosponsor id="400122" joined="2006-03-29"/>
+    <cosponsor id="400123" joined="2006-03-29"/>
+    <cosponsor id="400130" joined="2006-03-29"/>
+    <cosponsor id="400646" joined="2006-03-29"/>
+    <cosponsor id="400142" joined="2006-03-29"/>
+    <cosponsor id="400147" joined="2006-03-29"/>
+    <cosponsor id="400149" joined="2006-03-29"/>
+    <cosponsor id="400168" joined="2006-03-29"/>
+    <cosponsor id="400183" joined="2006-03-29"/>
+    <cosponsor id="400186" joined="2006-03-29"/>
+    <cosponsor id="400205" joined="2006-03-29"/>
+    <cosponsor id="400210" joined="2006-03-29"/>
+    <cosponsor id="400213" joined="2006-03-29"/>
+    <cosponsor id="400221" joined="2006-03-29"/>
+    <cosponsor id="400222" joined="2006-03-29"/>
+    <cosponsor id="400642" joined="2006-03-29"/>
+    <cosponsor id="400228" joined="2006-03-29"/>
+    <cosponsor id="400236" joined="2006-03-29"/>
+    <cosponsor id="400244" joined="2006-03-29"/>
+    <cosponsor id="400249" joined="2006-03-29"/>
+    <cosponsor id="400253" joined="2006-03-29"/>
+    <cosponsor id="400264" joined="2006-03-29"/>
+    <cosponsor id="400267" joined="2006-03-29"/>
+    <cosponsor id="400286" joined="2006-03-29"/>
+    <cosponsor id="400291" joined="2006-03-29"/>
+    <cosponsor id="400303" joined="2006-03-29"/>
+    <cosponsor id="400312" joined="2006-03-29"/>
+    <cosponsor id="400317" joined="2006-03-29"/>
+    <cosponsor id="400320" joined="2006-03-29"/>
+    <cosponsor id="400321" joined="2006-03-29"/>
+    <cosponsor id="400332" joined="2006-03-29"/>
+    <cosponsor id="400334" joined="2006-03-29"/>
+    <cosponsor id="400647" joined="2006-03-29"/>
+    <cosponsor id="400637" joined="2006-03-29"/>
+    <cosponsor id="400372" joined="2006-03-29"/>
+    <cosponsor id="400375" joined="2006-03-29"/>
+    <cosponsor id="400385" joined="2006-03-29"/>
+    <cosponsor id="400406" joined="2006-03-29"/>
+    <cosponsor id="400414" joined="2006-03-29"/>
+    <cosponsor id="400420" joined="2006-03-29"/>
+    <cosponsor id="400428" joined="2006-03-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-12-16">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2006-03-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-03-30">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Government Reform"/>
+    </calendar>
+    <action datetime="2006-09-20T18:23:00-04:00">
+      <text>Ms. Foxx moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2006-09-20T18:24:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6809-6810" label="consideration"/>
+    </action>
+    <action datetime="2006-09-20T18:24:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4586.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-09-20T18:30:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6809" label="text"/>
+    </vote>
+    <action datetime="2006-09-20T18:30:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-09-20T18:30:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-09-21">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, Markup"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="American Revolution"/>
+    <term name="Anniversaries"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Authorization"/>
+    <term name="Authors and authorship"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Diplomats"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Government operations and politics"/>
+    <term name="History"/>
+    <term name="Intellectual property"/>
+    <term name="International affairs"/>
+    <term name="Inventors"/>
+    <term name="Science, technology, communications"/>
+    <term name="Scientists"/>
+  </subjects>
+  <amendments/>
+  <summary>9/20/2006--Passed House amended.
+Benjamin Franklin Tercentenary Commission Act of 2005 - Amends the Benjamin Franklin Tercentenary Commission Act to extend the deadline under which the Benjamin Franklin Tercentenary Commission shall submit its final report to January 16, 2009, (currently, the deadline for such report is January 16, 2007), thus extending the life of that Commission.</summary>
+</bill>

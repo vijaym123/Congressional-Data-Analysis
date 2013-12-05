@@ -1,0 +1,66 @@
+<bill session="110" type="sc" number="74" updated="2013-07-19T22:20:01-04:00">
+  <state datetime="2008-04-28">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2008-04-28"/>
+  </status>
+  <introduced datetime="2008-04-08"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution honoring the Prime Minister of Ireland, Bertie Ahern, for his service to the people of Ireland and to the world and welcoming the Prime Minister to the United States.</title>
+  </titles>
+  <sponsor id="300059"/>
+  <cosponsors>
+    <cosponsor id="300025" joined="2008-04-08"/>
+    <cosponsor id="300034" joined="2008-04-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-04-08">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S2757" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-04-22">
+      <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Foreign Relations"/>
+    </calendar>
+    <action datetime="2008-04-23">
+      <text>Committee on Foreign Relations. Reported by Senator Biden without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="2008-04-23" calendar="Senate Legislative" under="General Orders" number="708">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 708.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2008-04-28" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S3450-3451" label="consideration"/>
+      <reference ref="CR S3451" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2008-04-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2008-04-29T14:08:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2008-04-29">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congress and foreign policy"/>
+    <term name="Congressional tributes"/>
+    <term name="Europe"/>
+    <term name="Foreign leaders"/>
+    <term name="Ireland"/>
+    <term name="Peace negotiations"/>
+    <term name="Peace treaties"/>
+    <term name="United Kingdom"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2008--Passed Senate without amendment.
+Expresses the sense of Congress that: (1) the Prime Minister of Ireland, Bertie Ahern, has been a strong leader for the people of Ireland and a good friend to the United States; (2) the skillful leadership of Prime Minister Ahern was indispensable in achieving a successful resolution of the conflict in Northern Ireland, and hopes his unique talents will be of service in resolving conflicts elsewhere in the years ahead; and (3) the Members of the Senate and the House of Representatives look forward to paying fitting and fond tribute to Prime Minister Ahern when he addresses a joint session of Congress on April 30, 2008.</summary>
+</bill>

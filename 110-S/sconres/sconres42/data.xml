@@ -1,0 +1,58 @@
+<bill session="110" type="sc" number="42" updated="2013-07-19T22:19:41-04:00">
+  <state datetime="2007-07-24">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2007-07-24"/>
+  </status>
+  <introduced datetime="2007-07-24"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution recognizing the need to pursue research into the causes, treatment, and eventual cure for idiopathic pulmonary fibrosis, supporting the designation of a National Idiopathic Pulmonary Fibrosis Awareness Week, and for other purposes.</title>
+  </titles>
+  <sponsor id="300024"/>
+  <cosponsors>
+    <cosponsor id="300038" joined="2007-07-24"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2007-07-24" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S9853-9854" label="consideration"/>
+      <reference ref="CR S9853-9854" label="text as passed Senate"/>
+      <reference ref="S9839" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2007-07-25T10:01:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2007-07-25">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2007-07-25">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2007-07-25">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="hc" number="182"/>
+    <bill relation="unknown" session="110" type="hc" number="182"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Health"/>
+    <term name="Health education"/>
+    <term name="Lung diseases"/>
+    <term name="Medical research"/>
+    <term name="Nonprofit organizations"/>
+    <term name="Science, technology, communications"/>
+    <term name="Social welfare"/>
+    <term name="Special weeks"/>
+  </subjects>
+  <amendments/>
+  <summary>7/24/2007--Passed Senate without amendment.
+Recognizes the need to pursue research into the causes, treatment, and eventual cure for idiopathic pulmonary fibrosis.Expresses support for: (1) the work of advocates and organizations in educating, supporting, and providing hope for individuals who suffer from the disease; and (2) designation of National Idiopathic Pulmonary Fibrosis Awareness Week.Congratulates advocates and organizations for their efforts to educate the public about the disease.</summary>
+</bill>

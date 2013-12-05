@@ -1,0 +1,59 @@
+<bill session="109" type="s" number="2447" updated="2013-07-19T20:34:44-04:00">
+  <state datetime="2006-03-16">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2006-03-16"/>
+  </status>
+  <introduced datetime="2006-03-16"/>
+  <titles>
+    <title as="introduced" type="official">A bill to redesignate the White Rocks National Recreation Area in the State of Vermont as the "Robert T. Stafford White Rocks National Recreation Area".</title>
+  </titles>
+  <sponsor id="300065"/>
+  <cosponsors>
+    <cosponsor id="300057" joined="2006-03-16"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2006-03-16" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S2387-2388" label="consideration"/>
+      <reference ref="CR S2388" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2006-03-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-03-28T14:03:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-03-28">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2006-03-31">
+      <text>Referred to the Subcommittee on National Parks.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-03-31">
+      <text>Executive Comment Requested from USDA.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Recreation, and Public Lands" name="House Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="5034"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Ex-Members of Congress"/>
+    <term name="Names"/>
+    <term name="National recreation areas"/>
+    <term name="Senate"/>
+    <term name="Vermont"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/2006--Passed Senate without amendment.
+Redesignates the White Rocks National Recreation Area in Vermont as the "Robert T. Stafford White Rocks National Recreation Area".</summary>
+</bill>

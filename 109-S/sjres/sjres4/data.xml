@@ -1,0 +1,84 @@
+<bill session="109" type="sj" number="4" updated="2013-07-19T20:06:32-04:00">
+  <state datetime="2005-03-03">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-03-03"/>
+  </status>
+  <introduced datetime="2005-02-14"/>
+  <titles>
+    <title as="introduced" type="official">A joint resolution providing for congressional disapproval of the rule submitted by the Department of Agriculture under chapter 8 of title 5, United States Code, relating to risk zones for introduction of bovine spongiform encephalopathy.</title>
+  </titles>
+  <sponsor id="300026"/>
+  <cosponsors>
+    <cosponsor id="300005" joined="2005-02-14"/>
+    <cosponsor id="300009" joined="2005-02-14"/>
+    <cosponsor id="300015" joined="2005-02-17"/>
+    <cosponsor id="300036" joined="2005-02-14"/>
+    <cosponsor id="300037" joined="2005-02-14"/>
+    <cosponsor id="300038" joined="2005-02-15"/>
+    <cosponsor id="300058" joined="2005-02-14"/>
+    <cosponsor id="300082" joined="2005-02-14"/>
+    <cosponsor id="400619" joined="2005-02-14"/>
+    <cosponsor id="300097" joined="2005-02-14"/>
+    <cosponsor id="300100" joined="2005-02-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-02-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1349-1350"/>
+    </action>
+    <action state="REFERRED" datetime="2005-02-14">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+    <action datetime="2005-03-02">
+      <text>Senate Committee on Agriculture, Nutrition, and Forestry discharged. pursuant to 5 U.S.C. 802(c).</text>
+    </action>
+    <calendar state="REPORTED" datetime="2005-03-02" calendar="Senate Legislative" under="General Orders" number="25">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 25.</text>
+    </calendar>
+    <action datetime="2005-03-03">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S1961-1979" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2005-03-03" how="roll" result="pass" roll="19" type="vote" where="s">
+      <text>Passed Senate without amendment by Yea-Nay Vote. 52 - 46. Record Vote Number: 19.</text>
+      <reference ref="CR S1979" label="text"/>
+    </vote>
+    <action datetime="2005-03-07T12:02:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-03-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-03-07T15:38:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="hj" number="23"/>
+    <bill relation="unknown" session="109" type="hj" number="23"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Administrative procedure"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Animals"/>
+    <term name="Bovine spongiform encephalopathy"/>
+    <term name="Canada"/>
+    <term name="Cattle"/>
+    <term name="Congress"/>
+    <term name="Congressional veto"/>
+    <term name="Department of Agriculture"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Government operations and politics"/>
+    <term name="Health"/>
+    <term name="Import restrictions"/>
+    <term name="Law"/>
+    <term name="Meat"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/2005--Passed Senate without amendment.
+Disapproves the rule submitted by the Department of Agriculture relating to the establishment of minimal-risk zones for introduction of bovine spongiform encephalopathy into the United States, and states that such rule shall have no force or effect.</summary>
+</bill>

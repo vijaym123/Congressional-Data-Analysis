@@ -1,0 +1,47 @@
+<bill session="109" type="s" number="552" updated="2013-07-19T20:18:09-04:00">
+  <state datetime="2005-07-28">REPORTED</state>
+  <status>
+    <unknown datetime="2005-07-28"/>
+  </status>
+  <introduced datetime="2005-03-08"/>
+  <titles>
+    <title as="introduced" type="official">A bill to make technical corrections to the Veterans Benefits Improvement Act of 2004.</title>
+  </titles>
+  <sponsor id="300001"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2005-03-08">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2255"/>
+    </action>
+    <action state="REFERRED" datetime="2005-03-08">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <reference ref="CR S2255" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2005-06-23">
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+      <committee name="Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-07-28">
+      <text>Committee on Veterans' Affairs. Provisions of measure incorporated into measure S. 1235, as amended, ordered to be reported.</text>
+      <committee name="Committee on Veterans' Affairs"/>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="1292"/>
+    <bill relation="unknown" session="109" type="s" number="1235"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disabled"/>
+    <term name="Housing and community development"/>
+    <term name="Housing for the disabled"/>
+    <term name="Veterans' benefits"/>
+  </subjects>
+  <amendments/>
+  <summary>3/8/2005--Introduced.
+Amends Federal veterans' benefits provisions to restore the specially adapted housing assistance for certain active-duty members of the Armed Forces which was deleted by provisions of the Veterans Benefits Improvement Act of 2004 and which created similar assistance for certain disabled veterans.</summary>
+</bill>

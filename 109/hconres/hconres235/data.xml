@@ -1,0 +1,117 @@
+<bill session="109" type="hc" number="235" updated="2013-07-19T20:04:09-04:00">
+  <state datetime="2006-09-25">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2006-09-25"/>
+  </status>
+  <introduced datetime="2005-09-07"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of the Congress that States should require candidates for driver's licenses to demonstrate an ability to exercise greatly increased caution when driving in the proximity of a potentially visually impaired individual.</title>
+  </titles>
+  <sponsor id="400126"/>
+  <cosponsors>
+    <cosponsor id="400007" joined="2006-03-28"/>
+    <cosponsor id="400012" joined="2005-11-16"/>
+    <cosponsor id="400024" joined="2006-03-06"/>
+    <cosponsor id="400040" joined="2006-02-14"/>
+    <cosponsor id="400048" joined="2005-10-27"/>
+    <cosponsor id="400067" joined="2006-02-15"/>
+    <cosponsor id="400076" joined="2005-11-16"/>
+    <cosponsor id="400097" joined="2006-05-02"/>
+    <cosponsor id="400100" joined="2006-03-14"/>
+    <cosponsor id="400147" joined="2006-03-07"/>
+    <cosponsor id="400443" joined="2005-10-27"/>
+    <cosponsor id="400183" joined="2005-11-02"/>
+    <cosponsor id="400185" joined="2006-06-13"/>
+    <cosponsor id="400211" joined="2006-04-25"/>
+    <cosponsor id="400251" joined="2005-11-15"/>
+    <cosponsor id="400274" joined="2005-11-09"/>
+    <cosponsor id="400279" joined="2006-04-04"/>
+    <cosponsor id="400316" joined="2006-03-07"/>
+    <cosponsor id="400320" joined="2006-02-08"/>
+    <cosponsor id="400321" joined="2005-11-07"/>
+    <cosponsor id="400381" joined="2006-03-28"/>
+    <cosponsor id="400383" joined="2005-11-02"/>
+    <cosponsor id="400438" joined="2006-02-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-09-07">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2005-09-08">
+      <text>Referred to the Subcommittee on Highways, Transit and Pipelines.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2006-04-05">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-04-05">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2006-04-05">
+      <text>Subcommittee on Highways, Transit and Pipelines Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2006-06-20T16:52:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 109-513.</text>
+    </action>
+    <calendar datetime="2006-06-20T16:52:00-04:00" calendar="House" number="198">
+      <text>Placed on the House Calendar, Calendar No. 198.</text>
+    </calendar>
+    <action datetime="2006-07-25T15:37:00-04:00">
+      <text>Mr. Petri moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2006-07-25T15:37:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5763-5765" label="consideration"/>
+    </action>
+    <action datetime="2006-07-25T15:37:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 235.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-07-25T15:45:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H5763-5764" label="text"/>
+    </vote>
+    <action datetime="2006-07-25T15:45:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-07-26">
+      <text>Received in the Senate and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <action datetime="2006-09-25">
+      <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text>
+      <reference ref="CR S10100" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2006-09-25" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2006-09-25">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW12" subcommittee="Highways, Transit and Pipelines" name="House Transportation and Infrastructure"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="sc" number="71"/>
+    <bill relation="unknown" session="109" type="sc" number="71"/>
+    <bill relation="unknown" session="109" type="sc" number="71"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Animals"/>
+    <term name="Blind"/>
+    <term name="Disabled"/>
+    <term name="Dogs"/>
+    <term name="Driver licenses"/>
+    <term name="Driver tests"/>
+    <term name="Self-help devices for the disabled"/>
+    <term name="Traffic accidents and safety"/>
+  </subjects>
+  <amendments/>
+  <summary>9/25/2006--Passed Senate without amendment.
+Expresses the sense of Congress that each state should require any candidate for a driver's license to demonstrate, as a condition of obtaining one, an ability to: (1) associate the use of the white cane and guide dog with visually impaired individuals; and (2) exercise greatly increased caution when driving in proximity to a potentially visually impaired individual.</summary>
+</bill>

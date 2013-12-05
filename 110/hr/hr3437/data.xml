@@ -1,0 +1,102 @@
+<bill session="110" type="h" number="3437" updated="2013-07-19T21:34:05-04:00">
+  <state datetime="2008-09-17T19:02:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-09-17T19:02:00-04:00"/>
+  </status>
+  <introduced datetime="2007-08-03"/>
+  <titles>
+    <title as="introduced" type="short">Jackson Gulch Rehabilitation Act of 2007</title>
+    <title as="reported to house" type="short">Jackson Gulch Rehabilitation Act of 2008</title>
+    <title as="passed house" type="short">Jackson Gulch Rehabilitation Act of 2008</title>
+    <title as="introduced" type="official">To authorize the Secretary of the Interior to carry out the Jackson Gulch rehabilitation project in the State of Colorado.</title>
+  </titles>
+  <sponsor id="400620"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2007-08-03">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-08-13">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-10-24">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2008-07-15">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2008-07-15">
+      <text>Forwarded by Subcommittee to Full Committee Without Recommendation (Amended) by Unanimous Consent .</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2008-07-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-07-16">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2008-07-31T18:38:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-813.</text>
+    </action>
+    <calendar datetime="2008-07-31T18:39:00-04:00" calendar="Union" number="527">
+      <text>Placed on the Union Calendar, Calendar No. 527.</text>
+    </calendar>
+    <action datetime="2008-09-15T14:04:00-04:00">
+      <text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2008-09-15T14:04:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8052-8053" label="consideration"/>
+    </action>
+    <action datetime="2008-09-15T14:04:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3437.</text>
+    </action>
+    <action datetime="2008-09-15T14:08:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Bishop (UT) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2008-09-17T19:02:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H8368-8369" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-09-17T19:02:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR 9/15/2008 H8052" label="text"/>
+    </vote>
+    <action datetime="2008-09-17T19:02:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-09-22">
+      <text>Received in the Senate.</text>
+    </action>
+    <calendar datetime="2008-10-02" calendar="Senate Legislative" under="General Orders" number="1114">
+      <text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 1114.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="1477"/>
+    <bill relation="identical" session="110" type="s" number="1477"/>
+    <bill relation="unknown" session="110" type="s" number="1477"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Canals"/>
+    <term name="Colorado"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to water resources development"/>
+    <term name="Infrastructure"/>
+    <term name="Transportation and public works"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>9/17/2008--Passed House amended.
+Jackson Gulch Rehabilitation Act of 2008 - Directs the Secretary of the Interior, acting through the Commissioner of Reclamation to: (1) pay the federal share of the cost of carrying out the Jackson Gulch rehabilitation project in Colorado; and (2) use existing studies relating to the project, including engineering and resource information provided by, or at the direction of, federal, state, or local agencies and the Mancos Water Conservancy District.Directs the Secretary to: (1) recover the lesser of 35% of the project's cost or $2.9 million as reimbursable expenses from the District over a 15-year period; and (2) credit the District for any amounts it paid before enactment of this Act for engineering work and improvements directly associated with the project.Makes the District responsible for the operation and maintenance of any facility constructed or rehabilitated under this Act. Shields the United States from liability for damages arising out of any act, omission, or occurrence relating to such a facility. Authorizes appropriations.</summary>
+</bill>

@@ -1,0 +1,61 @@
+<bill session="109" type="h" number="6325" updated="2013-07-19T20:00:20-04:00">
+  <state datetime="2006-11-15T10:45:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-11-15T10:45:00-05:00"/>
+  </status>
+  <introduced datetime="2006-11-15"/>
+  <titles>
+    <title as="introduced" type="official">To provide a new effective date for the applicability of certain provisions of law to Public Law 105-331.</title>
+  </titles>
+  <sponsor id="400308"/>
+  <cosponsors>
+    <cosponsor id="400140" joined="2006-11-15"/>
+    <cosponsor id="400142" joined="2006-11-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-11-15">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2006-11-15T10:37:00-05:00">
+      <text>Mr. Baker moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-11-15T10:38:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8649-8650" label="consideration"/>
+    </action>
+    <action datetime="2006-11-15T10:38:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6325.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-11-15T10:45:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H8649" label="text"/>
+    </vote>
+    <action datetime="2006-11-15T10:45:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-11-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="6324"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Auditing"/>
+    <term name="Coins and coinage"/>
+    <term name="Financial statements"/>
+    <term name="Fund raising"/>
+    <term name="Intellectual property"/>
+    <term name="Inventors"/>
+    <term name="Museums"/>
+  </subjects>
+  <amendments/>
+  <summary>11/15/2006--Passed House without amendment.
+Revises the nonfederal matching requirements conditioning payment to a designated recipient organization of certain proceeds from any surcharges on the sale of Thomas Alva Edison Commemorative Coins. Makes July 1, 2007, the end of the two year period after which there must be deposited in the Treasury as miscellaneous receipts any amounts deriving from such surcharge proceeds which have not been paid to a designated recipient organization solely because of the organization's failure to submit an audited financial statement demonstrating that all matching requirements have been met.</summary>
+</bill>

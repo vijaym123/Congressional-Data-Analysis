@@ -1,0 +1,121 @@
+<bill session="110" type="h" number="85" updated="2013-07-19T21:04:33-04:00">
+  <state datetime="2007-03-12T18:59:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-03-12T18:59:00-04:00"/>
+  </status>
+  <introduced datetime="2007-01-04"/>
+  <titles>
+    <title as="introduced" type="short">Energy Technology Transfer Act</title>
+    <title as="reported to house" type="short">Energy Technology Transfer Act</title>
+    <title as="passed house" type="short">Energy Technology Transfer Act</title>
+    <title as="reported to senate" type="short">Energy Technology Transfer Act</title>
+    <title as="introduced" type="official">To provide for the establishment of centers to encourage demonstration and commercial application of advanced energy methods and technologies.</title>
+  </titles>
+  <sponsor id="400027"/>
+  <cosponsors>
+    <cosponsor id="400280" joined="2007-02-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-04">
+      <text>Referred to the House Committee on Science and Technology.</text>
+    </action>
+    <action datetime="2007-02-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Science and Technology"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-02-28">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Science and Technology"/>
+    </calendar>
+    <action datetime="2007-03-08T17:48:00-05:00">
+      <text>Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-38.</text>
+    </action>
+    <calendar datetime="2007-03-08T17:49:00-05:00" calendar="Union" number="14">
+      <text>Placed on the Union Calendar, Calendar No. 14.</text>
+    </calendar>
+    <action datetime="2007-03-12T14:19:00-04:00">
+      <text>Mr. Baird moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-03-12T14:19:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2408-2410" label="consideration"/>
+    </action>
+    <action datetime="2007-03-12T14:19:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 85.</text>
+    </action>
+    <action datetime="2007-03-12T14:31:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2007-03-12T18:35:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2418-2419" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-03-12T18:59:00-04:00" how="roll" result="pass" roll="136" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 1 (Roll no. 136).</text>
+      <reference ref="CR H2408-2409" label="text"/>
+    </vote>
+    <action datetime="2007-03-12T18:59:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-03-13">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2007-05-22">
+      <text>Committee on Energy and Natural Resources Senate Subcommittee on Energy. Hearings held. With printed Hearing: S.Hrg. 110-112.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2007-07-25">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2007-09-17">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-162.</text>
+    </action>
+    <calendar datetime="2007-09-17" calendar="Senate Legislative" under="General Orders" number="360">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 360.</text>
+    </calendar>
+    <action datetime="2008-06-11">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+      <reference ref="CR S5530" label="consideration"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science and Technology" activity="Referral, Markup, Reporting"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG01" subcommittee="Energy" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="2739"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Agricultural extension work"/>
+    <term name="Agriculture and food"/>
+    <term name="Air conditioning"/>
+    <term name="Cogeneration of electric power and heat"/>
+    <term name="Commerce"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Energy conservation"/>
+    <term name="Energy efficiency"/>
+    <term name="Energy research"/>
+    <term name="Federal aid to education"/>
+    <term name="Federal aid to research"/>
+    <term name="Heating"/>
+    <term name="Higher education"/>
+    <term name="Industrial engineering"/>
+    <term name="Industrialized building"/>
+    <term name="Nonprofit organizations"/>
+    <term name="Research and development"/>
+    <term name="Research centers"/>
+    <term name="Research grants"/>
+    <term name="Science, technology, communications"/>
+    <term name="Social welfare"/>
+    <term name="Solar energy"/>
+    <term name="Technology transfer"/>
+    <term name="Wind power"/>
+  </subjects>
+  <amendments/>
+  <summary>9/17/2007--Reported to Senate without amendment.
+Energy Technology Transfer Act - Amends the Energy Policy Act of 2005 to direct the Secretary of Energy to award grants for a five-year period to nonprofit institutions, state and local governments, cooperative extension services, or institutions of higher education to establish a geographically dispersed network of Advanced Energy Technology Transfer Centers, located in areas the Secretary determines have the greatest need of their services.Requires the Secretary to: (1) give priority to applicants already operating or partnered with an outreach program capable of transferring such knowledge and information about advanced energy efficiency methods and technologies; (2) give preference to those that would significantly expand on or fill a gap in existing programs in a geographical region; and (3) consider the special needs and opportunities for increased energy efficiency for manufactured and site-built housing, including construction, renovation, and retrofit.Sets forth Center activities and operations. Prescribes selection criteria.Prohibits the use of grant funds for facilities construction.</summary>
+</bill>

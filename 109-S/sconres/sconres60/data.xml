@@ -1,0 +1,111 @@
+<bill session="109" type="sc" number="60" updated="2013-07-19T20:12:52-04:00">
+  <state datetime="2006-07-24T14:50:00-04:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2006-07-24T14:50:00-04:00"/>
+  </status>
+  <introduced datetime="2005-10-25"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution designating the Negro Leagues Baseball Museum in Kansas City, Missouri, as America's National Negro Leagues Baseball Museum.</title>
+  </titles>
+  <sponsor id="300096"/>
+  <cosponsors>
+    <cosponsor id="300033" joined="2005-11-16"/>
+    <cosponsor id="300038" joined="2005-11-17"/>
+    <cosponsor id="300083" joined="2005-11-17"/>
+    <cosponsor id="300095" joined="2006-03-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-10-25">
+      <text>Referred to the Committee on Energy and Natural Resources.</text>
+      <reference ref="CR S11828" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2005-11-15">
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 109-355.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-03-08">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2006-04-03">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Domenici with an amendment and with an amended preamble. With written report No. 109-228.</text>
+    </action>
+    <calendar datetime="2006-04-03" calendar="Senate Legislative" under="General Orders" number="387">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 387.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2006-04-04" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.</text>
+      <reference ref="CR S2846-2847" label="consideration"/>
+      <reference ref="CR S2846" label="text as reported in Senate"/>
+      <reference ref="CR S2846-2847" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2006-04-04T20:14:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-04-04">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-04-04">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2006-04-26">
+      <text>Executive Comment Requested from Interior.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-04-26">
+      <text>Referred to the Subcommittee on National Parks.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-07-24T14:46:00-04:00">
+      <text>Mr. Walden (OR) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2006-07-24T14:46:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5587" label="consideration"/>
+    </action>
+    <action datetime="2006-07-24T14:47:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 60.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2006-07-24T14:50:00-04:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H5587" label="text"/>
+    </vote>
+    <action datetime="2006-07-24T14:50:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="National Parks" name="Senate Energy and Natural Resources"/>
+    <committee code="HSII" name="House Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Recreation, and Public Lands" name="House Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="hc" number="277"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Athletes"/>
+    <term name="Baseball"/>
+    <term name="Black history"/>
+    <term name="Blacks"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Elementary education"/>
+    <term name="History"/>
+    <term name="Minorities"/>
+    <term name="Missouri"/>
+    <term name="Museums"/>
+    <term name="Names"/>
+    <term name="Secondary education"/>
+    <term name="Segregation"/>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/24/2006--Passed House without amendment.
+Designates the Negro Leagues Baseball Museum in Kansas City, Missouri, as America's National Negro Leagues Baseball Museum. Expresses support for the Museum's efforts to recognize and preserve the history of the Negro Leagues and the impact of segregation on our nation. Commends the ongoing development and visibility of the Power Alley educational outreach program for teachers and students sponsored by the Museum. Encourages present and future generations to understand the sensitive issues surrounding the Negro Leagues, how they helped shape our nation and Major League Baseball, and how the sacrifices made by the players helped make baseball America's national pastime.</summary>
+</bill>

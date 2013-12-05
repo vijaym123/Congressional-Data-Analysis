@@ -1,0 +1,55 @@
+<bill session="109" type="sc" number="39" updated="2013-07-19T20:12:41-04:00">
+  <state datetime="2005-07-28">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-07-28"/>
+  </status>
+  <introduced datetime="2005-05-26"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution to express the sense of Congress on the Purple Heart.</title>
+  </titles>
+  <sponsor id="300022"/>
+  <cosponsors>
+    <cosponsor id="300050" joined="2005-05-26"/>
+    <cosponsor id="300091" joined="2005-06-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-05-26">
+      <text>Referred to the Committee on Armed Services.</text>
+      <reference ref="CR S6058" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2005-07-28">
+      <text>Senate Committee on Armed Services discharged by Unanimous Consent.</text>
+      <reference ref="CR S9317-9318" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2005-07-28" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S9317-9318" label="text"/>
+    </vote>
+    <action datetime="2005-07-29T09:02:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-07-29">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2005-07-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, Discharged"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="hc" number="170"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Armed forces and national security"/>
+    <term name="Military medals, decorations, etc."/>
+    <term name="Special days"/>
+    <term name="War casualties"/>
+  </subjects>
+  <amendments/>
+  <summary>7/28/2005--Passed Senate without amendment.
+Supports the goals and ideals of National Purple Heart Recognition Day and encourages the people of the United States to learn about the history of the Purple Heart and to honor its recipients.</summary>
+</bill>

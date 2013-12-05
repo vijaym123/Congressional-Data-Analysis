@@ -1,0 +1,120 @@
+<bill session="110" type="s" number="3186" updated="2013-07-19T22:49:21-04:00">
+  <state datetime="2008-07-26">PROV_KILL:CLOTUREFAILED</state>
+  <status>
+    <unknown datetime="2008-07-26"/>
+  </status>
+  <introduced datetime="2008-06-24"/>
+  <titles>
+    <title as="introduced" type="short">Warm in Winter and Cool in Summer Act</title>
+    <title as="introduced" type="official">A bill to provide funding for the Low-Income Home Energy Assistance Program.</title>
+  </titles>
+  <sponsor id="400357"/>
+  <cosponsors>
+    <cosponsor id="300005" joined="2008-07-14"/>
+    <cosponsor id="300008" joined="2008-07-17"/>
+    <cosponsor id="300009" joined="2008-07-10"/>
+    <cosponsor id="300010" joined="2008-07-15"/>
+    <cosponsor id="300011" joined="2008-07-24"/>
+    <cosponsor id="400050" joined="2008-06-24"/>
+    <cosponsor id="300018" joined="2008-07-10"/>
+    <cosponsor id="400064" joined="2008-06-24"/>
+    <cosponsor id="412246" joined="2008-07-10"/>
+    <cosponsor id="300022" joined="2008-07-10"/>
+    <cosponsor id="300024" joined="2008-06-26"/>
+    <cosponsor id="300025" joined="2008-06-26"/>
+    <cosponsor id="300034" joined="2008-07-15"/>
+    <cosponsor id="300035" joined="2008-07-10"/>
+    <cosponsor id="300037" joined="2008-07-17"/>
+    <cosponsor id="300038" joined="2008-07-10"/>
+    <cosponsor id="300048" joined="2008-07-24"/>
+    <cosponsor id="300049" joined="2008-07-10"/>
+    <cosponsor id="300058" joined="2008-07-24"/>
+    <cosponsor id="300059" joined="2008-06-26"/>
+    <cosponsor id="300060" joined="2008-06-26"/>
+    <cosponsor id="412242" joined="2008-07-10"/>
+    <cosponsor id="300061" joined="2008-07-17"/>
+    <cosponsor id="300063" joined="2008-07-10"/>
+    <cosponsor id="300064" joined="2008-07-14"/>
+    <cosponsor id="300065" joined="2008-06-24"/>
+    <cosponsor id="300066" joined="2008-07-14"/>
+    <cosponsor id="300067" joined="2008-07-14"/>
+    <cosponsor id="300068" joined="2008-07-24"/>
+    <cosponsor id="300070" joined="2008-07-10"/>
+    <cosponsor id="412243" joined="2008-07-17"/>
+    <cosponsor id="400272" joined="2008-07-10"/>
+    <cosponsor id="300073" joined="2008-07-17"/>
+    <cosponsor id="300075" joined="2008-07-10"/>
+    <cosponsor id="300076" joined="2008-07-10"/>
+    <cosponsor id="300078" joined="2008-07-14"/>
+    <cosponsor id="400629" joined="2008-07-10"/>
+    <cosponsor id="300080" joined="2008-07-24"/>
+    <cosponsor id="300081" joined="2008-07-15"/>
+    <cosponsor id="300082" joined="2008-07-14"/>
+    <cosponsor id="300084" joined="2008-07-15"/>
+    <cosponsor id="400619" joined="2008-07-15"/>
+    <cosponsor id="300087" joined="2008-07-10"/>
+    <cosponsor id="300090" joined="2008-06-26"/>
+    <cosponsor id="300091" joined="2008-06-26"/>
+    <cosponsor id="300092" joined="2008-07-24"/>
+    <cosponsor id="300093" joined="2008-07-10"/>
+    <cosponsor id="300094" joined="2008-07-16"/>
+    <cosponsor id="300095" joined="2008-06-26"/>
+    <cosponsor id="412244" joined="2008-07-16"/>
+    <cosponsor id="412247" joined="2008-07-15"/>
+    <cosponsor id="300100" joined="2008-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2008-06-24">
+      <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2008-06-25" calendar="Senate Legislative" under="General Orders" number="835">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 835.</text>
+    </calendar>
+    <action datetime="2008-06-26">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S6212-6213"/>
+    </action>
+    <action datetime="2008-07-23">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S7131-7140" label="consideration"/>
+    </action>
+    <action datetime="2008-07-23">
+      <text>Cloture motion on the motion to proceed to the measure presented in Senate.</text>
+      <reference ref="CR S7131" label="consideration"/>
+      <reference ref="CR S7131" label="text"/>
+    </action>
+    <action datetime="2008-07-24">
+      <text>Motion to proceed to measure considered in Senate.</text>
+      <reference ref="CR S7207, S7246-7253, S7256-7262" label="consideration"/>
+    </action>
+    <action state="PROV_KILL:CLOTUREFAILED" datetime="2008-07-26">
+      <text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 50 - 35. Record Vote Number: 187.</text>
+      <reference ref="CR S7506-7509" label="consideration"/>
+      <reference ref="CR S7508" label="text"/>
+    </action>
+    <action datetime="2008-07-26">
+      <text>Motion by Senator Reid to reconsider the vote by which cloture was not invoked on the motion to proceed to the measure (Record Vote Number 187) entered in Senate.</text>
+      <reference ref="CR S7508" label="consideration"/>
+    </action>
+    <action datetime="2008-07-26">
+      <text>Motion to proceed to consideration of measure withdrawn in Senate.</text>
+      <reference ref="CR S7509" label="consideration"/>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="identical" session="110" type="h" number="6427"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Appropriations"/>
+    <term name="Economics and public finance"/>
+    <term name="Energy assistance for the poor"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments>
+    <amendment number="s5256"/>
+  </amendments>
+  <summary>6/24/2008--Introduced.
+Warm in Winter and Cool in Summer Act - Makes appropriations for FY2008 for payments under the Low-Income Home Energy Assistance Act of 1981 (LIHEAP Program).</summary>
+</bill>

@@ -1,0 +1,86 @@
+<bill session="110" type="hc" number="311" updated="2013-07-19T22:11:26-04:00">
+  <state datetime="2008-06-05">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2008-06-05"/>
+  </status>
+  <introduced datetime="2008-03-06"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box Derby.</title>
+  </titles>
+  <sponsor id="400189"/>
+  <cosponsors>
+    <cosponsor id="400283" joined="2008-03-06"/>
+    <cosponsor id="400295" joined="2008-03-06"/>
+    <cosponsor id="400415" joined="2008-03-06"/>
+    <cosponsor id="400435" joined="2008-03-06"/>
+    <cosponsor id="400438" joined="2008-03-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-03-06">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2008-03-07">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2008-05-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-05-15">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2008-05-15">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2008-06-03T14:32:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 110-675.</text>
+    </action>
+    <calendar datetime="2008-06-03T14:32:00-04:00" calendar="House" number="228">
+      <text>Placed on the House Calendar, Calendar No. 228.</text>
+    </calendar>
+    <action datetime="2008-06-04T10:28:00-04:00">
+      <text>Ms. Johnson, E. B. moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2008-06-04T10:29:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4882-4886" label="consideration"/>
+    </action>
+    <action datetime="2008-06-04T10:29:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 311.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-06-04T11:00:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H4882-4883" label="text"/>
+    </vote>
+    <action datetime="2008-06-04T11:00:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2008-06-05" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S5331" label="consideration"/>
+    </vote>
+    <action datetime="2008-06-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="hc" number="79"/>
+    <bill relation="unknown" session="110" type="hc" number="79"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/5/2008--Passed Senate without amendment.
+Permits the Greater Washington Soap Box Derby Association to sponsor soap box derby races as a free public event on the Capitol grounds on June 21, 2008.</summary>
+</bill>

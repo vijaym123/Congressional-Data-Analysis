@@ -1,0 +1,64 @@
+<bill session="110" type="sc" number="71" updated="2013-07-19T22:20:00-04:00">
+  <state datetime="2008-04-15T14:57:00-04:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2008-04-15T14:57:00-04:00"/>
+  </status>
+  <introduced datetime="2008-03-13"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution authorizing the use of the rotunda of the Capitol for the presentation of the Congressional Gold Medal to Michael Ellis DeBakey, M.D..</title>
+  </titles>
+  <sponsor id="300054"/>
+  <cosponsors>
+    <cosponsor id="300027" joined="2008-03-13"/>
+    <cosponsor id="400418" joined="2008-03-13"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2008-03-14" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2008-03-14T10:05:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2008-03-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2008-03-14">
+      <text>Referred to the House Committee on House Administration.</text>
+      <reference ref="CR S2167" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2008-04-15T14:54:00-04:00">
+      <text>Committee on House Administration discharged.</text>
+    </action>
+    <action datetime="2008-04-15T14:54:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H2298-2299" label="consideration"/>
+    </action>
+    <action datetime="2008-04-15T14:54:00-04:00">
+      <text>Mr. Brady (PA) asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2008-04-15T14:57:00-04:00" how="without objection" result="pass" type="vote2" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H2299" label="text"/>
+    </vote>
+    <action datetime="2008-04-15T14:57:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Cardiovascular diseases"/>
+    <term name="Congress"/>
+    <term name="Congressional gold medals"/>
+    <term name="Health"/>
+    <term name="Physicians"/>
+    <term name="Surgery"/>
+  </subjects>
+  <amendments/>
+  <summary>4/15/2008--Passed House without amendment.
+Authorizes the use of the Capitol rotunda on April 23, 2008, for the presentation of the congressional gold medal to Michael Ellis DeBakey, M.D..</summary>
+</bill>

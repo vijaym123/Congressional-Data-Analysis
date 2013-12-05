@@ -1,0 +1,52 @@
+<bill session="109" type="h" number="133" updated="2013-07-19T19:05:29-04:00">
+  <state datetime="2005-01-04">REFERRED</state>
+  <status>
+    <introduced datetime="2005-01-04"/>
+  </status>
+  <introduced datetime="2005-01-04"/>
+  <titles>
+    <title as="introduced" type="short">Pell Grant Increase Act of 2005</title>
+    <title as="introduced" type="official">To increase the maximum Pell Grant.</title>
+  </titles>
+  <sponsor id="400212"/>
+  <cosponsors>
+    <cosponsor id="400030" joined="2005-01-25"/>
+    <cosponsor id="400041" joined="2005-02-09"/>
+    <cosponsor id="400042" joined="2005-05-04"/>
+    <cosponsor id="400118" joined="2005-02-09"/>
+    <cosponsor id="400123" joined="2005-02-09"/>
+    <cosponsor id="400662" joined="2005-01-25"/>
+    <cosponsor id="400264" joined="2005-01-25"/>
+    <cosponsor id="400363" joined="2005-09-07"/>
+    <cosponsor id="400425" joined="2005-02-09"/>
+    <cosponsor id="400426" joined="2005-02-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-01-04">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2005-02-08">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H369"/>
+    </action>
+    <action datetime="2005-02-09">
+      <text>Referred to the Subcommittee on 21st Century Competitiveness.</text>
+      <committee name="House Committee on Education and the Workforce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED13" subcommittee="21st Century Competitiveness" name="House Education and the Workforce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to education"/>
+    <term name="Higher education"/>
+    <term name="Scholarships"/>
+  </subjects>
+  <amendments/>
+  <summary>1/4/2005--Introduced.
+Pell Grant Increase Act of 2005 - Amends the Higher Education Act of 1965 to increase the maximum Pell Grant award to $6,000 for academic years 2005-2006 through 2010-2011.</summary>
+</bill>

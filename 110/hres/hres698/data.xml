@@ -1,0 +1,65 @@
+<bill session="110" type="hr" number="698" updated="2013-07-19T20:56:36-04:00">
+  <state datetime="2008-03-04T14:43:00-05:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2008-03-04T14:43:00-05:00"/>
+  </status>
+  <introduced datetime="2007-10-01"/>
+  <titles>
+    <title as="introduced" type="official">Commemorating the 200th anniversary of Congressional Cemetery.</title>
+  </titles>
+  <sponsor id="400420"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2007-11-05"/>
+    <cosponsor id="400129" joined="2007-10-01"/>
+    <cosponsor id="400239" joined="2007-11-05"/>
+    <cosponsor id="400295" joined="2007-11-05"/>
+    <cosponsor id="400318" joined="2007-11-05"/>
+    <cosponsor id="400384" joined="2007-11-05"/>
+    <cosponsor id="400415" joined="2007-11-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-10-01">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-10-04">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2008-03-04T14:38:00-05:00">
+      <text>Mr. Rahall moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2008-03-04T14:38:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1200-1201" label="consideration"/>
+    </action>
+    <action datetime="2008-03-04T14:38:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 698.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2008-03-04T14:43:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H1200" label="text"/>
+    </vote>
+    <action datetime="2008-03-04T14:43:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Congress"/>
+    <term name="District of Columbia"/>
+    <term name="Ex-Members of Congress"/>
+    <term name="Historic sites"/>
+    <term name="History"/>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2008--Passed House without amendment.
+Declares that, on the 200th anniversary of the founding of Congressional Cemetery, the House of Representatives recognizes and honors the cultural and historical importance of Congressional Cemetery and the value of protecting and restoring this national treasure.</summary>
+</bill>

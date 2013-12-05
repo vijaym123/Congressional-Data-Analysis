@@ -1,0 +1,42 @@
+<bill session="109" type="h" number="716" updated="2013-07-19T19:10:32-04:00">
+  <state datetime="2005-02-09">REFERRED</state>
+  <status>
+    <introduced datetime="2005-02-09"/>
+  </status>
+  <introduced datetime="2005-02-09"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 10, United States Code, to provide that military reservists who are retained in active status after qualifying for reserve retired pay shall be given credit toward computation of such retired pay for service performed after so qualifying.</title>
+  </titles>
+  <sponsor id="400268"/>
+  <cosponsors>
+    <cosponsor id="400065" joined="2005-05-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-02-09">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2005-03-14">
+      <text>Executive Comment Requested from DOD.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+    <action datetime="2005-03-14">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Armed forces reserves"/>
+    <term name="Iraq compilation"/>
+    <term name="Labor and employment"/>
+    <term name="Military pensions"/>
+  </subjects>
+  <amendments/>
+  <summary>2/9/2005--Introduced.
+Provides that for purposes of computing retired pay for non-regular military service, a person's days of active service shall include days served in active status after qualifying for retired pay, which shall be credited when the person leaves active status. Makes such provision effective with respect to any person qualifying for retired pay after January 1, 1988.</summary>
+</bill>

@@ -1,0 +1,102 @@
+<bill session="109" type="h" number="4096" updated="2013-07-19T19:40:34-04:00">
+  <state datetime="2005-12-07T14:09:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-12-07T14:09:00-05:00"/>
+  </status>
+  <introduced datetime="2005-10-20"/>
+  <titles>
+    <title as="introduced" type="short">Stealth Tax Relief Act of 2005</title>
+    <title as="passed house" type="short">Stealth Tax Relief Act of 2005</title>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to extend to 2006 the alternative minimum tax relief available in 2005 and to index such relief for inflation.</title>
+  </titles>
+  <sponsor id="400338"/>
+  <cosponsors>
+    <cosponsor id="400027" joined="2005-12-06"/>
+    <cosponsor id="400029" joined="2005-10-20"/>
+    <cosponsor id="400040" joined="2005-11-04"/>
+    <cosponsor id="400061" joined="2005-10-20"/>
+    <cosponsor id="400095" joined="2005-11-18"/>
+    <cosponsor id="400107" joined="2005-10-20"/>
+    <cosponsor id="400658" joined="2005-11-04"/>
+    <cosponsor id="400123" joined="2005-10-20"/>
+    <cosponsor id="400136" joined="2005-10-20"/>
+    <cosponsor id="400138" joined="2005-11-04"/>
+    <cosponsor id="400662" joined="2005-10-20"/>
+    <cosponsor id="400145" joined="2005-10-20"/>
+    <cosponsor id="400167" joined="2005-11-04"/>
+    <cosponsor id="400176" joined="2005-10-20"/>
+    <cosponsor id="400187" joined="2005-10-20"/>
+    <cosponsor id="400191" joined="2005-10-20"/>
+    <cosponsor id="400213" joined="2005-10-20"/>
+    <cosponsor id="400219" joined="2005-10-20"/>
+    <cosponsor id="400642" joined="2005-10-20"/>
+    <cosponsor id="400242" joined="2005-10-20"/>
+    <cosponsor id="400257" joined="2005-11-04"/>
+    <cosponsor id="400260" joined="2005-10-20"/>
+    <cosponsor id="400264" joined="2005-10-20"/>
+    <cosponsor id="400277" joined="2005-10-20"/>
+    <cosponsor id="400285" joined="2005-10-20"/>
+    <cosponsor id="400287" joined="2005-11-04"/>
+    <cosponsor id="400311" joined="2005-10-20"/>
+    <cosponsor id="400367" joined="2005-10-20"/>
+    <cosponsor id="400369" joined="2005-10-20"/>
+    <cosponsor id="400375" joined="2005-10-20"/>
+    <cosponsor id="400381" joined="2005-12-07"/>
+    <cosponsor id="400419" joined="2005-10-20"/>
+    <cosponsor id="400433" joined="2005-11-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-10-20">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2005-12-07T12:44:00-05:00">
+      <text>Mr. Reynolds moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2005-12-07T12:45:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11141-11147" label="consideration"/>
+    </action>
+    <action datetime="2005-12-07T12:45:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4096.</text>
+    </action>
+    <action datetime="2005-12-07T13:31:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2005-12-07T14:01:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H11147-11148" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-12-07T14:09:00-05:00" how="roll" result="pass" roll="613" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 4 (Roll no. 613).</text>
+      <reference ref="CR H11141" label="text"/>
+    </vote>
+    <action datetime="2005-12-07T14:09:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-12-12">
+      <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2005-12-13" calendar="Senate Legislative" under="General Orders" number="326">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 326.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Cost of living adjustments"/>
+    <term name="Economics and public finance"/>
+    <term name="Income tax"/>
+    <term name="Indexing (Economic policy)"/>
+    <term name="Minimum tax"/>
+    <term name="Tax exemption"/>
+  </subjects>
+  <amendments>
+    <amendment number="s5003"/>
+    <amendment number="s5004"/>
+  </amendments>
+  <summary>12/7/2005--Passed House without amendment.
+Stealth Tax Relief Act of 2005 - Amends the Internal Revenue Code to: (1) extend through 2006 the increased alternative minimum tax exemption amount for individual taxpayers; and (2) adjust such increased exemption amount for inflation in 2006.</summary>
+</bill>

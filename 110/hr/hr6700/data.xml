@@ -1,0 +1,48 @@
+<bill session="110" type="h" number="6700" updated="2013-07-19T22:02:21-04:00">
+  <state datetime="2008-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2008-07-31"/>
+  </status>
+  <introduced datetime="2008-07-31"/>
+  <titles>
+    <title as="introduced" type="official">To recognize those astronauts who participated in missions to the moon in the Apollo program of the National Aeronautics and Space Administration by authorizing their appointment to the grade of major general or rear admiral on the retired list, and for other purposes.</title>
+  </titles>
+  <sponsor id="400165"/>
+  <cosponsors>
+    <cosponsor id="400206" joined="2008-07-31"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-07-31">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committee on Science and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2008-07-31">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2008-07-31">
+      <text>Referred to House Science and Technology</text>
+    </action>
+    <action datetime="2008-09-04">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Armed Services"/>
+    </action>
+    <action datetime="2008-09-17">
+      <text>Referred to the Subcommittee on Space and Aeronautics.</text>
+      <committee name="House Science and Technology"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+    <committee code="HSSY" name="House Science and Technology" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSY16" subcommittee="Space and Aeronautics" name="House Science and Technology"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Space flight and exploration"/>
+  </subjects>
+  <amendments/>
+  <summary>7/31/2008--Introduced.
+Authorizes the President to: (1) appoint each astronaut who participated in a mission to the moon in the Apollo program of the National Aeronautics and Space Administration (NASA) and is on the retired list of the Army, Air Force, or Marine Corps to the grade of major general; (2) appoint each astronaut who participated in a mission to the moon in the Apollo program and is on the retired list of the Navy to the grade of rear admiral; (3) issue posthumously a commission as major general or rear admiral in the name of any astronaut who participated in a mission to the moon in the Apollo program and is deceased; and (4) appoint as a Lunar Ambassador, each astronaut who participated in a mission to the moon in the Apollo program and is not a member of the Armed Forces.</summary>
+</bill>

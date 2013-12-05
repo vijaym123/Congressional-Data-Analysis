@@ -1,0 +1,42 @@
+<bill session="110" type="sr" number="289" updated="2013-07-19T22:15:33-04:00">
+  <state datetime="2007-11-08">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2007-11-08"/>
+  </status>
+  <introduced datetime="2007-08-01"/>
+  <titles>
+    <title as="introduced" type="official">A resolution expressing the sense of the Senate that a "Welcome Home Vietnam Veterans Day" should be established.</title>
+  </titles>
+  <sponsor id="300011"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2007-08-01">
+      <text>Referred to the Committee on Veterans' Affairs.</text>
+      <reference ref="CR S10627" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2007-11-08">
+      <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text>
+      <reference ref="CR S14233-14234" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2007-11-08" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S14234" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="hr" number="189"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Armed forces and national security"/>
+    <term name="Special days"/>
+    <term name="Veterans Day"/>
+    <term name="Vietnam veterans"/>
+  </subjects>
+  <amendments/>
+  <summary>11/8/2007--Passed Senate without amendment.
+Expresses the sense of the Senate that there should be established a "Welcome Home Vietnam Veterans Day" to honor those members of the U.S. Armed Forces who served in Vietnam.</summary>
+</bill>

@@ -1,0 +1,72 @@
+<bill session="110" type="h" number="1175" updated="2013-07-19T21:13:57-04:00">
+  <state datetime="2007-06-05T15:01:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-06-05T15:01:00-04:00"/>
+  </status>
+  <introduced datetime="2007-02-16"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to increase the ceiling on the Federal share of the costs of phase I of the Orange County, California, Regional Water Reclamation Project.</title>
+  </titles>
+  <sponsor id="400356"/>
+  <cosponsors>
+    <cosponsor id="400057" joined="2007-02-16"/>
+    <cosponsor id="412011" joined="2007-02-16"/>
+    <cosponsor id="400277" joined="2007-02-16"/>
+    <cosponsor id="400343" joined="2007-02-16"/>
+    <cosponsor id="400348" joined="2007-02-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-02-16">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-02-26">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-06-05T14:59:00-04:00">
+      <text>Mrs. Christensen moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-06-05T14:59:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5942" label="consideration"/>
+    </action>
+    <action datetime="2007-06-05T14:59:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1175.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-06-05T15:01:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H5942" label="text"/>
+    </vote>
+    <action datetime="2007-06-05T15:01:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-06-07">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2007-07-17">
+      <text>Star Print ordered on the bill.</text>
+    </action>
+    <action datetime="2007-08-01">
+      <text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSEG07" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Agriculture and food"/>
+    <term name="California"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to water resources development"/>
+    <term name="Irrigation"/>
+    <term name="Water conservation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/5/2007--Passed House without amendment.
+Amends the Reclamation Wastewater and Groundwater Study and Facilities Act to specify the ceiling on the federal share of the costs of phase I of the Orange County, California, Regional Water Reclamation Project for FY2007-FY2016.</summary>
+</bill>

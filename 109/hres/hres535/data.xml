@@ -1,0 +1,134 @@
+<bill session="109" type="hr" number="535" updated="2013-07-19T18:59:10-04:00">
+  <state datetime="2005-12-06T19:05:00-05:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2005-12-06T19:05:00-05:00"/>
+  </status>
+  <introduced datetime="2005-11-04"/>
+  <titles>
+    <title as="introduced" type="official">Honoring the life, legacy, and example of Israeli Prime Minister Yitzhak Rabin on the tenth anniversary of his death.</title>
+  </titles>
+  <sponsor id="400122"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="2005-11-04"/>
+    <cosponsor id="400011" joined="2005-11-15"/>
+    <cosponsor id="400024" joined="2005-11-15"/>
+    <cosponsor id="400025" joined="2005-11-08"/>
+    <cosponsor id="400031" joined="2005-11-15"/>
+    <cosponsor id="400033" joined="2005-11-15"/>
+    <cosponsor id="400055" joined="2005-11-15"/>
+    <cosponsor id="400062" joined="2005-11-08"/>
+    <cosponsor id="400080" joined="2005-11-08"/>
+    <cosponsor id="400087" joined="2005-11-08"/>
+    <cosponsor id="400103" joined="2005-11-16"/>
+    <cosponsor id="400111" joined="2005-11-08"/>
+    <cosponsor id="400114" joined="2005-11-15"/>
+    <cosponsor id="400120" joined="2005-11-08"/>
+    <cosponsor id="400125" joined="2005-11-08"/>
+    <cosponsor id="400128" joined="2005-11-08"/>
+    <cosponsor id="400653" joined="2005-11-15"/>
+    <cosponsor id="400162" joined="2005-11-08"/>
+    <cosponsor id="400641" joined="2005-11-08"/>
+    <cosponsor id="400184" joined="2005-12-06"/>
+    <cosponsor id="400222" joined="2005-11-08"/>
+    <cosponsor id="400231" joined="2005-11-04"/>
+    <cosponsor id="400236" joined="2005-11-08"/>
+    <cosponsor id="400240" joined="2005-11-04"/>
+    <cosponsor id="400245" joined="2005-11-08"/>
+    <cosponsor id="400251" joined="2005-11-08"/>
+    <cosponsor id="400257" joined="2005-11-08"/>
+    <cosponsor id="400260" joined="2005-11-08"/>
+    <cosponsor id="400262" joined="2005-11-08"/>
+    <cosponsor id="400268" joined="2005-11-08"/>
+    <cosponsor id="400271" joined="2005-11-15"/>
+    <cosponsor id="400272" joined="2005-11-08"/>
+    <cosponsor id="400289" joined="2005-11-08"/>
+    <cosponsor id="400308" joined="2005-11-15"/>
+    <cosponsor id="400320" joined="2005-11-15"/>
+    <cosponsor id="400344" joined="2005-11-04"/>
+    <cosponsor id="400360" joined="2005-11-08"/>
+    <cosponsor id="400361" joined="2005-11-15"/>
+    <cosponsor id="400363" joined="2005-11-15"/>
+    <cosponsor id="400371" joined="2005-11-16"/>
+    <cosponsor id="400623" joined="2005-11-04"/>
+    <cosponsor id="400425" joined="2005-11-04"/>
+    <cosponsor id="400426" joined="2005-11-08"/>
+    <cosponsor id="400430" joined="2005-11-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-11-04">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+    <action datetime="2005-11-15">
+      <text>Referred to the Subcommittee on Middle East and Central Asia.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <action datetime="2005-11-15">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <action datetime="2005-11-15">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <action datetime="2005-11-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-11-16">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on International Relations"/>
+    </calendar>
+    <action datetime="2005-12-06T16:19:00-05:00">
+      <text>Ms. Ros-Lehtinen moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2005-12-06T16:20:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11063-11066" label="consideration"/>
+    </action>
+    <action datetime="2005-12-06T16:20:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 535.</text>
+    </action>
+    <action datetime="2005-12-06T16:43:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2005-12-06T18:58:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H11071-11072" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2005-12-06T19:05:00-05:00" how="roll" result="pass" roll="610" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 399 - 0 (Roll no. 610).</text>
+      <reference ref="CR H11063" label="text"/>
+    </vote>
+    <action datetime="2005-12-06T19:06:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House International Relations" activity="Referral, Markup"/>
+    <committee activity="Referral, Markup, Reporting" code="HSFA13" subcommittee="Middle East and Central Asia" name="House International Relations"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="sr" number="310"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Anniversaries"/>
+    <term name="Arab-Israeli conflict"/>
+    <term name="Armed forces and national security"/>
+    <term name="Assassination"/>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Democracy"/>
+    <term name="Foreign leaders"/>
+    <term name="Government operations and politics"/>
+    <term name="Israel"/>
+    <term name="Middle East and North Africa"/>
+    <term name="Peace"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>12/6/2005--Passed House without amendment.
+Honors the historic role of Yitzhak Rabin for his distinguished service to the Israeli people and extends deepest sympathy and condolences to his family and the people of Israel on the tenth anniversary of his death. Reiterates continued support for the close ties and special relationship between the United States and Israel. Expresses admiration for Yitzhak Rabin's legacy and reaffirms the commitment to building a just and lasting peace between Israel and its neighbors. Condemns all acts of terrorism. Reaffirms the sacred principle that democratic leaders and governments must be changed only by the democratically-expressed will of the people.</summary>
+</bill>

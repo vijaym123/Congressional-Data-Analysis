@@ -1,0 +1,115 @@
+<bill session="109" type="h" number="4981" updated="2013-07-19T19:48:18-04:00">
+  <state datetime="2006-09-27T21:42:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-09-27T21:42:00-04:00"/>
+  </status>
+  <introduced datetime="2006-03-16"/>
+  <titles>
+    <title as="introduced" type="short">Dam Safety Act of 2006</title>
+    <title as="passed house" type="short">Dam Safety Act of 2006</title>
+    <title as="introduced" type="official">To amend the National Dam Safety Program Act.</title>
+  </titles>
+  <sponsor id="400642"/>
+  <cosponsors>
+    <cosponsor id="400001" joined="2006-03-16"/>
+    <cosponsor id="400057" joined="2006-05-03"/>
+    <cosponsor id="400069" joined="2006-04-05"/>
+    <cosponsor id="400648" joined="2006-07-25"/>
+    <cosponsor id="400138" joined="2006-04-26"/>
+    <cosponsor id="400178" joined="2006-04-26"/>
+    <cosponsor id="400253" joined="2006-04-26"/>
+    <cosponsor id="400255" joined="2006-03-16"/>
+    <cosponsor id="400260" joined="2006-07-25"/>
+    <cosponsor id="400263" joined="2006-03-29"/>
+    <cosponsor id="400626" joined="2006-04-05"/>
+    <cosponsor id="400420" joined="2006-04-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-03-16">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2006-03-17">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2006-07-26">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2006-09-14">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2006-09-14">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2006-09-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-09-20">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2006-09-27T21:37:00-04:00">
+      <text>Mr. Kuhl (NY) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2006-09-27T21:37:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7622-7624" label="consideration"/>
+    </action>
+    <action datetime="2006-09-27T21:37:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4981.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-09-27T21:42:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7622-7623" label="text"/>
+    </vote>
+    <action datetime="2006-09-27T21:43:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-09-28">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2006-11-13">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="2735"/>
+    <bill relation="unknown" session="109" type="s" number="2735"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Authorization"/>
+    <term name="Dams"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Economics and public finance"/>
+    <term name="Employee training"/>
+    <term name="Energy"/>
+    <term name="Federal Emergency Management Agency"/>
+    <term name="Federal aid to water resources development"/>
+    <term name="Federal employees"/>
+    <term name="Federal-state relations"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Infrastructure"/>
+    <term name="Labor and employment"/>
+    <term name="Maintenance and repair"/>
+    <term name="Performance measurement"/>
+    <term name="Recruiting of employees"/>
+    <term name="Research"/>
+    <term name="Reservoirs"/>
+    <term name="Safety measures"/>
+    <term name="State employees"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/2006--Passed House amended.
+Dam Safety Act of 2006 - Amends the National Dam Safety Program Act to require (currently, authorizes) the Secretary of the Army, acting through the Chief of Engineers, to maintain and update information on the inventory of dams in the United States, including an assessment of each dam based on inspections completed by either a federal agency or a state dam safety agency. Requires the strategic plan for dam safety prepared by the Director of the Federal Emergency Management Agency (FEMA) to establish performance measures, in addition to goals, priorities, and target dates, toward effectively administering the Act to improve dam safety. Authorizes appropriations for the National Dam Safety Program, the National Dam Inventory, research, training, and staff. Sets forth a formula for the allocation of funds among eligible states, based partly on the number of dams in a state relative to all states. Limits the amount allocated to a state to 50% of the reasonable cost of implementing the state dam safety program. Provides that the Director and the National Dam Safety Review Board shall determine the amount allocated to states. Prohibits the use of funds to construct or repair any dam.</summary>
+</bill>

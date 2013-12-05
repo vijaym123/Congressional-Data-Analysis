@@ -1,0 +1,100 @@
+<bill session="109" type="h" number="5449" updated="2013-07-19T19:52:31-04:00">
+  <state datetime="2006-06-07T19:07:00-04:00">PROV_KILL:SUSPENSIONFAILED</state>
+  <status>
+    <unknown datetime="2006-06-07T19:07:00-04:00"/>
+  </status>
+  <introduced datetime="2006-05-22"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 49, United States Code, to modify bargaining requirements for proposed changes to the personnel management system of the Federal Aviation Administration.</title>
+  </titles>
+  <sponsor id="400235"/>
+  <cosponsors>
+    <cosponsor id="400001" joined="2006-06-06"/>
+    <cosponsor id="400025" joined="2006-06-06"/>
+    <cosponsor id="400061" joined="2006-06-06"/>
+    <cosponsor id="400069" joined="2006-06-06"/>
+    <cosponsor id="400080" joined="2006-06-06"/>
+    <cosponsor id="400111" joined="2006-06-06"/>
+    <cosponsor id="400646" joined="2006-06-06"/>
+    <cosponsor id="400147" joined="2006-06-06"/>
+    <cosponsor id="400166" joined="2006-06-06"/>
+    <cosponsor id="400196" joined="2006-06-06"/>
+    <cosponsor id="400199" joined="2006-06-06"/>
+    <cosponsor id="400207" joined="2006-06-06"/>
+    <cosponsor id="400213" joined="2006-06-06"/>
+    <cosponsor id="400217" joined="2006-06-06"/>
+    <cosponsor id="400244" joined="2006-06-06"/>
+    <cosponsor id="400257" joined="2006-06-06"/>
+    <cosponsor id="400264" joined="2006-06-06"/>
+    <cosponsor id="400283" joined="2006-06-06"/>
+    <cosponsor id="400322" joined="2006-06-06"/>
+    <cosponsor id="400346" joined="2006-06-06"/>
+    <cosponsor id="400370" joined="2006-06-06"/>
+    <cosponsor id="400371" joined="2006-06-06"/>
+    <cosponsor id="409888" joined="2006-06-06"/>
+    <cosponsor id="400406" joined="2006-06-06"/>
+    <cosponsor id="400428" joined="2006-06-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-05-22">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2006-05-23">
+      <text>Referred to the Subcommittee on Aviation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2006-06-06">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-06-06">
+      <text>Committee Agreed to Seek Consideration Under Suspension of the Rules, by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2006-06-06T21:05:00-04:00">
+      <text>Mr. LaTourette moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-06-06T21:05:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3394-3402" label="consideration"/>
+    </action>
+    <action datetime="2006-06-06T21:05:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5449.</text>
+    </action>
+    <action datetime="2006-06-06T21:49:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2006-06-07T18:59:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3479-3480" label="consideration"/>
+    </action>
+    <vote state="PROV_KILL:SUSPENSIONFAILED" datetime="2006-06-07T19:07:00-04:00" how="roll" result="fail" roll="233" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 271 - 148 (Roll no. 233).</text>
+      <reference ref="CR 6/06/2006 H3394" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="s" number="3763"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Air traffic"/>
+    <term name="Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Department of Transportation"/>
+    <term name="Employee-management relations in government"/>
+    <term name="Federal employees"/>
+    <term name="Government operations and politics"/>
+    <term name="Labor and employment"/>
+    <term name="Personnel management"/>
+    <term name="Transportation workers"/>
+  </subjects>
+  <amendments/>
+  <summary>5/22/2006--Introduced.
+Amends federal transportation law to repeal, as of April 1, 2006, provisions prohibiting the Administrator of the Federal Aviation Administration (FAA) from implementing any proposed change to the FAA personnel management system, in cases where the services of the Federal Mediation and Conciliation Service do not lead to an agreement between the Administrator and FAA employees, until 60 days after the Administrator has transmitted the proposed change (along with the objections of the exclusive bargaining representatives to the change, including the reasons for such objections) to Congress.</summary>
+</bill>

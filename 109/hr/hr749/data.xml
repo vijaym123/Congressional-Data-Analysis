@@ -1,0 +1,79 @@
+<bill session="109" type="h" number="749" updated="2013-07-19T19:10:48-04:00">
+  <state datetime="2005-04-26T16:08:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-04-26T16:08:00-04:00"/>
+  </status>
+  <introduced datetime="2005-02-10"/>
+  <titles>
+    <title as="introduced" type="short">Expanded Access to Financial Services Act of 2005</title>
+    <title as="reported to house" type="short">Expanded Access to Financial Services Act of 2005</title>
+    <title as="passed house" type="short">Expanded Access to Financial Services Act of 2005</title>
+    <title as="introduced" type="official">To amend the Federal Credit Union Act to provide expanded access for persons in the field of membership of a Federal credit union to money order, check cashing, and money transfer services.</title>
+  </titles>
+  <sponsor id="400147"/>
+  <cosponsors>
+    <cosponsor id="400009" joined="2005-03-15"/>
+    <cosponsor id="400163" joined="2005-02-10"/>
+    <cosponsor id="400210" joined="2005-02-10"/>
+    <cosponsor id="400235" joined="2005-02-10"/>
+    <cosponsor id="400311" joined="2005-02-10"/>
+    <cosponsor id="400371" joined="2005-02-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-02-10">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2005-03-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-03-16">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Financial Services"/>
+    </calendar>
+    <action datetime="2005-04-12T19:44:00-04:00">
+      <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 109-38.</text>
+    </action>
+    <calendar datetime="2005-04-12T19:44:00-04:00" calendar="Union" number="19">
+      <text>Placed on the Union Calendar, Calendar No. 19.</text>
+    </calendar>
+    <action datetime="2005-04-26T15:54:00-04:00">
+      <text>Mr. Castle moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2005-04-26T15:55:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2500-2503" label="consideration"/>
+    </action>
+    <action datetime="2005-04-26T15:55:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 749.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-04-26T16:08:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H2500" label="text"/>
+    </vote>
+    <action datetime="2005-04-26T16:08:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-04-27">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup, Reporting"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Checks"/>
+    <term name="Credit unions"/>
+    <term name="Electronic funds transfers"/>
+    <term name="Fees"/>
+    <term name="Financial services"/>
+    <term name="Negotiable instruments"/>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <summary>4/26/2005--Passed House amended.
+Expanded Access to Financial Services Act of 2005 - Amends the Federal Credit Union Act to authorize a Federal credit union to: (1) sell to persons in the field of membership negotiable checks (including travelers checks), money orders, and other similar money transfer instruments (including international and domestic electronic fund transfers); and (2) cash checks and money orders and receive international and domestic electronic fund transfers for such persons for a fee. (Current law authorizes such services to members only.)</summary>
+</bill>

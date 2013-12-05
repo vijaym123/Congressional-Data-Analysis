@@ -1,0 +1,78 @@
+<bill session="110" type="h" number="1468" updated="2013-07-19T21:16:31-04:00">
+  <state datetime="2007-03-26T15:13:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-03-26T15:13:00-04:00"/>
+  </status>
+  <introduced datetime="2007-03-12"/>
+  <titles>
+    <title as="introduced" type="short">Disadvantaged Business Disaster Eligibility Act</title>
+    <title as="passed house" type="short">Disadvantaged Business Disaster Eligibility Act</title>
+    <title as="introduced" type="official">To ensure that, for each small business participating in the 8(a) business development program that was affected by Hurricane Katrina of 2005, the period in which it can participate is extended by 18 months.</title>
+  </titles>
+  <sponsor id="400201"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2007-03-12">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+    <action datetime="2007-03-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-03-15">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Small Business"/>
+    </calendar>
+    <action datetime="2007-03-26T15:02:00-04:00">
+      <text>Ms. Velazquez moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-03-26T15:03:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3029-3031" label="consideration"/>
+    </action>
+    <action datetime="2007-03-26T15:03:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate of H.R. 1468.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-03-26T15:13:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H3029-3030" label="text"/>
+    </vote>
+    <action datetime="2007-03-26T15:13:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-03-27">
+      <text>Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral, Markup"/>
+    <committee code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="3285"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Alabama"/>
+    <term name="Business education"/>
+    <term name="Disaster relief"/>
+    <term name="Emergency management"/>
+    <term name="Entrepreneurs"/>
+    <term name="Floods"/>
+    <term name="Government contractors"/>
+    <term name="Government lending"/>
+    <term name="Government operations and politics"/>
+    <term name="Government procurement"/>
+    <term name="Hurricanes"/>
+    <term name="Louisiana"/>
+    <term name="Minorities"/>
+    <term name="Minority business enterprises"/>
+    <term name="Mississippi"/>
+    <term name="Small business"/>
+    <term name="Women"/>
+    <term name="Women in business"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2007--Passed House amended.
+Disadvantaged Business Disaster Eligibility Act - Permits any small business that was participating in a Small Business Administration (SBA) business development program located in a Louisiana parish or Mississippi or Alabama county designated by the SBA Administrator as a disaster area by reason of Hurricane Katrina to continue participation and eligibility in such program for an additional 18 months.</summary>
+</bill>

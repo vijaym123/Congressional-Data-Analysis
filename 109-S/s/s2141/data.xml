@@ -1,0 +1,57 @@
+<bill session="109" type="s" number="2141" updated="2013-07-19T20:32:07-04:00">
+  <state datetime="2005-12-17">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-12-17"/>
+  </status>
+  <introduced datetime="2005-12-17"/>
+  <titles>
+    <title as="introduced" type="official">A bill to make improvements to the Federal Insurance Deposit Act.</title>
+  </titles>
+  <sponsor id="300007"/>
+  <cosponsors>
+    <cosponsor id="300087" joined="2005-12-17"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2005-12-17" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S13966-13968" label="consideration"/>
+      <reference ref="CR S13966-13968" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-12-17T19:55:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-12-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-12-17T20:28:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2006-02-28">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2006-02-28">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2006-02-28">
+      <text>Referred to House Judiciary</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Contracts"/>
+    <term name="Credit unions"/>
+    <term name="Deposit insurance"/>
+    <term name="Mortgages"/>
+    <term name="Secondary mortgage market"/>
+    <term name="Securities"/>
+    <term name="Swaps (Finance)"/>
+  </subjects>
+  <amendments/>
+  <summary>12/17/2005--Passed Senate without amendment.
+Amends the Federal Deposit Insurance Act (FDIA) and the Federal Credit Union Act governing the treatment of certain agreements by conservators or receivers of depository institutions. Redefines a "securities contract," entered into before appointment of conservator or receiver, which the conservator or receiver may disaffirm or repudiate. Includes in such definition: (1) a repurchase or reverse repurchase transaction on any security, certificate of deposit, mortgage loan, interest, group or index, or option, regardless of whether the transaction is a repurchase agreement; (2) a guarantee, by novation, by or to a securities clearing agency regarding settlements of cash, securities, and interests; (3) a extension of credit for the clearance or settlement of securities transactions; and (4) a loan transaction coupled with a securities collar transaction, any prepaid securities forward transaction, or any total return swap transaction coupled with a securities sale transaction. Redefines "forward contract" to include a reverse repurchase transaction, regardless of whether the transaction is a repurchase agreement. Redefines "swap agreement" to: (1) include other (besides precious) commodity metals agreements; (2) eliminate weather derivatives; and (3) include weather future or forward agreements, and emissions and inflation swap, option, future, and forward agreements. Redefines "person" to include any governmental entity, corporations, companies, associations, firms, partnerships, societies, and joint stock companies, as well as individuals. Amends the Federal Deposit Insurance Corporation Improvement Act of 1991 regarding bilateral netting and clearing organization netting to declare that covered contractual payment obligations and payment entitlements between any two financial institutions or clearing organization members shall be terminated, accelerated and liquidated in accordance with the applicable netting contract. Amends federal bankruptcy law and the Securities Investor Protection act of 1970 to reflect the provisions of this Act. Amends the FDIA to: (1) redefine walkaway clauses, which shall remain unenforceable in a qualified financial contract of an insured depository institution in default; and (2) require suspension of payment or delivery obligations pursuant to such a contract with a walkaway clause from the time a receiver is appointed until the earlier of two specified events.</summary>
+</bill>

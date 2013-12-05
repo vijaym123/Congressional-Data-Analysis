@@ -1,0 +1,104 @@
+<bill session="109" type="h" number="5611" updated="2013-07-19T19:53:59-04:00">
+  <state datetime="2006-07-26T14:36:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-07-26T14:36:00-04:00"/>
+  </status>
+  <introduced datetime="2006-06-14"/>
+  <titles>
+    <title as="introduced" type="short">Fuel Consumption Education Act</title>
+    <title as="reported to house" type="short">Fuel Consumption Education Act</title>
+    <title as="passed house" type="short">Fuel Consumption Education Act</title>
+    <title as="introduced" type="official">To provide for the establishment of a partnership between the Secretary of Energy and appropriate industry groups for the creation of a transportation fuel conservation education campaign, and for other purposes.</title>
+    <title as="amended by house" type="official">To authorize a partnership between the Secretary of Energy and appropriate industry groups for the creation of a transportation fuel conservation education campaign, and for other purposes.</title>
+  </titles>
+  <sponsor id="400655"/>
+  <cosponsors>
+    <cosponsor id="400019" joined="2006-06-15"/>
+    <cosponsor id="400113" joined="2006-06-20"/>
+    <cosponsor id="400139" joined="2006-06-15"/>
+    <cosponsor id="400160" joined="2006-06-14"/>
+    <cosponsor id="400165" joined="2006-06-14"/>
+    <cosponsor id="400342" joined="2006-06-15"/>
+    <cosponsor id="400367" joined="2006-06-20"/>
+    <cosponsor id="400409" joined="2006-06-14"/>
+    <cosponsor id="400414" joined="2006-06-14"/>
+    <cosponsor id="400431" joined="2006-06-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-06-14">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2006-06-19">
+      <text>Referred to the Subcommittee on Energy and Air Quality.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2006-06-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-06-20">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2006-06-28T22:36:00-04:00">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 109-536.</text>
+    </action>
+    <calendar datetime="2006-06-28T22:36:00-04:00" calendar="Union" number="300">
+      <text>Placed on the Union Calendar, Calendar No. 300.</text>
+    </calendar>
+    <action datetime="2006-07-26T13:56:00-04:00">
+      <text>Mr. Shadegg moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2006-07-26T13:57:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5878-5883" label="consideration"/>
+    </action>
+    <action datetime="2006-07-26T13:57:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5611.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-07-26T14:36:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5878-5879" label="text"/>
+    </vote>
+    <action datetime="2006-07-26T14:36:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-07-26T14:36:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-07-27">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Air Quality" name="House Energy and Commerce"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="5402"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Automobile industry"/>
+    <term name="Commerce"/>
+    <term name="Emergency management"/>
+    <term name="Energy conservation"/>
+    <term name="Energy supplies"/>
+    <term name="Evacuation of civilians"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal-local relations"/>
+    <term name="Federal-state relations"/>
+    <term name="Fuel consumption"/>
+    <term name="Gasoline"/>
+    <term name="Government operations and politics"/>
+    <term name="Government publicity"/>
+    <term name="Petroleum industry"/>
+    <term name="Public service advertising"/>
+    <term name="Public-private partnerships"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>7/26/2006--Passed House amended.
+Fuel Consumption Education Act - Directs the Secretary of Energy, through existing programs at the Office Of Energy Efficiency and Renewable Energy, to enter into a partnership with: (1) interested industry groups to carry out a public education campaign for U.S. drivers about immediate measures that can be taken to conserve transportation fuel (limits the federal share of costs to 50%); and (2) and state and local governments to carry out an education campaign that provides information to such governments and the private sector about best practices to ensure adequate fuel supplies during emergency evacuations. Authorizes the Secretary to expend specified amounts of funds previously authorized to the Office of Energy Efficiency and Renewable Energy to carry out this Act.</summary>
+</bill>

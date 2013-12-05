@@ -1,0 +1,95 @@
+<bill session="109" type="h" number="1721" updated="2013-07-19T19:19:29-04:00">
+  <state datetime="2005-12-07T11:08:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-12-07T11:08:00-05:00"/>
+  </status>
+  <introduced datetime="2005-04-20"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Federal Water Pollution Control Act to reauthorize programs to improve the quality of coastal recreation waters, and for other purposes.</title>
+  </titles>
+  <sponsor id="400031"/>
+  <cosponsors>
+    <cosponsor id="400195" joined="2005-10-06"/>
+    <cosponsor id="400244" joined="2005-10-06"/>
+    <cosponsor id="400266" joined="2005-07-19"/>
+    <cosponsor id="400308" joined="2005-04-20"/>
+    <cosponsor id="400375" joined="2005-04-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-04-20">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2005-04-21">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2005-10-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-10-26">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2005-10-26">
+      <text>Subcommittee on Water Resources and Environment Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2005-11-14T18:08:00-05:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 109-292.</text>
+    </action>
+    <calendar datetime="2005-11-14T18:08:00-05:00" calendar="Union" number="161">
+      <text>Placed on the Union Calendar, Calendar No. 161.</text>
+    </calendar>
+    <action datetime="2005-12-07T10:59:00-05:00">
+      <text>Mr. Duncan moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2005-12-07T11:00:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11120-11122" label="consideration"/>
+    </action>
+    <action datetime="2005-12-07T11:00:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1721.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-12-07T11:08:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H11120" label="text"/>
+    </vote>
+    <action datetime="2005-12-07T11:09:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-12-12">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Authorization"/>
+    <term name="Beaches"/>
+    <term name="Coastal zone"/>
+    <term name="Economics and public finance"/>
+    <term name="Environmental Protection Agency"/>
+    <term name="Environmental health"/>
+    <term name="Environmental monitoring"/>
+    <term name="Federal aid to water pollution control"/>
+    <term name="Government operations and politics"/>
+    <term name="Government publicity"/>
+    <term name="Health"/>
+    <term name="Health warnings"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Marine pollution"/>
+    <term name="Outdoor recreation"/>
+    <term name="Pollution measurement"/>
+    <term name="Sports and recreation"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments/>
+  <summary>12/7/2005--Passed House without amendment.
+Amends the Federal Water Pollution Control Act to reauthorize appropriations for coastal recreation water quality monitoring and notification grants through FY2011. Amends the Beaches Environmental Assessment and Coastal Health Act of 2000 to reauthorize appropriations to carry out that Act through FY2011.</summary>
+</bill>

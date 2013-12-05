@@ -1,0 +1,89 @@
+<bill session="109" type="hj" number="27" updated="2013-07-19T20:01:29-04:00">
+  <state datetime="2005-06-09T12:53:00-04:00">FAIL:ORIGINATING:HOUSE</state>
+  <status>
+    <unknown datetime="2005-06-09T12:53:00-04:00"/>
+  </status>
+  <introduced datetime="2005-03-02"/>
+  <titles>
+    <title as="introduced" type="official">Withdrawing the approval of the United States from the Agreement establishing the World Trade Organization.</title>
+  </titles>
+  <sponsor id="400357"/>
+  <cosponsors>
+    <cosponsor id="400100" joined="2005-03-17"/>
+    <cosponsor id="400116" joined="2005-04-12"/>
+    <cosponsor id="400162" joined="2005-04-05"/>
+    <cosponsor id="400187" joined="2005-04-12"/>
+    <cosponsor id="400209" joined="2005-04-05"/>
+    <cosponsor id="400227" joined="2005-04-05"/>
+    <cosponsor id="400311" joined="2005-03-02"/>
+    <cosponsor id="400365" joined="2005-04-13"/>
+    <cosponsor id="400391" joined="2005-04-12"/>
+    <cosponsor id="400394" joined="2005-04-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-03-02">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2005-05-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Ways and Means"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-05-24">
+      <text>Ordered to be Reported Adversely.</text>
+      <committee name="House Committee on Ways and Means"/>
+    </calendar>
+    <action datetime="2005-05-26T16:55:00-04:00">
+      <text>Reported adversely by the Committee on Ways and Means. H. Rept. 109-100.</text>
+    </action>
+    <calendar datetime="2005-05-26T16:56:00-04:00" calendar="Union" number="54">
+      <text>Placed on the Union Calendar, Calendar No. 54.</text>
+    </calendar>
+    <action datetime="2005-06-07T19:43:00-04:00">
+      <text>Rules Committee Resolution H. Res. 304 Reported to House. Rule provides for consideration of H.J. Res. 27 with 2 hours of general debate. Previous question shall be considered as ordered without intervening motions. Measure will be considered read. Bill is closed to amendments.</text>
+    </action>
+    <action datetime="2005-06-08T11:23:00-04:00">
+      <text>Rule H. Res. 304 passed House.</text>
+    </action>
+    <action datetime="2005-06-09T10:22:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 304.</text>
+      <reference ref="CR H4302-4318" label="consideration"/>
+      <reference ref="CR H4302" label="text of measure as reported in House"/>
+    </action>
+    <action datetime="2005-06-09T10:22:00-04:00">
+      <text>Rule provides for consideration of H.J. Res. 27 with 2 hours of general debate. Previous question shall be considered as ordered without intervening motions. Measure will be considered read. Bill is closed to amendments.</text>
+    </action>
+    <action datetime="2005-06-09T10:22:00-04:00">
+      <text>GENERAL DEBATE - Pursuant to the provisions of H. Res. 304, the House proceeded with 2 hours of general debate on H.J. Res. 27.</text>
+    </action>
+    <action datetime="2005-06-09T12:26:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H4317" label="consideration"/>
+    </action>
+    <vote state="FAIL:ORIGINATING:HOUSE" datetime="2005-06-09T12:53:00-04:00" how="roll" result="fail" roll="239" type="vote" where="h">
+      <text>On passage Failed by the Yeas and Nays: 86 - 338, 1 Present (Roll no. 239).</text>
+    </vote>
+    <action datetime="2005-06-09T12:53:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="109" type="hr" number="304"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Congress"/>
+    <term name="Congress and foreign policy"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional veto"/>
+    <term name="Free trade"/>
+    <term name="International affairs"/>
+    <term name="International agencies"/>
+    <term name="Trade agreements"/>
+  </subjects>
+  <amendments/>
+  <summary>5/26/2005--Reported to House without amendment.
+Declares that Congress withdraws its approval, provided under the Uruguay Round Agreements Act, establishing the World Trade Organization (WTO).</summary>
+</bill>

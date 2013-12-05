@@ -1,0 +1,39 @@
+<bill session="109" type="s" number="404" updated="2013-07-19T20:16:53-04:00">
+  <state datetime="2005-02-16">REFERRED</state>
+  <status>
+    <introduced datetime="2005-02-16"/>
+  </status>
+  <introduced datetime="2005-02-16"/>
+  <titles>
+    <title as="introduced" type="official">A bill to make a technical correction relating to the land conveyance authorized by Public Law 108-67.</title>
+  </titles>
+  <sponsor id="300082"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-02-16">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <reference ref="CR S1540" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2005-05-11">
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held. With printed Hearing: S.Hrg. 109-104.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSEG03" subcommittee="Public Lands and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="4461"/>
+    <bill relation="unknown" session="109" type="s" number="2764"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Land transfers"/>
+    <term name="National forests"/>
+    <term name="Nevada"/>
+  </subjects>
+  <amendments/>
+  <summary>2/16/2005--Introduced.
+Makes a technical correction relating to the description of the conveyance authorized by Public Law 108-67 (a law providing for the conveyance of certain land to the Washoe Indian Tribe of Nevada and California).</summary>
+</bill>

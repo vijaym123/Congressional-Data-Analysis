@@ -1,0 +1,105 @@
+<bill session="110" type="h" number="3320" updated="2013-07-19T21:33:03-04:00">
+  <state datetime="2007-11-14T12:05:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-11-14T12:05:00-05:00"/>
+  </status>
+  <introduced datetime="2007-08-02"/>
+  <titles>
+    <title as="introduced" type="short">Support for the Museum of the History of Polish Jews Act of 2007</title>
+    <title as="passed house" type="short">Support for the Museum of the History of Polish Jews Act of 2007</title>
+    <title as="reported to senate" type="short">Support for the Museum of the History of Polish Jews Act of 2007</title>
+    <title as="introduced" type="official">To provide assistance for the Museum of the History of Polish Jews in Warsaw, Poland.</title>
+  </titles>
+  <sponsor id="400380"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="2007-11-05"/>
+    <cosponsor id="400025" joined="2007-08-02"/>
+    <cosponsor id="412250" joined="2007-10-18"/>
+    <cosponsor id="400055" joined="2007-08-02"/>
+    <cosponsor id="412236" joined="2007-09-05"/>
+    <cosponsor id="400120" joined="2007-08-02"/>
+    <cosponsor id="400170" joined="2007-09-05"/>
+    <cosponsor id="400231" joined="2007-08-02"/>
+    <cosponsor id="400260" joined="2007-09-05"/>
+    <cosponsor id="400289" joined="2007-08-02"/>
+    <cosponsor id="400344" joined="2007-08-02"/>
+    <cosponsor id="400346" joined="2007-08-02"/>
+    <cosponsor id="400371" joined="2007-10-29"/>
+    <cosponsor id="400623" joined="2007-11-05"/>
+    <cosponsor id="400426" joined="2007-09-17"/>
+    <cosponsor id="400430" joined="2007-08-02"/>
+    <cosponsor id="400435" joined="2007-09-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-08-02">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2007-10-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Foreign Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-10-23">
+      <text>Committee Agreed to Seek Consideration Under Suspension of the Rules, by Unanimous Consent.</text>
+      <committee name="House Committee on Foreign Affairs"/>
+    </calendar>
+    <action datetime="2007-11-13T13:15:00-05:00">
+      <text>Mr. Faleomavaega moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-11-13T13:16:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H13539-13542" label="consideration"/>
+      <reference ref="CR H13540" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2007-11-13T13:16:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3320.</text>
+    </action>
+    <action datetime="2007-11-13T13:29:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2007-11-14T11:57:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H13874-13875" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-11-14T12:05:00-05:00" how="roll" result="pass" roll="1088" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 13 (Roll no. 1088).</text>
+      <reference ref="CR 11/13/2007 H13540" label="text"/>
+    </vote>
+    <action datetime="2007-11-14T12:05:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-11-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <calendar datetime="2008-04-22">
+      <text>Committee on Foreign Relations. Ordered to be reported with an amendment favorably.</text>
+      <committee name="Committee on Foreign Relations"/>
+    </calendar>
+    <action datetime="2008-05-19">
+      <text>Committee on Foreign Relations. Reported by Senator Biden with an amendment. With written report No. 110-336.</text>
+    </action>
+    <calendar datetime="2008-05-19" calendar="Senate Legislative" under="General Orders" number="739">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 739.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Economic assistance"/>
+    <term name="Europe"/>
+    <term name="History"/>
+    <term name="Jewish holocaust (1939-1945)"/>
+    <term name="Jews"/>
+    <term name="Museums"/>
+    <term name="Poland"/>
+    <term name="Religion"/>
+    <term name="World War II"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/2008--Reported to Senate amended.
+Support for the Museum of the History of Polish Jews Act of 2007 - Authorizes the Secretary of State to provide up to a specified amount to fund the establishment of, and maintain the permanent collection of, the Museum of the History of Polish Jews. Terminates the authority under this Act on October 1, 2010.</summary>
+</bill>

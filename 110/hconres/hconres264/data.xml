@@ -1,0 +1,68 @@
+<bill session="110" type="hc" number="264" updated="2013-07-19T22:11:02-04:00">
+  <state datetime="2007-12-17">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2007-12-17"/>
+  </status>
+  <introduced datetime="2007-12-04"/>
+  <titles>
+    <title as="introduced" type="official">Honoring the University of Hawaii for its 100 years of commitment to public higher education.</title>
+  </titles>
+  <sponsor id="412200"/>
+  <cosponsors>
+    <cosponsor id="400001" joined="2007-12-04"/>
+    <cosponsor id="400041" joined="2007-12-11"/>
+    <cosponsor id="400179" joined="2007-12-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-12-04">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2007-12-11T13:32:00-05:00">
+      <text>Ms. Hirono moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2007-12-11T13:33:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H15241-15243" label="consideration"/>
+    </action>
+    <action datetime="2007-12-11T13:33:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 264.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-12-11T13:48:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H15241" label="text"/>
+    </vote>
+    <action datetime="2007-12-11T13:48:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-12-12">
+      <text>Received in the Senate and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2007-12-17">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S15791" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2007-12-17" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2007-12-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Colleges"/>
+    <term name="Congressional tributes"/>
+    <term name="Education"/>
+    <term name="Hawaii"/>
+    <term name="Higher education"/>
+  </subjects>
+  <amendments/>
+  <summary>12/17/2007--Passed Senate without amendment.
+Congratulates the University of Hawaii on the momentous occasion of its 100th Anniversary. Expresses the warmest aloha and best wishes of Congress for continued success.</summary>
+</bill>

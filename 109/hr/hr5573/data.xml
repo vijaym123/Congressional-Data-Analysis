@@ -1,0 +1,117 @@
+<bill session="109" type="h" number="5573" updated="2013-07-19T19:53:39-04:00">
+  <state datetime="2006-06-21T14:54:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-06-21T14:54:00-04:00"/>
+  </status>
+  <introduced datetime="2006-06-09"/>
+  <titles>
+    <title as="introduced" type="short">Health Centers Renewal Act of 2006</title>
+    <title as="reported to house" type="short">Health Centers Renewal Act of 2006</title>
+    <title as="passed house" type="short">Health Centers Renewal Act of 2006</title>
+    <title as="introduced" type="official">To amend the Public Health Service Act to provide additional authorizations of appropriations for the health centers program under section 330 of such Act.</title>
+  </titles>
+  <sponsor id="400099"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2006-06-09"/>
+    <cosponsor id="400019" joined="2006-06-09"/>
+    <cosponsor id="400028" joined="2006-06-09"/>
+    <cosponsor id="400039" joined="2006-06-09"/>
+    <cosponsor id="400050" joined="2006-06-09"/>
+    <cosponsor id="400052" joined="2006-06-09"/>
+    <cosponsor id="400062" joined="2006-06-09"/>
+    <cosponsor id="400150" joined="2006-06-09"/>
+    <cosponsor id="400160" joined="2006-06-09"/>
+    <cosponsor id="400165" joined="2006-06-09"/>
+    <cosponsor id="400253" joined="2006-06-09"/>
+    <cosponsor id="400285" joined="2006-06-09"/>
+    <cosponsor id="400288" joined="2006-06-09"/>
+    <cosponsor id="400296" joined="2006-06-09"/>
+    <cosponsor id="400297" joined="2006-06-14"/>
+    <cosponsor id="400308" joined="2006-06-09"/>
+    <cosponsor id="400319" joined="2006-06-09"/>
+    <cosponsor id="400330" joined="2006-06-09"/>
+    <cosponsor id="400345" joined="2006-06-14"/>
+    <cosponsor id="400350" joined="2006-06-09"/>
+    <cosponsor id="400373" joined="2006-06-09"/>
+    <cosponsor id="400414" joined="2006-06-09"/>
+    <cosponsor id="400419" joined="2006-06-09"/>
+    <cosponsor id="400425" joined="2006-06-09"/>
+    <cosponsor id="400431" joined="2006-06-09"/>
+    <cosponsor id="400434" joined="2006-06-09"/>
+    <cosponsor id="400438" joined="2006-06-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-06-09">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2006-06-12">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2006-06-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-06-15">
+      <text>Ordered to be Reported.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2006-06-20T16:34:00-04:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 109-509.</text>
+    </action>
+    <calendar datetime="2006-06-20T16:35:00-04:00" calendar="Union" number="285">
+      <text>Placed on the Union Calendar, Calendar No. 285.</text>
+    </calendar>
+    <action datetime="2006-06-21T12:14:00-04:00">
+      <text>Mr. Deal (GA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-06-21T12:14:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4359-4365" label="consideration"/>
+    </action>
+    <action datetime="2006-06-21T12:14:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5573.</text>
+    </action>
+    <action datetime="2006-06-21T12:56:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2006-06-21T14:33:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4371-4372" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-06-21T14:54:00-04:00" how="roll" result="pass" roll="306" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 424 - 3 (Roll no. 306).</text>
+      <reference ref="CR H4359-4360" label="text"/>
+    </vote>
+    <action datetime="2006-06-21T14:54:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-06-22">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="5201"/>
+    <bill relation="unknown" session="109" type="s" number="3771"/>
+    <bill relation="unknown" session="109" type="s" number="3771"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Access to health care"/>
+    <term name="Authorization"/>
+    <term name="Clinics"/>
+    <term name="Community health services"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to health facilities"/>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>6/21/2006--Passed House without amendment.
+Health Centers Renewal Act of 2006 - Amends the Public Health Service Act to authorize appropriations for FY2007-FY2011 for health centers to meet the health care needs of medically underserved populations.</summary>
+</bill>

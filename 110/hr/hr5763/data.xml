@@ -1,0 +1,57 @@
+<bill session="110" type="h" number="5763" updated="2013-07-19T21:54:17-04:00">
+  <state datetime="2008-04-10">REFERRED</state>
+  <status>
+    <introduced datetime="2008-04-10"/>
+  </status>
+  <introduced datetime="2008-04-10"/>
+  <titles>
+    <title as="introduced" type="official">To temporarily delay application of proposed changes to the Departmental Appeals Board within the Department of Health and Human Services.</title>
+  </titles>
+  <sponsor id="412215"/>
+  <cosponsors>
+    <cosponsor id="400299" joined="2008-04-10"/>
+    <cosponsor id="400332" joined="2008-04-10"/>
+    <cosponsor id="412214" joined="2008-04-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-04-10">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2008-04-10">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2008-04-10">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2008-04-10">
+      <text>Referred to House Education and Labor</text>
+    </action>
+    <action datetime="2008-04-14">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="2849"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative procedure"/>
+    <term name="Administrative remedies"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Government operations and politics"/>
+    <term name="Law"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>4/10/2008--Introduced.
+Prohibits the Secretary of Health and Human Services from taking any administrative action for one year to finalize or otherwise implement provisions contained in the proposed rule published on December 28, 2007, relating to the Department of Appeals Board established in the Department of Health and Human Services (HHS), including provisions allowing the Secretary to review, amend, or reverse Board decisions.</summary>
+</bill>

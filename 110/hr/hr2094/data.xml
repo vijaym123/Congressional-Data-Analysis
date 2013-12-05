@@ -1,0 +1,103 @@
+<bill session="110" type="h" number="2094" updated="2013-07-19T21:22:01-04:00">
+  <state datetime="2007-10-22T14:52:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-10-22T14:52:00-04:00"/>
+  </status>
+  <introduced datetime="2007-05-01"/>
+  <titles>
+    <title as="introduced" type="official">To provide for certain administrative and support services for the Dwight D. Eisenhower Memorial Commission, and for other purposes.</title>
+  </titles>
+  <sponsor id="400282"/>
+  <cosponsors>
+    <cosponsor id="400042" joined="2007-05-01"/>
+    <cosponsor id="412210" joined="2007-05-01"/>
+    <cosponsor id="400284" joined="2007-05-01"/>
+    <cosponsor id="400404" joined="2007-05-01"/>
+    <cosponsor id="400405" joined="2007-05-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2007-05-01">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E900-901"/>
+    </action>
+    <action state="REFERRED" datetime="2007-05-01">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-05-07">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-09-27">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-10-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-10-10">
+      <text>Subcommittee on National Parks, Forests, and Public Lands Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-10-10">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2007-10-22T13:19:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-392.</text>
+    </action>
+    <calendar datetime="2007-10-22T13:19:00-04:00" calendar="Union" number="246">
+      <text>Placed on the Union Calendar, Calendar No. 246.</text>
+    </calendar>
+    <action datetime="2007-10-22T14:50:00-04:00">
+      <text>Mr. Grijalva moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-10-22T14:50:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11787-11789" label="consideration"/>
+    </action>
+    <action datetime="2007-10-22T14:50:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2094.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-10-22T14:52:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H11787-11788" label="text"/>
+    </vote>
+    <action datetime="2007-10-22T14:52:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="2007-10-23" calendar="Senate Legislative" under="General Orders" number="436">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 436.</text>
+    </calendar>
+    <action datetime="2008-06-11">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+      <reference ref="CR S5530" label="consideration"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="890"/>
+    <bill relation="identical" session="110" type="s" number="890"/>
+    <bill relation="unknown" session="110" type="s" number="890"/>
+    <bill relation="unknown" session="110" type="s" number="890"/>
+    <bill relation="unknown" session="110" type="s" number="2739"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Architecture"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Associations, institutions, etc."/>
+    <term name="Eisenhower Administration"/>
+    <term name="Government operations and politics"/>
+    <term name="History"/>
+    <term name="Monuments and memorials"/>
+    <term name="Social welfare"/>
+    <term name="Volunteer workers"/>
+  </subjects>
+  <amendments/>
+  <summary>10/22/2007--Passed House amended.
+Amends the Department of Defense Appropriations Act, 2000 to revise the administrative authorities of the Dwight D. Eisenhower Memorial Commission. Authorizes the Commission to: (1) enter into contracts for specialized or professional services without regard to certain civil service requirements; (2) accept gifts of real or personal property; (3) appoint an architect; (4) hire and fire staff without regard to competitive service requirements and obtain temporary, intermittent, and part-time services; (5) enter into cooperative agreements with other government and private entities; and (6) accept volunteer services. Requires the Commission to: (1) appoint an Executive Director; and (2) obtain adminstrative and support services from the General Services Administration. Authorizes appropriations.</summary>
+</bill>

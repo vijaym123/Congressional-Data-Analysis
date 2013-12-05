@@ -1,0 +1,92 @@
+<bill session="109" type="h" number="452" updated="2013-07-19T19:08:17-04:00">
+  <state datetime="2005-12-13T15:26:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-12-13T15:26:00-05:00"/>
+  </status>
+  <introduced datetime="2005-02-01"/>
+  <titles>
+    <title as="introduced" type="official">To authorize the Secretary of the Interior to conduct a study to determine the suitability and feasibility of designating the Soldiers' Memorial Military Museum located in St. Louis, Missouri, as a unit of the National Park System.</title>
+  </titles>
+  <sponsor id="400074"/>
+  <cosponsors>
+    <cosponsor id="400638" joined="2005-02-01"/>
+    <cosponsor id="400377" joined="2005-02-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-02-01">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-02-14">
+      <text>Referred to the Subcommittee on National Parks.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-11-10">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-11-16">
+      <text>Subcommittee on National Parks Discharged.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-11-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-11-16">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="2005-12-06T15:45:00-05:00">
+      <text>Reported by the Committee on Resources. H. Rept. 109-319.</text>
+    </action>
+    <calendar datetime="2005-12-06T15:45:00-05:00" calendar="Union" number="173">
+      <text>Placed on the Union Calendar, Calendar No. 173.</text>
+    </calendar>
+    <action datetime="2005-12-13T15:18:00-05:00">
+      <text>Mrs. Drake moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2005-12-13T15:18:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11446-11447" label="consideration"/>
+    </action>
+    <action datetime="2005-12-13T15:19:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 452.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-12-13T15:26:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H11446" label="text"/>
+    </vote>
+    <action datetime="2005-12-13T15:26:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-12-14">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Recreation, and Public Lands" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="2144"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Armed forces and national security"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Governmental investigations"/>
+    <term name="History"/>
+    <term name="Military history"/>
+    <term name="Missouri"/>
+    <term name="Monuments and memorials"/>
+    <term name="Museums"/>
+    <term name="National parks"/>
+  </subjects>
+  <amendments/>
+  <summary>12/13/2005--Passed House without amendment.
+Directs the Secretary of the Interior to carry out a study to determine the suitability and feasibility of designating the Soldiers' Memorial Military Museum, located at 1315 Chestnut, St. Louis, Missouri, as a unit of the National Park System. Requires the submission of a report describing the results of such study.</summary>
+</bill>

@@ -1,0 +1,87 @@
+<bill session="109" type="h" number="4742" updated="2013-07-19T19:46:10-04:00">
+  <state datetime="2006-12-05T11:23:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-12-05T11:23:00-05:00"/>
+  </status>
+  <introduced datetime="2006-02-14"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 35, United States Code, to allow the Director of the Patent and Trademark Office to waive statutory provisions governing patents and trademarks in certain emergencies.</title>
+  </titles>
+  <sponsor id="400381"/>
+  <cosponsors>
+    <cosponsor id="400025" joined="2006-02-14"/>
+    <cosponsor id="400154" joined="2006-02-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-02-14">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2006-02-28">
+      <text>Referred to the Subcommittee on Courts, the Internet, and Intellectual Property.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2006-03-01">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2006-03-01">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2006-03-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-03-15">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2006-04-05T21:52:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 109-408.</text>
+    </action>
+    <calendar datetime="2006-04-05T21:52:00-04:00" calendar="Union" number="223">
+      <text>Placed on the Union Calendar, Calendar No. 223.</text>
+    </calendar>
+    <action datetime="2006-12-05T11:18:00-05:00">
+      <text>Mr. Sensenbrenner moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-12-05T11:19:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8685-8686" label="consideration"/>
+    </action>
+    <action datetime="2006-12-05T11:19:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4742.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-12-05T11:23:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H8685-8686" label="text"/>
+    </vote>
+    <action datetime="2006-12-05T11:23:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-12-06">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU03" subcommittee="Courts, the Internet, and Intellectual Property" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Administrative remedies"/>
+    <term name="Department of Commerce"/>
+    <term name="Disasters"/>
+    <term name="Emergency management"/>
+    <term name="Government operations and politics"/>
+    <term name="Intellectual property"/>
+    <term name="Inventors"/>
+    <term name="Law"/>
+    <term name="Patents"/>
+    <term name="Trademarks"/>
+  </subjects>
+  <amendments/>
+  <summary>12/5/2006--Passed House without amendment.
+Allows the Director of the United States Patent and Trademark Office (USPTO) to waive statutory provisions governing the filing, processing, renewal, and maintenance of patents, trademark registrations, and applications for patents or registrations to the extent necessary to protect the rights and privileges of applicants and other persons affected by an emergency or a major disaster. Disallows judicial review of any decision not to exercise such waiver authority.</summary>
+</bill>

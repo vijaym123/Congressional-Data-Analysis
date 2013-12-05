@@ -1,0 +1,42 @@
+<bill session="109" type="s" number="3695" updated="2013-07-19T20:45:37-04:00">
+  <state datetime="2006-07-19">REFERRED</state>
+  <status>
+    <introduced datetime="2006-07-19"/>
+  </status>
+  <introduced datetime="2006-07-19"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend the Federal Food, Drug, and Cosmetic Act to prohibit the marketing of authorized generic drugs.</title>
+  </titles>
+  <sponsor id="300084"/>
+  <cosponsors>
+    <cosponsor id="300061" joined="2006-09-07"/>
+    <cosponsor id="300065" joined="2006-07-19"/>
+    <cosponsor id="300087" joined="2006-07-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2006-07-19">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S7927"/>
+    </action>
+    <action state="REFERRED" datetime="2006-07-19">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S7928" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="5993"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Commerce"/>
+    <term name="Drug approvals"/>
+    <term name="Drug industry"/>
+    <term name="Generic drugs"/>
+  </subjects>
+  <amendments/>
+  <summary>7/19/2006--Introduced.
+Amends the Federal Food, Drug, and Cosmetic Act to prohibit a holder of a new, approved drug application from manufacturing, marketing, selling, or distributing a generic version of such drug during any exclusivity period granted to manufacturers of generic brands.</summary>
+</bill>

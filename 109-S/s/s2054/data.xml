@@ -1,0 +1,81 @@
+<bill session="109" type="s" number="2054" updated="2013-07-19T20:31:22-04:00">
+  <state datetime="2006-12-07">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2006-12-07"/>
+  </status>
+  <introduced datetime="2005-11-18"/>
+  <titles>
+    <title as="introduced" type="official">A bill to direct the Secretary of the Interior to conduct a study of water resources in the State of Vermont.</title>
+  </titles>
+  <sponsor id="300057"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-11-18">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2006-03-30">
+      <text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 109-460.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-05-24">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2006-07-31">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Domenici with an amendment. With written report No. 109-305.</text>
+    </action>
+    <calendar datetime="2006-07-31" calendar="Senate Legislative" under="General Orders" number="548">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 548.</text>
+    </calendar>
+    <action datetime="2006-12-07">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S11537-11543" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2006-12-07" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S11539" label="text"/>
+    </vote>
+    <action datetime="2006-12-08T10:17:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-12-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-12-08T12:42:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG07" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Aquifers"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Economics and public finance"/>
+    <term name="Environmental protection"/>
+    <term name="Federal aid to water resources development"/>
+    <term name="Geology"/>
+    <term name="Governmental investigations"/>
+    <term name="Groundwater"/>
+    <term name="Harbors"/>
+    <term name="Infrastructure"/>
+    <term name="Navigation"/>
+    <term name="Potable water"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Surveys"/>
+    <term name="Transportation and public works"/>
+    <term name="Vermont"/>
+    <term name="Virginia"/>
+    <term name="Water quality"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments>
+    <amendment number="s5228"/>
+  </amendments>
+  <summary>12/7/2006--Passed Senate amended.
+Directs the Secretary of the Interior, acting through the Director of the U.S. Geological Survey, to study and report to specified congressional committees on water resources in Vermont. Requires the study to include: (1) a survey of groundwater supplies available for potable use by municipalities, groundwater availability, potability, potential to recharge, and interaction with surface water; (2) a survey of potential future water supply sources; and (3) a characterization of surface and bedrock geology, including its effect on groundwater yield and quality. Authorizes appropriations. Amends the Water Resources Development Act of 1986 to reduce the total cost and the estimated first federal cost for the authorized navigation project, Norfolk Harbor and Channels, Virginia.</summary>
+</bill>

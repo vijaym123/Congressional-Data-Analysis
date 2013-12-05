@@ -1,0 +1,79 @@
+<bill session="109" type="hc" number="47" updated="2013-07-19T20:02:32-04:00">
+  <state datetime="2005-06-13T14:27:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-06-13T14:27:00-04:00"/>
+  </status>
+  <introduced datetime="2005-02-08"/>
+  <titles>
+    <title as="introduced" type="official">Commending the establishment in College Point, New York, of the first kindergarten in the United States.</title>
+    <title as="amended by house" type="official">Commending the establishment in College Point, New York, of the first free, public kindergarten in the United States.</title>
+  </titles>
+  <sponsor id="400087"/>
+  <cosponsors>
+    <cosponsor id="400030" joined="2005-02-08"/>
+    <cosponsor id="400097" joined="2005-03-17"/>
+    <cosponsor id="400102" joined="2005-02-08"/>
+    <cosponsor id="400641" joined="2005-03-01"/>
+    <cosponsor id="400208" joined="2005-02-08"/>
+    <cosponsor id="400215" joined="2005-03-01"/>
+    <cosponsor id="400227" joined="2005-02-09"/>
+    <cosponsor id="400251" joined="2005-02-08"/>
+    <cosponsor id="400278" joined="2005-02-08"/>
+    <cosponsor id="400306" joined="2005-02-08"/>
+    <cosponsor id="400355" joined="2005-03-08"/>
+    <cosponsor id="400366" joined="2005-03-10"/>
+    <cosponsor id="400409" joined="2005-02-09"/>
+    <cosponsor id="400426" joined="2005-02-08"/>
+    <cosponsor id="400430" joined="2005-02-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-02-08">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2005-03-24">
+      <text>Referred to the Subcommittee on Education Reform.</text>
+      <committee name="House Committee on Education and the Workforce"/>
+    </action>
+    <action datetime="2005-06-13T14:21:00-04:00">
+      <text>Mr. Kline moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2005-06-13T14:22:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4362-4364" label="consideration"/>
+    </action>
+    <action datetime="2005-06-13T14:22:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 47.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-06-13T14:27:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4362-4363" label="text"/>
+    </vote>
+    <action datetime="2005-06-13T14:27:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-06-13T14:27:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-06-14">
+      <text>Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED14" subcommittee="Education Reform" name="House Education and the Workforce"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Elementary education"/>
+    <term name="New York State"/>
+  </subjects>
+  <amendments/>
+  <summary>6/13/2005--Passed House amended.
+Commends the Poppenhusen Institute and the community of College Point, New York, for establishing the first free, public kindergarten in the United States. Supports the strong beginnings kindergartens across the United States provide for the Nation's children.</summary>
+</bill>

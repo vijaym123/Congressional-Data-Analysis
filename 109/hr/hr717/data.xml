@@ -1,0 +1,72 @@
+<bill session="109" type="h" number="717" updated="2013-07-19T19:10:32-04:00">
+  <state datetime="2005-02-09">REFERRED</state>
+  <status>
+    <introduced datetime="2005-02-09"/>
+  </status>
+  <introduced datetime="2005-02-09"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to expand the scope of programs of education for which accelerated payments of educational assistance under the Montgomery GI Bill may be used, and for other purposes.</title>
+  </titles>
+  <sponsor id="400274"/>
+  <cosponsors>
+    <cosponsor id="400048" joined="2006-04-04"/>
+    <cosponsor id="400633" joined="2006-05-16"/>
+    <cosponsor id="400096" joined="2006-03-01"/>
+    <cosponsor id="400133" joined="2006-03-16"/>
+    <cosponsor id="400138" joined="2006-06-07"/>
+    <cosponsor id="400279" joined="2005-02-09"/>
+    <cosponsor id="400310" joined="2005-07-28"/>
+    <cosponsor id="400311" joined="2006-04-05"/>
+    <cosponsor id="400316" joined="2006-05-16"/>
+    <cosponsor id="400420" joined="2006-02-01"/>
+    <cosponsor id="400430" joined="2006-05-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-02-09">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2005-02-09">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2005-02-09">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2005-03-14">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Armed Services"/>
+    </action>
+    <action datetime="2005-04-04">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2005-05-25">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Driver education"/>
+    <term name="Driver licenses"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Government lending"/>
+    <term name="Higher education"/>
+    <term name="Income"/>
+    <term name="Scholarships"/>
+    <term name="Student loan funds"/>
+    <term name="Transportation and public works"/>
+    <term name="Veterans' benefits"/>
+    <term name="Veterans' education"/>
+  </subjects>
+  <amendments/>
+  <summary>2/9/2005--Introduced.
+Permits accelerated payments of educational assistance under the Montgomery GI Bill to an individual enrolled in an approved program of education that leads to employment as an operator of a commercial motor vehicle. Excludes benefits payable under under the Montgomery GI Bill from consideration as income for purposes of determining eligibility for education grants or loans under any other provision of Federal law.</summary>
+</bill>

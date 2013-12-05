@@ -1,0 +1,79 @@
+<bill session="109" type="hj" number="66" updated="2013-07-19T20:01:50-04:00">
+  <state datetime="2005-09-27T18:50:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-09-27T18:50:00-04:00"/>
+  </status>
+  <introduced datetime="2005-09-21"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals and ideals of "Lights On Afterschool!", a national celebration of after-school programs.</title>
+  </titles>
+  <sponsor id="400246"/>
+  <cosponsors>
+    <cosponsor id="400088" joined="2005-09-27"/>
+    <cosponsor id="400103" joined="2005-09-21"/>
+    <cosponsor id="400155" joined="2005-09-27"/>
+    <cosponsor id="400641" joined="2005-09-21"/>
+    <cosponsor id="400184" joined="2005-09-21"/>
+    <cosponsor id="400199" joined="2005-09-21"/>
+    <cosponsor id="400232" joined="2005-09-21"/>
+    <cosponsor id="400249" joined="2005-09-21"/>
+    <cosponsor id="400259" joined="2005-09-27"/>
+    <cosponsor id="400263" joined="2005-09-21"/>
+    <cosponsor id="400272" joined="2005-09-27"/>
+    <cosponsor id="400344" joined="2005-09-21"/>
+    <cosponsor id="400361" joined="2005-09-21"/>
+    <cosponsor id="400415" joined="2005-09-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-09-21">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2005-09-27T14:29:00-04:00">
+      <text>Mr. Ehlers moved to suspend the rules and pass the resolution.</text>
+    </action>
+    <action datetime="2005-09-27T14:29:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8366-8367" label="consideration"/>
+    </action>
+    <action datetime="2005-09-27T14:29:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.J. Res. 66.</text>
+    </action>
+    <action datetime="2005-09-27T14:42:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2005-09-27T18:31:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H8374-8375"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-09-27T18:50:00-04:00" how="roll" result="pass" roll="494" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the resolution Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 494).</text>
+      <reference ref="CR H8366" label="text"/>
+    </vote>
+    <action datetime="2005-09-27T18:50:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-09-28">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="sc" number="58"/>
+    <bill relation="unknown" session="109" type="sc" number="116"/>
+    <bill relation="identical" session="109" type="sr" number="280"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Families"/>
+    <term name="School-age child care"/>
+    <term name="Special days"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/2005--Passed House without amendment.
+Supports the goals and ideals of "Lights On Afterschool!," a national celebration of after-school programs.</summary>
+</bill>

@@ -1,0 +1,108 @@
+<bill session="110" type="h" number="1467" updated="2013-07-19T21:16:31-04:00">
+  <state datetime="2007-06-06T11:40:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-06-06T11:40:00-04:00"/>
+  </status>
+  <introduced datetime="2007-03-09"/>
+  <titles>
+    <title as="introduced" type="short">10,000 Trained by 2010 Act</title>
+    <title as="reported to house" type="short">10,000 Trained by 2010 Act</title>
+    <title as="passed house" type="short">10,000 Trained by 2010 Act</title>
+    <title as="introduced" type="official">To authorize the National Science Foundation to award grants to institutions of higher education to develop and offer education and training programs.</title>
+  </titles>
+  <sponsor id="400437"/>
+  <cosponsors>
+    <cosponsor id="400151" joined="2007-03-09"/>
+    <cosponsor id="400155" joined="2007-03-09"/>
+    <cosponsor id="400165" joined="2007-03-09"/>
+    <cosponsor id="400204" joined="2007-06-05"/>
+    <cosponsor id="400230" joined="2007-04-16"/>
+    <cosponsor id="400234" joined="2007-04-17"/>
+    <cosponsor id="400280" joined="2007-03-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-03-09">
+      <text>Referred to the House Committee on Science and Technology.</text>
+    </action>
+    <action datetime="2007-03-14">
+      <text>Referred to the Subcommittee on Research and Science Education.</text>
+      <committee name="House Committee on Science and Technology"/>
+    </action>
+    <action datetime="2007-05-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Science and Technology"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-05-23">
+      <text>Ordered to be Reported.</text>
+      <committee name="House Committee on Science and Technology"/>
+    </calendar>
+    <action datetime="2007-06-05T15:46:00-04:00">
+      <text>Reported by the Committee on Science and Technology. H. Rept. 110-172.</text>
+    </action>
+    <calendar datetime="2007-06-05T15:46:00-04:00" calendar="Union" number="104">
+      <text>Placed on the Union Calendar, Calendar No. 104.</text>
+    </calendar>
+    <action datetime="2007-06-06T11:30:00-04:00">
+      <text>Mr. Wu moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-06-06T11:30:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6024-6026" label="consideration"/>
+    </action>
+    <action datetime="2007-06-06T11:30:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1467.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-06-06T11:40:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6024-6025" label="text"/>
+    </vote>
+    <action datetime="2007-06-06T11:40:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-06-07">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+    <action datetime="2007-07-17">
+      <text>Star Print ordered on the bill.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science and Technology" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSSY14" subcommittee="Research and Science Education" name="House Science and Technology"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Commerce"/>
+    <term name="Community colleges"/>
+    <term name="Computer security measures"/>
+    <term name="Curricula"/>
+    <term name="Distance education"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Educational accountability"/>
+    <term name="Engineering"/>
+    <term name="Federal aid to education"/>
+    <term name="Federal aid to research"/>
+    <term name="Government internships"/>
+    <term name="Government operations and politics"/>
+    <term name="Graduate education"/>
+    <term name="Health"/>
+    <term name="Health care industry"/>
+    <term name="Health information systems"/>
+    <term name="Higher education"/>
+    <term name="Industry-university relations"/>
+    <term name="Information technology"/>
+    <term name="Infrastructure"/>
+    <term name="Job creation"/>
+    <term name="Labor and employment"/>
+    <term name="Laboratories"/>
+    <term name="Medical records"/>
+    <term name="Research grants"/>
+    <term name="Technological innovations"/>
+  </subjects>
+  <amendments/>
+  <summary>6/6/2007--Passed House without amendment.
+10,000 Trained by 2010 Act - Requires the Director of the National Science Foundation (NSF) to award competitive grants for basic research on innovative approaches to improve health care information systems. Requires the Director to award competitive, multi-year grants to institutions of higher education (IHEs) to establish multidisciplinary Centers for Informatics Research for conducting cutting-edge, multidisciplinary research to generate innovative approaches in health care information. Allows IHEs to partner with one or more government laboratories and for-profit or nonprofit institutions. Requires the Director to convene an annual meeting of the Centers to foster collaboration and cooperation between Center participants. Requires the Director to award competitive grants to IHEs to establish or improve undergraduate and master's degree health care information programs, attract students to such programs, and provide them with experience in government or industry related to their studies. Requires the Director to evaluate this grant program within three years of establishing it. Requires the Director to award grants under the Scientific and Advanced Technology Act of 1992 for the purposes of two existing grant programs that provide funds to associate-degree-granting IHEs for: (1) improving education in advanced technology, science, and mathematics; and (2) establishing centers of excellence in such subjects that serve as information clearinghouses and models for other educational institutions. Limits the use of these new grants to improving health information education. Authorizes appropriations for FY2008-FY2011.</summary>
+</bill>

@@ -1,0 +1,100 @@
+<bill session="110" type="hc" number="408" updated="2013-07-19T22:12:17-04:00">
+  <state datetime="2008-09-18T17:54:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-09-18T17:54:00-04:00"/>
+  </status>
+  <introduced datetime="2008-07-31"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing North Platte, Nebraska, as "Rail Town USA".</title>
+  </titles>
+  <sponsor id="412217"/>
+  <cosponsors>
+    <cosponsor id="400011" joined="2008-07-31"/>
+    <cosponsor id="400038" joined="2008-07-31"/>
+    <cosponsor id="400086" joined="2008-07-31"/>
+    <cosponsor id="400096" joined="2008-07-31"/>
+    <cosponsor id="400119" joined="2008-07-31"/>
+    <cosponsor id="412230" joined="2008-07-31"/>
+    <cosponsor id="400640" joined="2008-07-31"/>
+    <cosponsor id="400643" joined="2008-07-31"/>
+    <cosponsor id="400157" joined="2008-07-31"/>
+    <cosponsor id="400225" joined="2008-07-31"/>
+    <cosponsor id="400656" joined="2008-07-31"/>
+    <cosponsor id="412190" joined="2008-07-31"/>
+    <cosponsor id="400644" joined="2008-07-31"/>
+    <cosponsor id="400659" joined="2008-07-31"/>
+    <cosponsor id="400635" joined="2008-07-31"/>
+    <cosponsor id="400273" joined="2008-07-31"/>
+    <cosponsor id="400284" joined="2008-07-31"/>
+    <cosponsor id="400287" joined="2008-07-31"/>
+    <cosponsor id="400441" joined="2008-07-31"/>
+    <cosponsor id="400319" joined="2008-07-31"/>
+    <cosponsor id="400626" joined="2008-07-31"/>
+    <cosponsor id="412202" joined="2008-07-31"/>
+    <cosponsor id="400345" joined="2008-07-31"/>
+    <cosponsor id="400367" joined="2008-07-31"/>
+    <cosponsor id="409888" joined="2008-07-31"/>
+    <cosponsor id="400400" joined="2008-07-31"/>
+    <cosponsor id="400404" joined="2008-07-31"/>
+    <cosponsor id="400419" joined="2008-07-31"/>
+    <cosponsor id="412214" joined="2008-07-31"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-07-31">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2008-08-01">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2008-09-17T15:54:00-04:00">
+      <text>Ms. Brown, Corrine moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2008-09-17T15:55:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8338-8341" label="consideration"/>
+    </action>
+    <action datetime="2008-09-17T15:55:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 408.</text>
+    </action>
+    <action datetime="2008-09-17T16:16:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Graves objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2008-09-18T17:54:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H8454" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-09-18T17:54:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR 9/17/2008 H8338" label="text"/>
+    </vote>
+    <action datetime="2008-09-18T17:54:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-09-22">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2008-10-02">
+      <text>Referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW14" subcommittee="Railroads, Pipelines, and Hazardous Materials" name="House Transportation and Infrastructure"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Housing and community development"/>
+    <term name="Names"/>
+    <term name="Nebraska"/>
+    <term name="Railroads"/>
+    <term name="Small towns"/>
+    <term name="Transportation and public works"/>
+    <term name="Urban affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>9/18/2008--Passed House without amendment.
+Recognizes North Platte, Nebraska, as "Rail Town USA."</summary>
+</bill>

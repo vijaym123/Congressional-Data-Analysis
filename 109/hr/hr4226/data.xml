@@ -1,0 +1,43 @@
+<bill session="109" type="h" number="4226" updated="2013-07-19T19:41:40-04:00">
+  <state datetime="2005-11-03">REFERRED</state>
+  <status>
+    <introduced datetime="2005-11-03"/>
+  </status>
+  <introduced datetime="2005-11-03"/>
+  <titles>
+    <title as="introduced" type="official">To authorize the conduct of small projects for the rehabilitation or removal of dams.</title>
+  </titles>
+  <sponsor id="400140"/>
+  <cosponsors>
+    <cosponsor id="400001" joined="2006-03-16"/>
+    <cosponsor id="400069" joined="2006-03-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-11-03">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2005-11-04">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="s" number="1887"/>
+    <bill relation="unknown" session="109" type="s" number="1887"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Construction costs"/>
+    <term name="Dams"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to water resources development"/>
+    <term name="Infrastructure"/>
+  </subjects>
+  <amendments/>
+  <summary>11/3/2005--Introduced.
+Authorizes the Secretary of the Army to carry out a small dam removal or rehabilitation project, including one relating to a privately-owned dam that does not generate hydropower, upon determining that the project will enhance public safety or improve the quality of the environment, or is in the public interest. Directs a non-federal interest to provide 35% of removal or remediation costs. Permits construction to be commenced only after a non-federal interest has entered into a binding agreement with the Secretary to pay: (1) the non-federal share of construction costs; and (2) 100% of any operation and maintenance costs. Limits to $5 million in federal funds the amount that may be allotted for a project at any single location.</summary>
+</bill>

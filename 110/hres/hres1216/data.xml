@@ -1,0 +1,44 @@
+<bill session="110" type="hr" number="1216" updated="2013-07-19T21:01:01-04:00">
+  <state datetime="2008-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="2008-05-20"/>
+  </status>
+  <introduced datetime="2008-05-20"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the efforts to reduce unnecessary radiation exposure through computed tomography scans for children, and for other purposes.</title>
+  </titles>
+  <sponsor id="400288"/>
+  <cosponsors>
+    <cosponsor id="400062" joined="2008-05-20"/>
+    <cosponsor id="400195" joined="2008-05-20"/>
+    <cosponsor id="400327" joined="2008-05-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-05-20">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2008-05-21">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Child safety"/>
+    <term name="Families"/>
+    <term name="Imaging systems in medicine"/>
+    <term name="Quality of care"/>
+    <term name="Radioisotopes in medicine"/>
+    <term name="Science, technology, communications"/>
+    <term name="X-rays"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2008--Introduced.
+Encourages: (1) radiologists, medical physicists, pediatricians, other pediatric health care providers, and parents to consider the different needs of children when it comes to radiation dosing; (2) appropriate use of computed tomography scans in children; and (3) radiation protection efforts in pediatric imaging.</summary>
+</bill>

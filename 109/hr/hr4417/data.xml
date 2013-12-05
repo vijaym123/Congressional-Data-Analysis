@@ -1,0 +1,75 @@
+<bill session="109" type="h" number="4417" updated="2013-07-19T19:43:22-04:00">
+  <state datetime="2006-09-26T20:09:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-09-26T20:09:00-04:00"/>
+  </status>
+  <introduced datetime="2005-11-18"/>
+  <titles>
+    <title as="introduced" type="official">To provide for the reinstatement of a license for a certain Federal Energy Regulatory project.</title>
+  </titles>
+  <sponsor id="400281"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-11-18">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2005-12-02">
+      <text>Referred to the Subcommittee on Energy and Air Quality.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2006-09-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-09-20">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2006-09-26T18:29:00-04:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 109-685.</text>
+    </action>
+    <calendar datetime="2006-09-26T18:29:00-04:00" calendar="Union" number="415">
+      <text>Placed on the Union Calendar, Calendar No. 415.</text>
+    </calendar>
+    <action datetime="2006-09-26T20:06:00-04:00">
+      <text>Mr. Otter moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-09-26T20:06:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7451" label="consideration"/>
+    </action>
+    <action datetime="2006-09-26T20:06:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4417.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-09-26T20:09:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H7451" label="text"/>
+    </vote>
+    <action datetime="2006-09-26T20:09:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="2006-09-27" calendar="Senate Legislative" under="General Orders" number="644">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 644.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Air Quality" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="s" number="2028"/>
+    <bill relation="identical" session="109" type="s" number="2028"/>
+    <bill relation="unknown" session="109" type="s" number="2028"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Hydroelectric power"/>
+    <term name="Law"/>
+    <term name="Licenses"/>
+    <term name="Water resources development"/>
+    <term name="West Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>9/26/2006--Passed House without amendment.
+Directs the Federal Energy Regulatory Commission (FERC), upon the request of the licensee for the project numbered 7307, to extend the time required for commencement of construction of the project until December 31, 2007. Provides for reinstatement of an expired license.</summary>
+</bill>

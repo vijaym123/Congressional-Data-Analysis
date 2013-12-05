@@ -1,0 +1,88 @@
+<bill session="110" type="h" number="2356" updated="2013-07-19T21:24:17-04:00">
+  <state datetime="2008-06-03">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2008-06-03"/>
+  </status>
+  <introduced datetime="2007-05-17"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 4, United States Code, to encourage the display of the flag of the United States on Father's Day.</title>
+  </titles>
+  <sponsor id="400363"/>
+  <cosponsors>
+    <cosponsor id="400055" joined="2007-05-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-05-17">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2007-06-04">
+      <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2007-06-11T14:24:00-04:00">
+      <text>Ms. Baldwin moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-06-11T14:24:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6189-6192" label="consideration"/>
+    </action>
+    <action datetime="2007-06-11T14:24:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2356.</text>
+    </action>
+    <action datetime="2007-06-11T14:47:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2007-06-11T18:33:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6204-6205" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-06-11T18:56:00-04:00" how="roll" result="pass" roll="448" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 386 - 0 (Roll no. 448).</text>
+      <reference ref="CR H6189" label="text"/>
+    </vote>
+    <action datetime="2007-06-11T18:56:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-06-12">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2008-05-15">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S4288" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2008-05-15" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <topresident datetime="2008-05-15">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2008-05-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2008-05-23">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2008-06-03">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2008-06-03" type="public" number="110-239">
+      <text>Became Public Law No: 110-239.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution, Civil Rights, and Civil Liberties" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Families"/>
+    <term name="Fathers"/>
+    <term name="Flags"/>
+    <term name="Special days"/>
+  </subjects>
+  <amendments/>
+  <summary>6/3/2008--Public Law.
+Adds Father's Day, the third Sunday in June, to the official occasions for the display of the U.S. flag.</summary>
+</bill>

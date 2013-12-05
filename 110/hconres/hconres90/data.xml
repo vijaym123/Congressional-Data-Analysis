@@ -1,0 +1,50 @@
+<bill session="110" type="hc" number="90" updated="2013-07-19T22:09:34-04:00">
+  <state datetime="2007-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2007-03-12"/>
+  </status>
+  <introduced datetime="2007-03-12"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the dedication and honorable service of members of the Armed Forces who are serving or have served as military nurses.</title>
+  </titles>
+  <sponsor id="400204"/>
+  <cosponsors>
+    <cosponsor id="400042" joined="2007-03-12"/>
+    <cosponsor id="412236" joined="2007-08-02"/>
+    <cosponsor id="400177" joined="2007-03-27"/>
+    <cosponsor id="412200" joined="2007-03-12"/>
+    <cosponsor id="400208" joined="2007-03-12"/>
+    <cosponsor id="400251" joined="2007-03-12"/>
+    <cosponsor id="400260" joined="2007-03-12"/>
+    <cosponsor id="400262" joined="2007-03-12"/>
+    <cosponsor id="400283" joined="2007-03-12"/>
+    <cosponsor id="400379" joined="2007-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-03-12">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2007-04-03">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Health"/>
+    <term name="Military medicine"/>
+    <term name="Military personnel"/>
+    <term name="Nurses"/>
+    <term name="Recruiting and enlistment"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/2007--Introduced.
+Acknowledges and recognizes the dedication and significant contributions of all members of the Armed Forces, especially members who are serving or have served as military nurses. Supports programs to strengthen and increase the nursing workforce.</summary>
+</bill>

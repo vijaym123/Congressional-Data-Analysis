@@ -1,0 +1,105 @@
+<bill session="109" type="h" number="2892" updated="2013-07-19T19:29:49-04:00">
+  <state datetime="2005-12-14T19:21:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-12-14T19:21:00-05:00"/>
+  </status>
+  <introduced datetime="2005-06-14"/>
+  <titles>
+    <title as="introduced" type="short">Reverse Mortgages to Help America's Seniors Act</title>
+    <title as="passed house" type="short">Reverse Mortgages to Help America's Seniors Act</title>
+    <title as="introduced" type="official">To amend section 255 of the National Housing Act to remove the limitation on the number of reverse mortgages that may be insured under the FHA mortgage insurance program for such mortgages.</title>
+  </titles>
+  <sponsor id="400646"/>
+  <cosponsors>
+    <cosponsor id="400049" joined="2005-07-11"/>
+    <cosponsor id="400051" joined="2005-06-14"/>
+    <cosponsor id="400063" joined="2005-11-02"/>
+    <cosponsor id="400080" joined="2005-12-13"/>
+    <cosponsor id="400090" joined="2005-11-15"/>
+    <cosponsor id="400633" joined="2005-10-19"/>
+    <cosponsor id="400103" joined="2005-12-14"/>
+    <cosponsor id="400124" joined="2005-07-22"/>
+    <cosponsor id="400129" joined="2005-10-17"/>
+    <cosponsor id="400133" joined="2005-10-19"/>
+    <cosponsor id="400662" joined="2005-12-13"/>
+    <cosponsor id="400140" joined="2005-06-14"/>
+    <cosponsor id="400147" joined="2005-07-12"/>
+    <cosponsor id="400162" joined="2005-11-08"/>
+    <cosponsor id="400167" joined="2005-06-14"/>
+    <cosponsor id="400184" joined="2005-12-06"/>
+    <cosponsor id="400193" joined="2005-07-22"/>
+    <cosponsor id="400213" joined="2005-06-14"/>
+    <cosponsor id="400224" joined="2005-10-06"/>
+    <cosponsor id="400642" joined="2005-12-06"/>
+    <cosponsor id="400233" joined="2005-12-07"/>
+    <cosponsor id="400251" joined="2005-10-17"/>
+    <cosponsor id="400253" joined="2005-11-08"/>
+    <cosponsor id="400255" joined="2005-06-14"/>
+    <cosponsor id="400263" joined="2005-07-22"/>
+    <cosponsor id="400644" joined="2005-06-14"/>
+    <cosponsor id="400280" joined="2005-07-22"/>
+    <cosponsor id="400277" joined="2005-06-14"/>
+    <cosponsor id="400278" joined="2005-11-17"/>
+    <cosponsor id="400326" joined="2005-06-14"/>
+    <cosponsor id="400357" joined="2005-11-15"/>
+    <cosponsor id="400366" joined="2005-10-07"/>
+    <cosponsor id="400370" joined="2005-12-14"/>
+    <cosponsor id="400407" joined="2005-12-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-06-14">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2005-06-23">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H5082-5083"/>
+    </action>
+    <action datetime="2005-07-29">
+      <text>Referred to the Subcommittee on Housing and Community Opportunity.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2005-12-14T19:07:00-05:00">
+      <text>Mr. Fitzpatrick (PA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2005-12-14T19:07:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11586-11588" label="consideration"/>
+    </action>
+    <action datetime="2005-12-14T19:07:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2892.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-12-14T19:21:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H11586" label="text"/>
+    </vote>
+    <action datetime="2005-12-14T19:21:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-12-15">
+      <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2005-12-16" calendar="Senate Legislative" under="General Orders" number="351">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 351.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee activity="Referral" code="HSBA04" subcommittee="Housing and Community Opportunity" name="House Financial Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="s" number="1710"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Economics and public finance"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Finance and financial sector"/>
+    <term name="Home equity conversion"/>
+    <term name="Housing for the aged"/>
+    <term name="Mortgage guaranty insurance"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>12/14/2005--Passed House without amendment.
+Reverse Mortgages to Help America's Seniors Act - Amends the National Housing Act to remove the aggregate and insurance benefit limitations on the number of home equity conversion (reverse) mortgages for elderly homeowners that may be insured by the Federal Housing Administration (FHA).</summary>
+</bill>

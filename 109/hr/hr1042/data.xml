@@ -1,0 +1,88 @@
+<bill session="109" type="h" number="1042" updated="2013-07-19T19:13:24-04:00">
+  <state datetime="2005-06-13T15:11:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-06-13T15:11:00-04:00"/>
+  </status>
+  <introduced datetime="2005-03-02"/>
+  <titles>
+    <title as="introduced" type="short">Net Worth Amendment For Credit Unions Act</title>
+    <title as="passed house" type="short">Net Worth Amendment For Credit Unions Act</title>
+    <title as="introduced" type="official">To amend the Federal Credit Union Act to clarify the definition of net worth under certain circumstances for purposes of the prompt corrective action authority of the National Credit Union Administration Board, and for other purposes.</title>
+  </titles>
+  <sponsor id="400010"/>
+  <cosponsors>
+    <cosponsor id="400051" joined="2005-03-02"/>
+    <cosponsor id="400058" joined="2005-05-23"/>
+    <cosponsor id="400131" joined="2005-03-02"/>
+    <cosponsor id="400163" joined="2005-03-02"/>
+    <cosponsor id="400186" joined="2005-03-02"/>
+    <cosponsor id="400210" joined="2005-03-02"/>
+    <cosponsor id="400213" joined="2005-03-02"/>
+    <cosponsor id="400235" joined="2005-03-02"/>
+    <cosponsor id="400251" joined="2005-03-02"/>
+    <cosponsor id="400257" joined="2005-03-02"/>
+    <cosponsor id="400282" joined="2005-03-02"/>
+    <cosponsor id="400293" joined="2005-03-02"/>
+    <cosponsor id="400311" joined="2005-03-08"/>
+    <cosponsor id="400336" joined="2005-03-02"/>
+    <cosponsor id="400348" joined="2005-03-02"/>
+    <cosponsor id="400357" joined="2005-03-02"/>
+    <cosponsor id="400371" joined="2005-03-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-03-02">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2005-03-03">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E367"/>
+    </action>
+    <action datetime="2005-04-04">
+      <text>Referred to the Subcommittee on Financial Institutions and Consumer Credit.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2005-04-13">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2005-06-13T14:52:00-04:00">
+      <text>Mr. Bachus moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2005-06-13T14:52:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4368-4371" label="consideration"/>
+    </action>
+    <action datetime="2005-06-13T14:53:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1042.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-06-13T15:11:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H4368" label="text"/>
+    </vote>
+    <action datetime="2005-06-13T15:11:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-06-14">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2005-06-16">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee activity="Referral, Hearings" code="HSBA15" subcommittee="Financial Institutions and Consumer Credit" name="House Financial Services"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bank mergers"/>
+    <term name="Credit unions"/>
+    <term name="Deposit insurance"/>
+    <term name="Earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>6/13/2005--Passed House without amendment.
+Net Worth Amendment For Credit Unions Act - (Sec. 2) Amends the Federal Credit Union Act relating to the requirement of prompt corrective action to resolve the problems of an insured credit union at the least possible long-term loss to the National Credit Union Share Insurance Fund. Redefines net worth as the retained earnings balance of a credit union (as determined under generally accepted accounting principles, as under current law), together with any amounts that were previously retained earnings of any other credit union with which the credit union has combined.</summary>
+</bill>

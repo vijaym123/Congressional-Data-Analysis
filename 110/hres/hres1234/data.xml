@@ -1,0 +1,57 @@
+<bill session="110" type="hr" number="1234" updated="2013-07-19T21:01:10-04:00">
+  <state datetime="2008-06-04T16:22:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2008-06-04T16:22:00-04:00"/>
+  </status>
+  <introduced datetime="2008-06-03"/>
+  <titles>
+    <title as="introduced" type="official">Providing for consideration of the bill (H.R. 3021) to direct the Secretary of Education to make grants and low-interest loans to local educational agencies for the construction, modernization, or repair of public kindergarten, elementary, and secondary educational facilities, and for other purposes.</title>
+  </titles>
+  <sponsor id="412228"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2008-06-03T19:49:00-04:00">
+      <text>The House Committee on Rules reported an original measure, H. Rept. 110-678, by Ms. Sutton.</text>
+    </action>
+    <action datetime="2008-06-03T19:49:00-04:00">
+      <text>Rule provides for consideration of H.R. 3021 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2008-06-03T19:50:00-04:00" calendar="House" number="231">
+      <text>Placed on the House Calendar, Calendar No. 231.</text>
+    </calendar>
+    <action datetime="2008-06-04T14:52:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H4927-4935" label="consideration"/>
+    </action>
+    <action datetime="2008-06-04T14:55:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H. Res. 1234.</text>
+    </action>
+    <action datetime="2008-06-04T16:14:00-04:00">
+      <text>On ordering the previous question Agreed to by the Yeas and Nays: 221 - 196 (Roll no. 370).</text>
+      <reference ref="CR H4934-4935" label="consideration"/>
+      <reference ref="CR H4934" label="text"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2008-06-04T16:22:00-04:00" how="roll" result="pass" roll="371" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 223 - 193 (Roll no. 371).</text>
+      <reference ref="CR H4927" label="text"/>
+    </vote>
+    <action datetime="2008-06-04T16:22:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="110" type="h" number="3021"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>6/3/2008--Introduced.
+Sets forth the rule for consideration of the bill (H.R. 3021) to direct the Secretary of Education to make grants and low-interest loans to local educational agencies for the construction, modernization, or repair of public kindergarten, elementary, and secondary educational facilities.</summary>
+</bill>

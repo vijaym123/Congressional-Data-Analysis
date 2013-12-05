@@ -1,0 +1,73 @@
+<bill session="109" type="hr" number="1028" updated="2013-07-19T19:03:28-04:00">
+  <state datetime="2006-09-29T20:18:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2006-09-29T20:18:00-04:00"/>
+  </status>
+  <introduced datetime="2006-09-20"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals and ideals of Red Ribbon Week.</title>
+  </titles>
+  <sponsor id="400385"/>
+  <cosponsors>
+    <cosponsor id="400057" joined="2006-09-20"/>
+    <cosponsor id="400090" joined="2006-09-20"/>
+    <cosponsor id="400098" joined="2006-09-20"/>
+    <cosponsor id="400179" joined="2006-09-20"/>
+    <cosponsor id="400349" joined="2006-09-29"/>
+    <cosponsor id="400355" joined="2006-09-25"/>
+    <cosponsor id="400400" joined="2006-09-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-09-20">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2006-09-25">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2006-09-29T20:08:00-04:00">
+      <text>Mr. Deal (GA) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2006-09-29T20:09:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8019-8020" label="consideration"/>
+    </action>
+    <action datetime="2006-09-29T20:09:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1028.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2006-09-29T20:18:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H8019" label="text"/>
+    </vote>
+    <action datetime="2006-09-29T20:19:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="hr" number="485"/>
+    <bill relation="unknown" session="109" type="sr" number="277"/>
+    <bill relation="unknown" session="109" type="sr" number="576"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Department of Justice"/>
+    <term name="Drug Enforcement Administration (DEA)"/>
+    <term name="Drug abuse"/>
+    <term name="Drug abuse prevention"/>
+    <term name="Drug law enforcement"/>
+    <term name="Drugs and youth"/>
+    <term name="Families"/>
+    <term name="Federal law enforcement officers"/>
+    <term name="Government operations and politics"/>
+    <term name="Murder"/>
+    <term name="Special weeks"/>
+  </subjects>
+  <amendments/>
+  <summary>9/29/2006--Passed House without amendment.
+Expresses support for the goals and ideals of Red Ribbon Week. Encourages: (1) children and teens to live a drug-free life; and (2) the promotion of drug-free communities and participation in drug prevention activities.</summary>
+</bill>

@@ -1,0 +1,78 @@
+<bill session="109" type="h" number="4653" updated="2013-07-19T19:45:22-04:00">
+  <state datetime="2006-09-20T17:49:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-09-20T17:49:00-04:00"/>
+  </status>
+  <introduced datetime="2005-12-22"/>
+  <titles>
+    <title as="introduced" type="official">To repeal a prohibition on the use of certain funds for tunneling in certain areas with respect to the Los Angeles to San Fernando Valley Metro Rail project, California.</title>
+  </titles>
+  <sponsor id="400425"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-12-22">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2005-12-23">
+      <text>Referred to the Subcommittee on Railroads.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2006-07-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-07-19">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2006-07-28T18:39:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 109-610.</text>
+    </action>
+    <calendar datetime="2006-07-28T18:39:00-04:00" calendar="Union" number="351">
+      <text>Placed on the Union Calendar, Calendar No. 351.</text>
+    </calendar>
+    <action datetime="2006-09-20T17:42:00-04:00">
+      <text>Mr. Shuster moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-09-20T17:42:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6804-6805" label="consideration"/>
+    </action>
+    <action datetime="2006-09-20T17:42:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debates on H.R. 4653.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-09-20T17:49:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6804" label="text"/>
+    </vote>
+    <action datetime="2006-09-20T17:49:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-09-21">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSPW14" subcommittee="Railroads" name="House Transportation and Infrastructure"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="4571"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="California"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to transportation"/>
+    <term name="Mass rapid transit"/>
+    <term name="Railroad engineering"/>
+    <term name="Subways"/>
+    <term name="Tunnels"/>
+    <term name="Urban affairs"/>
+    <term name="Urban transportation"/>
+  </subjects>
+  <amendments/>
+  <summary>9/20/2006--Passed House without amendment.
+Amends the Department of Transportation and Related Agencies Appropriations Act, 1986 to repeal a provision prohibiting the use of certain funds for any segment of the downtown Los Angeles to San Fernando Valley Metro Rail project unless the Southern California Rapid Transit District notifies the Urban Mass Transportation Administration that no part of the Metro Rail project will tunnel through any zone designated as a potential risk zone or high potential risk zone for methane gas.</summary>
+</bill>

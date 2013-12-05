@@ -1,0 +1,46 @@
+<bill session="109" type="hc" number="20" updated="2013-07-19T20:02:19-04:00">
+  <state datetime="2005-01-31">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2005-01-31"/>
+  </status>
+  <introduced datetime="2005-01-25"/>
+  <titles>
+    <title as="introduced" type="official">Providing for a joint session of Congress to receive a message from the President.</title>
+  </titles>
+  <sponsor id="400020"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2005-01-25T18:33:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H170" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-01-25T18:33:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H170" label="text"/>
+    </vote>
+    <action datetime="2005-01-25T18:33:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-01-26">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2005-01-31" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S677" label="consideration"/>
+    </vote>
+    <action datetime="2005-02-01">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+    <term name="Government operations and politics"/>
+    <term name="Presidential messages"/>
+  </subjects>
+  <amendments/>
+  <summary>1/31/2005--Passed Senate without amendment.
+Provides for a joint session of Congress on February 2, 2005, to receive a message from the President.</summary>
+</bill>

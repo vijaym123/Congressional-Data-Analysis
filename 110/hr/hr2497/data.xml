@@ -1,0 +1,47 @@
+<bill session="110" type="h" number="2497" updated="2013-07-19T21:25:34-04:00">
+  <state datetime="2007-05-24">REFERRED</state>
+  <status>
+    <introduced datetime="2007-05-24"/>
+  </status>
+  <introduced datetime="2007-05-24"/>
+  <titles>
+    <title as="introduced" type="short">Fair and Reliable Medical Justice Act</title>
+    <title as="introduced" type="official">To restore fairness and reliability to the medical justice system and promote patient safety by fostering alternatives to current medical tort litigation, and for other purposes.</title>
+  </titles>
+  <sponsor id="400081"/>
+  <cosponsors>
+    <cosponsor id="400040" joined="2007-06-27"/>
+    <cosponsor id="400155" joined="2007-06-15"/>
+    <cosponsor id="400404" joined="2007-05-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-05-24">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2007-05-24">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="1481"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Alternative dispute resolution"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to health facilities"/>
+    <term name="Grants-in-aid"/>
+    <term name="Law"/>
+    <term name="Medical malpractice"/>
+    <term name="Medical statistics"/>
+    <term name="Quality of care"/>
+  </subjects>
+  <amendments/>
+  <summary>5/24/2007--Introduced.
+Fair and Reliable Medical Justice Act - Amends the Public Health Service Act to authorize the Secretary of Health and Human Services to award up to ten demonstration grants to states for the development, implementation, and evaluation of alternatives to current tort litigation for resolving disputes over injuries allegedly caused by health care providers or health care organizations. Requires such states to: (1) develop such an alternative to current tort litigation; and (2) promote a reduction of health care errors by allowing for patient safety data related to such disputes to be collected and analyzed by organizations that engage in efforts to improve patient safety and the quality of health care.</summary>
+</bill>

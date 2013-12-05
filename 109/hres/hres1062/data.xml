@@ -1,0 +1,55 @@
+<bill session="109" type="hr" number="1062" updated="2013-07-19T19:03:45-04:00">
+  <state datetime="2006-09-29T16:26:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2006-09-29T16:26:00-04:00"/>
+  </status>
+  <introduced datetime="2006-09-29"/>
+  <titles>
+    <title as="introduced" type="official">Waiving points of order against the conference report to accompany the bill (H.R. 5122) to authorize appropriations for fiscal year 2007 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+  </titles>
+  <sponsor id="400077"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2006-09-29T15:10:00-04:00">
+      <text>The House Committee on Rules reported an original measure, H. Rept. 109-703, by Mr. Cole (OK).</text>
+    </action>
+    <calendar state="REPORTED" datetime="2006-09-29T15:10:00-04:00" calendar="House" number="244">
+      <text>Placed on the House Calendar, Calendar No. 244.</text>
+    </calendar>
+    <action datetime="2006-09-29T15:10:00-04:00">
+      <text>Rule provides for consideration of the conference report to H.R. 5122 with 1 hour of general debate.</text>
+    </action>
+    <action datetime="2006-09-29T15:54:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H7972-7976" label="consideration"/>
+    </action>
+    <action datetime="2006-09-29T15:56:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H. Res. 1062.</text>
+    </action>
+    <action datetime="2006-09-29T16:26:00-04:00">
+      <text>The previous question was ordered without objection.</text>
+      <reference ref="CR H7976" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2006-09-29T16:26:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H7972" label="text"/>
+    </vote>
+    <action datetime="2006-09-29T16:27:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="109" type="h" number="5122"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Armed forces and national security"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>9/29/2006--Passed House without amendment.
+Waives points of order against consideration of the conference report on H.R. 5122 (John Warner National Defense Authorization Act for Fiscal Year 2007).</summary>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="109" type="s" number="1482" updated="2013-07-19T20:26:29-04:00">
+  <state datetime="2005-07-26">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-07-26"/>
+  </status>
+  <introduced datetime="2005-07-26"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend the Act of August 9, 1955, to provide for binding arbitration for Gila River Indian Community Reservation Contracts.</title>
+  </titles>
+  <sponsor id="300071"/>
+  <cosponsors>
+    <cosponsor id="300037" joined="2005-07-26"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2005-07-26" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S9053-9055" label="consideration"/>
+      <reference ref="S9054" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-07-27T10:33:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-07-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-07-27">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="327"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Arizona"/>
+    <term name="Commerce"/>
+    <term name="Commercial arbitration"/>
+    <term name="Contracts"/>
+    <term name="Indian lands"/>
+    <term name="Law"/>
+    <term name="Leases"/>
+    <term name="Minorities"/>
+  </subjects>
+  <amendments/>
+  <summary>7/26/2005--Passed Senate without amendment.
+Amends federal Indian law to provide for binding arbitration for Gila River Indian Community Reservation contracts (including leases, as currently covered by such law).</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="109" type="h" number="3275" updated="2013-07-19T19:33:16-04:00">
+  <state datetime="2005-07-13">REFERRED</state>
+  <status>
+    <introduced datetime="2005-07-13"/>
+  </status>
+  <introduced datetime="2005-07-13"/>
+  <titles>
+    <title as="introduced" type="short">United States Army Relief Act of 2005</title>
+    <title as="introduced" type="official">To amend title 10, United States Code, to provide for an increase in the minimum end-strength level for active duty personnel for the United States Army, and for other purposes.</title>
+  </titles>
+  <sponsor id="400396"/>
+  <cosponsors>
+    <cosponsor id="400412" joined="2005-07-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-07-13">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2005-08-04">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="s" number="1397"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Army"/>
+    <term name="Iraq compilation"/>
+    <term name="Military personnel"/>
+  </subjects>
+  <amendments/>
+  <summary>7/13/2005--Introduced.
+United States Army Relief Act of 2005 - Sets forth the following minimum end-strength levels for active-duty Army personnel (502,400 for FY2005): (1) 522,400 for FY2006; (2) 542,400 for FY2007; (3) 562,400 for FY2008; and (4) 582,400 for FY2009 and thereafter.</summary>
+</bill>

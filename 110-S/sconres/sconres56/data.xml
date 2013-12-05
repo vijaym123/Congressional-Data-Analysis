@@ -1,0 +1,53 @@
+<bill session="110" type="sc" number="56" updated="2013-07-19T22:19:49-04:00">
+  <state datetime="2007-11-16">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2007-11-16"/>
+  </status>
+  <introduced datetime="2007-11-16"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution encouraging the Association of Southeast Asian Nations to take action to ensure a peaceful transition to democracy in Burma.</title>
+  </titles>
+  <sponsor id="300011"/>
+  <cosponsors>
+    <cosponsor id="300034" joined="2007-11-16"/>
+    <cosponsor id="300038" joined="2007-11-16"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2007-11-16" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S14660" label="consideration"/>
+      <reference ref="CR S14660" label="text as passed Senate"/>
+      <reference ref="CR S14645-14646" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2007-11-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2007-12-04T14:12:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2007-12-04">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="sc" number="52"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="ASEAN countries"/>
+    <term name="Burma"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Democracy"/>
+    <term name="East Asia"/>
+    <term name="Government operations and politics"/>
+    <term name="Human rights"/>
+    <term name="Regionalism (International organization)"/>
+    <term name="Sanctions (International law)"/>
+  </subjects>
+  <amendments/>
+  <summary>11/16/2007--Passed Senate without amendment.
+Joins the foreign ministers of member nations of the Association of Southeast Asian Nations (ASEAN) that have expressed concern over the human rights situation in Burma. Encourages ASEAN to take more substantial steps to ensure Burma's peaceful transition to democracy. Urges ASEAN to ensure that all member nations live up to their membership obligations and adhere to ASEAN's core principles. States that Congress would welcome a decision by ASEAN to review Burma's ASEAN membership and to consider appropriate disciplinary measures until the government of Burma has demonstrated a commitment to human rights.</summary>
+</bill>

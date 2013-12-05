@@ -1,0 +1,59 @@
+<bill session="110" type="sr" number="550" updated="2013-07-19T22:17:45-04:00">
+  <state datetime="2008-06-03">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2008-06-03"/>
+  </status>
+  <introduced datetime="2008-05-02"/>
+  <titles>
+    <title as="introduced" type="official">A resolution expressing the sense of the Senate regarding provocative and dangerous statements made by the Government of the Russian Federation that undermine the territorial integrity of the Republic of Georgia.</title>
+  </titles>
+  <sponsor id="300008"/>
+  <cosponsors>
+    <cosponsor id="412246" joined="2008-05-14"/>
+    <cosponsor id="300060" joined="2008-05-14"/>
+    <cosponsor id="300067" joined="2008-05-14"/>
+    <cosponsor id="300070" joined="2008-05-02"/>
+    <cosponsor id="400621" joined="2008-05-02"/>
+    <cosponsor id="300090" joined="2008-05-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-05-02">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S3748-3749" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-05-20">
+      <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Foreign Relations"/>
+    </calendar>
+    <action datetime="2008-05-20">
+      <text>Committee on Foreign Relations. Reported by Senator Biden without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="2008-05-20" calendar="Senate Legislative" under="General Orders" number="741">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 741.</text>
+    </calendar>
+    <vote state="PASSED:SIMPLERES" datetime="2008-06-03" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S4988-4989" label="consideration"/>
+      <reference ref="CR S4988-4989" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="hr" number="1166"/>
+    <bill relation="unknown" session="110" type="sr" number="418"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Annexation (International law)"/>
+    <term name="Central Asia"/>
+    <term name="Georgia (Republic)"/>
+    <term name="Negotiations"/>
+    <term name="Russia"/>
+    <term name="Sovereignty"/>
+  </subjects>
+  <amendments/>
+  <summary>6/3/2008--Passed Senate without amendment.
+Condemns recent decisions by the government of the Russian Federation to establish official ties with the regions of Abkhazia and South Ossetia, a process that impedes reconciliation between those regions and the government of the Republic of Georgia and that violates Georgia's sovereignty and Russia's commitments to international peacekeeping. Affirms that restoration of the Republic of Georgia's territorial integrity is in the interest of all who seek regional peace. Urges all parties to the conflicts in the Republic of Georgia and governments around the world to eschew rhetoric that escalates tensions and undermines negotiation efforts. Commends the government of Georgia for acting with restraint in the face of serious provocation.</summary>
+</bill>

@@ -1,0 +1,94 @@
+<bill session="110" type="s" number="2265" updated="2013-07-19T22:40:31-04:00">
+  <state datetime="2007-11-06T14:31:00-05:00">PASS_BACK:HOUSE</state>
+  <status>
+    <unknown datetime="2007-11-06T14:31:00-05:00"/>
+  </status>
+  <introduced datetime="2007-10-30"/>
+  <titles>
+    <title as="introduced" type="official">A bill to extend the existing provisions regarding the eligibility for essential air service subsidies through fiscal year 2008.</title>
+    <title as="amended by house" type="official">An Act to extend the existing provisions regarding the eligibility for essential air service subsidies through fiscal year 2008, and for other purposes.</title>
+  </titles>
+  <sponsor id="400546"/>
+  <cosponsors>
+    <cosponsor id="400064" joined="2007-10-30"/>
+    <cosponsor id="412246" joined="2007-10-30"/>
+    <cosponsor id="300058" joined="2007-10-30"/>
+    <cosponsor id="300073" joined="2007-10-30"/>
+    <cosponsor id="300092" joined="2007-10-30"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2007-10-30" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S13587" label="consideration"/>
+      <reference ref="CR S13587" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2007-10-31T11:31:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2007-10-31">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2007-10-31">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2007-11-06T14:21:00-05:00">
+      <text>Mr. Costello moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-11-06T14:21:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H12782-12783" label="consideration"/>
+    </action>
+    <action datetime="2007-11-06T14:21:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 2265.</text>
+    </action>
+    <vote state="PASS_BACK:HOUSE" datetime="2007-11-06T14:31:00-05:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H12782" label="text"/>
+    </vote>
+    <action datetime="2007-11-06T14:31:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-11-06T14:31:00-05:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-11-08">
+      <text>Message on House action received in Senate and at desk: House amendments to Senate bill.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="2206"/>
+    <bill relation="identical" session="110" type="s" number="2260"/>
+    <bill relation="unknown" session="110" type="s" number="2260"/>
+    <bill relation="unknown" session="110" type="s" number="2260"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Access to airports"/>
+    <term name="Air piracy"/>
+    <term name="Airlines"/>
+    <term name="Airports"/>
+    <term name="Authorization"/>
+    <term name="Aviation insurance"/>
+    <term name="Commerce"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Department of Transportation"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to transportation"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government operations and politics"/>
+    <term name="Housing and community development"/>
+    <term name="Infrastructure"/>
+    <term name="Law"/>
+    <term name="Liability (Law)"/>
+    <term name="Navigation (Aeronautics)"/>
+    <term name="Subsidies"/>
+    <term name="Terrorism"/>
+    <term name="Victims of terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>11/6/2007--Passed House amended.
+Amends the Vision 100--Century of Aviation Reauthorization Act to extend through FY2008 the effectiveness of any final order of the Secretary of Transportation, including existing final orders, with respect to the eligibility for essential air service subsidies of any place in the United States based on highway mileage between it and the nearest medium hub airport or large hub airport. Amends federal transportation law to extend funding through December 31, 2007, for: (1) grants for airport planning and development and airport noise compatibility planning and programs; (2) operating expenses of the Federal Aviation Administration (FAA); (3) air navigation facilities; and (4) civil aviation research and development activities. Extends through December 31, 2007, the authority of the Secretary to: (1) incur obligations to make project grants for public-use airports; and (2) limit the liability of air carriers to third parties for claims arising out of acts of terrorism.</summary>
+</bill>

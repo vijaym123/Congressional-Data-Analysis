@@ -1,0 +1,82 @@
+<bill session="110" type="hc" number="225" updated="2013-07-19T22:10:43-04:00">
+  <state datetime="2007-10-16T19:02:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-10-16T19:02:00-04:00"/>
+  </status>
+  <introduced datetime="2007-10-03"/>
+  <titles>
+    <title as="introduced" type="official">Honoring the 50th anniversary of the dawn of the Space Age, and the ensuing 50 years of productive and peaceful space activities.</title>
+  </titles>
+  <sponsor id="400155"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2007-10-16"/>
+    <cosponsor id="400131" joined="2007-10-03"/>
+    <cosponsor id="400662" joined="2007-10-16"/>
+    <cosponsor id="400144" joined="2007-10-16"/>
+    <cosponsor id="412188" joined="2007-10-16"/>
+    <cosponsor id="400165" joined="2007-10-03"/>
+    <cosponsor id="400204" joined="2007-10-16"/>
+    <cosponsor id="400229" joined="2007-10-03"/>
+    <cosponsor id="400365" joined="2007-10-16"/>
+    <cosponsor id="400370" joined="2007-10-16"/>
+    <cosponsor id="400412" joined="2007-10-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2007-10-03">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E2059"/>
+    </action>
+    <action state="REFERRED" datetime="2007-10-03">
+      <text>Referred to the House Committee on Science and Technology.</text>
+    </action>
+    <action datetime="2007-10-16T18:52:00-04:00">
+      <text>Mr. Lampson moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2007-10-16T18:52:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11612-11614" label="consideration"/>
+    </action>
+    <action datetime="2007-10-16T18:52:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 225.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-10-16T19:02:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H11612" label="text"/>
+    </vote>
+    <action datetime="2007-10-16T19:02:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-10-17">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2007-10-18">
+      <text>Referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2007-10-30">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Commerce, Science, and Transportation"/>
+    </calendar>
+    <action datetime="2007-11-02">
+      <text>Committee on Commerce, Science, and Transportation. Reported by Senator Inouye without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="2007-11-02" calendar="Senate Legislative" under="General Orders" number="469">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 469.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science and Technology" activity="Referral"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Congressional tributes"/>
+    <term name="Space activities"/>
+    <term name="Space exploration"/>
+    <term name="Space programs"/>
+  </subjects>
+  <amendments/>
+  <summary>11/2/2007--Reported to Senate without amendment.
+Honors the 50th anniversary of the dawn of the Space Age. Recognizes the value of investing in America's space program.Declares that it is in America's interest to continue to advance knowledge and improve life on Earth through a sustained national commitment to space exploration led by a new generation of well educated scientists, engineers, and explorers.</summary>
+</bill>

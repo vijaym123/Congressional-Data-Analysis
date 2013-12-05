@@ -1,0 +1,43 @@
+<bill session="109" type="s" number="1137" updated="2013-07-19T20:23:25-04:00">
+  <state datetime="2005-05-26">REFERRED</state>
+  <status>
+    <introduced datetime="2005-05-26"/>
+  </status>
+  <introduced datetime="2005-05-26"/>
+  <titles>
+    <title as="introduced" type="official">A bill to include dehydroepiandrosterone as an anabolic steroid.</title>
+  </titles>
+  <sponsor id="300048"/>
+  <cosponsors>
+    <cosponsor id="300004" joined="2005-05-26"/>
+    <cosponsor id="300038" joined="2005-09-08"/>
+    <cosponsor id="300062" joined="2005-06-20"/>
+    <cosponsor id="300071" joined="2005-05-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-05-26">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S6030-6031"/>
+    </action>
+    <action state="REFERRED" datetime="2005-05-26">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S6031" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="3937"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Drug abuse"/>
+    <term name="Drug traffic"/>
+    <term name="Sports and recreation"/>
+    <term name="Steroids"/>
+  </subjects>
+  <amendments/>
+  <summary>5/26/2005--Introduced.
+Amends the Controlled Substances Act to include dehydroepiandrosterone (DHEA) within the definition of "anabolic steroid."</summary>
+</bill>

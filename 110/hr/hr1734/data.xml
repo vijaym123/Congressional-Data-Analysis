@@ -1,0 +1,80 @@
+<bill session="110" type="h" number="1734" updated="2013-07-19T21:18:58-04:00">
+  <state datetime="2008-06-03T15:08:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-06-03T15:08:00-04:00"/>
+  </status>
+  <introduced datetime="2007-03-28"/>
+  <titles>
+    <title as="introduced" type="official">To designate the facility of the United States Postal Service located at 630 Northeast Killingsworth Avenue in Portland, Oregon, as the "Dr. Martin Luther King, Jr. Post Office".</title>
+  </titles>
+  <sponsor id="400033"/>
+  <cosponsors>
+    <cosponsor id="400100" joined="2007-03-28"/>
+    <cosponsor id="400186" joined="2007-03-28"/>
+    <cosponsor id="400437" joined="2007-03-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2007-03-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E683"/>
+    </action>
+    <action state="REFERRED" datetime="2007-03-28">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2008-04-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-04-09">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2008-06-03T14:54:00-04:00">
+      <text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2008-06-03T14:54:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4842-4844" label="consideration"/>
+    </action>
+    <action datetime="2008-06-03T14:55:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1734.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-06-03T15:08:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H4843" label="text"/>
+    </vote>
+    <action datetime="2008-06-03T15:08:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-06-04">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2008-06-19">
+      <text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSGA09" subcommittee="Federal Financial Management, Government Information, Federal Services, and International Security" name="Senate Homeland Security and Governmental Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Blacks"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Civil rights workers"/>
+    <term name="Clergy"/>
+    <term name="Congressional tributes"/>
+    <term name="Government operations and politics"/>
+    <term name="Minorities"/>
+    <term name="Names"/>
+    <term name="Oregon"/>
+    <term name="Postal facilities"/>
+    <term name="Religion"/>
+  </subjects>
+  <amendments/>
+  <summary>3/28/2007--Introduced.
+Designates the facility of the United States Postal Service located at 630 Northeast Killingsworth Avenue in Portland, Oregon, as the "Dr. Martin Luther King, Jr. Post Office."</summary>
+</bill>

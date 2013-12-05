@@ -1,0 +1,112 @@
+<bill session="109" type="s" number="2832" updated="2013-07-19T20:38:12-04:00">
+  <state datetime="2006-09-21T16:10:00-04:00">PROV_KILL:SUSPENSIONFAILED</state>
+  <status>
+    <unknown datetime="2006-09-21T16:10:00-04:00"/>
+  </status>
+  <introduced datetime="2006-05-18"/>
+  <titles>
+    <title as="introduced" type="short">Appalachian Regional Development Act Amendments of 2006</title>
+    <title as="reported to senate" type="short">Appalachian Regional Development Act Amendments of 2006</title>
+    <title as="passed senate" type="short">Appalachian Regional Development Act Amendments of 2006</title>
+    <title as="introduced" type="official">A bill to reauthorize and improve the program authorized by the Appalachian Regional Development Act of 1965.</title>
+  </titles>
+  <sponsor id="300098"/>
+  <cosponsors>
+    <cosponsor id="300004" joined="2006-05-18"/>
+    <cosponsor id="400054" joined="2006-05-18"/>
+    <cosponsor id="300022" joined="2006-05-18"/>
+    <cosponsor id="300033" joined="2006-05-18"/>
+    <cosponsor id="300035" joined="2006-05-18"/>
+    <cosponsor id="300069" joined="2006-05-18"/>
+    <cosponsor id="300099" joined="2006-05-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-05-18">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2006-05-23">
+      <text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Environment and Public Works"/>
+    </calendar>
+    <action datetime="2006-07-12">
+      <text>Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 109-279.</text>
+    </action>
+    <calendar datetime="2006-07-12" calendar="Senate Legislative" under="General Orders" number="513">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 513.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2006-07-25" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S8208-8209" label="consideration"/>
+      <reference ref="CR S8208-8209" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2006-07-25T20:19:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-07-25">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-07-25T21:08:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2006-09-20T17:15:00-04:00">
+      <text>Mr. Shuster moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-09-20T17:15:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6800-6805" label="consideration"/>
+      <reference ref="CR H6800-6801" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2006-09-20T17:15:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 2832.</text>
+    </action>
+    <action datetime="2006-09-20T17:41:00-04:00">
+      <text>At the conclusion of debate, a recorded vote was demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2006-09-21T16:02:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6895-6896" label="consideration"/>
+    </action>
+    <vote state="PROV_KILL:SUSPENSIONFAILED" datetime="2006-09-21T16:10:00-04:00" how="roll" result="fail" roll="470" type="vote2" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 215 - 204 (Roll no. 470).</text>
+    </vote>
+    <action datetime="2006-09-21T16:10:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Other Legislative Involvement"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="5812"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appalachia"/>
+    <term name="Appalachian Regional Commission"/>
+    <term name="Authorization"/>
+    <term name="Business education"/>
+    <term name="Commerce"/>
+    <term name="County politics and government"/>
+    <term name="Depressed areas"/>
+    <term name="Entrepreneurs"/>
+    <term name="Federal aid to health facilities"/>
+    <term name="Federal aid to housing"/>
+    <term name="Government lending"/>
+    <term name="Government operations and politics"/>
+    <term name="Grants-in-aid"/>
+    <term name="Health"/>
+    <term name="Housing and community development"/>
+    <term name="Labor and employment"/>
+    <term name="Low-income housing"/>
+    <term name="Moderate income housing"/>
+    <term name="Regional economic development"/>
+    <term name="Rural economic development"/>
+    <term name="Rural health"/>
+    <term name="Rural housing"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>7/25/2006--Passed Senate without amendment.
+Appalachian Regional Development Act Amendments of 2006 - Limits the maximum Appalachian Regional Commission non-highway grant amount for designated at-risk counties to 70%. Directs the Commission to designate as "at-risk counties" those counties in the Appalachian region that are most at risk of becoming economically distressed. Authorizes additional appropriations to the Commission through FY2011 to carry out Appalachian regional development. Extends, for five years, the termination date of the Appalachian Regional Development Act of 1965 (with exceptions for the Appalachian development highway system and certain definitions).</summary>
+</bill>

@@ -1,0 +1,51 @@
+<bill session="110" type="h" number="3627" updated="2013-07-19T21:35:43-04:00">
+  <state datetime="2007-09-20">REFERRED</state>
+  <status>
+    <introduced datetime="2007-09-20"/>
+  </status>
+  <introduced datetime="2007-09-20"/>
+  <titles>
+    <title as="introduced" type="short">Connect The Nation Act</title>
+    <title as="introduced" type="official">To promote the deployment and adoption of telecommunications services and information technologies, and for other purposes.</title>
+  </titles>
+  <sponsor id="412229"/>
+  <cosponsors>
+    <cosponsor id="412224" joined="2007-09-20"/>
+    <cosponsor id="412210" joined="2007-09-20"/>
+    <cosponsor id="412262" joined="2008-06-17"/>
+    <cosponsor id="412206" joined="2007-10-03"/>
+    <cosponsor id="412240" joined="2007-10-24"/>
+    <cosponsor id="400316" joined="2007-10-10"/>
+    <cosponsor id="412228" joined="2007-10-18"/>
+    <cosponsor id="400421" joined="2007-09-27"/>
+    <cosponsor id="412227" joined="2008-01-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-09-20">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2007-09-20">
+      <text>Referred to the Subcommittee on Telecommunications and the Internet.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF16" subcommittee="Telecommunications and the Internet" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="3893"/>
+    <bill relation="unknown" session="110" type="s" number="1190"/>
+    <bill relation="unknown" session="110" type="s" number="1492"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Broadband"/>
+    <term name="Economics and public finance"/>
+    <term name="Grants-in-aid"/>
+    <term name="Internet"/>
+  </subjects>
+  <amendments/>
+  <summary>9/20/2007--Introduced.
+Connect The Nation Act - Provides for grants to develop and implement statewide initiatives to identify and track the availability and adoption of broadband service within each state.</summary>
+</bill>

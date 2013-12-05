@@ -1,0 +1,95 @@
+<bill session="109" type="s" number="1778" updated="2013-07-19T20:28:59-04:00">
+  <state datetime="2005-09-29">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-09-29"/>
+  </status>
+  <introduced datetime="2005-09-27"/>
+  <titles>
+    <title as="introduced" type="short">Medicare Cost-Sharing and Welfare Extension Act of 2005</title>
+    <title as="passed senate" type="short">Medicare Cost-Sharing and Welfare Extension Act of 2005</title>
+    <title as="introduced" type="official">A bill to extend medicare cost-sharing for qualifying individuals through September 2006, to extend the Temporary Assistance for Needy Families Program, transitional medical assistance under the Medicaid Program, and related programs through March 31, 2006, and for other purposes.</title>
+  </titles>
+  <sponsor id="300048"/>
+  <cosponsors>
+    <cosponsor id="300005" joined="2005-09-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-09-27">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S10517-10518"/>
+    </action>
+    <action state="REFERRED" datetime="2005-09-27">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <action datetime="2005-09-29">
+      <text>Senate Committee on Finance discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2005-09-29">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S10696" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2005-09-29" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S10696" label="text"/>
+    </vote>
+    <action datetime="2005-09-29T16:53:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-09-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-09-29">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2005-09-29">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2005-09-29">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2005-10-07">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, Discharged"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="4635"/>
+    <bill relation="unknown" session="109" type="s" number="2119"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Aid to dependent children"/>
+    <term name="American Samoa"/>
+    <term name="Appropriations"/>
+    <term name="Cash welfare block grants"/>
+    <term name="Child welfare"/>
+    <term name="Drugs"/>
+    <term name="Economics and public finance"/>
+    <term name="Evaluation research (Social action programs)"/>
+    <term name="Families"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government operations and politics"/>
+    <term name="Guam"/>
+    <term name="Insurance premiums"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+    <term name="Puerto Rico"/>
+    <term name="Sex"/>
+    <term name="Sex education"/>
+    <term name="Sexual abstinence"/>
+    <term name="Social welfare"/>
+    <term name="Virgin Islands"/>
+    <term name="Welfare waivers"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1894"/>
+  </amendments>
+  <summary>9/29/2005--Passed Senate amended.
+Medicare Cost-Sharing and Welfare Extension Act of 2005 - Amends title XIX (Medicaid) of the Social Security Act (SSA) to extend through September 2006 the program of cost-sharing assistance to qualifying individuals for the Medicare Part B premium (QI program). Sets the total amount available for allocation for the QI program as follows: (1) for the period that begins on October 1, 2005, and ends on December 31, 2005, at $100 million; and (2) for the period that begins on January 1, 2006, and ends on September 30, 2006, at $300 million. Extends through March 31, 2006: (1) the Temporary Assistance for Needy Families Program (TANF) under SSA title IV part A; (2) the separate program for abstinence education; (3) additional grants for Puerto Rico, the Virgin Islands, Guam, and American Samoa; (4) supplemental grants for population increases in certain states; and (5) the Transitional Medical Assistance program under Medicaid. Makes appropriations. Extends the National Random Sample Study of Child Welfare and Child Welfare Waiver Authority through March 31, 2006. Excludes drugs used to treat sexual or erectile dysfunction from coverage as prescription drugs under SSA title XVIII (Medicare), beginning in 2007, except when used to treat another condition, subject to Food and Drug Administration approval. Authorizes states to restrict or exclude such drugs from coverage, with the same exception, under Medicaid.</summary>
+</bill>

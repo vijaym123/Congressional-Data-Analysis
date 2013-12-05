@@ -1,0 +1,54 @@
+<bill session="109" type="h" number="4064" updated="2013-07-19T19:40:17-04:00">
+  <state datetime="2005-10-17">REFERRED</state>
+  <status>
+    <introduced datetime="2005-10-17"/>
+  </status>
+  <introduced datetime="2005-10-17"/>
+  <titles>
+    <title as="introduced" type="official">To provide for the inclusion of Department of Defense property on Santa Rosa and Okaloosa Island, Florida, in the Gulf Islands National Seashore if the property is ever excess to the needs of the Armed Forces.</title>
+  </titles>
+  <sponsor id="400279"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-10-17">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committee on Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2005-10-17">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2005-10-17">
+      <text>Referred to House Resources</text>
+    </action>
+    <action datetime="2005-10-20">
+      <text>Referred to the Subcommittee on National Parks.</text>
+      <committee name="House Resources"/>
+    </action>
+    <action datetime="2005-11-10">
+      <text>Referred to the Subcommittee on Readiness.</text>
+      <committee name="House Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS03" subcommittee="Readiness" name="House Armed Services"/>
+    <committee code="HSII" name="House Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Recreation, and Public Lands" name="House Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="s" number="1933"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Armed forces and national security"/>
+    <term name="Florida"/>
+    <term name="Islands"/>
+    <term name="Land transfers"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Military bases"/>
+    <term name="National seashores"/>
+    <term name="Surplus government property"/>
+  </subjects>
+  <amendments/>
+  <summary>10/17/2005--Introduced.
+Amends federal law establishing the Gulf Islands National Seashore to provide that if any of the federal land on Santa Rosa or Okaloosa Island, Florida, under the jurisdiction of the Department of Defense is ever excess to the needs of the Armed Forces, then the Secretary of Defense shall transfer such land to the Secretary of the Interior for inclusion in the Seashore.</summary>
+</bill>

@@ -1,0 +1,76 @@
+<bill session="109" type="h" number="1077" updated="2013-07-19T19:13:41-04:00">
+  <state datetime="2005-04-06T12:38:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-04-06T12:38:00-04:00"/>
+  </status>
+  <introduced datetime="2005-03-03"/>
+  <titles>
+    <title as="introduced" type="short">Realtime Investor Protection Act</title>
+    <title as="passed house" type="short">Realtime Investor Protection Act</title>
+    <title as="introduced" type="official">To improve the access of investors to regulatory records with respect to securities brokers, dealers, and investment advisers.</title>
+  </titles>
+  <sponsor id="400368"/>
+  <cosponsors>
+    <cosponsor id="400353" joined="2005-03-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-03-03">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2005-04-06T12:28:00-04:00">
+      <text>Mrs. Kelly moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2005-04-06T12:28:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1788-1790" label="consideration"/>
+    </action>
+    <action datetime="2005-04-06T12:28:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1077.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-04-06T12:38:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H1788-1789" label="text as amended"/>
+    </vote>
+    <action datetime="2005-04-06T12:38:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-04-07">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="418"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Actions and defenses"/>
+    <term name="Brokers"/>
+    <term name="Commerce"/>
+    <term name="Consumer education"/>
+    <term name="Data banks"/>
+    <term name="Electronic data interchange"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Grievance procedures"/>
+    <term name="Information disclosure (Securities law)"/>
+    <term name="Investment advisers"/>
+    <term name="Investors"/>
+    <term name="Labor and employment"/>
+    <term name="Law"/>
+    <term name="Liability (Law)"/>
+    <term name="Professional ethics"/>
+    <term name="Science, technology, communications"/>
+    <term name="Securities regulation"/>
+    <term name="Stock exchanges"/>
+    <term name="Telephone"/>
+    <term name="User charges"/>
+  </subjects>
+  <amendments/>
+  <summary>4/6/2005--Passed House amended.
+Realtime Investor Protection Act - Amends the Securities Exchange Act of 1934 to require a registered securities association to: (1) establish and maintain a registration information system on its members and their associated persons; and (2) establish and maintain a toll-free telephone listing, and a readily accessible electronic or other process, to receive and promptly respond to inquiries regarding that information. (Currently such an association is required to maintain a toll-free telephone listing to receive inquiries regarding disciplinary actions involving its members and their associated persons.) Amends the Investment Advisers Act of 1940 to authorize the Securities and Exchange Commission (SEC) to require an investment adviser to: (1) file with the SEC any fee, application, report, or notice required to be filed through any entity designated by the SEC for that purpose; and (2) pay the reasonable costs associated with such filing and the establishment and maintenance of the telephone and electronic systems required by this Act. Directs the SEC to require the designated entity to establish and maintain a toll-free telephone listing, and a readily accessible electronic or other process, to receive and promptly respond to inquiries regarding registration information (including disciplinary actions, regulatory, judicial, and arbitration proceedings, involving investment advisers and persons associated with investment advisers). Requires that such information to include information on an investment adviser (and the persons associated with that adviser) whether the investment adviser is registered with the Commission or regulated solely by a State.</summary>
+</bill>

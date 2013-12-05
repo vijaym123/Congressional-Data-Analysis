@@ -1,0 +1,79 @@
+<bill session="109" type="sc" number="91" updated="2013-07-19T20:13:12-04:00">
+  <state datetime="2006-12-06T14:06:00-05:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2006-12-06T14:06:00-05:00"/>
+  </status>
+  <introduced datetime="2006-05-01"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution expressing the sense of Congress that the President should posthumously award the Presidential Medal of Freedom to Leroy Robert "Satchel" Paige.</title>
+  </titles>
+  <sponsor id="300078"/>
+  <cosponsors>
+    <cosponsor id="300033" joined="2006-05-01"/>
+    <cosponsor id="300082" joined="2006-05-03"/>
+    <cosponsor id="300088" joined="2006-05-01"/>
+    <cosponsor id="300096" joined="2006-05-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2006-05-01">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3806-3807"/>
+    </action>
+    <action state="REFERRED" datetime="2006-05-01">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref=" CR S3806" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2006-05-02">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S3917-3918" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2006-05-02" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S3917-3918" label="text of measure as passed Senate"/>
+    </vote>
+    <action datetime="2006-05-02T21:52:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-05-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-05-02T22:17:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2006-05-03">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2006-12-06T14:01:00-05:00">
+      <text>Mr. LaTourette moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2006-12-06T14:02:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR 12/7/2006 H8800-8801" label="consideration"/>
+    </action>
+    <action datetime="2006-12-06T14:02:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 91.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2006-12-06T14:06:00-05:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR 12/7/2006 H8800-8801" label="text"/>
+    </vote>
+    <action datetime="2006-12-06T14:06:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+    <committee code="HSGO" name="House Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Athletes"/>
+    <term name="Awards, medals, prizes"/>
+    <term name="Baseball"/>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>12/6/2006--Passed House without amendment.
+Urges the President to award the Presidential Medal of Freedom posthumously to Leroy "Satchel" Paige (the first Negro League player to be inducted into the Major League Baseball Hall of Fame) in honor of his distinguished baseball career and contributions to society.</summary>
+</bill>

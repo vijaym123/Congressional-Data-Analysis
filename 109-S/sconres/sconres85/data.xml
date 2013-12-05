@@ -1,0 +1,56 @@
+<bill session="109" type="sc" number="85" updated="2013-07-19T20:13:09-04:00">
+  <state datetime="2006-04-06">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2006-04-06"/>
+  </status>
+  <introduced datetime="2006-04-04"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution honoring and congratulating the Minnesota National Guard, on its 150th anniversary, for its spirit of dedication and service to the State of Minnesota and the Nation and recognizing that the role of the National Guard, the Nation's citizen-soldier based militia, which was formed before the United States Army, has been and still is extremely important to the security and freedom of the Nation.</title>
+  </titles>
+  <sponsor id="300024"/>
+  <cosponsors>
+    <cosponsor id="300032" joined="2006-04-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-04-04">
+      <text>Referred to the Committee on Armed Services.</text>
+      <reference ref="CR S2807" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2006-04-06">
+      <text>Senate Committee on Armed Services discharged by Unanimous Consent.</text>
+      <reference ref="CR S3344-3345" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2006-04-06" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S3344-3345" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2006-04-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-04-25T14:23:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-04-25T19:06:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="hc" number="371"/>
+    <bill relation="unknown" session="109" type="hc" number="371"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Armed forces and national security"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Minnesota"/>
+    <term name="National Guard"/>
+  </subjects>
+  <amendments/>
+  <summary>4/6/2006--Passed Senate without amendment.
+Honors and congratulates the Minnesota National Guard on its 150th anniversary for its dedication and service to the state of Minnesota and the nation. Recognizes that the role of the National Guard has been and still is extremely important to the nation's security and freedom.</summary>
+</bill>

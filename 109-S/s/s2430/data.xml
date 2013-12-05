@@ -1,0 +1,146 @@
+<bill session="109" type="s" number="2430" updated="2013-07-19T20:34:35-04:00">
+  <state datetime="2006-10-11">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2006-10-11"/>
+  </status>
+  <introduced datetime="2006-03-16"/>
+  <titles>
+    <title as="introduced" type="short">Great Lakes Fish and Wildlife Restoration Act of 2006</title>
+    <title as="passed house" type="short">Great Lakes Fish and Wildlife Restoration Act of 2006</title>
+    <title as="reported to senate" type="short">Great Lakes Fish and Wildlife Restoration Act of 2006</title>
+    <title as="passed senate" type="short">Great Lakes Fish and Wildlife Restoration Act of 2006</title>
+    <title as="enacted" type="short">Great Lakes Fish and Wildlife Restoration Act of 2006</title>
+    <title as="introduced" type="official">A bill to amend the Great Lakes Fish and Wildlife Restoration Act of 1990 to provide for implementation of recommendations of the United States Fish and Wildlife Service contained in the Great Lakes Fishery Resources Restoration Study.</title>
+  </titles>
+  <sponsor id="300033"/>
+  <cosponsors>
+    <cosponsor id="300066" joined="2006-03-16"/>
+    <cosponsor id="300093" joined="2006-05-19"/>
+    <cosponsor id="300098" joined="2006-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2006-03-16">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2321"/>
+    </action>
+    <action state="REFERRED" datetime="2006-03-16">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <reference ref=" CR S2321-2323" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-05-23">
+      <text>Committee on Environment and Public Works. Ordered to be reported with an amendment favorably.</text>
+      <committee name="Committee on Environment and Public Works"/>
+    </calendar>
+    <action datetime="2006-06-27">
+      <text>Committee on Environment and Public Works. Reported by Senator Inhofe with an amendment in the nature of a substitute. With written report No. 109-270.</text>
+    </action>
+    <calendar datetime="2006-06-27" calendar="Senate Legislative" under="General Orders" number="497">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 497.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2006-07-11" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S7358-7359" label="consideration"/>
+      <reference ref="CR S7358-7359" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2006-07-12T10:03:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-07-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-07-12">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2006-07-21">
+      <text>Referred to the Subcommittee on Fisheries and Oceans.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-07-21">
+      <text>Executive Comment Requested from Interior.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-09-14">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-09-27T23:22:00-04:00">
+      <text>Mr. Gohmert moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2006-09-27T23:22:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7659-7661" label="consideration"/>
+    </action>
+    <action datetime="2006-09-27T23:23:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 2430.</text>
+    </action>
+    <vote state="PASS_BACK:HOUSE" datetime="2006-09-27T23:29:00-04:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7659-7660" label="text"/>
+    </vote>
+    <action datetime="2006-09-27T23:30:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-09-28">
+      <text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2006-09-30" how="by Unanimous Consent" result="pass" type="pingpong" where="s">
+      <text>Senate agreed to House amendment by Unanimous Consent.</text>
+      <reference ref="CR 9/29/2006 S10791-10793" label="consideration"/>
+      <reference ref=" CR 9/29/2006 S10791-10793" label="text as Senate agreed to House amendment"/>
+    </vote>
+    <topresident datetime="2006-09-30">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2006-10-03">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2006-10-11">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2006-10-11" type="public" number="109-326">
+      <text>Became Public Law No: 109-326.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+    <committee code="HSII" name="House Resources" activity="Referral"/>
+    <committee activity="Referral, Hearings" code="HSII15" subcommittee="Fisheries Conservation, Wildlife, and Oceans" name="House Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="4953"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Animals"/>
+    <term name="Aquatic ecology"/>
+    <term name="Aquatic pests"/>
+    <term name="Authorization"/>
+    <term name="Birds"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Department of the Interior"/>
+    <term name="Ecological research"/>
+    <term name="Economics and public finance"/>
+    <term name="Environmental protection"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Federal-state relations"/>
+    <term name="Fishery management"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Government publicity"/>
+    <term name="Great Lakes"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Minorities"/>
+    <term name="Names"/>
+    <term name="Native Americans"/>
+    <term name="Pest control"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Regional planning"/>
+    <term name="Restoration ecology"/>
+    <term name="Wildlife conservation"/>
+  </subjects>
+  <amendments/>
+  <summary>10/11/2006--Public Law.
+Great Lakes Fish and Wildlife Restoration Act of 2006 - Reauthorizes the Great Lakes Fish and Wildlife Restoration Act of 1990. (Sec. 4) Requires the Director of the U.S. Fish and Wildlife Service (FWS) to encourage and implement fish and wildlife restoration proposals and regional projects if funding is available. Defines "regional projects" as authorized activities of FWS related to fish and wildlife resource protection, restoration, maintenance, and enhancement impacting multiple states or Indian tribes with fish and wildlife management authority in the Great Lakes basin. Requires proposals or regional projects to be consistent with: (1) the goals of the Great Lakes Water Quality Agreement, as amended; (2) the 1954 Great Lakes Fisheries Convention; (3) the 1980 Joint Strategic Plan for Management of Great Lakes Fisheries, and Fish Community Objectives for each Great Lake and connecting water as established under the Joint Strategic Plan; (4) the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990; (5) the North American Waterfowl Management Plan and joint ventures established under the plan; and (6) the strategies outlined through the Great Lakes Regional Collaboration authorized under Executive Order 13340. Reauthorizes provisions concerning the Great Lakes Fishery Commission's retention of authority and responsibility for the formulation and implementation of a comprehensive program for eradicating or minimizing sea lamprey populations in the Great Lakes Basin. Requires the Great Lakes Fish and Wildlife Restoration Proposal Review Committee to operate under the guidance of FWS (currently, under the guidance of the Council of Lake Committees of the Great Lakes Fishery Commission) and revises Committee membership requirements. Requires the Committee to meet annually. (Sec. 5) Revises the goals of FWS programs related to the Great Lakes fish and wildlife resources to include restoring and maintaining self-sustaining fish and wildlife resources. (Sec. 6) Requires the Great Lakes Coordination Office to: (1) ensure that information acquired under such Act is made available to the public; and (2) report to the FWS Director of Region Three, Great Lakes Big Rivers. Includes within the responsibilities of the Lower Great Lakes Fishery Resources Office and the Upper Great Lakes Fishery Resources Offices FWS operational activities related to fishery resource protection, restoration, maintenance, and enhancement in the offices' respective regions. (Sec. 7) Requires the Director to: (1) submit a report to Congress no later than December 31, 2011, that describes actions taken to solicit and review proposals, the results of the implemented proposals, and progress toward the accomplishment of the Act's goals; (2) make available through a public website of the Department information concerning the proposals, progress, proposed funding priorities, and actions taken in support of the recommendations of the Great Lakes Regional Collaboration for FY2007-FY2012; and (3) submit to Congress no later than June 30, 2007, the 2002 report required under the Great Lakes Fish and Wildlife Restoration Act of 1990. (Sec. 8) Requires the Director to continue to monitor the status and the assessment, management, and restoration needs of the Great Lakes Basin's fish and wildlife resources. Authorizes the Director to reassess and update the findings and recommendations of the Great Lakes Fishery Resources Restoration Study. (Sec. 9) Authorizes appropriations for FY2007-FY2012 for: (1) the implementation of fish and wildlife restoration proposals; and (2) the activities of the Great Lakes Coordination Office in East Lansing, Michigan, the Upper Great Lakes Fishery Resources Office, and the Lower Great Lakes Fishery Resources Office.</summary>
+</bill>

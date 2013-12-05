@@ -1,0 +1,87 @@
+<bill session="110" type="hr" number="375" updated="2013-07-19T20:53:51-04:00">
+  <state datetime="2007-07-16T16:27:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2007-07-16T16:27:00-04:00"/>
+  </status>
+  <introduced datetime="2007-05-03"/>
+  <titles>
+    <title as="introduced" type="official">Honoring United Parcel Service and its 100 years of commitment and leadership in the United States.</title>
+  </titles>
+  <sponsor id="400627"/>
+  <cosponsors>
+    <cosponsor id="400628" joined="2007-05-03"/>
+    <cosponsor id="400030" joined="2007-05-03"/>
+    <cosponsor id="400049" joined="2007-06-22"/>
+    <cosponsor id="400099" joined="2007-05-03"/>
+    <cosponsor id="400151" joined="2007-05-03"/>
+    <cosponsor id="412199" joined="2007-05-03"/>
+    <cosponsor id="400221" joined="2007-05-03"/>
+    <cosponsor id="400240" joined="2007-05-03"/>
+    <cosponsor id="400242" joined="2007-05-03"/>
+    <cosponsor id="400626" joined="2007-05-03"/>
+    <cosponsor id="400363" joined="2007-05-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-05-03">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2007-05-04">
+      <text>Referred to the Subcommittee on Aviation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2007-05-04">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2007-06-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-06-28">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2007-07-13T16:23:00-04:00">
+      <text>Reported (Amended) by the Committee on Transportation. H. Rept. 110-233.</text>
+    </action>
+    <calendar datetime="2007-07-13T16:23:00-04:00" calendar="House" number="87">
+      <text>Placed on the House Calendar, Calendar No. 87.</text>
+    </calendar>
+    <action datetime="2007-07-16T16:20:00-04:00">
+      <text>Ms. Johnson, E. B. moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2007-07-16T16:21:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7812-7814" label="consideration"/>
+    </action>
+    <action datetime="2007-07-16T16:21:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 375.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2007-07-16T16:27:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7812-7813" label="text"/>
+    </vote>
+    <action datetime="2007-07-16T16:27:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Commerce"/>
+    <term name="Common carriers"/>
+    <term name="Congressional tributes"/>
+    <term name="Corporations"/>
+    <term name="Freight"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>7/16/2007--Passed House amended.
+Recognizes United Parcel Service's role in the global transportation system as the world's largest package delivery company. Celebrates its 100th anniversary.</summary>
+</bill>

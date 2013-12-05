@@ -1,0 +1,47 @@
+<bill session="109" type="hc" number="351" updated="2013-07-19T20:05:11-04:00">
+  <state datetime="2006-03-02">REFERRED</state>
+  <status>
+    <introduced datetime="2006-03-02"/>
+  </status>
+  <introduced datetime="2006-03-02"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing and honoring the 150th anniversary of the founding of the Sigma Alpha Epsilon Fraternity.</title>
+  </titles>
+  <sponsor id="400618"/>
+  <cosponsors>
+    <cosponsor id="400150" joined="2006-03-02"/>
+    <cosponsor id="400180" joined="2006-03-02"/>
+    <cosponsor id="400334" joined="2006-03-02"/>
+    <cosponsor id="400368" joined="2006-03-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-03-02">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2006-05-01">
+      <text>Referred to the Subcommittee on 21st Century Competitiveness.</text>
+      <committee name="House Committee on Education and the Workforce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED13" subcommittee="21st Century Competitiveness" name="House Education and the Workforce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="hr" number="711"/>
+    <bill relation="identical" session="109" type="sc" number="81"/>
+    <bill relation="identical" session="109" type="sr" number="389"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Education"/>
+    <term name="Fraternal organizations"/>
+    <term name="Higher education"/>
+  </subjects>
+  <amendments/>
+  <summary>3/2/2006--Introduced.
+Recognizes the 150th anniversary of the founding of the Sigma Alpha Epsilon Fraternity.</summary>
+</bill>

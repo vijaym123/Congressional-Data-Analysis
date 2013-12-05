@@ -1,0 +1,80 @@
+<bill session="110" type="hr" number="487" updated="2013-07-19T20:54:48-04:00">
+  <state datetime="2007-07-16T16:08:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2007-07-16T16:08:00-04:00"/>
+  </status>
+  <introduced datetime="2007-06-14"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the contribution of modeling and simulation technology to the security and prosperity of the United States, and recognizing modeling and simulation as a National Critical Technology.</title>
+  </titles>
+  <sponsor id="400137"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2007-06-27"/>
+    <cosponsor id="400655" joined="2007-06-14"/>
+    <cosponsor id="400095" joined="2007-06-14"/>
+    <cosponsor id="400098" joined="2007-06-14"/>
+    <cosponsor id="400658" joined="2007-06-14"/>
+    <cosponsor id="400131" joined="2007-06-14"/>
+    <cosponsor id="400212" joined="2007-06-14"/>
+    <cosponsor id="400302" joined="2007-06-14"/>
+    <cosponsor id="400364" joined="2007-07-16"/>
+    <cosponsor id="400434" joined="2007-06-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-06-14">
+      <text>Referred to the House Committee on Science and Technology.</text>
+    </action>
+    <action datetime="2007-06-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Science and Technology"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-06-22">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Science and Technology"/>
+    </calendar>
+    <action datetime="2007-07-16T15:58:00-04:00">
+      <text>Mr. Gordon moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2007-07-16T15:59:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7807-7811" label="consideration"/>
+    </action>
+    <action datetime="2007-07-16T15:59:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 487.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2007-07-16T16:08:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H7807-7808" label="text"/>
+    </vote>
+    <action datetime="2007-07-16T16:08:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science and Technology" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Computer simulation"/>
+    <term name="Congressional tributes"/>
+    <term name="Economic research"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Elementary education"/>
+    <term name="Engineering"/>
+    <term name="Federal employees"/>
+    <term name="Government operations and politics"/>
+    <term name="Higher education"/>
+    <term name="Intellectual property"/>
+    <term name="Mathematics"/>
+    <term name="Science, technology, communications"/>
+    <term name="Scientific education"/>
+    <term name="Secondary education"/>
+    <term name="Technical education"/>
+  </subjects>
+  <amendments/>
+  <summary>7/16/2007--Passed House without amendment.
+Commends members of the modeling and simulation community in government, industry, and academia who have contributed to the modeling and simulation efforts that have developed essential characteristics of our nation and recognizes modeling and simulation as a national critical technology.</summary>
+</bill>

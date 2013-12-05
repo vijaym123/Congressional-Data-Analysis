@@ -1,0 +1,54 @@
+<bill session="109" type="s" number="442" updated="2013-07-19T20:17:12-04:00">
+  <state datetime="2005-07-26">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-07-26"/>
+  </status>
+  <introduced datetime="2005-02-17"/>
+  <titles>
+    <title type="popular">Presidential Succession bill</title>
+    <title as="introduced" type="official">A bill to provide for the Secretary of Homeland Security to be included in the line of Presidential succession.</title>
+  </titles>
+  <sponsor id="300033"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-02-17">
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+    <action datetime="2005-07-26">
+      <text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text>
+      <reference ref="CR S9057" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2005-07-26" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S9057" label="text"/>
+    </vote>
+    <action datetime="2005-07-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-07-27T20:14:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-07-27">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2005-09-19">
+      <text>Referred to the Subcommittee on the Constitution.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Discharged"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Cabinet officers"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Presidential succession"/>
+  </subjects>
+  <amendments/>
+  <summary>7/26/2005--Passed Senate without amendment.
+Includes the Secretary of Homeland Security in the line of presidential succession after the Attorney General.</summary>
+</bill>

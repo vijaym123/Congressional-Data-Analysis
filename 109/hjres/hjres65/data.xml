@@ -1,0 +1,97 @@
+<bill session="109" type="hj" number="65" updated="2013-07-19T20:01:50-04:00">
+  <state datetime="2005-10-27T13:08:00-04:00">FAIL:ORIGINATING:HOUSE</state>
+  <status>
+    <unknown datetime="2005-10-27T13:08:00-04:00"/>
+  </status>
+  <introduced datetime="2005-09-20"/>
+  <titles>
+    <title type="popular">BRAC resolution</title>
+    <title as="introduced" type="official">Disapproving the recommendations of the Defense Base Closure and Realignment Commission.</title>
+  </titles>
+  <sponsor id="400228"/>
+  <cosponsors>
+    <cosponsor id="400001" joined="2005-09-27"/>
+    <cosponsor id="400628" joined="2005-09-22"/>
+    <cosponsor id="400126" joined="2005-09-22"/>
+    <cosponsor id="400646" joined="2005-09-27"/>
+    <cosponsor id="400160" joined="2005-09-22"/>
+    <cosponsor id="400184" joined="2005-09-22"/>
+    <cosponsor id="400308" joined="2005-09-22"/>
+    <cosponsor id="400363" joined="2005-09-27"/>
+    <cosponsor id="400380" joined="2005-09-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-09-20">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2005-09-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-09-27">
+      <text>Ordered to be Reported Adversely by the Yeas and Nays: 43 - 14.</text>
+      <committee name="House Committee on Armed Services"/>
+    </calendar>
+    <action datetime="2005-09-29T19:13:00-04:00">
+      <text>Reported adversely by the Committee on Armed Services. H. Rept. 109-243.</text>
+    </action>
+    <calendar datetime="2005-09-29T19:17:00-04:00" calendar="Union" number="132">
+      <text>Placed on the Union Calendar, Calendar No. 132.</text>
+    </calendar>
+    <action datetime="2005-10-05">
+      <text>Referred to the Subcommittee on Readiness.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+    <action datetime="2005-10-27T10:54:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H9289-9293, H9293-9309" label="consideration"/>
+      <reference ref="CR H9308" label="text of measure as reported in House"/>
+    </action>
+    <action datetime="2005-10-27T10:54:00-04:00">
+      <text>Mr. Hunter moved to resolve into the Committee of the Whole House on the state of the Union.</text>
+    </action>
+    <action datetime="2005-10-27T10:54:00-04:00">
+      <text>On motion to resolve into Committee of the Whole House on the state of the Union Agreed to by voice vote.</text>
+    </action>
+    <action datetime="2005-10-27T10:54:00-04:00">
+      <text>The Speaker designated the Honorable Phil Gingrey to act as Chairman of the Committee.</text>
+    </action>
+    <action datetime="2005-10-27T10:55:00-04:00">
+      <text>GENERAL DEBATE - The Committee of the Whole proceeded with two hours of general debate on H.J. Res. 65.</text>
+    </action>
+    <action datetime="2005-10-27T11:23:00-04:00">
+      <text>The Committee of the Whole rose informally.</text>
+    </action>
+    <action datetime="2005-10-27T11:24:00-04:00">
+      <text>The Committee of the Whole resumed its sitting and continued with general debate on H.J. Res. 65.</text>
+    </action>
+    <action datetime="2005-10-27T12:43:00-04:00">
+      <text>The House rose from the Committee of the Whole House on the state of the Union to report H.J. Res. 65.</text>
+    </action>
+    <action datetime="2005-10-27T13:08:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="FAIL:ORIGINATING:HOUSE" datetime="2005-10-27T13:08:00-04:00" how="roll" result="fail" roll="548" type="vote" where="h">
+      <text>On passage Failed by recorded vote: 85 - 324, 1 Present (Roll no. 548).</text>
+      <reference ref="CR H9309" label="consideration"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSAS03" subcommittee="Readiness" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="hj" number="64"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congress"/>
+    <term name="Congress and military policy"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional veto"/>
+    <term name="Military base closures"/>
+  </subjects>
+  <amendments/>
+  <summary>9/29/2005--Reported to House without amendment.
+Disapproves the recommendations of the Defense Base Closure and Realignment Commission as submitted by the President on September 15, 2005.</summary>
+</bill>

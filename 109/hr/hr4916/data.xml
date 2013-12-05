@@ -1,0 +1,80 @@
+<bill session="109" type="h" number="4916" updated="2013-07-19T19:47:39-04:00">
+  <state datetime="2006-04-25T15:38:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-04-25T15:38:00-04:00"/>
+  </status>
+  <introduced datetime="2006-03-09"/>
+  <titles>
+    <title as="introduced" type="official">To authorize United States participation in, and appropriations for, the United States contribution to the first replenishment of the resources of the Enterprise for the Americas Multilateral Investment Fund.</title>
+  </titles>
+  <sponsor id="400327"/>
+  <cosponsors>
+    <cosponsor id="400027" joined="2006-03-09"/>
+    <cosponsor id="400140" joined="2006-03-09"/>
+    <cosponsor id="400251" joined="2006-03-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-03-09">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2006-03-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-03-15">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Financial Services"/>
+    </calendar>
+    <action datetime="2006-04-04T12:36:00-04:00">
+      <text>Reported by the Committee on Financial Services. H. Rept. 109-403.</text>
+    </action>
+    <calendar datetime="2006-04-04T12:37:00-04:00" calendar="Union" number="221">
+      <text>Placed on the Union Calendar, Calendar No. 221.</text>
+    </calendar>
+    <action datetime="2006-04-25T15:21:00-04:00">
+      <text>Ms. Pryce (OH) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-04-25T15:21:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1698-1700" label="consideration"/>
+    </action>
+    <action datetime="2006-04-25T15:21:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4916.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-04-25T15:38:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H1698" label="text"/>
+    </vote>
+    <action datetime="2006-04-25T15:38:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-04-26">
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup, Reporting"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Appropriations"/>
+    <term name="Authorization"/>
+    <term name="Caribbean area"/>
+    <term name="Commerce"/>
+    <term name="Department of the Treasury"/>
+    <term name="Developing countries"/>
+    <term name="Development credit institutions"/>
+    <term name="Economic assistance"/>
+    <term name="Economics and public finance"/>
+    <term name="Foreign loans"/>
+    <term name="Government operations and politics"/>
+    <term name="International affairs"/>
+    <term name="Latin America"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>4/25/2006--Passed House without amendment.
+Amends the Inter-American Development Bank Act to authorize the Secretary of the Treasury to contribute a specified amount, subject to appropriations, on behalf of the United States to the first replenishment of the resources of the Enterprise for the Americas Multilateral Investment Fund. Authorizes appropriations for such contribution without fiscal year limitation.</summary>
+</bill>

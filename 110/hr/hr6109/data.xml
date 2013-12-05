@@ -1,0 +1,76 @@
+<bill session="110" type="h" number="6109" updated="2013-07-19T21:57:16-04:00">
+  <state datetime="2008-06-23T16:10:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-06-23T16:10:00-04:00"/>
+  </status>
+  <introduced datetime="2008-05-21"/>
+  <titles>
+    <title as="introduced" type="short">Pre-Disaster Mitigation Act of 2008</title>
+    <title as="reported to house" type="short">Pre-Disaster Mitigation Act of 2008</title>
+    <title as="passed house" type="short">Pre-Disaster Mitigation Act of 2008</title>
+    <title as="introduced" type="official">To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to reauthorize the pre-disaster hazard mitigation program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400299"/>
+  <cosponsors>
+    <cosponsor id="400158" joined="2008-05-21"/>
+    <cosponsor id="400273" joined="2008-05-21"/>
+    <cosponsor id="400295" joined="2008-05-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-05-21">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2008-05-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-05-22">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2008-06-19T19:21:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 110-725.</text>
+    </action>
+    <calendar datetime="2008-06-19T19:21:00-04:00" calendar="Union" number="460">
+      <text>Placed on the Union Calendar, Calendar No. 460.</text>
+    </calendar>
+    <action datetime="2008-06-23T15:48:00-04:00">
+      <text>Ms. Norton moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2008-06-23T15:49:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5816-5818" label="consideration"/>
+    </action>
+    <action datetime="2008-06-23T15:49:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6109.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-06-23T16:10:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5816" label="text"/>
+    </vote>
+    <action datetime="2008-06-23T16:10:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-06-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="3175"/>
+    <bill relation="unknown" session="110" type="s" number="3175"/>
+    <bill relation="unknown" session="110" type="s" number="3175"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Authorization"/>
+    <term name="Disaster relief"/>
+    <term name="Economics and public finance"/>
+  </subjects>
+  <amendments/>
+  <summary>6/23/2008--Passed House amended.
+Pre-Disaster Mitigation Act of 2008 - Amends the Robert T. Stafford Disaster Relief and Emergency Assistance Act to: (1) increase the amount guaranteed to each state under the pre-disaster mitigation program; (2) require other financial assistance under the program to be awarded on a competitive basis; and (3) authorize appropriations for the program through FY2011.</summary>
+</bill>

@@ -1,0 +1,137 @@
+<bill session="109" type="h" number="975" updated="2013-07-19T19:12:48-04:00">
+  <state datetime="2005-12-13T15:11:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-12-13T15:11:00-05:00"/>
+  </status>
+  <introduced datetime="2005-02-17"/>
+  <titles>
+    <title as="introduced" type="short">TRAIL Act</title>
+    <title as="introduced" type="short">Trail Responsibility and Accountability for the Improvement of Lands Act</title>
+    <title as="passed house" type="short">TRAIL Act</title>
+    <title as="passed house" type="short">Trail Responsibility and Accountability for the Improvement of Lands Act</title>
+    <title as="introduced" type="official">To provide consistent enforcement authority to the Bureau of Land Management, the National Park Service, the United States Fish and Wildlife Service, and the Forest Service to respond to violations of regulations regarding the management, use, and protection of public lands under the jurisdiction of these agencies, and for other purposes.</title>
+  </titles>
+  <sponsor id="400394"/>
+  <cosponsors>
+    <cosponsor id="400020" joined="2005-02-17"/>
+    <cosponsor id="400057" joined="2005-03-08"/>
+    <cosponsor id="400101" joined="2005-03-08"/>
+    <cosponsor id="400174" joined="2005-02-17"/>
+    <cosponsor id="400255" joined="2005-04-12"/>
+    <cosponsor id="400287" joined="2005-02-17"/>
+    <cosponsor id="400305" joined="2005-02-17"/>
+    <cosponsor id="400376" joined="2005-03-08"/>
+    <cosponsor id="400412" joined="2005-02-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-02-17">
+      <text>Referred to the Committee on Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2005-02-17">
+      <text>Referred to House Resources</text>
+    </action>
+    <action datetime="2005-02-17">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2005-02-28">
+      <text>Referred to the Subcommittee on Forests and Forest Health.</text>
+      <committee name="House Resources"/>
+    </action>
+    <action datetime="2005-02-28">
+      <text>Referred to the Subcommittee on National Parks.</text>
+      <committee name="House Resources"/>
+    </action>
+    <action datetime="2005-02-28">
+      <text>Referred to the Subcommittee on Fisheries and Oceans.</text>
+      <committee name="House Resources"/>
+    </action>
+    <action datetime="2005-03-16">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Resources"/>
+    </action>
+    <action datetime="2005-03-16">
+      <text>Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry.</text>
+      <committee name="House Agriculture"/>
+    </action>
+    <action datetime="2005-05-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-05-18">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Resources"/>
+    </calendar>
+    <action datetime="2005-05-18">
+      <text>Subcommittee on Forests and Forest Health Discharged.</text>
+      <committee name="House Resources"/>
+    </action>
+    <action datetime="2005-05-18">
+      <text>Subcommittee on National Parks Discharged.</text>
+      <committee name="House Resources"/>
+    </action>
+    <action datetime="2005-05-18">
+      <text>Subcommittee on Fisheries and Oceans Discharged.</text>
+      <committee name="House Resources"/>
+    </action>
+    <action datetime="2005-06-14T18:11:00-04:00">
+      <text>Reported by the Committee on Resources. H. Rept. 109-128, Part I.</text>
+    </action>
+    <action datetime="2005-06-14T18:12:00-04:00">
+      <text>Committee on Agriculture discharged.</text>
+    </action>
+    <calendar datetime="2005-06-14T18:12:00-04:00" calendar="Union" number="73">
+      <text>Placed on the Union Calendar, Calendar No. 73.</text>
+    </calendar>
+    <action datetime="2005-12-13T15:08:00-05:00">
+      <text>Mrs. Drake moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2005-12-13T15:08:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11443-11444" label="consideration"/>
+    </action>
+    <action datetime="2005-12-13T15:08:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 975.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-12-13T15:11:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H11443-11444" label="text"/>
+    </vote>
+    <action datetime="2005-12-13T15:11:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-12-14">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII20" subcommittee="Forests and Forest Health" name="House Resources"/>
+    <committee activity="Referral, Discharged" code="HSII10" subcommittee="National Parks, Recreation, and Public Lands" name="House Resources"/>
+    <committee activity="Referral, Discharged" code="HSII15" subcommittee="Fisheries Conservation, Wildlife, and Oceans" name="House Resources"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSAG22" subcommittee="Department Operations, Oversight, Dairy, Nutrition, and Forestry" name="House Agriculture"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Animals"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Emergency management"/>
+    <term name="Environmental law enforcement"/>
+    <term name="Environmental protection"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Fire prevention"/>
+    <term name="Forest fires"/>
+    <term name="Law"/>
+    <term name="Legal fees"/>
+    <term name="Liability for environmental damages"/>
+    <term name="National forests"/>
+    <term name="National parks"/>
+    <term name="Negligence"/>
+    <term name="Wildlife refuges"/>
+  </subjects>
+  <amendments/>
+  <summary>12/13/2005--Passed House amended.
+Trail Responsibility and Accountability for the Improvement of Lands Act or TRAIL Act - Amends the Federal Land Policy and Management Act of 1976, the National Park Service Organic Act, the National Wildlife Refuge System Administration Act of 1966, and other federal law to provide that: (1) any person who knowingly violates or fails to comply with any of the provisions of such an Act or any regulation issued under such an Act concerning the management, use, and protection of Bureau of Land Management (BLM) lands, National Park System lands, National Wildlife Refuge lands, and National Forest lands shall be guilty of a Class A misdemeanor, subject to fine and/or imprisonment as provided under federal criminal law; and (2) any person who otherwise violates or fails to comply with any of the provisions of such an Act or any regulation issued under such an Act concerning the management, use, and protection of such lands shall be guilty of a Class B misdemeanor, subject to fine and/or imprisonment as provided under federal criminal law. Permits requiring persons adjudged guilty of a: (1) Class B misdemeanor on BLM or National Park System lands to pay all costs of the proceedings; and (2) a Class A or Class B misdemeanor on National Wildlife Refuge or National Forest lands to pay all costs of the proceedings. Amends the Federal Land Policy and Management Act of 1976, the National Park Service Organic Act, and other federal law to set a minimum fine of $500 for certain fire usage violations on BLM, National Park System, and National Forest lands.</summary>
+</bill>

@@ -1,0 +1,105 @@
+<bill session="110" type="h" number="1045" updated="2013-07-19T21:12:52-04:00">
+  <state datetime="2007-12-26">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2007-12-26"/>
+  </status>
+  <introduced datetime="2007-02-14"/>
+  <titles>
+    <title as="introduced" type="official">To designate the Federal building located at 210 Walnut Street in Des Moines, Iowa, as the "Neal Smith Federal Building".</title>
+  </titles>
+  <sponsor id="400042"/>
+  <cosponsors>
+    <cosponsor id="412208" joined="2007-02-28"/>
+    <cosponsor id="400234" joined="2007-02-28"/>
+    <cosponsor id="412209" joined="2007-02-28"/>
+    <cosponsor id="400334" joined="2007-02-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-02-14">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2007-02-15">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2007-03-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-03-01">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2007-03-12T19:26:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 110-46.</text>
+    </action>
+    <calendar datetime="2007-03-12T19:26:00-04:00" calendar="House" number="24">
+      <text>Placed on the House Calendar, Calendar No. 24.</text>
+    </calendar>
+    <action datetime="2007-03-13T14:00:00-04:00">
+      <text>Mr. Boswell moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-03-13T14:00:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2460-2461" label="consideration"/>
+    </action>
+    <action datetime="2007-03-13T14:00:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1045.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-03-13T14:06:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2460" label="text"/>
+    </vote>
+    <action datetime="2007-03-13T14:06:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-03-14">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="2007-12-19">
+      <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.</text>
+      <reference ref="CR S16055" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2007-12-19" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <topresident datetime="2007-12-19">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2007-12-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2007-12-20">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2007-12-26">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2007-12-26" type="public" number="110-158">
+      <text>Became Public Law No: 110-158.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="862"/>
+    <bill relation="unknown" session="110" type="s" number="862"/>
+    <bill relation="unknown" session="110" type="s" number="862"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Ex-Members of Congress"/>
+    <term name="Federal office buildings"/>
+    <term name="House of Representatives"/>
+    <term name="Iowa"/>
+    <term name="Names"/>
+  </subjects>
+  <amendments/>
+  <summary>12/26/2007--Public Law.
+Designates the federal building located at 210 Walnut Street in Des Moines, Iowa, as the "Neal Smith Federal Building."</summary>
+</bill>

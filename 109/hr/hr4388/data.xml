@@ -1,0 +1,104 @@
+<bill session="109" type="h" number="4388" updated="2013-07-19T19:43:05-04:00">
+  <state datetime="2005-12-07T17:26:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-12-07T17:26:00-05:00"/>
+  </status>
+  <introduced datetime="2005-11-18"/>
+  <titles>
+    <title as="introduced" type="short">Tax Revision Act of 2005</title>
+    <title as="passed house" type="short">Tax Revision Act of 2005</title>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to extend certain expiring provisions, and for other purposes.</title>
+  </titles>
+  <sponsor id="400401"/>
+  <cosponsors>
+    <cosponsor id="400369" joined="2005-12-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-11-18">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2005-12-07T14:26:00-05:00">
+      <text>Mr. McCrery moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2005-12-07T14:26:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11150-11152" label="consideration"/>
+    </action>
+    <action datetime="2005-12-07T14:26:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4388.</text>
+    </action>
+    <action datetime="2005-12-07T14:46:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2005-12-07T17:18:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H11181-11182" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-12-07T17:26:00-05:00" how="roll" result="pass" roll="617" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 617).</text>
+      <reference ref="CR H11150" label="text"/>
+    </vote>
+    <action datetime="2005-12-07T17:26:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-12-12">
+      <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2005-12-13" calendar="Senate Legislative" under="General Orders" number="327">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 327.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="4297"/>
+    <bill relation="unknown" session="109" type="h" number="4297"/>
+    <bill relation="unknown" session="109" type="h" number="4323"/>
+    <bill relation="unknown" session="109" type="s" number="2020"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Agriculture and food"/>
+    <term name="Alcohol tax"/>
+    <term name="Armed forces and national security"/>
+    <term name="Caribbean area"/>
+    <term name="Collection of accounts"/>
+    <term name="Commerce"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Earned income tax credit"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Exports"/>
+    <term name="Federal-territorial relations"/>
+    <term name="Finance and financial sector"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Free trade"/>
+    <term name="Government operations and politics"/>
+    <term name="Higher education"/>
+    <term name="Imports"/>
+    <term name="Income tax"/>
+    <term name="Intergovernmental tax relations"/>
+    <term name="International affairs"/>
+    <term name="Latin America"/>
+    <term name="Military pay"/>
+    <term name="Puerto Rico"/>
+    <term name="Revenue sharing"/>
+    <term name="Social welfare"/>
+    <term name="Student loan funds"/>
+    <term name="Tariff preferences"/>
+    <term name="Tax administration"/>
+    <term name="Tax deductions"/>
+    <term name="Tax returns"/>
+    <term name="Terrorism"/>
+    <term name="Trade agreements"/>
+    <term name="Undercover operations"/>
+    <term name="Valuation"/>
+    <term name="Virgin Islands"/>
+  </subjects>
+  <amendments>
+    <amendment number="s5222"/>
+  </amendments>
+  <summary>12/7/2005--Passed House amended.
+Tax Revision Act of 2005 - Amends the Internal Revenue Code to extend through 2006: (1) the taxpayer election to include combat zone compensation as earned income for purposes of computing the earned income tax credit; (2) the increased cover over (payment) to the Treasuries of Puerto Rico and the Virgin Islands of distilled spirit excise tax revenues; (3) the authority for certain Internal Revenue Service (IRS) undercover investigative operations; and (4) the authority for disclosure of tax return information for combined employment tax reporting, for combating terrorist activities, and for student loan repayment. Allows, through 2006, the tax deduction for income attributable to domestic production activities for taxpayers with income from sources in Puerto Rico. Amends the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act (CAFTA-DR) to revise formulae for determining the regional value-content of certain import/export goods.</summary>
+</bill>

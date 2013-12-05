@@ -1,0 +1,131 @@
+<bill session="109" type="hc" number="357" updated="2013-07-19T20:05:14-04:00">
+  <state datetime="2006-05-24">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2006-05-24"/>
+  </status>
+  <introduced datetime="2006-03-14"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals and ideals of National Cystic Fibrosis Awareness Month.</title>
+  </titles>
+  <sponsor id="400388"/>
+  <cosponsors>
+    <cosponsor id="400011" joined="2006-03-16"/>
+    <cosponsor id="400019" joined="2006-03-14"/>
+    <cosponsor id="400032" joined="2006-03-14"/>
+    <cosponsor id="400039" joined="2006-03-14"/>
+    <cosponsor id="400041" joined="2006-03-14"/>
+    <cosponsor id="400050" joined="2006-03-29"/>
+    <cosponsor id="400080" joined="2006-03-14"/>
+    <cosponsor id="400095" joined="2006-03-14"/>
+    <cosponsor id="400102" joined="2006-03-28"/>
+    <cosponsor id="400109" joined="2006-03-16"/>
+    <cosponsor id="400658" joined="2006-03-14"/>
+    <cosponsor id="400154" joined="2006-03-16"/>
+    <cosponsor id="400155" joined="2006-03-28"/>
+    <cosponsor id="400162" joined="2006-03-14"/>
+    <cosponsor id="400201" joined="2006-03-14"/>
+    <cosponsor id="400204" joined="2006-03-14"/>
+    <cosponsor id="400215" joined="2006-03-28"/>
+    <cosponsor id="400216" joined="2006-03-14"/>
+    <cosponsor id="400240" joined="2006-03-14"/>
+    <cosponsor id="400253" joined="2006-03-14"/>
+    <cosponsor id="400260" joined="2006-03-14"/>
+    <cosponsor id="400262" joined="2006-04-25"/>
+    <cosponsor id="400263" joined="2006-03-14"/>
+    <cosponsor id="400268" joined="2006-03-14"/>
+    <cosponsor id="400307" joined="2006-03-14"/>
+    <cosponsor id="400308" joined="2006-03-14"/>
+    <cosponsor id="400326" joined="2006-03-30"/>
+    <cosponsor id="400330" joined="2006-03-14"/>
+    <cosponsor id="400409" joined="2006-03-14"/>
+    <cosponsor id="400414" joined="2006-03-14"/>
+    <cosponsor id="400415" joined="2006-03-14"/>
+    <cosponsor id="400425" joined="2006-03-14"/>
+    <cosponsor id="400430" joined="2006-03-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-03-14">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2006-03-17">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2006-03-29">
+      <text>Subcommittee on Health Discharged.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2006-03-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-03-29">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2006-04-25T14:56:00-04:00">
+      <text>Mr. Stearns moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2006-04-25T14:57:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1695-1696" label="consideration"/>
+    </action>
+    <action datetime="2006-04-25T14:57:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 357.</text>
+    </action>
+    <action datetime="2006-04-25T15:11:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2006-04-27T15:41:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H1877" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-04-27T15:42:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR 4/25/2006 H1695" label="text"/>
+    </vote>
+    <action datetime="2006-04-27T15:42:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-05-01">
+      <text>Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+    <action datetime="2006-05-24">
+      <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+      <reference ref="CR S5134" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2006-05-24" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2006-05-25">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="sr" number="115"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Access to health care"/>
+    <term name="Commerce"/>
+    <term name="Cystic fibrosis"/>
+    <term name="Government operations and politics"/>
+    <term name="Health"/>
+    <term name="Health education"/>
+    <term name="Medical research"/>
+    <term name="Medical tests"/>
+    <term name="Public-private partnerships"/>
+    <term name="Quality of care"/>
+    <term name="Quality of life"/>
+    <term name="Science, technology, communications"/>
+    <term name="Special months"/>
+  </subjects>
+  <amendments/>
+  <summary>5/24/2006--Passed Senate without amendment.
+Honors the goals and ideals of National Cystic Fibrosis Awareness Month. Expresses support for research to find a cure for cystic fibrosis by fostering an enhanced research program through a strong federal commitment and expanded public-private partnerships.</summary>
+</bill>

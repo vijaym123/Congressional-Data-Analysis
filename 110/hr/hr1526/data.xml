@@ -1,0 +1,128 @@
+<bill session="110" type="h" number="1526" updated="2013-07-19T21:17:01-04:00">
+  <state datetime="2007-07-23T12:33:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-07-23T12:33:00-04:00"/>
+  </status>
+  <introduced datetime="2007-03-14"/>
+  <titles>
+    <title as="introduced" type="short">Bay Area Regional Water Recycling Program Authorization Act of 2007</title>
+    <title as="passed house" type="short">Bay Area Regional Water Recycling Program Authorization Act of 2007</title>
+    <title as="introduced" type="official">To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Bay Area Regional Water Recycling Program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400278"/>
+  <cosponsors>
+    <cosponsor id="400124" joined="2007-03-14"/>
+    <cosponsor id="400185" joined="2007-03-14"/>
+    <cosponsor id="400231" joined="2007-03-14"/>
+    <cosponsor id="400245" joined="2007-03-14"/>
+    <cosponsor id="412189" joined="2007-03-14"/>
+    <cosponsor id="400387" joined="2007-03-14"/>
+    <cosponsor id="400396" joined="2007-03-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2007-03-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E539"/>
+    </action>
+    <action state="REFERRED" datetime="2007-03-14">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-03-19">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-05-24">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-06-12">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-06-12">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Unanimous Consent .</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-06-28">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2007-06-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-07-23T12:00:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-252.</text>
+    </action>
+    <calendar datetime="2007-07-23T12:01:00-04:00" calendar="Union" number="161">
+      <text>Placed on the Union Calendar, Calendar No. 161.</text>
+    </calendar>
+    <action datetime="2007-07-23T12:29:00-04:00">
+      <text>Mr. Grijalva moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-07-23T12:29:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8196-8197" label="consideration"/>
+    </action>
+    <action datetime="2007-07-23T12:29:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1526.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-07-23T12:33:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H8196-8197" label="text as passed in House"/>
+    </vote>
+    <action datetime="2007-07-23T12:34:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-07-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2007-08-01">
+      <text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2008-01-30">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2008-04-10">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-322.</text>
+    </action>
+    <calendar datetime="2008-04-10" calendar="Senate Legislative" under="General Orders" number="674">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 674.</text>
+    </calendar>
+    <action datetime="2008-06-11">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+      <reference ref="CR S5530" label="consideration"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG07" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="1475"/>
+    <bill relation="unknown" session="110" type="s" number="1475"/>
+    <bill relation="unknown" session="110" type="s" number="2739"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Agriculture and food"/>
+    <term name="California"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to water resources development"/>
+    <term name="Infrastructure"/>
+    <term name="Irrigation"/>
+    <term name="Pipelines"/>
+    <term name="Transportation and public works"/>
+    <term name="Water conservation"/>
+    <term name="Water districts"/>
+    <term name="Water supply"/>
+    <term name="Water treatment plants"/>
+  </subjects>
+  <amendments/>
+  <summary>7/23/2007--Passed House amended.
+Bay Area Regional Water Recycling Program Authorization Act of 2007 - Amends the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Secretary of the Interior to participate in the design, planning, and construction of recycled water projects in cooperation with: (1) Palo Alto and Mountain View, California; (2) Pittsburg, California, and the Delta Diablo Sanitation District; (3) Antioch, California, and the Delta Diablo Sanitation District; (4) the North Coast County Water District; (5) Redwood City, California; (6) the South County Regional Wastewater Authority and the Santa Clara Valley Water District; and (7) San Jose, California, and the Santa Clara Valley Water District. Limits the federal share of each project's cost to 25%. Prohibits the Secretary from providing funds for operation and maintenance. Authorizes appropriations.Expresses the intent of Congress that a comprehensive water recycling program for the San Francisco Bay Area include the San Jose Area water reclamation and reuse program authorized by the Reclamation Projects Authorization and Adjustment Act of 1992.</summary>
+</bill>

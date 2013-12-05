@@ -1,0 +1,55 @@
+<bill session="110" type="s" number="2354" updated="2013-07-19T22:41:23-04:00">
+  <state datetime="2008-09-11">REPORTED</state>
+  <status>
+    <unknown datetime="2008-09-11"/>
+  </status>
+  <introduced datetime="2007-11-14"/>
+  <titles>
+    <title as="introduced" type="official">A bill to direct the Secretary of the Interior to convey 4 parcels of land from the Bureau of Land Management to the city of Twin Falls, Idaho.</title>
+  </titles>
+  <sponsor id="300030"/>
+  <cosponsors>
+    <cosponsor id="300029" joined="2007-11-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-11-14">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2008-07-16">
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held. With printed Hearing: S.Hrg. 110-603.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-09-11">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2008-09-16">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. Without written report.</text>
+    </action>
+    <calendar datetime="2008-09-16" calendar="Senate Legislative" under="General Orders" number="981">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 981.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG03" subcommittee="Public Lands and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="h" number="4184"/>
+    <bill relation="unknown" session="110" type="h" number="4184"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Agricultural conservation"/>
+    <term name="Agriculture and food"/>
+    <term name="Animals"/>
+    <term name="Environmental protection"/>
+    <term name="Habitat conservation"/>
+    <term name="Idaho"/>
+    <term name="Land transfers"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments/>
+  <summary>9/16/2008--Reported to Senate amended.
+Directs the Secretary of the Interior, acting through the Bureau of Land Management (BLM) to convey four specified parcels of land in Twin Falls, Idaho, to the city of Twin Falls for use to support public purposes of the Auger Falls Project, including a limited agricultural exemption to allow for water quality and wildlife habitat improvements. Prohibits the use of the conveyed land for residential or commercial purposes, except for the limited agricultural exemption described above. Authorizes the Secretary to require additional terms and conditions as considered appropriate to protect U.S. interests. Requires, if, the conveyed land is no longer used in accordance with this Act: (1) such land shall revert to the United States, at the discretion of the Secretary; and (2) if the Secretary chooses to have such land revert, and if it is environmentally contaminated, the city or any other person responsible for the contamination to remediate such contamination. Requires the city to pay all survey and other administrative costs.</summary>
+</bill>

@@ -1,0 +1,84 @@
+<bill session="109" type="s" number="207" updated="2013-07-19T20:15:14-04:00">
+  <state datetime="2005-07-26">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-07-26"/>
+  </status>
+  <introduced datetime="2005-01-31"/>
+  <titles>
+    <title as="introduced" type="short">Jean Lafitte National Historical Park and Preserve Boundary Adjustment Act of 2005</title>
+    <title as="reported to senate" type="short">Jean Lafitte National Historical Park and Preserve Boundary Adjustment Act of 2005</title>
+    <title as="passed senate" type="short">Jean Lafitte National Historical Park and Preserve Boundary Adjustment Act of 2005</title>
+    <title as="introduced" type="official">A bill to adjust the boundary of the Barataria Preserve Unit of the Jean Lafitte National Historical Park and Preserve in the State of Louisiana, and for other purposes.</title>
+  </titles>
+  <sponsor id="300063"/>
+  <cosponsors>
+    <cosponsor id="400418" joined="2005-01-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-01-31">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S654-655"/>
+    </action>
+    <action state="REFERRED" datetime="2005-01-31">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <reference ref="CR S655" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-02-09">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2005-03-09">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-25.</text>
+    </action>
+    <calendar datetime="2005-03-09" calendar="Senate Legislative" under="General Orders" number="37">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 37.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2005-07-26" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S9018-9052" label="consideration"/>
+      <reference ref="CR S9029" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-07-27T10:33:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-07-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-07-27">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-08-02">
+      <text>Referred to the Subcommittee on National Parks.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee code="HSII" name="House Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Recreation, and Public Lands" name="House Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="1515"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Animals"/>
+    <term name="Boundaries"/>
+    <term name="Commemorations"/>
+    <term name="Environmental protection"/>
+    <term name="Fishing"/>
+    <term name="History"/>
+    <term name="Hunting"/>
+    <term name="Land transfers"/>
+    <term name="Louisiana"/>
+    <term name="Military parks"/>
+    <term name="Natural areas"/>
+    <term name="Sports and recreation"/>
+    <term name="Trapping"/>
+    <term name="Water resources development"/>
+    <term name="Wetlands"/>
+  </subjects>
+  <amendments/>
+  <summary>7/26/2005--Passed Senate without amendment.
+Jean Lafitte National Historical Park and Preserve Boundary Adjustment Act of 2005 - Amends the National Parks and Recreation Act of 1978 to: (1) adjust the boundary of the Barataria Preserve Unit of Jean Lafitte National Historical Park and Preserve in Louisiana by increasing the acreage limitation; and (2) authorize the Secretary of the Interior to acquire any such additional land, water, and interests in land and water by donation, purchase, transfer from any other federal agency, or exchange. Requires, with respect to the Bayou aux Carpes Addition and the CIT Tract Addition, any federal land acquired in such Additions to be transferred without consideration to the administrative jurisdiction of the National Park Service. Permits the acquisition of any private land in those Additions only with the owner's consent. Subjects any federal land in the CIT Tract Addition to any easements that have been agreed to by the Secretary and the Secretary of the Army. Modifies and/or eliminates certain provisions related to the acquisition of property within the Unit. Permits hunting, fishing, and trapping within the Unit. (Current law excludes such activities within the core area of the Unit and on certain lands acquired by the Secretary within the Unit.) Continues to provide for the designation of zones where, and established periods when, no hunting, fishing, or trapping shall be permitted except for public safety reasons.</summary>
+</bill>

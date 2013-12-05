@@ -1,0 +1,48 @@
+<bill session="109" type="h" number="4825" updated="2013-07-19T19:46:53-04:00">
+  <state datetime="2006-03-01">REFERRED</state>
+  <status>
+    <introduced datetime="2006-03-01"/>
+  </status>
+  <introduced datetime="2006-03-01"/>
+  <titles>
+    <title as="introduced" type="short">Nuclear Release Notice Act of 2006</title>
+    <title as="introduced" type="official">To amend the Atomic Energy Act of 1954 to require a licensee to notify the State, county, and public in which a facility is located whenever there is an unplanned release of fission products in excess of allowable limits.</title>
+  </titles>
+  <sponsor id="400429"/>
+  <cosponsors>
+    <cosponsor id="400122" joined="2006-05-23"/>
+    <cosponsor id="400246" joined="2006-05-23"/>
+    <cosponsor id="400360" joined="2006-05-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-03-01">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2006-03-17">
+      <text>Referred to the Subcommittee on Energy and Air Quality.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Air Quality" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="s" number="2348"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Environmental protection"/>
+    <term name="Fissionable materials"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Law"/>
+    <term name="Licenses"/>
+    <term name="Nuclear facilities"/>
+    <term name="Radiation"/>
+    <term name="Radioactive pollution"/>
+  </subjects>
+  <amendments/>
+  <summary>3/1/2006--Introduced.
+Nuclear Release Notice Act of 2006 - Amends the Atomic Energy Act of 1954 to condition the issuance of a license for a utilization facility on a requirement that, in the event of any unplanned release of either fission products or other radioactive substances, the licensee immediately notify the Nuclear Regulatory Commission and the state and county in which the facility is located.</summary>
+</bill>

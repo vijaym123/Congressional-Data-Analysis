@@ -1,0 +1,103 @@
+<bill session="109" type="h" number="4659" updated="2013-07-19T19:44:07-04:00">
+  <state datetime="2006-02-03">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2006-02-03"/>
+  </status>
+  <introduced datetime="2006-01-31"/>
+  <titles>
+    <title type="popular">PATRIOT Act Extension bill</title>
+    <title as="introduced" type="official">To amend the USA PATRIOT ACT to extend the sunset of certain provisions of such Act.</title>
+  </titles>
+  <sponsor id="400365"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2006-01-31">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2006-01-31">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2006-01-31">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="2006-02-01T15:55:00-05:00">
+      <text>Mr. Sensenbrenner moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-02-01T15:56:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H60-67" label="consideration"/>
+    </action>
+    <action datetime="2006-02-01T15:56:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4659.</text>
+    </action>
+    <action datetime="2006-02-01T16:29:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2006-02-01T17:08:00-05:00">
+      <text>VACATING DEMAND FOR YEAS AND NAYS - Mr. Sensenbrenner asked unanimous consent that the demand for the Yeas and Nays on the adoption of the motion to suspend the rules and pass H.R. 4659 be vacated to the end that the Chair put the question de novo. Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-02-01T17:12:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H114" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-02-01T17:13:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2006-02-01T17:13:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <reference ref="CR H60" label="text"/>
+    </action>
+    <action datetime="2006-02-01">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2006-02-02">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S502-503" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2006-02-02" how="roll" result="pass" roll="11" type="vote2" where="s">
+      <text>Passed Senate without amendment by Yea-Nay Vote. 95 - 1. Record Vote Number: 11.</text>
+    </vote>
+    <topresident datetime="2006-02-02">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2006-02-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2006-02-03">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2006-02-03">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2006-02-03" type="public" number="109-170">
+      <text>Became Public Law No: 109-170.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="4506"/>
+    <bill relation="unknown" session="109" type="h" number="4647"/>
+    <bill relation="unknown" session="109" type="s" number="2082"/>
+    <bill relation="unknown" session="109" type="s" number="2118"/>
+    <bill relation="unknown" session="109" type="s" number="2167"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Armed forces and national security"/>
+    <term name="Congress"/>
+    <term name="Electronic surveillance"/>
+    <term name="Foreign agents"/>
+    <term name="International affairs"/>
+    <term name="Law"/>
+    <term name="Sunset legislation"/>
+    <term name="Terrorism"/>
+    <term name="Warrants (Law)"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/2006--Public Law.
+Amends the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001 to extend from February 3, 2006, to March 10, 2006, provisions of that Act and the "lone wolf" provision of the Intelligence Reform and Terrorism Prevention Act of 2004. (The lone wolf provision redefined "agent of a foreign power" to permit issuance of Foreign Intelligence Surveillance Act of 1978 (FISA) orders targeting terrorists without a showing that they are members of a terrorist group or agents of such a group or of any other foreign power.)</summary>
+</bill>

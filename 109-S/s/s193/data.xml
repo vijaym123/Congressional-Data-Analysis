@@ -1,0 +1,132 @@
+<bill session="109" type="s" number="193" updated="2013-07-19T20:15:07-04:00">
+  <state datetime="2006-06-15">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2006-06-15"/>
+  </status>
+  <introduced datetime="2005-01-26"/>
+  <titles>
+    <title type="popular">FCC Indeceny Penalties bill</title>
+    <title as="introduced" type="short">Broadcast Decency Enforcement Act of 2005</title>
+    <title as="enacted" type="short">Broadcast Decency Enforcement Act of 2005</title>
+    <title as="introduced" type="official">A bill to increase the penalties for violations by television and radio broadcasters of the prohibitions against transmission of obscene, indecent, and profane language.</title>
+  </titles>
+  <sponsor id="300013"/>
+  <cosponsors>
+    <cosponsor id="300004" joined="2005-01-26"/>
+    <cosponsor id="300016" joined="2005-02-17"/>
+    <cosponsor id="400576" joined="2005-02-09"/>
+    <cosponsor id="300026" joined="2005-02-07"/>
+    <cosponsor id="400105" joined="2005-01-26"/>
+    <cosponsor id="300035" joined="2005-01-26"/>
+    <cosponsor id="300037" joined="2005-02-02"/>
+    <cosponsor id="300040" joined="2005-01-26"/>
+    <cosponsor id="300041" joined="2005-01-26"/>
+    <cosponsor id="300047" joined="2005-01-26"/>
+    <cosponsor id="300048" joined="2005-01-26"/>
+    <cosponsor id="300050" joined="2005-01-26"/>
+    <cosponsor id="300052" joined="2005-02-01"/>
+    <cosponsor id="300055" joined="2005-01-26"/>
+    <cosponsor id="300058" joined="2005-04-11"/>
+    <cosponsor id="300062" joined="2005-01-26"/>
+    <cosponsor id="300067" joined="2005-01-26"/>
+    <cosponsor id="300068" joined="2005-01-26"/>
+    <cosponsor id="300069" joined="2005-01-26"/>
+    <cosponsor id="400621" joined="2005-01-26"/>
+    <cosponsor id="300071" joined="2005-01-26"/>
+    <cosponsor id="300080" joined="2005-01-26"/>
+    <cosponsor id="300083" joined="2005-01-26"/>
+    <cosponsor id="300085" joined="2005-01-26"/>
+    <cosponsor id="300088" joined="2005-01-26"/>
+    <cosponsor id="300097" joined="2005-01-26"/>
+    <cosponsor id="400546" joined="2005-01-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-01-26">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <action datetime="2006-05-18">
+      <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2006-05-18" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4816" label="consideration"/>
+      <reference ref="CR S4816" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2006-05-19T09:40:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-05-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-05-19">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2006-06-05">
+      <text>Referred to the Subcommittee on Telecommunications and the Internet.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2006-06-06T20:19:00-04:00">
+      <text>Mr. Upton moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-06-06T20:19:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3388-3391" label="consideration"/>
+    </action>
+    <action datetime="2006-06-06T20:19:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 193.</text>
+    </action>
+    <action datetime="2006-06-06T20:38:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2006-06-07T17:01:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3466-3467" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2006-06-07T17:09:00-04:00" how="roll" result="pass" roll="230" type="vote2" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 379 - 35 (Roll no. 230).</text>
+      <reference ref="CR 6/06/2006 H3388" label="text"/>
+    </vote>
+    <action datetime="2006-06-07T17:09:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2006-06-07">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2006-06-08">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2006-06-15">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2006-06-15" type="public" number="109-235">
+      <text>Became Public Law No: 109-235.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Discharged"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF16" subcommittee="Telecommunications and the Internet" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="310"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Federal Communications Commission"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Government operations and politics"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Law"/>
+    <term name="Licenses"/>
+    <term name="Pornography"/>
+    <term name="Radio broadcasting"/>
+    <term name="Radio stations"/>
+    <term name="Standards"/>
+    <term name="Television broadcasting"/>
+    <term name="Television stations"/>
+  </subjects>
+  <amendments/>
+  <summary>6/15/2006--Public Law.
+Broadcast Decency Enforcement Act of 2005 - Amends the Communications Act of 1934 to provide that, if the violator of the terms and conditions of any Federal Communications Commission (FCC) license, permit, or certificate is either a broadcast station licensee or permittee or an applicant for a broadcast license, permit, or certificate, and such violator is determined by the FCC to have broadcast obscene, indecent, or profane language, the amount of forfeiture penalty shall not exceed $325,000 for each violation or day of such violation, to a maximum of $3 million for any single act or failure to act.</summary>
+</bill>

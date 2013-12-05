@@ -1,0 +1,53 @@
+<bill session="110" type="h" number="863" updated="2013-07-19T21:11:18-04:00">
+  <state datetime="2007-02-06">REFERRED</state>
+  <status>
+    <introduced datetime="2007-02-06"/>
+  </status>
+  <introduced datetime="2007-02-06"/>
+  <titles>
+    <title as="introduced" type="short">Improving Communications Interoperability Grant Program Act</title>
+    <title as="introduced" type="official">To improve communications interoperability for emergency response.</title>
+  </titles>
+  <sponsor id="400402"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2007-02-06">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2007-02-06">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2007-02-06">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2007-02-07">
+      <text>Referred to the Subcommittee on Telecommunications and the Internet.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2007-02-23">
+      <text>Referred to the Subcommittee on Emergency Communications, Preparedness, and Response.</text>
+      <committee name="House Homeland Security"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF16" subcommittee="Telecommunications and the Internet" name="House Energy and Commerce"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSHM12" subcommittee="Emergency Communications, Preparedness, and Response" name="House Homeland Security"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="338"/>
+    <bill relation="unknown" session="110" type="s" number="338"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Economics and public finance"/>
+    <term name="Emergency communication systems"/>
+    <term name="Grants-in-aid"/>
+    <term name="Regional planning"/>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <summary>2/6/2007--Introduced.
+Improving Communications Interoperability Grant Program Act - Amends the Homeland Security Act of 2002 to direct the Secretary of Homeland Security, through the Director of the Office of Grants and Training, to establish the Improve Communications for Emergency Response Grant Program to make grants to states and regions for initiatives to improve interoperable emergency communications for first responders for domestic preparedness and the collective response to natural disasters, acts of terrorism, and other man-made disasters, including initiatives to achieve solutions to statewide, regional, national, and international interoperability.</summary>
+</bill>

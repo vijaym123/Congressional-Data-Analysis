@@ -1,0 +1,75 @@
+<bill session="109" type="h" number="971" updated="2013-07-19T19:12:44-04:00">
+  <state datetime="2006-09-26T20:22:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-09-26T20:22:00-04:00"/>
+  </status>
+  <introduced datetime="2005-02-17"/>
+  <titles>
+    <title as="introduced" type="official">To extend the deadline for commencement of construction of certain hydroelectric projects in Connecticut, and for other purposes.</title>
+  </titles>
+  <sponsor id="400375"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-02-17">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2005-03-14">
+      <text>Referred to the Subcommittee on Energy and Air Quality.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2006-09-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-09-20">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2006-09-26T18:26:00-04:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 109-683.</text>
+    </action>
+    <calendar datetime="2006-09-26T18:26:00-04:00" calendar="Union" number="413">
+      <text>Placed on the Union Calendar, Calendar No. 413.</text>
+    </calendar>
+    <action datetime="2006-09-26T20:16:00-04:00">
+      <text>Mr. Otter moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-09-26T20:16:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7452-7453" label="consideration"/>
+    </action>
+    <action datetime="2006-09-26T20:16:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 971.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-09-26T20:22:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H7452" label="text"/>
+    </vote>
+    <action datetime="2006-09-26T20:22:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-09-27">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2006-11-13">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Air Quality" name="House Energy and Commerce"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Connecticut"/>
+    <term name="Hydroelectric power"/>
+    <term name="Law"/>
+    <term name="Licenses"/>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+  <summary>9/26/2006--Passed House without amendment.
+Directs the Federal Energy Regulatory Commission to extend through May 30, 2007, the time period during which the licensee is required to commence construction for projects numbered 11547, 10822, and 10823 in the State of Connecticut. Requires the Commission thereafter, upon licensee request, to extend the time period for construction of such project for two consecutive two-year periods. Directs the Commission to reinstate the licenses for such projects effective as of their respective expiration dates. States that the first authorized extension for each such project shall take effect on its expiration date.</summary>
+</bill>

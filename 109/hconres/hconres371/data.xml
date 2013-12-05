@@ -1,0 +1,73 @@
+<bill session="109" type="hc" number="371" updated="2013-07-19T20:05:21-04:00">
+  <state datetime="2006-04-06">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2006-04-06"/>
+  </status>
+  <introduced datetime="2006-03-30"/>
+  <titles>
+    <title as="introduced" type="official">Honoring and congratulating the Minnesota National Guard, on its 150th anniversary, for its spirit of dedication and service to the State of Minnesota and the Nation and recognizing that the role of the National Guard, the Nation's citizen-soldier based militia, which was formed before the United States Army, has been and still is extremely important to the security and freedom of the Nation.</title>
+  </titles>
+  <sponsor id="400214"/>
+  <cosponsors>
+    <cosponsor id="400164" joined="2006-03-30"/>
+    <cosponsor id="400224" joined="2006-03-30"/>
+    <cosponsor id="400259" joined="2006-03-30"/>
+    <cosponsor id="400299" joined="2006-03-30"/>
+    <cosponsor id="400316" joined="2006-04-04"/>
+    <cosponsor id="400332" joined="2006-03-30"/>
+    <cosponsor id="400354" joined="2006-03-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-03-30">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2006-04-05T14:22:00-04:00">
+      <text>Mr. Kline moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2006-04-05T14:22:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1501-1505" label="consideration"/>
+    </action>
+    <action datetime="2006-04-05T14:22:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 371.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-04-05T14:57:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H1501-1502" label="text"/>
+    </vote>
+    <action datetime="2006-04-05T14:58:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2006-04-06" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S3345" label="consideration"/>
+    </vote>
+    <action datetime="2006-04-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-04-17">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="sc" number="85"/>
+    <bill relation="unknown" session="109" type="sc" number="85"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Armed forces and national security"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Minnesota"/>
+    <term name="National Guard"/>
+  </subjects>
+  <amendments/>
+  <summary>4/6/2006--Passed Senate without amendment.
+Honors and congratulates the Minnesota National Guard on its 150th anniversary for its dedication and service to the state of Minnesota and the nation. Recognizes that the role of the National Guard has been and still is extremely important to the nation's security and freedom.</summary>
+</bill>

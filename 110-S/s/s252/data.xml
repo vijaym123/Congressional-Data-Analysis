@@ -1,0 +1,36 @@
+<bill session="110" type="s" number="252" updated="2013-07-19T22:22:30-04:00">
+  <state datetime="2007-01-10">REFERRED</state>
+  <status>
+    <introduced datetime="2007-01-10"/>
+  </status>
+  <introduced datetime="2007-01-10"/>
+  <titles>
+    <title as="introduced" type="official">A bill to repeal the provision of law that provides automatic pay adjustments for Members of Congress.</title>
+  </titles>
+  <sponsor id="300042"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2007-01-10">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S392"/>
+    </action>
+    <action state="REFERRED" datetime="2007-01-10">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <reference ref="CR S392-393" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="953"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional salaries"/>
+    <term name="Cost of living adjustments"/>
+  </subjects>
+  <amendments/>
+  <summary>1/10/2007--Introduced.
+Amends the Legislative Reorganization Act of 1946 to eliminate automatic pay adjustments for Members of Congress.</summary>
+</bill>

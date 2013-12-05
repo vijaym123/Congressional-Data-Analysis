@@ -1,0 +1,57 @@
+<bill session="110" type="sr" number="444" updated="2013-07-19T22:16:52-04:00">
+  <state datetime="2008-02-14">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2008-02-14"/>
+  </status>
+  <introduced datetime="2008-02-06"/>
+  <titles>
+    <title as="introduced" type="official">A resolution expressing the sense of the Senate regarding the strong alliance that has been forged between the United States and the Republic of Korea and congratulating Myung-Bak Lee on his election to the presidency of the Republic of Korea.</title>
+  </titles>
+  <sponsor id="300008"/>
+  <cosponsors>
+    <cosponsor id="300038" joined="2008-02-13"/>
+    <cosponsor id="300050" joined="2008-02-06"/>
+    <cosponsor id="300075" joined="2008-02-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2008-02-06">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S742-743"/>
+    </action>
+    <action state="REFERRED" datetime="2008-02-06">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S742" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2008-02-14">
+      <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2008-02-14">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S1083" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2008-02-14" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.</text>
+      <reference ref="CR S1083" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="hr" number="947"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="East Asia"/>
+    <term name="Foreign leaders"/>
+    <term name="Presidential inaugurations"/>
+    <term name="South Korea"/>
+  </subjects>
+  <amendments>
+    <amendment number="s4084"/>
+  </amendments>
+  <summary>2/14/2008--Passed Senate without amendment.
+Congratulates Lee Myung-Bak on his election to the presidency of the Republic of Korea and wishes him and the Korean people well on his inauguration on February 25, 2008.</summary>
+</bill>

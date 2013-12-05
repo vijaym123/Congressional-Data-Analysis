@@ -1,0 +1,105 @@
+<bill session="109" type="s" number="244" updated="2013-07-19T20:15:32-04:00">
+  <state datetime="2006-10-05">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2006-10-05"/>
+  </status>
+  <introduced datetime="2005-02-01"/>
+  <titles>
+    <title as="introduced" type="official">A bill to extend the deadline for commencement of construction of a hydroelectric project in the State of Wyoming.</title>
+  </titles>
+  <sponsor id="300097"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-02-01">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2005-02-09">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2005-03-10">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-32.</text>
+    </action>
+    <calendar datetime="2005-03-10" calendar="Senate Legislative" under="General Orders" number="45">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 45.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2005-07-26" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S9018-9052" label="consideration"/>
+      <reference ref="CR S9034" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-07-27T10:33:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-07-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-07-27">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2005-08-05">
+      <text>Referred to the Subcommittee on Energy and Air Quality.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2006-09-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar datetime="2006-09-20">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2006-09-26T18:22:00-04:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 109-682.</text>
+    </action>
+    <calendar datetime="2006-09-26T18:23:00-04:00" calendar="Union" number="412">
+      <text>Placed on the Union Calendar, Calendar No. 412.</text>
+    </calendar>
+    <action datetime="2006-09-26T20:09:00-04:00">
+      <text>Mr. Otter moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-09-26T20:10:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7451-7452" label="consideration"/>
+    </action>
+    <action datetime="2006-09-26T20:10:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 244.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2006-09-26T20:12:00-04:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H7451" label="text"/>
+    </vote>
+    <action datetime="2006-09-26T20:13:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2006-09-26">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2006-09-28">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2006-10-05">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2006-10-05" type="public" number="109-298">
+      <text>Became Public Law No: 109-298.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Air Quality" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Hydroelectric power"/>
+    <term name="Law"/>
+    <term name="Licenses"/>
+    <term name="Water resources development"/>
+    <term name="Wyoming"/>
+  </subjects>
+  <amendments/>
+  <summary>10/5/2006--Public Law.
+Authorizes the Federal Energy Regulatory Commission (FERC) to extend, at the request of the project licensee, the deadline for commencement of construction of hydroelectric project number 1651 in Wyoming for three consecutive two-year periods from the expiration of the extension originally issued by the Commission.</summary>
+</bill>

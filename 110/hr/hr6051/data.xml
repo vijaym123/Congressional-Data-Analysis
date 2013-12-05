@@ -1,0 +1,73 @@
+<bill session="110" type="h" number="6051" updated="2013-07-19T21:56:45-04:00">
+  <state datetime="2008-05-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2008-05-18"/>
+  </status>
+  <introduced datetime="2008-05-14"/>
+  <titles>
+    <title as="introduced" type="official">To amend Public Law 110-196 to provide for a temporary extension of programs authorized by the Farm Security and Rural Investment Act of 2002 beyond May 16, 2008.</title>
+  </titles>
+  <sponsor id="400316"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2008-05-14">
+      <text>Referred to the Committee on Agriculture, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2008-05-14">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2008-05-14">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2008-05-14T16:19:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H3823" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-05-14T16:19:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On passage Passed by voice vote.</text>
+      <reference ref="CR H3823" label="text"/>
+    </vote>
+    <action datetime="2008-05-14T16:20:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2008-05-14" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4202" label="consideration"/>
+    </vote>
+    <topresident datetime="2008-05-14">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2008-05-15">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2008-05-15">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2008-05-18">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2008-05-18" type="public" number="110-231">
+      <text>Became Public Law No: 110-231.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="5813"/>
+    <bill relation="unknown" session="110" type="h" number="5813"/>
+    <bill relation="unknown" session="110" type="s" number="2903"/>
+    <bill relation="unknown" session="110" type="s" number="2954"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural credit"/>
+    <term name="Agricultural subsidies"/>
+    <term name="Finance and financial sector"/>
+    <term name="Marketing of farm produce"/>
+  </subjects>
+  <amendments/>
+  <summary>5/18/2008--Public Law.
+Extends, with specified exceptions, agricultural programs under the Farm Security and Rural Investment Act of 2002 until May 23, 2008, or the date of enactment of the Food, Conservation, and Energy Act of 2008. Suspends permanent price support authorities through May 23, 2008, or the date of enactment of the Food, Conservation, and Energy Act of 2008.</summary>
+</bill>

@@ -1,0 +1,60 @@
+<bill session="110" type="h" number="2681" updated="2013-07-19T21:27:12-04:00">
+  <state datetime="2007-06-12">REFERRED</state>
+  <status>
+    <introduced datetime="2007-06-12"/>
+  </status>
+  <introduced datetime="2007-06-12"/>
+  <titles>
+    <title as="introduced" type="official">To provide for the maintenance, management, and availability for research of assets of the Air Force Health Study.</title>
+  </titles>
+  <sponsor id="400048"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2007-06-12">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1270"/>
+    </action>
+    <action state="REFERRED" datetime="2007-06-12">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2007-06-12">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2007-06-12">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2007-06-12">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2007-06-20">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="1421"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Air force"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Health"/>
+    <term name="Health surveys"/>
+    <term name="Medical records"/>
+    <term name="Medical research"/>
+    <term name="Military medicine"/>
+    <term name="Science, technology, communications"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>6/12/2007--Introduced.
+Directs the Medical Follow-Up Agency of the Institute of Medicine of the National Academy of Sciences (Agency) to maintain and manage the assets (including electronic data files and biological specimens of study participants) transferred to the Agency from the Air Force Health Study. Authorizes the Agency, during FY2007-FY2011, to conduct additional research on such assets toward the goal of understanding the determinants of health, and promoting wellness, in veterans. Requires an Agency report to Congress assessing the feasibility and advisability of conducting additional research on such assets after the end of FY2011.</summary>
+</bill>

@@ -1,0 +1,53 @@
+<bill session="109" type="sc" number="77" updated="2013-07-19T20:13:00-04:00">
+  <state datetime="2006-01-31T15:57:00-05:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2006-01-31T15:57:00-05:00"/>
+  </status>
+  <introduced datetime="2006-01-25"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution to provide for a joint session of Congress to receive a message from the President on the State of the Union.</title>
+  </titles>
+  <sponsor id="300045"/>
+  <cosponsors>
+    <cosponsor id="300082" joined="2006-01-25"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2006-01-25" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S141" label="consideration"/>
+      <reference ref="CR S141" label="text as passed Senate"/>
+      <reference ref="CR S141" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2006-01-26">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-01-31T12:04:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-01-31T15:40:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2006-01-31T15:57:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H5, H15-19" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2006-01-31T15:57:00-05:00" how="without objection" result="pass" type="vote2" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H5" label="text"/>
+    </vote>
+    <action datetime="2006-01-31T15:57:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+    <term name="Government operations and politics"/>
+    <term name="Presidential messages"/>
+  </subjects>
+  <amendments/>
+  <summary>1/31/2006--Passed House without amendment.
+Provides for a joint session of Congress on January 31, 2006, to receive a message from the President.</summary>
+</bill>

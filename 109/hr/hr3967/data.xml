@@ -1,0 +1,97 @@
+<bill session="109" type="h" number="3967" updated="2013-07-19T19:39:26-04:00">
+  <state datetime="2006-06-12T14:17:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-06-12T14:17:00-04:00"/>
+  </status>
+  <introduced datetime="2005-10-03"/>
+  <titles>
+    <title as="introduced" type="short">Pactola Reservoir Reallocation Authorization Act of 2005</title>
+    <title as="reported to house" type="short">Pactola Reservoir Reallocation Authorization Act of 2005</title>
+    <title as="passed house" type="short">Pactola Reservoir Reallocation Authorization Act of 2006</title>
+    <title as="introduced" type="official">To authorize the Secretary of the Interior to reallocate costs of the Pactola Dam and Reservoir, South Dakota, to reflect increased demands for municipal, industrial, and fish and wildlife purposes.</title>
+  </titles>
+  <sponsor id="400443"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2005-10-03">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E2005-2006"/>
+    </action>
+    <action state="REFERRED" datetime="2005-10-03">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-10-05">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-11-09">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-03-29">
+      <text>Subcommittee on Water and Power Discharged.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-03-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-03-29">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="2006-04-25T17:42:00-04:00">
+      <text>Reported by the Committee on Resources. H. Rept. 109-431.</text>
+    </action>
+    <calendar datetime="2006-04-25T17:42:00-04:00" calendar="Union" number="239">
+      <text>Placed on the Union Calendar, Calendar No. 239.</text>
+    </calendar>
+    <action datetime="2006-06-12T14:14:00-04:00">
+      <text>Mr. Renzi moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2006-06-12T14:15:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3728-3729" label="consideration"/>
+    </action>
+    <action datetime="2006-06-12T14:15:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3967.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-06-12T14:17:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H3728" label="text"/>
+    </vote>
+    <action datetime="2006-06-12T14:17:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="2006-06-13" calendar="Senate Legislative" under="General Orders" number="468">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 468.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII13" subcommittee="Water and Power" name="House Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="s" number="819"/>
+    <bill relation="unknown" session="109" type="s" number="819"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Agriculture and food"/>
+    <term name="Animals"/>
+    <term name="Construction costs"/>
+    <term name="Dams"/>
+    <term name="Fishery management"/>
+    <term name="Infrastructure"/>
+    <term name="Irrigation"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Reservoirs"/>
+    <term name="South Dakota"/>
+    <term name="Water supply"/>
+    <term name="Wildlife conservation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/12/2006--Passed House amended.
+Pactola Reservoir Reallocation Authorization Act of 2006 - Authorizes the Secretary of the Interior to reallocate, in a manner consistent with specified federal reclamation law, the construction costs of Pactola Dam and Reservoir, Rapid Valley Unit, Pick-Sloan Missouri Basin Program, South Dakota, from irrigation purposes to municipal, industrial, and fish and wildlife purposes.</summary>
+</bill>

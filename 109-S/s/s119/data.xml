@@ -1,0 +1,194 @@
+<bill session="109" type="s" number="119" updated="2013-07-19T20:14:29-04:00">
+  <state datetime="2005-12-22">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-12-22"/>
+  </status>
+  <introduced datetime="2005-01-24"/>
+  <titles>
+    <title as="introduced" type="short">Unaccompanied Alien Child Protection Act of 2005</title>
+    <title as="reported to senate" type="short">Unaccompanied Alien Child Protection Act of 2005</title>
+    <title as="passed senate" type="short">Unaccompanied Alien Child Protection Act of 2005</title>
+    <title as="introduced" type="official">A bill to provide for the protection of unaccompanied alien children, and for other purposes.</title>
+  </titles>
+  <sponsor id="300043"/>
+  <cosponsors>
+    <cosponsor id="300001" joined="2005-02-09"/>
+    <cosponsor id="300009" joined="2005-01-31"/>
+    <cosponsor id="300013" joined="2005-02-03"/>
+    <cosponsor id="300018" joined="2005-01-24"/>
+    <cosponsor id="300020" joined="2005-02-08"/>
+    <cosponsor id="300025" joined="2005-01-24"/>
+    <cosponsor id="300028" joined="2005-07-13"/>
+    <cosponsor id="300033" joined="2005-01-24"/>
+    <cosponsor id="300038" joined="2005-01-24"/>
+    <cosponsor id="300042" joined="2005-01-24"/>
+    <cosponsor id="300050" joined="2005-01-24"/>
+    <cosponsor id="300056" joined="2005-01-24"/>
+    <cosponsor id="300057" joined="2006-09-19"/>
+    <cosponsor id="300059" joined="2005-02-03"/>
+    <cosponsor id="300060" joined="2005-04-21"/>
+    <cosponsor id="300061" joined="2005-04-05"/>
+    <cosponsor id="300063" joined="2005-10-24"/>
+    <cosponsor id="300064" joined="2005-10-25"/>
+    <cosponsor id="300065" joined="2005-04-05"/>
+    <cosponsor id="300067" joined="2005-04-21"/>
+    <cosponsor id="300070" joined="2005-01-31"/>
+    <cosponsor id="300075" joined="2005-02-02"/>
+    <cosponsor id="300076" joined="2005-04-05"/>
+    <cosponsor id="300087" joined="2005-01-24"/>
+    <cosponsor id="300092" joined="2005-02-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-01-24">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S303-304"/>
+    </action>
+    <action state="REFERRED" datetime="2005-01-24">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S304-309" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-04-14">
+      <text>Committee on the Judiciary. Ordered to be reported with an amendment favorably.</text>
+      <committee name="Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2005-04-14">
+      <text>Committee on the Judiciary. Reported by Senator Specter with an amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2005-04-14" calendar="Senate Legislative" under="General Orders" number="74">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 74.</text>
+    </calendar>
+    <action datetime="2005-12-22">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S14408" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2005-12-22" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2005-12-22T16:03:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-12-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-12-22">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2006-02-06">
+      <text>Referred to the Subcommittee on Immigration, Border Security, and Claims.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Border Security, and Claims" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="1172"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Administrative procedure"/>
+    <term name="Administrative remedies"/>
+    <term name="Adoption"/>
+    <term name="Age"/>
+    <term name="Agriculture and food"/>
+    <term name="Aliens"/>
+    <term name="Armed forces and national security"/>
+    <term name="Authorization"/>
+    <term name="Border patrols"/>
+    <term name="Canada"/>
+    <term name="Child abuse"/>
+    <term name="Child health"/>
+    <term name="Child safety"/>
+    <term name="Child sexual abuse"/>
+    <term name="Child welfare"/>
+    <term name="Children's rights"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Congress"/>
+    <term name="Congress and foreign policy"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Correctional institutions"/>
+    <term name="Court records"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal aliens"/>
+    <term name="Criminal investigation"/>
+    <term name="Curricula"/>
+    <term name="Custody of children"/>
+    <term name="Damages"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Deportation"/>
+    <term name="Detention of persons"/>
+    <term name="Diet"/>
+    <term name="Disciplining of employees"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Employee training"/>
+    <term name="Evidence (Law)"/>
+    <term name="Families"/>
+    <term name="Federal employees"/>
+    <term name="Federal law enforcement officers"/>
+    <term name="Finance and financial sector"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Foster home care"/>
+    <term name="Government operations and politics"/>
+    <term name="Government service contracts"/>
+    <term name="Grants-in-aid"/>
+    <term name="Group homes"/>
+    <term name="Guardian and ward"/>
+    <term name="Health"/>
+    <term name="Human rights"/>
+    <term name="Illegal aliens"/>
+    <term name="Immigrant education"/>
+    <term name="Immigrant health"/>
+    <term name="Immigrants"/>
+    <term name="International affairs"/>
+    <term name="Juvenile delinquency"/>
+    <term name="Labor and employment"/>
+    <term name="Language and languages"/>
+    <term name="Latin America"/>
+    <term name="Law"/>
+    <term name="Legal aid"/>
+    <term name="Legal education"/>
+    <term name="Legal ethics"/>
+    <term name="Legal fees"/>
+    <term name="Legal services"/>
+    <term name="Licenses"/>
+    <term name="Limitation of actions"/>
+    <term name="Local officials"/>
+    <term name="Mental health services"/>
+    <term name="Mexicans"/>
+    <term name="Mexico"/>
+    <term name="Nonprofit organizations"/>
+    <term name="Parent and child"/>
+    <term name="Parole"/>
+    <term name="Political persecution"/>
+    <term name="Prosecution"/>
+    <term name="Recruiting of employees"/>
+    <term name="Refugees"/>
+    <term name="Religion"/>
+    <term name="Repatriation"/>
+    <term name="Right of asylum"/>
+    <term name="Right of privacy"/>
+    <term name="Right to counsel"/>
+    <term name="Smuggling"/>
+    <term name="Social welfare"/>
+    <term name="Social work"/>
+    <term name="Standards"/>
+    <term name="State officials"/>
+    <term name="Subcontractors"/>
+    <term name="Surety and fidelity"/>
+    <term name="Teacher education"/>
+    <term name="Translating and interpreting"/>
+    <term name="Trauma care"/>
+    <term name="Visas"/>
+    <term name="Witnesses"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2692"/>
+  </amendments>
+  <summary>12/22/2005--Passed Senate amended.
+Unaccompanied Alien Child Protection Act of 2005 - Title I: Custody, Release, Family Reunification, and Detention - (Sec. 101) Addresses the care and custody of unaccompanied alien children (children), defined as children under the age of 18 with no lawful immigration status and no parent or legal guardian in the United States who is available to provide care and physical custody. Directs immigration officers who find such children at U.S. land borders or ports of entry to permit them to withdraw their applications for admission and return to their country of nationality or last habitual residence in certain circumstances. States that such children shall have the right to consult with a consular officer prior to repatriation and with the Office of Refugee Resettlement (the Office) at the Department of Health and Human Services (HHS). Gives the Office jurisdiction over the care and custody of all other such children, including trafficking victims, except those charged with or convicted of felonies (excluding offenses proscribed by the Immigration and Nationality Act) or who threaten national security, whose custody and care is vested in the Department of Homeland Security (DHS). Requires the Secretary of Homeland Security (Secretary) to: (1) notify the Office promptly of the apprehension or discovery of such children; and (2) permit the Office to have access to a child if necessary to determine such child's age. (Sec. 102) Specifies the order of child placement preference (and requires a suitability assessment prior to placement) as follows: (1) parent seeking to establish custody; (2) legal guardian seeking to establish custody; (3) adult relative; (4) individual or entity designated by the parent or legal guardian that is capable and willing to care for the child's well-being; (5) state-licensed juvenile shelter, group home, or foster care program; or (6) qualified adult or entity seeking custody of the child when there is no other likely alternative to long-term detention and family reunification is not a reasonable alternative. Sets forth suitability assessment provisions, including provisions respecting: (1) special needs children; and (2) contract authority. Requires the Director of the Office (Director) to establish programs (which may include witness protection programs) to protect children from smugglers, traffickers, or other persons seeking to engage such children in criminal, harmful, or exploitative activity. Requires DHS employees, grantees, or contractors who suspect that individuals, including attorneys, are involved in such activities to report the individuals to federal, state, or state bar authorities. Authorizes the Director to: (1) award grants to carry out this section; and (2) reimburse states for costs incurred respecting such children. Requires the Secretary and the Secretary of HHS to disclose information under this section to law enforcement or coroner personnel in connection with a prosecution. Establishes a monetary penalty for misuse of such information. (Sec. 103) Prohibits the placement of such children in adult detention facilities or in facilities housing delinquent children unless they exhibit violent or criminal behavior. Requires the Director and the Secretary to: (1) promulgate detention regulations for such children; (2) notify such children of these standards in their native language; and (3) develop procedures prohibiting the unreasonable use of restraints, solitary confinement, or pat or strip searches. (Sec. 104) Expresses the sense of Congress that the U.S. government should undertake efforts to ensure that it does not repatriate children in its custody into settings that would threaten their life and safety. Requires: (1) the Secretary of State to include in each year's State Department Country Report on Human Rights an assessment of the degree to which each country protects children from smugglers and traffickers; (2) DHS to consult that report and the Trafficking in Persons Report in assessing whether to repatriate a child; and (3) the Secretary to submit annual reports to the Judiciary Committees of the House of Representatives and Senate on efforts to repatriate such children. (Sec. 105) Requires the Director to develop procedures for promptly determining the age of aliens in the custody of DHS or the Office when age is at issue. Prohibits the use of radiographs or an alien's attestation as the sole means of determining age. Title II: Access By Unaccompanied Alien Children to Child Advocates and Counsel - (Sec. 201) Authorizes the Director to appoint qualified and duly trained child advocates (advocate) for such children. Specifies advocates' duties and powers. Requires the Director to provide advocate training, and implement a pilot program for their appointment. (Sec. 202) States that the Director should ensure that all such children in the custody of the Office or DHS, except those being repatriated to a contiguous country, have competent immigration counsel. Requires the Executive Office for Immigration Review (EOIR) to develop and implement model guidelines for the legal representation of alien children in immigration proceedings. States that counsel shall: (1) have reasonable access to such children; (2) be given 24 hours advance notice of a transfer absent compelling and unusual circumstances; and (3) except in emergency situations involving the child's physical safety, be given prompt and adequate notice of all immigration matters affecting or involving such children. Bars such children in Office custody from consenting to immigration actions, including voluntary departure, unless first afforded an opportunity to consult with counsel. States that nothing in this Act requires the United States to pay for counsel for such children. (Sec. 203) States that the appointed advocate or counsel shall not interfere with federal investigators or prosecutors in a federal criminal investigation or prosecution in which the child is a victim or witness. (Sec. 204) Makes such advocate and counsel provisions applicable to all such children in federal custody on, before, or after the effective date of this Act. Title III: Strengthening Policies for Permanent Protection of Alien Children - (Sec. 301) Amends the Immigration and Nationality Act to specify that: (1) aliens seeking special immigrant juvenile (SIJ) status must be 18 years of age and under on the date of application; (2) court orders declaring such aliens dependent on a juvenile court located in the United States or placing them in the custody of a state entity due to abuse, neglect, abandonment or similar grounds shall be binding on the Secretary for purposes of SIJ adjudications; and (3) the Office must certify to the Director of U.S. Citizenship and Immigration Services that SIJ classifications with respect to alien children in federal custody have not been made solely to provide immigration benefits. Excludes presence without admission or parole as a ground for inadmissibility with regard to aliens seeking SIJ status. Authorizes the Secretary to waive certain additional grounds of inadmissibility. (Sec. 302) Requires the Secretary of HHS, acting jointly with the Secretary, to provide appropriate training materials (and direct training upon request) on immigration matters for specified individuals who come into contact with such children. (Sec. 303) Requires the Secretary of HHS to submit annual reports to the House and Senate Judiciary Committees on matters related to such children. (Sec. 304) Makes the SIJ-related amendments of this Act applicable to all aliens who were in the United States before, on, or after enactment of this Act. Title IV: Children Refugee and Asylum Seekers - (Sec. 401) Commends the (former) Immigration and Naturalization Service (INS) for its issuance of the Guidelines for Children's Asylum Claims and encourages implementation of such guidelines by INS and its successor. Calls upon EOIR to adopt such guidelines in its handling of children's asylum claims. Requires periodic training under such guidelines for immigration officers and immigration judges. (Sec. 402) Directs the President, during required consultations on refugee admissions, to provide members of the House and Senate Judiciary Committees with an analysis of the worldwide situation faced by such children. (Sec. 403) Requires such children apprehended by DHS, except those subject to contiguous country rules, to be placed in removal proceedings. Exempts such children from certain bars to seeking asylum. Title V: Authorization of Appropriations - (Sec. 501) Authorizes appropriations to carry out this Act and sections of the Homeland Security Act of 2002 (HSA) concerning such children. Title VI: Amendments to the Homeland Security Act of 2002 - (Sec. 601) Amends HSA to make the Director responsible for: (1) continued assessments of the suitability of placements of such children; and (2) ensuring that minimum standards of care are met with regard to such children who reside in settings that are alternatives to detention. Authorizes the Director to: (1) contract for certain services required under titles I and II of this Act; and (2) compel compliance with certain detention provisions under this Act. (Sec. 602) States that HSA, as amended, may not be construed to require the posting of bond for children who are released to a qualified sponsor. (Sec. 603) States that amendments to HSA made by this Act shall be effective as if enacted as part of HSA.</summary>
+</bill>

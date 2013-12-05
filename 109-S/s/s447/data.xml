@@ -1,0 +1,76 @@
+<bill session="109" type="s" number="447" updated="2013-07-19T20:17:15-04:00">
+  <state datetime="2005-07-27">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-07-27"/>
+  </status>
+  <introduced datetime="2005-02-17"/>
+  <titles>
+    <title as="introduced" type="short">Jornada Experimental Range Transfer Act of 2005</title>
+    <title as="passed senate" type="short">Jornada Experimental Range Transfer Act of 2005</title>
+    <title as="introduced" type="official">A bill to authorize the conveyance of certain Federal land in the State of New Mexico.</title>
+  </titles>
+  <sponsor id="300036"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2005-02-17">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1659"/>
+    </action>
+    <action state="REFERRED" datetime="2005-02-17">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+      <reference ref="CR S1659-1660" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2005-07-27">
+      <text>Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.</text>
+      <reference ref="CR S9198" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2005-07-27" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S9198" label="text"/>
+    </vote>
+    <action datetime="2005-07-28T11:37:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-07-28">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-07-28">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-08-08">
+      <text>Referred to the Subcommittee on Forests and Forest Health.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-09-14">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Discharged"/>
+    <committee code="HSII" name="House Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII20" subcommittee="Forests and Forest Health" name="House Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Arid regions"/>
+    <term name="Easements"/>
+    <term name="Environmental protection"/>
+    <term name="Hazardous wastes"/>
+    <term name="Infrastructure"/>
+    <term name="Land transfers"/>
+    <term name="Law"/>
+    <term name="Liability for environmental damages"/>
+    <term name="Natural areas"/>
+    <term name="New Mexico"/>
+    <term name="Parks"/>
+    <term name="Research natural areas"/>
+    <term name="Right-of-way"/>
+    <term name="Surveying"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>7/27/2005--Passed Senate without amendment.
+Jornada Experimental Range Transfer Act of 2005 - Authorizes the Secretary of Agriculture to convey to the Chihuahuan Desert Nature Park Board (Board) for educational purposes not more than 1,000 acres of land that is located in the Jornada Experimental Range in the State of New Mexico and that is subject to an easement granted by the Agricultural Research Service to the Board. Specifies the terms and conditions such land conveyance shall be subject to.</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="110" type="hc" number="282" updated="2013-07-19T22:11:11-04:00">
+  <state datetime="2008-01-24">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2008-01-24"/>
+  </status>
+  <introduced datetime="2008-01-23"/>
+  <titles>
+    <title as="introduced" type="official">Providing for a joint session of Congress to receive a message from the President.</title>
+  </titles>
+  <sponsor id="400189"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2008-01-23T13:11:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H409-410" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-01-23T13:11:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H409" label="text"/>
+    </vote>
+    <action datetime="2008-01-23T13:12:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2008-01-24" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S301" label="consideration"/>
+    </vote>
+    <action datetime="2008-01-25">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+    <term name="Government operations and politics"/>
+    <term name="Presidential messages"/>
+  </subjects>
+  <amendments/>
+  <summary>1/24/2008--Passed Senate without amendment.
+Declares that the two Houses of Congress shall assemble in the Hall of the House of Representatives on Monday, January 28, 2008, at 9 p.m., for the purpose of receiving (the State of the Union Address from) the President of the United States.</summary>
+</bill>

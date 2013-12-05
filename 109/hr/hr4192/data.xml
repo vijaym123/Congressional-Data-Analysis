@@ -1,0 +1,100 @@
+<bill session="109" type="h" number="4192" updated="2013-07-19T19:41:23-04:00">
+  <state datetime="2006-03-08T15:54:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-03-08T15:54:00-05:00"/>
+  </status>
+  <introduced datetime="2005-11-01"/>
+  <titles>
+    <title as="introduced" type="official">To authorize the Secretary of the Interior to designate the President William Jefferson Clinton Birthplace Home in Hope, Arkansas, as a National Historic Site and unit of the National Park System, and for other purposes.</title>
+  </titles>
+  <sponsor id="400345"/>
+  <cosponsors>
+    <cosponsor id="400026" joined="2005-11-01"/>
+    <cosponsor id="400040" joined="2005-11-01"/>
+    <cosponsor id="400065" joined="2005-11-01"/>
+    <cosponsor id="400383" joined="2005-11-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-11-01">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-11-02">
+      <text>Referred to the Subcommittee on National Parks.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-11-16">
+      <text>Subcommittee on National Parks Discharged.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-11-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-11-16">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="2005-12-06T15:50:00-05:00">
+      <text>Reported by the Committee on Resources. H. Rept. 109-322.</text>
+    </action>
+    <calendar datetime="2005-12-06T15:50:00-05:00" calendar="Union" number="176">
+      <text>Placed on the Union Calendar, Calendar No. 176.</text>
+    </calendar>
+    <action datetime="2006-03-08T10:38:00-05:00">
+      <text>Mr. Gohmert moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-03-08T10:38:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H653-657" label="consideration"/>
+    </action>
+    <action datetime="2006-03-08T10:38:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4192.</text>
+    </action>
+    <action datetime="2006-03-08T11:06:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2006-03-08T15:48:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H736-737" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-03-08T15:54:00-05:00" how="roll" result="pass" roll="23" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 12 (Roll no. 23).</text>
+      <reference ref="CR H653-654" label="text"/>
+    </vote>
+    <action datetime="2006-03-08T15:54:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-03-09">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2006-05-16">
+      <text>Subcommittee on National Parks. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSII10" subcommittee="National Parks, Recreation, and Public Lands" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="National Parks" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="s" number="2417"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Arkansas"/>
+    <term name="Clinton Administration"/>
+    <term name="Commemorations"/>
+    <term name="Ex-presidents"/>
+    <term name="Gifts"/>
+    <term name="Government operations and politics"/>
+    <term name="Historic sites"/>
+    <term name="History"/>
+    <term name="Land transfers"/>
+    <term name="National parks"/>
+  </subjects>
+  <amendments/>
+  <summary>3/8/2006--Passed House without amendment.
+Directs the Secretary of the Interior, if the Clinton Birthplace Foundation, Inc. donates the William Jefferson Clinton Birthplace Home, to designate the William Jefferson Clinton Birthplace Home site as a National Historic Site and unit of the National Park System, to be known as the "President William Jefferson Clinton Birthplace Home National Historic Site."</summary>
+</bill>

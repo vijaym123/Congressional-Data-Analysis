@@ -1,0 +1,75 @@
+<bill session="109" type="h" number="5666" updated="2013-07-19T19:54:31-04:00">
+  <state datetime="2006-12-05T12:09:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-12-05T12:09:00-05:00"/>
+  </status>
+  <introduced datetime="2006-06-21"/>
+  <titles>
+    <title as="introduced" type="short">Southern Idaho Bureau of Reclamation Repayment Act of 2006</title>
+    <title as="passed house" type="short">Southern Idaho Bureau of Reclamation Repayment Act of 2006</title>
+    <title as="introduced" type="official">To authorize early repayment of obligations to the Bureau of Reclamation within the A &amp; B Irrigation District in the State of Idaho.</title>
+  </titles>
+  <sponsor id="400376"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2006-06-21">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2006-06-28">
+      <text>Executive Comment Requested from Interior.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-06-28">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-07-27">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-12-05T12:06:00-05:00">
+      <text>Mr. Radanovich moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2006-12-05T12:07:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8693-9694" label="consideration"/>
+    </action>
+    <action datetime="2006-12-05T12:07:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5666.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-12-05T12:09:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H8693" label="text"/>
+    </vote>
+    <action datetime="2006-12-05T12:09:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-12-06">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral"/>
+    <committee activity="Referral, Hearings" code="HSII13" subcommittee="Water and Power" name="House Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="s" number="2470"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Agriculture and food"/>
+    <term name="Collection of accounts"/>
+    <term name="Construction costs"/>
+    <term name="Economics and public finance"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Idaho"/>
+    <term name="Infrastructure"/>
+    <term name="Irrigation"/>
+    <term name="Irrigation districts"/>
+    <term name="Landowners"/>
+  </subjects>
+  <amendments/>
+  <summary>12/5/2006--Passed House amended.
+Southern Idaho Bureau of Reclamation Repayment Act of 2006 - Authorizes any owner of land within the A&amp;B Irrigation District in Idaho to repay at any time the construction costs of District project facilities that are allocated to such land. Provides that, upon full payment of such costs, the parcels shall not be subject to specified ownership and full-cost pricing limitations under federal reclamation law, for which the Secretary shall, upon request, provide the landowner a certificate.</summary>
+</bill>

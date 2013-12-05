@@ -1,0 +1,66 @@
+<bill session="109" type="h" number="6206" updated="2013-07-19T19:59:19-04:00">
+  <state datetime="2006-12-07T13:05:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-12-07T13:05:00-05:00"/>
+  </status>
+  <introduced datetime="2006-09-27"/>
+  <titles>
+    <title as="introduced" type="short">Truman Scholarship Fund Modernization Act</title>
+    <title as="passed house" type="short">Truman Scholarship Fund Modernization Act</title>
+    <title as="introduced" type="official">To revise the calculation of interest on investments of the Harry S. Truman Memorial Scholarship Fund.</title>
+  </titles>
+  <sponsor id="400123"/>
+  <cosponsors>
+    <cosponsor id="400005" joined="2006-09-27"/>
+    <cosponsor id="400638" joined="2006-09-29"/>
+    <cosponsor id="400074" joined="2006-09-27"/>
+    <cosponsor id="400377" joined="2006-09-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-09-27">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2006-11-02">
+      <text>Referred to the Subcommittee on 21st Century Competitiveness.</text>
+      <committee name="House Committee on Education and the Workforce"/>
+    </action>
+    <action datetime="2006-12-07T12:54:00-05:00">
+      <text>Mr. Kuhl (NY) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-12-07T12:55:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8917-8919" label="consideration"/>
+    </action>
+    <action datetime="2006-12-07T12:55:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6206.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-12-07T13:05:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H8917-8918" label="text"/>
+    </vote>
+    <action datetime="2006-12-07T13:05:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-12-08">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee activity="Referral" code="HSED13" subcommittee="21st Century Competitiveness" name="House Education and the Workforce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to education"/>
+    <term name="Government securities"/>
+    <term name="Government trust funds"/>
+    <term name="Higher education"/>
+    <term name="Investment of public funds"/>
+    <term name="Scholarships"/>
+  </subjects>
+  <amendments/>
+  <summary>12/7/2006--Passed House without amendment.
+Truman Scholarship Fund Modernization Act - Amends the Harry S Truman Memorial Scholarship Act to require the Secretary of the Treasury to invest amounts appropriated and contributed to the Harry S Truman Memorial Scholarship Trust Fund: (1) only at the request of the Board of Trustees of the Harry S Truman Scholarship Foundation; and (2) only in interest-bearing obligations of the United States issued directly to such Fund. Repeals the Secretary's discretion to invest in obligations guaranteed as to principal and interest by the United States. Repeals the condition that such obligations shall be issued only if it is not in the public interest to purchase other interest-bearing obligations issued or guaranteed by the United States. Makes all requests of the Board binding on the Secretary. Repeals the authority of the Secretary to sell any obligation acquired by the fund (except special obligations issued exclusively to it) at the market price. Requires the Secretary, at the Board's request, to redeem any obligation issued directly to the fund.</summary>
+</bill>

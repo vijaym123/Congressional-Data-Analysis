@@ -1,0 +1,42 @@
+<bill session="109" type="hc" number="66" updated="2013-07-19T20:02:43-04:00">
+  <state datetime="2005-02-17">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2005-02-17"/>
+  </status>
+  <introduced datetime="2005-02-16"/>
+  <titles>
+    <title as="introduced" type="official">Providing for the adjournment or recess of the two Houses.</title>
+  </titles>
+  <sponsor id="400652"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2005-02-16T15:08:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H673" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-02-16T15:10:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H673" label="text"/>
+    </vote>
+    <action datetime="2005-02-16T15:10:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2005-02-17" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S1686-1687" label="consideration"/>
+      <reference ref="CR S1687" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-02-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+  </subjects>
+  <amendments/>
+  <summary>2/17/2005--Passed Senate without amendment.
+Provides for an adjournment of the House of Representatives from February 17, 2005, until March 1, 2005 (or until another time of reassembly under this concurrent resolution), and a recess or an adjournment of the Senate from February 17 or 18, 2005, until February 28, 2005 (or until another time of reassembly). Authorizes the Speaker of the House and the Majority Leader of the Senate, or their respective designees, acting jointly after consultation with the Minority Leaders of the House and of the Senate, to notify the Members of the House and the Senate, respectively, to reassemble at such place and time as they may designate whenever, in their opinion, the public interest shall warrant it.</summary>
+</bill>

@@ -1,0 +1,100 @@
+<bill session="109" type="hc" number="128" updated="2013-07-19T20:03:15-04:00">
+  <state datetime="2005-07-22T12:37:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-07-22T12:37:00-04:00"/>
+  </status>
+  <introduced datetime="2005-04-12"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of Congress that the Government of the Russian Federation should issue a clear and unambiguous statement of admission and condemnation of the illegal occupation and annexation by the Soviet Union from 1940 to 1991 of the Baltic countries of Estonia, Latvia, and Lithuania.</title>
+  </titles>
+  <sponsor id="400373"/>
+  <cosponsors>
+    <cosponsor id="400021" joined="2005-06-14"/>
+    <cosponsor id="400025" joined="2005-06-21"/>
+    <cosponsor id="400039" joined="2005-04-20"/>
+    <cosponsor id="400083" joined="2005-04-12"/>
+    <cosponsor id="400093" joined="2005-04-21"/>
+    <cosponsor id="400111" joined="2005-04-12"/>
+    <cosponsor id="400115" joined="2005-04-12"/>
+    <cosponsor id="400173" joined="2005-04-27"/>
+    <cosponsor id="400183" joined="2005-04-20"/>
+    <cosponsor id="400196" joined="2005-04-28"/>
+    <cosponsor id="400221" joined="2005-04-12"/>
+    <cosponsor id="400227" joined="2005-04-12"/>
+    <cosponsor id="400630" joined="2005-04-28"/>
+    <cosponsor id="400249" joined="2005-06-14"/>
+    <cosponsor id="400260" joined="2005-04-12"/>
+    <cosponsor id="400263" joined="2005-04-12"/>
+    <cosponsor id="400290" joined="2005-06-30"/>
+    <cosponsor id="400342" joined="2005-04-12"/>
+    <cosponsor id="400343" joined="2005-06-21"/>
+    <cosponsor id="400348" joined="2005-06-22"/>
+    <cosponsor id="400356" joined="2005-07-12"/>
+    <cosponsor id="400361" joined="2005-06-17"/>
+    <cosponsor id="400363" joined="2005-04-26"/>
+    <cosponsor id="400369" joined="2005-05-12"/>
+    <cosponsor id="400385" joined="2005-04-20"/>
+    <cosponsor id="400400" joined="2005-05-12"/>
+    <cosponsor id="400414" joined="2005-06-14"/>
+    <cosponsor id="400425" joined="2005-06-16"/>
+    <cosponsor id="400435" joined="2005-05-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-04-12">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+    <action datetime="2005-04-18">
+      <text>Referred to the Subcommittee on Europe and Emerging Threats.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <action datetime="2005-07-22T12:35:00-04:00">
+      <text>Committee on International Relations discharged.</text>
+    </action>
+    <action datetime="2005-07-22T12:35:00-04:00">
+      <text>Mr. McCotter asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2005-07-22T12:36:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H6369-6371" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-07-22T12:37:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H6370" label="text"/>
+    </vote>
+    <action datetime="2005-07-22T12:37:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-07-25">
+      <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House International Relations" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSFA14" subcommittee="Europe and Emerging Threats" name="House International Relations"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="sc" number="32"/>
+    <bill relation="identical" session="109" type="sc" number="35"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Aggression"/>
+    <term name="Annexation (International law)"/>
+    <term name="Armed forces and national security"/>
+    <term name="Estonia"/>
+    <term name="Europe"/>
+    <term name="Germany"/>
+    <term name="Latvia"/>
+    <term name="Lithuania"/>
+    <term name="Military occupation"/>
+    <term name="Russia"/>
+    <term name="Treaties"/>
+    <term name="U.S.S.R."/>
+  </subjects>
+  <amendments>
+    <amendment number="h513"/>
+  </amendments>
+  <summary>7/22/2005--Passed House amended.
+Expresses the sense of Congress that the government of the Russian Federation should issue an unambiguous admission and condemnation of the illegal occupation and annexation by the Soviet Union from 1940 to 1991 of the Baltic countries of Estonia, Latvia, and Lithuania.</summary>
+</bill>

@@ -1,0 +1,53 @@
+<bill session="110" type="sc" number="91" updated="2013-07-19T22:20:10-04:00">
+  <state datetime="2008-06-18">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2008-06-18"/>
+  </status>
+  <introduced datetime="2008-06-18"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution honoring Army Specialist Monica L. Brown, of Lake Jackson, Texas, extending gratitude to her and her family, and pledging continuing support for the men and women of the United States Armed Forces.</title>
+  </titles>
+  <sponsor id="300054"/>
+  <cosponsors>
+    <cosponsor id="300027" joined="2008-06-18"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2008-06-18" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S5769" label="consideration"/>
+      <reference ref="CR S5769" label="text as passed Senate"/>
+      <reference ref="CR S5768" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2008-06-20T09:17:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2008-06-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2008-06-20">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="hc" number="320"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Afghanistan"/>
+    <term name="Armed forces abroad"/>
+    <term name="Armed forces and national security"/>
+    <term name="Army"/>
+    <term name="Congressional tributes"/>
+    <term name="Families"/>
+    <term name="Military dependents"/>
+    <term name="Military operations"/>
+    <term name="Military personnel"/>
+    <term name="South Asia"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/2008--Passed Senate without amendment.
+Honors Army Specialist Monica L. Brown, who risked her life to save the lives of fellow wounded soldiers while serving in Afghanistan. Pledges continued support for the men and women of the Armed Forces.</summary>
+</bill>

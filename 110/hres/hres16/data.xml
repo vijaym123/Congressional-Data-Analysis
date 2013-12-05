@@ -1,0 +1,72 @@
+<bill session="110" type="hr" number="16" updated="2013-07-19T20:50:43-04:00">
+  <state datetime="2007-07-30T12:21:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2007-07-30T12:21:00-04:00"/>
+  </status>
+  <introduced datetime="2007-01-04"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing Virginia's James River as "America's Founding River".</title>
+  </titles>
+  <sponsor id="400095"/>
+  <cosponsors>
+    <cosponsor id="400098" joined="2007-03-12"/>
+    <cosponsor id="400137" joined="2007-03-07"/>
+    <cosponsor id="400154" joined="2007-03-07"/>
+    <cosponsor id="400364" joined="2007-01-23"/>
+    <cosponsor id="400435" joined="2007-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-04">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-02-07">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-07-30T12:21:00-04:00">
+      <text>Committee on Natural Resources discharged.</text>
+    </action>
+    <action datetime="2007-07-30T12:21:00-04:00">
+      <text>Mrs. Christensen asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2007-07-30T12:21:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H8830" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2007-07-30T12:21:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H8830" label="text"/>
+    </vote>
+    <action datetime="2007-07-30T12:21:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Economic development"/>
+    <term name="Economics and public finance"/>
+    <term name="Environmental protection"/>
+    <term name="Historic sites"/>
+    <term name="History"/>
+    <term name="Names"/>
+    <term name="Outdoor recreation"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Restoration ecology"/>
+    <term name="Riparian ecology"/>
+    <term name="Rivers"/>
+    <term name="Sports and recreation"/>
+    <term name="Virginia"/>
+    <term name="Water pollution control"/>
+    <term name="Water quality"/>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+  <summary>7/30/2007--Passed House without amendment.
+Recognizes Virginia's James River as America's Founding River and recommits to protecting and restoring it.</summary>
+</bill>

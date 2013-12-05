@@ -1,0 +1,75 @@
+<bill session="110" type="h" number="4049" updated="2013-07-19T21:39:19-04:00">
+  <state datetime="2008-07-22T16:46:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-07-22T16:46:00-04:00"/>
+  </status>
+  <introduced datetime="2007-11-01"/>
+  <titles>
+    <title as="introduced" type="short">Money Service Business Act of 2007</title>
+    <title as="passed house" type="short">Money Service Business Act of 2008</title>
+    <title as="introduced" type="official">To amend section 5318 of title 31, United States Code, to eliminate regulatory burdens imposed on insured depository institutions and money services businesses and enhance the availability of transaction accounts at depository institutions for such business, and for other purposes.</title>
+  </titles>
+  <sponsor id="400251"/>
+  <cosponsors>
+    <cosponsor id="400010" joined="2007-11-01"/>
+    <cosponsor id="400027" joined="2007-11-01"/>
+    <cosponsor id="400140" joined="2007-11-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-11-01">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2008-06-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-06-24">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Financial Services"/>
+    </calendar>
+    <action datetime="2008-07-22T16:34:00-04:00">
+      <text>Mrs. Maloney (NY) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2008-07-22T16:34:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6775-6777" label="consideration"/>
+    </action>
+    <action datetime="2008-07-22T16:34:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4049.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-07-22T16:46:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6775-6776" label="text"/>
+    </vote>
+    <action datetime="2008-07-22T16:46:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-07-23">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative procedure"/>
+    <term name="Bank records"/>
+    <term name="Commerce"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Crime prevention"/>
+    <term name="Department of the Treasury"/>
+    <term name="Financial institutions"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Law"/>
+    <term name="Liability (Law)"/>
+    <term name="Money laundering"/>
+  </subjects>
+  <amendments/>
+  <summary>7/22/2008--Passed House amended.
+Money Service Business Act of 2008 -Amends federal law governing anti-money laundering programs to provide that an insured depository institution has no obligation to review the compliance with federal anti-money laundering requirements of a money transmitting business for whom it maintains an account if such institution has on file specified mandatory self-certifications submitted by the money transmitting business.Sets forth civil and criminal penalties for violations of this Act without regard to whether such violations were willful.Shields such institution from liability for the non-compliance of a money transmitting business and its agents with federal anti-money laundering requirements.Prescribes requirements for self-certification by a money transmitting business that it is in compliance with federal anti-money laundering requirements (including its agents).Directs the Secretary of the Treasury to prescribe implementing regulations.</summary>
+</bill>

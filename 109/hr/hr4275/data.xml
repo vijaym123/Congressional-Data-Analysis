@@ -1,0 +1,87 @@
+<bill session="109" type="h" number="4275" updated="2013-07-19T19:42:08-04:00">
+  <state datetime="2006-09-25T14:59:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-09-25T14:59:00-04:00"/>
+  </status>
+  <introduced datetime="2005-11-09"/>
+  <titles>
+    <title as="introduced" type="official">To amend Public Law 106-348 to extend the authorization for establishing a memorial in the District of Columbia or its environs to honor veterans who became disabled while serving in the Armed Forces of the United States.</title>
+  </titles>
+  <sponsor id="400213"/>
+  <cosponsors>
+    <cosponsor id="400662" joined="2006-05-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-11-09">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-11-16">
+      <text>Referred to the Subcommittee on National Parks.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-05-25">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-06-21">
+      <text>Subcommittee on National Parks Discharged.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-06-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-06-21">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="2006-07-10T18:54:00-04:00">
+      <text>Reported by the Committee on Resources. H. Rept. 109-548.</text>
+    </action>
+    <calendar datetime="2006-07-10T18:54:00-04:00" calendar="Union" number="308">
+      <text>Placed on the Union Calendar, Calendar No. 308.</text>
+    </calendar>
+    <action datetime="2006-09-25T14:53:00-04:00">
+      <text>Mr. Pearce moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-09-25T14:54:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6946-6948" label="consideration"/>
+    </action>
+    <action datetime="2006-09-25T14:54:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4275.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-09-25T14:59:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6946-6947" label="text"/>
+    </vote>
+    <action datetime="2006-09-25T15:00:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-09-26">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2006-11-13">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Recreation, and Public Lands" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="2236"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Armed forces and national security"/>
+    <term name="Disabled"/>
+    <term name="District of Columbia"/>
+    <term name="Monuments and memorials"/>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>9/25/2006--Passed House without amendment.
+Extends through October 24, 2015, the authority of the Disabled Veterans' LIFE Memorial Foundation to establish in the District of Columbia or its environs a memorial to honor veterans who became disabled while serving in the Armed Forces.</summary>
+</bill>

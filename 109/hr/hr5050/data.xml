@@ -1,0 +1,49 @@
+<bill session="109" type="h" number="5050" updated="2013-07-19T19:48:54-04:00">
+  <state datetime="2006-03-30">REFERRED</state>
+  <status>
+    <introduced datetime="2006-03-30"/>
+  </status>
+  <introduced datetime="2006-03-30"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 10, United States Code, to authorize coverage for anesthesia and other costs related to dental care for children and certain other patients.</title>
+  </titles>
+  <sponsor id="400296"/>
+  <cosponsors>
+    <cosponsor id="400008" joined="2006-06-06"/>
+    <cosponsor id="400034" joined="2006-04-25"/>
+    <cosponsor id="400633" joined="2006-06-06"/>
+    <cosponsor id="400316" joined="2006-07-11"/>
+    <cosponsor id="400341" joined="2006-04-25"/>
+    <cosponsor id="400627" joined="2006-04-25"/>
+    <cosponsor id="400437" joined="2006-05-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-03-30">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2006-04-17">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Anesthetics"/>
+    <term name="Child health"/>
+    <term name="Dental care"/>
+    <term name="Disabled"/>
+    <term name="Families"/>
+    <term name="Health"/>
+    <term name="Mentally disabled"/>
+    <term name="Military dependents"/>
+    <term name="Military medicine"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/2006--Introduced.
+Includes, under authorized medical care provided through the Department of Defense (DOD) for the spouses and dependent children of veterans who are on active duty for more than 30 days, the following with respect to dental care: (1) necessary care adjunct to medical or surgical treatment; and (2) for patients with developmental, mental, or physical disabilities or for pediatric patients age five or under, institutional and anesthesia services.</summary>
+</bill>

@@ -1,0 +1,148 @@
+<bill session="109" type="h" number="5539" updated="2013-07-19T19:53:22-04:00">
+  <state datetime="2006-10-11">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2006-10-11"/>
+  </status>
+  <introduced datetime="2006-06-07"/>
+  <titles>
+    <title as="introduced" type="short">North American Wetlands Conservation Reauthorization Act of 2006</title>
+    <title as="passed senate" type="short">North American Wetlands Conservation Reauthorization Act of 2006</title>
+    <title as="enacted" type="short">North American Wetlands Conservation Reauthorization Act of 2006</title>
+    <title as="introduced" type="official">To reauthorize the North American Wetlands Conservation Reauthorization Act.</title>
+    <title as="amended by house" type="official">To reauthorize the North American Wetlands Conservation Act.</title>
+  </titles>
+  <sponsor id="400322"/>
+  <cosponsors>
+    <cosponsor id="400042" joined="2006-07-10"/>
+    <cosponsor id="400110" joined="2006-06-07"/>
+    <cosponsor id="400658" joined="2006-06-07"/>
+    <cosponsor id="400123" joined="2006-07-26"/>
+    <cosponsor id="400138" joined="2006-07-26"/>
+    <cosponsor id="400149" joined="2006-06-07"/>
+    <cosponsor id="400155" joined="2006-07-10"/>
+    <cosponsor id="400159" joined="2006-07-10"/>
+    <cosponsor id="400168" joined="2006-07-24"/>
+    <cosponsor id="400199" joined="2006-09-06"/>
+    <cosponsor id="400214" joined="2006-06-07"/>
+    <cosponsor id="400216" joined="2006-07-24"/>
+    <cosponsor id="400218" joined="2006-06-29"/>
+    <cosponsor id="400224" joined="2006-07-24"/>
+    <cosponsor id="400635" joined="2006-07-27"/>
+    <cosponsor id="400280" joined="2006-07-27"/>
+    <cosponsor id="400328" joined="2006-06-29"/>
+    <cosponsor id="400331" joined="2006-06-07"/>
+    <cosponsor id="400351" joined="2006-06-29"/>
+    <cosponsor id="400428" joined="2006-06-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2006-06-07">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1034-1035"/>
+    </action>
+    <action state="REFERRED" datetime="2006-06-07">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2006-06-09">
+      <text>Referred to the Subcommittee on Fisheries and Oceans.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-06-09">
+      <text>Executive Comment Requested from Interior.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-06-29">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-07-19">
+      <text>Subcommittee on Fisheries and Oceans Discharged.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-07-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-07-19">
+      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="2006-09-06T20:36:00-04:00">
+      <text>Reported (Amended) by the Committee on Resources. H. Rept. 109-639.</text>
+    </action>
+    <calendar datetime="2006-09-06T20:36:00-04:00" calendar="Union" number="379">
+      <text>Placed on the Union Calendar, Calendar No. 379.</text>
+    </calendar>
+    <action datetime="2006-09-12T15:12:00-04:00">
+      <text>Mr. Jones (NC) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2006-09-12T15:12:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6385-6386" label="consideration"/>
+    </action>
+    <action datetime="2006-09-12T15:12:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5539.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-09-12T15:17:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6385" label="text"/>
+    </vote>
+    <action datetime="2006-09-12T15:17:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-09-12T15:17:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-09-13">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2006-09-30" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR 9/29/2006 S10793" label="consideration"/>
+    </vote>
+    <topresident datetime="2006-09-30">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2006-10-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2006-10-03">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2006-10-11">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2006-10-11" type="public" number="109-322">
+      <text>Became Public Law No: 109-322.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII15" subcommittee="Fisheries Conservation, Wildlife, and Oceans" name="House Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="3617"/>
+    <bill relation="unknown" session="109" type="s" number="3617"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Animals"/>
+    <term name="Authorization"/>
+    <term name="Canada"/>
+    <term name="Department of the Interior"/>
+    <term name="Economics and public finance"/>
+    <term name="Environmental protection"/>
+    <term name="Government operations and politics"/>
+    <term name="Habitat conservation"/>
+    <term name="International affairs"/>
+    <term name="International environmental cooperation"/>
+    <term name="Latin America"/>
+    <term name="Mexico"/>
+    <term name="Migratory bird conservation"/>
+    <term name="Nature conservation"/>
+    <term name="North America"/>
+    <term name="Wetlands"/>
+  </subjects>
+  <amendments/>
+  <summary>10/11/2006--Public Law.
+North American Wetlands Conservation Reauthorization Act of 2006 - Authorizes appropriations to carry out the North American Wetlands Conservation Act for FY2008-FY2011.</summary>
+</bill>

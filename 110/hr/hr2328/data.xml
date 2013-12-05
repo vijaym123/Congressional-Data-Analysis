@@ -1,0 +1,46 @@
+<bill session="110" type="h" number="2328" updated="2013-07-19T21:24:02-04:00">
+  <state datetime="2007-05-15">REFERRED</state>
+  <status>
+    <introduced datetime="2007-05-15"/>
+  </status>
+  <introduced datetime="2007-05-15"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 49, United States Code, to exempt certain local restrictions from review under the airport noise and access restriction review program.</title>
+  </titles>
+  <sponsor id="400246"/>
+  <cosponsors>
+    <cosponsor id="400122" joined="2007-05-15"/>
+    <cosponsor id="412222" joined="2007-05-15"/>
+    <cosponsor id="400370" joined="2007-05-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-05-15">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2007-05-16">
+      <text>Referred to the Subcommittee on Aviation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="1866"/>
+    <bill relation="unknown" session="110" type="s" number="1866"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Access to airports"/>
+    <term name="Airports"/>
+    <term name="Environmental protection"/>
+    <term name="Federal-local relations"/>
+    <term name="Government operations and politics"/>
+    <term name="Local laws"/>
+    <term name="Noise"/>
+  </subjects>
+  <amendments/>
+  <summary>5/15/2007--Introduced.
+Amends provisions under the airport noise and access restriction review program for stage two and stage three aircraft to exempt from review under such program local restrictions limiting the hours of operation of an airport provided the airport owner had maintained such a restriction which was disallowed by a court before 1985 and certain other requirements are met.</summary>
+</bill>

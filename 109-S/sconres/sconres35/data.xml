@@ -1,0 +1,57 @@
+<bill session="109" type="sc" number="35" updated="2013-07-19T20:12:39-04:00">
+  <state datetime="2005-05-19">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-05-19"/>
+  </status>
+  <introduced datetime="2005-05-19"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution expressing the sense of Congress that the Government of the Russian Federation should issue a clear and unambiguous statement of admission and condemnation of the illegal occupation and annexation by the Soviet Union from 1940 to 1991 of the Baltic countries of Estonia, Latvia, and Lithuania.</title>
+  </titles>
+  <sponsor id="300090"/>
+  <cosponsors>
+    <cosponsor id="300038" joined="2005-05-19"/>
+    <cosponsor id="300043" joined="2005-05-19"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2005-05-19" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S5547-5548" label="consideration"/>
+      <reference ref="CR S5547-5548" label="text as passed Senate"/>
+      <reference ref="CR S5546-5547" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2005-05-23T12:30:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-05-23">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-05-23">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House International Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="hc" number="128"/>
+    <bill relation="identical" session="109" type="sc" number="32"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Aggression"/>
+    <term name="Annexation (International law)"/>
+    <term name="Armed forces and national security"/>
+    <term name="Estonia"/>
+    <term name="Europe"/>
+    <term name="Germany"/>
+    <term name="Latvia"/>
+    <term name="Lithuania"/>
+    <term name="Military occupation"/>
+    <term name="Russia"/>
+    <term name="Treaties"/>
+    <term name="U.S.S.R."/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/2005--Passed Senate without amendment.
+Expresses the sense of Congress that the government of the Russian Federation should issue an unambiguous admission and condemnation of the illegal occupation and annexation by the Soviet Union from 1940 to 1991 of the Baltic countries of Estonia, Latvia, and Lithuania, which will increase good will among the affected peoples and enhance regional stability.</summary>
+</bill>

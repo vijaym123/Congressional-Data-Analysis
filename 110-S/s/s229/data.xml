@@ -1,0 +1,93 @@
+<bill session="110" type="s" number="229" updated="2013-07-19T22:22:19-04:00">
+  <state datetime="2007-07-05">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2007-07-05"/>
+  </status>
+  <introduced datetime="2007-01-09"/>
+  <titles>
+    <title as="introduced" type="official">A bill to redesignate a Federal building in Albuquerque, New Mexico, as the "Raymond G. Murphy Department of Veterans Affairs Medical Center".</title>
+  </titles>
+  <sponsor id="300036"/>
+  <cosponsors>
+    <cosponsor id="300009" joined="2007-01-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2007-01-09">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S298-299"/>
+    </action>
+    <action state="REFERRED" datetime="2007-01-09">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <reference ref=" CR S299" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2007-04-12">
+      <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text>
+      <reference ref="CR S4455" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2007-04-12" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4455" label="text"/>
+    </vote>
+    <action datetime="2007-04-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2007-04-16T14:06:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2007-04-16">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2007-04-23">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2007-06-25T16:48:00-04:00">
+      <text>Mr. Hare moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-06-25T16:49:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7041-7043" label="consideration"/>
+    </action>
+    <action datetime="2007-06-25T16:49:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 229.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2007-06-25T17:08:00-04:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H7041" label="text"/>
+    </vote>
+    <action datetime="2007-06-25T17:08:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2007-06-25">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2007-06-28">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2007-07-05">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2007-07-05" type="public" number="110-45">
+      <text>Became Public Law No: 110-45.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Discharged"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="474"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Commemorations"/>
+    <term name="Health"/>
+    <term name="Names"/>
+    <term name="New Mexico"/>
+    <term name="Veterans' hospitals"/>
+  </subjects>
+  <amendments/>
+  <summary>7/5/2007--Public Law.
+Redesignates the Department of Veterans Affairs Medical Center at 1501 San Pedro Drive, SE, in Albuquerque, New Mexico, as the "Raymond G. Murphy Department of Veterans Affairs Medical Center."</summary>
+</bill>

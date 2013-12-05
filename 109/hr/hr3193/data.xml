@@ -1,0 +1,52 @@
+<bill session="109" type="h" number="3193" updated="2013-07-19T19:32:30-04:00">
+  <state datetime="2005-06-30">REFERRED</state>
+  <status>
+    <introduced datetime="2005-06-30"/>
+  </status>
+  <introduced datetime="2005-06-30"/>
+  <titles>
+    <title as="introduced" type="short">Rocky Mountain National Park Wilderness Act</title>
+    <title as="introduced" type="official">To designate as wilderness certain lands within the Rocky Mountain National Park in the State of Colorado.</title>
+  </titles>
+  <sponsor id="400412"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-06-30">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-08-29">
+      <text>Referred to the Subcommittee on National Parks.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-08-29">
+      <text>Referred to the Subcommittee on Forests and Forest Health.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-08-29">
+      <text>Executive Comment Requested from Interior.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Recreation, and Public Lands" name="House Resources"/>
+    <committee activity="Referral" code="HSII20" subcommittee="Forests and Forest Health" name="House Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="1510"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Colorado"/>
+    <term name="Colorado River development"/>
+    <term name="Infrastructure"/>
+    <term name="Land use"/>
+    <term name="National parks"/>
+    <term name="Water resources development"/>
+    <term name="Water supply"/>
+    <term name="Wilderness areas"/>
+  </subjects>
+  <amendments/>
+  <summary>6/30/2005--Introduced.
+Rocky Mountain National Park Wilderness Act- Designates certain lands in Rocky Mountain National Park, Colorado, as components of the National Wilderness Preservation System, which shall be known as the Rocky Mountain National Park Wilderness.</summary>
+</bill>

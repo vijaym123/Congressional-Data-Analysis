@@ -1,0 +1,59 @@
+<bill session="109" type="hc" number="308" updated="2013-07-19T20:04:48-04:00">
+  <state datetime="2005-11-21">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2005-11-21"/>
+  </status>
+  <introduced datetime="2005-11-18"/>
+  <titles>
+    <title as="introduced" type="official">Directing the Clerk of the House of Representatives to make a technical correction in the enrollment of H.R. 3058.</title>
+  </titles>
+  <sponsor id="400239"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-11-18">
+      <text>Referred to the Committee on Appropriations, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2005-11-18">
+      <text>Referred to House Appropriations</text>
+    </action>
+    <action datetime="2005-11-18">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2005-11-18T20:01:00-05:00">
+      <text>Rules Committee Resolution H. Res. 572 Reported to House. Rule provides for consideration of H. Res. 571 and H. Con. Res. 308 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Sec. 2. Upon adoption of this resolution, House Concurrent Resolution is hereby adopted. Measure will be considered read. Bill is closed to amendments.</text>
+    </action>
+    <action datetime="2005-11-18T21:48:00-05:00">
+      <text>Rule H. Res. 572 passed House.</text>
+    </action>
+    <action datetime="2005-11-18T21:49:00-05:00">
+      <text>Pursuant to the provisions of H. Res. 572, H. Con. Res. 308 is considered passed House.</text>
+      <reference ref="CR H11005" label="consideration"/>
+      <reference ref="CR H11005" label="text"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2005-11-21" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2005-11-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAP" name="House Appropriations" activity="Referral"/>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="109" type="hr" number="572"/>
+    <bill relation="unknown" session="109" type="hr" number="572"/>
+    <bill relation="unknown" session="109" type="h" number="3058"/>
+    <bill relation="unknown" session="109" type="h" number="3058"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Economics and public finance"/>
+    <term name="House of Representatives"/>
+    <term name="Legislation"/>
+  </subjects>
+  <amendments/>
+  <summary>11/18/2005--Passed House without amendment.
+Directs the Clerk of the House of Representatives to make a technical correction in the enrollment of H.R. 3058 (Transportation, Treasury, Housing and Urban Development, the Judiciary, the District of Columbia, and Independent Agencies Appropriations Act, 2006).</summary>
+</bill>

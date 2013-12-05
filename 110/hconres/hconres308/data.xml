@@ -1,0 +1,85 @@
+<bill session="110" type="hc" number="308" updated="2013-07-19T22:11:25-04:00">
+  <state datetime="2008-05-07">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2008-05-07"/>
+  </status>
+  <introduced datetime="2008-03-04"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the Capitol Grounds for the National Peace Officers' Memorial Service.</title>
+  </titles>
+  <sponsor id="400295"/>
+  <cosponsors>
+    <cosponsor id="400090" joined="2008-03-04"/>
+    <cosponsor id="400098" joined="2008-03-04"/>
+    <cosponsor id="400158" joined="2008-03-04"/>
+    <cosponsor id="400189" joined="2008-03-04"/>
+    <cosponsor id="400283" joined="2008-03-04"/>
+    <cosponsor id="400415" joined="2008-03-04"/>
+    <cosponsor id="400435" joined="2008-03-04"/>
+    <cosponsor id="400438" joined="2008-03-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-03-04">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2008-03-05">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2008-04-30T13:31:00-04:00">
+      <text>Mr. Carney moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2008-04-30T13:31:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2885-2886" label="consideration"/>
+    </action>
+    <action datetime="2008-04-30T13:31:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 308.</text>
+    </action>
+    <action datetime="2008-04-30T13:36:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2008-05-01T12:58:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2981-2982" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-05-01T13:04:00-04:00" how="roll" result="pass" roll="237" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 237).</text>
+      <reference ref="CR 5/1/2008 H2885" label="text"/>
+    </vote>
+    <action datetime="2008-05-01T13:04:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-05-02">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2008-05-07" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S3930" label="consideration"/>
+      <reference ref="CR S3730" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2008-05-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="hc" number="124"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Commemorations"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Law enforcement officers"/>
+    <term name="Monuments and memorials"/>
+    <term name="Police"/>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>5/7/2008--Passed Senate without amendment.
+Permits the Grand Lodge of the Fraternal Order of Police and its auxiliary to sponsor a free public event, the 27th annual National Peace Officers' Memorial Service, on the Capitol grounds on May 15, 2008, to honor the law enforcement officers who died in the line of duty during 2007.</summary>
+</bill>

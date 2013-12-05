@@ -1,0 +1,68 @@
+<bill session="109" type="h" number="1037" updated="2013-07-19T19:13:19-04:00">
+  <state datetime="2005-03-09">REPORTED</state>
+  <status>
+    <unknown datetime="2005-03-09"/>
+  </status>
+  <introduced datetime="2005-03-02"/>
+  <titles>
+    <title as="introduced" type="official">To make technical corrections to title 17, United States Code.</title>
+  </titles>
+  <sponsor id="400381"/>
+  <cosponsors>
+    <cosponsor id="400025" joined="2005-03-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-03-02">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2005-03-02">
+      <text>Referred to the Subcommittee on Courts, the Internet, and Intellectual Property.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2005-03-03">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2005-03-03">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2005-03-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-03-09">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2005-05-10T15:18:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 109-75.</text>
+    </action>
+    <calendar datetime="2005-05-10T15:18:00-04:00" calendar="Union" number="36">
+      <text>Placed on the Union Calendar, Calendar No. 36.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU03" subcommittee="Courts, the Internet, and Intellectual Property" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Cable television"/>
+    <term name="Communication satellites"/>
+    <term name="Copyright"/>
+    <term name="Fees"/>
+    <term name="Intellectual property"/>
+    <term name="Law"/>
+    <term name="Licenses"/>
+    <term name="Science, technology, communications"/>
+    <term name="Television broadcasting"/>
+    <term name="Television programs"/>
+    <term name="Television relay systems"/>
+    <term name="Television stations"/>
+  </subjects>
+  <amendments/>
+  <summary>5/10/2005--Reported to House without amendment.
+Makes technical corrections to satellite distant signal compulsory copyright license provisions (copyright law regarding secondary transmissions of superstations and network stations for private home viewing).</summary>
+</bill>

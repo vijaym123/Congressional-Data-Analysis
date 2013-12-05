@@ -1,0 +1,58 @@
+<bill session="110" type="s" number="189" updated="2013-07-19T22:21:58-04:00">
+  <state datetime="2008-01-30">REPORTED</state>
+  <status>
+    <unknown datetime="2008-01-30"/>
+  </status>
+  <introduced datetime="2007-01-04"/>
+  <titles>
+    <title as="introduced" type="official">A bill to decrease the matching funds requirements and authorize additional appropriations for Keweenaw National Historical Park in the State of Michigan.</title>
+  </titles>
+  <sponsor id="300066"/>
+  <cosponsors>
+    <cosponsor id="300093" joined="2007-10-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-04">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2007-09-27">
+      <text>Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 110-266.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-01-30">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2008-04-10">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-286.</text>
+    </action>
+    <calendar datetime="2008-04-10" calendar="Senate Legislative" under="General Orders" number="638">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 638.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="National Parks" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="h" number="3704"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Authorization"/>
+    <term name="Commemorations"/>
+    <term name="Department of the Interior"/>
+    <term name="Economics and public finance"/>
+    <term name="Environmental protection"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Government operations and politics"/>
+    <term name="Historic sites"/>
+    <term name="History"/>
+    <term name="Land transfers"/>
+    <term name="Michigan"/>
+    <term name="National parks"/>
+  </subjects>
+  <amendments/>
+  <summary>1/4/2007--Introduced.
+Decreases the matching funds requirement, and authorizes additional appropriations, for the Keweenaw National Historical Park in Michigan.</summary>
+</bill>

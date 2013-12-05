@@ -1,0 +1,78 @@
+<bill session="110" type="h" number="5478" updated="2013-07-19T21:51:51-04:00">
+  <state datetime="2008-02-29">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2008-02-29"/>
+  </status>
+  <introduced datetime="2008-02-25"/>
+  <titles>
+    <title as="introduced" type="official">To provide for the continued minting and issuance of certain $1 coins in 2008.</title>
+  </titles>
+  <sponsor id="400163"/>
+  <cosponsors>
+    <cosponsor id="400010" joined="2008-02-25"/>
+    <cosponsor id="400140" joined="2008-02-25"/>
+    <cosponsor id="400311" joined="2008-02-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-02-25">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2008-02-25T16:45:00-05:00">
+      <text>Ms. Moore (WI) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2008-02-25T16:46:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1013" label="consideration"/>
+    </action>
+    <action datetime="2008-02-25T16:46:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5478.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-02-25T16:49:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H1013" label="text"/>
+    </vote>
+    <action datetime="2008-02-25T16:49:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-02-25">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+    <action datetime="2008-02-28">
+      <text>Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.</text>
+      <reference ref="CR S1390" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2008-02-28" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2008-02-28">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2008-02-28">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2008-02-28">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2008-02-29">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2008-02-29" type="public" number="110-192">
+      <text>Became Public Law No: 110-192.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Coins and coinage"/>
+    <term name="Commemorations"/>
+    <term name="Minorities"/>
+    <term name="Native Americans"/>
+  </subjects>
+  <amendments/>
+  <summary>2/29/2008--Public Law.
+Continues in effect until January 1, 2009, certain coins and currency law requiring the minting and issuance of $1 coins which bear any design (including the Sacagawea-design) in effect before the required issuance of coins: (1) emblematic of the Presidents of the United States; or (2) under the Native American $1 Coin Act.</summary>
+</bill>

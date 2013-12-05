@@ -1,0 +1,96 @@
+<bill session="110" type="h" number="6545" updated="2013-07-19T22:01:01-04:00">
+  <state datetime="2008-07-23T17:08:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-07-23T17:08:00-04:00"/>
+  </status>
+  <introduced datetime="2008-07-17"/>
+  <titles>
+    <title as="introduced" type="short">National Energy Security Intelligence Act of 2008</title>
+    <title as="passed house" type="short">National Energy Security Intelligence Act of 2008</title>
+    <title as="introduced" type="official">To require the Director of National Intelligence to conduct a national intelligence assessment on national security and energy security issues.</title>
+  </titles>
+  <sponsor id="412260"/>
+  <cosponsors>
+    <cosponsor id="412210" joined="2008-07-17"/>
+    <cosponsor id="412262" joined="2008-07-17"/>
+    <cosponsor id="412257" joined="2008-07-22"/>
+    <cosponsor id="412188" joined="2008-07-17"/>
+    <cosponsor id="412220" joined="2008-07-17"/>
+    <cosponsor id="412198" joined="2008-07-17"/>
+    <cosponsor id="412233" joined="2008-07-17"/>
+    <cosponsor id="412219" joined="2008-07-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-07-17">
+      <text>Referred to the House Committee on Intelligence (Permanent Select).</text>
+    </action>
+    <action datetime="2008-07-22T19:21:00-04:00">
+      <text>Mr. Ruppersberger moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2008-07-22T19:21:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6796-6801" label="consideration"/>
+    </action>
+    <action datetime="2008-07-22T19:21:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6545.</text>
+    </action>
+    <action datetime="2008-07-22T19:58:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2008-07-23T17:02:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7011-7012" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-07-23T17:08:00-04:00" how="roll" result="pass" roll="520" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 0, 2 Present (Roll no. 520).</text>
+      <reference ref="CR 7/22/2008 H6796" label="text"/>
+    </vote>
+    <action datetime="2008-07-23T17:08:00-04:00">
+      <text>Mr. Price (GA) moved to reconsider the vote.</text>
+    </action>
+    <action datetime="2008-07-23T17:09:00-04:00">
+      <text>Mr. Hastings (FL) moved to table the motion to reconsider the vote</text>
+    </action>
+    <action datetime="2008-07-23T17:10:00-04:00">
+      <text>On motion to table the motion to reconsider the vote Agreed to by recorded vote: 242 - 179 (Roll no. 521).</text>
+    </action>
+    <action datetime="2008-07-23T17:11:00-04:00">
+      <text>Motion to reconsider the vote tabled.</text>
+    </action>
+    <action datetime="2008-07-24">
+      <text>Received in the Senate and Read twice and referred to the Select Committee on Intelligence.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral"/>
+    <committee code="SLIN" name="Senate Intelligence (Select)" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="6510"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Alternative energy sources"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Energy"/>
+    <term name="Energy demand"/>
+    <term name="Energy prices"/>
+    <term name="Energy security"/>
+    <term name="Energy supplies"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Governmental investigations"/>
+    <term name="International affairs"/>
+    <term name="Iran"/>
+    <term name="Latin America"/>
+    <term name="Middle East and North Africa"/>
+    <term name="Natural gas"/>
+    <term name="Petroleum"/>
+    <term name="Terrorism"/>
+    <term name="Venezuela"/>
+  </subjects>
+  <amendments/>
+  <summary>7/23/2008--Passed House without amendment.
+National Energy Security Intelligence Act of 2008 - Requires the Director of National Intelligence to submit to Congress a national intelligence assessment on national security and energy security issues relating to rapidly escalating energy costs, including: (1) the short- and long-term outlook for prices, supply, and demand for key forms of energy such as crude oil, natural gas, and alternative fuels; (2) the plans and intentions of key energy-producing and exporting nations with respect to energy production and supply; and (3) the national security implications.</summary>
+</bill>

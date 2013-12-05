@@ -1,0 +1,55 @@
+<bill session="110" type="sc" number="105" updated="2013-07-19T22:20:17-04:00">
+  <state datetime="2008-10-02T17:54:00-04:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2008-10-02T17:54:00-04:00"/>
+  </status>
+  <introduced datetime="2008-10-01"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution directing the Clerk of the House of Representatives to correct the enrollment of H.R. 6063.</title>
+  </titles>
+  <sponsor id="300078"/>
+  <cosponsors/>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2008-10-01" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S10388" label="consideration"/>
+      <reference ref="CR S10388" label="text as passed Senate"/>
+      <reference ref="CR S10339" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2008-10-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2008-10-02T12:11:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2008-10-02T17:19:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2008-10-02T17:54:00-04:00">
+      <text>Mr. Lampson asked unanimous consent to take from the Speaker's table and consider.</text>
+    </action>
+    <action datetime="2008-10-02T17:54:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H10678" label="consideration"/>
+      <reference ref="CR H10678" label="text"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2008-10-02T17:54:00-04:00" how="without objection" result="pass" type="vote2" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+    </vote>
+    <action datetime="2008-10-02T17:54:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="6063"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Legislation"/>
+    <term name="Space activities"/>
+  </subjects>
+  <amendments/>
+  <summary>10/2/2008--Passed House without amendment.
+Makes corrections to the enrollment of H.R. 6063 (National Aeronautics and Space Administration Authorization Act of 2008).</summary>
+</bill>

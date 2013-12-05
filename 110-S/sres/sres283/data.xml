@@ -1,0 +1,37 @@
+<bill session="110" type="sr" number="283" updated="2013-07-19T22:15:30-04:00">
+  <state datetime="2007-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2007-07-30"/>
+  </status>
+  <introduced datetime="2007-07-30"/>
+  <titles>
+    <title as="introduced" type="official">A resolution expressing the sense of the Senate that the United States Postal Service should discontinue the practice of contracting out mail delivery services.</title>
+  </titles>
+  <sponsor id="412246"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2007-07-30">
+      <text>Referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <reference ref="CR S10318-10319" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2007-08-22">
+      <text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSGA09" subcommittee="Federal Financial Management, Government Information, Federal Services, and International Security" name="Senate Homeland Security and Governmental Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="hr" number="282"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Government service contracts"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>7/30/2007--Introduced.
+Declares that the United States Postal Service (USPS) should discontinue the practice of contracting out mail delivery services.</summary>
+</bill>

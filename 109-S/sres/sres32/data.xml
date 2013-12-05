@@ -1,0 +1,38 @@
+<bill session="109" type="sr" number="32" updated="2013-07-19T20:07:09-04:00">
+  <state datetime="2005-02-01">REPORTED</state>
+  <status>
+    <unknown datetime="2005-02-01"/>
+  </status>
+  <introduced datetime="2005-02-01"/>
+  <titles>
+    <title as="introduced" type="official">An original resolution authorizing expenditures by the Committee on Foreign Relations.</title>
+  </titles>
+  <sponsor id="300070"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2005-02-01">
+      <text>Committee on Foreign Relations. Original measure reported to Senate by Senator Lugar. Without written report.</text>
+    </action>
+    <action state="REFERRED" datetime="2005-02-01">
+      <text>Referred to the Committee on Rules and Administration.</text>
+      <reference ref="CR S824" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-02-01">
+      <text>Committee on Foreign Relations ordered to be reported an original measure.</text>
+      <committee name="Committee on Rules and Administration"/>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Origin, Reporting, Markup"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional committees (Senate)"/>
+    <term name="Senate Foreign Relations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/1/2005--Reported to Senate without amendment.
+Authorizes expenditures by the Committee on Foreign Relations for the 109th Congress.</summary>
+</bill>

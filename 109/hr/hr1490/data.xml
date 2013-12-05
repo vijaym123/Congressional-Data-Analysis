@@ -1,0 +1,59 @@
+<bill session="109" type="h" number="1490" updated="2013-07-19T19:17:26-04:00">
+  <state datetime="2005-06-07T14:22:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-06-07T14:22:00-04:00"/>
+  </status>
+  <introduced datetime="2005-04-06"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 10, United States Code, to authorize the National Defense University to award the degree of Master of Science in Joint Campaign Planning and Strategy, and for other purposes.</title>
+  </titles>
+  <sponsor id="400377"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-04-06">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2005-04-21">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+    <action datetime="2005-06-07T14:13:00-04:00">
+      <text>Mrs. Drake moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2005-06-07T14:14:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4147-4148" label="consideration"/>
+    </action>
+    <action datetime="2005-06-07T14:14:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1490.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-06-07T14:22:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4147" label="text"/>
+    </vote>
+    <action datetime="2005-06-07T14:22:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-06-08">
+      <text>Received in the Senate and Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Education"/>
+    <term name="Higher education"/>
+    <term name="Military education"/>
+    <term name="Military strategy"/>
+    <term name="Service academies"/>
+    <term name="Strategic planning"/>
+  </subjects>
+  <amendments/>
+  <summary>6/7/2005--Passed House amended.
+Authorizes the President of the National Defense University, after May 2005, to award the degree of Master of Science in Joint Campaign Planning and Strategy.</summary>
+</bill>

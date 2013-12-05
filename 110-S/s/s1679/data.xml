@@ -1,0 +1,59 @@
+<bill session="110" type="s" number="1679" updated="2013-07-19T22:35:03-04:00">
+  <state datetime="2007-11-15">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2007-11-15"/>
+  </status>
+  <introduced datetime="2007-06-21"/>
+  <titles>
+    <title as="introduced" type="official">A bill to provide that the great hall of the Capitol Visitor Center shall be known as Emancipation Hall.</title>
+  </titles>
+  <sponsor id="300063"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2007-11-14"/>
+    <cosponsor id="300038" joined="2007-11-14"/>
+    <cosponsor id="300043" joined="2007-11-08"/>
+    <cosponsor id="300066" joined="2007-11-14"/>
+    <cosponsor id="300068" joined="2007-11-14"/>
+    <cosponsor id="400629" joined="2007-06-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-06-21">
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+    <action datetime="2007-11-15">
+      <text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text>
+      <reference ref="CR S14568" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2007-11-15" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S14568" label="text"/>
+    </vote>
+    <action datetime="2007-11-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2007-12-04T14:12:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2007-12-04T17:02:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="h" number="3315"/>
+    <bill relation="unknown" session="110" type="h" number="3315"/>
+    <bill relation="unknown" session="110" type="h" number="3315"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Commemorations"/>
+    <term name="Names"/>
+    <term name="Tourism"/>
+  </subjects>
+  <amendments/>
+  <summary>11/15/2007--Passed Senate without amendment.
+Designates the great hall of the Capitol Visitor Center as Emancipation Hall.</summary>
+</bill>

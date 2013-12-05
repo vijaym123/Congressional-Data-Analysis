@@ -1,0 +1,134 @@
+<bill session="110" type="h" number="6073" updated="2013-07-19T21:56:56-04:00">
+  <state datetime="2008-10-15">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2008-10-15"/>
+  </status>
+  <introduced datetime="2008-05-15"/>
+  <titles>
+    <title as="introduced" type="official">To provide that Federal employees receiving their pay by electronic funds transfer shall be given the option of receiving their pay stubs electronically.</title>
+  </titles>
+  <sponsor id="400643"/>
+  <cosponsors>
+    <cosponsor id="400570" joined="2008-06-05"/>
+    <cosponsor id="400040" joined="2008-05-20"/>
+    <cosponsor id="400041" joined="2008-06-17"/>
+    <cosponsor id="400055" joined="2008-05-20"/>
+    <cosponsor id="400616" joined="2008-06-03"/>
+    <cosponsor id="400068" joined="2008-05-19"/>
+    <cosponsor id="400076" joined="2008-05-19"/>
+    <cosponsor id="412236" joined="2008-05-19"/>
+    <cosponsor id="400655" joined="2008-05-22"/>
+    <cosponsor id="400658" joined="2008-06-09"/>
+    <cosponsor id="400644" joined="2008-05-20"/>
+    <cosponsor id="400321" joined="2008-06-05"/>
+    <cosponsor id="400333" joined="2008-06-17"/>
+    <cosponsor id="412201" joined="2008-05-22"/>
+    <cosponsor id="400365" joined="2008-05-22"/>
+    <cosponsor id="412225" joined="2008-06-17"/>
+    <cosponsor id="412254" joined="2008-06-03"/>
+    <cosponsor id="412239" joined="2008-06-09"/>
+    <cosponsor id="400433" joined="2008-05-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-05-15">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2008-06-04">
+      <text>Referred to the Subcommittee on Government Management, Organization, and Procurement.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <action datetime="2008-07-16">
+      <text>Subcommittee on Government Management, Organization, and Procurement Discharged.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <action datetime="2008-07-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-07-16">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2008-07-28T11:34:00-04:00">
+      <text>Reported by the Committee on Oversight and Government. H. Rept. 110-780.</text>
+    </action>
+    <calendar datetime="2008-07-28T11:35:00-04:00" calendar="Union" number="499">
+      <text>Placed on the Union Calendar, Calendar No. 499.</text>
+    </calendar>
+    <action datetime="2008-07-29T14:10:00-04:00">
+      <text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2008-07-29T14:10:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7218" label="consideration"/>
+    </action>
+    <action datetime="2008-07-29T14:10:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6073.</text>
+    </action>
+    <action datetime="2008-07-29T14:16:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Foxx objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2008-07-30T19:46:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7596" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-07-30T19:46:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR 7/29/2008 H7218" label="text"/>
+    </vote>
+    <action datetime="2008-07-30T19:46:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-07-31">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2008-09-23">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2008-09-24">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2008-09-24" calendar="Senate Legislative" under="General Orders" number="1073">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1073.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="2008-09-30" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S10184" label="consideration"/>
+    </vote>
+    <topresident datetime="2008-09-30">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2008-10-01">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2008-10-07">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2008-10-15">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2008-10-15" type="public" number="110-423">
+      <text>Became Public Law No: 110-423.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSGO24" subcommittee="Government Management, Organization, and Procurement" name="House Oversight and Government Reform"/>
+    <committee activity="Referral" code="HSGO25" subcommittee="Federal Workforce, Post Office, and the District of Columbia" name="House Oversight and Government Reform"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Electronic funds transfers"/>
+    <term name="Federal employees"/>
+    <term name="Finance and financial sector"/>
+    <term name="Salaries"/>
+    <term name="Science, technology, communications"/>
+    <term name="Wages"/>
+  </subjects>
+  <amendments/>
+  <summary>10/15/2008--Public Law.
+Requires the Office of Personnel Management (OPM) to ensure that executive agency employees who receive their pay by electronic funds transfer are given the option of receiving their pay stubs electronically.</summary>
+</bill>

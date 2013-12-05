@@ -1,0 +1,89 @@
+<bill session="109" type="s" number="1950" updated="2013-07-19T20:30:28-04:00">
+  <state datetime="2006-07-24">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2006-07-24"/>
+  </status>
+  <introduced datetime="2005-11-01"/>
+  <titles>
+    <title as="introduced" type="short">United States-India Energy Security Cooperation Act of 2005</title>
+    <title as="reported to senate" type="short">United States-India Energy Security Cooperation Act of 2006</title>
+    <title as="passed senate" type="short">United States-India Energy Security Cooperation Act of 2006</title>
+    <title as="introduced" type="official">A bill to promote global energy security through increased cooperation between the United States and India in diversifying sources of energy, stimulating development of alternative fuels, developing and deploying technologies that promote the clean and efficient use of coal, and improving energy efficiency.</title>
+  </titles>
+  <sponsor id="300070"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-11-01">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2006-05-23">
+      <text>Committee on Foreign Relations. Ordered to be reported with amendments favorably.</text>
+      <committee name="Committee on Foreign Relations"/>
+    </calendar>
+    <action datetime="2006-05-25">
+      <text>Committee on Foreign Relations. Reported by Senator Lugar with amendments. Without written report.</text>
+    </action>
+    <calendar datetime="2006-05-25" calendar="Senate Legislative" under="General Orders" number="454">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 454.</text>
+    </calendar>
+    <action datetime="2006-07-24">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S8135-8136" label="consideration"/>
+      <reference ref="CR S8135-8136" label="text as reported in Senate"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2006-07-24" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with amendments by Unanimous Consent.</text>
+      <reference ref="CR S8136" label="text"/>
+    </vote>
+    <action datetime="2006-07-25T20:19:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-07-25">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-07-25">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+    <committee code="HSFA" name="House International Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="5580"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Alcohol as fuel"/>
+    <term name="Alternative energy sources"/>
+    <term name="Biomass energy"/>
+    <term name="Carbon cycle"/>
+    <term name="Coal"/>
+    <term name="Congress"/>
+    <term name="Congress and foreign policy"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Energy"/>
+    <term name="Energy efficiency"/>
+    <term name="Energy research"/>
+    <term name="Energy security"/>
+    <term name="Energy supplies"/>
+    <term name="Environmental protection"/>
+    <term name="Environmental technology"/>
+    <term name="Hydrogen"/>
+    <term name="India"/>
+    <term name="International cooperation"/>
+    <term name="International environmental cooperation"/>
+    <term name="Petroleum"/>
+    <term name="Petroleum reserves"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Research and development"/>
+    <term name="Science, technology, communications"/>
+    <term name="South Asia"/>
+    <term name="Technical assistance"/>
+  </subjects>
+  <amendments>
+    <amendment number="s4688"/>
+  </amendments>
+  <summary>7/24/2006--Passed Senate amended.
+United States-India Energy Security Cooperation Act of 2006 - Declares it is the policy of the United States to: (1) cooperate with India to address common energy challenges, to ensure future global energy security, and to increase the world-wide availability of clean energy; (2) promote dialogue and increased understanding between the United States and India on our respective national energy policies and strategies as an integral part of the expanding strategic partnership between the two countries; and (3) collaborate with India in energy research that fosters market-based approaches to energy security and offers the promise of technological breakthroughs that reduce oil dependency globally. Authorizes the President to establish programs in support of greater energy cooperation between the United States and India. Authorizes assistance for cooperation related to research, development, and deployment in selected areas, including: (1) clean coal and emission reduction technologies and carbon sequestration projects; (2) alternative fuel sources, such as ethanol, biomass, and coal-based fuels; (3) energy efficiency projects; (4) research related to commercially available technologies that promote the clean and efficient use of energy in India; and (5) technical assistance in support of the development by the government of India of a strategic oil reserve to allow India to cope with short-term disruptions to global oil supplies without causing shocks to India's market or the global market. Directs the Secretary of State, in coordination with the Secretary of Energy, to report to certain congressional committees on energy security cooperation between the United States and India.</summary>
+</bill>

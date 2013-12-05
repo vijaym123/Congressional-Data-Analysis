@@ -1,0 +1,83 @@
+<bill session="110" type="h" number="4883" updated="2013-07-19T21:46:40-04:00">
+  <state datetime="2008-04-30">REPORTED</state>
+  <status>
+    <unknown datetime="2008-04-30"/>
+  </status>
+  <introduced datetime="2007-12-19"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Servicemembers Civil Relief Act to provide for a limitation on the sale, foreclosure, or seizure of property owned by a servicemember during the one-year period following the servicemember's period of military service.</title>
+  </titles>
+  <sponsor id="400133"/>
+  <cosponsors>
+    <cosponsor id="400024" joined="2008-04-14"/>
+    <cosponsor id="400041" joined="2008-04-08"/>
+    <cosponsor id="400047" joined="2008-04-08"/>
+    <cosponsor id="412236" joined="2008-07-08"/>
+    <cosponsor id="400152" joined="2008-05-22"/>
+    <cosponsor id="400162" joined="2008-04-08"/>
+    <cosponsor id="412222" joined="2008-04-10"/>
+    <cosponsor id="400443" joined="2008-04-23"/>
+    <cosponsor id="400237" joined="2008-04-10"/>
+    <cosponsor id="400302" joined="2008-04-08"/>
+    <cosponsor id="400337" joined="2008-04-08"/>
+    <cosponsor id="400339" joined="2008-04-10"/>
+    <cosponsor id="400360" joined="2008-04-08"/>
+    <cosponsor id="412219" joined="2008-04-08"/>
+    <cosponsor id="412229" joined="2008-04-14"/>
+    <cosponsor id="412228" joined="2008-04-10"/>
+    <cosponsor id="412214" joined="2008-04-10"/>
+    <cosponsor id="400422" joined="2008-06-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-12-19">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2007-12-21">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-04-16">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-04-23">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-04-23">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-04-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-04-30">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, In Committee"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="1750"/>
+    <bill relation="unknown" session="110" type="s" number="2658"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Collection of accounts"/>
+    <term name="Debtor and creditor"/>
+    <term name="Finance and financial sector"/>
+    <term name="Foreclosure"/>
+    <term name="Housing and community development"/>
+    <term name="Iraq compilation"/>
+    <term name="Liens"/>
+    <term name="Loan defaults"/>
+    <term name="Veterans' benefits"/>
+  </subjects>
+  <amendments/>
+  <summary>12/19/2007--Introduced.
+Amends the Servicemembers Civil Relief Act of 1940 to extend from 90 days to one year the period following release from active duty during which a member of the Armed Forces shall be protected from mortgage foreclosure.</summary>
+</bill>

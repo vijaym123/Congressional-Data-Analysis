@@ -1,0 +1,69 @@
+<bill session="110" type="h" number="2247" updated="2013-07-19T21:23:20-04:00">
+  <state datetime="2007-05-09">REFERRED</state>
+  <status>
+    <introduced datetime="2007-05-09"/>
+  </status>
+  <introduced datetime="2007-05-09"/>
+  <titles>
+    <title as="introduced" type="short">Montgomery GI Bill for Life Act of 2007</title>
+    <title as="introduced" type="official">To amend titles 10 and 38, United States Code, to repeal the 10-year limit on use of Montgomery GI Bill educational assistance benefits, and for other purposes.</title>
+  </titles>
+  <sponsor id="400232"/>
+  <cosponsors>
+    <cosponsor id="412236" joined="2007-09-07"/>
+    <cosponsor id="412193" joined="2007-08-03"/>
+    <cosponsor id="400084" joined="2007-09-07"/>
+    <cosponsor id="400095" joined="2007-06-14"/>
+    <cosponsor id="400100" joined="2007-06-28"/>
+    <cosponsor id="400107" joined="2008-04-03"/>
+    <cosponsor id="412206" joined="2007-08-03"/>
+    <cosponsor id="400155" joined="2007-07-10"/>
+    <cosponsor id="400234" joined="2007-08-03"/>
+    <cosponsor id="400245" joined="2007-08-03"/>
+    <cosponsor id="400263" joined="2008-04-03"/>
+    <cosponsor id="400310" joined="2007-06-28"/>
+    <cosponsor id="400311" joined="2007-09-07"/>
+    <cosponsor id="400391" joined="2007-06-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-05-09">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2007-05-09">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2007-05-09">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2007-05-11">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2007-06-28">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="1261"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Armed forces reserves"/>
+    <term name="Disability retirement"/>
+    <term name="Disabled"/>
+    <term name="Education"/>
+    <term name="Higher education"/>
+    <term name="Military operations"/>
+    <term name="Veterans' education"/>
+  </subjects>
+  <amendments/>
+  <summary>5/9/2007--Introduced.
+Montgomery GI Bill for Life Act of 2007 - Provides that, if an individual eligible for educational assistance under the Montgomery GI Bill is enrolled in an educational institution and the period of such individual's entitlement (ten years after discharge or release from active duty) would expire during a term, quarter, or semester of enrollment, that period shall be extended to the end of that term, quarter, or semester. Allows such an extension until the later of the end of the course or 12 weeks, in the case of an educational institution not regularly operated on a quarter or semester basis. Repeals the: (1) 14-year (after first becoming entitled) limit on the use of educational assistance by members of the Selected Reserve; and (2) ten-year limit on the use educational assistance by members of the Ready Reserve who are separated due to disability after supporting contingency and certain other operations.</summary>
+</bill>

@@ -1,0 +1,91 @@
+<bill session="110" type="s" number="2400" updated="2013-07-19T22:41:46-04:00">
+  <state datetime="2007-12-14">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2007-12-14"/>
+  </status>
+  <introduced datetime="2007-12-03"/>
+  <titles>
+    <title as="introduced" type="short">Wounded Warrior Bonus Equity Act</title>
+    <title as="passed senate" type="short">Wounded Warrior Bonus Equity Act</title>
+    <title as="introduced" type="official">A bill to amend title 37, United States Code, to require the Secretary of Defense to continue to pay to a member of the Armed Forces who is retired or separated from the Armed Forces due to a combat-related injury certain bonuses that the member was entitled to before the retirement or separation and would continue to be entitled to if the member was not retired or separated, and for other purposes.</title>
+  </titles>
+  <sponsor id="300088"/>
+  <cosponsors>
+    <cosponsor id="412246" joined="2007-12-03"/>
+    <cosponsor id="300022" joined="2007-12-03"/>
+    <cosponsor id="300024" joined="2007-12-12"/>
+    <cosponsor id="300025" joined="2007-12-10"/>
+    <cosponsor id="300027" joined="2007-12-14"/>
+    <cosponsor id="300037" joined="2007-12-03"/>
+    <cosponsor id="300040" joined="2007-12-11"/>
+    <cosponsor id="300064" joined="2007-12-03"/>
+    <cosponsor id="300067" joined="2007-12-06"/>
+    <cosponsor id="400621" joined="2007-12-03"/>
+    <cosponsor id="300071" joined="2007-12-03"/>
+    <cosponsor id="412243" joined="2007-12-14"/>
+    <cosponsor id="300075" joined="2007-12-11"/>
+    <cosponsor id="400357" joined="2007-12-03"/>
+    <cosponsor id="300094" joined="2007-12-13"/>
+    <cosponsor id="412244" joined="2008-01-28"/>
+    <cosponsor id="400546" joined="2007-12-13"/>
+    <cosponsor id="412249" joined="2007-12-03"/>
+    <cosponsor id="300100" joined="2007-12-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2007-12-03">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S14703"/>
+    </action>
+    <action state="REFERRED" datetime="2007-12-03">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+    <action datetime="2007-12-05">
+      <text>Star Print ordered on the bill.</text>
+    </action>
+    <action datetime="2007-12-14">
+      <text>Senate Committee on Armed Services discharged by Unanimous Consent.</text>
+      <reference ref="CR S15705-15706" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2007-12-14" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S15705-15706" label="text"/>
+    </vote>
+    <action datetime="2007-12-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2007-12-17T14:30:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2007-12-17">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2008-01-23">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, Discharged"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="3793"/>
+    <bill relation="unknown" session="110" type="h" number="4334"/>
+    <bill relation="unknown" session="110" type="h" number="4750"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Collection of accounts"/>
+    <term name="Disability retirement"/>
+    <term name="Disabled"/>
+    <term name="Iraq compilation"/>
+    <term name="Military pay"/>
+    <term name="Officer personnel"/>
+    <term name="Retired military personnel"/>
+    <term name="War casualties"/>
+  </subjects>
+  <amendments/>
+  <summary>12/14/2007--Passed Senate without amendment.
+Wounded Warrior Bonus Equity Act - Provides that, in the case of a member of the Armed Forces who is retired or separated for disability due to a combat-related injury, the Secretary of Defense shall require the continued payment of any covered bonuses or special pay to which the member: (1) was entitled to immediately before the retirement or separation; and (2) would continue to be entitled to if not retired or separated. Requires such payment in a lump sum within 90 days after such retirement or separation.</summary>
+</bill>

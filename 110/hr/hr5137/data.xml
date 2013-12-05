@@ -1,0 +1,75 @@
+<bill session="110" type="h" number="5137" updated="2013-07-19T21:48:54-04:00">
+  <state datetime="2008-03-04T14:26:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-03-04T14:26:00-05:00"/>
+  </status>
+  <introduced datetime="2008-01-28"/>
+  <titles>
+    <title as="introduced" type="official">To ensure that hunting remains a purpose of the New River Gorge National River.</title>
+  </titles>
+  <sponsor id="400331"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2008-01-28">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2008-01-31">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2008-03-04T14:22:00-05:00">
+      <text>Mr. Rahall moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2008-03-04T14:23:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1195" label="consideration"/>
+    </action>
+    <action datetime="2008-03-04T14:23:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5137.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-03-04T14:26:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H1195" label="text"/>
+    </vote>
+    <action datetime="2008-03-04T14:26:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-03-05">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2008-07-30">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2008-09-11">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2008-09-16">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2008-09-16" calendar="Senate Legislative" under="General Orders" number="1026">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1026.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Animals"/>
+    <term name="Fishing"/>
+    <term name="Hunting"/>
+    <term name="National parks"/>
+    <term name="Rivers"/>
+    <term name="Sports and recreation"/>
+    <term name="Water resources development"/>
+    <term name="West Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>9/16/2008--Reported to Senate without amendment.
+Amends the National Parks and Recreation Act of 1978 to require (current law authorizes) the Secretary of the Interior to: (1) permit hunting and fishing on lands and waters within the boundaries of the New River Gorge National River; and (2) designate zones where, and establish periods when, no hunting or fishing shall be permitted.</summary>
+</bill>

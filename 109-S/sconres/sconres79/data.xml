@@ -1,0 +1,81 @@
+<bill session="109" type="sc" number="79" updated="2013-07-19T20:13:01-04:00">
+  <state datetime="2006-02-15T18:10:00-05:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2006-02-15T18:10:00-05:00"/>
+  </status>
+  <introduced datetime="2006-02-01"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution expressing the sense of Congress that no United States assistance should be provided directly to the Palestinian Authority if any representative political party holding a majority of parliamentary seats within the Palestinian Authority maintains a position calling for the destruction of Israel.</title>
+  </titles>
+  <sponsor id="400546"/>
+  <cosponsors>
+    <cosponsor id="300013" joined="2006-02-01"/>
+    <cosponsor id="300021" joined="2006-02-01"/>
+    <cosponsor id="300025" joined="2006-03-01"/>
+    <cosponsor id="300058" joined="2006-02-01"/>
+    <cosponsor id="300067" joined="2006-02-01"/>
+    <cosponsor id="300096" joined="2006-02-01"/>
+    <cosponsor id="300098" joined="2006-02-01"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2006-02-01" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S459" label="consideration"/>
+      <reference ref="CR S459" label="text as passed Senate"/>
+      <reference ref="CR S454" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2006-02-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-02-07T14:02:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-02-07">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+    <action datetime="2006-02-15T10:20:00-05:00">
+      <text>Mr. Hyde moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2006-02-15T10:21:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H280-288" label="consideration"/>
+    </action>
+    <action datetime="2006-02-15T10:21:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 79.</text>
+    </action>
+    <action datetime="2006-02-15T10:54:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2006-02-15T17:46:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H297-298" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2006-02-15T18:10:00-05:00" how="roll" result="pass" roll="10" type="vote2" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 418 - 1 (Roll no. 10).</text>
+      <reference ref="CR H280" label="text"/>
+    </vote>
+    <action datetime="2006-02-15T18:10:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House International Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Economic assistance"/>
+    <term name="Government operations and politics"/>
+    <term name="Israel"/>
+    <term name="Legislative bodies"/>
+    <term name="Legislators"/>
+    <term name="Middle East and North Africa"/>
+    <term name="Palestinians"/>
+    <term name="Parliamentary government"/>
+    <term name="Political parties"/>
+    <term name="Sovereignty"/>
+  </subjects>
+  <amendments/>
+  <summary>2/15/2006--Passed House without amendment.
+Expresses the sense of Congress that no U.S. assistance should be provided directly to the Palestinian Authority (PA) if any representative political party holding a majority of parliamentary seats within the PA maintains a position calling for the destruction of Israel.</summary>
+</bill>

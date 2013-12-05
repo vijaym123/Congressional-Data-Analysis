@@ -1,0 +1,52 @@
+<bill session="109" type="h" number="463" updated="2013-07-19T19:08:22-04:00">
+  <state datetime="2005-02-01">REFERRED</state>
+  <status>
+    <introduced datetime="2005-02-01"/>
+  </status>
+  <introduced datetime="2005-02-01"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 10, United States Code, to permit the use of education benefits under the Reserve Montgomery GI Bill for licensing or certification tests.</title>
+  </titles>
+  <sponsor id="400126"/>
+  <cosponsors>
+    <cosponsor id="400030" joined="2005-04-05"/>
+    <cosponsor id="400065" joined="2005-04-14"/>
+    <cosponsor id="400133" joined="2005-06-07"/>
+    <cosponsor id="400163" joined="2005-05-23"/>
+    <cosponsor id="400263" joined="2005-05-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-02-01">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2005-02-18">
+      <text>Executive Comment Requested from DOD.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+    <action datetime="2005-02-18">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Education"/>
+    <term name="Educational tests"/>
+    <term name="Employment tests"/>
+    <term name="Fees"/>
+    <term name="Higher education"/>
+    <term name="Labor and employment"/>
+    <term name="Law"/>
+    <term name="Licenses"/>
+    <term name="Veterans' benefits"/>
+    <term name="Veterans' education"/>
+  </subjects>
+  <amendments/>
+  <summary>2/1/2005--Introduced.
+Permits members of the Selected Reserve to use up to $2,000 of Reserve Montgomery GI Bill educational assistance benefits for payment for licensing or certification tests.</summary>
+</bill>

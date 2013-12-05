@@ -1,0 +1,49 @@
+<bill session="109" type="h" number="1003" updated="2013-07-19T19:13:02-04:00">
+  <state datetime="2005-03-01">REFERRED</state>
+  <status>
+    <introduced datetime="2005-03-01"/>
+  </status>
+  <introduced datetime="2005-03-01"/>
+  <titles>
+    <title as="introduced" type="short">Financial Services for All Act</title>
+    <title as="introduced" type="official">To amend the Federal Credit Union Act to allow greater access to international remittance services, and for other purposes.</title>
+  </titles>
+  <sponsor id="400009"/>
+  <cosponsors>
+    <cosponsor id="400162" joined="2005-03-01"/>
+    <cosponsor id="400163" joined="2005-03-08"/>
+    <cosponsor id="400262" joined="2005-03-08"/>
+    <cosponsor id="400366" joined="2005-03-01"/>
+    <cosponsor id="400423" joined="2005-03-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-03-01">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2005-03-28">
+      <text>Referred to the Subcommittee on Financial Institutions and Consumer Credit.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA15" subcommittee="Financial Institutions and Consumer Credit" name="House Financial Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative procedure"/>
+    <term name="Credit unions"/>
+    <term name="Electronic funds transfers"/>
+    <term name="Federal reserve system"/>
+    <term name="Financial services"/>
+    <term name="Foreign exchange"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Government operations and politics"/>
+    <term name="Law"/>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <summary>3/1/2005--Introduced.
+Financial Services for All Act - Amends the Federal Credit Union Act to empower a Federal Credit Union to sell or provide electronic fund transfers, as well as receive them, for a fee.</summary>
+</bill>

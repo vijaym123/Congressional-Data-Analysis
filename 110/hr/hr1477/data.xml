@@ -1,0 +1,43 @@
+<bill session="110" type="h" number="1477" updated="2013-07-19T21:16:36-04:00">
+  <state datetime="2007-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2007-03-12"/>
+  </status>
+  <introduced datetime="2007-03-12"/>
+  <titles>
+    <title as="introduced" type="short">Disabled Veterans Commissary and Exchange Store Benefits Act</title>
+    <title as="introduced" type="official">To amend title 10, United States Code, to extend military commissary and exchange store privileges to veterans with a compensable service-connected disability and to their dependents.</title>
+  </titles>
+  <sponsor id="400640"/>
+  <cosponsors>
+    <cosponsor id="400321" joined="2007-05-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-03-12">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2007-04-03">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="h" number="2495"/>
+    <bill relation="unknown" session="110" type="h" number="4071"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disabled"/>
+    <term name="Families"/>
+    <term name="Post exchanges"/>
+    <term name="Veterans' benefits"/>
+    <term name="Veterans' disability compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/2007--Introduced.
+Disabled Veterans Commissary and Exchange Store Benefits Act - Permits a veteran with any compensable service-connected disability (and the veteran's dependents) to use commissary and exchange stores on the same basis as a member of the Armed Forces entitled to retired or retainer pay.</summary>
+</bill>

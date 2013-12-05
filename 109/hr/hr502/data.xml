@@ -1,0 +1,58 @@
+<bill session="109" type="h" number="502" updated="2013-07-19T19:08:43-04:00">
+  <state datetime="2005-02-01">REFERRED</state>
+  <status>
+    <introduced datetime="2005-02-01"/>
+  </status>
+  <introduced datetime="2005-02-01"/>
+  <titles>
+    <title type="popular">Death Gratuity Military bill</title>
+    <title type="popular">Servicemembers' Group Life Insurance bill</title>
+    <title as="introduced" type="short">Honoring Fallen Heroes Act of 2005</title>
+    <title as="introduced" type="official">To increase the amounts payable under the Department of Defense death gratuity program and the Servicemembers' Group Life Insurance program.</title>
+  </titles>
+  <sponsor id="400380"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-02-01">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2005-02-01">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2005-02-01">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2005-03-17">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Armed Services"/>
+    </action>
+    <action datetime="2005-04-04">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="832"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Armed forces abroad"/>
+    <term name="Families"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government life insurance"/>
+    <term name="Iraq compilation"/>
+    <term name="Labor and employment"/>
+    <term name="Military dependents"/>
+    <term name="Survivors' benefits"/>
+    <term name="War casualties"/>
+  </subjects>
+  <amendments/>
+  <summary>2/1/2005--Introduced.
+Honoring Fallen Heroes Act of 2005 - Increases from $12,000 to $100,000 the death gratuity payable to survivors of members of the Armed Forces who die: (1) while on active duty or inactive duty training; or (2) within 120 days after discharge or release from such duty or training, if the death resulted from an injury or disease incurred or aggravated during such duty or training. Increases from $250,000 to $400,000 the maximum coverage amount under the Servicemembers' Group Life Insurance program. Provides retroactive applicability of such increase with respect to members who died in the performance of duty between the period beginning on October 1, 2000, and ending 120 days after the enactment of this Act and who, on the date of death, were insured for the maximum coverage available.</summary>
+</bill>

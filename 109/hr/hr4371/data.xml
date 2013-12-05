@@ -1,0 +1,64 @@
+<bill session="109" type="h" number="4371" updated="2013-07-19T19:42:57-04:00">
+  <state datetime="2005-11-17">REFERRED</state>
+  <status>
+    <introduced datetime="2005-11-17"/>
+  </status>
+  <introduced datetime="2005-11-17"/>
+  <titles>
+    <title as="introduced" type="official">To amend title XVIII of the Social Security Act to increase the per resident payment floor for direct graduate medical education payments under the Medicare Program.</title>
+  </titles>
+  <sponsor id="400241"/>
+  <cosponsors>
+    <cosponsor id="400043" joined="2006-03-29"/>
+    <cosponsor id="400639" joined="2006-07-10"/>
+    <cosponsor id="400657" joined="2006-04-25"/>
+    <cosponsor id="400123" joined="2006-04-06"/>
+    <cosponsor id="400153" joined="2006-07-10"/>
+    <cosponsor id="400201" joined="2006-07-10"/>
+    <cosponsor id="400513" joined="2006-04-25"/>
+    <cosponsor id="400282" joined="2006-04-26"/>
+    <cosponsor id="400284" joined="2006-03-16"/>
+    <cosponsor id="400326" joined="2006-04-27"/>
+    <cosponsor id="400369" joined="2005-11-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-11-17">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E2391"/>
+    </action>
+    <action state="REFERRED" datetime="2005-11-17">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2005-11-17">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2005-11-17">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2005-12-02">
+      <text>Referred to the Subcommittee on Health, for a period to be subsequently determined by the Chairman.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="s" number="2289"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Education"/>
+    <term name="Higher education"/>
+    <term name="Hospital rates"/>
+    <term name="Medical education"/>
+    <term name="Medical residents"/>
+    <term name="Medicare"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>11/17/2005--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to increase from 85% to100% of the locality adjusted national average per resident amount the payment floor for direct graduate medical education payments under the Medicare program for cost reporting periods begining during or after FY2006.</summary>
+</bill>

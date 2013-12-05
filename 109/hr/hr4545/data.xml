@@ -1,0 +1,76 @@
+<bill session="109" type="h" number="4545" updated="2013-07-19T19:44:28-04:00">
+  <state datetime="2006-09-28T15:20:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-09-28T15:20:00-04:00"/>
+  </status>
+  <introduced datetime="2005-12-14"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Secretary of the Interior to participate in the Los Angeles County Water Supply Augmentation Demonstration Project, and for other purposes.</title>
+  </titles>
+  <sponsor id="400355"/>
+  <cosponsors>
+    <cosponsor id="400290" joined="2005-12-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-12-14">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2006-01-03">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-03-08">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-09-28T15:14:00-04:00">
+      <text>Mr. Hayworth moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2006-09-28T15:15:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7736-7737" label="consideration"/>
+    </action>
+    <action datetime="2006-09-28T15:15:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4545.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-09-28T15:20:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7736" label="text"/>
+    </vote>
+    <action datetime="2006-09-28T15:20:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-09-28">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2006-11-13">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral"/>
+    <committee activity="Referral, Hearings" code="HSII13" subcommittee="Water and Power" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Animals"/>
+    <term name="California"/>
+    <term name="Congress"/>
+    <term name="Economics and public finance"/>
+    <term name="Environmental protection"/>
+    <term name="Federal aid to water pollution control"/>
+    <term name="Federal aid to water resources development"/>
+    <term name="Habitat conservation"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Restoration ecology"/>
+    <term name="Sunset legislation"/>
+    <term name="Waste water treatment"/>
+    <term name="Water conservation"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/2006--Passed House amended.
+Amends the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Secretary of the Interior to participate in a neighborhood demonstration project to: (1) demonstrate the potential for infiltration of stormwater runoff to recharge groundwater by retrofitting sites in the Los Angeles area with features designed to reflect state-of-the-art best management practices for water conservation, pollution reduction and treatment, and habitat restoration; and (2) assess the potential new water supply yield based on increased infiltration and the value of the new water. Limits the federal share to 25% of the project's cost. Terminates the Secretary's authority to carry out this Act 10 years after its enactment.</summary>
+</bill>

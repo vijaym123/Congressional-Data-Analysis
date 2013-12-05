@@ -1,0 +1,40 @@
+<bill session="110" type="h" number="5987" updated="2013-07-19T21:56:12-04:00">
+  <state datetime="2008-05-07">REFERRED</state>
+  <status>
+    <introduced datetime="2008-05-07"/>
+  </status>
+  <introduced datetime="2008-05-07"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 37, United States Code, to guarantee a pay increase for members of the uniformed services for fiscal years 2010 through 2013 of one-half of one percentage point higher than the Employment Cost Index.</title>
+  </titles>
+  <sponsor id="400658"/>
+  <cosponsors>
+    <cosponsor id="412250" joined="2008-05-07"/>
+    <cosponsor id="400147" joined="2008-07-17"/>
+    <cosponsor id="400287" joined="2008-07-22"/>
+    <cosponsor id="400321" joined="2008-06-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-05-07">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2008-05-23">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Cost of living adjustments"/>
+    <term name="Military pay"/>
+    <term name="Military personnel"/>
+  </subjects>
+  <amendments/>
+  <summary>5/7/2008--Introduced.
+Guarantees a pay increase for uniformed services members for FY2010-FY2013 of 0.5% higher than the Employment Cost Index.</summary>
+</bill>

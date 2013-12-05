@@ -1,0 +1,87 @@
+<bill session="110" type="h" number="299" updated="2013-07-19T21:06:23-04:00">
+  <state datetime="2007-03-05T14:40:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-03-05T14:40:00-05:00"/>
+  </status>
+  <introduced datetime="2007-01-05"/>
+  <titles>
+    <title as="introduced" type="short">Lowell National Historical Park Boundary Adjustment Act</title>
+    <title as="passed house" type="short">Lowell National Historical Park Boundary Adjustment Act</title>
+    <title as="introduced" type="official">To adjust the boundary of Lowell National Historical Park, and for other purposes.</title>
+  </titles>
+  <sponsor id="400269"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-05">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-02-07">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-03-05T14:37:00-05:00">
+      <text>Mr. Grijalva moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-03-05T14:37:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2131" label="consideration"/>
+    </action>
+    <action datetime="2007-03-05T14:37:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 299.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-03-05T14:40:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2131" label="text"/>
+    </vote>
+    <action datetime="2007-03-05T14:40:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-03-06">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2007-09-27">
+      <text>Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2008-01-30">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2008-04-10">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-311.</text>
+    </action>
+    <calendar datetime="2008-04-10" calendar="Senate Legislative" under="General Orders" number="663">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 663.</text>
+    </calendar>
+    <action datetime="2008-06-11">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+      <reference ref="CR S5530" label="consideration"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="National Parks" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="867"/>
+    <bill relation="unknown" session="110" type="s" number="867"/>
+    <bill relation="unknown" session="110" type="s" number="2739"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Boundaries"/>
+    <term name="Commemorations"/>
+    <term name="Commerce"/>
+    <term name="Historic sites"/>
+    <term name="History"/>
+    <term name="Industrialization"/>
+    <term name="Land transfers"/>
+    <term name="Massachusetts"/>
+    <term name="National parks"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/2007--Passed House without amendment.
+Lowell National Historical Park Boundary Adjustment Act - Modifies the boundary of the Lowell National Historical Park to include certain properties in the City of Lowell, Massachusetts.</summary>
+</bill>

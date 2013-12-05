@@ -1,0 +1,68 @@
+<bill session="110" type="hc" number="175" updated="2013-07-19T22:10:17-04:00">
+  <state datetime="2007-07-30">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2007-07-30"/>
+  </status>
+  <introduced datetime="2007-06-26"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of Congress that courts with fiduciary responsibility for a child of a deceased member of the Armed Forces who receives a death gratuity payment under section 1477 of title 10, United States Code, should take into consideration the expression of clear intent of the member regarding the distribution of funds on behalf of the child.</title>
+  </titles>
+  <sponsor id="400234"/>
+  <cosponsors>
+    <cosponsor id="400042" joined="2007-06-26"/>
+    <cosponsor id="412208" joined="2007-06-26"/>
+    <cosponsor id="400220" joined="2007-06-26"/>
+    <cosponsor id="412209" joined="2007-06-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-06-26">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2007-07-23T14:49:00-04:00">
+      <text>Ms. Jackson-Lee moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2007-07-23T14:49:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8226-8228" label="consideration"/>
+    </action>
+    <action datetime="2007-07-23T14:49:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 175.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-07-23T15:04:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H8226" label="text as passed in House"/>
+    </vote>
+    <action datetime="2007-07-23T15:04:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-07-24">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2007-07-30" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S10335-10336" label="consideration"/>
+      <reference ref="CR S10336" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2007-07-31">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Evidence (Law)"/>
+    <term name="Families"/>
+    <term name="Labor and employment"/>
+    <term name="Law"/>
+    <term name="Military dependents"/>
+    <term name="Military pensions"/>
+    <term name="Survivors' benefits"/>
+    <term name="Trusts and trustees"/>
+  </subjects>
+  <amendments/>
+  <summary>7/30/2007--Passed Senate without amendment.
+Expresses the sense of Congress that courts with fiduciary responsibility for a child of a deceased member of the Armed Forces who receives a death gratuity payment from the Department of Defense (DOD) should take into consideration the expression of clear intent of the member regarding the distribution of funds on behalf of the child.</summary>
+</bill>

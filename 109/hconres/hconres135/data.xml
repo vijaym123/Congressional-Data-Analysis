@@ -1,0 +1,70 @@
+<bill session="109" type="hc" number="135" updated="2013-07-19T20:03:19-04:00">
+  <state datetime="2005-05-12">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2005-05-12"/>
+  </status>
+  <introduced datetime="2005-04-19"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the Capitol Grounds for the District of Columbia Special Olympics Law Enforcement Torch Run.</title>
+  </titles>
+  <sponsor id="409888"/>
+  <cosponsors>
+    <cosponsor id="400295" joined="2005-04-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-04-19">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2005-04-21">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2005-05-10T15:25:00-04:00">
+      <text>Mr. Dent moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2005-05-10T15:25:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3076-3077" label="consideration"/>
+    </action>
+    <action datetime="2005-05-10T15:25:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 135.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-05-10T15:33:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H3076" label="text"/>
+    </vote>
+    <action datetime="2005-05-10T15:33:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-05-11">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2005-05-12" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S5183" label="consideration"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="hc" number="359"/>
+    <bill relation="unknown" session="109" type="hc" number="359"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Disabled"/>
+    <term name="District of Columbia"/>
+    <term name="Law enforcement officers"/>
+    <term name="Olympic games"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Running"/>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2005--Passed Senate without amendment.
+Authorizes the use of the Capitol grounds for the 2005 District of Columbia Special Olympics Law Enforcement Torch Run on June 10, 2005.</summary>
+</bill>

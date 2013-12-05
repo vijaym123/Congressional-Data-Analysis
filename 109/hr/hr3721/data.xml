@@ -1,0 +1,68 @@
+<bill session="109" type="h" number="3721" updated="2013-07-19T19:37:15-04:00">
+  <state datetime="2005-11-15T14:21:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-11-15T14:21:00-05:00"/>
+  </status>
+  <introduced datetime="2005-09-08"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Omnibus Parks and Public Lands Management Act of 1996 to allow certain commercial vehicles to continue to use Route 209 within Delaware Water Gap National Recreation Area and to allow the National Park Service to continue to collect fees from those vehicles, and for other purposes.</title>
+  </titles>
+  <sponsor id="400372"/>
+  <cosponsors>
+    <cosponsor id="400178" joined="2005-10-27"/>
+    <cosponsor id="400210" joined="2005-09-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-09-08">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-09-13">
+      <text>Referred to the Subcommittee on National Parks.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-11-15T14:16:00-05:00">
+      <text>Mrs. Musgrave moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2005-11-15T14:16:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10171" label="consideration"/>
+    </action>
+    <action datetime="2005-11-15T14:16:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3721.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-11-15T14:21:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H10171" label="text"/>
+    </vote>
+    <action datetime="2005-11-15T14:21:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-11-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2005-12-19">
+      <text>Provisions of Measure Incorporated into S.1310.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Recreation, and Public Lands" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Economics and public finance"/>
+    <term name="National recreation areas"/>
+    <term name="Pennsylvania"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation and public works"/>
+    <term name="Trucking"/>
+    <term name="Trucks"/>
+    <term name="User charges"/>
+  </subjects>
+  <amendments/>
+  <summary>11/15/2005--Passed House amended.
+Amends the Omnibus Parks and Public Lands Management Act of 1996 to delay until September 30, 2015 (currently, September 30, 2005) or whenever a feasible alternative exists, whichever comes first, the prohibition against the use by commercial vehicles of Highway 209 within Delaware Water Gap National Recreation Area; and (2) change the maximum authorized per-trip commercial vehicle use fee from $25 to an amount that fully covers the cost of operation of the road, but not to exceed $40 per trip.</summary>
+</bill>

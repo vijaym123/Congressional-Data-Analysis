@@ -1,0 +1,102 @@
+<bill session="110" type="h" number="2246" updated="2013-07-19T21:23:19-04:00">
+  <state datetime="2007-12-04T14:41:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-12-04T14:41:00-05:00"/>
+  </status>
+  <introduced datetime="2007-05-09"/>
+  <titles>
+    <title as="introduced" type="official">To validate certain conveyances made by the Union Pacific Railroad Company of lands located in Reno, Nevada, that were originally conveyed by the United States to facilitate construction of transcontinental railroads, and for other purposes.</title>
+    <title as="amended by house" type="official">A bill to provide for the release of any reversionary interest of the United States in and to certain lands in Reno, Nevada.</title>
+  </titles>
+  <sponsor id="412218"/>
+  <cosponsors>
+    <cosponsor id="400024" joined="2007-10-29"/>
+    <cosponsor id="400324" joined="2007-10-29"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-05-09">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-05-14">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-10-23">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-11-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-11-07">
+      <text>Subcommittee on National Parks, Forests, and Public Lands Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-11-07">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2007-12-04T14:33:00-05:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-461.</text>
+    </action>
+    <calendar datetime="2007-12-04T14:33:00-05:00" calendar="Union" number="285">
+      <text>Placed on the Union Calendar, Calendar No. 285.</text>
+    </calendar>
+    <action datetime="2007-12-04T14:36:00-05:00">
+      <text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-12-04T14:36:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H14095" label="consideration"/>
+    </action>
+    <action datetime="2007-12-04T14:36:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2246.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-12-04T14:41:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H14095" label="text"/>
+    </vote>
+    <action datetime="2007-12-04T14:41:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-12-04T14:41:00-05:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-12-05">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2008-07-09">
+      <text>Subcommittee on Public Lands and Forests. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2008-09-11">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2008-09-16">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2008-09-16" calendar="Senate Legislative" under="General Orders" number="1018">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1018.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG03" subcommittee="Public Lands and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Land transfers"/>
+    <term name="Nevada"/>
+    <term name="Railroad land grants"/>
+    <term name="Railroads"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>9/16/2008--Reported to Senate without amendment.
+Releases any reversionary interests of the United States (including interests under the Union Pacific Railroad Act) in and to specified railroad lands in the City of Reno, Nevada, that were originally granted to the Union Pacific Railroad under the provisions of such Act.</summary>
+</bill>

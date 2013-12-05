@@ -1,0 +1,109 @@
+<bill session="109" type="hc" number="438" updated="2013-07-19T20:05:56-04:00">
+  <state datetime="2006-07-18T14:50:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-07-18T14:50:00-04:00"/>
+  </status>
+  <introduced datetime="2006-06-27"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of the Congress that continuation of the welfare reforms provided for in the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 should remain a priority.</title>
+  </titles>
+  <sponsor id="400369"/>
+  <cosponsors>
+    <cosponsor id="400020" joined="2006-06-27"/>
+    <cosponsor id="400058" joined="2006-06-27"/>
+    <cosponsor id="400123" joined="2006-06-27"/>
+    <cosponsor id="400168" joined="2006-06-27"/>
+    <cosponsor id="400173" joined="2006-06-27"/>
+    <cosponsor id="400176" joined="2006-06-27"/>
+    <cosponsor id="400190" joined="2006-06-27"/>
+    <cosponsor id="400197" joined="2006-07-18"/>
+    <cosponsor id="400205" joined="2006-06-27"/>
+    <cosponsor id="400206" joined="2006-06-27"/>
+    <cosponsor id="400241" joined="2006-06-27"/>
+    <cosponsor id="400242" joined="2006-06-27"/>
+    <cosponsor id="400252" joined="2006-07-18"/>
+    <cosponsor id="400260" joined="2006-07-18"/>
+    <cosponsor id="400261" joined="2006-06-27"/>
+    <cosponsor id="400277" joined="2006-07-18"/>
+    <cosponsor id="400296" joined="2006-07-18"/>
+    <cosponsor id="400297" joined="2006-06-27"/>
+    <cosponsor id="400327" joined="2006-07-18"/>
+    <cosponsor id="400332" joined="2006-06-27"/>
+    <cosponsor id="400338" joined="2006-06-27"/>
+    <cosponsor id="400429" joined="2006-06-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-06-27">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, Education and the Workforce, Agriculture, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2006-06-27">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2006-06-27">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2006-06-27">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2006-06-27">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2006-06-27">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2006-07-10">
+      <text>Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry.</text>
+      <committee name="House Agriculture"/>
+    </action>
+    <action datetime="2006-07-17">
+      <text>Referred to the Subcommittee on Health, for a period to be subsequently determined by the Chairman .</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2006-07-18T14:02:00-04:00">
+      <text>Mr. Herger moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2006-07-18T14:02:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5321-5327" label="consideration"/>
+    </action>
+    <action datetime="2006-07-18T14:02:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 438.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-07-18T14:50:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H5321-5322" label="text"/>
+    </vote>
+    <action datetime="2006-07-18T14:50:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-07-19">
+      <text>Received in the Senate and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG22" subcommittee="Department Operations, Oversight, Dairy, Nutrition, and Forestry" name="House Agriculture"/>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Aid to dependent children"/>
+    <term name="Cash welfare block grants"/>
+    <term name="Congress"/>
+    <term name="Families"/>
+    <term name="Government operations and politics"/>
+    <term name="Labor and employment"/>
+    <term name="Legislation"/>
+    <term name="Marriage"/>
+    <term name="Welfare work participation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/18/2006--Passed House without amendment.
+Expresses the sense of Congress concerning the importance of success in moving families from welfare to work, as well as in promoting healthy marriage and other means of improving child well-being.</summary>
+</bill>

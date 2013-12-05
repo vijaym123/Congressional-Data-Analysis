@@ -1,0 +1,52 @@
+<bill session="109" type="h" number="2365" updated="2013-07-19T19:25:09-04:00">
+  <state datetime="2005-05-16">REFERRED</state>
+  <status>
+    <introduced datetime="2005-05-16"/>
+  </status>
+  <introduced datetime="2005-05-16"/>
+  <titles>
+    <title as="introduced" type="short">Montgomery GI Bill Flexibility Act of 2005</title>
+    <title as="introduced" type="official">To amend title 38, United States Code, to extend the time limitation for use of eligibility and entitlement for educational assistance under the Montgomery GI Bill.</title>
+  </titles>
+  <sponsor id="400133"/>
+  <cosponsors>
+    <cosponsor id="400062" joined="2005-07-13"/>
+    <cosponsor id="400080" joined="2005-09-07"/>
+    <cosponsor id="400120" joined="2005-09-07"/>
+    <cosponsor id="400183" joined="2005-09-07"/>
+    <cosponsor id="400216" joined="2005-07-13"/>
+    <cosponsor id="400260" joined="2005-07-13"/>
+    <cosponsor id="400306" joined="2005-07-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-05-16">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2005-05-16">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2005-05-16">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2005-06-01">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Education"/>
+    <term name="Higher education"/>
+    <term name="Veterans' benefits"/>
+    <term name="Veterans' education"/>
+  </subjects>
+  <amendments/>
+  <summary>5/16/2005--Introduced.
+Montgomery GI Bill Flexibility Act of 2005 - Extends the period of entitlement to educational assistance under the Montgomery GI Bill to 14 (currently, ten) years after the date of an individual's last discharge or release from active duty.</summary>
+</bill>

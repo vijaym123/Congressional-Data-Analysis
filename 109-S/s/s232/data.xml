@@ -1,0 +1,83 @@
+<bill session="109" type="s" number="232" updated="2013-07-19T20:15:26-04:00">
+  <state datetime="2005-07-26">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-07-26"/>
+  </status>
+  <introduced datetime="2005-02-01"/>
+  <titles>
+    <title as="introduced" type="official">A bill to authorize the Secretary of the Interior, acting through the Bureau of Reclamation, to assist in the implementation of fish passage and screening facilities at non-Federal water projects, and for other purposes.</title>
+  </titles>
+  <sponsor id="300090"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-02-01">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2005-02-09">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2005-03-10">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-31.</text>
+    </action>
+    <calendar datetime="2005-03-10" calendar="Senate Legislative" under="General Orders" number="44">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 44.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2005-07-26" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S9018-9052" label="consideration"/>
+      <reference ref="CR S9033-9034" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-07-27T10:33:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-07-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-07-27">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-08-02">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-08-02">
+      <text>Referred to the Subcommittee on Fisheries and Oceans.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee code="HSII" name="House Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water and Power" name="House Resources"/>
+    <committee activity="Referral" code="HSII15" subcommittee="Fisheries Conservation, Wildlife, and Oceans" name="House Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Agriculture and food"/>
+    <term name="Animals"/>
+    <term name="Columbia River development"/>
+    <term name="Construction costs"/>
+    <term name="Dams"/>
+    <term name="Economics and public finance"/>
+    <term name="Environmental protection"/>
+    <term name="Federal aid to water resources development"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Federal-state relations"/>
+    <term name="Fishery management"/>
+    <term name="Government operations and politics"/>
+    <term name="Habitat conservation"/>
+    <term name="Idaho"/>
+    <term name="Irrigation"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Minorities"/>
+    <term name="Oregon"/>
+    <term name="Salmon"/>
+    <term name="Washington State"/>
+    <term name="Water storage"/>
+  </subjects>
+  <amendments/>
+  <summary>7/26/2005--Passed Senate without amendment.
+Authorizes the Secretary of the Interior, acting through the Commissioner of the Bureau of Reclamation, directly or through financial assistance to non-federal parties, to plan, design, and construct fish passage and screening facilities or habitat improvements at any non-federal water diversion or storage project located anywhere in the Columbia River Basin. Provides such authority when the Secretary determines that such facilities would enable the Bureau to meet its obligations for the construction, operation, and maintenance of federal reclamation projects in the Columbia River Basin, excluding the projects located in the Snake River Basin. Limits the federal share to 75% of project costs. Authorizes the Secretary to assist a non-federal party who owns, operates, or maintains a non-federal water diversion or storage project and associated lands to obtain and comply with any required state, local, or tribal permits. Makes the Secretary subject to all federal laws applicable to activities associated with the construction of a fish passage and screening facility or habitat improvements. Directs the Secretary to: (1) comply with any applicable state water laws; and (2) coordinate with the Northwest Power and Conservation Council, appropriate agencies of the states of Idaho, Oregon, and Washington, and appropriate federally recognized Indian tribes in carrying out the program authorized by this Act. Makes the Reclamation Act of 1902 and other federal reclamation laws inapplicable to the non-federal water projects at which the fish passage and screening facilities authorized by this Act are located and the lands such projects irrigate. Declares that expenditures made by the Secretary under this Act shall not be a project cost assignable to any federal reclamation project and shall be non-reimbursable and non-returnable to the Treasury.</summary>
+</bill>

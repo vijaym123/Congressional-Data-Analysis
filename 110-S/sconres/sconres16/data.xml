@@ -1,0 +1,71 @@
+<bill session="110" type="sc" number="16" updated="2013-07-19T22:19:25-04:00">
+  <state datetime="2007-03-01">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2007-03-01"/>
+  </status>
+  <introduced datetime="2007-03-01"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution calling on the Government of Uganda and the Lord's Resistance Army (LRA) to recommit to a political solution to the conflict in northern Uganda and to recommence vital peace talks, and urging immediate and substantial support for the ongoing peace process from the United States and the international community.</title>
+  </titles>
+  <sponsor id="300042"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2007-03-01"/>
+    <cosponsor id="300013" joined="2007-03-01"/>
+    <cosponsor id="300024" joined="2007-03-01"/>
+    <cosponsor id="300025" joined="2007-03-01"/>
+    <cosponsor id="300043" joined="2007-03-01"/>
+    <cosponsor id="300060" joined="2007-03-01"/>
+    <cosponsor id="300064" joined="2007-03-01"/>
+    <cosponsor id="400621" joined="2007-03-01"/>
+    <cosponsor id="300071" joined="2007-03-01"/>
+    <cosponsor id="300073" joined="2007-03-01"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2007-03-01" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S2540-2541" label="consideration"/>
+      <reference ref="CR S2540-2541" label="text as passed Senate"/>
+      <reference ref="CR S2516-2517" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2007-03-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2007-03-06T12:26:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2007-03-06">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="hc" number="80"/>
+    <bill relation="unknown" session="110" type="hc" number="80"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Africa (Sub-Saharan)"/>
+    <term name="Armed forces and national security"/>
+    <term name="Armistices"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Civil war"/>
+    <term name="Crimes against humanity"/>
+    <term name="Cults"/>
+    <term name="Government operations and politics"/>
+    <term name="Human rights"/>
+    <term name="Insurgency"/>
+    <term name="International relief"/>
+    <term name="Nongovernmental organizations"/>
+    <term name="Peace negotiations"/>
+    <term name="Peace treaties"/>
+    <term name="Religion"/>
+    <term name="Uganda"/>
+    <term name="Violence"/>
+    <term name="War relief"/>
+  </subjects>
+  <amendments/>
+  <summary>3/1/2007--Passed Senate without amendment.
+Disapproves of the Lord's Resistance Army (LRA) leadership's inconsistent commitment to peacefully resolving the conflict in Uganda. Urges the LRA and the government of Uganda to recommit to a political solution to the conflict. Entreats all regional parties to cease human rights violations and address, within the context of a broader national reconciliation process in Uganda, issues of accountability and impunity for those crimes against humanity already committed. Presses leaders on both sides of the conflict in Uganda to renounce any intentions and halt any preparations to resume violence and to ensure that this message is conveyed to armed elements under their control. Calls on the Secretary of State, the Administrator of the United States Agency for International Development, and the heads of other similar governmental agencies and nongovernmental organizations within the international community to continue efforts to alleviate the humanitarian crisis in northern Uganda and to support a peaceful resolution to this crisis.</summary>
+</bill>

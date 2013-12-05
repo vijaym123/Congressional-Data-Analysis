@@ -1,0 +1,42 @@
+<bill session="110" type="h" number="3295" updated="2013-07-19T21:32:50-04:00">
+  <state datetime="2007-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2007-08-01"/>
+  </status>
+  <introduced datetime="2007-08-01"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Public Health Service Act to modify the program for the sanctuary system for surplus chimpanzees by terminating the authority for the removal of chimpanzees from the system for research purposes.</title>
+  </titles>
+  <sponsor id="400261"/>
+  <cosponsors>
+    <cosponsor id="400635" joined="2007-08-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-08-01">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2007-08-01">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="1916"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Animals"/>
+    <term name="Chimpanzees"/>
+    <term name="Laboratory animals"/>
+    <term name="Medical research"/>
+    <term name="Protection of animals"/>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/2007--Introduced.
+Amends the Public Health Service Act to repeal provisions providing for the removal of surplus chimpanzees from a sanctuary facility. Prohibits use of such chimpanzees for research except for noninvasive behavioral studies.</summary>
+</bill>

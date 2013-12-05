@@ -1,0 +1,71 @@
+<bill session="109" type="s" number="997" updated="2013-07-19T20:22:08-04:00">
+  <state datetime="2006-12-07">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2006-12-07"/>
+  </status>
+  <introduced datetime="2005-05-11"/>
+  <titles>
+    <title as="introduced" type="short">Montana Cemetery Act of 2005</title>
+    <title as="reported to senate" type="short">Montana Cemetery Act of 2006</title>
+    <title as="passed senate" type="short">Montana Cemetery Act of 2006</title>
+    <title as="introduced" type="official">A bill to direct the Secretary of Agriculture to convey certain land in the Beaverhead-Deerlodge Forest, Montana, to Jefferson County, Montana, for use as a cemetery.</title>
+    <title as="amended by senate" type="official">An act to direct the Secretary of Agriculture to convey certain land in the Beaverhead-Deerlodge National Forest, Montana, to Jefferson County, Montana, for use as a cemetery.</title>
+  </titles>
+  <sponsor id="300015"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2005-05-11">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4940"/>
+    </action>
+    <action state="REFERRED" datetime="2005-05-11">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <reference ref="CR S4940" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2005-07-20">
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held. With printed Hearing: S.Hrg. 109-157.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-05-24">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2006-07-31">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Domenici with an amendment in the nature of a substitute and an amendment to the title. With written report No. 109-299.</text>
+    </action>
+    <calendar datetime="2006-07-31" calendar="Senate Legislative" under="General Orders" number="542">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 542.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2006-12-07" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.</text>
+      <reference ref="CR S11537-11542" label="consideration"/>
+      <reference ref="CR S11537" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2006-12-08T10:18:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-12-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-12-08T12:43:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG03" subcommittee="Public Lands and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="899"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Land transfers"/>
+    <term name="Montana"/>
+    <term name="National forests"/>
+  </subjects>
+  <amendments/>
+  <summary>12/7/2006--Passed Senate amended.
+Montana Cemetery Act of 2006 - Directs the Secretary of Agriculture, through the Regional Forester, Northern Region, Missoula, Montana, to convey by quitclaim deed for no consideration to Jefferson County, Montana, the parcel of National Forest System land known as the Elkhorn Cemetery to be used as a county cemetery and managed in consideration of its historical and cultural values.</summary>
+</bill>

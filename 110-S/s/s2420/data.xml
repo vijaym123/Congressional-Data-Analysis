@@ -1,0 +1,108 @@
+<bill session="110" type="s" number="2420" updated="2013-07-19T22:41:58-04:00">
+  <state datetime="2008-06-20">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2008-06-20"/>
+  </status>
+  <introduced datetime="2007-12-06"/>
+  <titles>
+    <title as="introduced" type="short">Federal Food Donation Act of 2007</title>
+    <title as="passed house" type="short">Federal Food Donation Act of 2008</title>
+    <title as="reported to senate" type="short">Federal Food Donation Act of 2008</title>
+    <title as="passed senate" type="short">Federal Food Donation Act of 2008</title>
+    <title as="enacted" type="short">Federal Food Donation Act of 2008</title>
+    <title as="introduced" type="official">A bill to encourage the donation of excess food to nonprofit organizations that provide assistance to food-insecure people in the United States in contracts entered into by executive agencies for the provision, service, or sale of food.</title>
+  </titles>
+  <sponsor id="300087"/>
+  <cosponsors>
+    <cosponsor id="300025" joined="2008-03-10"/>
+    <cosponsor id="300030" joined="2008-04-09"/>
+    <cosponsor id="300038" joined="2008-04-24"/>
+    <cosponsor id="300070" joined="2007-12-13"/>
+    <cosponsor id="400272" joined="2008-01-22"/>
+    <cosponsor id="300098" joined="2008-04-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-12-06">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2008-04-10">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2008-05-22">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 110-338.</text>
+    </action>
+    <calendar datetime="2008-05-22" calendar="Senate Legislative" under="General Orders" number="748">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 748.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2008-05-22" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S4844-4845" label="consideration"/>
+      <reference ref="CR S4844-4845" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2008-05-23">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2008-06-03T14:13:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2008-06-03T15:46:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2008-06-03T15:50:00-04:00">
+      <text>Mr. Clay moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2008-06-03T15:51:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4852-4853" label="consideration"/>
+    </action>
+    <action datetime="2008-06-03T15:51:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 2420.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2008-06-03T15:55:00-04:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H4852" label="text"/>
+    </vote>
+    <action datetime="2008-06-03T15:55:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2008-06-03">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2008-06-10">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2008-06-20">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2008-06-20" type="public" number="110-247">
+      <text>Became Public Law No: 110-247.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="4220"/>
+    <bill relation="unknown" session="110" type="h" number="4220"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Agriculture and food"/>
+    <term name="Department of Agriculture"/>
+    <term name="Executive reorganization"/>
+    <term name="Food relief"/>
+    <term name="Food supply"/>
+    <term name="Government contractors"/>
+    <term name="Government procurement"/>
+    <term name="Law"/>
+    <term name="Leases"/>
+    <term name="Liability (Law)"/>
+    <term name="Nonprofit organizations"/>
+    <term name="Social welfare"/>
+    <term name="Surplus government property"/>
+  </subjects>
+  <amendments/>
+  <summary>6/20/2008--Public Law.
+Federal Food Donation Act of 2008 - Requires the Federal Acquisition Regulation to be revised to require all government contracts above $25,000 for the provision, service, or sale of food in the United States, or for the lease or rental of federal property to a private entity for events at which food is provided in the United States, to include clauses that: (1) encourage the donation of excess, apparently wholesome food to nonprofit organizations that provide assistance to people with inconsistent access to sufficient, safe, and nutritious food; (2) provide that the head of an executive agency involved shall not assume responsibility for the costs and logistics of collecting, transporting, maintaining the safety of, or distributing such food; and (3) exempt any executive agency and any contractor making donations pursuant to such a contract from liability to the extent provided under the Bill Emerson Good Samaritan Food Donation Act.</summary>
+</bill>

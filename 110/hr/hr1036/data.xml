@@ -1,0 +1,79 @@
+<bill session="110" type="h" number="1036" updated="2013-07-19T21:12:47-04:00">
+  <state datetime="2007-05-15T13:43:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-05-15T13:43:00-04:00"/>
+  </status>
+  <introduced datetime="2007-02-13"/>
+  <titles>
+    <title as="introduced" type="official">To authorize the Administrator of General Services to convey a parcel of real property to the Alaska Railroad Corporation.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2007-02-13">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2007-02-14">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2007-03-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-03-01">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2007-05-10T16:46:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 110-145.</text>
+    </action>
+    <calendar datetime="2007-05-10T16:46:00-04:00" calendar="Union" number="85">
+      <text>Placed on the Union Calendar, Calendar No. 85.</text>
+    </calendar>
+    <action datetime="2007-05-15T13:35:00-04:00">
+      <text>Ms. Johnson, E. B. moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-05-15T13:36:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5003-5004" label="consideration"/>
+    </action>
+    <action datetime="2007-05-15T13:36:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1036.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-05-15T13:43:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5003-5004" label="text"/>
+    </vote>
+    <action datetime="2007-05-15T13:43:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-05-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="2008-06-06">
+      <text>Provisions of Measure Incorporated into Title IV, Section 401 of P.L. 110-244, (H.R. 1195)..</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="1552"/>
+    <bill relation="unknown" session="110" type="s" number="1552"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Alaska"/>
+    <term name="Government operations and politics"/>
+    <term name="Land transfers"/>
+    <term name="Railroads"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>5/15/2007--Passed House amended.
+Requires the Administrator of the General Services Administration (GSA) to convey all right, title, and interest of the United States in and to the GSA Fleet Management Center (located in Anchorage, Alaska) to the Alaska Railroad Corporation in exchange for: (1) suitable replacement property and such other consideration as agreed to; or (2) payment of fair market value. Requires any proceeds received to be deposited into the Federal Buildings Fund.</summary>
+</bill>

@@ -1,0 +1,68 @@
+<bill session="109" type="hj" number="47" updated="2013-07-19T20:01:40-04:00">
+  <state datetime="2006-03-20">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2006-03-20"/>
+  </status>
+  <introduced datetime="2005-05-02"/>
+  <titles>
+    <title type="popular">Debt Limit Increase resolution</title>
+    <title type="popular">Increased Public Debt resolution</title>
+    <title as="introduced" type="official">Increasing the statutory limit on the public debt.</title>
+  </titles>
+  <sponsor/>
+  <cosponsors/>
+  <actions>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-04-28T23:59:00-04:00" how="by special rule" result="pass" type="vote" where="h">
+      <text>Passed House pursuant to rule XXVII and H. Con. Res. 95</text>
+    </vote>
+    <action datetime="2005-05-09">
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <action datetime="2006-03-15">
+      <text>Senate Committee on Finance discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2006-03-15">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S2184-2195" label="consideration"/>
+    </action>
+    <action datetime="2006-03-16">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S2236-2241" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2006-03-16" how="roll" result="pass" roll="54" type="vote2" where="s">
+      <text>Passed Senate without amendment by Yea-Nay Vote. 52 - 48. Record Vote Number: 54.</text>
+    </vote>
+    <action datetime="2006-03-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2006-03-16">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2006-03-17">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2006-03-20">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2006-03-20" type="public" number="109-182">
+      <text>Became Public Law No: 109-182.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="hc" number="95"/>
+    <bill relation="unknown" session="109" type="hc" number="95"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Debt limit"/>
+    <term name="Public debt"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3131"/>
+  </amendments>
+  <summary>3/20/2006--Public Law.
+Amends federal law to increase the statutory limit on the public debt from $8.184 trillion to $8.965 trillion.</summary>
+</bill>

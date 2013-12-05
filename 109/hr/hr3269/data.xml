@@ -1,0 +1,62 @@
+<bill session="109" type="h" number="3269" updated="2013-07-19T19:33:13-04:00">
+  <state datetime="2005-12-06T15:32:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-12-06T15:32:00-05:00"/>
+  </status>
+  <introduced datetime="2005-07-13"/>
+  <titles>
+    <title as="introduced" type="official">To amend the International Organizations Immunities Act to provide for the applicability of that Act to the Bank for International Settlements.</title>
+  </titles>
+  <sponsor id="400236"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-07-13">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+    <action datetime="2005-09-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-09-15">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on International Relations"/>
+    </calendar>
+    <action datetime="2005-12-06T15:26:00-05:00">
+      <text>Mr. Leach moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2005-12-06T15:26:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11055" label="consideration"/>
+    </action>
+    <action datetime="2005-12-06T15:26:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3269.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-12-06T15:32:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H11055" label="text"/>
+    </vote>
+    <action datetime="2005-12-06T15:32:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-12-12">
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House International Relations" activity="Referral, Markup"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Finance and financial sector"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="International agencies"/>
+    <term name="International banking"/>
+    <term name="Law"/>
+    <term name="Privileges and immunities"/>
+  </subjects>
+  <amendments/>
+  <summary>12/6/2005--Passed House without amendment.
+Amends the International Organizations Immunities Act to extend the applicability of such Act to the Bank for International Settlements.</summary>
+</bill>

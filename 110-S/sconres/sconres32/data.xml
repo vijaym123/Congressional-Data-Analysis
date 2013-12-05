@@ -1,0 +1,60 @@
+<bill session="110" type="sc" number="32" updated="2013-07-19T22:19:36-04:00">
+  <state datetime="2007-05-24">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2007-05-24"/>
+  </status>
+  <introduced datetime="2007-05-03"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution honoring the 50th anniversary of Stan Hywet Hall &amp; Gardens.</title>
+  </titles>
+  <sponsor id="300098"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2007-05-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-05-03">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref=" CR S5605" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2007-05-24">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S6923-6924" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2007-05-24" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S6923-6924" label="text"/>
+    </vote>
+    <action datetime="2007-05-25">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2007-06-05T14:03:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2007-06-05">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="hc" number="143"/>
+    <bill relation="unknown" session="110" type="hc" number="143"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Architecture"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Congressional tributes"/>
+    <term name="Gardening"/>
+    <term name="Historic sites"/>
+    <term name="History"/>
+    <term name="Landscape architecture"/>
+    <term name="Ohio"/>
+  </subjects>
+  <amendments/>
+  <summary>5/24/2007--Passed Senate without amendment.
+Congratulates Stan Hywet Hall &amp; Gardens on its 50th anniversary and honors it for its commitment to sharing its history, gardens, and art collections with the public.</summary>
+</bill>

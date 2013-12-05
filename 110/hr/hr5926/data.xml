@@ -1,0 +1,45 @@
+<bill session="110" type="h" number="5926" updated="2013-07-19T21:55:41-04:00">
+  <state datetime="2008-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2008-04-30"/>
+  </status>
+  <introduced datetime="2008-04-30"/>
+  <titles>
+    <title as="introduced" type="short">Pacific Northwest National Scenic Trail Act of 2008</title>
+    <title as="introduced" type="official">To amend the National Trails System Act to designate the Pacific Northwest National Scenic Trail.</title>
+  </titles>
+  <sponsor id="400109"/>
+  <cosponsors>
+    <cosponsor id="400193" joined="2008-04-30"/>
+    <cosponsor id="400232" joined="2008-04-30"/>
+    <cosponsor id="400262" joined="2008-04-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-04-30">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2008-05-02">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="2943"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Montana"/>
+    <term name="National parks"/>
+    <term name="Northwestern States"/>
+    <term name="Sports and recreation"/>
+    <term name="Trails"/>
+    <term name="Washington State"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2008--Introduced.
+Pacific Northwest National Scenic Trail Act of 2008 - Amends the National Trails System Act to designate the trail extending from the Continental Divide in Glacier National Park, Montana, to the Pacific Ocean coast in Olympic National Park, Washington, as the Pacific Northwest National Scenic Trail.</summary>
+</bill>

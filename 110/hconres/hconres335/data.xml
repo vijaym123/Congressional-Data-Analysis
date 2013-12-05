@@ -1,0 +1,93 @@
+<bill session="110" type="hc" number="335" updated="2013-07-19T22:11:38-04:00">
+  <state datetime="2008-06-20">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2008-06-20"/>
+  </status>
+  <introduced datetime="2008-04-24"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the Capitol Grounds for a celebration of the 100th anniversary of Alpha Kappa Alpha Sorority, Incorporated.</title>
+  </titles>
+  <sponsor id="400423"/>
+  <cosponsors>
+    <cosponsor id="400199" joined="2008-04-24"/>
+    <cosponsor id="400204" joined="2008-04-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-04-24">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2008-04-25">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2008-05-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-05-15">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2008-05-15">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2008-06-03T14:33:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 110-676.</text>
+    </action>
+    <calendar datetime="2008-06-03T14:33:00-04:00" calendar="House" number="229">
+      <text>Placed on the House Calendar, Calendar No. 229.</text>
+    </calendar>
+    <action datetime="2008-06-04T11:00:00-04:00">
+      <text>Ms. Johnson, E. B. moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2008-06-04T11:01:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4886-4888" label="consideration"/>
+    </action>
+    <action datetime="2008-06-04T11:01:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 335.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-06-04T11:12:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H4886" label="text"/>
+    </vote>
+    <action datetime="2008-06-04T11:12:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-06-05">
+      <text>Received in the Senate and referred to the Committee on Rules and Administration.</text>
+    </action>
+    <action datetime="2008-06-20">
+      <text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text>
+      <reference ref="CR S5947" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2008-06-20" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2008-06-23">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Anniversaries"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Commemorations"/>
+    <term name="Education"/>
+    <term name="Higher education"/>
+    <term name="Minorities"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Women"/>
+    <term name="Women's organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>6/20/2008--Passed Senate without amendment.
+Permits the Alpha Kappa Alpha Sorority, Inc. to sponsor a free public event on the Capitol grounds on July 17, 2008, to celebrate the 100th anniversary of Alpha Kappa Alpha Sorority, Inc.</summary>
+</bill>

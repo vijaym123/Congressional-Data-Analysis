@@ -1,0 +1,61 @@
+<bill session="109" type="s" number="1613" updated="2013-07-19T20:27:36-04:00">
+  <state datetime="2005-09-13">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-09-13"/>
+  </status>
+  <introduced datetime="2005-09-06"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend the Livestock Mandatory Reporting Act of 1999 to extend the termination date for mandatory price reporting.</title>
+  </titles>
+  <sponsor id="300048"/>
+  <cosponsors>
+    <cosponsor id="300051" joined="2005-09-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-09-06">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S9648"/>
+    </action>
+    <action state="REFERRED" datetime="2005-09-06">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+    <action datetime="2005-09-13">
+      <text>Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.</text>
+      <reference ref="CR S9995" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2005-09-13" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S9995" label="text"/>
+    </vote>
+    <action datetime="2005-09-14T10:02:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-09-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-09-14T18:44:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="3408"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural estimating and reporting"/>
+    <term name="Agricultural prices"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Animals"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Livestock"/>
+    <term name="Meat"/>
+  </subjects>
+  <amendments/>
+  <summary>9/13/2005--Passed Senate without amendment.
+Amends the Livestock Mandatory Price Reporting Act of 1999 to extend the termination date of such Act's mandatory beef and swine reporting and related authorities to September 30, 2006.</summary>
+</bill>

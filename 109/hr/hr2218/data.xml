@@ -1,0 +1,61 @@
+<bill session="109" type="h" number="2218" updated="2013-07-19T19:23:53-04:00">
+  <state datetime="2005-05-10">REFERRED</state>
+  <status>
+    <introduced datetime="2005-05-10"/>
+  </status>
+  <introduced datetime="2005-05-10"/>
+  <titles>
+    <title as="introduced" type="short">Medicare Laboratory Services Access Act of 2005</title>
+    <title as="introduced" type="official">To amend title XVIII of the Social Security Act to adjust the fee for collecting specimens for clinical diagnostic laboratory tests under the Medicare Program.</title>
+  </titles>
+  <sponsor id="400123"/>
+  <cosponsors>
+    <cosponsor id="400001" joined="2005-10-27"/>
+    <cosponsor id="400041" joined="2005-07-26"/>
+    <cosponsor id="400052" joined="2005-05-16"/>
+    <cosponsor id="400152" joined="2005-06-30"/>
+    <cosponsor id="400160" joined="2005-06-07"/>
+    <cosponsor id="400178" joined="2005-06-30"/>
+    <cosponsor id="400310" joined="2005-06-30"/>
+    <cosponsor id="400346" joined="2005-06-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-05-10">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2005-05-10">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2005-05-10">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2005-05-17">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Ways and Means"/>
+    </action>
+    <action datetime="2005-05-23">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Economics and public finance"/>
+    <term name="Indexing (Economic policy)"/>
+    <term name="Medical fees"/>
+    <term name="Medical laboratories"/>
+    <term name="Medical tests"/>
+    <term name="Medicare"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>5/10/2005--Introduced.
+Medical Laboratory Services Access Act of 2005 - Amends title XVIII (Medicare) of the Social Security Act with respect to fee schedules for clinical diagnostic laboratory tests and the Medicare laboratory specimen collection fee. Sets such fee at $5.78 for 2006, and the same adjusted for inflation in subsequent years, to cover the appropriate cost of collecting the sample on which a clinical diagnostic laboratory test was performed and for which payment is made.</summary>
+</bill>

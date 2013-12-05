@@ -1,0 +1,95 @@
+<bill session="110" type="h" number="839" updated="2013-07-19T21:11:05-04:00">
+  <state datetime="2007-03-19T19:20:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-03-19T19:20:00-04:00"/>
+  </status>
+  <introduced datetime="2007-02-06"/>
+  <titles>
+    <title as="introduced" type="short">Arthur V. Watkins Dam Enlargement Act</title>
+    <title as="passed house" type="short">Arthur V. Watkins Dam Enlargement Act</title>
+    <title as="reported to senate" type="short">Arthur V. Watkins Dam Enlargement Act</title>
+    <title as="introduced" type="official">To authorize the Secretary of the Interior to study the feasibility of enlarging the Arthur V. Watkins Dam Weber Basin Project, Utah, to provide additional water for the Weber Basin Project to fulfill the purposes for which that project was authorized.</title>
+  </titles>
+  <sponsor id="400029"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2007-02-06">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-02-09">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-03-19T14:43:00-04:00">
+      <text>Mr. Grijalva moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-03-19T14:44:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2634" label="consideration"/>
+    </action>
+    <action datetime="2007-03-19T14:44:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 839.</text>
+    </action>
+    <action datetime="2007-03-19T14:47:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2007-03-19T19:12:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2639" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-03-19T19:20:00-04:00" how="roll" result="pass" roll="159" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 394 - 1 (Roll no. 159).</text>
+      <reference ref="CR H2634" label="text"/>
+    </vote>
+    <action datetime="2007-03-19T19:20:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-03-20">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <calendar datetime="2007-05-23">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2007-06-28">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-120.</text>
+    </action>
+    <calendar datetime="2007-06-28" calendar="Senate Legislative" under="General Orders" number="254">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 254.</text>
+    </calendar>
+    <action datetime="2008-06-11">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+      <reference ref="CR S5530" label="consideration"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="512"/>
+    <bill relation="unknown" session="110" type="s" number="512"/>
+    <bill relation="unknown" session="110" type="s" number="2739"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Congress"/>
+    <term name="Construction costs"/>
+    <term name="Dams"/>
+    <term name="Environmental assessment"/>
+    <term name="Environmental protection"/>
+    <term name="Government operations and politics"/>
+    <term name="Governmental investigations"/>
+    <term name="Infrastructure"/>
+    <term name="Intergovernmental fiscal relations"/>
+    <term name="Sunset legislation"/>
+    <term name="Utah"/>
+    <term name="Water districts"/>
+    <term name="Water storage"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>6/28/2007--Reported to Senate without amendment.
+Arthur V. Watkins Dam Enlargement Act - Authorizes the Secretary of the Interior, acting through the Bureau of Reclamation, to conduct a feasibility study (including an environmental evaluation and a cost allocation) on raising the height of the Arthur V. Watkins Dam for the development of additional storage to meet water supply needs within the Weber Basin Project area and the Wasatch Front, Utah.Limits the federal share to 50% of the study's cost. Directs the Secretary to accept in-kind contributions of goods or services from the Weber Basin Water Conservancy District as part of the non-federal cost share. Authorizes appropriations. Terminates the Secretary's authority to carry out this Act 10 years after its enactment.</summary>
+</bill>

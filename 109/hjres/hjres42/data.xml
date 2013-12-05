@@ -1,0 +1,42 @@
+<bill session="109" type="hj" number="42" updated="2013-07-19T20:01:37-04:00">
+  <state datetime="2005-04-14">REFERRED</state>
+  <status>
+    <introduced datetime="2005-04-14"/>
+  </status>
+  <introduced datetime="2005-04-14"/>
+  <titles>
+    <title as="introduced" type="official">Proposing an amendment to the Constitution of the United States to permit persons who are not natural-born citizens of the United States, but who have been citizens of the United States for at least 35 years, to be eligible to hold the offices of President and Vice President.</title>
+  </titles>
+  <sponsor id="400383"/>
+  <cosponsors>
+    <cosponsor id="400370" joined="2005-04-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-04-14">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2005-05-10">
+      <text>Referred to the Subcommittee on the Constitution.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU10" subcommittee="Constitution" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="hj" number="2"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Citizenship"/>
+    <term name="Constitutional amendments"/>
+    <term name="Immigration"/>
+    <term name="Law"/>
+    <term name="Residence requirements"/>
+    <term name="Vice Presidents"/>
+  </subjects>
+  <amendments/>
+  <summary>4/14/2005--Introduced.
+Constitutional Amendment - Makes a person who has been a citizen of the United States for at least 35 years and who has been a resident within the United States for at least 14 years eligible to hold the office of President or Vice President.</summary>
+</bill>

@@ -1,0 +1,67 @@
+<bill session="109" type="hc" number="350" updated="2013-07-19T20:05:11-04:00">
+  <state datetime="2006-03-16">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2006-03-16"/>
+  </status>
+  <introduced datetime="2006-03-02"/>
+  <titles>
+    <title as="introduced" type="official">Permitting the use of the rotunda of the Capitol for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.</title>
+  </titles>
+  <sponsor id="400060"/>
+  <cosponsors>
+    <cosponsor id="400119" joined="2006-03-02"/>
+    <cosponsor id="400231" joined="2006-03-02"/>
+    <cosponsor id="400275" joined="2006-03-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-03-02">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2006-03-14T15:37:00-05:00">
+      <text>Mr. Ehlers moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2006-03-14T15:38:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H890-892" label="consideration"/>
+    </action>
+    <action datetime="2006-03-14T15:38:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 350.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-03-14T15:50:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H890" label="text"/>
+    </vote>
+    <action datetime="2006-03-14T15:50:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-03-15">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2006-03-16" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S2388" label="consideration"/>
+    </vote>
+    <action datetime="2006-03-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Congress"/>
+    <term name="Crime and law enforcement"/>
+    <term name="History"/>
+    <term name="International affairs"/>
+    <term name="Jewish holocaust (1939-1945)"/>
+    <term name="Special days"/>
+    <term name="Victims of crimes"/>
+    <term name="War crimes"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/2006--Passed Senate without amendment.
+Authorizes the use of the Capitol rotunda on April 27, 2006, for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.</summary>
+</bill>

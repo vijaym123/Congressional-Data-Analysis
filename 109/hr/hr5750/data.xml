@@ -1,0 +1,50 @@
+<bill session="109" type="h" number="5750" updated="2013-07-19T19:55:14-04:00">
+  <state datetime="2006-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2006-07-10"/>
+  </status>
+  <introduced datetime="2006-07-10"/>
+  <titles>
+    <title as="introduced" type="official">To amend title XVIII of the Social Security Act to limit the penalty for late enrollment under the Medicare Program to 10 percent and twice the period of no enrollment, and for other purposes.</title>
+  </titles>
+  <sponsor id="400140"/>
+  <cosponsors>
+    <cosponsor id="400129" joined="2006-07-19"/>
+    <cosponsor id="400201" joined="2006-07-19"/>
+    <cosponsor id="400268" joined="2006-07-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-07-10">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2006-07-10">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2006-07-10">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2006-07-17">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Finance and financial sector"/>
+    <term name="Health insurance continuation"/>
+    <term name="Insurance premiums"/>
+    <term name="Medically uninsured"/>
+    <term name="Medicare"/>
+    <term name="Retiree health benefits"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>7/10/2006--Introduced.
+Amends part B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act to revise the late enrollment penalty to a 10% increase in the monthly part B premium due for premiums paid during a period equal to twice the number of months in each of the full periods of 12 months that the part B beneficiary could have been but was not enrolled under Medicare part B. Excludes periods of COBRA and retiree coverage from calculation of the Medicare late enrollment penalty. Establishes a special enrollment period for individuals whose COBRA or retiree coverage terminates.</summary>
+</bill>

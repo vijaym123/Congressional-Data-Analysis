@@ -1,0 +1,124 @@
+<bill session="109" type="hc" number="190" updated="2013-07-19T20:03:47-04:00">
+  <state datetime="2006-03-15T12:09:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-03-15T12:09:00-05:00"/>
+  </status>
+  <introduced datetime="2005-06-23"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of the Congress that the Russian Federation should fully protect the freedoms of all religious communities without distinction, whether registered and unregistered, as stipulated by the Russian Constitution and international standards.</title>
+  </titles>
+  <sponsor id="400380"/>
+  <cosponsors>
+    <cosponsor id="400055" joined="2005-07-19"/>
+    <cosponsor id="400064" joined="2005-06-23"/>
+    <cosponsor id="400095" joined="2005-07-29"/>
+    <cosponsor id="400099" joined="2005-10-26"/>
+    <cosponsor id="400122" joined="2005-09-27"/>
+    <cosponsor id="400646" joined="2005-10-24"/>
+    <cosponsor id="400643" joined="2005-11-16"/>
+    <cosponsor id="400158" joined="2005-10-25"/>
+    <cosponsor id="400162" joined="2005-11-01"/>
+    <cosponsor id="400184" joined="2005-09-22"/>
+    <cosponsor id="400649" joined="2005-09-19"/>
+    <cosponsor id="400196" joined="2005-10-19"/>
+    <cosponsor id="400634" joined="2005-11-04"/>
+    <cosponsor id="400260" joined="2005-09-27"/>
+    <cosponsor id="400266" joined="2005-06-23"/>
+    <cosponsor id="400312" joined="2005-11-15"/>
+    <cosponsor id="400313" joined="2005-11-15"/>
+    <cosponsor id="400315" joined="2005-10-19"/>
+    <cosponsor id="400320" joined="2005-06-23"/>
+    <cosponsor id="400344" joined="2005-10-19"/>
+    <cosponsor id="400360" joined="2005-09-13"/>
+    <cosponsor id="400363" joined="2005-11-03"/>
+    <cosponsor id="400371" joined="2005-11-16"/>
+    <cosponsor id="400373" joined="2005-10-07"/>
+    <cosponsor id="400385" joined="2005-10-25"/>
+    <cosponsor id="400394" joined="2005-07-19"/>
+    <cosponsor id="400409" joined="2005-09-20"/>
+    <cosponsor id="400623" joined="2005-11-01"/>
+    <cosponsor id="400425" joined="2005-07-29"/>
+    <cosponsor id="400430" joined="2005-10-24"/>
+    <cosponsor id="400433" joined="2005-11-15"/>
+    <cosponsor id="400435" joined="2005-06-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-06-23">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+    <action datetime="2005-11-15">
+      <text>Referred to the Subcommittee on Africa, Global Human Rights and International Operations.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <action datetime="2005-11-15">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <action datetime="2005-11-15">
+      <text>Forwarded by Subcommittee to Full Committee by Unanimous Consent.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <action datetime="2005-11-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on International Relations"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-11-16">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on International Relations"/>
+    </calendar>
+    <action datetime="2006-03-14T15:23:00-05:00">
+      <text>Mr. Smith (NJ) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2006-03-14T15:23:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H888-890" label="consideration"/>
+    </action>
+    <action datetime="2006-03-14T15:23:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 190.</text>
+    </action>
+    <action datetime="2006-03-14T15:37:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2006-03-15T12:03:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H991-992" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-03-15T12:09:00-05:00" how="roll" result="pass" roll="42" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 411 - 1, 1 Present (Roll no. 42).</text>
+      <reference ref="CR 3/14/2006 H888" label="text"/>
+    </vote>
+    <action datetime="2006-03-15T12:09:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-03-16">
+      <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House International Relations" activity="Referral, Markup"/>
+    <committee activity="Referral, Markup, Reporting" code="HSFA16" subcommittee="Africa, Global Human Rights and International Operations" name="House International Relations"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="sc" number="46"/>
+    <bill relation="unknown" session="109" type="sr" number="500"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal investigation"/>
+    <term name="Europe"/>
+    <term name="Human rights"/>
+    <term name="Police corruption"/>
+    <term name="Regionalism (International organization)"/>
+    <term name="Religion"/>
+    <term name="Religious liberty"/>
+    <term name="Russia"/>
+    <term name="United Nations"/>
+    <term name="Violence"/>
+  </subjects>
+  <amendments/>
+  <summary>3/15/2006--Passed House without amendment.
+Expresses the sense of Congress that the United States should: (1) urge the Russian Federation to ensure full protection of freedoms for all religious communities and end governmental and security harassment of unregistered religious groups; (2) urge the Russian Federation to ensure that law enforcement officials investigate acts of violence against unregistered religious communities, as well as make certain that authorities are not complicit in such attacks; (3) continue to raise concerns with the government of the Russian Federation over violations of religious freedom, especially regarding indigenous denominations not well known in the United States; (4) ensure that U.S. embassy officials engage local officials throughout the Russian Federation, especially when violations of freedom of religion occur, and undertake outreach activities to educate local officials about the rights of unregistered religious communities; (5) urge both the Personal Representative of the OSCE Chair-in-Office on Combating Racism, Xenophobia and Discrimination, also focusing on Intolerance and Discrimination against Christians and Members of Other Religions, and the United Nations Special Rapporteur on Freedom of Religion or Belief to visit the Russian Federation and raise with federal and local officials concerns about the free practice of unregistered religious communities; and (6) urge the Council of Europe and its member countries to raise with Russian Federation officials issues relating to religious freedom.</summary>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="109" type="h" number="3937" updated="2013-07-19T19:39:11-04:00">
+  <state datetime="2005-09-28">REFERRED</state>
+  <status>
+    <introduced datetime="2005-09-28"/>
+  </status>
+  <introduced datetime="2005-09-28"/>
+  <titles>
+    <title as="introduced" type="official">To include dehydroepiandrosterone as an anabolic steroid.</title>
+  </titles>
+  <sponsor id="400393"/>
+  <cosponsors>
+    <cosponsor id="400303" joined="2005-10-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-09-28">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2005-09-28">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2005-09-28">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2005-10-17">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2005-10-17">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="s" number="1137"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Drug abuse"/>
+    <term name="Drug traffic"/>
+    <term name="Sports and recreation"/>
+    <term name="Steroids"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/2005--Introduced.
+Amends the Controlled Substances Act to include dehydroepiandrosterone (DHEA) within the definition of "anabolic steroid."</summary>
+</bill>

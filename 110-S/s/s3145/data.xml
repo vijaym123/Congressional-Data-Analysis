@@ -1,0 +1,100 @@
+<bill session="110" type="s" number="3145" updated="2013-07-19T22:49:00-04:00">
+  <state datetime="2008-07-23">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2008-07-23"/>
+  </status>
+  <introduced datetime="2008-06-18"/>
+  <titles>
+    <title as="introduced" type="official">A bill to designate a portion of United States Route 20A, located in Orchard Park, New York, as the "Timothy J. Russert Highway".</title>
+  </titles>
+  <sponsor id="300022"/>
+  <cosponsors>
+    <cosponsor id="300087" joined="2008-06-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-06-18">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2008-06-24">
+      <text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2008-06-24">
+      <text>Referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="2008-06-24">
+      <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.</text>
+      <reference ref="CR S6080" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2008-06-24" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6080" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2008-06-25T10:22:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2008-06-25">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2008-06-25">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2008-06-26">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2008-07-15T11:02:00-04:00">
+      <text>Mr. Higgins moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2008-07-15T11:02:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6487-6489" label="consideration"/>
+    </action>
+    <action datetime="2008-07-15T11:02:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 3145.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2008-07-15T11:10:00-04:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6487-6488" label="text"/>
+    </vote>
+    <action datetime="2008-07-15T11:10:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2008-07-15">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2008-07-22">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2008-07-23">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2008-07-23" type="public" number="110-282">
+      <text>Became Public Law No: 110-282.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Discharged"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Discharged"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="6318"/>
+    <bill relation="unknown" session="110" type="h" number="6318"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Government operations and politics"/>
+    <term name="Names"/>
+    <term name="New York State"/>
+    <term name="Reporters and reporting"/>
+    <term name="Roads and highways"/>
+    <term name="Television news"/>
+    <term name="Television programs"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>7/15/2008--Public Law.
+Designates the portion of U.S. Route 20A located in Orchard Park, New York, between Abbot Road and California Road, as the "Timothy J. Russert Highway."</summary>
+</bill>

@@ -1,0 +1,89 @@
+<bill session="110" type="s" number="3550" updated="2013-07-19T22:52:10-04:00">
+  <state datetime="2008-10-14">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2008-10-14"/>
+  </status>
+  <introduced datetime="2008-09-24"/>
+  <titles>
+    <title as="introduced" type="official">An original bill to designate a portion of the Rappahannock River in the Commonwealth of Virginia as the "John W. Warner Rapids".</title>
+  </titles>
+  <sponsor id="300011"/>
+  <cosponsors/>
+  <actions>
+    <calendar state="REPORTED" datetime="2008-09-17">
+      <text>Committee on Environment and Public Works ordered to be reported an original measure.</text>
+    </calendar>
+    <action datetime="2008-09-24">
+      <text>Committee on Environment and Public Works. Original measure reported to Senate by Senator Boxer. Without written report.</text>
+    </action>
+    <calendar datetime="2008-09-24" calendar="Senate Legislative" under="General Orders" number="1053">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1053.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2008-09-24" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S9434" label="consideration"/>
+      <reference ref="CR S9434" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2008-09-25T10:03:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2008-09-25">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2008-09-25">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2008-09-29T14:34:00-04:00">
+      <text>Mr. Rahall asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2008-09-29T14:34:00-04:00">
+      <text>Committee on Natural Resources discharged.</text>
+    </action>
+    <action datetime="2008-09-29T14:34:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H10609" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2008-09-29T14:35:00-04:00" how="without objection" result="pass" type="vote2" where="h">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H10609" label="text"/>
+    </vote>
+    <action datetime="2008-09-29T14:35:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2008-09-29">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2008-10-03">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2008-10-14">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2008-10-14" type="public" number="110-418">
+      <text>Became Public Law No: 110-418.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Origin, Reporting, Markup"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="7031"/>
+    <bill relation="identical" session="110" type="s" number="3482"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Dams"/>
+    <term name="Members of Congress"/>
+    <term name="Names"/>
+    <term name="Rivers"/>
+    <term name="Senate"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>9/29/2008--Public Law.
+Designates a portion of the Rappahannock River comprised of the manmade rapids located at the site of the former Embrey Dam in Fredericksburg, Virginia, as the John W. Warner Rapids.</summary>
+</bill>

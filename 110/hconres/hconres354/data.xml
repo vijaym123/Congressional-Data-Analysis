@@ -1,0 +1,129 @@
+<bill session="110" type="hc" number="354" updated="2013-07-19T22:11:48-04:00">
+  <state datetime="2008-05-20">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2008-05-20"/>
+  </status>
+  <introduced datetime="2008-05-19"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the 100th birthday of Lyndon Baines Johnson, 36th President, designer of the Great Society, politician, educator, and civil rights enforcer.</title>
+  </titles>
+  <sponsor id="400199"/>
+  <cosponsors>
+    <cosponsor id="412231" joined="2008-05-19"/>
+    <cosponsor id="400009" joined="2008-05-19"/>
+    <cosponsor id="400010" joined="2008-05-19"/>
+    <cosponsor id="400041" joined="2008-05-19"/>
+    <cosponsor id="400042" joined="2008-05-19"/>
+    <cosponsor id="400044" joined="2008-05-19"/>
+    <cosponsor id="400046" joined="2008-05-19"/>
+    <cosponsor id="412208" joined="2008-05-19"/>
+    <cosponsor id="400616" joined="2008-05-19"/>
+    <cosponsor id="412260" joined="2008-05-19"/>
+    <cosponsor id="400442" joined="2008-05-19"/>
+    <cosponsor id="400073" joined="2008-05-19"/>
+    <cosponsor id="412221" joined="2008-05-19"/>
+    <cosponsor id="400074" joined="2008-05-19"/>
+    <cosponsor id="400075" joined="2008-05-19"/>
+    <cosponsor id="400080" joined="2008-05-19"/>
+    <cosponsor id="400081" joined="2008-05-19"/>
+    <cosponsor id="400618" joined="2008-05-19"/>
+    <cosponsor id="400092" joined="2008-05-19"/>
+    <cosponsor id="400110" joined="2008-05-19"/>
+    <cosponsor id="400111" joined="2008-05-19"/>
+    <cosponsor id="400118" joined="2008-05-19"/>
+    <cosponsor id="400125" joined="2008-05-19"/>
+    <cosponsor id="400130" joined="2008-05-19"/>
+    <cosponsor id="400133" joined="2008-05-19"/>
+    <cosponsor id="400152" joined="2008-05-19"/>
+    <cosponsor id="400653" joined="2008-05-19"/>
+    <cosponsor id="400160" joined="2008-05-19"/>
+    <cosponsor id="400165" joined="2008-05-19"/>
+    <cosponsor id="400179" joined="2008-05-19"/>
+    <cosponsor id="400189" joined="2008-05-19"/>
+    <cosponsor id="400204" joined="2008-05-19"/>
+    <cosponsor id="400208" joined="2008-05-19"/>
+    <cosponsor id="400215" joined="2008-05-19"/>
+    <cosponsor id="400217" joined="2008-05-19"/>
+    <cosponsor id="400218" joined="2008-05-19"/>
+    <cosponsor id="400229" joined="2008-05-19"/>
+    <cosponsor id="400233" joined="2008-05-19"/>
+    <cosponsor id="400240" joined="2008-05-19"/>
+    <cosponsor id="400253" joined="2008-05-19"/>
+    <cosponsor id="400654" joined="2008-05-19"/>
+    <cosponsor id="400268" joined="2008-05-19"/>
+    <cosponsor id="400270" joined="2008-05-19"/>
+    <cosponsor id="400271" joined="2008-05-19"/>
+    <cosponsor id="400635" joined="2008-05-19"/>
+    <cosponsor id="400302" joined="2008-05-19"/>
+    <cosponsor id="400308" joined="2008-05-19"/>
+    <cosponsor id="400310" joined="2008-05-19"/>
+    <cosponsor id="400337" joined="2008-05-19"/>
+    <cosponsor id="400346" joined="2008-05-19"/>
+    <cosponsor id="400402" joined="2008-05-19"/>
+    <cosponsor id="400409" joined="2008-05-19"/>
+    <cosponsor id="400623" joined="2008-05-19"/>
+    <cosponsor id="400424" joined="2008-05-19"/>
+    <cosponsor id="400430" joined="2008-05-19"/>
+    <cosponsor id="400438" joined="2008-05-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-05-19">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2008-05-19T16:29:00-04:00">
+      <text>Mr. Scott (VA) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2008-05-19T16:30:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4115-4120" label="consideration"/>
+    </action>
+    <action datetime="2008-05-19T16:30:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 354.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-05-19T16:52:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H4115-4116" label="text"/>
+    </vote>
+    <action datetime="2008-05-19T16:52:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-05-19">
+      <text>Received in the Senate and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2008-05-20">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S4555" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2008-05-20" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2008-05-21">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="hc" number="353"/>
+    <bill relation="unknown" session="110" type="sr" number="571"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Civil rights enforcement"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Ex-presidents"/>
+    <term name="Government operations and politics"/>
+    <term name="History"/>
+    <term name="Johnson Administration"/>
+    <term name="Legislation"/>
+    <term name="Voting rights"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2008--Passed Senate without amendment.
+Declares that Congress reaffirms its support for the Civil Rights Act of 1964 and the Voting Rights Act of 1965. Recognizes the significance of the Voting Rights Act of 1965 and honors Lyndon B. Johnson for his work as a civil rights enforcer.</summary>
+</bill>

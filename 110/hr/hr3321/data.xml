@@ -1,0 +1,59 @@
+<bill session="110" type="h" number="3321" updated="2013-07-19T21:33:04-04:00">
+  <state datetime="2007-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2007-08-02"/>
+  </status>
+  <introduced datetime="2007-08-02"/>
+  <titles>
+    <title as="introduced" type="official">To update the Foreign Intelligence Surveillance Act of 1978, and for other purposes.</title>
+  </titles>
+  <sponsor id="400182"/>
+  <cosponsors>
+    <cosponsor id="400034" joined="2007-08-02"/>
+    <cosponsor id="400036" joined="2007-08-02"/>
+    <cosponsor id="400328" joined="2007-08-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-08-02">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2007-08-02">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2007-08-02">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="2007-09-10">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative procedure"/>
+    <term name="Classified defense information"/>
+    <term name="Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Courts of special jurisdiction"/>
+    <term name="Criminal investigation"/>
+    <term name="Department of Justice"/>
+    <term name="Director of National Intelligence"/>
+    <term name="Electronic surveillance"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Judicial review"/>
+    <term name="Law"/>
+    <term name="Official secrets"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/2007--Introduced.
+Amends the Foreign Intelligence Surveillance Act of 1978 (FISA) to state that nothing in the FISA definition of "electronic surveillance" shall be construed to encompass surveillance directed at a person located outside the United States. Authorizes the Director of National Intelligence (DNI) and the Attorney General (AG), for periods up to one year, to acquire foreign intelligence information concerning persons outside the United States under specified procedures subject to review by the Foreign Intelligence Surveillance Court (Court). Allows the DNI and AG to issue a directive to require a person to: (1) provide appropriate information to accomplish an acquisition while protecting the secrecy of the information acquired and producing a minimum of interference with services provided to the acquisition target; and (2) maintain appropriate records concerning the acquisition. Outlines procedures to be followed in the case of a failure to comply with a directive. Directs the: (1) AG to submit to the Court the procedures by which the government determines that acquisitions conducted pursuant to the above authority do not constitute electronic surveillance; and (2) Court to assess such procedures. Requires the AG to report semiannually to the congressional intelligence and judiciary committees on incidents of noncompliance with directives issues by the DNI and AG.</summary>
+</bill>

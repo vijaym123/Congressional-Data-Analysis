@@ -1,0 +1,134 @@
+<bill session="109" type="s" number="655" updated="2013-07-19T20:19:08-04:00">
+  <state datetime="2006-07-26">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2006-07-26"/>
+  </status>
+  <introduced datetime="2005-03-17"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend the Public Health Service Act with respect to the National Foundation for the Centers for Disease Control and Prevention.</title>
+  </titles>
+  <sponsor id="400194"/>
+  <cosponsors>
+    <cosponsor id="300021" joined="2005-03-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-03-17">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2005-04-27">
+      <text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Health, Education, Labor, and Pensions"/>
+    </calendar>
+    <action datetime="2005-06-27">
+      <text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Enzi with an amendment in the nature of a substitute. With written report No. 109-91.</text>
+    </action>
+    <calendar datetime="2005-06-27" calendar="Senate Legislative" under="General Orders" number="140">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 140.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2005-07-27" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S9198" label="consideration"/>
+      <reference ref="CR S9198" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-07-28T11:37:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-07-28">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-07-28">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2005-08-05">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2006-06-08">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2006-06-08">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2006-06-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar datetime="2006-06-15">
+      <text>Ordered to be Reported (Amended).</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2006-06-20T16:37:00-04:00">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 109-510.</text>
+    </action>
+    <calendar datetime="2006-06-20T16:37:00-04:00" calendar="Union" number="286">
+      <text>Placed on the Union Calendar, Calendar No. 286.</text>
+    </calendar>
+    <action datetime="2006-07-11T13:57:00-04:00">
+      <text>Mr. Deal (GA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2006-07-11T13:57:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5003-5005" label="consideration"/>
+    </action>
+    <action datetime="2006-07-11T13:57:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 655.</text>
+    </action>
+    <vote state="PASS_BACK:HOUSE" datetime="2006-07-11T14:12:00-04:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5003" label="text"/>
+    </vote>
+    <action datetime="2006-07-11T14:12:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-07-12">
+      <text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2006-07-13" how="by Unanimous Consent" result="pass" type="pingpong" where="s">
+      <text>Senate agreed to House amendment by Unanimous Consent.</text>
+      <reference ref="CR S7531" label="consideration"/>
+      <reference ref="CR S7531" label="text as Senate agreed to House amendment"/>
+    </vote>
+    <topresident datetime="2006-07-13">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2006-07-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2006-07-18">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2006-07-26">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2006-07-26" type="public" number="109-245">
+      <text>Became Public Law No: 109-245.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Markup, Reporting"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="1569"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Centers for Disease Control and Prevention (CDC)"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to research"/>
+    <term name="Foundations"/>
+    <term name="Government operations and politics"/>
+    <term name="Medical research"/>
+    <term name="Preventive medicine"/>
+    <term name="Science, technology, communications"/>
+    <term name="Social welfare"/>
+    <term name="Volunteer workers"/>
+  </subjects>
+  <amendments/>
+  <summary>7/26/2006--Public Law.
+Amends the Public Health Service Act to change the duration of voluntary service that may be accepted from an individual provided by the National Foundation for the Centers for Disease Control and Prevention to aid or facilitate the work of the Centers for Disease Control and Prevention (CDC) from a maximum of two years to until such time as the private funding for such individual ends. Requires the Foundation to: (1) include an accounting of the use of funds transferred from the CDC to the Foundation in its annual report; and (2) submit such reports to the appropriate congressional committees. Requires the Secretary of Health and Human Services to make available not less than $500,000 and not more than $1,250,000 to the Foundation each fiscal year and increases the amount authorized to be appropriated for grants for such purpose. Allows the Director to provide facilities, utilities, and support services to the Foundation upon a determination that such support would be advantageous to CDC programs.</summary>
+</bill>

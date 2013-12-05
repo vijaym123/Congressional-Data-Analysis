@@ -1,0 +1,61 @@
+<bill session="109" type="sc" number="69" updated="2013-07-19T20:12:56-04:00">
+  <state datetime="2006-02-07">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2006-02-07"/>
+  </status>
+  <introduced datetime="2005-12-14"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution supporting the goals and ideals of a Day of Hearts, Congenital Heart Defect Day in order to increase awareness about congenital heart defects, and for other purposes.</title>
+  </titles>
+  <sponsor id="400194"/>
+  <cosponsors>
+    <cosponsor id="300021" joined="2006-01-25"/>
+    <cosponsor id="300024" joined="2006-01-25"/>
+    <cosponsor id="300037" joined="2006-02-08"/>
+    <cosponsor id="300047" joined="2006-02-08"/>
+    <cosponsor id="300050" joined="2006-02-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-12-14">
+      <text>Referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S13592" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2006-02-07">
+      <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+      <reference ref="CR S777-778" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2006-02-07" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S777-778" label="text"/>
+    </vote>
+    <action datetime="2006-02-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-02-08T14:26:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-02-08T18:09:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="hr" number="629"/>
+    <bill relation="unknown" session="109" type="hr" number="629"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Birth defects"/>
+    <term name="Cardiovascular diseases"/>
+    <term name="Health"/>
+    <term name="Health education"/>
+    <term name="Medical research"/>
+    <term name="Science, technology, communications"/>
+    <term name="Special days"/>
+  </subjects>
+  <amendments/>
+  <summary>2/7/2006--Passed Senate without amendment.
+Expresses support for the goals and ideals of A Day of Hearts: Congenital Heart Defect Awareness Day (February 14, 2006).</summary>
+</bill>

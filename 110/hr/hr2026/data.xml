@@ -1,0 +1,52 @@
+<bill session="110" type="h" number="2026" updated="2013-07-19T21:21:26-04:00">
+  <state datetime="2007-04-25">REFERRED</state>
+  <status>
+    <introduced datetime="2007-04-25"/>
+  </status>
+  <introduced datetime="2007-04-25"/>
+  <titles>
+    <title as="introduced" type="short">Disabled Veterans Insurance Act of 2007</title>
+    <title as="introduced" type="official">To amend section 1922A of title 38, United States Code, to increase the amount of supplemental insurance available for totally disabled veterans.</title>
+  </titles>
+  <sponsor id="400209"/>
+  <cosponsors>
+    <cosponsor id="400153" joined="2007-04-25"/>
+    <cosponsor id="400244" joined="2008-05-15"/>
+    <cosponsor id="400386" joined="2007-10-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-04-25">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2007-04-30">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-05-28">
+      <text>Subcommittee on Economic Opportunity Discharged.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-05-28">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Discharged" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="643"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disabled"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government life insurance"/>
+    <term name="Insurance premiums"/>
+  </subjects>
+  <amendments/>
+  <summary>4/25/2007--Introduced.
+Disabled Veterans Insurance Act of 2007 - Increases from $20,000 to $40,000 the maximum amount of supplemental service disabled veterans' insurance for totally disabled veterans.</summary>
+</bill>

@@ -1,0 +1,68 @@
+<bill session="109" type="s" number="2555" updated="2013-07-19T20:35:43-04:00">
+  <state datetime="2006-08-02">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2006-08-02"/>
+  </status>
+  <introduced datetime="2006-04-05"/>
+  <titles>
+    <title as="introduced" type="official">A bill to designate the facility of the United States Postal Service located at 2633 11th Street in Rock Island, Illinois, as the "Lane Evans Post Office Building".</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors>
+    <cosponsor id="400629" joined="2006-04-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2006-04-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2915"/>
+    </action>
+    <action state="REFERRED" datetime="2006-04-05">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <reference ref="CR S2915" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-07-27">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2006-08-01">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Collins without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2006-08-01" calendar="Senate Legislative" under="General Orders" number="566">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 566.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2006-08-02" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S8667-8668" label="consideration"/>
+      <reference ref="CR S8667" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2006-08-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-09-06T14:20:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-09-06T21:13:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="5086"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Government operations and politics"/>
+    <term name="House of Representatives"/>
+    <term name="Illinois"/>
+    <term name="Members of Congress"/>
+    <term name="Names"/>
+    <term name="Postal facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/2006--Reported to Senate without amendment.
+Designates the facility of the United States Postal Service located at 2633 11th Street in Rock Island, Illinois, as the "Lane Evans Post Office Building."</summary>
+</bill>

@@ -1,0 +1,90 @@
+<bill session="110" type="h" number="903" updated="2013-07-19T21:11:39-04:00">
+  <state datetime="2007-03-05T14:29:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-03-05T14:29:00-05:00"/>
+  </status>
+  <introduced datetime="2007-02-07"/>
+  <titles>
+    <title as="introduced" type="short">Colorado Northern Front Range Mountain Backdrop Protection Study Act</title>
+    <title as="passed house" type="short">Colorado Northern Front Range Mountain Backdrop Protection Study Act</title>
+    <title as="reported to senate" type="short">Colorado Northern Front Range Mountain Backdrop Protection Study Act</title>
+    <title as="introduced" type="official">To provide for a study of options for protecting the open space characteristics of certain lands in and adjacent to the Arapaho and Roosevelt National Forests in Colorado, and for other purposes.</title>
+  </titles>
+  <sponsor id="400412"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2007-02-07">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E280"/>
+    </action>
+    <action state="REFERRED" datetime="2007-02-07">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-02-13">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-03-05T14:25:00-05:00">
+      <text>Mr. Grijalva moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-03-05T14:25:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2128-2129" label="consideration"/>
+    </action>
+    <action datetime="2007-03-05T14:25:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 903.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-03-05T14:29:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2128-2129" label="text"/>
+    </vote>
+    <action datetime="2007-03-05T14:29:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-03-06">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2008-02-27">
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2008-09-11">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2008-09-16">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="2008-09-16" calendar="Senate Legislative" under="General Orders" number="1014">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1014.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG03" subcommittee="Public Lands and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="2508"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Animals"/>
+    <term name="Colorado"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Environmental protection"/>
+    <term name="Housing and community development"/>
+    <term name="Landscape protection"/>
+    <term name="Mountains"/>
+    <term name="National forests"/>
+    <term name="Open space lands"/>
+    <term name="Outdoor recreation"/>
+    <term name="Real estate development"/>
+    <term name="Sports and recreation"/>
+    <term name="Wildlife conservation"/>
+  </subjects>
+  <amendments/>
+  <summary>9/16/2008--Reported to Senate amended.
+Colorado Northern Front Range Mountain Backdrop Protection Study Act - Requires the Secretary of Agriculture, acting through the Chief of the Forest Service, to conduct a study of the land within the study area (certain lands in southern Boulder, northern Jefferson, and northern Gilpin Counties, Colorado) and complete a report: (1) identifying the present ownership of the land within the study area; (2) identifying any undeveloped land that may be at risk of development; and (3) describing any actions that could be taken to preserve the open and undeveloped character of the land within the study area. Requires the Secretary to conduct the study and develop the report with the support and participation of one or more specified state and local entities. Allows the Secretary if such state and local entities do not support and participate in the study and report to: (1) decrease the area covered by the study area, as appropriate; or (2) opt not to conduct the study or develop the report and notify specified congressional committees of such decision. Prohibits anything in this Act from authorizing the Secretary of Agriculture to take any action that would affect the use of any land not owned by the United States.</summary>
+</bill>

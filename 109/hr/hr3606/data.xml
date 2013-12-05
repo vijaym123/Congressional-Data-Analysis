@@ -1,0 +1,65 @@
+<bill session="109" type="h" number="3606" updated="2013-07-19T19:36:14-04:00">
+  <state datetime="2006-09-27T23:42:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-09-27T23:42:00-04:00"/>
+  </status>
+  <introduced datetime="2005-07-28"/>
+  <titles>
+    <title as="introduced" type="official">To modify a land grant patent issued by the Secretary of the Interior.</title>
+  </titles>
+  <sponsor id="400391"/>
+  <cosponsors>
+    <cosponsor id="400058" joined="2005-10-31"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-07-28">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2006-08-08">
+      <text>Referred to the Subcommittee on Fisheries and Oceans.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-09-27T23:40:00-04:00">
+      <text>Mr. Gohmert moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-09-27T23:40:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7663-7664" label="consideration"/>
+    </action>
+    <action datetime="2006-09-27T23:40:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3606.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-09-27T23:42:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H7664" label="text"/>
+    </vote>
+    <action datetime="2006-09-27T23:42:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-09-28">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2006-11-13">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII15" subcommittee="Fisheries Conservation, Wildlife, and Oceans" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Historic sites"/>
+    <term name="History"/>
+    <term name="Land transfers"/>
+    <term name="Land use"/>
+    <term name="Lighthouses and lightships"/>
+    <term name="Michigan"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/2006--Passed House without amendment.
+Modifies a land grant patent issued by the Secretary of the Interior to the Great Lakes Shipwreck Historical Society, Chippewa County, Michigan.</summary>
+</bill>

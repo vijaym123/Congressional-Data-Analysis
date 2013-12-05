@@ -1,0 +1,102 @@
+<bill session="109" type="s" number="1786" updated="2013-07-19T20:29:03-04:00">
+  <state datetime="2005-10-07">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2005-10-07"/>
+  </status>
+  <introduced datetime="2005-09-28"/>
+  <titles>
+    <title as="introduced" type="official">A bill to authorize the Secretary of Transportation to make emergency airport improvement project grants-in-aid under title 49, United States Code, for repairs and costs related to damage from Hurricanes Katrina and Rita.</title>
+  </titles>
+  <sponsor id="300069"/>
+  <cosponsors>
+    <cosponsor id="300015" joined="2005-09-28"/>
+    <cosponsor id="300023" joined="2005-09-28"/>
+    <cosponsor id="300027" joined="2005-09-28"/>
+    <cosponsor id="300063" joined="2005-09-28"/>
+    <cosponsor id="300094" joined="2005-10-05"/>
+    <cosponsor id="400418" joined="2005-09-28"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2005-09-28" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S10624" label="consideration"/>
+      <reference ref="CR S10624" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-09-29T10:03:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-09-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-09-29">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2005-09-30">
+      <text>Referred to the Subcommittee on Aviation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2005-10-06T14:13:00-04:00">
+      <text>Mr. Mica moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2005-10-06T14:13:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8654-8656" label="consideration"/>
+    </action>
+    <action datetime="2005-10-06T14:13:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 1786.</text>
+    </action>
+    <action datetime="2005-10-06T14:28:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2005-10-06T18:46:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H8693-8694" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2005-10-06T19:08:00-04:00" how="roll" result="pass" roll="509" type="vote2" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 509).</text>
+      <reference ref="CR H8654" label="text"/>
+    </vote>
+    <action datetime="2005-10-06T19:08:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-10-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2005-10-06">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2005-10-07">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2005-10-07">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2005-10-07" type="public" number="109-87">
+      <text>Became Public Law No: 109-87.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Airports"/>
+    <term name="Alabama"/>
+    <term name="Construction costs"/>
+    <term name="Economics and public finance"/>
+    <term name="Emergency management"/>
+    <term name="Federal aid to transportation"/>
+    <term name="Floods"/>
+    <term name="Hurricane aftermath legislation"/>
+    <term name="Hurricanes"/>
+    <term name="Infrastructure"/>
+    <term name="Louisiana"/>
+    <term name="Mississippi"/>
+    <term name="Transportation planning"/>
+  </subjects>
+  <amendments/>
+  <summary>10/7/2005--Public Law.
+Authorizes the Secretary of Transportation to make airport development project grants from unobligated apportioned airport improvement funds for FY2005 and FY2006 for emergency capital and operating costs of repairing or replacing public use facilities damaged by Hurricane Katrina or Hurricane Rita which are incurred by a public use airport in Louisiana, Mississippi, Alabama, or Texas listed in the Federal Aviation Administration's National Plan of Integrated Airport Systems. Authorizes the Secretary to waive any applicable grant limitation or requirement if the Secretary determines that it is necessary to respond to the urgent needs of the region damaged by the hurricanes. Sets the federal share of project costs at 100%.</summary>
+</bill>

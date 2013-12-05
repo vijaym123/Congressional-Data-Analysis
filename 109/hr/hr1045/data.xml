@@ -1,0 +1,48 @@
+<bill session="109" type="h" number="1045" updated="2013-07-19T19:13:25-04:00">
+  <state datetime="2005-03-02">REFERRED</state>
+  <status>
+    <introduced datetime="2005-03-02"/>
+  </status>
+  <introduced datetime="2005-03-02"/>
+  <titles>
+    <title as="introduced" type="official">To extend the filing deadline for certain Medicare claims to account for a delay in processing adjustments from secondary payor status to primary payor status.</title>
+  </titles>
+  <sponsor id="400082"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-03-02">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2005-03-02">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2005-03-02">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2005-03-11">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Ways and Means"/>
+    </action>
+    <action datetime="2005-03-14">
+      <text>Referred to the Subcommittee on Health, for a period to be subsequently determined by the Chairman.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Medicare"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>3/2/2005--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to extend for one year the filing deadline for Medicare claims for items and services furnished between January 1, 1987, and August 10, 1993, to account for a delay in processing adjustments from secondary to primary payor status.</summary>
+</bill>

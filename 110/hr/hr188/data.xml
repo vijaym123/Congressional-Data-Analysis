@@ -1,0 +1,83 @@
+<bill session="110" type="h" number="188" updated="2013-07-19T21:05:26-04:00">
+  <state datetime="2007-02-08">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2007-02-08"/>
+  </status>
+  <introduced datetime="2007-01-04"/>
+  <titles>
+    <title as="introduced" type="official">To provide a new effective date for the applicability of certain provisions of law to Public Law 105-331.</title>
+  </titles>
+  <sponsor id="400308"/>
+  <cosponsors>
+    <cosponsor id="400140" joined="2007-01-04"/>
+    <cosponsor id="400142" joined="2007-01-04"/>
+    <cosponsor id="412186" joined="2007-01-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-04">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2007-01-16T14:50:00-05:00">
+      <text>Mr. Scott (GA) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-01-16T14:51:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H532-534" label="consideration"/>
+    </action>
+    <action datetime="2007-01-16T14:51:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 188.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-01-16T15:02:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H532" label="text"/>
+    </vote>
+    <action datetime="2007-01-16T15:02:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-01-17">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+    <action datetime="2007-01-25">
+      <text>Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.</text>
+      <reference ref="CR S1204" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2007-01-25" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <topresident datetime="2007-01-25">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2007-01-26">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2007-01-30">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2007-02-08">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2007-02-08" type="public" number="110-3">
+      <text>Became Public Law No: 110-3.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Auditing"/>
+    <term name="Coins and coinage"/>
+    <term name="Financial statements"/>
+    <term name="Fund raising"/>
+    <term name="Intellectual property"/>
+    <term name="Inventors"/>
+    <term name="Museums"/>
+    <term name="New Jersey"/>
+  </subjects>
+  <amendments/>
+  <summary>2/8/2007--Public Law.
+Revises the effective date for mandatory deposit in the Treasury as miscellaneous receipts of any amount derived from proceeds of the surcharge on the sale of the Thomas Alva Edison Commemorative Coin, under the Thomas Alva Edison Commemorative Coin Act, which remains unpaid to a designated recipient organization solely by reason of a specified matching fund requirement. Postpones the effective date of such requirement until July 1, 2007.</summary>
+</bill>

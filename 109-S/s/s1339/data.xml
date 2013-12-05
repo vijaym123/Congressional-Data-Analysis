@@ -1,0 +1,95 @@
+<bill session="109" type="s" number="1339" updated="2013-07-19T20:25:12-04:00">
+  <state datetime="2005-09-09">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-09-09"/>
+  </status>
+  <introduced datetime="2005-06-30"/>
+  <titles>
+    <title as="introduced" type="short">Junior Duck Stamp Reauthorization Act of 2005</title>
+    <title as="reported to house" type="short">Junior Duck Stamp Reauthorization Act of 2005</title>
+    <title as="reported to senate" type="short">Junior Duck Stamp Reauthorization Act of 2005</title>
+    <title as="passed senate" type="short">Junior Duck Stamp Reauthorization Act of 2005</title>
+    <title as="introduced" type="official">A bill to reauthorize the Junior Duck Stamp Conservation and Design Program Act of 1994.</title>
+  </titles>
+  <sponsor id="300055"/>
+  <cosponsors>
+    <cosponsor id="300020" joined="2005-06-30"/>
+    <cosponsor id="300030" joined="2005-07-11"/>
+    <cosponsor id="300057" joined="2005-06-30"/>
+    <cosponsor id="400621" joined="2005-09-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-06-30">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2005-07-20">
+      <text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Environment and Public Works"/>
+    </calendar>
+    <action datetime="2005-08-31">
+      <text>Star Print ordered on on the bill.</text>
+    </action>
+    <action datetime="2005-08-31">
+      <text>Committee on Environment and Public Works. Reported by Senator Inhofe under authority of the order of the Senate of 07/29/2005 without amendment. With written report No. 109-124.</text>
+    </action>
+    <calendar datetime="2005-08-31" calendar="Senate Legislative" under="General Orders" number="195">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 195.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2005-09-09" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S9890" label="consideration"/>
+      <reference ref="CR S9890" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-09-09">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-09-12T12:04:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-09-12">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-09-13">
+      <text>Referred to the Subcommittee on Fisheries and Oceans.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-09-22">
+      <text>Subcommittee on Fisheries and Oceans Discharged.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar datetime="2005-09-22">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="2005-10-07T15:42:00-04:00">
+      <text>Reported by the Committee on Resources. H. Rept. 109-246.</text>
+    </action>
+    <calendar datetime="2005-10-07T15:43:00-04:00" calendar="Union" number="136">
+      <text>Placed on the Union Calendar, Calendar No. 136.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+    <committee code="HSII" name="House Resources" activity="Referral, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSII15" subcommittee="Fisheries Conservation, Wildlife, and Oceans" name="House Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="3179"/>
+    <bill relation="unknown" session="109" type="h" number="3179"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Animals"/>
+    <term name="Authorization"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Environmental protection"/>
+    <term name="Hunting"/>
+    <term name="Migratory bird conservation"/>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>10/7/2005--Reported to House without amendment.
+Junior Duck Stamp Reauthorization Act of 2005 - Reauthorizes the Junior Duck Stamp Conservation and Design Program Act of 1994 through FY2010.</summary>
+</bill>

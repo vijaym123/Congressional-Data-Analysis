@@ -1,0 +1,70 @@
+<bill session="110" type="h" number="2243" updated="2013-07-19T21:23:18-04:00">
+  <state datetime="2007-05-09">REFERRED</state>
+  <status>
+    <introduced datetime="2007-05-09"/>
+  </status>
+  <introduced datetime="2007-05-09"/>
+  <titles>
+    <title as="introduced" type="official">To better provide for compensation for certain persons injured in the course of employment at the Santa Susana Field Laboratory in California.</title>
+  </titles>
+  <sponsor id="400144"/>
+  <cosponsors>
+    <cosponsor id="400371" joined="2007-08-03"/>
+    <cosponsor id="400425" joined="2007-06-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-05-09">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2007-05-09">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2007-05-09">
+      <text>Referred to House Education and Labor</text>
+    </action>
+    <action datetime="2007-06-25">
+      <text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <action datetime="2007-07-17">
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+      <committee name="House Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Citizenship, Refugees, Border Security, and International Law" name="House Judiciary"/>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED10" subcommittee="Workforce Protections" name="House Education and Labor"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="6019"/>
+    <bill relation="identical" session="110" type="s" number="1820"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Administrative remedies"/>
+    <term name="Armed forces and national security"/>
+    <term name="California"/>
+    <term name="Claims"/>
+    <term name="Compensation (Law)"/>
+    <term name="Department of Energy"/>
+    <term name="Energy"/>
+    <term name="Environmental protection"/>
+    <term name="Federal employees"/>
+    <term name="Government contractors"/>
+    <term name="Government operations and politics"/>
+    <term name="Health"/>
+    <term name="Labor and employment"/>
+    <term name="Laboratories"/>
+    <term name="Nuclear facilities"/>
+    <term name="Nuclear weapons"/>
+    <term name="Occupational health and safety"/>
+    <term name="Radiation victims"/>
+    <term name="Science, technology, communications"/>
+    <term name="Workers' compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/9/2007--Introduced.
+Amends the Energy Employees Occupational Illness Compensation Program Act of 2000 to include within the meaning of the term &#147;member of the Special Exposure Cohort&#148; a Department of Energy employee, Department of Energy contractor employee, or atomic weapons employee who was so employed for a number of work days aggregating at least 250 work days before January 1, 2006, at the Santa Susana Field Laboratory in California.Provides that a claim that an individual qualifies for compensation or benefits under such Act shall be considered notwithstanding any denial of any other claim for compensation with respect to such individual.</summary>
+</bill>

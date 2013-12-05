@@ -1,0 +1,47 @@
+<bill session="110" type="sc" number="101" updated="2013-07-19T22:20:15-04:00">
+  <state datetime="2008-09-23">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2008-09-23"/>
+  </status>
+  <introduced datetime="2008-09-23"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution honoring the University of Nebraska at Omaha for its 100 years of commitment to higher education.</title>
+  </titles>
+  <sponsor id="300050"/>
+  <cosponsors>
+    <cosponsor id="300077" joined="2008-09-23"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2008-09-23" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S9345-9346" label="consideration"/>
+      <reference ref="CR S9345-9346" label="text as passed Senate"/>
+      <reference ref="CR S9285" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2008-09-24T10:03:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2008-09-24">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2008-09-24">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Colleges"/>
+    <term name="Congressional tributes"/>
+    <term name="Education"/>
+    <term name="Higher education"/>
+    <term name="Nebraska"/>
+  </subjects>
+  <amendments/>
+  <summary>9/23/2008--Passed Senate without amendment.
+Congratulates the University of Nebraska at Omaha for 100 years of outstanding service in fulfilling its mission of providing sound learning and education.</summary>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="110" type="h" number="6965" updated="2013-07-19T22:04:39-04:00">
+  <state datetime="2008-09-23T22:36:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-09-23T22:36:00-04:00"/>
+  </status>
+  <introduced datetime="2008-09-18"/>
+  <titles>
+    <title as="introduced" type="official">To extend the authorization of the national flood insurance program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400140"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2008-09-18">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2008-09-23T22:31:00-04:00">
+      <text>Mr. Watt moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2008-09-23T22:31:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8705-8706" label="consideration"/>
+    </action>
+    <action datetime="2008-09-23T22:31:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6965.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-09-23T22:36:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H8705" label="text"/>
+    </vote>
+    <action datetime="2008-09-23T22:36:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-09-24">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Authorization"/>
+    <term name="Disaster insurance"/>
+    <term name="Economics and public finance"/>
+    <term name="Finance and financial sector"/>
+    <term name="Floods"/>
+  </subjects>
+  <amendments/>
+  <summary>9/23/2008--Passed House without amendment.
+Amends the National Flood Insurance Act of 1968 to extend the authorization of the national flood insurance program from September 30, 2008, through April 30, 2009.</summary>
+</bill>

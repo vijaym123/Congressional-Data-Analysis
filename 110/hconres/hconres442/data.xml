@@ -1,0 +1,48 @@
+<bill session="110" type="hc" number="442" updated="2013-07-19T22:12:34-04:00">
+  <state datetime="2008-10-03">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2008-10-03"/>
+  </status>
+  <introduced datetime="2008-10-02"/>
+  <titles>
+    <title as="introduced" type="official">Directing the Secretary of the Senate to correct the enrollment of the bill S. 3001.</title>
+  </titles>
+  <sponsor id="400377"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2008-10-02T17:50:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H10673" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-10-02T17:51:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H10673" label="text"/>
+    </vote>
+    <action datetime="2008-10-02T17:51:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-10-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2008-10-03">
+      <text>Received in the Senate, pursuant to the order of October 2, 2008, during the recess of the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2008-10-03" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate Pursuant to the order of the Senate of October 2, 2008, without amendment by Unanimous Consent.</text>
+    </vote>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="3001"/>
+    <bill relation="unknown" session="110" type="s" number="3001"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Defense spending"/>
+    <term name="Department of Defense"/>
+    <term name="Executive agency funding and structure"/>
+  </subjects>
+  <amendments/>
+  <summary>10/2/2008--Passed House without amendment.
+Directs the Secretary of the Senate to correct the enrollment of S. 3001 (Duncan Hunter National Defense Authorization Act for Fiscal Year 2009) by: (1) changing the amount authorized to be appropriated for the Army from $11,045,052,000 to $10,943,840,000; and (2) changing the amount of authorized funds available for the Defense Science and Technology Program from $11,799,660 to $11,799,660,000.</summary>
+</bill>

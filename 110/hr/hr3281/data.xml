@@ -1,0 +1,52 @@
+<bill session="110" type="h" number="3281" updated="2013-07-19T21:32:43-04:00">
+  <state datetime="2007-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2007-08-01"/>
+  </status>
+  <introduced datetime="2007-08-01"/>
+  <titles>
+    <title as="introduced" type="short">Community Broadband Act of 2007</title>
+    <title as="introduced" type="official">To promote competition, to preserve the ability of local governments to provide broadband capability and services, and for other purposes.</title>
+  </titles>
+  <sponsor id="400043"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2007-12-17"/>
+    <cosponsor id="412258" joined="2008-06-09"/>
+    <cosponsor id="400114" joined="2007-10-18"/>
+    <cosponsor id="400245" joined="2007-10-15"/>
+    <cosponsor id="400414" joined="2007-08-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-08-01">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2007-08-01">
+      <text>Referred to the Subcommittee on Telecommunications and the Internet.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2007-08-02">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1684-1685"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF16" subcommittee="Telecommunications and the Internet" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="1853"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Broadband"/>
+    <term name="Federal preemption"/>
+    <term name="Government operations and politics"/>
+    <term name="Government publicity"/>
+    <term name="Internet"/>
+    <term name="Local laws"/>
+    <term name="State laws"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/2007--Introduced.
+Community Broadband Act of 2007 - Prohibits any state or local government statute, regulation, or other legal requirement from having the effect of prohibiting any public provider from providing advanced communications capability to any person or any public or private entity. Defines "public provider" as a state or a political subdivision or instrumentality thereof or any entity owned, controlled, or otherwise affiliated with a state, subdivision, or instrumentality. Prohibits a public provider from granting any regulatory preference to itself or to any provider it owns or is affiliated with. Requires, subject to exception, a public provider, before it provides advanced communications capability or services, to publish notice and provide local citizens and private-sector entities with an opportunity to be heard.</summary>
+</bill>

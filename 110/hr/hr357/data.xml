@@ -1,0 +1,58 @@
+<bill session="110" type="h" number="357" updated="2013-07-19T21:06:53-04:00">
+  <state datetime="2007-01-09">REFERRED</state>
+  <status>
+    <introduced datetime="2007-01-09"/>
+  </status>
+  <introduced datetime="2007-01-09"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Agricultural Marketing Act of 1946 to implement mandatory country of origin labeling requirements for meat and produce on September 30, 2007.</title>
+  </titles>
+  <sponsor id="400335"/>
+  <cosponsors>
+    <cosponsor id="400088" joined="2007-01-09"/>
+    <cosponsor id="400443" joined="2007-01-09"/>
+    <cosponsor id="412240" joined="2007-03-22"/>
+    <cosponsor id="400659" joined="2007-03-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-09">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2007-02-06">
+      <text>Referred to the Subcommittee on Horticulture and Organic Agriculture.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="2007-02-06">
+      <text>Referred to the Subcommittee on Livestock, Dairy, and Poultry.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG03" subcommittee="Horticulture and Organic Agriculture" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG29" subcommittee="Livestock, Dairy, and Poultry" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="404"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Animals"/>
+    <term name="Aquaculture"/>
+    <term name="Commerce"/>
+    <term name="Fishes"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Imports"/>
+    <term name="Labeling"/>
+    <term name="Marketing of farm produce"/>
+    <term name="Meat"/>
+    <term name="Peanuts"/>
+    <term name="Seafood"/>
+    <term name="Sheep"/>
+    <term name="Swine"/>
+  </subjects>
+  <amendments/>
+  <summary>1/9/2007--Introduced.
+Amends the Agricultural Marketing Act of 1946 to change the country of origin labeling implementation date from September 30, 2008, to September 30, 2007.</summary>
+</bill>

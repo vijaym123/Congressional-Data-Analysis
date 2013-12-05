@@ -1,0 +1,41 @@
+<bill session="110" type="hc" number="279" updated="2013-07-19T22:11:10-04:00">
+  <state datetime="2008-01-22">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2008-01-22"/>
+  </status>
+  <introduced datetime="2008-01-16"/>
+  <titles>
+    <title as="introduced" type="official">Providing for an adjournment of the House.</title>
+  </titles>
+  <sponsor id="400377"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2008-01-16T16:51:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H260" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-01-16T16:52:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H260" label="text"/>
+    </vote>
+    <action datetime="2008-01-16T16:52:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2008-01-22" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S59" label="consideration"/>
+    </vote>
+    <action datetime="2008-01-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2008--Passed Senate without amendment.
+Declares that, when the House adjourns: (1) on Wednesday, January 23, 2008, it stand adjourned until 2 p.m. on Monday, January 28, 2008; and (2) on Tuesday, January 29, 2008, it stand adjourned until 2 p.m. on Wednesday, February 6, 2008.</summary>
+</bill>

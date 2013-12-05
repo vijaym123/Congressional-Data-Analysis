@@ -1,0 +1,94 @@
+<bill session="109" type="hc" number="354" updated="2013-07-19T20:05:13-04:00">
+  <state datetime="2006-03-14T19:24:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-03-14T19:24:00-05:00"/>
+  </status>
+  <introduced datetime="2006-03-08"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the continued support of Congress for requiring an institution of higher education to provide military recruiters with access to the institution's campus and students at least equal in quality and scope to that which is provided to any other employer in order to be eligible for the receipt of certain Federal funds.</title>
+  </titles>
+  <sponsor id="400322"/>
+  <cosponsors>
+    <cosponsor id="400010" joined="2006-03-08"/>
+    <cosponsor id="400055" joined="2006-03-08"/>
+    <cosponsor id="400056" joined="2006-03-08"/>
+    <cosponsor id="400057" joined="2006-03-08"/>
+    <cosponsor id="412011" joined="2006-03-14"/>
+    <cosponsor id="400068" joined="2006-03-08"/>
+    <cosponsor id="400095" joined="2006-03-08"/>
+    <cosponsor id="400658" joined="2006-03-14"/>
+    <cosponsor id="400662" joined="2006-03-08"/>
+    <cosponsor id="400191" joined="2006-03-08"/>
+    <cosponsor id="400196" joined="2006-03-08"/>
+    <cosponsor id="400219" joined="2006-03-09"/>
+    <cosponsor id="400260" joined="2006-03-13"/>
+    <cosponsor id="400267" joined="2006-03-09"/>
+    <cosponsor id="400287" joined="2006-03-13"/>
+    <cosponsor id="400313" joined="2006-03-13"/>
+    <cosponsor id="400652" joined="2006-03-08"/>
+    <cosponsor id="400388" joined="2006-03-14"/>
+    <cosponsor id="400392" joined="2006-03-08"/>
+    <cosponsor id="400393" joined="2006-03-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-03-08">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2006-03-08">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2006-03-08">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2006-03-14T15:01:00-05:00">
+      <text>Mrs. Drake moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2006-03-14T15:02:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H940-941" label="consideration"/>
+    </action>
+    <action datetime="2006-03-14T15:02:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 354.</text>
+    </action>
+    <action datetime="2006-03-14T15:16:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2006-03-14T18:32:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H940-941" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-03-14T19:24:00-05:00" how="roll" result="pass" roll="39" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 347 - 65, 2 Present (Roll no. 39).</text>
+      <reference ref="CR H884-885" label="text"/>
+    </vote>
+    <action datetime="2006-03-14T19:24:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-03-15">
+      <text>Received in the Senate and referred to the Committee on Armed Services.</text>
+    </action>
+    <action datetime="2006-03-20">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Colleges"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Federal aid to education"/>
+    <term name="Higher education"/>
+    <term name="Recruiting and enlistment"/>
+  </subjects>
+  <amendments/>
+  <summary>3/14/2006--Passed House without amendment.
+Expresses continued support for conditioning an institution of higher education's receipt of certain federal funds on its providing military recruiters with the same access to its campus and students as it provides to any other employer.</summary>
+</bill>

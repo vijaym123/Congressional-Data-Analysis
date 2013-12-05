@@ -1,0 +1,116 @@
+<bill session="110" type="h" number="2317" updated="2013-07-19T21:23:57-04:00">
+  <state datetime="2007-05-24T14:35:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-05-24T14:35:00-04:00"/>
+  </status>
+  <introduced datetime="2007-05-15"/>
+  <titles>
+    <title as="introduced" type="short">Lobbying Transparency Act of 2007</title>
+    <title as="reported to house" type="short">Lobbying Transparency Act of 2007</title>
+    <title as="passed house" type="short">Lobbying Transparency Act of 2007</title>
+    <title as="introduced" type="official">To amend the Lobbying Disclosure Act of 1995 to require registered lobbyists to file quarterly reports on contributions bundled for certain recipients, and for other purposes.</title>
+  </titles>
+  <sponsor id="400415"/>
+  <cosponsors>
+    <cosponsor id="400031" joined="2007-05-15"/>
+    <cosponsor id="400080" joined="2007-05-15"/>
+    <cosponsor id="400120" joined="2007-05-15"/>
+    <cosponsor id="400269" joined="2007-05-15"/>
+    <cosponsor id="412194" joined="2007-05-17"/>
+    <cosponsor id="400371" joined="2007-05-15"/>
+    <cosponsor id="412229" joined="2007-05-17"/>
+    <cosponsor id="400425" joined="2007-05-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-05-15">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2007-05-17">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-05-17">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2007-05-21T21:51:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 110-162.</text>
+    </action>
+    <calendar datetime="2007-05-21T21:54:00-04:00" calendar="Union" number="98">
+      <text>Placed on the Union Calendar, Calendar No. 98.</text>
+    </calendar>
+    <action datetime="2007-05-24T08:04:00-04:00">
+      <text>Rules Committee Resolution H. Res. 437 Reported to House. Rule provides for consideration of H.R. 2317 and H.R. 2316.</text>
+    </action>
+    <action datetime="2007-05-24T13:26:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 437.</text>
+      <reference ref="CR H5749-5755, CR 5/25/2007 H5757-5758" label="consideration"/>
+    </action>
+    <action datetime="2007-05-24T13:26:00-04:00">
+      <text>Rule provides for consideration of H.R. 2317 and H.R. 2316.</text>
+    </action>
+    <action datetime="2007-05-24T13:27:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 2317.</text>
+    </action>
+    <action datetime="2007-05-24T13:46:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H5753" label="consideration"/>
+    </action>
+    <action datetime="2007-05-24T13:47:00-04:00">
+      <text>Mr. Smith (TX) moved to recommit with instructions to Judiciary.</text>
+      <reference ref="CR H5753-5755" label="consideration"/>
+      <reference ref="CR H5753" label="text"/>
+    </action>
+    <action datetime="2007-05-24T13:47:00-04:00">
+      <text>Floor summary: DEBATE - The House proceede with 10 minutes of debate on the Smith(TX) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment inserting a multicandidate political committee described the Federal Election Campaign Act of 1971.</text>
+    </action>
+    <action datetime="2007-05-24T13:57:00-04:00">
+      <text>The previous question on the motion was ordered without objection.</text>
+      <reference ref="CR H5754" label="consideration"/>
+    </action>
+    <action datetime="2007-05-24T14:26:00-04:00">
+      <text>On motion to recommit with instructions Agreed to by the Yeas and Nays: 228 - 192 (Roll no. 419).</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-05-24T14:35:00-04:00" how="roll" result="pass" roll="420" type="vote" where="h">
+      <text>On passage Passed by the Yeas and Nays: 382 - 37 (Roll no. 420).</text>
+      <reference ref="CR H5749-5750" label="text"/>
+    </vote>
+    <action datetime="2007-05-24T14:35:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-05-25">
+      <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2007-06-04" calendar="Senate Legislative" under="General Orders" number="183">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 183.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="hr" number="437"/>
+    <bill relation="rule" session="110" type="hr" number="437"/>
+    <bill relation="unknown" session="110" type="h" number="633"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Campaign funds"/>
+    <term name="Congressional elections"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Election candidates"/>
+    <term name="Federal officials"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Lobbying"/>
+    <term name="Political action committees"/>
+    <term name="Political parties"/>
+    <term name="Presidential elections"/>
+  </subjects>
+  <amendments>
+    <amendment number="h230"/>
+    <amendment number="h231"/>
+  </amendments>
+  <summary>5/24/2007--Passed House amended.
+Lobbying Transparency Act of 2007 - Amends the Lobbying Disclosure Act of 1995 to require a registered lobbyist who bundles two or more contributions made (in an aggregate amount exceeding $5,000) to a covered recipient during a quarterly period to: (1) file a quarterly report with the Secretary of the Senate and the Clerk of the House of Representatives; and (2) notify the covered recipient by certified mail before filing such report. Requires the notification to express the covered recipient's right to respond to the statement to challenge and correct any information included before the registered lobbyist files such report. Defines "covered recipient" as a federal candidate, an individual holding federal office, a leadership PAC (an unauthorized political committee which is associated with an individual holding federal office, excluding a political committee of a political party), a multicandidate political committee, or a political party committee.</summary>
+</bill>

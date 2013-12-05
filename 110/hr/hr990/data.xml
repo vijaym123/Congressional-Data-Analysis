@@ -1,0 +1,89 @@
+<bill session="110" type="h" number="990" updated="2013-07-19T21:12:24-04:00">
+  <state datetime="2007-02-27T16:11:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-02-27T16:11:00-05:00"/>
+  </status>
+  <introduced datetime="2007-02-12"/>
+  <titles>
+    <title as="introduced" type="short">Pell Grant Equity Act of 2007</title>
+    <title as="passed house" type="short">Pell Grant Equity Act of 2007</title>
+    <title as="introduced" type="official">To provide all low-income students with the same opportunity to receive a Pell Grant by eliminating the tuition sensitivity provision in the Pell Grant program.</title>
+    <title as="amended by house" type="official">To provide all low-income students with the same opportunity to receive a Pell Grant by suspending the tuition sensitivity provision in the Pell Grant program.</title>
+  </titles>
+  <sponsor id="400278"/>
+  <cosponsors>
+    <cosponsor id="412236" joined="2007-02-27"/>
+    <cosponsor id="400093" joined="2007-02-27"/>
+    <cosponsor id="400097" joined="2007-02-27"/>
+    <cosponsor id="400653" joined="2007-02-27"/>
+    <cosponsor id="412204" joined="2007-02-27"/>
+    <cosponsor id="400170" joined="2007-02-27"/>
+    <cosponsor id="400179" joined="2007-02-12"/>
+    <cosponsor id="400195" joined="2007-02-27"/>
+    <cosponsor id="400212" joined="2007-02-12"/>
+    <cosponsor id="400663" joined="2007-02-27"/>
+    <cosponsor id="400267" joined="2007-02-12"/>
+    <cosponsor id="400396" joined="2007-02-27"/>
+    <cosponsor id="400407" joined="2007-02-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2007-02-12">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E326"/>
+    </action>
+    <action state="REFERRED" datetime="2007-02-12">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2007-02-27T16:00:00-05:00">
+      <text>Mr. Miller, George moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-02-27T16:00:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1919-1921" label="consideration"/>
+    </action>
+    <action datetime="2007-02-27T16:00:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 990.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-02-27T16:11:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H1919" label="text"/>
+    </vote>
+    <action datetime="2007-02-27T16:11:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-02-27T16:11:00-05:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-02-28">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+    <action datetime="2007-06-05">
+      <text>Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral"/>
+    <committee activity="Referral" code="HSED13" subcommittee="Higher Education, Lifelong Learning, and Competitiveness" name="House Education and Labor"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="707"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Collection of accounts"/>
+    <term name="College costs"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to education"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Finance and financial sector"/>
+    <term name="Higher education"/>
+    <term name="Loan defaults"/>
+    <term name="Scholarships"/>
+    <term name="Student loan funds"/>
+  </subjects>
+  <amendments/>
+  <summary>2/27/2007--Passed House amended.
+Pell Grant Equity Act of 2007 - Amends the Higher Education Act of 1965 to make the formula for calculation of an individual Pell Grant which includes, in part, the sum of the student's tuition, inapplicable for the 2007-2008 academic year. (Thus suspends for such year the "tuition sensitivity provision" which prohibits maximum Pell Grant awards to students attending low-tuition institutions of higher education even if their income is low enough to otherwise qualify for the maximum award.) Amends the Federal Family Education Loan program to lower from 23% to 22% for FY2008, the percentage of a borrower's student loan payment made subsequent to default that a guaranty agency may retain for deposit in its operating fund if the Secretary of Education has already reimbursed it for such default.</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="109" type="s" number="157" updated="2013-07-19T20:14:48-04:00">
+  <state datetime="2005-01-25">REFERRED</state>
+  <status>
+    <introduced datetime="2005-01-25"/>
+  </status>
+  <introduced datetime="2005-01-25"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend the Internal Revenue Code of 1986 to permit interest on Federally guaranteed water, wastewater, and essential community facilities loans to be tax exempt.</title>
+  </titles>
+  <sponsor id="300061"/>
+  <cosponsors>
+    <cosponsor id="300051" joined="2005-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-01-25">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S484"/>
+    </action>
+    <action state="REFERRED" datetime="2005-01-25">
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <reference ref="CR S484" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="2378"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Environmental protection"/>
+    <term name="Finance and financial sector"/>
+    <term name="Income tax"/>
+    <term name="Infrastructure"/>
+    <term name="Tax-exempt securities"/>
+    <term name="Waste water treatment"/>
+    <term name="Water resources development"/>
+    <term name="Water treatment plants"/>
+  </subjects>
+  <amendments/>
+  <summary>1/25/2005--Introduced.
+Amends the Internal Revenue Code to exempt from tax interest on federally-guaranteed bonds for the financing of water, wastewater, and essential community facilities.</summary>
+</bill>

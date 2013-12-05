@@ -1,0 +1,116 @@
+<bill session="109" type="h" number="5126" updated="2013-07-19T19:49:33-04:00">
+  <state datetime="2006-06-06T20:18:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-06-06T20:18:00-04:00"/>
+  </status>
+  <introduced datetime="2006-04-06"/>
+  <titles>
+    <title as="introduced" type="short">Truth in Caller ID Act of 2006</title>
+    <title as="passed house" type="short">Truth in Caller ID Act of 2006</title>
+    <title as="introduced" type="official">To amend the Communications Act of 1934 to prohibit manipulation of caller identification information, and for other purposes.</title>
+  </titles>
+  <sponsor id="400018"/>
+  <cosponsors>
+    <cosponsor id="400019" joined="2006-05-09"/>
+    <cosponsor id="400028" joined="2006-05-09"/>
+    <cosponsor id="400039" joined="2006-05-09"/>
+    <cosponsor id="400043" joined="2006-05-09"/>
+    <cosponsor id="400052" joined="2006-05-09"/>
+    <cosponsor id="400056" joined="2006-05-09"/>
+    <cosponsor id="400069" joined="2006-05-09"/>
+    <cosponsor id="400088" joined="2006-05-18"/>
+    <cosponsor id="400633" joined="2006-05-09"/>
+    <cosponsor id="400109" joined="2006-05-09"/>
+    <cosponsor id="400122" joined="2006-04-06"/>
+    <cosponsor id="400132" joined="2006-05-09"/>
+    <cosponsor id="400139" joined="2006-05-09"/>
+    <cosponsor id="400150" joined="2006-05-09"/>
+    <cosponsor id="400255" joined="2006-05-09"/>
+    <cosponsor id="400285" joined="2006-06-06"/>
+    <cosponsor id="400288" joined="2006-05-09"/>
+    <cosponsor id="400319" joined="2006-05-09"/>
+    <cosponsor id="400660" joined="2006-04-06"/>
+    <cosponsor id="412010" joined="2006-05-09"/>
+    <cosponsor id="400373" joined="2006-05-09"/>
+    <cosponsor id="400375" joined="2006-04-06"/>
+    <cosponsor id="400409" joined="2006-05-09"/>
+    <cosponsor id="400414" joined="2006-05-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-04-06">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2006-04-19">
+      <text>Referred to the Subcommittee on Telecommunications and the Internet.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2006-05-18">
+      <text>Committee Hearings Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2006-05-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-05-24">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2006-06-06T19:26:00-04:00">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 109-489.</text>
+    </action>
+    <calendar datetime="2006-06-06T19:27:00-04:00" calendar="Union" number="274">
+      <text>Placed on the Union Calendar, Calendar No. 274.</text>
+    </calendar>
+    <action datetime="2006-06-06T20:04:00-04:00">
+      <text>Mr. Upton moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2006-06-06T20:04:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3386-3388" label="consideration"/>
+    </action>
+    <action datetime="2006-06-06T20:04:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5126.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-06-06T20:18:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H3386" label="text"/>
+    </vote>
+    <action datetime="2006-06-06T20:19:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-06-07">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Hearings, Markup, Reporting"/>
+    <committee activity="Referral" code="HSIF16" subcommittee="Telecommunications and the Internet" name="House Energy and Commerce"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="5095"/>
+    <bill relation="unknown" session="109" type="s" number="2630"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Administrative procedure"/>
+    <term name="Broadband"/>
+    <term name="Commerce"/>
+    <term name="Consumer education"/>
+    <term name="Consumer protection"/>
+    <term name="Federal Trade Commission"/>
+    <term name="Fraud"/>
+    <term name="Government operations and politics"/>
+    <term name="Identification devices"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Internet"/>
+    <term name="Law"/>
+    <term name="Restrictive trade practices"/>
+    <term name="Telephone"/>
+    <term name="Wireless communication"/>
+  </subjects>
+  <amendments/>
+  <summary>6/6/2006--Passed House amended.
+Truth in Caller ID Act of 2006 - Amends the Communications Act of 1934 to make it unlawful for any person in the United States, in connection with any telecommunication service or VOIP (voice over Internet protocol) service, to cause any caller identification service to transmit misleading or inaccurate caller identification information, with the intent to defraud or cause harm.</summary>
+</bill>

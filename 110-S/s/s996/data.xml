@@ -1,0 +1,102 @@
+<bill session="110" type="s" number="996" updated="2013-07-19T22:28:52-04:00">
+  <state datetime="2008-10-02">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2008-10-02"/>
+  </status>
+  <introduced datetime="2007-03-27"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend title 49, United States Code, to expand passenger facility fee eligibility for certain noise compatibility projects.</title>
+  </titles>
+  <sponsor id="300043"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2007-03-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2007-03-27">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3842-3843"/>
+    </action>
+    <action state="REFERRED" datetime="2007-03-27">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <reference ref="CR S3843" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2008-02-28">
+      <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text>
+      <reference ref="CR S1390" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2008-02-28" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S1390" label="text"/>
+    </vote>
+    <action datetime="2008-02-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2008-03-03T14:06:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2008-03-03">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2008-03-04">
+      <text>Referred to the Subcommittee on Aviation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2008-09-17T15:33:00-04:00">
+      <text>Ms. Richardson moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2008-09-17T15:33:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8336-8338" label="consideration"/>
+    </action>
+    <action datetime="2008-09-17T15:33:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes debate on S. 996.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2008-09-17T15:54:00-04:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H8336" label="text"/>
+    </vote>
+    <action datetime="2008-09-17T15:54:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2008-09-17">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2008-09-23">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2008-10-02">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2008-10-02" type="public" number="110-337">
+      <text>Became Public Law No: 110-337.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Discharged"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="1708"/>
+    <bill relation="unknown" session="110" type="h" number="1708"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Airline passenger traffic"/>
+    <term name="Airports"/>
+    <term name="Building construction"/>
+    <term name="California"/>
+    <term name="Construction costs"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Environmental protection"/>
+    <term name="Higher education"/>
+    <term name="Noise"/>
+    <term name="School buildings"/>
+    <term name="User charges"/>
+  </subjects>
+  <amendments/>
+  <summary>10/2/2008--Public Law.
+Allows a passenger facility fee imposed at a large hub airport (that is subject to an amended judgment and final order in condemnation filed on January 7, 1980, by the Superior Court of the State of California for the county of Los Angeles) to be used as an eligible project cost to carry out noise mitigation for certain school buildings in the noise impacted area surrounding the airport if: (1) the buildings are adversely affected by airport noise; (2) the buildings are owned owned or chartered by the school district that was the plaintiff in case number 986,442 or 986,446, which was resolved by such judgment and final order; (3) the project is for a school identified in one of the settlement agreements effective February 16, 2005, between the airport and each of the school districts; (4) in the case of a project to replace a relocatable building with a permanent building, the eligible project costs are limited to actual structural construction costs necessary to mitigate aircraft noise in instructional classrooms to an interior noise level that meet Federal Aviation Administration (FAA) standards; and (5) the project otherwise meets requirements for authorization of a passenger facility fee.</summary>
+</bill>

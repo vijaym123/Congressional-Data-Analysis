@@ -1,0 +1,101 @@
+<bill session="110" type="h" number="2601" updated="2013-07-19T21:26:26-04:00">
+  <state datetime="2007-12-11T16:10:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-12-11T16:10:00-05:00"/>
+  </status>
+  <introduced datetime="2007-06-06"/>
+  <titles>
+    <title as="reported to house" type="short">Do-Not-Call Registry Fee Extension Act of 2007</title>
+    <title as="passed house" type="short">Do-Not-Call Registry Fee Extension Act of 2007</title>
+    <title as="introduced" type="official">To extend the authority of the Federal Trade Commission to collect fees to administer and enforce the provisions relating to the "Do-not-call" registry of the Telemarketing Sales Rule.</title>
+  </titles>
+  <sponsor id="400388"/>
+  <cosponsors>
+    <cosponsor id="400018" joined="2007-06-06"/>
+    <cosponsor id="412210" joined="2007-11-05"/>
+    <cosponsor id="400052" joined="2007-06-06"/>
+    <cosponsor id="400110" joined="2007-06-06"/>
+    <cosponsor id="400222" joined="2007-10-22"/>
+    <cosponsor id="400319" joined="2007-06-06"/>
+    <cosponsor id="400320" joined="2007-06-06"/>
+    <cosponsor id="400350" joined="2007-06-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-06-06">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2007-06-06">
+      <text>Referred to the Subcommittee on Commerce, Trade and Consumer Protection.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2007-10-23">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2007-10-23">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2007-10-23">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2007-10-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-10-30">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2007-12-11T15:40:00-05:00">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-485.</text>
+    </action>
+    <calendar datetime="2007-12-11T15:40:00-05:00" calendar="Union" number="300">
+      <text>Placed on the Union Calendar, Calendar No. 300.</text>
+    </calendar>
+    <action datetime="2007-12-11T16:02:00-05:00">
+      <text>Mr. Butterfield moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-12-11T16:02:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H15265-15267" label="consideration"/>
+    </action>
+    <action datetime="2007-12-11T16:02:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2601.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-12-11T16:10:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H15265-15266" label="consideration"/>
+    </vote>
+    <action datetime="2007-12-11T16:10:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-12-12">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSIF17" subcommittee="Commerce, Trade and Consumer Protection" name="House Energy and Commerce"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="781"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Administrative fees"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal Trade Commission"/>
+    <term name="Government operations and politics"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Law"/>
+    <term name="Science, technology, communications"/>
+    <term name="Telemarketing"/>
+  </subjects>
+  <amendments/>
+  <summary>12/11/2007--Passed House amended.
+Do-Not-Call Registry Fee Extension Act of 2007 - (Sec. 2) Amends the Do-Not-Call Implementation Act to replace provisions relating to fees regarding the "do-not-call" registry of the Telemarketing Sales Rule with provisions requiring the Federal Trade Commission (FTC) to collect an annual fee to implement and enforce the registry or any other regulation issued by the FTC under specified provisions of the Telemarketing and Consumer Fraud and Abuse Prevention Act. Sets the fee amount per area code accessed, subject to a maximum amount, and indexes the amount to inflation. Prohibits any arrangement to divide the fee among various clients of a telemarketer or service provider. (Sec. 3) Replaces current reporting requirements with provisions requiring the FTC to report biennially to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives. Requires an additional, one-time FTC report to those committees on the effectiveness of do-not-call outreach and enforcement efforts to senior citizens and immigrant communities, the impact of the exceptions to the do-not-call registry on businesses and consumers, and the impact on do-not-call enforcement of abandoned calls made by predictive dialing devices.</summary>
+</bill>

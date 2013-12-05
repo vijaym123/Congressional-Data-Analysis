@@ -1,0 +1,94 @@
+<bill session="110" type="h" number="5664" updated="2013-07-19T21:53:27-04:00">
+  <state datetime="2008-05-20T14:18:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-05-20T14:18:00-04:00"/>
+  </status>
+  <introduced datetime="2008-03-31"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to update at least once every six years the plans and specifications for specially adapted housing furnished to veterans by the Secretary.</title>
+  </titles>
+  <sponsor id="400339"/>
+  <cosponsors>
+    <cosponsor id="400056" joined="2008-05-15"/>
+    <cosponsor id="400310" joined="2008-04-24"/>
+    <cosponsor id="412214" joined="2008-05-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-03-31">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2008-04-04">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-04-16">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-04-23">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-04-23">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-04-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-04-30">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2008-05-15T16:54:00-04:00">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-641.</text>
+    </action>
+    <calendar datetime="2008-05-15T16:54:00-04:00" calendar="Union" number="402">
+      <text>Placed on the Union Calendar, Calendar No. 402.</text>
+    </calendar>
+    <action datetime="2008-05-20T14:12:00-04:00">
+      <text>Mr. Filner moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2008-05-20T14:12:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4196-4197" label="consideration"/>
+    </action>
+    <action datetime="2008-05-20T14:12:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5664.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-05-20T14:18:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4196" label="text"/>
+    </vote>
+    <action datetime="2008-05-20T14:18:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-05-21">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Blind"/>
+    <term name="Burns"/>
+    <term name="Disabled"/>
+    <term name="Government operations and politics"/>
+    <term name="Government publications"/>
+    <term name="Health"/>
+    <term name="Housing and community development"/>
+    <term name="Housing for the disabled"/>
+    <term name="Housing subsidies"/>
+    <term name="Planning"/>
+    <term name="Veterans' benefits"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2008--Passed House amended.
+Directs the Secretary of Veterans Affairs to make available to veterans eligible for specially adapted housing assistance for disabled veterans, without cost to the veterans, a handbook containing appropriate designs for specially adapted housing. Requires the Secretary, at least every six years, to update the handbook to take into account any new or unique disabilities, including vision impairments, impairments specific to the upper limbs, and burn injuries.</summary>
+</bill>

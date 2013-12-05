@@ -1,0 +1,76 @@
+<bill session="110" type="sc" number="15" updated="2013-07-19T22:19:24-04:00">
+  <state datetime="2007-03-06T15:10:00-05:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2007-03-06T15:10:00-05:00"/>
+  </status>
+  <introduced datetime="2007-03-01"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution authorizing the Rotunda of the Capitol to be used on March 29, 2007, for a ceremony to award the Congressional Gold Medal to the Tuskegee Airmen.</title>
+  </titles>
+  <sponsor id="300066"/>
+  <cosponsors>
+    <cosponsor id="300094" joined="2007-03-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-03-01">
+      <text>Referred to the Committee on Rules and Administration.</text>
+      <reference ref="CR S2516" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2007-03-06">
+      <text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text>
+      <reference ref="CR S2662" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2007-03-06" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S2662" label="text"/>
+    </vote>
+    <action datetime="2007-03-06T14:31:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2007-03-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2007-03-06T15:00:00-05:00">
+      <text>Ms. Millender-McDonald moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2007-03-06T15:01:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2198-2200" label="consideration"/>
+    </action>
+    <action datetime="2007-03-06T15:01:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 15.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2007-03-06T15:10:00-05:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H2198" label="text"/>
+    </vote>
+    <action datetime="2007-03-06T15:10:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="hc" number="78"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Air force"/>
+    <term name="Aircraft pilots"/>
+    <term name="Alabama"/>
+    <term name="Armed forces and national security"/>
+    <term name="Blacks"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Congress"/>
+    <term name="Congressional gold medals"/>
+    <term name="Congressional tributes"/>
+    <term name="History"/>
+    <term name="Military history"/>
+    <term name="Minorities"/>
+    <term name="World War II"/>
+  </subjects>
+  <amendments/>
+  <summary>3/6/2007--Passed House without amendment.
+Authorizes the use of the Capitol rotunda on March 29, 2007, for a ceremony to award the Congressional Gold Medal collectively to the Tuskegee Airmen in accordance with Public Law 109-213.</summary>
+</bill>

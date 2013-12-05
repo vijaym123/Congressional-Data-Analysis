@@ -1,0 +1,50 @@
+<bill session="110" type="h" number="3082" updated="2013-07-19T21:30:51-04:00">
+  <state datetime="2007-07-18">REFERRED</state>
+  <status>
+    <introduced datetime="2007-07-18"/>
+  </status>
+  <introduced datetime="2007-07-18"/>
+  <titles>
+    <title as="introduced" type="short">Montgomery GI Bill Degree Extension Act of 2007</title>
+    <title as="introduced" type="official">To amend title 38, United States Code, to extend the time limitation for the use of entitlement to educational assistance under the Montgomery GI Bill for certain persons actively pursuing a qualifying educational degree or certificate.</title>
+  </titles>
+  <sponsor id="400067"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2007-07-18">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2007-07-18">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2007-07-18">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2007-07-23">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2007-08-14">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="h" number="5939"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Education"/>
+    <term name="Higher education"/>
+    <term name="Veterans' education"/>
+  </subjects>
+  <amendments/>
+  <summary>7/18/2007--Introduced.
+Montgomery GI Bill Degree Extension Act of 2007 - Extends the time limitation (generally ten years from the original eligibility date) for the use of educational assistance under the Montgomery GI Bill all-volunteer force educational assistance program, in the case of an individual who has completed at least 50% of the credit or time requirements leading to a degree or certificate before the last day of the ten-year period, to the earlier of: (1) the date on which the individual completes such requirements; or (2) two years after the last day of the ten-year period.</summary>
+</bill>

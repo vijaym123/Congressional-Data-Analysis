@@ -1,0 +1,59 @@
+<bill session="109" type="hc" number="300" updated="2013-07-19T20:04:44-04:00">
+  <state datetime="2006-02-15T11:04:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-02-15T11:04:00-05:00"/>
+  </status>
+  <introduced datetime="2005-11-16"/>
+  <titles>
+    <title as="introduced" type="official">Paying tribute to Shirley Horn in recognition of her many achievements and contributions to the world of jazz and American culture.</title>
+  </titles>
+  <sponsor id="400080"/>
+  <cosponsors>
+    <cosponsor id="400295" joined="2005-11-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-11-16">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E2371"/>
+    </action>
+    <action state="REFERRED" datetime="2005-11-16">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2006-02-15T10:55:00-05:00">
+      <text>Mr. Porter moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2006-02-15T10:55:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H288-290" label="consideration"/>
+    </action>
+    <action datetime="2006-02-15T10:55:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 300.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-02-15T11:04:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H288" label="text"/>
+    </vote>
+    <action datetime="2006-02-15T11:04:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-02-16">
+      <text>Received in the Senate and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Entertainers"/>
+    <term name="Music"/>
+  </subjects>
+  <amendments/>
+  <summary>2/15/2006--Passed House amended.
+Pays tribute to the late Shirley Horn. Recognizes her many achievements and contributions to the world of jazz and American culture.</summary>
+</bill>

@@ -1,0 +1,66 @@
+<bill session="109" type="h" number="4289" updated="2013-07-19T19:42:15-04:00">
+  <state datetime="2005-11-09">REFERRED</state>
+  <status>
+    <introduced datetime="2005-11-09"/>
+  </status>
+  <introduced datetime="2005-11-09"/>
+  <titles>
+    <title as="introduced" type="short">HIPAA Recreational Injury Technical Correction Act</title>
+    <title as="introduced" type="official">To promote health care coverage parity for individuals participating in legal recreational activities or legal transportation activities.</title>
+  </titles>
+  <sponsor id="400412"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2005-11-09">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E2310"/>
+    </action>
+    <action state="REFERRED" datetime="2005-11-09">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2005-11-09">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2005-11-09">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2005-11-09">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2005-11-22">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2006-05-01">
+      <text>Referred to the Subcommittee on Employer-Employee Relations.</text>
+      <committee name="House Education and the Workforce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Employer-Employee Relations" name="House Education and the Workforce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="s" number="577"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Accidents"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Discrimination in insurance"/>
+    <term name="Discrimination in medical care"/>
+    <term name="Employee health benefits"/>
+    <term name="Finance and financial sector"/>
+    <term name="Labor and employment"/>
+    <term name="Recreation"/>
+    <term name="Sports and recreation"/>
+    <term name="Traffic accidents and safety"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>11/9/2005--Introduced.
+HIPAA Recreational Injury Technical Correction Act - Amends the Employee Retirement Income Security Act of 1974 (ERISA), the Public Health Service Act, and the Internal Revenue Code to prohibit a group health plan or health insurance issuer offering group health coverage from denying benefits or coverage otherwise provided under the plan for the treatment of an injury solely because it resulted from participation in a legal mode of transportation or recreational activity.</summary>
+</bill>

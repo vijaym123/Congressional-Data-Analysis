@@ -1,0 +1,86 @@
+<bill session="110" type="h" number="3889" updated="2013-07-19T21:37:57-04:00">
+  <state datetime="2008-05-20T13:55:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-05-20T13:55:00-04:00"/>
+  </status>
+  <introduced datetime="2007-10-18"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to require the Secretary of Veterans Affairs to conduct a longitudinal study of the vocational rehabilitation programs administered by the Secretary.</title>
+  </titles>
+  <sponsor id="400040"/>
+  <cosponsors>
+    <cosponsor id="400056" joined="2008-05-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-10-18">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2007-10-19">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-04-16">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-04-23">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-04-23">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-04-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-04-30">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2008-05-15T16:50:00-04:00">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-640.</text>
+    </action>
+    <calendar datetime="2008-05-15T16:51:00-04:00" calendar="Union" number="401">
+      <text>Placed on the Union Calendar, Calendar No. 401.</text>
+    </calendar>
+    <action datetime="2008-05-20T13:48:00-04:00">
+      <text>Mr. Filner moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2008-05-20T13:49:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4191-4193" label="consideration"/>
+    </action>
+    <action datetime="2008-05-20T13:49:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3889.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-05-20T13:55:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4192" label="text"/>
+    </vote>
+    <action datetime="2008-05-20T13:55:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-05-21">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disabled"/>
+    <term name="Governmental investigations"/>
+    <term name="Labor and employment"/>
+    <term name="Veterans' rehabilitation"/>
+    <term name="Vocational rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2008--Passed House amended.
+Directs the Secretary of Veterans Affairs, subject to the availability of appropriated funds, to conduct a longitudinal study of each group of individuals who began participating in a veterans' vocational rehabilitation program during FY2009, FY2011, and FY2014. Requires the Secretary: (1) to study each group over at least a 20-year period; and (2) to report to the congressional veterans' committees during each year covered by the study.</summary>
+</bill>

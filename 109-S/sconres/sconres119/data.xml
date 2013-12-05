@@ -1,0 +1,83 @@
+<bill session="109" type="sc" number="119" updated="2013-07-19T20:13:26-04:00">
+  <state datetime="2006-11-16">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2006-11-16"/>
+  </status>
+  <introduced datetime="2006-09-27"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution expressing the sense of Congress that public policy should continue to protect and strengthen the ability of farmers and ranchers to join together in cooperative self-help efforts.</title>
+  </titles>
+  <sponsor id="300068"/>
+  <cosponsors>
+    <cosponsor id="300005" joined="2006-09-27"/>
+    <cosponsor id="300010" joined="2006-09-27"/>
+    <cosponsor id="300015" joined="2006-09-27"/>
+    <cosponsor id="300021" joined="2006-09-27"/>
+    <cosponsor id="300023" joined="2006-09-27"/>
+    <cosponsor id="300024" joined="2006-09-29"/>
+    <cosponsor id="300026" joined="2006-09-27"/>
+    <cosponsor id="300029" joined="2006-09-27"/>
+    <cosponsor id="300030" joined="2006-09-27"/>
+    <cosponsor id="300033" joined="2006-09-27"/>
+    <cosponsor id="300037" joined="2006-09-27"/>
+    <cosponsor id="300041" joined="2006-09-27"/>
+    <cosponsor id="300048" joined="2006-09-27"/>
+    <cosponsor id="300051" joined="2006-09-27"/>
+    <cosponsor id="300058" joined="2006-09-27"/>
+    <cosponsor id="300059" joined="2006-09-29"/>
+    <cosponsor id="300080" joined="2006-09-27"/>
+    <cosponsor id="400619" joined="2006-09-29"/>
+    <cosponsor id="300093" joined="2006-09-27"/>
+    <cosponsor id="300096" joined="2006-09-27"/>
+    <cosponsor id="400546" joined="2006-09-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-09-27">
+      <text>Referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+      <reference ref="CR S10308" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2006-11-16">
+      <text>Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.</text>
+      <reference ref="CR S11097-11102" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2006-11-16" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S11101-11102" label="text"/>
+    </vote>
+    <action datetime="2006-11-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-12-05T12:36:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-12-05">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Discharged"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="hc" number="482"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural cooperatives"/>
+    <term name="Economic growth"/>
+    <term name="Economics and public finance"/>
+    <term name="Energy"/>
+    <term name="Energy crops"/>
+    <term name="Energy development"/>
+    <term name="Farm income"/>
+    <term name="Farmers"/>
+    <term name="Housing and community development"/>
+    <term name="Job creation"/>
+    <term name="Labor and employment"/>
+    <term name="Marketing of farm produce"/>
+    <term name="Rural economic development"/>
+  </subjects>
+  <amendments/>
+  <summary>11/16/2006--Passed Senate without amendment.
+Expresses the sense of Congress that public policy should continue to protect and strengthen the ability of farmers and ranchers to join together in cooperative self-help efforts to: (1) improve their income from the marketplace and their economic well-being; (2) capitalize on new market opportunities; and (3) help meet the food and fiber needs of consumers, provide for increased energy production, promote rural development, maintain and create needed jobs, and contribute to a growing U.S. economy.</summary>
+</bill>

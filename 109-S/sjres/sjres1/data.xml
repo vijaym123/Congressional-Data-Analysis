@@ -1,0 +1,121 @@
+<bill session="109" type="sj" number="1" updated="2013-07-19T20:06:31-04:00">
+  <state datetime="2006-06-07">PROV_KILL:CLOTUREFAILED</state>
+  <status>
+    <unknown datetime="2006-06-07"/>
+  </status>
+  <introduced datetime="2005-01-24"/>
+  <titles>
+    <title type="popular">Same Sex Marriage resolution</title>
+    <title as="introduced" type="short">Marriage Protection Amendment</title>
+    <title as="reported to senate" type="short">Marriage Protection Amendment</title>
+    <title as="introduced" type="official">A joint resolution proposing an amendment to the Constitution of the United States relating to marriage.</title>
+  </titles>
+  <sponsor id="300003"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2005-01-24"/>
+    <cosponsor id="300004" joined="2005-02-16"/>
+    <cosponsor id="300013" joined="2005-10-27"/>
+    <cosponsor id="300015" joined="2006-05-25"/>
+    <cosponsor id="400054" joined="2005-01-24"/>
+    <cosponsor id="300021" joined="2006-05-25"/>
+    <cosponsor id="400576" joined="2005-01-24"/>
+    <cosponsor id="300023" joined="2005-01-26"/>
+    <cosponsor id="300027" joined="2005-01-24"/>
+    <cosponsor id="300029" joined="2006-06-06"/>
+    <cosponsor id="300030" joined="2005-01-24"/>
+    <cosponsor id="400105" joined="2005-01-24"/>
+    <cosponsor id="300033" joined="2006-03-29"/>
+    <cosponsor id="300035" joined="2005-01-24"/>
+    <cosponsor id="300041" joined="2005-01-24"/>
+    <cosponsor id="300045" joined="2005-01-24"/>
+    <cosponsor id="300052" joined="2005-01-24"/>
+    <cosponsor id="300054" joined="2005-01-24"/>
+    <cosponsor id="300055" joined="2005-01-24"/>
+    <cosponsor id="400194" joined="2005-01-24"/>
+    <cosponsor id="300062" joined="2005-01-24"/>
+    <cosponsor id="300069" joined="2005-01-24"/>
+    <cosponsor id="400621" joined="2005-01-24"/>
+    <cosponsor id="300072" joined="2005-01-24"/>
+    <cosponsor id="300083" joined="2005-01-24"/>
+    <cosponsor id="300085" joined="2005-01-24"/>
+    <cosponsor id="300088" joined="2005-01-24"/>
+    <cosponsor id="300089" joined="2005-01-26"/>
+    <cosponsor id="300094" joined="2005-01-24"/>
+    <cosponsor id="300096" joined="2005-01-24"/>
+    <cosponsor id="400546" joined="2005-01-24"/>
+    <cosponsor id="400418" joined="2005-01-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-01-24">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S365-366"/>
+    </action>
+    <action state="REFERRED" datetime="2005-01-24">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S366" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2005-11-09">
+      <text>Committee on the Judiciary Subcommittee on Constitution, Civil Rights and Property Rights. Approved for full committee consideration without amendment favorably.</text>
+      <committee name="Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-05-18">
+      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2006-05-18">
+      <text>Committee on the Judiciary. Reported by Senator Specter without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2006-05-18" calendar="Senate Legislative" under="General Orders" number="435">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 435.</text>
+    </calendar>
+    <action datetime="2006-05-26">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S5393-5394" label="consideration"/>
+    </action>
+    <action datetime="2006-06-05">
+      <text>Motion to proceed to measure considered in Senate.</text>
+      <reference ref="CR S5401, S5403-5424" label="consideration"/>
+    </action>
+    <action datetime="2006-06-05">
+      <text>Cloture motion on the motion to proceed presented in Senate.</text>
+      <reference ref="CR S5424" label="consideration"/>
+      <reference ref="CR S5424" label="text"/>
+    </action>
+    <action datetime="2006-06-06">
+      <text>Motion to proceed to measure considered in Senate.</text>
+      <reference ref="CR S5439-5484" label="consideration"/>
+    </action>
+    <action datetime="2006-06-07">
+      <text>Motion to proceed to measure considered in Senate.</text>
+      <reference ref="CR S5517-5534" label="consideration"/>
+    </action>
+    <action state="PROV_KILL:CLOTUREFAILED" datetime="2006-06-07">
+      <text>Cloture on the motion to proceed not invoked in Senate by Yea-Nay Vote. 49 - 48. Record Vote Number: 163.</text>
+      <reference ref="CR S5534" label="consideration"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Markup, Reporting" code="SSJU03" subcommittee="Constitution, Civil Rights and Property Rights" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="hj" number="39"/>
+    <bill relation="identical" session="109" type="hj" number="88"/>
+    <bill relation="unknown" session="109" type="hj" number="88"/>
+    <bill relation="unknown" session="109" type="hj" number="91"/>
+  </relatedbills>
+  <subjects>
+    <term name="Families"/>
+    <term name="Constitutional amendments"/>
+    <term name="Government operations and politics"/>
+    <term name="Law"/>
+    <term name="Marriage"/>
+    <term name="Same-sex marriage"/>
+    <term name="State constitutions"/>
+    <term name="State laws"/>
+    <term name="Unmarried couples"/>
+  </subjects>
+  <amendments/>
+  <summary>5/18/2006--Reported to Senate without amendment.
+Constitutional Amendment - Marriage Protection Amendment - Declares that: (1) marriage in the United States shall consist only of the union of a man and a woman; and (2) neither the U.S. Constitution nor the constitution of any state shall be construed to require that marriage or the legal incidents of marriage be conferred upon any other union.</summary>
+</bill>

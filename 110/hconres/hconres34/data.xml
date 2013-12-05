@@ -1,0 +1,98 @@
+<bill session="110" type="hc" number="34" updated="2013-07-19T22:09:05-04:00">
+  <state datetime="2007-02-01">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2007-02-01"/>
+  </status>
+  <introduced datetime="2007-01-18"/>
+  <titles>
+    <title as="introduced" type="official">Honoring the life of Percy Lavon Julian, a pioneer in the field of organic chemistry research and development and the first and only African American chemist to be inducted into the National Academy of Sciences.</title>
+  </titles>
+  <sponsor id="400204"/>
+  <cosponsors>
+    <cosponsor id="400082" joined="2007-01-18"/>
+    <cosponsor id="400093" joined="2007-01-18"/>
+    <cosponsor id="400119" joined="2007-01-18"/>
+    <cosponsor id="400130" joined="2007-01-29"/>
+    <cosponsor id="400155" joined="2007-01-18"/>
+    <cosponsor id="400184" joined="2007-01-18"/>
+    <cosponsor id="400199" joined="2007-01-18"/>
+    <cosponsor id="400217" joined="2007-01-18"/>
+    <cosponsor id="400663" joined="2007-01-18"/>
+    <cosponsor id="400295" joined="2007-01-18"/>
+    <cosponsor id="400333" joined="2007-01-18"/>
+    <cosponsor id="400343" joined="2007-01-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-18">
+      <text>Referred to the House Committee on Science and Technology.</text>
+    </action>
+    <action datetime="2007-01-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Science and Technology"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-01-24">
+      <text>Ordered to be Reported.</text>
+      <committee name="House Committee on Science and Technology"/>
+    </calendar>
+    <action datetime="2007-01-29T18:05:00-05:00">
+      <text>Reported by the Committee on Science and Technology. H. Rept. 110-4.</text>
+    </action>
+    <calendar datetime="2007-01-29T18:05:00-05:00" calendar="House" number="4">
+      <text>Placed on the House Calendar, Calendar No. 4.</text>
+    </calendar>
+    <action datetime="2007-01-30T14:07:00-05:00">
+      <text>Ms. Johnson, E. B. moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2007-01-30T14:07:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1007-1009" label="consideration"/>
+    </action>
+    <action datetime="2007-01-30T14:07:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 34.</text>
+    </action>
+    <action datetime="2007-01-30T14:26:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2007-01-31T11:56:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H1069-1070" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-01-31T12:07:00-05:00" how="roll" result="pass" roll="65" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 65).</text>
+      <reference ref="CR 1/30/2007 H1007" label="text"/>
+    </vote>
+    <action datetime="2007-01-31T12:07:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-01-31">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2007-02-01" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S1542" label="consideration"/>
+    </vote>
+    <action datetime="2007-02-05">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science and Technology" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="sc" number="5"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Blacks"/>
+    <term name="Chemical research"/>
+    <term name="Chemistry"/>
+    <term name="Chemists"/>
+    <term name="Congressional tributes"/>
+    <term name="Minorities"/>
+    <term name="Research and development"/>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <summary>2/1/2007--Passed Senate without amendment.
+Honors the life of Percy Lavon Julian, a pioneer in the field of organic chemistry research and development, and the first and only African American chemist to be inducted into the National Academy of Sciences.</summary>
+</bill>

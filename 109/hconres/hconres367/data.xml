@@ -1,0 +1,77 @@
+<bill session="109" type="hc" number="367" updated="2013-07-19T20:05:19-04:00">
+  <state datetime="2006-06-26">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2006-06-26"/>
+  </status>
+  <introduced datetime="2006-03-29"/>
+  <titles>
+    <title as="introduced" type="official">Honoring and praising the National Society of the Sons of the American Revolution on the 100th anniversary of being granted its Congressional Charter.</title>
+  </titles>
+  <sponsor id="400076"/>
+  <cosponsors>
+    <cosponsor id="400034" joined="2006-04-06"/>
+    <cosponsor id="400070" joined="2006-05-10"/>
+    <cosponsor id="400095" joined="2006-05-10"/>
+    <cosponsor id="400154" joined="2006-05-10"/>
+    <cosponsor id="400157" joined="2006-04-27"/>
+    <cosponsor id="400280" joined="2006-03-29"/>
+    <cosponsor id="400296" joined="2006-06-08"/>
+    <cosponsor id="400377" joined="2006-03-29"/>
+    <cosponsor id="400428" joined="2006-05-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-03-29">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2006-06-20T12:31:00-04:00">
+      <text>Mr. Sensenbrenner moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2006-06-20T12:31:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4233-4234" label="consideration"/>
+    </action>
+    <action datetime="2006-06-20T12:31:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 367.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-06-20T12:31:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H4233" label="text"/>
+    </vote>
+    <action datetime="2006-06-20T12:31:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-06-21">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2006-06-26" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S6495" label="consideration"/>
+      <reference ref="CR S6495" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2006-06-26">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="sc" number="89"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="American Revolution"/>
+    <term name="Anniversaries"/>
+    <term name="Commerce"/>
+    <term name="Congressional tributes"/>
+    <term name="Families"/>
+    <term name="Federal incorporation"/>
+    <term name="Fraternal organizations"/>
+    <term name="Government operations and politics"/>
+    <term name="History"/>
+    <term name="Youth"/>
+  </subjects>
+  <amendments/>
+  <summary>6/26/2006--Passed Senate without amendment.
+Recognizes the 100th anniversary of the historic congressional charter of the National Society of the Sons of the American Revolution (SAR). Honors SAR for its work to perpetuate and honor the memory of the men who fought to gain our freedom during the Revolutionary War and for its devotion to our nation's youth.</summary>
+</bill>

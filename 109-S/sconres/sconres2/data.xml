@@ -1,0 +1,54 @@
+<bill session="109" type="sc" number="2" updated="2013-07-19T20:12:22-04:00">
+  <state datetime="2005-01-04T17:33:00-05:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2005-01-04T17:33:00-05:00"/>
+  </status>
+  <introduced datetime="2005-01-04"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution to extend the life of the Joint Congressional Committee on Inaugural Ceremonies and the provisions of S. Con. Res. 93 and S. Con. Res. 94 of the One Hundred Eighth Congress.</title>
+  </titles>
+  <sponsor id="300045"/>
+  <cosponsors>
+    <cosponsor id="300034" joined="2005-01-04"/>
+    <cosponsor id="300069" joined="2005-01-04"/>
+    <cosponsor id="300082" joined="2005-01-04"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2005-01-04" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S7" label="consideration"/>
+      <reference ref="CR S7" label="text as passed Senate"/>
+      <reference ref="CR S30" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2005-01-04">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-01-04T17:27:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-01-04T17:32:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H32" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2005-01-04T17:33:00-05:00" how="without objection" result="pass" type="vote2" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H32" label="text"/>
+    </vote>
+    <action datetime="2005-01-04T17:33:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Congressional joint committees"/>
+    <term name="Government operations and politics"/>
+    <term name="Presidential inaugurations"/>
+    <term name="Vice Presidents"/>
+  </subjects>
+  <amendments/>
+  <summary>1/4/2005--Passed House without amendment.
+Continues with the same power and authority in the 109th Congress: (1) the Joint Congressional Committee on Inaugural Ceremonies established in the 108th Congress; and (2) S. Con. Res. 93, adopted in the 108th Congress, which authorizes use of the rotunda of the U.S. Capitol in connection with the inauguration of the President-elect and the Vice President-elect.</summary>
+</bill>

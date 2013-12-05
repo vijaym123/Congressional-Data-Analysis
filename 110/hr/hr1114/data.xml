@@ -1,0 +1,105 @@
+<bill session="110" type="h" number="1114" updated="2013-07-19T21:13:27-04:00">
+  <state datetime="2007-05-07T15:48:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-05-07T15:48:00-04:00"/>
+  </status>
+  <introduced datetime="2007-02-16"/>
+  <titles>
+    <title as="introduced" type="short">Alaska Water Resources Act of 2007</title>
+    <title as="passed house" type="short">Alaska Water Resources Act of 2007</title>
+    <title as="introduced" type="official">To require the Secretary of the Interior, acting through the Bureau of Reclamation and the United States Geological Survey, to conduct a study on groundwater resources in the State of Alaska, and for other purposes.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2007-02-16">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-02-26">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-04-19">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-04-19">
+      <text>Forwarded by Subcommittee to Full Committee by Unanimous Consent .</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-05-02">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-05-02">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2007-05-07T14:58:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 110-126.</text>
+    </action>
+    <calendar datetime="2007-05-07T14:58:00-04:00" calendar="Union" number="75">
+      <text>Placed on the Union Calendar, Calendar No. 75.</text>
+    </calendar>
+    <action datetime="2007-05-07T15:43:00-04:00">
+      <text>Mrs. Napolitano moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-05-07T15:43:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4507-4508" label="consideration"/>
+    </action>
+    <action datetime="2007-05-07T15:43:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1114.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-05-07T15:48:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H4507-4508" label="text"/>
+    </vote>
+    <action datetime="2007-05-07T15:48:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="2007-05-08" calendar="Senate Legislative" under="General Orders" number="143">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 143.</text>
+    </calendar>
+    <action datetime="2008-06-11">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+      <reference ref="CR S5530" label="consideration"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="110"/>
+    <bill relation="unknown" session="110" type="s" number="200"/>
+    <bill relation="identical" session="110" type="s" number="200"/>
+    <bill relation="unknown" session="110" type="s" number="200"/>
+    <bill relation="unknown" session="110" type="s" number="2739"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Alaska"/>
+    <term name="Aquifers"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Emergency management"/>
+    <term name="Environmental protection"/>
+    <term name="Fire prevention"/>
+    <term name="Flood control"/>
+    <term name="Floods"/>
+    <term name="Governmental investigations"/>
+    <term name="Groundwater"/>
+    <term name="Infrastructure"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Saline waters"/>
+    <term name="Sunset legislation"/>
+    <term name="Surveys"/>
+    <term name="Transportation and public works"/>
+    <term name="Waste water treatment"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>5/7/2007--Passed House without amendment.
+Alaska Water Resources Act of 2007 - Directs the Secretary of the Interior, acting through the Commissioner of Reclamation and the Director of the United States Geological Survey, to conduct a study that includes: (1) a survey of accessible water supplies, including aquifers, on the Kenai Peninsula in the municipality of Anchorage, the Matanuska-Susitna Borough, the city of Fairbanks, and the Fairbanks Northstar Borough; (2) a survey of water treatment needs and technologies applicable to the water resources of Alaska; and (3) a review of the need for enhancement of the streamflow information collected by the Geological Survey in the state relating to critical water needs in areas such as infrastructure risks to state transportation, flood forecasting, resource extraction, and fire management. Terminates the Secretary's authority to carry out this Act 10 years after its enactment. Authorizes appropriations.</summary>
+</bill>

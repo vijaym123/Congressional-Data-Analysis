@@ -1,0 +1,85 @@
+<bill session="109" type="s" number="1894" updated="2013-07-19T20:29:58-04:00">
+  <state datetime="2005-11-22">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2005-11-22"/>
+  </status>
+  <introduced datetime="2005-10-19"/>
+  <titles>
+    <title as="introduced" type="short">Fair Access Foster Care Act of 2005</title>
+    <title as="passed house" type="short">Fair Access Foster Care Act of 2005</title>
+    <title as="enacted" type="short">Fair Access Foster Care Act of 2005</title>
+    <title as="introduced" type="official">A bill to amend part E of title IV of the Social Security Act to provide for the making of foster care maintenance payments to private for-profit agencies.</title>
+  </titles>
+  <sponsor id="300055"/>
+  <cosponsors>
+    <cosponsor id="300029" joined="2005-10-19"/>
+    <cosponsor id="300063" joined="2005-10-19"/>
+    <cosponsor id="300084" joined="2005-10-19"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2005-10-19" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11596-11597" label="consideration"/>
+      <reference ref="CR S11597" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-10-20T10:00:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-10-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-10-20">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2005-11-08T11:40:00-05:00">
+      <text>Mr. Herger moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2005-11-08T11:41:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9982-9987" label="consideration"/>
+    </action>
+    <action datetime="2005-11-08T11:41:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 1894.</text>
+    </action>
+    <action datetime="2005-11-08T12:10:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2005-11-09T15:02:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H10083" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2005-11-09T15:12:00-05:00" how="roll" result="pass" roll="582" type="vote2" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 408 - 1 (Roll no. 582).</text>
+      <reference ref="CR 11/8/2005 H9982" label="text"/>
+    </vote>
+    <action datetime="2005-11-09T15:12:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2005-11-09">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2005-11-17">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2005-11-22">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2005-11-22" type="public" number="109-113">
+      <text>Became Public Law No: 109-113.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="3008"/>
+  </relatedbills>
+  <subjects>
+    <term name="Families"/>
+    <term name="Foster home care"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>11/22/2005--Public Law.
+Fair Access Foster Care Act of 2005 - Amends part E (Foster Care and Adoption Assistance) of title IV of the Social Security Act to provide for the making of foster care maintenance payments to private for-profit agencies.</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="110" type="hr" number="1447" updated="2013-07-19T21:02:58-04:00">
+  <state datetime="2008-09-16">REFERRED</state>
+  <status>
+    <introduced datetime="2008-09-16"/>
+  </status>
+  <introduced datetime="2008-09-16"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals and ideals of Red Ribbon Week.</title>
+  </titles>
+  <sponsor id="400385"/>
+  <cosponsors>
+    <cosponsor id="400349" joined="2008-09-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-09-16">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2008-09-16">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="hr" number="715"/>
+    <bill relation="identical" session="110" type="sr" number="348"/>
+    <bill relation="identical" session="110" type="sr" number="676"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Health promotion and preventive care"/>
+  </subjects>
+  <amendments/>
+  <summary>9/16/2008--Introduced.
+Expresses support for the goals and ideals of Red Ribbon Week.Encourages: (1) children and teens to live drug-free lives; and (2) people in the United States to promote drug-free communities and to participate in drug prevention activities.</summary>
+</bill>

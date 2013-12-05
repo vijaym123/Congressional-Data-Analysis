@@ -1,0 +1,97 @@
+<bill session="109" type="s" number="716" updated="2013-07-19T20:19:40-04:00">
+  <state datetime="2005-12-22">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-12-22"/>
+  </status>
+  <introduced datetime="2005-04-06"/>
+  <titles>
+    <title as="introduced" type="short">Vet Center Enhancement Act of 2005</title>
+    <title as="reported to senate" type="short">Vet Center Enhancement Act of 2005</title>
+    <title as="passed senate" type="short">Vet Center Enhancement Act of 2005</title>
+    <title as="introduced" type="official">A bill to amend title 38, United States Code, to enhance services provided by vet centers, to clarify and improve the provision of bereavement counseling by the Department of Veterans Affairs, and for other purposes.</title>
+  </titles>
+  <sponsor id="300001"/>
+  <cosponsors>
+    <cosponsor id="300009" joined="2005-12-15"/>
+    <cosponsor id="300026" joined="2005-04-06"/>
+    <cosponsor id="300038" joined="2005-12-14"/>
+    <cosponsor id="300084" joined="2005-04-06"/>
+    <cosponsor id="400619" joined="2005-12-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-04-06">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3282-3283"/>
+    </action>
+    <action state="REFERRED" datetime="2005-04-06">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2005-06-09">
+      <text>Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 109-217.</text>
+      <committee name="Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-09-15">
+      <text>Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2005-11-16">
+      <text>Committee on Veterans' Affairs. Reported by Senator Craig without amendment. With written report No. 109-180.</text>
+    </action>
+    <calendar datetime="2005-11-16" calendar="Senate Legislative" under="General Orders" number="290">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 290.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2005-12-22" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S14410-14411" label="consideration"/>
+      <reference ref="CR S14410-14411" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-12-22T16:03:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-12-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-12-22">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2006-01-19">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, Markup, Reporting"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="5221"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Afghanistan"/>
+    <term name="Counseling"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Families"/>
+    <term name="Federal employees"/>
+    <term name="Government operations and politics"/>
+    <term name="Health"/>
+    <term name="Iraq"/>
+    <term name="Iraq compilation"/>
+    <term name="Labor and employment"/>
+    <term name="Mental health services"/>
+    <term name="Middle East and North Africa"/>
+    <term name="Military dependents"/>
+    <term name="Military operations"/>
+    <term name="Parents"/>
+    <term name="Social welfare"/>
+    <term name="South Asia"/>
+    <term name="Veterans' employment"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' rehabilitation"/>
+    <term name="War casualties"/>
+  </subjects>
+  <amendments/>
+  <summary>12/22/2005--Passed Senate without amendment.
+Vet Center Enhancement Act of 2005 - Directs the Secretary of Veterans Affairs to employ up to 50 veterans of Operations Enduring Freedom or Iraqi Freedom to provide outreach to veterans on the availability of readjustment counseling and related mental health services at vet centers operated through the Department of Veterans Affairs. Revises provisions concerning the provision of bereavement counseling to the family of members of the Armed Forces who die while serving on active military duty to: (1) include the parents of such members within such authority; and (2) allow such counseling to be provided through vet centers. Authorizes appropriations for FY2006 for the provision of readjustment counseling and related mental health services through vet centers.</summary>
+</bill>

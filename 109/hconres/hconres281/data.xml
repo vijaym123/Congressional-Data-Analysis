@@ -1,0 +1,78 @@
+<bill session="109" type="hc" number="281" updated="2013-07-19T20:04:35-04:00">
+  <state datetime="2005-11-02T20:48:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-11-02T20:48:00-05:00"/>
+  </status>
+  <introduced datetime="2005-10-27"/>
+  <titles>
+    <title as="introduced" type="official">Congratulating the Chicago White Sox on winning the 2005 World Series.</title>
+  </titles>
+  <sponsor id="400093"/>
+  <cosponsors>
+    <cosponsor id="400631" joined="2005-10-27"/>
+    <cosponsor id="400027" joined="2005-10-27"/>
+    <cosponsor id="400082" joined="2005-10-27"/>
+    <cosponsor id="400120" joined="2005-10-27"/>
+    <cosponsor id="400126" joined="2005-10-27"/>
+    <cosponsor id="400163" joined="2005-10-27"/>
+    <cosponsor id="400169" joined="2005-10-27"/>
+    <cosponsor id="400192" joined="2005-10-27"/>
+    <cosponsor id="400198" joined="2005-10-27"/>
+    <cosponsor id="400207" joined="2005-10-27"/>
+    <cosponsor id="400222" joined="2005-10-27"/>
+    <cosponsor id="400228" joined="2005-10-27"/>
+    <cosponsor id="400630" joined="2005-10-27"/>
+    <cosponsor id="400252" joined="2005-10-27"/>
+    <cosponsor id="400350" joined="2005-10-27"/>
+    <cosponsor id="400360" joined="2005-10-27"/>
+    <cosponsor id="400373" joined="2005-10-27"/>
+    <cosponsor id="400429" joined="2005-10-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-10-27">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2005-11-02T20:27:00-05:00">
+      <text>Mr. Dent moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2005-11-02T20:27:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9533-9536" label="consideration"/>
+    </action>
+    <action datetime="2005-11-02T20:27:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 281.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-11-02T20:48:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H9533" label="text"/>
+    </vote>
+    <action datetime="2005-11-02T20:48:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-11-04">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2006-01-27">
+      <text>Referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="sr" number="291"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Athletes"/>
+    <term name="Baseball"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Illinois"/>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>11/2/2005--Passed House without amendment.
+Congratulates the 2005 World Series Champion Chicago White Sox.</summary>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="109" type="s" number="290" updated="2013-07-19T20:15:56-04:00">
+  <state datetime="2005-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="2005-02-03"/>
+  </status>
+  <introduced datetime="2005-02-03"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend the Internal Revenue Code of 1986 to exclude from gross income certain hazard mitigation assistance.</title>
+  </titles>
+  <sponsor id="300010"/>
+  <cosponsors>
+    <cosponsor id="300026" joined="2005-02-03"/>
+    <cosponsor id="300037" joined="2005-02-08"/>
+    <cosponsor id="300043" joined="2005-03-07"/>
+    <cosponsor id="300055" joined="2005-02-03"/>
+    <cosponsor id="300063" joined="2005-02-03"/>
+    <cosponsor id="300078" joined="2005-02-03"/>
+    <cosponsor id="300092" joined="2005-03-07"/>
+    <cosponsor id="300096" joined="2005-02-03"/>
+    <cosponsor id="400418" joined="2005-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-02-03">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S989-990"/>
+    </action>
+    <action state="REFERRED" datetime="2005-02-03">
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <reference ref="CR S990" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="380"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Disaster relief"/>
+    <term name="Emergency management"/>
+    <term name="Flood damage prevention"/>
+    <term name="Income tax"/>
+    <term name="Tax exclusion"/>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/2005--Introduced.
+Amends the Internal Revenue Code to exclude from gross income hazard mitigation payments received under the Robert T. Stafford Disaster Relief and Emergency Assistance Act or the National Flood Insurance Act.</summary>
+</bill>

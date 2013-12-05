@@ -1,0 +1,41 @@
+<bill session="109" type="s" number="60" updated="2013-07-19T20:13:59-04:00">
+  <state datetime="2005-01-24">REFERRED</state>
+  <status>
+    <introduced datetime="2005-01-24"/>
+  </status>
+  <introduced datetime="2005-01-24"/>
+  <titles>
+    <title as="introduced" type="official">A bill to repeal the provision of law that provides automatic pay adjustments for Members of Congress.</title>
+  </titles>
+  <sponsor id="300042"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2005-01-24">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S241-242"/>
+    </action>
+    <action state="REFERRED" datetime="2005-01-24">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <reference ref="CR S242" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2005-03-09">
+      <text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Oversight of Government Management, the Federal Workforce,  and the District of Columbia.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSGA03" subcommittee="Oversight of Government Management, the Federal Workforce, and the District of Columbia" name="Senate Homeland Security and Governmental Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="4494"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional salaries"/>
+    <term name="Cost of living adjustments"/>
+  </subjects>
+  <amendments/>
+  <summary>1/24/2005--Introduced.
+Amends the Legislative Reorganization Act of 1946 to eliminate automatic pay adjustments for Members of Congress.</summary>
+</bill>

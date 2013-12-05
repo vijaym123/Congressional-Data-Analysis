@@ -1,0 +1,71 @@
+<bill session="110" type="hr" number="1053" updated="2013-07-19T20:59:37-04:00">
+  <state datetime="2008-04-15T12:51:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2008-04-15T12:51:00-04:00"/>
+  </status>
+  <introduced datetime="2008-03-14"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the mission and goals of National Crime Victims' Rights week in order to increase public awareness of the rights, needs, and concerns of victims and survivors of crime in the United States.</title>
+  </titles>
+  <sponsor id="400618"/>
+  <cosponsors>
+    <cosponsor id="400071" joined="2008-03-31"/>
+    <cosponsor id="400160" joined="2008-03-31"/>
+    <cosponsor id="400183" joined="2008-03-31"/>
+    <cosponsor id="400199" joined="2008-03-31"/>
+    <cosponsor id="400656" joined="2008-04-08"/>
+    <cosponsor id="400663" joined="2008-03-31"/>
+    <cosponsor id="400654" joined="2008-03-31"/>
+    <cosponsor id="400260" joined="2008-03-31"/>
+    <cosponsor id="400282" joined="2008-03-31"/>
+    <cosponsor id="400283" joined="2008-03-31"/>
+    <cosponsor id="400652" joined="2008-03-14"/>
+    <cosponsor id="400660" joined="2008-03-31"/>
+    <cosponsor id="400349" joined="2008-04-08"/>
+    <cosponsor id="400368" joined="2008-03-31"/>
+    <cosponsor id="400438" joined="2008-03-31"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-03-14">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2008-04-14">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2008-04-15T12:34:00-04:00">
+      <text>Ms. Lofgren, Zoe moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2008-04-15T12:35:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2278-2280" label="consideration"/>
+    </action>
+    <action datetime="2008-04-15T12:35:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1053.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2008-04-15T12:51:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H2278" label="text"/>
+    </vote>
+    <action datetime="2008-04-15T12:51:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="hr" number="119"/>
+    <bill relation="unknown" session="110" type="sr" number="507"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Special weeks"/>
+    <term name="Victims of crimes"/>
+  </subjects>
+  <amendments/>
+  <summary>4/15/2008--Passed House without amendment.
+Expresses support for the mission and goals of the 2008 National Crime Victims' Rights Week.</summary>
+</bill>

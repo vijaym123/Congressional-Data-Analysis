@@ -1,0 +1,137 @@
+<bill session="109" type="h" number="2066" updated="2013-07-19T19:22:32-04:00">
+  <state datetime="2006-10-06">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2006-10-06"/>
+  </status>
+  <introduced datetime="2005-05-04"/>
+  <titles>
+    <title as="introduced" type="short">General Services Administration Modernization Act</title>
+    <title as="passed house" type="short">General Services Administration Modernization Act</title>
+    <title as="reported to senate" type="short">General Services Administration Modernization Act</title>
+    <title as="enacted" type="short">General Services Administration Modernization Act</title>
+    <title as="introduced" type="official">To amend title 40, United States Code, to establish a Federal Acquisition Service, to replace the General Supply Fund and the Information Technology Fund with an Acquisition Services Fund, and for other purposes.</title>
+  </titles>
+  <sponsor id="400098"/>
+  <cosponsors>
+    <cosponsor id="400191" joined="2005-05-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-05-04">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2005-05-05">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-05-05">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Government Reform"/>
+    </calendar>
+    <action datetime="2005-05-23T14:14:00-04:00">
+      <text>Reported (Amended) by the Committee on Government Reform. H. Rept. 109-91.</text>
+    </action>
+    <calendar datetime="2005-05-23T14:14:00-04:00" calendar="Union" number="48">
+      <text>Placed on the Union Calendar, Calendar No. 48.</text>
+    </calendar>
+    <action datetime="2005-05-23T15:42:00-04:00">
+      <text>Ms. Ros-Lehtinen moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2005-05-23T15:42:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3720-3722" label="consideration"/>
+    </action>
+    <action datetime="2005-05-23T15:42:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2066.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-05-23T15:52:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H3720-3721" label="text"/>
+    </vote>
+    <action datetime="2005-05-23T15:52:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-05-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2006-05-02">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with amendments favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2006-05-25">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Collins with amendments. With written report No. 109-257.</text>
+    </action>
+    <calendar datetime="2006-05-25" calendar="Senate Legislative" under="General Orders" number="449">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 449.</text>
+    </calendar>
+    <action datetime="2006-09-06">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S9064-9066" label="consideration"/>
+      <reference ref="CR S9064-9066" label="text as reported in Senate"/>
+    </action>
+    <vote state="PASS_BACK:SENATE" datetime="2006-09-06" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate with amendments by Unanimous Consent.</text>
+      <reference ref="CR 9/07/2006 S9209" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2006-09-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-09-25T16:59:00-04:00">
+      <text>Mr. Davis, Tom moved that the House suspend the rules and agree to the Senate amendments.</text>
+    </action>
+    <action datetime="2006-09-25T16:59:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendments to H.R. 2066.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2006-09-25T17:04:00-04:00" how="by voice vote" result="pass" type="pingpong" where="h">
+      <text>On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.</text>
+      <reference ref="CR H6972-6973" label="consideration"/>
+      <reference ref="CR H6972" label="text as House agreed to Senate amendment"/>
+    </vote>
+    <action datetime="2006-09-25T17:04:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2006-09-25">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2006-09-29">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2006-10-06">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2006-10-06" type="public" number="109-313">
+      <text>Became Public Law No: 109-313.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, Markup, Reporting"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative fees"/>
+    <term name="Annuities"/>
+    <term name="Civil service retirement"/>
+    <term name="Damages"/>
+    <term name="Economics and public finance"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal employees"/>
+    <term name="Federal officials"/>
+    <term name="Fringe benefits"/>
+    <term name="General Services Administration"/>
+    <term name="Government procurement"/>
+    <term name="Government property"/>
+    <term name="Government trust funds"/>
+    <term name="Information technology"/>
+    <term name="Labor and employment"/>
+    <term name="Law"/>
+    <term name="Salaries"/>
+    <term name="Science, technology, communications"/>
+    <term name="Surplus government property"/>
+  </subjects>
+  <amendments>
+    <amendment number="s4905"/>
+  </amendments>
+  <summary>10/6/2006--Public Law.
+General Services Administration Modernization Act - (Sec. 2) Establishes a Federal Acquisition Service in the General Services Administration (GSA) to be headed by a Commissioner who shall be responsible for carrying out functions related to the uses of the Acquisition Services Fund (created by this Act), including any functions that were carried out by the Federal Supply Service and the Federal Technology Service. Authorizes the Administrator to appoint Regional Executives in the Federal Acquisition Service to carry out such functions within that Service as the Administrator considers appropriate. (Sec. 3) Abolishes the General Supply Fund and the Information Technology Fund in the Treasury. Transfers remaining capital assets and balances in such Funds to the Acquisition Services Fund to be merged with, and be available for, the purposes of such Fund. Requires the Acquisition Services Fund to be credited with all reimbursements relating to personal property or services procured through the Fund, including: (1) the net proceeds of disposal of surplus personal property; and (2) receipts from carriers and others for loss of, or damage to, personal property; and (3) receipts from agencies charged fees pursuant to rates established by the Administrator. Requires the Administrator to determine cost and capital requirements of the Fund and develop a plan concerning such requirements in consultation with the Chief Financial Officer of GSA. Requires the Administrator, according to such plan, to establish rates to be charged agencies provided personal property and non-personal services through the Fund. Allows fees collected for recovering the costs of testing materials tendered for sale or lease to GSA or any procurement authority acting under GSA to be deposited in the Fund. Provides for: (1) the use of the Fund for personal services related to the provision of information technology; and (2) the Administrator to fix prices at levels sufficient to recover the cost of personal services employed directly in providing information technology. Sets requirements for the transfer of uncommitted balances in the Fund. (Sec. 4) Amends the Office of Federal Procurement Policy Act to direct the head of each executive agency to establish policies and procedures under which the agency head may reemploy in an acquisition-related position an individual receiving an annuity from the Civil Service Retirement and Disability Fund without discontinuing such annuity, if unique needs exist. Prohibits considering an individual so reemployed to be a federal employee for the purposes of the Civil Service Retirement System (CSRS) or the Federal Employees Retirement System (FERS). Requires the Administrator to submit annual reports to specified congressional committees on the use of such authority, including the number of employees reemployed under such authority. Terminates such authority on December 31, 2011. (Sec. 5) Amends federal law relating to donation of personal property through state agencies to provide for the transfer of historic light stations, including historic light stations conveyed under the National Historic Preservation Act, to such agencies for education or public health (including research) purposes to a nonprofit educational or public health institution or organization that is exempt from taxation under section 501 of the Internal Revenue Code.</summary>
+</bill>

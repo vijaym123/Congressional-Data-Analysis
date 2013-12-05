@@ -1,0 +1,123 @@
+<bill session="110" type="h" number="740" updated="2013-07-19T21:10:15-04:00">
+  <state datetime="2007-03-21T19:11:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-03-21T19:11:00-04:00"/>
+  </status>
+  <introduced datetime="2007-01-31"/>
+  <titles>
+    <title as="introduced" type="short">Preventing Harassment through Outbound Number Enforcement (PHONE) Act of 2007</title>
+    <title as="reported to house" type="short">Preventing Harassment through Outbound Number Enforcement (PHONE) Act of 2007</title>
+    <title as="passed house" type="short">Preventing Harassment through Outbound Number Enforcement (PHONE) Act of 2007</title>
+    <title as="reported to senate" type="short">PHONE Act of 2007</title>
+    <title as="reported to senate" type="short">Preventing Harassment through Outbound Number Enforcement Act of 2007</title>
+    <title as="introduced" type="official">To amend title 18, United States Code, to prevent caller ID spoofing, and for other purposes.</title>
+  </titles>
+  <sponsor id="400364"/>
+  <cosponsors>
+    <cosponsor id="400043" joined="2007-02-08"/>
+    <cosponsor id="400080" joined="2007-01-31"/>
+    <cosponsor id="400137" joined="2007-01-31"/>
+    <cosponsor id="400163" joined="2007-02-08"/>
+    <cosponsor id="400199" joined="2007-02-08"/>
+    <cosponsor id="400285" joined="2007-01-31"/>
+    <cosponsor id="400660" joined="2007-01-31"/>
+    <cosponsor id="412010" joined="2007-01-31"/>
+    <cosponsor id="400371" joined="2007-02-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-31">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2007-02-02">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2007-02-06">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2007-02-06">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2007-02-06">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2007-02-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-02-07">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2007-03-08T17:41:00-05:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 110-37.</text>
+    </action>
+    <calendar datetime="2007-03-08T17:41:00-05:00" calendar="Union" number="13">
+      <text>Placed on the Union Calendar, Calendar No. 13.</text>
+    </calendar>
+    <action datetime="2007-03-21T17:53:00-04:00">
+      <text>Ms. Sanchez, Linda T. moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-03-21T17:54:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2790-2793" label="consideration"/>
+    </action>
+    <action datetime="2007-03-21T17:54:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 740.</text>
+    </action>
+    <action datetime="2007-03-21T18:18:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2007-03-21T19:04:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2796-2797" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-03-21T19:11:00-04:00" how="roll" result="pass" roll="178" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 1 (Roll no. 178).</text>
+      <reference ref="CR H2790" label="text"/>
+    </vote>
+    <action datetime="2007-03-21T19:11:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-03-22">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <calendar datetime="2007-04-25">
+      <text>Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2007-05-24">
+      <text>Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="2007-05-24" calendar="Senate Legislative" under="General Orders" number="173">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 173.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="1654"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Computer software"/>
+    <term name="Conspiracy"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Forfeiture"/>
+    <term name="Fraud"/>
+    <term name="Identification devices"/>
+    <term name="Internet"/>
+    <term name="Money laundering"/>
+    <term name="Science, technology, communications"/>
+    <term name="Telephone"/>
+  </subjects>
+  <amendments/>
+  <summary>5/24/2007--Reported to Senate amended.
+Preventing Harassment through Outbound Number Enforcement Act of 2007 or the PHONE Act of 2007- Amends the federal criminal code to prohibit: (1) using or providing false caller ID information with the intent to wrongfully obtain anything of value (imposes a fine and/or prison term of up to five years) or using or providing such information without authorization and with intent to deceive any person or other entity about the identity of the caller (imposes a fine and/or prison term of up to one year); or (2) attempting or conspiring to do so. Exempts from the prohibitions of this Act: (1) lawfully authorized investigative, protective, or intelligence activities of a federal, state, or local law enforcement agency or U.S. intelligence agency; or (2) activities relating to witness protection.Provides for forfeiture of property traceable to a violation of this Act or of equipment, software, or other technology used to commit a violation of this Act. Includes fraud and related activity in connection with electronic mail and caller ID spoofing as predicate activities for money laundering.</summary>
+</bill>

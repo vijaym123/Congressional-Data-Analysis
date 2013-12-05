@@ -1,0 +1,81 @@
+<bill session="110" type="h" number="838" updated="2013-07-19T21:11:05-04:00">
+  <state datetime="2007-03-19T14:43:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-03-19T14:43:00-04:00"/>
+  </status>
+  <introduced datetime="2007-02-06"/>
+  <titles>
+    <title as="introduced" type="official">To provide for the conveyance of the Bureau of Land Management parcels known as the White Acre and Gambel Oak properties and related real property to Park City, Utah, and for other purposes.</title>
+  </titles>
+  <sponsor id="400029"/>
+  <cosponsors>
+    <cosponsor id="400059" joined="2007-02-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-02-06">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-02-12">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-03-19T14:39:00-04:00">
+      <text>Mr. Grijalva moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-03-19T14:39:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2633-2634" label="consideration"/>
+    </action>
+    <action datetime="2007-03-19T14:39:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 838.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-03-19T14:43:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2633" label="text"/>
+    </vote>
+    <action datetime="2007-03-19T14:43:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-03-20">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2008-02-27">
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2008-09-11">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2008-09-16">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2008-09-16" calendar="Senate Legislative" under="General Orders" number="1013">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1013.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG03" subcommittee="Public Lands and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Auctions"/>
+    <term name="Competitive bidding"/>
+    <term name="Environmental protection"/>
+    <term name="Government operations and politics"/>
+    <term name="Hazardous wastes"/>
+    <term name="Land transfers"/>
+    <term name="Open space lands"/>
+    <term name="Recreation areas"/>
+    <term name="Restoration ecology"/>
+    <term name="Sports and recreation"/>
+    <term name="Utah"/>
+  </subjects>
+  <amendments/>
+  <summary>9/16/2008--Reported to Senate amended.
+Directs the Secretary of the Interior to: (1) convey to Park City, Utah, two parcels of property located in Park City that are currently under the management jurisdiction of the Bureau of Land Management (BLM) and known as the White Acre and Gambel Oak properties; and (2) offer for sale two specified parcels of property located in Park City that are currently under the management jurisdiction of the BLM. Requires all proceeds derived from the sale of such parcels to be deposited in the Federal Land Disposal Account established under the Federal Land Transaction Facilitation Act.</summary>
+</bill>

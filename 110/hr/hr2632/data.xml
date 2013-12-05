@@ -1,0 +1,104 @@
+<bill session="110" type="h" number="2632" updated="2013-07-19T21:26:44-04:00">
+  <state datetime="2008-06-09T14:45:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-06-09T14:45:00-04:00"/>
+  </status>
+  <introduced datetime="2007-06-07"/>
+  <titles>
+    <title as="introduced" type="short">Sabinoso Wilderness Act of 2007</title>
+    <title as="reported to house" type="short">Sabinoso Wilderness Act of 2008</title>
+    <title as="passed house" type="short">Sabinoso Wilderness Act of 2008</title>
+    <title as="reported to senate" type="short">Sabinoso Wilderness Act of 2008</title>
+    <title as="introduced" type="official">To establish the Sabinoso Wilderness Area in San Miguel County, New Mexico, and for other purposes.</title>
+  </titles>
+  <sponsor id="400413"/>
+  <cosponsors>
+    <cosponsor id="400237" joined="2008-05-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2007-06-07">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1243"/>
+    </action>
+    <action state="REFERRED" datetime="2007-06-07">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-06-11">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-11-13">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2008-05-14">
+      <text>Subcommittee on National Parks, Forests, and Public Lands Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2008-05-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-05-14">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2008-06-05T17:09:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-695.</text>
+    </action>
+    <calendar datetime="2008-06-05T17:09:00-04:00" calendar="Union" number="438">
+      <text>Placed on the Union Calendar, Calendar No. 438.</text>
+    </calendar>
+    <action datetime="2008-06-09T14:20:00-04:00">
+      <text>Mr. Costa moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2008-06-09T14:20:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5050-5053" label="consideration"/>
+    </action>
+    <action datetime="2008-06-09T14:20:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2632.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-06-09T14:45:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5050" label="text"/>
+    </vote>
+    <action datetime="2008-06-09T14:45:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-06-10">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2008-07-16">
+      <text>Committee on Energy and Natural Resources Senate Subcommittee on Public Lands and Forests. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2008-09-11">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2008-09-16">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="2008-09-16" calendar="Senate Legislative" under="General Orders" number="1020">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1020.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG03" subcommittee="Public Lands and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="5610"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="New Mexico"/>
+    <term name="Wilderness areas"/>
+  </subjects>
+  <amendments/>
+  <summary>9/16/2008--Reported to Senate amended.
+Sabinoso Wilderness Act of 2008 - Designates certain land under the jurisdiction of the Taos Field Office of the Bureau of Land Management (BLM) in New Mexico as the "Sabinoso Wilderness" and as a component of the National Wilderness Preservation System. Requires any acquired land or interest in land within the boundary of the Sabinoso Wilderness to become part of such wilderness. Sets forth requirements with respect to livestock grazing in the Sabinoso Wilderness and fish and wildlife in New Mexico. Continues to allow private landowners adequate access to inholdings in the Sabinoso Wilderness. Requires certain private lands to be managed as an inholding in such wilderness. Withdraws the lands identified as "Land Withdrawn From Mineral Entry" and "Lands Released From Wilderness Study Area &amp; Withdrawn From Mineral Entry" from: (1) all forms of entry, appropriation, and disposal under the public land laws, except for disposal by exchange in accordance with the Federal Land Policy and Management Act of 1976; (2) location, entry, and patent under the mining laws; and (3) operation of the mineral materials and geothermal leasing laws.</summary>
+</bill>

@@ -1,0 +1,142 @@
+<bill session="110" type="h" number="3111" updated="2013-07-19T21:31:10-04:00">
+  <state datetime="2008-03-04T14:22:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-03-04T14:22:00-05:00"/>
+  </status>
+  <introduced datetime="2007-07-19"/>
+  <titles>
+    <title as="introduced" type="short">Port Chicago Naval Magazine National Memorial Enhancement Act of 2007</title>
+    <title as="reported to house" type="short">Port Chicago Naval Magazine National Memorial Enhancement Act of 2007</title>
+    <title as="passed house" type="short">Port Chicago Naval Magazine National Memorial Enhancement Act of 2008</title>
+    <title as="introduced" type="official">To provide for the administration of Port Chicago Naval Magazine National Memorial as a unit of the National Park System, and for other purposes.</title>
+  </titles>
+  <sponsor id="400278"/>
+  <cosponsors>
+    <cosponsor id="400047" joined="2007-07-19"/>
+    <cosponsor id="400062" joined="2007-07-19"/>
+    <cosponsor id="400093" joined="2007-07-19"/>
+    <cosponsor id="400102" joined="2007-09-18"/>
+    <cosponsor id="400178" joined="2007-09-18"/>
+    <cosponsor id="400237" joined="2007-07-19"/>
+    <cosponsor id="400663" joined="2007-07-19"/>
+    <cosponsor id="400257" joined="2007-07-19"/>
+    <cosponsor id="400262" joined="2007-07-19"/>
+    <cosponsor id="400356" joined="2007-07-19"/>
+    <cosponsor id="400383" joined="2007-07-19"/>
+    <cosponsor id="400384" joined="2007-07-19"/>
+    <cosponsor id="400387" joined="2007-09-18"/>
+    <cosponsor id="412228" joined="2007-07-19"/>
+    <cosponsor id="400396" joined="2007-07-19"/>
+    <cosponsor id="400403" joined="2007-07-19"/>
+    <cosponsor id="400436" joined="2007-07-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2007-07-19">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1572-1573"/>
+    </action>
+    <action state="REFERRED" datetime="2007-07-19">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2007-07-19">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2007-07-19">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2007-07-23">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2007-08-14">
+      <text>Referred to the Subcommittee on Readiness.</text>
+      <committee name="House Armed Services"/>
+    </action>
+    <action datetime="2007-09-27">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2007-10-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2007-10-10">
+      <text>Subcommittee on National Parks, Forests, and Public Lands Discharged.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-10-10">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Natural Resources"/>
+    </calendar>
+    <action datetime="2007-12-19T19:08:00-05:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 110-506, Part I.</text>
+    </action>
+    <action datetime="2007-12-19T19:09:00-05:00">
+      <text>House Committee on Armed Services Granted an extension for further consideration ending not later than Jan. 15, 2008.</text>
+    </action>
+    <action datetime="2008-01-15T20:06:00-05:00">
+      <text>House Committee on Armed Services Granted an extension for further consideration ending not later than Feb. 1, 2008.</text>
+    </action>
+    <action datetime="2008-02-01T11:12:00-05:00">
+      <text>Committee on Armed Services discharged.</text>
+    </action>
+    <calendar datetime="2008-02-01T11:12:00-05:00" calendar="Union" number="319">
+      <text>Placed on the Union Calendar, Calendar No. 319.</text>
+    </calendar>
+    <action datetime="2008-03-04T14:19:00-05:00">
+      <text>Mr. Rahall moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2008-03-04T14:20:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1194-1195" label="consideration"/>
+    </action>
+    <action datetime="2008-03-04T14:20:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3111.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-03-04T14:22:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H1194" label="text"/>
+    </vote>
+    <action datetime="2008-03-04T14:22:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-03-05">
+      <text>Received in the Senate and Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSAS03" subcommittee="Readiness" name="House Armed Services"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="3253"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Armed forces and national security"/>
+    <term name="California"/>
+    <term name="Emergency management"/>
+    <term name="Environmental protection"/>
+    <term name="Explosions"/>
+    <term name="Government operations and politics"/>
+    <term name="Hazardous wastes"/>
+    <term name="History"/>
+    <term name="Land transfers"/>
+    <term name="Maintenance and repair"/>
+    <term name="Military bases"/>
+    <term name="Military history"/>
+    <term name="Monuments and memorials"/>
+    <term name="Ordnance"/>
+    <term name="Parking facilities"/>
+    <term name="Storms"/>
+    <term name="Tourism"/>
+    <term name="Transportation and public works"/>
+    <term name="World War II"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2008--Passed House amended.
+Port Chicago Naval Magazine National Memorial Enhancement Act of 2008 - Amends the Port Chicago National Memorial Act of 1992 to require the Secretary of the Interior to administer the Port Chicago Naval Magazine National Memorial as a unit of the National Park System. Directs the Secretary of Defense to transfer a parcel of land, consisting of approximately five acres, within the proposed boundary on the map entitled "Port Chicago Naval Magazine National Memorial, Proposed Boundary," dated August 2005, to the administrative jurisdiction of the Secretary of the Interior if: (1) the land is excess to military needs; and (2) all environmental remediation actions necessary to respond to environmental contamination related to the land have been completed in accordance with the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 and other applicable laws. Authorizes the Secretary of the Interior to enter into an agreement with the city of Concord, California, and the East Bay Regional Park District to establish and operate a facility for visitor orientation and parking, administrative offices, and curatorial storage for the Memorial. Expresses the sense of Congress that the Secretary of Defense, in order to facilitate the land transfer under this Act, should promptly remediate remaining environmental contamination related to the land. Expresses the sense of Congress that, in order to preserve the Memorial for future generations, the Secretaries of Defense and the Interior should work together to: (1) repair storm damage to the Port Chicago site; and (2) develop a process by which future repairs and necessary modifications to the site can be achieved in as timely and cost-effective a manner as possible.</summary>
+</bill>

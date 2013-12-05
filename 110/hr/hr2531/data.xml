@@ -1,0 +1,54 @@
+<bill session="110" type="h" number="2531" updated="2013-07-19T21:25:51-04:00">
+  <state datetime="2007-05-24">REFERRED</state>
+  <status>
+    <introduced datetime="2007-05-24"/>
+  </status>
+  <introduced datetime="2007-05-24"/>
+  <titles>
+    <title as="introduced" type="short">Improved Hurricane Tracking and Forecasting Act of 2007</title>
+    <title as="introduced" type="official">To improve United States hurricane forecasting, monitoring, and warning capabilities, and for other purposes.</title>
+  </titles>
+  <sponsor id="400635"/>
+  <cosponsors>
+    <cosponsor id="400031" joined="2007-07-19"/>
+    <cosponsor id="400048" joined="2007-06-27"/>
+    <cosponsor id="400653" joined="2007-06-27"/>
+    <cosponsor id="400179" joined="2007-06-27"/>
+    <cosponsor id="412198" joined="2007-05-24"/>
+    <cosponsor id="400229" joined="2007-06-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-05-24">
+      <text>Referred to the House Committee on Science and Technology.</text>
+    </action>
+    <action datetime="2007-05-31">
+      <text>Referred to the Subcommittee on Space and Aeronautics.</text>
+      <committee name="House Committee on Science and Technology"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science and Technology" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSY16" subcommittee="Space and Aeronautics" name="House Science and Technology"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="1509"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Emergency management"/>
+    <term name="Hurricanes"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Marine biology"/>
+    <term name="Meteorological satellites"/>
+    <term name="Ocean currents"/>
+    <term name="Oceanography"/>
+    <term name="Space activities"/>
+    <term name="Storms"/>
+    <term name="Weather forecasting"/>
+  </subjects>
+  <amendments/>
+  <summary>5/24/2007--Introduced.
+Improved Hurricane Tracking and Forecasting Act of 2007 - Directs the Administrator of the National Oceanic and Atmospheric Administration (NOAA) to carry out a program for an improved ocean surface winds vector satellite for purposes including: (1) to address science and application questions related to air-sea interaction and coastal circulation; (2) to improve forecasting for hurricanes, coastal winds and storm surge, and other weather-related disasters; (3) to ensure continuity of quality for satellite ocean surface vector wind measurements so that existing weather forecasting and warning capabilities are not degraded; and (4) to advance satellite ocean surface vector wind data capabilities.</summary>
+</bill>

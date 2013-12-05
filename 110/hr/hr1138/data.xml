@@ -1,0 +1,87 @@
+<bill session="110" type="h" number="1138" updated="2013-07-19T21:13:39-04:00">
+  <state datetime="2007-03-26T14:31:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-03-26T14:31:00-04:00"/>
+  </status>
+  <introduced datetime="2007-02-16"/>
+  <titles>
+    <title as="introduced" type="official">To designate the Federal building and United States courthouse located at 306 East Main Street in Elizabeth City, North Carolina, as the "J. Herbert W. Small Federal Building and United States Courthouse".</title>
+  </titles>
+  <sponsor id="400616"/>
+  <cosponsors>
+    <cosponsor id="400076" joined="2007-02-16"/>
+    <cosponsor id="400125" joined="2007-02-16"/>
+    <cosponsor id="400643" joined="2007-02-16"/>
+    <cosponsor id="400172" joined="2007-02-16"/>
+    <cosponsor id="400209" joined="2007-02-16"/>
+    <cosponsor id="400644" joined="2007-02-16"/>
+    <cosponsor id="400266" joined="2007-02-16"/>
+    <cosponsor id="400280" joined="2007-02-16"/>
+    <cosponsor id="400288" joined="2007-02-16"/>
+    <cosponsor id="400326" joined="2007-02-16"/>
+    <cosponsor id="412225" joined="2007-02-16"/>
+    <cosponsor id="400424" joined="2007-02-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-02-16">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2007-02-20">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2007-03-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-03-01">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2007-03-26T14:20:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 110-71.</text>
+    </action>
+    <calendar datetime="2007-03-26T14:21:00-04:00" calendar="House" number="31">
+      <text>Placed on the House Calendar, Calendar No. 31.</text>
+    </calendar>
+    <action datetime="2007-03-26T14:22:00-04:00">
+      <text>Mr. Cohen moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-03-26T14:22:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3023-3024" label="consideration"/>
+    </action>
+    <action datetime="2007-03-26T14:22:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1138.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-03-26T14:31:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H3023" label="text"/>
+    </vote>
+    <action datetime="2007-03-26T14:31:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-03-27">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Courthouses"/>
+    <term name="Federal office buildings"/>
+    <term name="Judges"/>
+    <term name="Law"/>
+    <term name="Names"/>
+    <term name="North Carolina"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2007--Passed House without amendment.
+Designates the federal building and U.S. courthouse located at 306 East Main Street in Elizabeth City, North Carolina, as the "J. Herbert W. Small Federal Building and United States Courthouse."</summary>
+</bill>

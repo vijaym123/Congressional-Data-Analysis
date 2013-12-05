@@ -1,0 +1,83 @@
+<bill session="110" type="s" number="1703" updated="2013-07-19T22:35:16-04:00">
+  <state datetime="2008-10-01">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2008-10-01"/>
+  </status>
+  <introduced datetime="2007-06-27"/>
+  <titles>
+    <title as="introduced" type="short">Trafficking in Persons Accountability Act of 2007</title>
+    <title as="reported to senate" type="short">Trafficking in Persons Accountability Act of 2007</title>
+    <title as="passed senate" type="short">Trafficking in Persons Accountability Act of 2008</title>
+    <title as="introduced" type="official">A bill to prevent and reduce trafficking in persons.</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2007-07-09"/>
+    <cosponsor id="400064" joined="2007-09-20"/>
+    <cosponsor id="400576" joined="2007-06-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-06-27">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2007-09-20">
+      <text>Committee on the Judiciary. Ordered to be reported with an amendment favorably.</text>
+      <committee name="Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2008-07-28">
+      <text>Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="2008-07-28" calendar="Senate Legislative" under="General Orders" number="903">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 903.</text>
+    </calendar>
+    <action datetime="2008-10-01">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S10388-10390" label="consideration"/>
+      <reference ref="CR S10389" label="text of measures as reported in Senate"/>
+    </action>
+    <action datetime="2008-10-01">
+      <text>The committee substitute as amended agreed to by Unanimous Consent.</text>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2008-10-01" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2008-10-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2008-10-02T12:11:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2008-10-02">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Children's rights"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Families"/>
+    <term name="Forced labor"/>
+    <term name="Human rights"/>
+    <term name="International affairs"/>
+    <term name="Jurisdiction"/>
+    <term name="Labor and employment"/>
+    <term name="Law"/>
+    <term name="Prosecution"/>
+    <term name="Prostitution"/>
+    <term name="Sex-oriented businesses"/>
+    <term name="Slavery"/>
+    <term name="Smuggling"/>
+    <term name="Women"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments>
+    <amendment number="s5688"/>
+  </amendments>
+  <summary>10/1/2008--Passed Senate amended.
+Trafficking in Persons Accountability Act of 2008 - Amends the federal criminal code to grant U.S. courts additional extraterritorial jurisdiction over criminal offenses involving peonage, slavery, sales of persons into involuntary servitude, forced labor, trafficking in persons, and sex trafficking of children if: (1) the alleged offender is a national or permanent resident of the United States; or (2) the alleged offender is present in the United States, irrespective of the nationality of such offender. Prohibits U.S. prosecution of an alleged trafficking offender who is prosecuted by a foreign government whose jurisdiction is recognized by the United States, except upon the approval of the Attorney General or the Deputy Attorney General.</summary>
+</bill>

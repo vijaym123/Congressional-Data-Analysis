@@ -1,0 +1,133 @@
+<bill session="109" type="hr" number="22" updated="2013-07-19T18:54:42-04:00">
+  <state datetime="2005-04-27T15:40:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2005-04-27T15:40:00-04:00"/>
+  </status>
+  <introduced datetime="2005-01-04"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of the House of Representatives that American small businesses are entitled to a Small Business Bill of Rights.</title>
+  </titles>
+  <sponsor id="400212"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2005-02-08"/>
+    <cosponsor id="400051" joined="2005-01-26"/>
+    <cosponsor id="400057" joined="2005-02-01"/>
+    <cosponsor id="400069" joined="2005-02-08"/>
+    <cosponsor id="400084" joined="2005-01-04"/>
+    <cosponsor id="400145" joined="2005-03-02"/>
+    <cosponsor id="400149" joined="2005-02-01"/>
+    <cosponsor id="400651" joined="2005-03-08"/>
+    <cosponsor id="400206" joined="2005-02-09"/>
+    <cosponsor id="400622" joined="2005-02-10"/>
+    <cosponsor id="400654" joined="2005-02-15"/>
+    <cosponsor id="400644" joined="2005-03-08"/>
+    <cosponsor id="400317" joined="2005-01-26"/>
+    <cosponsor id="400365" joined="2005-02-09"/>
+    <cosponsor id="400381" joined="2005-01-26"/>
+    <cosponsor id="400411" joined="2005-04-12"/>
+    <cosponsor id="400420" joined="2005-01-26"/>
+    <cosponsor id="400627" joined="2005-01-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-01-04">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+    <action datetime="2005-03-08">
+      <text>Committee Hearings Held.</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+    <action datetime="2005-04-06">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Small Business"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-04-06">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Small Business"/>
+    </calendar>
+    <action datetime="2005-04-21T16:46:00-04:00">
+      <text>Reported (Amended) by the Committee on Small Business. H. Rept. 109-52.</text>
+    </action>
+    <calendar datetime="2005-04-21T16:46:00-04:00" calendar="House" number="23">
+      <text>Placed on the House Calendar, Calendar No. 23.</text>
+    </calendar>
+    <action datetime="2005-04-26T22:31:00-04:00">
+      <text>Rules Committee Resolution H. Res. 235 Reported to House. Rule provides for consideration of H. Res. 22 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit.</text>
+    </action>
+    <action datetime="2005-04-27T13:58:00-04:00">
+      <text>Rule H. Res. 235 passed House.</text>
+    </action>
+    <action datetime="2005-04-27T14:07:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 235.</text>
+      <reference ref="CR H2580-2591" label="consideration"/>
+    </action>
+    <action datetime="2005-04-27T14:08:00-04:00">
+      <text>Rule provides for consideration of H. Res. 22 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit.</text>
+    </action>
+    <action datetime="2005-04-27T14:09:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H. Res. 22.</text>
+    </action>
+    <action datetime="2005-04-27T15:18:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H2590" label="consideration"/>
+    </action>
+    <action datetime="2005-04-27T15:18:00-04:00">
+      <text>Ms. Velazquez moved to recommit to Small Business.</text>
+    </action>
+    <action datetime="2005-04-27T15:19:00-04:00">
+      <text>The previous question on the motion to recommit was ordered without objection.</text>
+    </action>
+    <action datetime="2005-04-27T15:40:00-04:00">
+      <text>On motion to recommit Failed by the Yeas and Nays: 188 - 222 (Roll no. 140).</text>
+      <reference ref="CR H2590-2591" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2005-04-27T15:40:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H2580" label="text"/>
+    </vote>
+    <action datetime="2005-04-27T15:41:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="109" type="hr" number="235"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Capital"/>
+    <term name="Credit"/>
+    <term name="Employee health benefits"/>
+    <term name="Energy"/>
+    <term name="Energy conservation"/>
+    <term name="Energy prices"/>
+    <term name="Energy security"/>
+    <term name="Energy supplies"/>
+    <term name="Estate tax"/>
+    <term name="Families"/>
+    <term name="Family enterprises"/>
+    <term name="Finance and financial sector"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Frivolous lawsuits"/>
+    <term name="Government contractors"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Government procurement"/>
+    <term name="Government regulation"/>
+    <term name="Health"/>
+    <term name="Imports"/>
+    <term name="Labor and employment"/>
+    <term name="Law"/>
+    <term name="Loans"/>
+    <term name="Medically uninsured"/>
+    <term name="Small business"/>
+    <term name="Tax simplification"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments>
+    <amendment number="h100"/>
+  </amendments>
+  <summary>4/27/2005--Passed House amended.
+Expresses the sense of the House of Representatives that American small businesses are entitled to a Small Business Bill of Rights which includes the right to: (1) join together to purchase affordable employee health insurance; (2) simplified tax laws that allow such businesses to survive; (3) be free from frivolous lawsuits and restrictive regulations and paperwork which hampers production and prevents job creation; (4) relief from high energy costs; (5) equal treatment when seeking access to start-up and expansion capital and credit; and (6) open access to the Government procurement marketplace through the breaking up of large contracts to give small business owners a fair opportunity to compete.</summary>
+</bill>

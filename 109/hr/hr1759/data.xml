@@ -1,0 +1,52 @@
+<bill session="109" type="h" number="1759" updated="2013-07-19T19:19:50-04:00">
+  <state datetime="2005-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="2005-04-21"/>
+  </status>
+  <introduced datetime="2005-04-21"/>
+  <titles>
+    <title as="introduced" type="short">GI Bill Flexibility Act</title>
+    <title as="introduced" type="official">To amend title 38, United States Code, to authorize the use of educational assistance under the Montgomery GI Bill to pay Federal student loans.</title>
+  </titles>
+  <sponsor id="400008"/>
+  <cosponsors>
+    <cosponsor id="400155" joined="2005-04-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-04-21">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2005-04-21">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2005-04-21">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2005-04-25">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+    <action datetime="2005-05-24">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Education"/>
+    <term name="Higher education"/>
+    <term name="Student loan funds"/>
+    <term name="Veterans' benefits"/>
+    <term name="Veterans' education"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/2005--Introduced.
+GI Bill Flexibility Act - Authorizes the use of educational assistance under the Montgomery GI Bill to pay Federal student loans.</summary>
+</bill>

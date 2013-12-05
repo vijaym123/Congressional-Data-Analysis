@@ -1,0 +1,91 @@
+<bill session="110" type="hc" number="124" updated="2013-07-19T22:09:51-04:00">
+  <state datetime="2007-05-08">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2007-05-08"/>
+  </status>
+  <introduced datetime="2007-04-20"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the Capitol Grounds for the National Peace Officers' Memorial Service.</title>
+  </titles>
+  <sponsor id="400295"/>
+  <cosponsors>
+    <cosponsor id="400090" joined="2007-04-20"/>
+    <cosponsor id="400098" joined="2007-04-20"/>
+    <cosponsor id="400158" joined="2007-04-20"/>
+    <cosponsor id="400189" joined="2007-04-20"/>
+    <cosponsor id="400283" joined="2007-04-20"/>
+    <cosponsor id="400415" joined="2007-04-20"/>
+    <cosponsor id="400435" joined="2007-04-20"/>
+    <cosponsor id="400438" joined="2007-04-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-04-20">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2007-04-23">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2007-05-02">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2007-05-02">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-05-02">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2007-05-07T12:58:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 110-123.</text>
+    </action>
+    <calendar datetime="2007-05-07T12:58:00-04:00" calendar="House" number="51">
+      <text>Placed on the House Calendar, Calendar No. 51.</text>
+    </calendar>
+    <action datetime="2007-05-07T14:35:00-04:00">
+      <text>Mr. Michaud moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2007-05-07T14:36:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4494-4495" label="consideration"/>
+    </action>
+    <action datetime="2007-05-07T14:36:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 124.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-05-07T14:40:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H4494" label="text"/>
+    </vote>
+    <action datetime="2007-05-07T14:40:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2007-05-08" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2007-05-09">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="hc" number="308"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Commemorations"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Law enforcement officers"/>
+    <term name="Monuments and memorials"/>
+    <term name="Police"/>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>5/8/2007--Passed Senate without amendment.
+Permits the Grand Lodge of the Fraternal Order of Police and its auxiliary to sponsor a free public event, the 26th annual National Peace Officers' Memorial Service, on the Capitol grounds on May 15, 2007, to honor the law enforcement officers who died in the line of duty during 2006.</summary>
+</bill>

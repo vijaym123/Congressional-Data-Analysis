@@ -1,0 +1,59 @@
+<bill session="110" type="h" number="2575" updated="2013-07-19T21:26:13-04:00">
+  <state datetime="2008-07-30">REPORTED</state>
+  <status>
+    <unknown datetime="2008-07-30"/>
+  </status>
+  <introduced datetime="2007-06-05"/>
+  <titles>
+    <title as="introduced" type="official">For the relief of Mikael Adrian Christopher Figueroa Alvarez.</title>
+  </titles>
+  <sponsor id="400245"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2007-06-05">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2007-06-11">
+      <text>Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2008-07-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-07-30">
+      <text>Ordered to be Reported by the Yeas and Nays: 19 - 9.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2008-07-30">
+      <text>Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law Discharged.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2008-09-08T16:33:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 110-827.</text>
+    </action>
+    <calendar datetime="2008-09-08T16:34:00-04:00" calendar="Private" number="5">
+      <text>Placed on the Private Calendar, Calendar No. 5.</text>
+    </calendar>
+    <action datetime="2008-09-16T10:07:00-04:00">
+      <text>Called up from the Private Calendar for consideration.</text>
+      <reference ref="CR H8138" label="consideration"/>
+      <reference ref="CR H8138" label="text of measure as reported in House"/>
+    </action>
+    <action datetime="2008-09-16T10:07:00-04:00">
+      <text>By request of Mr. King (IA) the House passed over the measure without prejudice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSJU01" subcommittee="Immigration, Citizenship, Refugees, Border Security, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>6/5/2007--Introduced.
+Provides for the relief of Mikael Adrian Christopher Figueroa Alvarez.</summary>
+</bill>

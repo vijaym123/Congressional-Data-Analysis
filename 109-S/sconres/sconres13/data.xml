@@ -1,0 +1,65 @@
+<bill session="109" type="sc" number="13" updated="2013-07-19T20:12:27-04:00">
+  <state datetime="2005-03-02T10:21:00-05:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2005-03-02T10:21:00-05:00"/>
+  </status>
+  <introduced datetime="2005-02-15"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution congratulating ASME on their 125th anniversary, celebrating the achievements of ASME members, and expressing the gratitude of the American people for ASME's contributions.</title>
+  </titles>
+  <sponsor id="300095"/>
+  <cosponsors/>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2005-02-15" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S1435-1436" label="consideration"/>
+      <reference ref="CR S1435-1436" label="text as passed Senate"/>
+      <reference ref="CR S1434-1435" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2005-02-16T10:01:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-02-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-02-16T11:36:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2005-03-02T10:13:00-05:00">
+      <text>Mr. Akin moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2005-03-02T10:14:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H852-854" label="consideration"/>
+    </action>
+    <action datetime="2005-03-02T10:14:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 13.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2005-03-02T10:21:00-05:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H852-853" label="text"/>
+    </vote>
+    <action datetime="2005-03-02T10:21:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="hc" number="46"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Commerce"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Engineering"/>
+    <term name="Engineers"/>
+    <term name="Industrial standards"/>
+    <term name="Infrastructure"/>
+    <term name="Professional associations"/>
+  </subjects>
+  <amendments/>
+  <summary>3/2/2005--Passed House without amendment.
+Congratulates the American Society of Mechanical Engineers (ASME) on its 125th anniversary, and recognizes the achievements of all ASME members. Expresses gratitude for ASME's contributions to the health, safety, and economic well-being of U.S. citizenry.</summary>
+</bill>

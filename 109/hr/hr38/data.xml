@@ -1,0 +1,109 @@
+<bill session="109" type="h" number="38" updated="2013-07-19T19:04:40-04:00">
+  <state datetime="2005-08-02">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2005-08-02"/>
+  </status>
+  <introduced datetime="2005-01-04"/>
+  <titles>
+    <title as="introduced" type="short">Upper White Salmon Wild and Scenic Rivers Act</title>
+    <title as="reported to house" type="short">Upper White Salmon Wild and Scenic Rivers Act</title>
+    <title as="passed house" type="short">Upper White Salmon Wild and Scenic Rivers Act</title>
+    <title as="passed senate" type="short">Upper White Salmon Wild and Scenic Rivers Act</title>
+    <title as="enacted" type="short">Upper White Salmon Wild and Scenic Rivers Act</title>
+    <title as="introduced" type="official">To designate a portion of the White Salmon River as a component of the National Wild and Scenic Rivers System.</title>
+  </titles>
+  <sponsor id="400011"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-01-04">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-02-03">
+      <text>Referred to the Subcommittee on Forests and Forest Health.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-05-11">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-05-18">
+      <text>Subcommittee on Forests and Forest Health Discharged.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-05-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-05-18">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="2005-06-14T17:46:00-04:00">
+      <text>Reported by the Committee on Resources. H. Rept. 109-125.</text>
+    </action>
+    <calendar datetime="2005-06-14T17:47:00-04:00" calendar="Union" number="71">
+      <text>Placed on the Union Calendar, Calendar No. 71.</text>
+    </calendar>
+    <action datetime="2005-06-27T15:43:00-04:00">
+      <text>Mr. Pearce moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2005-06-27T15:44:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5205-5206" label="consideration"/>
+    </action>
+    <action datetime="2005-06-27T15:44:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 38.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-06-27T15:49:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5205" label="text"/>
+    </vote>
+    <action datetime="2005-06-27T15:49:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-06-28">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2005-07-26">
+      <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+      <reference ref="CR S9052" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2005-07-26" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2005-07-26">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2005-07-26">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2005-07-27">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2005-08-02">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2005-08-02" type="public" number="109-44">
+      <text>Became Public Law No: 109-44.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII20" subcommittee="Forests and Forest Health" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="s" number="74"/>
+    <bill relation="unknown" session="109" type="s" number="74"/>
+    <bill relation="unknown" session="109" type="s" number="74"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Washington State"/>
+    <term name="Water resources development"/>
+    <term name="Wild rivers"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/2005--Public Law.
+Upper White Salmon Wild and Scenic Rivers Act - Amends the Wild and Scenic Rivers Act to designate specified portions of the White Salmon River, Washington, as a component of the National Wild and Scenic Rivers System. Authorizes appropriations.</summary>
+</bill>

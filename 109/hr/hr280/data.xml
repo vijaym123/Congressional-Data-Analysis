@@ -1,0 +1,108 @@
+<bill session="109" type="h" number="280" updated="2013-07-19T19:06:48-04:00">
+  <state datetime="2005-12-13T16:25:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-12-13T16:25:00-05:00"/>
+  </status>
+  <introduced datetime="2005-01-06"/>
+  <titles>
+    <title as="introduced" type="short">Brownfields Redevelopment Enhancement Act</title>
+    <title as="reported to house" type="short">Brownfields Redevelopment Enhancement Act</title>
+    <title as="passed house" type="short">Brownfields Redevelopment Enhancement Act</title>
+    <title as="introduced" type="official">To facilitate the provision of assistance by the Department of Housing and Urban Development for the cleanup and economic redevelopment of brownfields.</title>
+  </titles>
+  <sponsor id="400277"/>
+  <cosponsors>
+    <cosponsor id="400140" joined="2005-01-06"/>
+    <cosponsor id="400168" joined="2005-01-06"/>
+    <cosponsor id="400210" joined="2005-01-06"/>
+    <cosponsor id="400236" joined="2005-01-06"/>
+    <cosponsor id="400251" joined="2005-01-06"/>
+    <cosponsor id="400264" joined="2005-03-16"/>
+    <cosponsor id="400293" joined="2005-01-06"/>
+    <cosponsor id="400307" joined="2005-01-06"/>
+    <cosponsor id="400309" joined="2005-05-10"/>
+    <cosponsor id="400370" joined="2005-03-15"/>
+    <cosponsor id="400385" joined="2005-01-06"/>
+    <cosponsor id="400411" joined="2005-01-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-01-06">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2005-03-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-03-16">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Financial Services"/>
+    </calendar>
+    <action datetime="2005-06-16T19:18:00-04:00">
+      <text>Reported by the Committee on Financial Services. H. Rept. 109-138.</text>
+    </action>
+    <calendar datetime="2005-06-16T19:18:00-04:00" calendar="Union" number="80">
+      <text>Placed on the Union Calendar, Calendar No. 80.</text>
+    </calendar>
+    <action datetime="2005-12-13T16:02:00-05:00">
+      <text>Mr. Oxley moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2005-12-13T16:03:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11455-11459" label="consideration"/>
+    </action>
+    <action datetime="2005-12-13T16:03:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 280.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-12-13T16:25:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H11455-11456" label="text"/>
+    </vote>
+    <action datetime="2005-12-13T16:25:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-12-14">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup, Reporting"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="3620"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Block grants"/>
+    <term name="Brownfields"/>
+    <term name="Commerce"/>
+    <term name="Community development"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Depressed areas"/>
+    <term name="Economic development"/>
+    <term name="Economics and public finance"/>
+    <term name="Energy"/>
+    <term name="Federal aid to Indians"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government operations and politics"/>
+    <term name="Hazardous wastes"/>
+    <term name="Housing and community development"/>
+    <term name="Indian economic development"/>
+    <term name="Infrastructure"/>
+    <term name="Law"/>
+    <term name="Liability for environmental damages"/>
+    <term name="Mines and mineral resources"/>
+    <term name="Minorities"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Real estate development"/>
+    <term name="Refuse and refuse disposal"/>
+    <term name="Social welfare"/>
+    <term name="Strip mining"/>
+    <term name="Urban affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>12/13/2005--Passed House amended.
+Brownfields Redevelopment Enhancement Act - Amends the Housing and Community Development Act of 1974 to authorize the Secretary of Housing and Urban Development to make grants (without certain otherwise-required loan guarantees) to eligible public entities and Indian tribes to assist in the environmental cleanup and economic development of brownfield sites including mine-scarred lands. Prohibits: (1) providing or using such grants in a manner that reduces the financial responsibility of any nongovernmental party that is responsible or potentially responsible for contamination on any real property; and (2) the provision of assistance pursuant to this section from in any way relieving any party of liability with respect to such contamination, including liability for removal and remediation costs. Authorizes FY2006-FY2010 appropriations. Defines "brownfield site" for purposes of this section. Makes brownfields-related environmental cleanup and economic development activities eligible for community development block grant (CDBG) assistance. Authorizes CDBG use to administer renewal communities.</summary>
+</bill>

@@ -1,0 +1,51 @@
+<bill session="110" type="hc" number="98" updated="2013-07-19T22:09:38-04:00">
+  <state datetime="2007-03-22">REFERRED</state>
+  <status>
+    <introduced datetime="2007-03-22"/>
+  </status>
+  <introduced datetime="2007-03-22"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of Congress that provisions that provoke veto threats from the President should not be included on bills that appropriate funds for the implementation of recommendations of the Base Closure and Realignment Commission.</title>
+  </titles>
+  <sponsor id="400405"/>
+  <cosponsors>
+    <cosponsor id="400057" joined="2007-03-22"/>
+    <cosponsor id="400655" joined="2007-03-22"/>
+    <cosponsor id="400658" joined="2007-03-22"/>
+    <cosponsor id="400137" joined="2007-03-27"/>
+    <cosponsor id="400172" joined="2007-03-22"/>
+    <cosponsor id="400224" joined="2007-03-22"/>
+    <cosponsor id="400279" joined="2007-03-22"/>
+    <cosponsor id="400284" joined="2007-03-22"/>
+    <cosponsor id="400381" joined="2007-03-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-03-22">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2007-04-03">
+      <text>Referred to the Subcommittee on Readiness.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS03" subcommittee="Readiness" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="sc" number="23"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+    <term name="Armed forces and national security"/>
+    <term name="Congress"/>
+    <term name="Government operations and politics"/>
+    <term name="Legislation"/>
+    <term name="Military base closures"/>
+    <term name="Veto"/>
+  </subjects>
+  <amendments/>
+  <summary>3/22/2007--Introduced.
+Expresses the sense of Congress that Congress should not include provisions that provoke veto threats from the President in bills that appropriate funds for the implementation of recommendations of the Base Closure and Realignment Commission.</summary>
+</bill>

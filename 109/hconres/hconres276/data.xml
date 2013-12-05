@@ -1,0 +1,45 @@
+<bill session="109" type="hc" number="276" updated="2013-07-19T20:04:30-04:00">
+  <state datetime="2005-10-27">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2005-10-27"/>
+  </status>
+  <introduced datetime="2005-10-26"/>
+  <titles>
+    <title as="introduced" type="official">Requesting the President to return to the House of Representatives the enrollment of H.R. 3765 so that the Clerk of the House may reenroll the bill in accordance with the action of the two Houses.</title>
+  </titles>
+  <sponsor id="400642"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2005-10-26T17:48:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H9198" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-10-26T17:48:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H9198" label="text"/>
+    </vote>
+    <action datetime="2005-10-26T17:49:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2005-10-27" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S12023-12024" label="consideration"/>
+    </vote>
+    <action datetime="2005-10-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="3765"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="House of Representatives"/>
+    <term name="Legislation"/>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+  <summary>10/27/2005--Passed Senate without amendment.
+Requests the President to return to the House of Representatives the enrollment of H.R. 3765 (extending the authority of the Secretary of the Army to accept and expend funds contributed by non-federal public entities and to expedite the processing of permits). Rescinds the actions of the presiding officers of the two chambers in signing the bill. Requires the Clerk of the House to reenroll the bill in accordance with the chambers' action.</summary>
+</bill>

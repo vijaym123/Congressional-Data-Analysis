@@ -1,0 +1,80 @@
+<bill session="109" type="hc" number="449" updated="2013-07-19T20:06:01-04:00">
+  <state datetime="2006-09-11">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2006-09-11"/>
+  </status>
+  <introduced datetime="2006-07-19"/>
+  <titles>
+    <title as="introduced" type="official">Commemorating the 60th anniversary of the historic 1946 season of Major League Baseball Hall of Fame member Bob Feller and his return from military service to the United States.</title>
+  </titles>
+  <sponsor id="400235"/>
+  <cosponsors>
+    <cosponsor id="400035" joined="2006-07-19"/>
+    <cosponsor id="400050" joined="2006-07-19"/>
+    <cosponsor id="400208" joined="2006-07-19"/>
+    <cosponsor id="400227" joined="2006-07-19"/>
+    <cosponsor id="400234" joined="2006-07-19"/>
+    <cosponsor id="400307" joined="2006-07-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-07-19">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2006-07-25T15:50:00-04:00">
+      <text>Mr. LaTourette moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2006-07-25T15:50:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5766-5769" label="consideration"/>
+    </action>
+    <action datetime="2006-07-25T15:50:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 449.</text>
+    </action>
+    <action datetime="2006-07-25T16:21:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2006-07-25T18:03:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5815" label="consideration"/>
+    </action>
+    <action datetime="2006-07-25T18:10:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-07-25T18:10:00-04:00" how="roll" result="pass" roll="402" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 402).</text>
+      <reference ref="CR H5766" label="text"/>
+    </vote>
+    <action datetime="2006-07-26">
+      <text>Received in the Senate and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2006-09-11">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S9320" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2006-09-11" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2006-09-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="sc" number="110"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Armed forces and national security"/>
+    <term name="Athletes"/>
+    <term name="Baseball"/>
+    <term name="Congressional tributes"/>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>9/11/2006--Passed Senate without amendment.
+Commemorates the 60th anniversary of the 1946 season of Bob Feller (Baseball Hall of Fame pitcher) and his return from military service to the United States.</summary>
+</bill>

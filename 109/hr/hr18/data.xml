@@ -1,0 +1,85 @@
+<bill session="109" type="h" number="18" updated="2013-07-19T19:04:30-04:00">
+  <state datetime="2005-04-12T14:43:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-04-12T14:43:00-04:00"/>
+  </status>
+  <introduced datetime="2005-01-04"/>
+  <titles>
+    <title as="introduced" type="short">Southern California Groundwater Remediation Act</title>
+    <title as="passed house" type="short">Southern California Groundwater Remediation Act</title>
+    <title as="introduced" type="official">To authorize the Secretary of the Interior, acting through the Bureau of Reclamation and in coordination with other Federal, State, and local government agencies, to participate in the funding and implementation of a balanced, long-term groundwater remediation program in California, and for other purposes.</title>
+  </titles>
+  <sponsor id="400009"/>
+  <cosponsors>
+    <cosponsor id="400057" joined="2005-01-04"/>
+    <cosponsor id="400277" joined="2005-01-04"/>
+    <cosponsor id="400290" joined="2005-01-04"/>
+    <cosponsor id="400343" joined="2005-04-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-01-04">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E10"/>
+    </action>
+    <action state="REFERRED" datetime="2005-01-04">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-02-03">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-04-12T14:35:00-04:00">
+      <text>Mr. Duncan moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2005-04-12T14:35:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1864-1865" label="consideration"/>
+    </action>
+    <action datetime="2005-04-12T14:35:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 18.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-04-12T14:43:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H1864" label="text"/>
+    </vote>
+    <action datetime="2005-04-12T14:43:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-04-13">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water and Power" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Auditing"/>
+    <term name="California"/>
+    <term name="Construction costs"/>
+    <term name="Easements"/>
+    <term name="Economics and public finance"/>
+    <term name="Environmental assessment"/>
+    <term name="Federal aid to water pollution control"/>
+    <term name="Government operations and politics"/>
+    <term name="Government trust funds"/>
+    <term name="Groundwater"/>
+    <term name="Intergovernmental fiscal relations"/>
+    <term name="Land transfers"/>
+    <term name="Law"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Right-of-way"/>
+    <term name="Transportation and public works"/>
+    <term name="Water districts"/>
+    <term name="Water pollution control"/>
+    <term name="Water resources development"/>
+    <term name="Water rights"/>
+    <term name="Watersheds"/>
+  </subjects>
+  <amendments/>
+  <summary>4/12/2005--Passed House amended.
+Southern California Groundwater Remediation Act - Establishes within the Treasury the Southern California Groundwater Remediation Fund, which shall be used by the Secretary of the Interior, acting through the Bureau of Reclamation, to provide grants to a local water authority within the natural watershed of the Santa Ana River in California for the federal share of costs associated with designing and constructing groundwater remediation projects. Prohibits the Secretary from obligating any funds appropriated to the Fund in a fiscal year until the Secretary has deposited a matching amount provided by non-federal interests of at least 35 percent for a project. Makes each authority responsible for providing the required non-federal amount. Directs the Secretary to credit the appropriate authority with the value of all prior compatible expenditures by non-federal interests made after January 1, 2000. Authorizes appropriations. Terminates this Act ten years after the enactment date.</summary>
+</bill>

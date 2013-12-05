@@ -1,0 +1,95 @@
+<bill session="110" type="h" number="399" updated="2013-07-19T21:07:15-04:00">
+  <state datetime="2007-03-06T14:09:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-03-06T14:09:00-05:00"/>
+  </status>
+  <introduced datetime="2007-01-10"/>
+  <titles>
+    <title as="introduced" type="official">To designate the United States Courthouse to be constructed in Jackson, Mississippi, as the "R. Jess Brown United States Courthouse".</title>
+  </titles>
+  <sponsor id="400402"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-10">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2007-01-11">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2007-02-06">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2007-02-06">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2007-02-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-02-07">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2007-02-16T16:42:00-05:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 110-20.</text>
+    </action>
+    <calendar datetime="2007-02-16T16:42:00-05:00" calendar="House" number="14">
+      <text>Placed on the House Calendar, Calendar No. 14.</text>
+    </calendar>
+    <action datetime="2007-03-06T14:01:00-05:00">
+      <text>Ms. Norton moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-03-06T14:01:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2190-2191" label="consideration"/>
+    </action>
+    <action datetime="2007-03-06T14:01:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 399.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-03-06T14:09:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2190" label="text"/>
+    </vote>
+    <action datetime="2007-03-06T14:09:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-03-07">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2007-03-14">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2007-03-14">
+      <text>Referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Civil rights workers"/>
+    <term name="College teachers"/>
+    <term name="Congressional tributes"/>
+    <term name="Courthouses"/>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Higher education"/>
+    <term name="Law"/>
+    <term name="Lawyers"/>
+    <term name="Mississippi"/>
+    <term name="Names"/>
+    <term name="Teachers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/6/2007--Passed House without amendment.
+Designates the U.S. courthouse to be constructed at a specified site in Jackson, Mississippi, as the "R. Jess Brown United States Courthouse."</summary>
+</bill>

@@ -1,0 +1,87 @@
+<bill session="109" type="hc" number="152" updated="2013-07-19T20:03:27-04:00">
+  <state datetime="2005-06-27T15:13:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-06-27T15:13:00-04:00"/>
+  </status>
+  <introduced datetime="2005-05-16"/>
+  <titles>
+    <title as="introduced" type="official">Commemorating Mystic Seaport: the Museum of America and the Sea in recognition of its 75th year.</title>
+  </titles>
+  <sponsor id="400375"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-05-16">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2005-05-17">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2005-05-17">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2005-05-17">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2005-05-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-06-13">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2005-06-13T18:36:00-04:00">
+      <text>Reported (Amended) by the Committee on Transportation. H. Rept. 109-121.</text>
+    </action>
+    <calendar datetime="2005-06-13T18:37:00-04:00" calendar="House" number="48">
+      <text>Placed on the House Calendar, Calendar No. 48.</text>
+    </calendar>
+    <action datetime="2005-06-27T15:09:00-04:00">
+      <text>Mr. Fortuno moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2005-06-27T15:09:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5196-5197" label="consideration"/>
+    </action>
+    <action datetime="2005-06-27T15:09:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 152.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-06-27T15:13:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5196" label="text"/>
+    </vote>
+    <action datetime="2005-06-27T15:13:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-06-28">
+      <text>Received in the Senate and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Connecticut"/>
+    <term name="History"/>
+    <term name="Labor and employment"/>
+    <term name="Marine transportation"/>
+    <term name="Merchant seamen"/>
+    <term name="Museums"/>
+    <term name="Shipbuilding"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>6/27/2005--Passed House amended.
+Commemorates Mystic Seaport: the Museum of America and the Sea, in recognition of its 75th year. Supports Mystic Seaport's presentation of our Nation's merchant mariners and shipbuilders whose efforts promoted the expansion of maritime transportation and commerce.</summary>
+</bill>

@@ -1,0 +1,101 @@
+<bill session="109" type="h" number="5057" updated="2013-07-19T19:48:57-04:00">
+  <state datetime="2006-07-24T14:44:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-07-24T14:44:00-04:00"/>
+  </status>
+  <introduced datetime="2006-03-30"/>
+  <titles>
+    <title as="introduced" type="official">To authorize the Marion Park Project and Committee of the Palmetto Conservation Foundation to establish a commemorative work on Federal land in the District of Columbia, and its environs to honor Brigadier General Francis Marion.</title>
+    <title as="amended by house" type="official">To authorize the Marion Park Project, a Committee of the Palmetto Conservation Foundation, to establish a commemorative work on Federal land in the District of Columbia, and its environs to honor Brigadier General Francis Marion.</title>
+  </titles>
+  <sponsor id="400433"/>
+  <cosponsors>
+    <cosponsor id="400016" joined="2006-03-30"/>
+    <cosponsor id="400049" joined="2006-03-30"/>
+    <cosponsor id="400075" joined="2006-03-30"/>
+    <cosponsor id="400662" joined="2006-06-07"/>
+    <cosponsor id="400649" joined="2006-03-30"/>
+    <cosponsor id="400386" joined="2006-03-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-03-30">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2006-04-05">
+      <text>Referred to the Subcommittee on National Parks.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-04-05">
+      <text>Executive Comment Requested from Interior.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-05-25">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-06-21">
+      <text>Subcommittee on National Parks Discharged.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-06-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-06-21">
+      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="2006-07-20T15:31:00-04:00">
+      <text>Reported (Amended) by the Committee on Resources. H. Rept. 109-582.</text>
+    </action>
+    <calendar datetime="2006-07-20T15:32:00-04:00" calendar="Union" number="334">
+      <text>Placed on the Union Calendar, Calendar No. 334.</text>
+    </calendar>
+    <action datetime="2006-07-24T14:40:00-04:00">
+      <text>Mr. Walden (OR) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2006-07-24T14:40:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5585-5586" label="consideration"/>
+    </action>
+    <action datetime="2006-07-24T14:40:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5057.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-07-24T14:44:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5585" label="text"/>
+    </vote>
+    <action datetime="2006-07-24T14:44:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-07-24T14:44:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-07-25">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="National Parks, Recreation, and Public Lands" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="2822"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="American Revolution"/>
+    <term name="Armed forces and national security"/>
+    <term name="Commemorations"/>
+    <term name="District of Columbia"/>
+    <term name="Foundations"/>
+    <term name="History"/>
+    <term name="Monuments and memorials"/>
+    <term name="Officer personnel"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>7/24/2006--Passed House amended.
+Authorizes the Marion Park Project, a committee of the Palmetto Conservation Foundation to establish a commemorative work on federal land in the District of Columbia and its environs to honor Brigadier General Francis Marion. Prohibits the use of federal funds to pay any expense of its establishment. Makes the Marion Park Project solely responsible for acceptance of contributions for, and payment of the expenses of, the establishment of such commemorative work.</summary>
+</bill>

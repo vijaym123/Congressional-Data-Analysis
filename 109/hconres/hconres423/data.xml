@@ -1,0 +1,60 @@
+<bill session="109" type="hc" number="423" updated="2013-07-19T20:05:48-04:00">
+  <state datetime="2006-11-16">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2006-11-16"/>
+  </status>
+  <introduced datetime="2006-06-06"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the printing as a House document of "A History, Committee on the Judiciary, United States House of Representatives, 1813-2006".</title>
+  </titles>
+  <sponsor id="400365"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2006-06-06">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2006-11-15T11:53:00-05:00">
+      <text>Committee on House Administration discharged.</text>
+    </action>
+    <action datetime="2006-11-15T11:54:00-05:00">
+      <text>Mr. Ehlers asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2006-11-15T11:54:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H8656" label="consideration"/>
+      <reference ref="CR H8656" label="text of measure as introduced"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-11-15T11:55:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+    </vote>
+    <action datetime="2006-11-15T11:55:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2006-11-16" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11096" label="consideration"/>
+      <reference ref="CR S11096" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2006-11-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional committees (House)"/>
+    <term name="Congressional publications"/>
+    <term name="Government operations and politics"/>
+    <term name="History"/>
+    <term name="House Judiciary"/>
+    <term name="House of Representatives"/>
+  </subjects>
+  <amendments>
+    <amendment number="h1216"/>
+  </amendments>
+  <summary>11/16/2006--Passed Senate without amendment.
+Authorizes the printing as a House document of "A History, Committee on the Judiciary, United States House of Representatives, 1813-2006" (or the document of the history of the Committee on the Judiciary which is prepared during the 109th Congress with such similar title as may be provided by the Committee).</summary>
+</bill>

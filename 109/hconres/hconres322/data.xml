@@ -1,0 +1,75 @@
+<bill session="109" type="hc" number="322" updated="2013-07-19T20:04:57-04:00">
+  <state datetime="2006-02-14T18:52:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-02-14T18:52:00-05:00"/>
+  </status>
+  <introduced datetime="2005-12-16"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the Sense of Congress regarding the contribution of the USO to the morale and welfare of our servicemen and women of our armed forces and their families.</title>
+    <title as="amended by house" type="official">Expressing the appreciation of Congress for the contributions of the United Service Organizations, Incorporated (the USO), to the morale and welfare of the members of the Armed Forces and their families.</title>
+  </titles>
+  <sponsor id="400279"/>
+  <cosponsors>
+    <cosponsor id="400095" joined="2006-02-14"/>
+    <cosponsor id="400337" joined="2005-12-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-12-16">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2006-01-19">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+    <action datetime="2006-02-14T14:25:00-05:00">
+      <text>Mr. Miller (FL) moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2006-02-14T14:25:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H231-234" label="consideration"/>
+    </action>
+    <action datetime="2006-02-14T14:25:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 322.</text>
+    </action>
+    <action datetime="2006-02-14T14:39:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2006-02-14T18:32:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H238-239" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-02-14T18:52:00-05:00" how="roll" result="pass" roll="8" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 8).</text>
+      <reference ref="CR H231" label="text"/>
+    </vote>
+    <action datetime="2006-02-14T18:52:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-02-14T18:52:00-05:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-02-15">
+      <text>Received in the Senate and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Armed forces and national security"/>
+    <term name="Charities"/>
+    <term name="Civil-military relations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Morale"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>2/14/2006--Passed House amended.
+Extends appreciation to the USO on its 65th anniversary and recognizes that their work in supporting members of the Armed Forces and their families is a valued contribution to the success and mission of the Armed Forces.</summary>
+</bill>

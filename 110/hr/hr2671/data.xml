@@ -1,0 +1,132 @@
+<bill session="110" type="h" number="2671" updated="2013-07-19T21:27:07-04:00">
+  <state datetime="2007-12-21">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2007-12-21"/>
+  </status>
+  <introduced datetime="2007-06-12"/>
+  <titles>
+    <title as="introduced" type="official">To designate the United States courthouse located at 301 North Miami Avenue, Miami, Florida, as the "C. Clyde Atkins United States Courthouse".</title>
+  </titles>
+  <sponsor id="400344"/>
+  <cosponsors>
+    <cosponsor id="412250" joined="2007-06-12"/>
+    <cosponsor id="400044" joined="2007-06-12"/>
+    <cosponsor id="400048" joined="2007-06-12"/>
+    <cosponsor id="400051" joined="2007-06-12"/>
+    <cosponsor id="412196" joined="2007-06-12"/>
+    <cosponsor id="412195" joined="2007-06-12"/>
+    <cosponsor id="400086" joined="2007-06-12"/>
+    <cosponsor id="400107" joined="2007-06-12"/>
+    <cosponsor id="400108" joined="2007-06-12"/>
+    <cosponsor id="400131" joined="2007-06-12"/>
+    <cosponsor id="400170" joined="2007-06-12"/>
+    <cosponsor id="400212" joined="2007-06-12"/>
+    <cosponsor id="412198" joined="2007-06-12"/>
+    <cosponsor id="400622" joined="2007-06-12"/>
+    <cosponsor id="412197" joined="2007-06-12"/>
+    <cosponsor id="400270" joined="2007-06-12"/>
+    <cosponsor id="400273" joined="2007-06-12"/>
+    <cosponsor id="400279" joined="2007-06-12"/>
+    <cosponsor id="400328" joined="2007-06-12"/>
+    <cosponsor id="400388" joined="2007-06-12"/>
+    <cosponsor id="400623" joined="2007-06-12"/>
+    <cosponsor id="400427" joined="2007-06-12"/>
+    <cosponsor id="400430" joined="2007-06-12"/>
+    <cosponsor id="400439" joined="2007-06-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-06-12">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2007-06-13">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2007-08-01">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2007-08-01">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2007-08-02">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-08-02">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2007-09-14T10:44:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 110-326.</text>
+    </action>
+    <calendar datetime="2007-09-14T10:45:00-04:00" calendar="House" number="113">
+      <text>Placed on the House Calendar, Calendar No. 113.</text>
+    </calendar>
+    <action datetime="2007-10-29T16:24:00-04:00">
+      <text>Ms. Norton moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-10-29T16:24:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H12128-12129" label="consideration"/>
+    </action>
+    <action datetime="2007-10-29T16:24:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2671.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-10-29T16:32:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H12128" label="text"/>
+    </vote>
+    <action datetime="2007-10-29T16:32:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-10-30">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="2007-12-13">
+      <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.</text>
+      <reference ref="CR S15568" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2007-12-13" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <topresident datetime="2007-12-13">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2007-12-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2007-12-19">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2007-12-21">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2007-12-21" type="public" number="110-146">
+      <text>Became Public Law No: 110-146.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="1385"/>
+    <bill relation="unknown" session="110" type="s" number="1385"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Courthouses"/>
+    <term name="District courts"/>
+    <term name="Florida"/>
+    <term name="Judges"/>
+    <term name="Law"/>
+    <term name="Names"/>
+  </subjects>
+  <amendments/>
+  <summary>12/21/2007--Public Law.
+Designates the United States courthouse at 301 North Miami Avenue, Miami, Florida, as the "C. Clyde Atkins United States Courthouse."</summary>
+</bill>

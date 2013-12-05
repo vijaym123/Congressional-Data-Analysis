@@ -1,0 +1,105 @@
+<bill session="109" type="h" number="4826" updated="2013-07-19T19:46:54-04:00">
+  <state datetime="2006-03-24">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2006-03-24"/>
+  </status>
+  <introduced datetime="2006-03-01"/>
+  <titles>
+    <title as="introduced" type="official">To extend through December 31, 2006, the authority of the Secretary of the Army to accept and expend funds contributed by non-Federal public entities to expedite the processing of permits.</title>
+  </titles>
+  <sponsor id="400011"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2006-03-01"/>
+    <cosponsor id="400100" joined="2006-03-01"/>
+    <cosponsor id="400109" joined="2006-03-01"/>
+    <cosponsor id="400113" joined="2006-03-01"/>
+    <cosponsor id="400171" joined="2006-03-01"/>
+    <cosponsor id="400176" joined="2006-03-01"/>
+    <cosponsor id="400185" joined="2006-03-14"/>
+    <cosponsor id="400186" joined="2006-03-01"/>
+    <cosponsor id="400193" joined="2006-03-01"/>
+    <cosponsor id="400232" joined="2006-03-01"/>
+    <cosponsor id="400617" joined="2006-03-01"/>
+    <cosponsor id="400663" joined="2006-03-01"/>
+    <cosponsor id="400262" joined="2006-03-01"/>
+    <cosponsor id="400659" joined="2006-03-01"/>
+    <cosponsor id="400305" joined="2006-03-01"/>
+    <cosponsor id="400660" joined="2006-03-01"/>
+    <cosponsor id="400376" joined="2006-03-01"/>
+    <cosponsor id="400379" joined="2006-03-01"/>
+    <cosponsor id="400396" joined="2006-03-01"/>
+    <cosponsor id="400403" joined="2006-03-01"/>
+    <cosponsor id="400419" joined="2006-03-01"/>
+    <cosponsor id="400437" joined="2006-03-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-03-01">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2006-03-02">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2006-03-14T15:50:00-05:00">
+      <text>Mr. Boustany moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-03-14T15:50:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H892-893" label="consideration"/>
+    </action>
+    <action datetime="2006-03-14T15:50:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4826.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-03-14T16:01:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H892" label="text"/>
+    </vote>
+    <action datetime="2006-03-14T16:01:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-03-15">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2006-03-16" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S2388-2389" label="consideration"/>
+    </vote>
+    <topresident datetime="2006-03-16">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2006-03-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2006-03-21">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2006-03-24">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2006-03-24" type="public" number="109-209">
+      <text>Became Public Law No: 109-209.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="3765"/>
+    <bill relation="unknown" session="109" type="h" number="3765"/>
+    <bill relation="unknown" session="109" type="h" number="6316"/>
+    <bill relation="identical" session="109" type="s" number="2338"/>
+    <bill relation="unknown" session="109" type="s" number="2338"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Government operations and politics"/>
+    <term name="Infrastructure"/>
+    <term name="Intergovernmental fiscal relations"/>
+    <term name="Law"/>
+    <term name="Licenses"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/2006--Public Law.
+Amends the Water Resources Development Act of 2000 to extend from March 31, 2006, through December 31, 2006, the authority of the Secretary of the Army to accept and expend funds contributed by non-federal public entities to expedite the processing of permits for water projects.</summary>
+</bill>

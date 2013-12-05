@@ -1,0 +1,44 @@
+<bill session="109" type="hc" number="198" updated="2013-07-19T20:03:51-04:00">
+  <state datetime="2005-07-01">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2005-07-01"/>
+  </status>
+  <introduced datetime="2005-06-30"/>
+  <titles>
+    <title as="introduced" type="official">Providing for an adjournment or recess of the two Houses.</title>
+  </titles>
+  <sponsor id="400104"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2005-06-30T23:01:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H5591" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-06-30T23:03:00-04:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H5591" label="text"/>
+    </vote>
+    <action datetime="2005-06-30T23:03:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-06-30">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2005-07-01" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S7872-7873" label="consideration"/>
+      <reference ref="CR S7873" label="text"/>
+    </vote>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+    <term name="House of Representatives"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>7/1/2005--Passed Senate without amendment.
+Provides for an adjournment of the House of Representatives from June 30 or July 1, 2005, until July 11, 2005 (or until another time of reassembly under this concurrent resolution), and a recess or an adjournment of the Senate from June 30, July 1, or July 2, 2005, until July 11, 2005 (or until another time of reassembly). Authorizes the Speaker of the House and the Majority Leader of the Senate, or their respective designees, acting jointly after consultation with the Minority Leaders of the House and of the Senate, to notify the Members of the House and the Senate, respectively, to reassemble at such place and time as they may designate whenever, in their opinion, the public interest shall warrant it.</summary>
+</bill>

@@ -1,0 +1,110 @@
+<bill session="109" type="s" number="1736" updated="2013-07-19T20:28:38-04:00">
+  <state datetime="2006-05-31">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2006-05-31"/>
+  </status>
+  <introduced datetime="2005-09-20"/>
+  <titles>
+    <title as="introduced" type="official">A bill to provide for the participation of employees in the judicial branch in the Federal leave transfer program for disasters and emergencies.</title>
+  </titles>
+  <sponsor id="300025"/>
+  <cosponsors>
+    <cosponsor id="300001" joined="2005-09-20"/>
+    <cosponsor id="300063" joined="2005-09-22"/>
+    <cosponsor id="300067" joined="2005-09-20"/>
+    <cosponsor id="400418" joined="2005-09-20"/>
+    <cosponsor id="300098" joined="2005-09-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-09-20">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2005-09-22">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2005-09-27">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Collins without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2005-09-27" calendar="Senate Legislative" under="General Orders" number="227">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 227.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2005-10-19" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11595" label="consideration"/>
+      <reference ref="CR S11595" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-10-20T10:00:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-10-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-10-20">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2005-10-20">
+      <text>By Senator Collins from Committee on Homeland Security and Governmental Affairs filed written report. Report No. 109-158.</text>
+    </action>
+    <action datetime="2006-03-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Government Reform"/>
+    </action>
+    <calendar datetime="2006-03-09">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Government Reform"/>
+    </calendar>
+    <action datetime="2006-05-02T18:42:00-04:00">
+      <text>Reported by the Committee on Government Reform. H. Rept. 109-449.</text>
+    </action>
+    <calendar datetime="2006-05-02T18:42:00-04:00" calendar="Union" number="251">
+      <text>Placed on the Union Calendar, Calendar No. 251.</text>
+    </calendar>
+    <action datetime="2006-05-22T15:07:00-04:00">
+      <text>Mr. Shays moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-05-22T15:07:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2983-2984" label="consideration"/>
+    </action>
+    <action datetime="2006-05-22T15:07:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 1736.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2006-05-22T15:12:00-04:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2983" label="text"/>
+    </vote>
+    <action datetime="2006-05-22T15:12:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2006-05-22">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2006-05-25">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2006-05-31">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2006-05-31" type="public" number="109-229">
+      <text>Became Public Law No: 109-229.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Disasters"/>
+    <term name="Emergency management"/>
+    <term name="Federal employees"/>
+    <term name="Judicial officers"/>
+    <term name="Law"/>
+    <term name="Leave of absence"/>
+  </subjects>
+  <amendments/>
+  <summary>5/31/2006--Public Law.
+Amends federal civil service law to require the Office of Personnel Management (OPM), after consultation with the Administrative Office of the U.S. Courts, to allow federal judicial branch employees to participate in any emergency leave transfer programs for disasters and emergencies.</summary>
+</bill>

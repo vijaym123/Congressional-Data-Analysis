@@ -1,0 +1,52 @@
+<bill session="110" type="h" number="4779" updated="2013-07-19T21:45:42-04:00">
+  <state datetime="2008-07-30">REPORTED</state>
+  <status>
+    <unknown datetime="2008-07-30"/>
+  </status>
+  <introduced datetime="2007-12-18"/>
+  <titles>
+    <title as="introduced" type="official">To enact certain laws relating to public contracts as title 41, United States Code, "Public Contracts".</title>
+  </titles>
+  <sponsor id="400080"/>
+  <cosponsors>
+    <cosponsor id="400381" joined="2007-12-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2007-12-18">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E2605"/>
+    </action>
+    <action state="REFERRED" datetime="2007-12-18">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2008-02-04">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2008-07-28">
+      <text>Subcommittee on Crime, Terrorism, and Homeland Security Discharged.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <action datetime="2008-07-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-07-30">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, In Committee"/>
+    <committee activity="Referral, Discharged" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Government contractors"/>
+    <term name="Government procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>12/18/2007--Introduced.
+Enacts title 41 of the United States Code into positive law to be entitled "Public Contracts." Makes technical and conforming amendments.</summary>
+</bill>

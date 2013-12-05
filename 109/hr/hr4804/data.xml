@@ -1,0 +1,99 @@
+<bill session="109" type="h" number="4804" updated="2013-07-19T19:46:42-04:00">
+  <state datetime="2006-07-25T13:46:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-07-25T13:46:00-04:00"/>
+  </status>
+  <introduced datetime="2006-02-16"/>
+  <titles>
+    <title as="introduced" type="short">FHA Manufactured Housing Loan Modernization Act of 2006</title>
+    <title as="reported to house" type="short">FHA Manufactured Housing Loan Modernization Act of 2006</title>
+    <title as="passed house" type="short">FHA Manufactured Housing Loan Modernization Act of 2006</title>
+    <title as="introduced" type="official">To modernize the manufactured housing loan insurance program under title I of the National Housing Act.</title>
+  </titles>
+  <sponsor id="400406"/>
+  <cosponsors>
+    <cosponsor id="400140" joined="2006-02-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-02-16">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2006-03-21">
+      <text>Referred to the Subcommittee on Housing and Community Opportunity.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2006-06-08">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2006-06-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2006-07-19T19:04:00-04:00">
+      <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 109-580.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2006-07-19T19:04:00-04:00" calendar="Union" number="332">
+      <text>Placed on the Union Calendar, Calendar No. 332.</text>
+    </calendar>
+    <action datetime="2006-07-25T12:17:00-04:00">
+      <text>Mr. Gillmor moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2006-07-25T12:17:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5731-5734" label="consideration"/>
+    </action>
+    <action datetime="2006-07-25T12:17:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4804.</text>
+    </action>
+    <action datetime="2006-07-25T12:36:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2006-07-25T13:38:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5743" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-07-25T13:46:00-04:00" how="roll" result="pass" roll="398" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 4 (Roll no. 398).</text>
+      <reference ref="CR H5731-5732" label="text"/>
+    </vote>
+    <action datetime="2006-07-25T13:46:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-07-26">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup" code="HSBA04" subcommittee="Housing and Community Opportunity" name="House Financial Services"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="2803"/>
+    <bill relation="identical" session="109" type="s" number="2123"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Administrative procedure"/>
+    <term name="Commerce"/>
+    <term name="Department of Housing and Urban Development"/>
+    <term name="Economics and public finance"/>
+    <term name="Evidence (Law)"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government operations and politics"/>
+    <term name="Indexing (Economic policy)"/>
+    <term name="Insurance premiums"/>
+    <term name="Law"/>
+    <term name="Mobile homes"/>
+    <term name="Mortgage banks"/>
+    <term name="Mortgage guaranty insurance"/>
+    <term name="Mortgages"/>
+    <term name="Prefabricated buildings"/>
+    <term name="Standards"/>
+  </subjects>
+  <amendments/>
+  <summary>7/25/2006--Passed House amended.
+FHA Manufactured Housing Loan Modernization Act of 2006 - Amends the National Housing Act with respect to Federal Housing Administration (FHA) housing loan insurance for manufactured homes (or lots for such homes). Exempts such loans from certain financial institution portfolio limits, increasing an allowable claim for loss from 10% to 90% of an institution's total amount of such loans, credit advances, and purchases. Makes any new contract of insurance for such loans, credit advances, or purchases conclusive evidence of an institution's insurance eligibility. (Thus requires each loan to be insured individually instead of as part of a bundle of such loans.) Increases loan limits, requiring annual indexing. Sets forth borrower premium charges, including an up-front premium of up to 2.25% and an annual premium of up to 1%. Revises requirements for the handling and disposal of any real or personal conveyed to or acquired by the Secretary of Housing and Urban Development (HUD), and the pursuit of all claims against mortgagors assigned to the Secretary by mortgagees. Directs the Secretary of HUD to establish underwriting criteria that will ensure the manufactured housing program's financial soundness.</summary>
+</bill>

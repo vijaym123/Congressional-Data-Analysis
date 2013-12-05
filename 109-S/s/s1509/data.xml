@@ -1,0 +1,84 @@
+<bill session="109" type="s" number="1509" updated="2013-07-19T20:26:43-04:00">
+  <state datetime="2006-07-11">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2006-07-11"/>
+  </status>
+  <introduced datetime="2005-07-27"/>
+  <titles>
+    <title as="introduced" type="short">Captive Primate Safety Act of 2005</title>
+    <title as="reported to senate" type="short">Captive Primate Safety Act of 2005</title>
+    <title as="passed senate" type="short">Captive Primate Safety Act of 2005</title>
+    <title as="introduced" type="official">A bill to amend the Lacey Act Amendments of 1981 to add non-human primates to the definition of prohibited wildlife species.</title>
+  </titles>
+  <sponsor id="300057"/>
+  <cosponsors>
+    <cosponsor id="300020" joined="2005-07-27"/>
+    <cosponsor id="300040" joined="2005-10-04"/>
+    <cosponsor id="300064" joined="2005-07-27"/>
+    <cosponsor id="300067" joined="2005-07-27"/>
+    <cosponsor id="400272" joined="2006-05-25"/>
+    <cosponsor id="400418" joined="2006-05-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-07-27">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S9183-9184"/>
+    </action>
+    <action state="REFERRED" datetime="2005-07-27">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <reference ref="CR S9184" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-05-23">
+      <text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Environment and Public Works"/>
+    </calendar>
+    <action datetime="2006-06-19">
+      <text>Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. With written report No. 109-263.</text>
+    </action>
+    <calendar datetime="2006-06-19" calendar="Senate Legislative" under="General Orders" number="471">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 471.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2006-07-11" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S7357-7358" label="consideration"/>
+      <reference ref="CR S7358" label="text"/>
+    </vote>
+    <action datetime="2006-07-12T10:03:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-07-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-07-12">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2006-07-13">
+      <text>Referred to the Subcommittee on Fisheries and Oceans.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-07-13">
+      <text>Executive Comment Requested from Interior.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+    <committee code="HSII" name="House Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII15" subcommittee="Fisheries Conservation, Wildlife, and Oceans" name="House Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="1329"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Export controls"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Import restrictions"/>
+    <term name="Primates"/>
+    <term name="Protection of animals"/>
+    <term name="Wild animal trade"/>
+  </subjects>
+  <amendments/>
+  <summary>7/11/2006--Passed Senate without amendment.
+Captive Primate Safety Act of 2005 - Amends the Lacey Act Amendments of 1981 to add non-human primates to the definition of "prohibited wildlife species" to which such Act's requirements (e.g., prohibition against sale or purchase in interstate or foreign commerce) apply.</summary>
+</bill>

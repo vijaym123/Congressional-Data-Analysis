@@ -1,0 +1,48 @@
+<bill session="109" type="s" number="1517" updated="2013-07-19T20:26:47-04:00">
+  <state datetime="2005-07-27">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-07-27"/>
+  </status>
+  <introduced datetime="2005-07-27"/>
+  <titles>
+    <title as="introduced" type="official">A bill to permit Women's Business Centers to re-compete for sustainability grants.</title>
+  </titles>
+  <sponsor id="300091"/>
+  <cosponsors>
+    <cosponsor id="300024" joined="2005-07-27"/>
+    <cosponsor id="300036" joined="2005-07-27"/>
+    <cosponsor id="300060" joined="2005-07-27"/>
+    <cosponsor id="300080" joined="2005-07-27"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2005-07-27" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S9198-9199" label="consideration"/>
+      <reference ref="CR S9199" label="text as passed"/>
+    </vote>
+    <action datetime="2005-07-28T11:37:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-07-28">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-07-28">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Economics and public finance"/>
+    <term name="Grants-in-aid"/>
+    <term name="Small business"/>
+    <term name="Women"/>
+    <term name="Women in business"/>
+  </subjects>
+  <amendments/>
+  <summary>7/27/2005--Passed Senate without amendment.
+Amends provisions of the Small Business Act relating to the women's business center program (a program of Small Business Administration (SBA) grants to establish centers to aid women-owned small businesses) to make any grant recipient whose five-year project ended in FY2004 eligible to apply for a grant to continue such a center in sustainability status for FY2005.</summary>
+</bill>

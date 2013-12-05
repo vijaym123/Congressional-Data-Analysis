@@ -1,0 +1,71 @@
+<bill session="109" type="s" number="3495" updated="2013-07-19T20:43:55-04:00">
+  <state datetime="2006-07-31">REPORTED</state>
+  <status>
+    <unknown datetime="2006-07-31"/>
+  </status>
+  <introduced datetime="2006-06-13"/>
+  <titles>
+    <title as="introduced" type="official">A bill to authorize the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of Vietnam.</title>
+  </titles>
+  <sponsor id="300005"/>
+  <cosponsors>
+    <cosponsor id="300007" joined="2006-07-19"/>
+    <cosponsor id="300019" joined="2006-06-13"/>
+    <cosponsor id="300030" joined="2006-07-11"/>
+    <cosponsor id="300050" joined="2006-06-13"/>
+    <cosponsor id="300060" joined="2006-06-13"/>
+    <cosponsor id="300070" joined="2006-06-13"/>
+    <cosponsor id="300071" joined="2006-06-13"/>
+    <cosponsor id="300075" joined="2006-06-13"/>
+    <cosponsor id="300090" joined="2006-06-13"/>
+    <cosponsor id="300094" joined="2006-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2006-06-13">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S5785"/>
+    </action>
+    <action state="REFERRED" datetime="2006-06-13">
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <reference ref="CR S5785" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2006-07-12">
+      <text>Committee on Finance. Hearings held. Hearings printed: S.Hrg. 109-940.</text>
+      <committee name="Committee on Finance"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-07-31">
+      <text>Committee on Finance. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Finance"/>
+    </calendar>
+    <action datetime="2006-07-31">
+      <text>Committee on Finance. Reported by Senator Grassley without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2006-07-31" calendar="Senate Legislative" under="General Orders" number="560">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 560.</text>
+    </calendar>
+    <action datetime="2006-08-30">
+      <text>By Senator Grassley from Committee on Finance filed written report under authority of the order of the Senate of 08/04/2006. Report No. 109-321.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="5602"/>
+    <bill relation="unknown" session="109" type="h" number="5602"/>
+    <bill relation="unknown" session="109" type="h" number="6346"/>
+    <bill relation="unknown" session="109" type="h" number="6406"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="East Asia"/>
+    <term name="Government operations and politics"/>
+    <term name="Most favored nation principle"/>
+    <term name="Normal trade relations"/>
+    <term name="President and foreign policy"/>
+    <term name="Vietnam"/>
+  </subjects>
+  <amendments/>
+  <summary>7/31/2006--Reported to Senate without amendment.
+Authorizes the President to extend nondiscriminatory treatment (normal trade relations treatment) to the products of Vietnam.</summary>
+</bill>

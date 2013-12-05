@@ -1,0 +1,131 @@
+<bill session="109" type="s" number="1165" updated="2013-07-19T20:23:39-04:00">
+  <state datetime="2006-05-25">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2006-05-25"/>
+  </status>
+  <introduced datetime="2005-06-06"/>
+  <titles>
+    <title as="introduced" type="short">James Campbell National Wildlife Refuge Expansion Act of 2005</title>
+    <title as="reported to house" type="short">James Campbell National Wildlife Refuge Expansion Act of 2005</title>
+    <title as="passed house" type="short">James Campbell National Wildlife Refuge Expansion Act of 2005</title>
+    <title as="reported to senate" type="short">James Campbell National Wildlife Refuge Expansion Act of 2005</title>
+    <title as="passed senate" type="short">James Campbell National Wildlife Refuge Expansion Act of 2005</title>
+    <title as="enacted" type="short">James Campbell National Wildlife Refuge Expansion Act of 2005</title>
+    <title as="introduced" type="official">A bill to provide for the expansion of the James Campbell National Wildlife Refuge, Honolulu County, Hawaii.</title>
+  </titles>
+  <sponsor id="300056"/>
+  <cosponsors>
+    <cosponsor id="300001" joined="2005-06-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-06-06">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S6103-6104"/>
+    </action>
+    <action state="REFERRED" datetime="2005-06-06">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <reference ref="CR S6104" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-11-17">
+      <text>Committee on Environment and Public Works. Ordered to be reported with an amendment favorably.</text>
+      <committee name="Committee on Environment and Public Works"/>
+    </calendar>
+    <action datetime="2005-12-08">
+      <text>Committee on Environment and Public Works. Reported by Senator Inhofe under authority of the order of the Senate of 11/18/2005 with amendments. With written report No. 109-191.</text>
+    </action>
+    <calendar datetime="2005-12-08" calendar="Senate Legislative" under="General Orders" number="303">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 303.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2005-12-16" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with amendments by Unanimous Consent.</text>
+      <reference ref="CR S13938-13939" label="consideration"/>
+      <reference ref="CR S13938-13939" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-12-17T14:02:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-12-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-12-17">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-12-21">
+      <text>Referred to the Subcommittee on Fisheries and Oceans.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-03-29">
+      <text>Subcommittee on Fisheries and Oceans Discharged.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-03-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar datetime="2006-03-29">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="2006-04-25T17:41:00-04:00">
+      <text>Reported by the Committee on Resources. H. Rept. 109-429.</text>
+    </action>
+    <calendar datetime="2006-04-25T17:41:00-04:00" calendar="Union" number="237">
+      <text>Placed on the Union Calendar, Calendar No. 237.</text>
+    </calendar>
+    <action datetime="2006-05-16T14:26:00-04:00">
+      <text>Mr. Radanovich moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-05-16T14:27:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2606-2607" label="consideration"/>
+    </action>
+    <action datetime="2006-05-16T14:27:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 1165.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2006-05-16T14:30:00-04:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2606" label="text"/>
+    </vote>
+    <action datetime="2006-05-16T14:30:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2006-05-16">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2006-05-18">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2006-05-25">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2006-05-25" type="public" number="109-225">
+      <text>Became Public Law No: 109-225.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSII15" subcommittee="Fisheries Conservation, Wildlife, and Oceans" name="House Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="2866"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Animals"/>
+    <term name="Biological diversity"/>
+    <term name="Birds"/>
+    <term name="Endangered species"/>
+    <term name="Environmental protection"/>
+    <term name="Habitat conservation"/>
+    <term name="Hawaii"/>
+    <term name="Land transfers"/>
+    <term name="Migratory bird conservation"/>
+    <term name="Water resources development"/>
+    <term name="Wetlands"/>
+    <term name="Wildlife refuges"/>
+  </subjects>
+  <amendments/>
+  <summary>5/25/2006--Public Law.
+James Campbell National Wildlife Refuge Expansion Act of 2005 - Expands the boundary of the James Campbell National Wildlife Refuge (Refuge) in Honolulu, Hawaii, to include approximately 1,100 acres of land. Authorizes the Secretary of the Interior to: (1) acquire such land; and (2) make minor modifications to the boundary of the Refuge to achieve U.S. Fish and Wildlife Service goals or to acquire property within the Refuge. Authorizes appropriations.</summary>
+</bill>

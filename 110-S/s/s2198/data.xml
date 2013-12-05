@@ -1,0 +1,66 @@
+<bill session="110" type="s" number="2198" updated="2013-07-19T22:39:46-04:00">
+  <state datetime="2007-10-30">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2007-10-30"/>
+  </status>
+  <introduced datetime="2007-10-18"/>
+  <titles>
+    <title as="passed senate" type="short">Andrew Larochelle God, Family, and Country Act of 2007</title>
+    <title as="introduced" type="official">A bill to require the Architect of the Capitol to permit the acknowledgment of God on flag certificates.</title>
+  </titles>
+  <sponsor id="400105"/>
+  <cosponsors>
+    <cosponsor id="300003" joined="2007-10-18"/>
+    <cosponsor id="300024" joined="2007-10-18"/>
+    <cosponsor id="300041" joined="2007-10-18"/>
+    <cosponsor id="300047" joined="2007-10-18"/>
+    <cosponsor id="300049" joined="2007-10-18"/>
+    <cosponsor id="300055" joined="2007-10-18"/>
+    <cosponsor id="300072" joined="2007-10-18"/>
+    <cosponsor id="300075" joined="2007-10-19"/>
+    <cosponsor id="300094" joined="2007-10-22"/>
+    <cosponsor id="300095" joined="2007-10-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2007-10-18">
+      <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2007-10-19" calendar="Senate Legislative" under="General Orders" number="430">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 430.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2007-10-30" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S13587" label="consideration"/>
+      <reference ref="CR S13587" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2007-10-31T11:31:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2007-10-31">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2007-10-31">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="h" number="3779"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Church and state"/>
+    <term name="Commemorations"/>
+    <term name="Flags"/>
+    <term name="Government operations and politics"/>
+    <term name="House of Representatives"/>
+    <term name="Members of Congress"/>
+    <term name="Religion"/>
+  </subjects>
+  <amendments/>
+  <summary>10/30/2007--Passed Senate without amendment.
+Andrew Larochelle God, Family, and Country Act of 2007 - Authorizes the Architect of the Capitol to permit the acknowledgment of God on flag certificates issued at the request of a Member of the United States House of Representatives or of the United States Senate.</summary>
+</bill>

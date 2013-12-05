@@ -1,0 +1,129 @@
+<bill session="110" type="h" number="1462" updated="2013-07-19T21:16:28-04:00">
+  <state datetime="2007-10-22T15:37:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-10-22T15:37:00-04:00"/>
+  </status>
+  <introduced datetime="2007-03-09"/>
+  <titles>
+    <title as="introduced" type="short">Platte River Recovery Implementation Program and Pathfinder Modification Authorization Act</title>
+    <title as="passed house" type="short">Platte River Recovery Implementation Program and Pathfinder Modification Authorization Act</title>
+    <title as="introduced" type="official">To authorize the Secretary of the Interior to participate in the implementation of the Platte River Recovery Implementation Program for Endangered Species in the Central and Lower Platte River Basin and to modify the Pathfinder Dam and Reservoir.</title>
+  </titles>
+  <sponsor id="400412"/>
+  <cosponsors>
+    <cosponsor id="400088" joined="2007-03-23"/>
+    <cosponsor id="400101" joined="2007-03-12"/>
+    <cosponsor id="400640" joined="2007-03-09"/>
+    <cosponsor id="412192" joined="2007-03-23"/>
+    <cosponsor id="400620" joined="2007-03-09"/>
+    <cosponsor id="412217" joined="2007-03-09"/>
+    <cosponsor id="400400" joined="2007-03-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2007-03-09">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E505"/>
+    </action>
+    <action state="REFERRED" datetime="2007-03-09">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-03-14">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-04-26">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-06-12">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-06-12">
+      <text>Forwarded by Subcommittee to Full Committee by Unanimous Consent .</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-10-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-10-10">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2007-10-22T13:21:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-393.</text>
+    </action>
+    <calendar datetime="2007-10-22T13:21:00-04:00" calendar="Union" number="247">
+      <text>Placed on the Union Calendar, Calendar No. 247.</text>
+    </calendar>
+    <action datetime="2007-10-22T15:33:00-04:00">
+      <text>Ms. Bordallo moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-10-22T15:33:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1462.</text>
+    </action>
+    <action datetime="2007-10-22T15:33:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11800-11802" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-10-22T15:37:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H11800-11801" label="text"/>
+    </vote>
+    <action datetime="2007-10-22T15:37:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-10-23">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <calendar datetime="2008-01-30">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2008-04-10">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. With written report No. 110-321.</text>
+    </action>
+    <calendar datetime="2008-04-10" calendar="Senate Legislative" under="General Orders" number="673">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 673.</text>
+    </calendar>
+    <action datetime="2008-06-11">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+      <reference ref="CR S5530" label="consideration"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="752"/>
+    <bill relation="unknown" session="110" type="s" number="752"/>
+    <bill relation="unknown" session="110" type="s" number="2739"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Colorado"/>
+    <term name="Construction costs"/>
+    <term name="Dams"/>
+    <term name="Economics and public finance"/>
+    <term name="Endangered species"/>
+    <term name="Environmental monitoring"/>
+    <term name="Environmental protection"/>
+    <term name="Federal aid to water resources development"/>
+    <term name="Habitat conservation"/>
+    <term name="Infrastructure"/>
+    <term name="Land transfers"/>
+    <term name="Nebraska"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Reservoirs"/>
+    <term name="Riparian ecology"/>
+    <term name="Rivers"/>
+    <term name="Watersheds"/>
+    <term name="Wyoming"/>
+  </subjects>
+  <amendments/>
+  <summary>10/22/2007--Passed House amended.
+Platte River Recovery Implementation Program and Pathfinder Modification Authorization Act - Title I: Platte River Recovery Implementation Program - (Sec. 102) Authorizes the Secretary of the Interior, acting through the Commissioner of Reclamation and in cooperation with the Governance Committee established under the Platte River Recovery Implementation Program Cooperative Agreement, to: (1) participate in such Program; (2) carry out any projects or activities that are designated for implementation during the Program's first 13 years (First Increment); (3) acquire interests in land, water, and facilities from willing sellers; (4) transfer acquired interests; and (5) accept or provide grants.(Sec. 104) Allows the Program to be modified before the completion of the First Increment if the Secretary and the states of Nebraska, Wyoming, and Colorado determine that the modifications are consistent with Program purposes.(Sec. 105) Declares that no action carried out under this Act, with respect to the acreage limitation provisions of the reclamation laws, shall: (1) be considered in determining whether a district has discharged its obligation to repay the construction cost of project facilities used to make irrigation water available for delivery to land in the district; (2) serve as the basis for reinstating acreage limitation provisions in a district that has completed payment of its construction obligations; or (3) serve as the basis for increasing the construction repayment obligation of the district, which would extend the period during which the acreage limitation provisions would apply. Declares that nothing in this Act creates federal water rights or requires the grant of water rights to federal entities.(Sec. 106) Authorizes appropriations.(Sec. 107) Terminates the Secretary's authority to implement the First Increment on September 30, 2020.Tittle II: Pathfinder Modification Project - (Sec. 201) Authorizes the Secretary, acting through the Commissioner, to: (1) modify the Pathfinder Dam and Reservoir; and (2) enter one or more agreements with the state of Wyoming to implement the Pathfinder Modification Project. (Sec. 202) Authorizes the capacity of the Pathfinder Reservoir to be used for municipal, environmental, and other purposes, as described in Appendix F to the final settlement stipulation in Nebraska v. Wyoming.</summary>
+</bill>

@@ -1,0 +1,71 @@
+<bill session="109" type="s" number="443" updated="2013-07-19T20:17:13-04:00">
+  <state datetime="2005-10-25">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-10-25"/>
+  </status>
+  <introduced datetime="2005-02-17"/>
+  <titles>
+    <title as="introduced" type="short">Antitrust Criminal Investigative Improvements Act of 2005</title>
+    <title as="reported to senate" type="short">Antitrust Criminal Investigative Improvements Act of 2005</title>
+    <title as="passed senate" type="short">Antitrust Criminal Investigative Improvements Act of 2005</title>
+    <title as="introduced" type="official">A bill to improve the investigation of criminal antitrust offenses.</title>
+  </titles>
+  <sponsor id="300033"/>
+  <cosponsors>
+    <cosponsor id="300061" joined="2005-02-17"/>
+    <cosponsor id="300065" joined="2005-02-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-02-17">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1656-1657"/>
+    </action>
+    <action state="REFERRED" datetime="2005-02-17">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2005-10-20">
+      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2005-10-20">
+      <text>Committee on the Judiciary. Reported by Senator Specter without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2005-10-20" calendar="Senate Legislative" under="General Orders" number="250">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 250.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2005-10-25" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11850" label="consideration"/>
+      <reference ref="CR S11850" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-10-26T11:16:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-10-26">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-10-26">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="911"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Antitrust law"/>
+    <term name="Commerce"/>
+    <term name="Electronic surveillance"/>
+    <term name="Law"/>
+    <term name="Monopolies"/>
+    <term name="Restrictive trade practices"/>
+    <term name="Warrants (Law)"/>
+  </subjects>
+  <amendments/>
+  <summary>10/25/2005--Passed Senate without amendment.
+Antitrust Criminal Investigative Improvements Act of 2005 - Amends the federal criminal code to make prohibitions against illegal restraints of trade or commerce, illegal monopolizing of trade or commerce, and illegal restraints of trade or commerce in the territories or the District of Columbia under the Sherman Act predicate offenses for an order authorizing the interception of wire or oral communications.</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="109" type="s" number="84" updated="2013-07-19T20:14:11-04:00">
+  <state datetime="2005-01-24">REFERRED</state>
+  <status>
+    <introduced datetime="2005-01-24"/>
+  </status>
+  <introduced datetime="2005-01-24"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend the Internal Revenue Code of 1986 to exempt certain sightseeing flights from taxes on air transportation.</title>
+  </titles>
+  <sponsor id="300056"/>
+  <cosponsors>
+    <cosponsor id="300001" joined="2005-02-28"/>
+    <cosponsor id="300094" joined="2005-02-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-01-24">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S255"/>
+    </action>
+    <action state="REFERRED" datetime="2005-01-24">
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <reference ref="CR S255-256" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="330"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Aircraft"/>
+    <term name="Commerce"/>
+    <term name="Excise tax"/>
+    <term name="Tax exemption"/>
+    <term name="Tourism"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>1/24/2005--Introduced.
+Amends Internal Revenue Code provisions exempting certain small aircraft on nonestablished lines from air transportation taxes to also exempt aircraft operated for the sole purpose of sightseeing.</summary>
+</bill>

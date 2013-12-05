@@ -1,0 +1,65 @@
+<bill session="109" type="s" number="2373" updated="2013-07-19T20:34:06-04:00">
+  <state datetime="2006-12-07">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2006-12-07"/>
+  </status>
+  <introduced datetime="2006-03-06"/>
+  <titles>
+    <title as="introduced" type="short">City of Green River Land Conveyance Act</title>
+    <title as="reported to senate" type="short">City of Green River Land Conveyance Act</title>
+    <title as="passed senate" type="short">City of Green River Land Conveyance Act</title>
+    <title as="introduced" type="official">A bill to provide for the sale of approximately 132 acres of public land to the City of Green River, Wyoming, at fair market value.</title>
+  </titles>
+  <sponsor id="300097"/>
+  <cosponsors>
+    <cosponsor id="300041" joined="2006-03-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-03-06">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2006-03-29">
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held. With printed Hearing: S.Hrg. 109-444.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-05-24">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2006-07-31">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Domenici with amendments. With written report No. 109-307.</text>
+    </action>
+    <calendar datetime="2006-07-31" calendar="Senate Legislative" under="General Orders" number="550">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 550.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2006-12-07" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with amendments by Unanimous Consent.</text>
+      <reference ref="CR S11537-11543" label="consideration"/>
+      <reference ref="CR S11540" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2006-12-08T10:17:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-12-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-12-08T12:43:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG03" subcommittee="Public Lands and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="2373"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Land transfers"/>
+    <term name="Wyoming"/>
+  </subjects>
+  <amendments/>
+  <summary>12/7/2006--Passed Senate amended.
+City of Green River Land Conveyance Act - Directs the Secretary of the Interior, if the City of Green River, Wyoming, submits an offer to the Secretary to acquire specified public land for the appraised value, to convey such land to the City. Requires the City to pay: (1) to the Secretary an amount equal to the appraised value of the public land, as determined under this Act; and (2) any cost associated with the conveyance of such land. Provides for the disposition of the proceeds from such land sale. Prohibits such conveyance from requiring an amendment to the Green River Resource Management Plan. Withdraws such public land from: (1) all forms of entry, appropriation, or disposal under the public land laws, including the mining laws; (2) location, entry, and patenting under the mining laws; and (3) operation of the mineral leasing, mineral materials, and geothermal leasing laws.</summary>
+</bill>

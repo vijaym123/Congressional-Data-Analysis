@@ -1,0 +1,45 @@
+<bill session="109" type="h" number="4494" updated="2013-07-19T19:44:00-04:00">
+  <state datetime="2005-12-08">REFERRED</state>
+  <status>
+    <introduced datetime="2005-12-08"/>
+  </status>
+  <introduced datetime="2005-12-08"/>
+  <titles>
+    <title as="introduced" type="official">To repeal the provision of law that provides automatic pay adjustments for Members of Congress.</title>
+  </titles>
+  <sponsor id="400321"/>
+  <cosponsors>
+    <cosponsor id="400628" joined="2006-02-14"/>
+    <cosponsor id="400076" joined="2005-12-15"/>
+    <cosponsor id="400123" joined="2006-06-19"/>
+    <cosponsor id="400153" joined="2006-06-21"/>
+    <cosponsor id="400244" joined="2005-12-15"/>
+    <cosponsor id="400255" joined="2005-12-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-12-08">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2005-12-08">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2005-12-08">
+      <text>Referred to House Government Reform</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="s" number="60"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional salaries"/>
+    <term name="Cost of living adjustments"/>
+  </subjects>
+  <amendments/>
+  <summary>12/8/2005--Introduced.
+Amends the Legislative Reorganization Act of 1946 to eliminate automatic pay adjustments for Members of Congress.</summary>
+</bill>

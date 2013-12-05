@@ -1,0 +1,117 @@
+<bill session="110" type="h" number="404" updated="2013-07-19T21:07:17-04:00">
+  <state datetime="2007-07-23T19:15:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-07-23T19:15:00-04:00"/>
+  </status>
+  <introduced datetime="2007-01-11"/>
+  <titles>
+    <title as="introduced" type="short">Federal Customer Service Enhancement Act</title>
+    <title as="passed house" type="short">Federal Customer Service Enhancement Act</title>
+    <title as="reported to senate" type="short">Federal Customer Service Enhancement Act of 2008</title>
+    <title as="introduced" type="official">To require the establishment of customer service standards for Federal agencies.</title>
+  </titles>
+  <sponsor id="400657"/>
+  <cosponsors>
+    <cosponsor id="400068" joined="2007-01-23"/>
+    <cosponsor id="400116" joined="2007-06-28"/>
+    <cosponsor id="400643" joined="2007-07-19"/>
+    <cosponsor id="400154" joined="2007-04-17"/>
+    <cosponsor id="400260" joined="2007-01-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-11">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2007-03-23">
+      <text>Referred to the Subcommittee on Government Management, Organization, and Procurement.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <action datetime="2007-05-09">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <action datetime="2007-05-09">
+      <text>Forwarded by Subcommittee to Full Committee in the Nature of a Substitute by Voice Vote .</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <action datetime="2007-06-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-06-12">
+      <text>Ordered to be Reported in the Nature of a Substitute by Voice Vote.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2007-07-23T15:59:00-04:00">
+      <text>Mr. Towns moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-07-23T16:00:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8234-8236" label="consideration"/>
+    </action>
+    <action datetime="2007-07-23T16:00:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 404.</text>
+    </action>
+    <action datetime="2007-07-23T16:11:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2007-07-23T18:51:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H8253-8254" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-07-23T19:15:00-04:00" how="roll" result="pass" roll="687" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 0 (Roll no. 687).</text>
+      <reference ref="CR H8234-8235" label="text as passed in House"/>
+    </vote>
+    <action datetime="2007-07-23T19:15:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-07-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2007-08-22">
+      <text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Oversight of Government Management, the Federal Workforce, and the District of Columbia.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+    <calendar datetime="2008-07-30">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2008-10-01">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="2008-10-01" calendar="Senate Legislative" under="General Orders" number="1107">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1107.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+    <committee activity="Referral, Markup, Reporting" code="HSGO24" subcommittee="Government Management, Organization, and Procurement" name="House Oversight and Government Reform"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSGA03" subcommittee="Oversight of Government Management, the Federal Workforce, and the District of Columbia" name="Senate Homeland Security and Governmental Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative procedure"/>
+    <term name="Awards, medals, prizes"/>
+    <term name="Commemorations"/>
+    <term name="Commerce"/>
+    <term name="Congress"/>
+    <term name="Congressional agencies"/>
+    <term name="Congressional investigations"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Customer service"/>
+    <term name="Government Accountability Office (GAO)"/>
+    <term name="Government paperwork"/>
+    <term name="Government publicity"/>
+    <term name="Law"/>
+    <term name="Office of Management and Budget"/>
+    <term name="Performance measurement"/>
+    <term name="Standards"/>
+    <term name="Surveys"/>
+  </subjects>
+  <amendments/>
+  <summary>10/1/2008--Reported to Senate amended.
+Federal Customer Service Enhancement Act of 2008 - Requires the Director of the Office of Management and Budget (OMB) to prescribe guidance that establishes best practices to: (1) ensure that federal agencies are providing high quality customer service; and (2) monitor customer service quality at federal agencies. Requires customer service standards to take into account: (1) existing agency standards; (2) information collected from agency customers; and (3) approaches for government-wide citizen contact actions described in the Citizens Service Levels Interagency Committee Report by the General Services Administration (GSA) or any subsequent report. Requires the Director to: (1) prescribe guidance governing the implementation or updating of customer service standards and performance measures of agencies using such best practices and any specific customer service related principles applicable to individual agencies; and (2) issue an annual report on the success of agencies in meeting the standards for each of the five years after the date of enactment. Requires each agency to: (1) implement standards and performance measures required by this Act; (2) submit information OMB may require on its customer service in relation to such standards and measures; and (3) ensure that standards are continuously improved and that appropriate contact information regarding customer service inquiries is available. Requires the standards to be publicly available on the website of each agency. Directs the Comptroller General to report to specified congressional committees on: (1) whether agencies are implementing the customer service standards; (2) whether there is an increase in overall quality in customer service; and (3) recommendations to improve performance measures and standards for customer service. Authorizes the report to be used by Congress and the Director to update performance measures for customer service. Authorizes the head of a federal agency to establish a program to pay cash awards to employees for demonstrated excellence in customer service.</summary>
+</bill>

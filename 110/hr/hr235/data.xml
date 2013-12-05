@@ -1,0 +1,76 @@
+<bill session="110" type="h" number="235" updated="2013-07-19T21:05:50-04:00">
+  <state datetime="2007-02-06T13:12:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-02-06T13:12:00-05:00"/>
+  </status>
+  <introduced datetime="2007-01-04"/>
+  <titles>
+    <title as="introduced" type="official">To allow for the renegotiation of the payment schedule of contracts between the Secretary of the Interior and the Redwood Valley County Water District, and for other purposes.</title>
+  </titles>
+  <sponsor id="400403"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-04">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-02-06T13:09:00-05:00">
+      <text>Mrs. Napolitano moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-02-06T13:09:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1225" label="consideration"/>
+    </action>
+    <action datetime="2007-02-06T13:09:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 235.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-02-06T13:12:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H1225" label="text"/>
+    </vote>
+    <action datetime="2007-02-06T13:13:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-02-07">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2007-04-25">
+      <text>Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 110-86.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar datetime="2007-05-23">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2007-06-28">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-117.</text>
+    </action>
+    <calendar datetime="2007-06-28" calendar="Senate Legislative" under="General Orders" number="250">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 250.</text>
+    </calendar>
+    <action datetime="2008-06-11">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+      <reference ref="CR S5530" label="consideration"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG07" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="1112"/>
+    <bill relation="unknown" session="110" type="s" number="2739"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="California"/>
+    <term name="Collection of accounts"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to water resources development"/>
+    <term name="Government lending"/>
+    <term name="Water districts"/>
+  </subjects>
+  <amendments/>
+  <summary>6/28/2007--Reported to Senate without amendment.
+Authorizes the Redwood Valley County Water District, California, to enter into additional non-federal obligations necessary to finance procurement of dedicated water rights and improvements needed, if the Secretary of the Interior and the District, as of January 1, 2006, have not renegotiated the schedule of payments for loans made by the United States to the District. Requires: (1) the renegotiated schedule of payments to commence when such additional obligations have been financially satisfied by the District; and (2) the date of the initial payment by the District to the United States to be regarded as the start of the repayment period and the time upon which any interest shall first be computed and assessed under the Small Reclamation Projects Act of 1956.</summary>
+</bill>

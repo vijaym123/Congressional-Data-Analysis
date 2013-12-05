@@ -1,0 +1,77 @@
+<bill session="109" type="sc" number="74" updated="2013-07-19T20:12:59-04:00">
+  <state datetime="2005-12-22T16:33:00-05:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2005-12-22T16:33:00-05:00"/>
+  </status>
+  <introduced datetime="2005-12-21"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution correcting the enrollment of H.R. 2863.</title>
+  </titles>
+  <sponsor id="300018"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2005-12-21">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2005-12-21" how="roll" result="pass" roll="365" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Yea-Nay Vote. 48 - 45. Record Vote Number: 365.</text>
+      <reference ref="CR S14233-14240" label="consideration"/>
+      <reference ref="CR S14240" label="text as passed Senate"/>
+      <reference ref="CR 12/22/2005 S14337" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2005-12-22T16:03:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-12-22T16:09:00-05:00">
+      <text>Mr. Wolf asked unanimous consent to take from the Speaker's table and consider.</text>
+      <reference ref="CR H13181-13183" label="consideration"/>
+    </action>
+    <action datetime="2005-12-22T16:09:00-05:00">
+      <text>RESERVATION OF OBJECTION - Mr. Obey raised the right to object to the consideration of S. Con. Res. 74. Mr. Obey later withdrew his objection.</text>
+    </action>
+    <action datetime="2005-12-22T16:26:00-05:00">
+      <text>RESERVATION OF OBJECTION - Mr. Fitzpatrick raised the right to object to the consideration of S. Con. Res. 74. Mr. Fitzpatrick later withdrew his objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2005-12-22T16:33:00-05:00" how="without objection" result="pass" type="vote2" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H13183" label="text"/>
+    </vote>
+    <action datetime="2005-12-22T16:33:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-12-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="2863"/>
+    <bill relation="unknown" session="109" type="h" number="2863"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Alabama"/>
+    <term name="Alaska"/>
+    <term name="Animals"/>
+    <term name="Appropriations"/>
+    <term name="Armed forces and national security"/>
+    <term name="Defense budgets"/>
+    <term name="Disaster relief"/>
+    <term name="Economics and public finance"/>
+    <term name="Energy"/>
+    <term name="Environmental protection"/>
+    <term name="Floods"/>
+    <term name="Hurricane aftermath legislation"/>
+    <term name="Hurricanes"/>
+    <term name="Legislation"/>
+    <term name="Louisiana"/>
+    <term name="Mississippi"/>
+    <term name="Oil and gas leases"/>
+    <term name="Oil well drilling"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Wildlife refuges"/>
+  </subjects>
+  <amendments/>
+  <summary>12/22/2005--Passed House without amendment.
+Directs the Clerk of the House of the Representatives to make corrections in the enrollment of H.R. 2863 (Department of Defense Appropriations Act, 2006) by striking Division C, the American Energy Independence and Security Act of 2005 (allowing oil well drilling in the Arctic National Wildlife Refuge (ANWR)) and Division D, the Distribution of Revenues and Disaster Assistance.</summary>
+</bill>

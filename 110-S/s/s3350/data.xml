@@ -1,0 +1,50 @@
+<bill session="110" type="s" number="3350" updated="2013-07-19T22:50:58-04:00">
+  <state datetime="2008-09-23">REPORTED</state>
+  <status>
+    <unknown datetime="2008-09-23"/>
+  </status>
+  <introduced datetime="2008-07-28"/>
+  <titles>
+    <title as="introduced" type="official">A bill to provide that claims of the United States to certain documents relating to Franklin Delano Roosevelt shall be treated as waived and relinquished in certain circumstances.</title>
+  </titles>
+  <sponsor id="300087"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2008-07-28">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2008-09-10">
+      <text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-09-23">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2008-09-24">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2008-09-24" calendar="Senate Legislative" under="General Orders" number="1072">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1072.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSGA09" subcommittee="Federal Financial Management, Government Information, Federal Services, and International Security" name="Senate Homeland Security and Governmental Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="h" number="6669"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Archives"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Claims"/>
+    <term name="History"/>
+    <term name="Presidential records"/>
+    <term name="Roosevelt Administration"/>
+  </subjects>
+  <amendments/>
+  <summary>9/24/2008--Reported to Senate without amendment.
+Requires any claim of the United States to certain property relating to Franklin Delano Roosevelt, his family, or staff to be treated as having been waived and relinquished on the day before any person makes a gift of such property to the National Archives and Records Administration (NARA). Describes such property as any part of the collection of documents, papers, and memorabilia relating to Roosevelt or any member of his family or staff that was originally in the possession of Grace Tully, that was retained by her at the time of her death, and that was included in her estate.</summary>
+</bill>

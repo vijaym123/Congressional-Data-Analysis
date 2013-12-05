@@ -1,0 +1,115 @@
+<bill session="109" type="h" number="5187" updated="2013-07-19T19:50:07-04:00">
+  <state datetime="2006-10-06">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2006-10-06"/>
+  </status>
+  <introduced datetime="2006-04-25"/>
+  <titles>
+    <title as="introduced" type="official">To amend the John F. Kennedy Center Act to authorize additional appropriations for the John F. Kennedy Center for the Performing Arts for fiscal year 2007.</title>
+  </titles>
+  <sponsor id="400299"/>
+  <cosponsors>
+    <cosponsor id="400440" joined="2006-04-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-04-25">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2006-04-26">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2006-05-17">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-05-17">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2006-05-17">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2006-06-20T16:53:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 109-514.</text>
+    </action>
+    <calendar datetime="2006-06-20T16:53:00-04:00" calendar="Union" number="288">
+      <text>Placed on the Union Calendar, Calendar No. 288.</text>
+    </calendar>
+    <action datetime="2006-07-25T15:20:00-04:00">
+      <text>Mr. Shuster moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-07-25T15:20:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5761-5762" label="consideration"/>
+    </action>
+    <action datetime="2006-07-25T15:20:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5187.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-07-25T15:25:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H5761" label="text"/>
+    </vote>
+    <action datetime="2006-07-25T15:25:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-07-26">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2006-08-04">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <calendar datetime="2006-09-13">
+      <text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Environment and Public Works"/>
+    </calendar>
+    <action datetime="2006-09-21">
+      <text>Committee on Environment and Public Works. Reported by Senator Inhofe without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2006-09-21" calendar="Senate Legislative" under="General Orders" number="627">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 627.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="2006-09-26" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S10218-10219" label="consideration"/>
+    </vote>
+    <action datetime="2006-09-26">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2006-09-26">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2006-09-29">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2006-10-06">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2006-10-06" type="public" number="109-306">
+      <text>Became Public Law No: 109-306.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Arts, culture, religion"/>
+    <term name="Authorization"/>
+    <term name="Construction costs"/>
+    <term name="Cultural centers"/>
+    <term name="District of Columbia"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to the arts and humanities"/>
+    <term name="Government operations and politics"/>
+    <term name="Maintenance and repair"/>
+    <term name="Security measures"/>
+    <term name="Smithsonian Institution"/>
+  </subjects>
+  <amendments/>
+  <summary>10/6/2006--Public Law.
+Amends the John F. Kennedy Center Act to authorize additional appropriations for FY2007 to the Board of Trustees of the John F. Kennedy Center for the Performing Arts for: (1) maintenance, repair, and security; and (2) capital projects.</summary>
+</bill>

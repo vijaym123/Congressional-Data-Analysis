@@ -1,0 +1,91 @@
+<bill session="109" type="s" number="1231" updated="2013-07-19T20:24:13-04:00">
+  <state datetime="2005-12-12">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-12-12"/>
+  </status>
+  <introduced datetime="2005-06-14"/>
+  <titles>
+    <title as="introduced" type="short">National Fund for Excellence in American Indian Education Amendments Act of 2005</title>
+    <title as="reported to senate" type="short">National Fund for Excellence in American Indian Education Amendments Act of 2005</title>
+    <title as="passed senate" type="short">National Fund for Excellence in American Indian Education Amendments Act of 2005</title>
+    <title as="introduced" type="official">A bill to amend the Indian Self-Determination and Education Assistance Act to modify provisions relating to the National Fund for Excellence in American Indian Education.</title>
+  </titles>
+  <sponsor id="300071"/>
+  <cosponsors>
+    <cosponsor id="300037" joined="2005-06-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-06-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S6483"/>
+    </action>
+    <action state="REFERRED" datetime="2005-06-14">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+      <reference ref=" CR S6483" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-06-29">
+      <text>Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Indian Affairs"/>
+    </calendar>
+    <action datetime="2005-07-29">
+      <text>Committee on Indian Affairs. Reported by Senator McCain with an amendment in the nature of a substitute. With written report No. 109-118.</text>
+    </action>
+    <calendar datetime="2005-07-29" calendar="Senate Legislative" under="General Orders" number="188">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 188.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2005-12-12" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S13455-13456" label="consideration"/>
+      <reference ref="CR S13456" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-12-13T12:31:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-12-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-12-13T22:47:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2005-12-14">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2005-12-14">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2005-12-14">
+      <text>Referred to House Resources</text>
+    </action>
+    <action datetime="2006-03-27">
+      <text>Referred to the Subcommittee on Education Reform.</text>
+      <committee name="House Education and the Workforce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral, Markup, Reporting"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED14" subcommittee="Education Reform" name="House Education and the Workforce"/>
+    <committee code="HSII" name="House Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="4936"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Authorization"/>
+    <term name="Cabinet officers"/>
+    <term name="Chief executive officers"/>
+    <term name="Department of the Interior"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Foundations"/>
+    <term name="Government operations and politics"/>
+    <term name="Indian education"/>
+    <term name="Minorities"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>12/12/2005--Passed Senate amended.
+National Fund for Excellence in American Indian Education Amendments Act of 2005 - Amends the Indian Self-Determination and Education Assistance Act with respect to the National Fund for Excellence in American Indian Education (Foundation). Requires the Foundation Board to appoint a chief operating officer for the Foundation separate from the Secretary of the Interior (who currently acts as chief operating officer). Places limitations on the administrative costs of the Foundation. Authorizes appropriations for FY2007-FY2009. Authorizes the Secretary to provide funds to pay the operating expenses of the Foundation.</summary>
+</bill>

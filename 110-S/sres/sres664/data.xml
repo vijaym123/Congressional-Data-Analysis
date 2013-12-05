@@ -1,0 +1,46 @@
+<bill session="110" type="sr" number="664" updated="2013-07-19T22:18:43-04:00">
+  <state datetime="2008-12-11">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2008-12-11"/>
+  </status>
+  <introduced datetime="2008-09-17"/>
+  <titles>
+    <title as="introduced" type="official">A resolution celebrating the centennial of Union Station in Washington, District of Columbia.</title>
+  </titles>
+  <sponsor id="300035"/>
+  <cosponsors>
+    <cosponsor id="300023" joined="2008-10-01"/>
+    <cosponsor id="300049" joined="2008-09-24"/>
+    <cosponsor id="300064" joined="2008-09-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-09-17">
+      <text>Referred to the Committee on Environment and Public Works.</text>
+      <reference ref="CR S8955-8956" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2008-12-11">
+      <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.</text>
+      <reference ref="CR S10957" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2008-12-11" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S10957" label="text as passed Senate"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="hr" number="1497"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="District of Columbia"/>
+    <term name="Railroad terminals"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>12/11/2008--Passed Senate without amendment.
+Celebrates the centennial of Union Station in Washington, DC. Encourages people of the United States to continue to visit and learn about Union Station and its storied history.</summary>
+</bill>

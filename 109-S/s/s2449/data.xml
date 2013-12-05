@@ -1,0 +1,44 @@
+<bill session="109" type="s" number="2449" updated="2013-07-19T20:34:45-04:00">
+  <state datetime="2006-03-16">REFERRED</state>
+  <status>
+    <introduced datetime="2006-03-16"/>
+  </status>
+  <introduced datetime="2006-03-16"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend title 10, United States Code, to reduce the age for receipt of military retired pay for nonregular service from 60 years of age to 55 years of age.</title>
+  </titles>
+  <sponsor id="300060"/>
+  <cosponsors>
+    <cosponsor id="300032" joined="2006-03-16"/>
+    <cosponsor id="300038" joined="2006-03-16"/>
+    <cosponsor id="300058" joined="2006-03-16"/>
+    <cosponsor id="300064" joined="2006-03-16"/>
+    <cosponsor id="400272" joined="2006-03-16"/>
+    <cosponsor id="300073" joined="2006-03-16"/>
+    <cosponsor id="300082" joined="2006-03-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2006-03-16">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2338"/>
+    </action>
+    <action state="REFERRED" datetime="2006-03-16">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+      <reference ref=" CR S2338" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="s" number="639"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Labor and employment"/>
+    <term name="Military pensions"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/2006--Introduced.
+Reduces from 60 to 55 the minimum age for the receipt of military retired pay for non-regular service.</summary>
+</bill>

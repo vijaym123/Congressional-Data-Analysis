@@ -1,0 +1,41 @@
+<bill session="109" type="h" number="4051" updated="2013-07-19T19:40:09-04:00">
+  <state datetime="2005-10-07">REFERRED</state>
+  <status>
+    <introduced datetime="2005-10-07"/>
+  </status>
+  <introduced datetime="2005-10-07"/>
+  <titles>
+    <title as="introduced" type="official">To establish the policy of the United States on the size of the land-based intercontinental ballistic missile force.</title>
+  </titles>
+  <sponsor id="400335"/>
+  <cosponsors>
+    <cosponsor id="400029" joined="2005-10-07"/>
+    <cosponsor id="400088" joined="2005-10-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-10-07">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2005-10-18">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="1931"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congress"/>
+    <term name="Congress and military policy"/>
+    <term name="Intercontinental ballistic missiles"/>
+    <term name="Military posture"/>
+  </subjects>
+  <amendments/>
+  <summary>10/7/2005--Introduced.
+States that it is the policy of the United States to maintain a land-based intercontinental ballistic missile force of 500 Minuteman III missiles.</summary>
+</bill>

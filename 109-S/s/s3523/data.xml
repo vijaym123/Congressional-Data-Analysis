@@ -1,0 +1,69 @@
+<bill session="109" type="s" number="3523" updated="2013-07-19T20:44:09-04:00">
+  <state datetime="2006-09-30">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2006-09-30"/>
+  </status>
+  <introduced datetime="2006-06-15"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend the Internal Revenue Code of 1986 to provide that the Tax Court may review claims for equitable innocent spouse relief and to suspend the running on the period of limitations while such claims are pending.</title>
+  </titles>
+  <sponsor id="300043"/>
+  <cosponsors>
+    <cosponsor id="300009" joined="2006-07-27"/>
+    <cosponsor id="300027" joined="2006-09-28"/>
+    <cosponsor id="300062" joined="2006-06-15"/>
+    <cosponsor id="300091" joined="2006-09-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2006-06-15">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S5962-5963"/>
+    </action>
+    <action state="REFERRED" datetime="2006-06-15">
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <reference ref="CR S5963" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2006-09-30">
+      <text>Senate Committee on Finance discharged by Unanimous Consent.</text>
+      <reference ref="CR 9/29/2006 S10795" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2006-09-30" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR 9/29/2006 S10795" label="text"/>
+    </vote>
+    <action datetime="2006-10-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-11-09T14:08:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-11-09T15:39:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2006-11-13">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, Discharged"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="6111"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Divorce"/>
+    <term name="Families"/>
+    <term name="Income tax"/>
+    <term name="Jurisdiction"/>
+    <term name="Law"/>
+    <term name="Separation (Law)"/>
+    <term name="Tax administration"/>
+    <term name="Tax courts"/>
+    <term name="Tax returns"/>
+  </subjects>
+  <amendments/>
+  <summary>9/30/2006--Passed Senate without amendment.
+Amends the Internal Revenue Code to grant jurisdiction to the U.S. Tax Court to review taxpayer petitions for equitable relief from joint and several tax liability (i.e., innocent spouse relief).</summary>
+</bill>

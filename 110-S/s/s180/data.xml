@@ -1,0 +1,58 @@
+<bill session="110" type="s" number="180" updated="2013-07-19T22:21:54-04:00">
+  <state datetime="2007-01-04">REFERRED</state>
+  <status>
+    <introduced datetime="2007-01-04"/>
+  </status>
+  <introduced datetime="2007-01-04"/>
+  <titles>
+    <title as="introduced" type="official">A bill to provide a permanent deduction for State and local general sales taxes.</title>
+  </titles>
+  <sponsor id="300054"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2007-01-04"/>
+    <cosponsor id="412248" joined="2007-04-17"/>
+    <cosponsor id="300027" joined="2007-01-04"/>
+    <cosponsor id="300040" joined="2007-01-04"/>
+    <cosponsor id="300041" joined="2007-01-04"/>
+    <cosponsor id="400621" joined="2007-01-04"/>
+    <cosponsor id="300094" joined="2007-01-04"/>
+    <cosponsor id="400546" joined="2007-01-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2007-01-04">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S167"/>
+    </action>
+    <action state="REFERRED" datetime="2007-01-04">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="h" number="60"/>
+    <bill relation="unknown" session="110" type="h" number="411"/>
+    <bill relation="unknown" session="110" type="h" number="3592"/>
+    <bill relation="unknown" session="110" type="h" number="3680"/>
+    <bill relation="unknown" session="110" type="h" number="3906"/>
+    <bill relation="unknown" session="110" type="h" number="4086"/>
+    <bill relation="unknown" session="110" type="h" number="5242"/>
+    <bill relation="unknown" session="110" type="h" number="5744"/>
+    <bill relation="identical" session="110" type="s" number="143"/>
+    <bill relation="unknown" session="110" type="s" number="180"/>
+    <bill relation="unknown" session="110" type="s" number="2233"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Government operations and politics"/>
+    <term name="Income tax"/>
+    <term name="Local taxation"/>
+    <term name="Sales tax"/>
+    <term name="State taxation"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>1/4/2007--Introduced.
+Amends the Internal Revenue Code to make permanent the tax deduction for state and local general sales taxes.</summary>
+</bill>

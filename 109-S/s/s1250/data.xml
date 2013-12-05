@@ -1,0 +1,90 @@
+<bill session="109" type="s" number="1250" updated="2013-07-19T20:24:24-04:00">
+  <state datetime="2005-09-09">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-09-09"/>
+  </status>
+  <introduced datetime="2005-06-15"/>
+  <titles>
+    <title as="introduced" type="official">A bill to reauthorize the Great Ape Conservation Act of 2000.</title>
+  </titles>
+  <sponsor id="300057"/>
+  <cosponsors>
+    <cosponsor id="300020" joined="2005-06-15"/>
+    <cosponsor id="300038" joined="2005-06-16"/>
+    <cosponsor id="300064" joined="2005-06-15"/>
+    <cosponsor id="300067" joined="2005-06-15"/>
+    <cosponsor id="300076" joined="2005-06-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-06-15">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S6661-6662"/>
+    </action>
+    <action state="REFERRED" datetime="2005-06-15">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <reference ref="CR S6662" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-07-20">
+      <text>Committee on Environment and Public Works. Ordered to be reported with an amendment favorably.</text>
+      <committee name="Committee on Environment and Public Works"/>
+    </calendar>
+    <action datetime="2005-08-31">
+      <text>Committee on Environment and Public Works. Reported by Senator Inhofe under authority of the order of the Senate of 07/29/2005 with amendments. With written report No. 109-123.</text>
+    </action>
+    <calendar datetime="2005-08-31" calendar="Senate Legislative" under="General Orders" number="194">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 194.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2005-09-09" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with amendments by Unanimous Consent.</text>
+      <reference ref="CR S9889-9890" label="consideration"/>
+      <reference ref="CR S9889" label="text of measure as reported in Senate"/>
+      <reference ref="CR S9890" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-09-09">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-09-12T12:04:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-09-12">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-09-14">
+      <text>Referred to the Subcommittee on Fisheries and Oceans.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+    <committee code="HSII" name="House Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII15" subcommittee="Fisheries Conservation, Wildlife, and Oceans" name="House Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="2693"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Agriculture and food"/>
+    <term name="Animal diseases"/>
+    <term name="Authorization"/>
+    <term name="Disasters"/>
+    <term name="Economic assistance"/>
+    <term name="Economics and public finance"/>
+    <term name="Emergency management"/>
+    <term name="Endangered species"/>
+    <term name="Environmental protection"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Government trust funds"/>
+    <term name="Habitat conservation"/>
+    <term name="International affairs"/>
+    <term name="International environmental cooperation"/>
+    <term name="Meat"/>
+    <term name="Primates"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Treaties"/>
+    <term name="Wildlife conservation"/>
+  </subjects>
+  <amendments/>
+  <summary>9/9/2005--Passed Senate amended.
+Amends the Great Ape Conservation Act of 2000 to: (1) authorize the Secretary of the Interior to approve projects to address the root causes of threats to great apes in range states; (2) grant the Secretary discretion in convening the expert panel established under the Act to identify conservation needs for the great ape; (3) exempt such panel from requirements of the Federal Advisory Committee Act; (4) increase funding for administrative expenses from the Great Ape Conservation Fund; and (5) increase and extend through FY2010 the authorization of appropriations to such Fund.</summary>
+</bill>

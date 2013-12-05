@@ -1,0 +1,75 @@
+<bill session="109" type="hc" number="163" updated="2013-07-19T20:03:33-04:00">
+  <state datetime="2005-06-22">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2005-06-22"/>
+  </status>
+  <introduced datetime="2005-05-23"/>
+  <titles>
+    <title as="introduced" type="official">Honoring the Sigma Chi Fraternity on the occasion of its 150th Anniversary.</title>
+  </titles>
+  <sponsor id="400147"/>
+  <cosponsors>
+    <cosponsor id="400129" joined="2005-05-23"/>
+    <cosponsor id="400189" joined="2005-05-23"/>
+    <cosponsor id="400192" joined="2005-05-23"/>
+    <cosponsor id="400307" joined="2005-05-23"/>
+    <cosponsor id="400319" joined="2005-05-23"/>
+    <cosponsor id="400637" joined="2005-05-23"/>
+    <cosponsor id="409888" joined="2005-05-23"/>
+    <cosponsor id="400377" joined="2005-05-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-05-23">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2005-06-13T14:27:00-04:00">
+      <text>Mr. Kline moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2005-06-13T14:27:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4364-4366" label="consideration"/>
+    </action>
+    <action datetime="2005-06-13T14:27:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 163.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-06-13T14:36:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4364-4365" label="text"/>
+    </vote>
+    <action datetime="2005-06-13T14:36:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-06-14">
+      <text>Received in the Senate and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2005-06-22">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S7198" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2005-06-22" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2005-06-24">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Colleges"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Education"/>
+    <term name="Fraternal organizations"/>
+    <term name="Higher education"/>
+    <term name="Student activities"/>
+  </subjects>
+  <amendments/>
+  <summary>6/22/2005--Passed Senate without amendment.
+Recognizes and honors the Sigma Chi Fraternity on its 150-year anniversary. Commends its Founders and all Sigma Chi brothers, past and present, for their bond of friendship, common ideals and beliefs, and service to community.</summary>
+</bill>

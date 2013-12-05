@@ -1,0 +1,54 @@
+<bill session="110" type="h" number="5460" updated="2013-07-19T21:51:41-04:00">
+  <state datetime="2008-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2008-02-14"/>
+  </status>
+  <introduced datetime="2008-02-14"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Detainee Treatment Act of 2005 and title 18, United States Code, to include waterboarding in the definition of cruel, inhuman, or degrading treatment or punishment and in the definition of torture, and for other purposes.</title>
+  </titles>
+  <sponsor id="400124"/>
+  <cosponsors>
+    <cosponsor id="400403" joined="2008-02-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-02-14">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Intelligence (Permanent Select), and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2008-02-14">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2008-02-14">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="2008-02-14">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2008-03-17">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral, In Committee"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Armed forces and national security"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Human rights"/>
+    <term name="International affairs"/>
+    <term name="Prisoners of war"/>
+    <term name="Prisoners' rights"/>
+    <term name="Punishment"/>
+    <term name="Torture"/>
+  </subjects>
+  <amendments/>
+  <summary>2/14/2008--Introduced.
+Amends the Detainee Treatment Act of 2005 and the federal criminal code to include waterboarding (simulated drowning) within the definitions of cruel, inhuman, or degrading treatment or punishment, and torture. Includes individuals under the custody or physical control of the Central Intelligence Agency (CIA) within the protection against cruel, inhuman, or degrading treatment or punishment by the government.</summary>
+</bill>

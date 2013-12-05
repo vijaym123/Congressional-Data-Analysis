@@ -1,0 +1,79 @@
+<bill session="109" type="h" number="5062" updated="2013-07-19T19:49:00-04:00">
+  <state datetime="2006-09-25T19:08:00-04:00">PROV_KILL:SUSPENSIONFAILED</state>
+  <status>
+    <unknown datetime="2006-09-25T19:08:00-04:00"/>
+  </status>
+  <introduced datetime="2006-03-30"/>
+  <titles>
+    <title as="introduced" type="short">New Hampshire Wilderness Act of 2006</title>
+    <title as="introduced" type="official">To designate as wilderness certain National Forest System land in the State of New Hampshire.</title>
+  </titles>
+  <sponsor id="400045"/>
+  <cosponsors>
+    <cosponsor id="400019" joined="2006-03-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-03-30">
+      <text>Referred to the Committee on Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2006-03-30">
+      <text>Referred to House Resources</text>
+    </action>
+    <action datetime="2006-03-30">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2006-04-05">
+      <text>Executive Comment Requested from USDA.</text>
+      <committee name="House Resources"/>
+    </action>
+    <action datetime="2006-04-05">
+      <text>Referred to the Subcommittee on Forests and Forest Health.</text>
+      <committee name="House Resources"/>
+    </action>
+    <action datetime="2006-04-05">
+      <text>Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry.</text>
+      <committee name="House Agriculture"/>
+    </action>
+    <action datetime="2006-09-25T14:44:00-04:00">
+      <text>Mr. Pearce moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-09-25T14:44:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6944-6945" label="consideration"/>
+      <reference ref="CR H6944" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2006-09-25T14:44:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5062.</text>
+    </action>
+    <action datetime="2006-09-25T14:48:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Bordallo objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2006-09-25T19:00:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6994-6995" label="consideration"/>
+    </action>
+    <vote state="PROV_KILL:SUSPENSIONFAILED" datetime="2006-09-25T19:08:00-04:00" how="roll" result="fail" roll="472" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Failed by recorded vote (2/3 required): 220 - 169 (Roll no. 472).</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII20" subcommittee="Forests and Forest Health" name="House Resources"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG22" subcommittee="Department Operations, Oversight, Dairy, Nutrition, and Forestry" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="5059"/>
+    <bill relation="unknown" session="109" type="s" number="2463"/>
+    <bill relation="unknown" session="109" type="s" number="4001"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="National forests"/>
+    <term name="New Hampshire"/>
+    <term name="Wilderness areas"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/2006--Introduced.
+New Hampshire Wilderness Act of 2006 - Designates specified federal lands in the White Mountain National Forest area of New Hampshire as wilderness and incorporates such lands into the Sandwich Range Wilderness.</summary>
+</bill>

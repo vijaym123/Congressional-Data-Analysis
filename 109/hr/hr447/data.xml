@@ -1,0 +1,49 @@
+<bill session="109" type="h" number="447" updated="2013-07-19T19:08:14-04:00">
+  <state datetime="2005-02-01">REFERRED</state>
+  <status>
+    <introduced datetime="2005-02-01"/>
+  </status>
+  <introduced datetime="2005-02-01"/>
+  <titles>
+    <title type="popular">Death Gratuity Military bill</title>
+    <title as="introduced" type="short">Honoring Our Fallen Soldiers and Families Act of 2005</title>
+    <title as="introduced" type="official">To amend title 10, United States Code, to increase the amount of the military death gratuity to $100,000.</title>
+  </titles>
+  <sponsor id="400032"/>
+  <cosponsors>
+    <cosponsor id="400433" joined="2005-02-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-02-01">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H447"/>
+    </action>
+    <action state="REFERRED" datetime="2005-02-01">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2005-02-24">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="42"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Families"/>
+    <term name="Iraq compilation"/>
+    <term name="Labor and employment"/>
+    <term name="Military dependents"/>
+    <term name="Military pensions"/>
+    <term name="Survivors' benefits"/>
+    <term name="War casualties"/>
+  </subjects>
+  <amendments/>
+  <summary>2/1/2005--Introduced.
+Honoring Our Fallen Soldiers and Families Act of 2005 - Increases from $12,000 to $100,000 the death gratuity payable to the survivors of members of the Armed Forces who die: (1) while on active duty or inactive duty training; or (2) within 120 days after discharge or release from such duty or training, if the death resulted from an injury or disease incurred or aggravated during such duty or training.</summary>
+</bill>

@@ -1,0 +1,75 @@
+<bill session="109" type="h" number="5060" updated="2013-07-19T19:48:59-04:00">
+  <state datetime="2006-06-21T10:57:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-06-21T10:57:00-04:00"/>
+  </status>
+  <introduced datetime="2006-03-30"/>
+  <titles>
+    <title type="popular">Federal Spending and Assistance bill</title>
+    <title as="introduced" type="official">To amend the Federal Financial Assistance Management Improvement Act of 1999 to require data with respect to Federal financial assistance to be available for public access in a searchable and user friendly form.</title>
+  </titles>
+  <sponsor id="400034"/>
+  <cosponsors>
+    <cosponsor id="400098" joined="2006-03-30"/>
+    <cosponsor id="400123" joined="2006-04-26"/>
+    <cosponsor id="400153" joined="2006-04-26"/>
+    <cosponsor id="400168" joined="2006-06-16"/>
+    <cosponsor id="400175" joined="2006-04-26"/>
+    <cosponsor id="400642" joined="2006-06-16"/>
+    <cosponsor id="400264" joined="2006-04-26"/>
+    <cosponsor id="400385" joined="2006-04-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-03-30">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+    <action datetime="2006-06-21T10:34:00-04:00">
+      <text>Mr. Davis, Tom moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2006-06-21T10:35:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4335-4338" label="consideration"/>
+    </action>
+    <action datetime="2006-06-21T10:35:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5060.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-06-21T10:57:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4335" label="text"/>
+    </vote>
+    <action datetime="2006-06-21T10:57:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-06-22">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Reform" activity="Referral"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Appropriations"/>
+    <term name="Economics and public finance"/>
+    <term name="Electronic data interchange"/>
+    <term name="Electronic government information"/>
+    <term name="Federal aid programs"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government insurance"/>
+    <term name="Government lending"/>
+    <term name="Government paperwork"/>
+    <term name="Government publicity"/>
+    <term name="Grants-in-aid"/>
+    <term name="Internet"/>
+    <term name="Science, technology, communications"/>
+    <term name="Social welfare"/>
+    <term name="Subsidies"/>
+    <term name="Web sites"/>
+  </subjects>
+  <amendments/>
+  <summary>6/21/2006--Passed House amended.
+Instructs the Director of the Office of Management and Budget to work with the Administrator of General Services and other agencies to make available on the Internet, from a single website database, at no cost to the public, downloadable data regarding federal financial assistance in accordance with this Act and the E-Government Act of 2002. Requires such data to: (1) contain all information and types of information (data fields) collected through the Federal Assistance Award Data System, Grants.gov, or any other existing federal database, as well as specified additional information about each award; (2) appear within 30 days of the award of such assistance; (3) display in a form permitting full searching and aggregation of all data fields across all agencies; (4) identify the federal financial assistance a recipient has received during the preceding 10-year period; (5) include lists of federal financial assistance awards and the dates and amounts of federal fund disbursements; and (6) identify subgrantees that are nonfederal entities.</summary>
+</bill>

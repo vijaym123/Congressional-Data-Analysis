@@ -1,0 +1,63 @@
+<bill session="110" type="hc" number="209" updated="2013-07-19T22:10:35-04:00">
+  <state datetime="2008-02-12T15:10:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-02-12T15:10:00-05:00"/>
+  </status>
+  <introduced datetime="2007-09-14"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of Congress that the Museum of the American Quilter's Society, located in Paducah, Kentucky, should be designated as the "National Quilt Museum of the United States".</title>
+  </titles>
+  <sponsor id="400431"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2007-09-14">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-09-17">
+      <text>Referred to the Subcommittee on National Parks, Forests and Public Lands.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2008-02-12T15:03:00-05:00">
+      <text>Mr. Grijalva moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2008-02-12T15:04:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H828-829" label="consideration"/>
+    </action>
+    <action datetime="2008-02-12T15:04:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 209.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-02-12T15:10:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H828" label="text"/>
+    </vote>
+    <action datetime="2008-02-12T15:10:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-02-13">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2008-04-29">
+      <text>Referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Forests and Public Lands" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="2739"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Hobbies"/>
+    <term name="Kentucky"/>
+    <term name="Museums"/>
+    <term name="Textile fabrics"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2008--Passed House without amendment.
+Expresses the sense of Congress that the Museum of the American Quilter's Society, located at 215 Jefferson Street in Paducah, Kentucky, should be designated as the "National Quilt Museum of the United States."</summary>
+</bill>

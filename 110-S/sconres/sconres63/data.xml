@@ -1,0 +1,70 @@
+<bill session="110" type="sc" number="63" updated="2013-07-19T22:19:52-04:00">
+  <state datetime="2008-01-22">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2008-01-22"/>
+  </status>
+  <introduced datetime="2007-12-19"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution expressing the sense of the Congress regarding the need for additional research into the chronic neurological condition hydrocephalus, and for other purposes.</title>
+  </titles>
+  <sponsor id="300022"/>
+  <cosponsors>
+    <cosponsor id="300092" joined="2008-01-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-12-19">
+      <text>Referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S16018" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2008-01-22">
+      <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+      <reference ref="CR S155-156" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2008-01-22" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S155-156" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2008-01-24">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2008-01-28T14:00:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2008-01-28T15:25:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="hc" number="74"/>
+    <bill relation="unknown" session="110" type="hc" number="74"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Brain diseases"/>
+    <term name="Commemorations"/>
+    <term name="Communication in medicine"/>
+    <term name="Communication in science"/>
+    <term name="Conferences"/>
+    <term name="Congressional tributes"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Epidemiology"/>
+    <term name="Federal aid to research"/>
+    <term name="Federal officials"/>
+    <term name="Government operations and politics"/>
+    <term name="Health education"/>
+    <term name="Higher education"/>
+    <term name="Medical education"/>
+    <term name="Medical research"/>
+    <term name="National Institutes of Health (NIH)"/>
+    <term name="Research centers"/>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2008--Passed Senate without amendment.
+Commends the Director of the National Institutes of Health (NIH) for working with leading scientists and researchers to organize the first-ever NIH conference on hydrocephalus (a neurological condition characterized by the abnormal buildup of cerebrospinal fluids in the ventricles of the brain). Urges the Director to continue the current collaboration with respect to hydrocephalus among national research institutes.Calls for: (1) further research into the epidemiology, pathophysiology, disease burden, and improved treatment of hydrocephalus; and (2) increased public awareness and professional education regarding hydrocephalus through partnerships between the federal government and patient advocacy organizations.</summary>
+</bill>

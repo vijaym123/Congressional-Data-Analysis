@@ -1,0 +1,61 @@
+<bill session="109" type="h" number="5178" updated="2013-07-19T19:50:03-04:00">
+  <state datetime="2006-04-25">REFERRED</state>
+  <status>
+    <introduced datetime="2006-04-25"/>
+  </status>
+  <introduced datetime="2006-04-25"/>
+  <titles>
+    <title as="introduced" type="official">To direct the Secretary of Homeland Security to conduct a study to identify best practices for the communication of information concerning a terrorist threat, and for other purposes.</title>
+  </titles>
+  <sponsor id="400139"/>
+  <cosponsors>
+    <cosponsor id="400182" joined="2006-04-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-04-25">
+      <text>Referred to the Committee on Homeland Security, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2006-04-25">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2006-04-25">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="2006-05-02">
+      <text>Referred to the Subcommittee on Intelligence, Information Sharing, and Terrorism Risk Assessment.</text>
+      <committee name="House Homeland Security"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSHM05" subcommittee="Intelligence, Information Sharing, and Terrorism Risk Assessment" name="House Homeland Security"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="California"/>
+    <term name="Confidential communications"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal justice information"/>
+    <term name="Economics and public finance"/>
+    <term name="Emergency communication systems"/>
+    <term name="Federal-local relations"/>
+    <term name="Federal-state relations"/>
+    <term name="Government operations and politics"/>
+    <term name="Government publicity"/>
+    <term name="Governmental investigations"/>
+    <term name="Grants-in-aid"/>
+    <term name="Law"/>
+    <term name="Metropolitan areas"/>
+    <term name="Michigan"/>
+    <term name="New York City"/>
+    <term name="Terrorism"/>
+    <term name="Urban affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>4/25/2006--Introduced.
+Directs the Secretary of Homeland Security and the Director of National Intelligence to conduct jointly, or contract with an entity to conduct, a study of the operations of federal, state, and local government entities to identify best practices for the communication of information concerning a terrorist threat. Requires the Secretary to make grants for the establishment and operation of three centers (in New York City, Detroit, and Los Angeles) to implement the best practices for the processing, analysis, and dissemination of terrorist threat information.</summary>
+</bill>

@@ -1,0 +1,66 @@
+<bill session="110" type="h" number="1906" updated="2013-07-19T21:20:26-04:00">
+  <state datetime="2007-04-19T16:08:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-04-19T16:08:00-04:00"/>
+  </status>
+  <introduced datetime="2007-04-18"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to adjust the estimated tax payment safe harbor based on income for the preceding year in the case of individuals with adjusted gross income greater than $5 million.</title>
+  </titles>
+  <sponsor id="400295"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2007-04-18">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2007-04-18T17:38:00-04:00">
+      <text>Rules Committee Resolution H. Res. 317 Reported to House. Rule provides for consideration of H.R. 1905 and H.R. 1906. With respect to H.R. 1905, all points of order against the bill and against its consideration are waived except those arising under clause 9 or 10 of rule XXI. The bill shall be considered as read. The bill is closed to amendments and shall be considered in the House. With respect to H.R. 1906, all points of order against the bill and against its consideration are waived except those arising under clause 9 or 10 of rule XXI. The bill shall be considered as read. The bill is closed to amendments and shall be considered in the House.</text>
+    </action>
+    <action datetime="2007-04-19T12:29:00-04:00">
+      <text>Rule H. Res. 317 passed House.</text>
+    </action>
+    <action datetime="2007-04-19T14:47:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 317.</text>
+      <reference ref="CR H3594-3600" label="consideration"/>
+    </action>
+    <action datetime="2007-04-19T14:47:00-04:00">
+      <text>Rule provides for consideration of H.R. 1905 and H.R. 1906. With respect to H.R. 1905, all points of order against the bill and against its consideration are waived except those arising under clause 9 or 10 of rule XXI. The bill shall be considered as read. The bill is closed to amendments and shall be considered in the House. With respect to H.R. 1906, all points of order against the bill and against its consideration are waived except those arising under clause 9 or 10 of rule XXI. The bill shall be considered as read. The bill is closed to amendments and shall be considered in the House.</text>
+    </action>
+    <action datetime="2007-04-19T14:48:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 1906.</text>
+    </action>
+    <action datetime="2007-04-19T15:40:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H3599" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-04-19T16:08:00-04:00" how="roll" result="pass" roll="232" type="vote" where="h">
+      <text>On passage Passed by the Yeas and Nays: 216 - 203 (Roll no. 232).</text>
+      <reference ref="CR H3594" label="text"/>
+    </vote>
+    <action datetime="2007-04-19T16:08:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-04-19T16:09:00-04:00">
+      <text>Pursuant to the provisions of H. Res. 317, H.R. 1906 is laid on the table.</text>
+      <reference ref="CR H3600" label="consideration"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="hr" number="317"/>
+    <bill relation="rule" session="110" type="hr" number="317"/>
+    <bill relation="unknown" session="110" type="hr" number="317"/>
+    <bill relation="unknown" session="110" type="h" number="1905"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax"/>
+    <term name="Tax administration"/>
+    <term name="Tax penalties"/>
+  </subjects>
+  <amendments/>
+  <summary>4/19/2007--Passed House without amendment.
+Amends the Internal Revenue Code to increase (from 110% to 110.1%) the estimated tax payment safe harbor percentage for determining the amount of estimated tax payable by individual taxpayers whose adjusted gross income for the preceding taxable year exceeds $5 million.</summary>
+</bill>

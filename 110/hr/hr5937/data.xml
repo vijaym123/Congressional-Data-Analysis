@@ -1,0 +1,75 @@
+<bill session="110" type="h" number="5937" updated="2013-07-19T21:55:46-04:00">
+  <state datetime="2008-05-07T14:56:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-05-07T14:56:00-04:00"/>
+  </status>
+  <introduced datetime="2008-05-01"/>
+  <titles>
+    <title as="introduced" type="official">To facilitate the preservation of certain affordable housing dwelling units.</title>
+  </titles>
+  <sponsor id="400409"/>
+  <cosponsors>
+    <cosponsor id="400140" joined="2008-05-01"/>
+    <cosponsor id="400219" joined="2008-05-01"/>
+    <cosponsor id="400416" joined="2008-05-01"/>
+    <cosponsor id="400422" joined="2008-05-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-05-01">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2008-05-06T17:34:00-04:00">
+      <text>Mr. Meeks (NY) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2008-05-06T17:35:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3093-3096" label="consideration"/>
+    </action>
+    <action datetime="2008-05-06T17:35:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5937.</text>
+    </action>
+    <action datetime="2008-05-06T17:52:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Culberson objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2008-05-07T14:47:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3132-3133" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-05-07T14:56:00-04:00" how="roll" result="pass" roll="277" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 345 - 73 (Roll no. 277).</text>
+      <reference ref="CR 5/6/2008 H3093-3094" label="text"/>
+    </vote>
+    <action datetime="2008-05-07T14:57:00-04:00">
+      <text>Mr. Simpson moved to reconsider the vote.</text>
+    </action>
+    <action datetime="2008-05-07T14:57:00-04:00">
+      <text>Mr. Welch (VT) moved to table the motion to reconsider the vote</text>
+      <reference ref="CR H3133" label="consideration"/>
+    </action>
+    <action datetime="2008-05-07T15:04:00-04:00">
+      <text>On motion to table the motion to reconsider the vote Agreed to by recorded vote: 225 - 190 (Roll no. 278).</text>
+    </action>
+    <action datetime="2008-05-08">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Affordable housing"/>
+    <term name="Apartment houses"/>
+    <term name="Government operations and politics"/>
+    <term name="Housing subsidies"/>
+    <term name="Landlord and tenant"/>
+    <term name="Low-income housing"/>
+    <term name="Rental housing"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>5/7/2008--Passed House without amendment.
+Authorizes the Secretary of Housing and Urban Development (HUD), upon request of the owner of a multifamily housing project to which specified contracts are subject, to: (1) convert such contracts to a contract for project-based rental assistance under section 8 of the United States Housing Act of 1937; and (2) treat the contemplated resulting contract as eligible for initial renewal under the Multifamily Assisted Housing Reform and Affordability Act of 1997, if certain conditions are met.Deems the owner to be in compliance with income-targeting requirements of the United States Housing Act of 1937 by serving low-income families.Considers each family residing in an assisted dwelling unit on the date of such conversion to meet the applicable requirements for income eligibility and occupancy.</summary>
+</bill>

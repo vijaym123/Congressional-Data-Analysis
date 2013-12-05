@@ -1,0 +1,101 @@
+<bill session="109" type="s" number="485" updated="2013-07-19T20:17:34-04:00">
+  <state datetime="2005-11-16">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-11-16"/>
+  </status>
+  <introduced datetime="2005-03-01"/>
+  <titles>
+    <title as="introduced" type="short">National Geologic Mapping Reauthorization Act of 2005</title>
+    <title as="reported to senate" type="short">National Geologic Mapping Reauthorization Act of 2005</title>
+    <title as="passed senate" type="short">National Geologic Mapping Reauthorization Act of 2005</title>
+    <title as="introduced" type="official">A bill to reauthorize and amend the National Geologic Mapping Act of 1992.</title>
+  </titles>
+  <sponsor id="300029"/>
+  <cosponsors>
+    <cosponsor id="300007" joined="2005-03-07"/>
+    <cosponsor id="300009" joined="2005-03-01"/>
+    <cosponsor id="300014" joined="2005-03-01"/>
+    <cosponsor id="300041" joined="2005-07-26"/>
+    <cosponsor id="300075" joined="2005-04-11"/>
+    <cosponsor id="300083" joined="2005-03-07"/>
+    <cosponsor id="300094" joined="2005-04-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-03-01">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2005-03-08">
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held. With printed Hearing: S.Hrg. 109-19.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <action state="REPORTED" datetime="2005-10-27">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-161.</text>
+    </action>
+    <calendar datetime="2005-10-27" calendar="Senate Legislative" under="General Orders" number="262">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 262.</text>
+    </calendar>
+    <action datetime="2005-11-16">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S13057" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2005-11-16" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S13057" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-11-17T10:02:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-11-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-11-17T18:43:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Reporting"/>
+    <committee activity="Hearings" code="SSEG03" subcommittee="Public Lands and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="2362"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Archives"/>
+    <term name="Authorization"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Data banks"/>
+    <term name="Department of the Interior"/>
+    <term name="Earth sciences"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Emergency management"/>
+    <term name="Environmental Protection Agency"/>
+    <term name="Environmental engineering"/>
+    <term name="Environmental protection"/>
+    <term name="Executive Office of the President"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal officials"/>
+    <term name="Geographic information systems"/>
+    <term name="Geology"/>
+    <term name="Geophysical prediction"/>
+    <term name="Government operations and politics"/>
+    <term name="Higher education"/>
+    <term name="Land use"/>
+    <term name="Maps"/>
+    <term name="Outdoor recreation"/>
+    <term name="Paleontology"/>
+    <term name="Science, technology, communications"/>
+    <term name="Scientific education"/>
+    <term name="Sports and recreation"/>
+    <term name="Strategic planning"/>
+    <term name="Volcanoes"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2592"/>
+  </amendments>
+  <summary>11/16/2005--Passed Senate amended.
+National Geologic Mapping Reauthorization Act of 2005 - Amends the National Geologic Mapping Act of 1992 to extend deadlines for development of a five-year strategic plan for the geologic mapping program and for appointment of the advisory committee. Removes from program objectives the development of a geophysical- and geochemical-map database. Directs that mapping priorities be based in part on the needs of the Department of the Interior land management agencies. Modifies the composition of the advisory committee and increases the number of members on such committee. Requires the advisory committee to provide a scientific overview of geologic maps (including maps of geologic-based hazards) used or disseminated by federal agencies for regulation or land-use planning. Directs that the national geologic map database include all maps developed with funding provided by the National Cooperative Geologic Mapping Program, including under the federal, state, and education components. Authorizes appropriations for each of FY2006-FY2015. Increases the percentages allocated for the state and education components.</summary>
+</bill>

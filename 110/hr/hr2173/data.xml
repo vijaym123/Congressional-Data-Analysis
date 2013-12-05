@@ -1,0 +1,48 @@
+<bill session="110" type="h" number="2173" updated="2013-07-19T21:22:42-04:00">
+  <state datetime="2007-05-03">REFERRED</state>
+  <status>
+    <introduced datetime="2007-05-03"/>
+  </status>
+  <introduced datetime="2007-05-03"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to authorize additional funding for the Department of Veterans Affairs to increase the capacity for provision of mental health services through contracts with community mental health centers, and for other purposes.</title>
+  </titles>
+  <sponsor id="400339"/>
+  <cosponsors>
+    <cosponsor id="400215" joined="2007-06-05"/>
+    <cosponsor id="400290" joined="2007-05-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-05-03">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2007-05-07">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2007-06-14">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Clinics"/>
+    <term name="Community health services"/>
+    <term name="Government contractors"/>
+    <term name="Government operations and politics"/>
+    <term name="Government procurement"/>
+    <term name="Health"/>
+    <term name="Mental care facilities"/>
+    <term name="Mental health services"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>5/3/2007--Introduced.
+Authorizes the Secretary of Veterans Affairs to contract with a qualified community mental health center for the provision of veterans' mental health services.</summary>
+</bill>

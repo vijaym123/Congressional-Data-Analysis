@@ -1,0 +1,49 @@
+<bill session="110" type="sr" number="585" updated="2013-07-19T22:18:03-04:00">
+  <state datetime="2008-06-17">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2008-06-17"/>
+  </status>
+  <introduced datetime="2008-06-05"/>
+  <titles>
+    <title as="introduced" type="official">A resolution supporting National Men's Health Week.</title>
+  </titles>
+  <sponsor id="300030"/>
+  <cosponsors>
+    <cosponsor id="300035" joined="2008-06-05"/>
+    <cosponsor id="300052" joined="2008-06-05"/>
+    <cosponsor id="400272" joined="2008-06-05"/>
+    <cosponsor id="300089" joined="2008-06-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-06-05">
+      <text>Referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S5217" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2008-06-17">
+      <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+      <reference ref="CR S5704" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2008-06-17" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S5704" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="hc" number="138"/>
+    <bill relation="identical" session="110" type="sr" number="213"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Health"/>
+    <term name="Health education"/>
+    <term name="Men"/>
+    <term name="Preventive medicine"/>
+    <term name="Special weeks"/>
+  </subjects>
+  <amendments/>
+  <summary>6/17/2008--Passed Senate without amendment.
+Expresses support for the annual National Men's Health Week.</summary>
+</bill>

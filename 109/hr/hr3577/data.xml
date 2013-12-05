@@ -1,0 +1,54 @@
+<bill session="109" type="h" number="3577" updated="2013-07-19T19:35:56-04:00">
+  <state datetime="2005-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2005-07-28"/>
+  </status>
+  <introduced datetime="2005-07-28"/>
+  <titles>
+    <title as="introduced" type="official">To amend section 10501 of title 49, United States Code, to exclude solid waste disposal from the jurisdiction of the Surface Transportation Board.</title>
+  </titles>
+  <sponsor id="400272"/>
+  <cosponsors>
+    <cosponsor id="400008" joined="2005-07-28"/>
+    <cosponsor id="400244" joined="2005-09-29"/>
+    <cosponsor id="400308" joined="2005-07-28"/>
+    <cosponsor id="400309" joined="2005-07-28"/>
+    <cosponsor id="400346" joined="2005-07-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-07-28">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2005-07-29">
+      <text>Referred to the Subcommittee on Railroads.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2005-07-29">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1714-1715"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW14" subcommittee="Railroads" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="4821"/>
+    <bill relation="unknown" session="109" type="s" number="1607"/>
+    <bill relation="unknown" session="109" type="s" number="1607"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Department of Transportation"/>
+    <term name="Environmental protection"/>
+    <term name="Government operations and politics"/>
+    <term name="Jurisdiction"/>
+    <term name="Law"/>
+    <term name="Railroads"/>
+    <term name="Refuse and refuse disposal"/>
+    <term name="Surface Transportation Board"/>
+  </subjects>
+  <amendments/>
+  <summary>7/28/2005--Introduced.
+Excludes solid waste management facilities and the processing or sorting of solid waste from the jurisdiction of the Surface Transportation Board.</summary>
+</bill>

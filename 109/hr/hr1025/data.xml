@@ -1,0 +1,73 @@
+<bill session="109" type="h" number="1025" updated="2013-07-19T19:13:13-04:00">
+  <state datetime="2005-04-06T13:05:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-04-06T13:05:00-04:00"/>
+  </status>
+  <introduced datetime="2005-03-01"/>
+  <titles>
+    <title as="introduced" type="short">Mortgage Servicing Clarification Act</title>
+    <title as="passed house" type="short">Mortgage Servicing Clarification Act</title>
+    <title as="introduced" type="official">To amend the Fair Debt Collection Practices Act to exempt mortgage servicers from certain requirements of the Act with respect to federally related mortgage loans secured by a first lien, and for other purposes.</title>
+  </titles>
+  <sponsor id="400348"/>
+  <cosponsors>
+    <cosponsor id="400208" joined="2005-03-01"/>
+    <cosponsor id="400209" joined="2005-03-01"/>
+    <cosponsor id="400210" joined="2005-03-01"/>
+    <cosponsor id="400251" joined="2005-03-01"/>
+    <cosponsor id="400271" joined="2005-03-01"/>
+    <cosponsor id="400293" joined="2005-03-01"/>
+    <cosponsor id="400311" joined="2005-03-01"/>
+    <cosponsor id="400371" joined="2005-03-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-03-01">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2005-04-06T12:47:00-04:00">
+      <text>Mr. Royce moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2005-04-06T12:47:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1791-1794" label="consideration"/>
+    </action>
+    <action datetime="2005-04-06T12:47:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1025.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-04-06T13:05:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H1791-1792" label="text as amended"/>
+    </vote>
+    <action datetime="2005-04-06T13:05:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-04-07">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Collection of accounts"/>
+    <term name="Commerce"/>
+    <term name="Consumer education"/>
+    <term name="Debtor and creditor"/>
+    <term name="Economics and public finance"/>
+    <term name="Federally-assisted loans"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Government lending"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Housing and community development"/>
+    <term name="Loan defaults"/>
+    <term name="Mortgage guaranty insurance"/>
+    <term name="Mortgages"/>
+  </subjects>
+  <amendments/>
+  <summary>4/6/2005--Passed House amended.
+Mortgage Servicing Clarification Act - Amends the Fair Debt Collection Practices Act to exempt from mandatory debt collection disclosures (that the debt collector is attempting to collect a debt and any information obtained will be used for that purpose) any servicer of federally related mortgage loans secured by first liens that include loans in default at the time such servicer became responsbile for servicing such loans, if the servicer is also a debt collector whose collections are incidental to a primary function of servicing current federally related-mortgage loans.</summary>
+</bill>

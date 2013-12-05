@@ -1,0 +1,101 @@
+<bill session="110" type="h" number="3739" updated="2013-07-19T21:36:41-04:00">
+  <state datetime="2007-12-21">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2007-12-21"/>
+  </status>
+  <introduced datetime="2007-10-03"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Arizona Water Settlements Act to modify the requirements for the statement of findings.</title>
+  </titles>
+  <sponsor id="400162"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2007-10-03">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-10-05">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-10-24">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-11-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-11-15">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+    <action datetime="2007-12-11T12:21:00-05:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 110-484.</text>
+    </action>
+    <calendar datetime="2007-12-11T12:21:00-05:00" calendar="Union" number="299">
+      <text>Placed on the Union Calendar, Calendar No. 299.</text>
+    </calendar>
+    <action datetime="2007-12-11T12:42:00-05:00">
+      <text>Mrs. Napolitano moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-12-11T12:42:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H15229-15230" label="consideration"/>
+    </action>
+    <action datetime="2007-12-11T12:42:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3739.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-12-11T12:44:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H15229" label="text"/>
+    </vote>
+    <action datetime="2007-12-11T12:44:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-12-12">
+      <text>Received in the Senate and Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+    <action datetime="2007-12-14">
+      <text>Senate Committee on Indian Affairs discharged by Unanimous Consent.</text>
+      <reference ref="CR S15706" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2007-12-14" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2007-12-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2007-12-14">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2007-12-19">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2007-12-21">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2007-12-21" type="public" number="110-148">
+      <text>Became Public Law No: 110-148.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Arizona"/>
+    <term name="Government operations and politics"/>
+    <term name="Indian claims"/>
+    <term name="Indian water rights"/>
+    <term name="Law"/>
+    <term name="Minorities"/>
+    <term name="Native Americans"/>
+    <term name="State courts"/>
+  </subjects>
+  <amendments/>
+  <summary>12/21/2007--Public Law.
+Amends the Arizona Water Settlements Act to make the Southern Arizona Water Rights Settlement effective as of the date the Secretary of the Interior publishes in the Federal Register a statement of findings that specified conditions apply, including that the judgment and decree attached to the Tohono O'odham settlement agreement has been approved by the state court having jurisdiction over the Gila River adjudication proceedings. (Current law requires the judgment and decree to have become final and nonappealable.)</summary>
+</bill>

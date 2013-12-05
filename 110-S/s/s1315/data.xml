@@ -1,0 +1,203 @@
+<bill session="110" type="s" number="1315" updated="2013-07-19T22:31:40-04:00">
+  <state datetime="2008-09-22T12:52:00-04:00">PASS_BACK:HOUSE</state>
+  <status>
+    <unknown datetime="2008-09-22T12:52:00-04:00"/>
+  </status>
+  <introduced datetime="2007-05-07"/>
+  <titles>
+    <title as="introduced" type="short">Disabled Veterans Insurance Improvement Act of 2007</title>
+    <title as="passed house" type="short">Veterans' Benefits Enhancement Act of 2008</title>
+    <title as="reported to senate" type="short">Veterans' Benefits Enhancement Act of 2007</title>
+    <title as="passed senate" type="short">Veterans' Benefits Enhancement Act of 2007</title>
+    <title as="introduced" type="official">A bill to amend title 38, United States Code, to enhance life insurance benefits for disabled veterans, and for other purposes.</title>
+    <title as="amended by senate" type="official">An act to amend title 38, United States Code, to enhance veterans' insurance and housing benefits, to improve benefits and services for transitioning servicemembers, and for other purposes.</title>
+  </titles>
+  <sponsor id="300001"/>
+  <cosponsors>
+    <cosponsor id="400619" joined="2008-04-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2007-05-07">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S5657"/>
+    </action>
+    <action state="REFERRED" datetime="2007-05-07">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <reference ref="CR S5658" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-06-27">
+      <text>Committee on Veterans' Affairs. Ordered to be reported with amendments favorably.</text>
+      <committee name="Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2007-08-29">
+      <text>Committee on Veterans' Affairs. Reported by Senator Akaka under authority of the order of the Senate of 08/03/2007 with an amendment in the nature of a substitute and an amendment to the title. With written report No. 110-148.</text>
+    </action>
+    <calendar datetime="2007-08-29" calendar="Senate Legislative" under="General Orders" number="336">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 336.</text>
+    </calendar>
+    <action datetime="2008-04-17">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+    </action>
+    <action datetime="2008-04-17">
+      <text>Cloture motion on the motion to proceed presented in Senate.</text>
+      <reference ref="CR S3169" label="consideration"/>
+      <reference ref="CR S3169" label="text"/>
+    </action>
+    <action datetime="2008-04-22">
+      <text>Motion to proceed to measure considered in Senate by Unanimous Consent.</text>
+      <reference ref="CR S3221-3227, S3227-3233, S3233-3248" label="consideration"/>
+    </action>
+    <action datetime="2008-04-22">
+      <text>Cloture on the motion to proceed invoked in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 109.</text>
+      <reference ref="CR S3225" label="consideration"/>
+      <reference ref="CR S3225" label="text"/>
+    </action>
+    <action datetime="2008-04-23">
+      <text>Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent.</text>
+      <reference ref="CR S3288" label="consideration"/>
+    </action>
+    <action datetime="2008-04-23">
+      <text>Measure laid before Senate by motion.</text>
+      <reference ref="CR S3288-3296, S3296-3297" label="consideration"/>
+      <reference ref="CR S3288-3296" label="text of measure as reported in House"/>
+    </action>
+    <action datetime="2008-04-24">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S3347-3363" label="consideration"/>
+    </action>
+    <action datetime="2008-04-24">
+      <text>The committee substitute as amended agreed to by Unanimous Consent.</text>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2008-04-24" how="roll" result="pass" roll="112" type="vote" where="s">
+      <text>Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 96 - 1. Record Vote Number: 112.</text>
+      <reference ref="text"/>
+      <reference ref="CR S3355-3363"/>
+    </vote>
+    <action datetime="2008-04-24T16:37:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2008-04-24">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2008-04-24T17:42:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2008-09-22T12:44:00-04:00">
+      <text>Mr. Filner moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2008-09-22T12:45:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8487-8491" label="consideration"/>
+    </action>
+    <action datetime="2008-09-22T12:45:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 1315.</text>
+    </action>
+    <vote state="PASS_BACK:HOUSE" datetime="2008-09-22T12:52:00-04:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H8487-8490" label="text"/>
+    </vote>
+    <action datetime="2008-09-22T12:52:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-09-23">
+      <text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative fees"/>
+    <term name="Afghanistan"/>
+    <term name="Appellate courts"/>
+    <term name="Apprenticeship"/>
+    <term name="Armed forces abroad"/>
+    <term name="Armed forces reserves"/>
+    <term name="Brain diseases"/>
+    <term name="Burns"/>
+    <term name="Cancer"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Congress"/>
+    <term name="Congressional investigations"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Cost of living adjustments"/>
+    <term name="Courthouses"/>
+    <term name="Disabled"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Epidemiology"/>
+    <term name="Ex-prisoners of war"/>
+    <term name="Families"/>
+    <term name="Federal aid to research"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government life insurance"/>
+    <term name="Governmental investigations"/>
+    <term name="Higher education"/>
+    <term name="History"/>
+    <term name="Home repair and improvement"/>
+    <term name="Housing and community development"/>
+    <term name="Housing for the disabled"/>
+    <term name="Iraq"/>
+    <term name="Iraq compilation"/>
+    <term name="Judges"/>
+    <term name="Judicial compensation"/>
+    <term name="Labor and employment"/>
+    <term name="Law"/>
+    <term name="Medical research"/>
+    <term name="Middle East and North Africa"/>
+    <term name="Military dependents"/>
+    <term name="Military operations"/>
+    <term name="Mortgages"/>
+    <term name="Multiple sclerosis"/>
+    <term name="National Guard"/>
+    <term name="Nervous system diseases"/>
+    <term name="Neurology"/>
+    <term name="Osteoporosis"/>
+    <term name="Parkinson's disease"/>
+    <term name="Persian Gulf War"/>
+    <term name="Philippines"/>
+    <term name="Post-traumatic stress disorder"/>
+    <term name="Residence requirements"/>
+    <term name="Science, technology, communications"/>
+    <term name="Self-help devices for the disabled"/>
+    <term name="South Asia"/>
+    <term name="Survivors' benefits"/>
+    <term name="Transportation and public works"/>
+    <term name="Transportation and the disabled"/>
+    <term name="Trauma care"/>
+    <term name="Trusts and trustees"/>
+    <term name="Unemployment"/>
+    <term name="Veterans' benefits"/>
+    <term name="Veterans' disability compensation"/>
+    <term name="Veterans' education"/>
+    <term name="Veterans' employment"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' pensions"/>
+    <term name="War casualties"/>
+    <term name="Wireless communication"/>
+    <term name="World War II"/>
+  </subjects>
+  <amendments>
+    <amendment number="s4559"/>
+    <amendment number="s4560"/>
+    <amendment number="s4561"/>
+    <amendment number="s4562"/>
+    <amendment number="s4563"/>
+    <amendment number="s4564"/>
+    <amendment number="s4565"/>
+    <amendment number="s4566"/>
+    <amendment number="s4567"/>
+    <amendment number="s4568"/>
+    <amendment number="s4569"/>
+    <amendment number="s4570"/>
+    <amendment number="s4571"/>
+    <amendment number="s4572"/>
+    <amendment number="s4574"/>
+    <amendment number="s4576"/>
+  </amendments>
+  <summary>9/22/2008--Passed House amended.
+Veterans' Benefits Enhancement Act of 2008 - Title I: Insurance Matters - (Sec. 101) Allows administrative costs of the Service-Disabled Veterans' Insurance program to be paid through premiums. (Sec. 102) Includes all (under current law, only certain active-duty) members of the Individual Ready Reserve under the Servicemembers' Group Life Insurance (SGLI) program. Revises provisions relating to the termination of SGLI coverage for a dependent to provide that such coverage may terminate upon termination of the dependent's status as an insurable dependent of the member. (Under current law, such coverage may terminate 120 days following termination of such status.) (Sec. 103) Requires the Secretary of Defense to develop a form for the designation of a recipient of funds for traumatic injury coverage under SGLI in cases where the member is mentally incapacitated or experiencing an extended loss of consciousness. Title II: Housing Matters - (Sec. 201) Authorizes the Secretary of Veterans Affairs (Secretary), in the case of a member determined to have a total and permanent disability incurred or aggravated in the line of active duty, to furnish home improvements and structural alterations for the member for such disability while the member is hospitalized or receiving outpatient care, medical services, or treatment, if the Secretary determines that the member is likely to be discharged or released from the Armed Forces due to the disability. Title III: Labor and Education Matters - (Sec. 301) Directs the Secretary to ensure the coordination of educational course approval activities by state approving agencies with approval activities performed by the Departments of Labor and Education and other appropriate entities. Requires a report from the Secretary to the congressional veterans' committees on actions taken to establish outcome-oriented performance standards for, and a tracking and reporting system for resources expended by, approving agencies. (Sec. 302) Authorizes the Secretary to waive, for public interest purposes on a case-by-case basis, the residency requirement for a Director for Veterans' Employment and Training. (Sec. 303) Includes veterans of the Post 9/11 Global War on Terror within an annual (currently, biennial) veterans' unemployment study. Title IV: Court Matters - (Sec. 401) Eliminates the 180-day per-year limit on service of retired judges of the U.S. Court of Appeals for Veterans Claims (Court) who voluntarily return to such service. Establishes a three-tiered retirement pay structure for Court judges appointed after the enactment of this Act. Requires recalled judges to receive the pay of current judges during the period of recall, less the amount of any applicable annuity. Prohibits recall service in excess of five years for judges recalled involuntarily. (Sec. 402) Removes the $30 annual limit on practice and registration fees for those admitted to practice before the Court. Requires any fees charged to be reasonable. (Sec. 403) Requires an annual report from the chief judge to the veterans' committees summarizing the Court's workload. (Sec. 404) Expresses the sense of Congress that the Court should be provided with appropriate office space, without undue disruption, inconvenience, or cost. Requires a report from the Administrator of General Services to the veterans' committees on the feasibility of leasing additional space for the Court, and on using the entire building in which the Court is housed as a Veterans Courthouse and Justice Center. Title V: Other Matters - (Sec. 501) Revises provisions concerning the VA's program of outreach to veterans to: (1) include members of the National Guard and reserves; and (2) define "outreach" as the proactive provision of information, services, and benefits counseling to veterans, and to the spouses, children, and parents of veterans who may be eligible to receive benefits through the VA. (Sec. 502) Amends the Servicemembers Civil Relief Act to allow members of the Armed Forces who receive orders to deploy outside the United States for not less than 90 days to terminate or suspend their cell phone contracts without incurring early termination or reactivation fees if their ability to fulfill the service contract or to utilize the service will be materially affected by such deployment. (Sec. 503) Directs the Medical Follow-Up Agency of the Institute of Medicine of the National Academies to maintain and manage the assets (including electronic data files and biological specimens of study participants) transferred to the Agency from the Air Force Health Study. Authorizes the Agency, during FY2008-FY2012, to conduct additional research on such assets toward the goal of understanding the determinants of health, and promoting wellness, in veterans. Requires an Agency report to Congress assessing the feasibility and advisability of conducting additional research on such assets after the end of FY2012. Provides funding. (Sec. 504) Requires: (1) the Secretary to contract with the Institute, above, to conduct a comprehensive epidemiological study to identify any increased risk of developing multiple sclerosis as a result of service in the Persian Gulf or in the Post 9/11 global operations theaters; and (2) an interim and final results report from the Institute to the Secretary and the veterans' committees. (Sec. 505) Directs the Comptroller General to report to the veterans' and appropriations committees on the adequacy of dependency and indemnity compensation in replacing a deceased veteran's income for surviving spouses and dependents of veterans who die from service-connected disabilities.</summary>
+</bill>

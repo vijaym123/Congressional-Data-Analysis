@@ -1,0 +1,47 @@
+<bill session="110" type="h" number="5566" updated="2013-07-19T21:52:37-04:00">
+  <state datetime="2008-03-10">REFERRED</state>
+  <status>
+    <introduced datetime="2008-03-10"/>
+  </status>
+  <introduced datetime="2008-03-10"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Economic Stimulus Act of 2008 to provide for a temporary increase in the maximum loan guaranty amount for housing loans guaranteed by the Secretary of Veterans Affairs.</title>
+  </titles>
+  <sponsor id="400061"/>
+  <cosponsors>
+    <cosponsor id="400010" joined="2008-03-10"/>
+    <cosponsor id="400027" joined="2008-03-10"/>
+    <cosponsor id="400144" joined="2008-04-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-03-10">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2008-03-14">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="5561"/>
+    <bill relation="unknown" session="110" type="h" number="5625"/>
+    <bill relation="unknown" session="110" type="s" number="2768"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Economics and public finance"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Finance and financial sector"/>
+    <term name="Housing and community development"/>
+    <term name="Mortgages"/>
+    <term name="Single family housing"/>
+    <term name="Veterans' loans"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/2008--Introduced.
+Amends the Economic Stimulus Act of 2008 to provide a temporary increase, during the period beginning February 13, 2008, and ending on December 31, 2008, in the maximum veterans' loan guaranty amount for housing loans guaranteed by the Department of Veterans Affairs (VA).</summary>
+</bill>

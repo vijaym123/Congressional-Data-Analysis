@@ -1,0 +1,78 @@
+<bill session="110" type="hc" number="229" updated="2013-07-19T22:10:45-04:00">
+  <state datetime="2007-11-13T12:15:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-11-13T12:15:00-05:00"/>
+  </status>
+  <introduced datetime="2007-10-09"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of the Congress that the United States should seek a review of compliance by all nations with the International Commission for the Conservation of Atlantic Tunas' conservation and management recommendations for Atlantic bluefin tuna and other species, and should pursue strengthened conservation and management measures to facilitate the recovery of the Atlantic bluefin tuna, and for other purposes.</title>
+  </titles>
+  <sponsor id="400308"/>
+  <cosponsors>
+    <cosponsor id="400007" joined="2007-10-09"/>
+    <cosponsor id="400041" joined="2007-11-13"/>
+    <cosponsor id="400049" joined="2007-10-09"/>
+    <cosponsor id="400062" joined="2007-11-08"/>
+    <cosponsor id="400102" joined="2007-11-13"/>
+    <cosponsor id="400129" joined="2007-10-09"/>
+    <cosponsor id="400149" joined="2007-10-09"/>
+    <cosponsor id="400162" joined="2007-11-08"/>
+    <cosponsor id="400178" joined="2007-10-18"/>
+    <cosponsor id="400193" joined="2007-11-13"/>
+    <cosponsor id="400215" joined="2007-10-18"/>
+    <cosponsor id="400359" joined="2007-10-09"/>
+    <cosponsor id="400425" joined="2007-11-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-10-09">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-10-10">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, and Oceans.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-11-13T12:10:00-05:00">
+      <text>Ms. Bordallo moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2007-11-13T12:11:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H13527-13528" label="consideration"/>
+    </action>
+    <action datetime="2007-11-13T12:11:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 229.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-11-13T12:15:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H13527-13528" label="text"/>
+    </vote>
+    <action datetime="2007-11-13T12:15:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-11-14">
+      <text>Received in the Senate and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII15" subcommittee="Fisheries, Wildlife, and Oceans" name="House Natural Resources"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="sr" number="368"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Atlantic Ocean"/>
+    <term name="Europe"/>
+    <term name="Fishery management"/>
+    <term name="International affairs"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Overfishing"/>
+    <term name="Sustainable fisheries"/>
+    <term name="Treaties"/>
+    <term name="Tuna"/>
+  </subjects>
+  <amendments/>
+  <summary>11/13/2007--Passed House amended.
+Declares that it is the sense of the Congress that the United States, through the International Commission for the Conservation of Atlantic Tunas, should: (1) pursue a review and assessment of compliance with conservation and management measures adopted by the Commission for the 2006 Eastern Atlantic and Mediterranean bluefin tuna fishery and other fisheries subject to Commission jurisdiction; (2) address noncompliance by nations through appropriate actions including, as appropriate, deducting a proportion of a future quota for a country to compensate for such country exceeding its quota in prior years; (3) pursue a meaningful discussion of the implementation and effectiveness of the Commission recommendation entitled "Recommendation by ICCAT to Establish a Multi-Annual Recovery Plan for Bluefin Tuna in the Eastern Atlantic and Mediterranean"; and (4) seek to strengthen conservation and management of Eastern Atlantic and Mediterranean bluefin tuna by making recommendations to halt the decline of the stock and begin to rebuild it.</summary>
+</bill>

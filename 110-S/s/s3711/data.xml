@@ -1,0 +1,49 @@
+<bill session="110" type="s" number="3711" updated="2013-07-19T22:54:10-04:00">
+  <state datetime="2008-11-20">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2008-11-20"/>
+  </status>
+  <introduced datetime="2008-11-20"/>
+  <titles>
+    <title as="introduced" type="official">A bill to authorize a cost of living adjustment for the Federal judiciary.</title>
+  </titles>
+  <sponsor id="300082"/>
+  <cosponsors>
+    <cosponsor id="300009" joined="2008-11-20"/>
+    <cosponsor id="300043" joined="2008-11-20"/>
+    <cosponsor id="300048" joined="2008-11-20"/>
+    <cosponsor id="300052" joined="2008-11-20"/>
+    <cosponsor id="300065" joined="2008-11-20"/>
+    <cosponsor id="300072" joined="2008-11-20"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2008-11-20" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S10768-10769" label="consideration"/>
+      <reference ref="CR S10769" label="text as passed Senate"/>
+      <reference ref="CR S10746" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2008-11-24">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2008-12-09T11:04:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2008-12-09">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Cost of living adjustments"/>
+    <term name="Judicial compensation"/>
+    <term name="Supreme Court justices"/>
+  </subjects>
+  <amendments/>
+  <summary>11/20/2008--Passed Senate without amendment.
+Authorizes a cost of living adjustment for FY2009 for justices and judges of the United States.</summary>
+</bill>

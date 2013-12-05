@@ -1,0 +1,103 @@
+<bill session="110" type="h" number="4343" updated="2013-07-19T21:41:55-04:00">
+  <state datetime="2007-12-13">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2007-12-13"/>
+  </status>
+  <introduced datetime="2007-12-11"/>
+  <titles>
+    <title as="introduced" type="short">Fair Treatment for Experienced Pilots Act</title>
+    <title as="passed house" type="short">Fair Treatment for Experienced Pilots Act</title>
+    <title as="passed senate" type="short">Fair Treatment for Experienced Pilots Act</title>
+    <title as="enacted" type="short">Fair Treatment for Experienced Pilots Act</title>
+    <title as="introduced" type="official">To amend title 49, United States Code, to modify age standards for pilots engaged in commercial aviation operations.</title>
+  </titles>
+  <sponsor id="400299"/>
+  <cosponsors>
+    <cosponsor id="400048" joined="2007-12-11"/>
+    <cosponsor id="400082" joined="2007-12-11"/>
+    <cosponsor id="400090" joined="2007-12-11"/>
+    <cosponsor id="400172" joined="2007-12-11"/>
+    <cosponsor id="400179" joined="2007-12-11"/>
+    <cosponsor id="400273" joined="2007-12-11"/>
+    <cosponsor id="400318" joined="2007-12-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-12-11">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2007-12-11T14:41:00-05:00">
+      <text>Mr. Costello moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-12-11T14:41:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H15252-15255" label="consideration"/>
+    </action>
+    <action datetime="2007-12-11T14:41:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4343.</text>
+    </action>
+    <action datetime="2007-12-11T15:04:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2007-12-11T19:02:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H15274-15275" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-12-11T19:08:00-05:00" how="roll" result="pass" roll="1144" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 1144).</text>
+      <reference ref="CR H15252" label="text"/>
+    </vote>
+    <action datetime="2007-12-11T19:08:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2007-12-12" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S15373" label="consideration"/>
+    </vote>
+    <topresident datetime="2007-12-12">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2007-12-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2007-12-13">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2007-12-13">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2007-12-13" type="public" number="110-135">
+      <text>Became Public Law No: 110-135.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Age discrimination"/>
+    <term name="Aircraft pilots"/>
+    <term name="Airline employees"/>
+    <term name="Airline passenger traffic"/>
+    <term name="Airlines"/>
+    <term name="Aviation safety"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Commerce"/>
+    <term name="Congress"/>
+    <term name="Congressional investigations"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Discrimination in employment"/>
+    <term name="Employee training"/>
+    <term name="Health"/>
+    <term name="Labor and employment"/>
+    <term name="Older workers"/>
+    <term name="Physical examinations"/>
+    <term name="Rating of employees"/>
+    <term name="Retirement age"/>
+    <term name="Social welfare"/>
+    <term name="Standards"/>
+  </subjects>
+  <amendments/>
+  <summary>12/13/2007--Public Law.
+Fair Treatment for Experienced Pilots Act - Amends federal transportation law to allow a pilot who has attained 60 years of age to serve as a passenger airline pilot until the age of 65, provided that a pilot who has attained age 60 may serve as pilot-in-command on international flights only if there is another pilot in the flight crew who has not yet attained 60 years of age. Prohibits subjecting pilots to different medical examinations and standards on account of age unless to ensure an adequate level of safety in flight, except that no person who has attained 60 years of age may serve as a pilot unless such person has a first-class medical certificate.Requires air carriers to: (1) continue to provide FAA-approved training to pilots, with specific emphasis on initial and recurring training and qualification of pilots who have attained 60 years of age; and (2) evaluate, every six months, the performance of pilots who have attained 60 years of age through a line check of such pilot.Requires the Comptroller General to report to Congress on the effect of the modification of pilot age requirements, if any, on aviation safety.</summary>
+</bill>

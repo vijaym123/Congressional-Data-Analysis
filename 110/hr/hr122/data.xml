@@ -1,0 +1,85 @@
+<bill session="110" type="h" number="122" updated="2013-07-19T21:04:52-04:00">
+  <state datetime="2007-03-05T14:18:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-03-05T14:18:00-05:00"/>
+  </status>
+  <introduced datetime="2007-01-04"/>
+  <titles>
+    <title as="introduced" partial="1" type="short">Inland Empire Regional Water Recycling Initiative</title>
+    <title as="passed house" type="short">Inland Empire Regional Water Recycling Initiative</title>
+    <title as="introduced" type="official">To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Secretary of the Interior to participate in the Inland Empire regional recycling project and in the Cucamonga Valley Water District recycling project.</title>
+  </titles>
+  <sponsor id="400115"/>
+  <cosponsors>
+    <cosponsor id="400009" joined="2007-03-05"/>
+    <cosponsor id="400057" joined="2007-01-04"/>
+    <cosponsor id="400277" joined="2007-01-04"/>
+    <cosponsor id="400290" joined="2007-01-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-04">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-01-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E15"/>
+    </action>
+    <action datetime="2007-02-07">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-03-05">
+      <text>Subcommittee on Water and Power Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-03-05T14:05:00-05:00">
+      <text>Mr. Grijalva moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-03-05T14:06:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2124-2125" label="consideration"/>
+    </action>
+    <action datetime="2007-03-05T14:06:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 122.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-03-05T14:18:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H2124" label="text"/>
+    </vote>
+    <action datetime="2007-03-05T14:18:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-03-06">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2007-08-01">
+      <text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral, Discharged" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSEG07" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="1054"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="California"/>
+    <term name="Economics and public finance"/>
+    <term name="Environmental protection"/>
+    <term name="Federal aid to water pollution control"/>
+    <term name="Federal aid to water resources development"/>
+    <term name="Infrastructure"/>
+    <term name="Waste water treatment"/>
+    <term name="Water conservation"/>
+    <term name="Water districts"/>
+    <term name="Water treatment plants"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/2007--Passed House amended.
+Inland Empire Regional Water Recycling Initiative - Amends the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Secretary of the Interior: (1) in cooperation with the Inland Empire Utilities Agency, to participate in the design, planning, and construction of the Inland Empire regional water recycling project; and (2) in cooperation with the Cucamonga Valley Water District, to participate in the design, planning, and construction of the Cucamonga Valley Water District satellite recycling plants in Rancho Cucamonga, California, to reclaim and recycle approximately two million gallons per day of domestic wastewater. Limits the federal share of the cost of each project to 25%. Terminates the Secretary's authority to carry out the provisions of this Act 10 years after its enactment.</summary>
+</bill>

@@ -1,0 +1,69 @@
+<bill session="109" type="h" number="5644" updated="2013-07-19T19:54:19-04:00">
+  <state datetime="2006-06-20">REFERRED</state>
+  <status>
+    <introduced datetime="2006-06-20"/>
+  </status>
+  <introduced datetime="2006-06-20"/>
+  <titles>
+    <title as="introduced" type="short">Green Energy Education Act of 2006</title>
+    <title as="introduced" type="official">To authorize higher education curriculum development and graduate training in advanced energy and green building technologies.</title>
+  </titles>
+  <sponsor id="400654"/>
+  <cosponsors>
+    <cosponsor id="400027" joined="2006-06-20"/>
+    <cosponsor id="400035" joined="2006-06-21"/>
+    <cosponsor id="400119" joined="2006-06-20"/>
+    <cosponsor id="400138" joined="2006-09-07"/>
+    <cosponsor id="400165" joined="2006-06-20"/>
+    <cosponsor id="400649" joined="2006-06-20"/>
+    <cosponsor id="400260" joined="2006-09-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-06-20">
+      <text>Referred to the House Committee on Science.</text>
+    </action>
+    <action datetime="2006-06-27">
+      <text>For Further Action See H.R.5656.</text>
+      <committee name="House Committee on Science"/>
+    </action>
+    <action datetime="2006-07-18">
+      <text>Referred to the Subcommittee on Energy.</text>
+      <committee name="House Committee on Science"/>
+    </action>
+    <action datetime="2006-07-18">
+      <text>Referred to the Subcommittee on Research.</text>
+      <committee name="House Committee on Science"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSY20" subcommittee="Energy" name="House Science"/>
+    <committee activity="Referral" code="HSSY14" subcommittee="Research" name="House Science"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="5656"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Architecture"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Building construction"/>
+    <term name="Commercialization"/>
+    <term name="Curricula"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Energy conservation"/>
+    <term name="Energy research"/>
+    <term name="Engineering"/>
+    <term name="Federal aid to education"/>
+    <term name="Graduate education"/>
+    <term name="High technology"/>
+    <term name="Higher education"/>
+    <term name="Infrastructure"/>
+    <term name="Research and development"/>
+    <term name="Technological innovations"/>
+  </subjects>
+  <amendments/>
+  <summary>6/20/2006--Introduced.
+Green Energy Education Act of 2006 - Authorizes the Secretary of Energy to contribute energy research and development funds to the National Science Foundation (NSF) for the Integrative Graduate Education and Research Traineeship program to support graduate education related to such energy projects. Authorizes the Secretary to contribute funds for advanced energy technology research and development for high performance buildings to the NSF for curriculum development to improve undergraduate or graduate interdisciplinary engineering and architecture education related to the design and construction of such buildings.</summary>
+</bill>

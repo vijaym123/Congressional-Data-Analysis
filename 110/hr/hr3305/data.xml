@@ -1,0 +1,53 @@
+<bill session="110" type="h" number="3305" updated="2013-07-19T21:32:55-04:00">
+  <state datetime="2007-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2007-08-01"/>
+  </status>
+  <introduced datetime="2007-08-01"/>
+  <titles>
+    <title as="introduced" type="short">Anti-Terrorism Act of 2007</title>
+    <title as="introduced" type="official">To provide for the safety of United States aviation and the suppression of terrorism.</title>
+  </titles>
+  <sponsor id="400311"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2007-08-01">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2007-08-01">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2007-08-01">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2007-08-02">
+      <text>Referred to the Subcommittee on Aviation.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2007-08-07">
+      <text>Referred to the Subcommittee on Transportation Security and Infrastructure Protection.</text>
+      <committee name="House Homeland Security"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Transportation and Infrastructure"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSHM07" subcommittee="Transportation Security and Infrastructure Protection" name="House Homeland Security"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Aircraft pilots"/>
+    <term name="Airline passenger traffic"/>
+    <term name="Aviation safety"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Federal law enforcement officers"/>
+    <term name="Firearms"/>
+    <term name="Law enforcement officers"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/2007--Introduced.
+Anti-Terrorism Act of 2007 - Provides that no federal agency shall prohibit an airline pilot, copilot, or navigator, or law enforcement person specifically detailed for protection of an aircraft, from carrying a firearm.</summary>
+</bill>

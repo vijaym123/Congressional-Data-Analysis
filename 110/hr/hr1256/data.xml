@@ -1,0 +1,45 @@
+<bill session="110" type="h" number="1256" updated="2013-07-19T21:14:41-04:00">
+  <state datetime="2007-03-01">REFERRED</state>
+  <status>
+    <introduced datetime="2007-03-01"/>
+  </status>
+  <introduced datetime="2007-03-01"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 5, United States Code, to increase the level of Government contributions under the Federal employees health benefits program.</title>
+  </titles>
+  <sponsor id="400189"/>
+  <cosponsors>
+    <cosponsor id="400098" joined="2008-03-04"/>
+    <cosponsor id="400133" joined="2008-03-04"/>
+    <cosponsor id="400140" joined="2008-03-14"/>
+    <cosponsor id="400283" joined="2008-04-10"/>
+    <cosponsor id="400308" joined="2007-11-13"/>
+    <cosponsor id="400346" joined="2008-03-14"/>
+    <cosponsor id="400360" joined="2008-07-30"/>
+    <cosponsor id="400415" joined="2008-03-14"/>
+    <cosponsor id="400435" joined="2007-03-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-03-01">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2007-03-27">
+      <text>Referred to the Subcommittee on Federal Workforce, Post Office, and the District of Columbia.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO25" subcommittee="Federal Workforce, Post Office, and the District of Columbia" name="House Oversight and Government Reform"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Federal employees"/>
+    <term name="Government employees' health insurance"/>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary>3/1/2007--Introduced.
+Increases: (1) the biweekly government contribution for health benefits for an employee or annuitant enrolled in the federal employees health benefits program from 72% to 80% of the weighted average of subscription charges; and (2) the limit on the government contribution for an employee or annuitant from 75% to 83% of the subscription charge.</summary>
+</bill>

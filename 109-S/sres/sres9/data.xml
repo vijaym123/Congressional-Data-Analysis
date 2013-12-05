@@ -1,0 +1,51 @@
+<bill session="109" type="sr" number="9" updated="2013-07-19T20:06:57-04:00">
+  <state datetime="2005-11-10">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2005-11-10"/>
+  </status>
+  <introduced datetime="2005-01-24"/>
+  <titles>
+    <title as="introduced" type="official">A resolution expressing the sense of the Senate regarding designation of the month of November as "National Military Family Month".</title>
+  </titles>
+  <sponsor id="300056"/>
+  <cosponsors>
+    <cosponsor id="400619" joined="2005-11-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-01-24">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S369"/>
+    </action>
+    <action state="REFERRED" datetime="2005-01-24">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S369" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2005-11-10">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2005-11-10">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S12711" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2005-11-10" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S12711" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Armed forces and national security"/>
+    <term name="Families"/>
+    <term name="Military dependents"/>
+    <term name="Special months"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2520"/>
+  </amendments>
+  <summary>11/10/2005--Passed Senate amended.
+Requests the President to designate the month of November as National Military Family Month.</summary>
+</bill>

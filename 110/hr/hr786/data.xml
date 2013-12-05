@@ -1,0 +1,74 @@
+<bill session="110" type="h" number="786" updated="2013-07-19T21:10:38-04:00">
+  <state datetime="2007-04-17T13:10:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-04-17T13:10:00-04:00"/>
+  </status>
+  <introduced datetime="2007-01-31"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Secretary of the Interior to participate in the Los Angeles County Water Supply Augmentation Demonstration Project, and for other purposes.</title>
+  </titles>
+  <sponsor id="400355"/>
+  <cosponsors>
+    <cosponsor id="400290" joined="2007-01-31"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-31">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2007-02-07">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2007-04-17T13:04:00-04:00">
+      <text>Mr. Grijalva moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-04-17T13:04:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3413-3414" label="consideration"/>
+    </action>
+    <action datetime="2007-04-17T13:04:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 786.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-04-17T13:10:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H3413" label="text"/>
+    </vote>
+    <action datetime="2007-04-17T13:10:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-04-18">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2008-04-08">
+      <text>Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSEG07" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Animals"/>
+    <term name="California"/>
+    <term name="Congress"/>
+    <term name="Economics and public finance"/>
+    <term name="Environmental protection"/>
+    <term name="Federal aid to water pollution control"/>
+    <term name="Federal aid to water resources development"/>
+    <term name="Habitat conservation"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Restoration ecology"/>
+    <term name="Sunset legislation"/>
+    <term name="Waste water treatment"/>
+    <term name="Water conservation"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>4/17/2007--Passed House without amendment.
+Amends the Reclamation Wastewater and Groundwater Study and Facilities Act to authorize the Secretary of the Interior to participate in a neighborhood demonstration project to: (1) demonstrate the potential for infiltration of stormwater runoff to recharge groundwater by retrofitting sites in the Los Angeles area with features designed to reflect state-of-the-art best management practices for water conservation, pollution reduction and treatment, and habitat restoration; and (2) assess the potential new water supply yield based on increased infiltration and the value of the new water. Limits the federal share to 25% of the project's cost. Terminates the Secretary's authority to carry out this Act 10 years after its enactment.</summary>
+</bill>

@@ -1,0 +1,80 @@
+<bill session="109" type="hj" number="78" updated="2013-07-19T20:01:56-04:00">
+  <state datetime="2006-03-29">REPORTED</state>
+  <status>
+    <unknown datetime="2006-03-29"/>
+  </status>
+  <introduced datetime="2006-02-08"/>
+  <titles>
+    <title as="introduced" type="official">Approving the location of the commemorative work in the District of Columbia honoring former President Dwight D. Eisenhower.</title>
+  </titles>
+  <sponsor id="400284"/>
+  <cosponsors>
+    <cosponsor id="400042" joined="2006-02-08"/>
+    <cosponsor id="400110" joined="2006-02-08"/>
+    <cosponsor id="400121" joined="2006-02-28"/>
+    <cosponsor id="400126" joined="2006-03-09"/>
+    <cosponsor id="400662" joined="2006-03-30"/>
+    <cosponsor id="400263" joined="2006-03-07"/>
+    <cosponsor id="400279" joined="2006-03-16"/>
+    <cosponsor id="400282" joined="2006-02-08"/>
+    <cosponsor id="400321" joined="2006-02-16"/>
+    <cosponsor id="400353" joined="2006-02-08"/>
+    <cosponsor id="400404" joined="2006-02-08"/>
+    <cosponsor id="400405" joined="2006-02-08"/>
+    <cosponsor id="400433" joined="2006-02-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-02-08">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2006-02-10">
+      <text>Referred to the Subcommittee on National Parks.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-02-10">
+      <text>Executive Comment Requested from Interior.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-03-29">
+      <text>Subcommittee on National Parks Discharged.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-03-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-03-29">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="2006-04-25T17:30:00-04:00">
+      <text>Reported by the Committee on Resources. H. Rept. 109-425.</text>
+    </action>
+    <calendar datetime="2006-04-25T17:30:00-04:00" calendar="Union" number="234">
+      <text>Placed on the Union Calendar, Calendar No. 234.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSII10" subcommittee="National Parks, Recreation, and Public Lands" name="House Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="sj" number="28"/>
+    <bill relation="unknown" session="109" type="sj" number="28"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="District of Columbia"/>
+    <term name="Eisenhower Administration"/>
+    <term name="Ex-presidents"/>
+    <term name="Government operations and politics"/>
+    <term name="History"/>
+    <term name="Monuments and memorials"/>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>4/25/2006--Reported to House without amendment.
+Approves the location on federal land within the District of Columbia recommended by the Secretary of the Interior for the commemorative work to honor Dwight D. Eisenhower.</summary>
+</bill>

@@ -1,0 +1,57 @@
+<bill session="110" type="s" number="1596" updated="2013-07-19T22:34:16-04:00">
+  <state datetime="2007-08-01">REPORTED</state>
+  <status>
+    <unknown datetime="2007-08-01"/>
+  </status>
+  <introduced datetime="2007-06-12"/>
+  <titles>
+    <title as="introduced" type="official">A bill to designate the facility of the United States Postal Service located at 103 South Getty Street in Uvalde, Texas, as the "Dolph S. Briscoe, Jr. Post Office Building".</title>
+  </titles>
+  <sponsor id="300054"/>
+  <cosponsors>
+    <cosponsor id="300027" joined="2007-06-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-06-12">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2007-07-13">
+      <text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-08-01">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2007-08-01">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2007-08-01" calendar="Senate Legislative" under="General Orders" number="297">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 297.</text>
+    </calendar>
+    <action datetime="2007-09-28">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+      <reference ref="CR S12340" label="consideration"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSGA09" subcommittee="Federal Financial Management, Government Information, Federal Services, and International Security" name="Senate Homeland Security and Governmental Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="h" number="2688"/>
+    <bill relation="unknown" session="110" type="h" number="2688"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Government operations and politics"/>
+    <term name="Governors"/>
+    <term name="Names"/>
+    <term name="Postal facilities"/>
+    <term name="Texas"/>
+  </subjects>
+  <amendments/>
+  <summary>6/12/2007--Introduced.
+Designates the facility of the United States Postal Service located at 103 South Getty Street in Uvalde, Texas, as the "Dolph S. Briscoe, Jr. Post Office Building."</summary>
+</bill>

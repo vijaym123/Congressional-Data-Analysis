@@ -1,0 +1,82 @@
+<bill session="109" type="hc" number="196" updated="2013-07-19T20:03:50-04:00">
+  <state datetime="2005-12-22">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2005-12-22"/>
+  </status>
+  <introduced datetime="2005-06-30"/>
+  <titles>
+    <title as="introduced" type="official">Honoring the pilots of United States commercial air carriers who volunteer to participate in the Federal flight deck officer program.</title>
+  </titles>
+  <sponsor id="400273"/>
+  <cosponsors>
+    <cosponsor id="400082" joined="2005-06-30"/>
+    <cosponsor id="400100" joined="2005-06-30"/>
+    <cosponsor id="400617" joined="2005-06-30"/>
+    <cosponsor id="400440" joined="2005-06-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-06-30">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2005-12-07T10:43:00-05:00">
+      <text>Mr. Pearce moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2005-12-07T10:44:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11118-11120" label="consideration"/>
+    </action>
+    <action datetime="2005-12-07T10:44:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 196.</text>
+    </action>
+    <action datetime="2005-12-07T10:59:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2005-12-07T14:11:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H11118" label="consideration"/>
+    </action>
+    <action datetime="2005-12-07T14:21:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-12-07T14:21:00-05:00" how="roll" result="pass" roll="614" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 413 - 2 (Roll no. 614).</text>
+      <reference ref="CR H11118" label="text"/>
+    </vote>
+    <action datetime="2005-12-12">
+      <text>Received in the Senate and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <action datetime="2005-12-22">
+      <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2005-12-22" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S14408" label="consideration"/>
+    </vote>
+    <action datetime="2005-12-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Aircraft pilots"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Federal law enforcement officers"/>
+    <term name="Firearms"/>
+    <term name="Government operations and politics"/>
+    <term name="Labor and employment"/>
+    <term name="Social welfare"/>
+    <term name="Terrorism"/>
+    <term name="Transportation and public works"/>
+    <term name="Volunteer workers"/>
+  </subjects>
+  <amendments/>
+  <summary>12/22/2005--Passed Senate without amendment.
+Recognizes that volunteer pilots in the federal flight deck officer program are consummate quiet professionals that embody what is best in our national character. Applauds them for taking a stand against those who seek to harm the United States through acts of terrorism in the air. Expresses appreciation to such pilots on behalf of all U.S. citizens for their ongoing contribution to the security of the Nation and its air transportation system.</summary>
+</bill>

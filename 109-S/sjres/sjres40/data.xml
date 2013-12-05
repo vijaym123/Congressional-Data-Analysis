@@ -1,0 +1,76 @@
+<bill session="109" type="sj" number="40" updated="2013-07-19T20:06:52-04:00">
+  <state datetime="2006-07-25">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2006-07-25"/>
+  </status>
+  <introduced datetime="2006-06-29"/>
+  <titles>
+    <title as="introduced" type="official">A joint resolution authorizing the printing and binding of a supplement to, and revised edition of, Senate Procedure.</title>
+  </titles>
+  <sponsor id="300045"/>
+  <cosponsors>
+    <cosponsor id="300016" joined="2006-06-29"/>
+    <cosponsor id="300082" joined="2006-06-29"/>
+    <cosponsor id="300094" joined="2006-06-29"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2006-06-29" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S7178" label="consideration"/>
+      <reference ref="CR S7178" label="text as passed Senate"/>
+      <reference ref="CR S6810" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2006-06-29T20:19:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-06-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-06-29">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2006-07-11T15:29:00-04:00">
+      <text>Committee on House Administration discharged.</text>
+    </action>
+    <action datetime="2006-07-11T15:29:00-04:00">
+      <text>Mr. Ehlers asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2006-07-11T15:29:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H5010" label="consideration"/>
+    </action>
+    <vote state="PASSED:BILL" datetime="2006-07-11T15:29:00-04:00" how="without objection" result="pass" type="vote2" where="h">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H5010" label="text"/>
+    </vote>
+    <action datetime="2006-07-11T15:29:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2006-07-11">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2006-07-14">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2006-07-25">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2006-07-25" type="public" number="109-244">
+      <text>Became Public Law No: 109-244.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional publications"/>
+    <term name="Government operations and politics"/>
+    <term name="Senate"/>
+    <term name="Senate rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>7/25/2006--Public Law.
+Authorizes the printing and binding as a Senate document of: (1) a supplement to "Riddick's Senate Procedure," to be styled "Frumin's Supplement to Riddick's Senate Procedure"; and (2) a revised edition of "Riddick's Senate Procedure," to be styled "Frumin's Senate Procedure."</summary>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="110" type="h" number="1323" updated="2013-07-19T21:15:16-04:00">
+  <state datetime="2007-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2007-03-05"/>
+  </status>
+  <introduced datetime="2007-03-05"/>
+  <titles>
+    <title as="introduced" type="official">To authorize a major medical facility project for the Department of Veterans Affairs at Denver, Colorado.</title>
+  </titles>
+  <sponsor id="400620"/>
+  <cosponsors>
+    <cosponsor id="400101" joined="2007-03-09"/>
+    <cosponsor id="400287" joined="2007-03-09"/>
+    <cosponsor id="412192" joined="2007-03-05"/>
+    <cosponsor id="400394" joined="2007-03-09"/>
+    <cosponsor id="400412" joined="2007-03-09"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-03-05">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2007-03-09">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="472"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Building construction"/>
+    <term name="Colorado"/>
+    <term name="Construction costs"/>
+    <term name="Health"/>
+    <term name="Land transfers"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Veterans' hospitals"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/2007--Introduced.
+Authorizes the Secretary of Veterans Affairs to carry out a major medical facility project for a replacement facility for the Department of Veterans Affairs Medical Center, Denver, Colorado.</summary>
+</bill>

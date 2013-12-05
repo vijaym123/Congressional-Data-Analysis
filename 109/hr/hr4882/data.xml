@@ -1,0 +1,103 @@
+<bill session="109" type="h" number="4882" updated="2013-07-19T19:47:23-04:00">
+  <state datetime="2006-03-28T18:51:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-03-28T18:51:00-05:00"/>
+  </status>
+  <introduced datetime="2006-03-07"/>
+  <titles>
+    <title as="introduced" type="short">Vietnam Veterans Memorial Visitor Center Deadline Enforcement Act</title>
+    <title as="reported to house" type="short">Vietnam Veterans Memorial Visitor Center Deadline Enforcement Act</title>
+    <title as="passed house" type="short">Vietnam Veterans Memorial Visitor Center Enforcement Act</title>
+    <title as="introduced" type="official">To ensure the proper remembrance of Vietnam veterans and the Vietnam War by providing a deadline for the designation of a visitor center for the Vietnam Veterans Memorial.</title>
+    <title as="amended by house" type="official">To ensure the proper remembrance of Vietnam veterans and the Vietnam War by designating a site for a visitor center for the Vietnam Veterans Memorial.</title>
+  </titles>
+  <sponsor id="400322"/>
+  <cosponsors>
+    <cosponsor id="400073" joined="2006-03-07"/>
+    <cosponsor id="400113" joined="2006-03-28"/>
+    <cosponsor id="400253" joined="2006-03-14"/>
+    <cosponsor id="400313" joined="2006-03-07"/>
+    <cosponsor id="400331" joined="2006-03-07"/>
+    <cosponsor id="400428" joined="2006-03-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-03-07">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2006-03-08">
+      <text>Executive Comment Requested from Interior.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-03-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-03-15">
+      <text>Ordered to be Reported by the Yeas and Nays: 32 - 0.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="2006-03-28T14:00:00-05:00">
+      <text>Reported by the Committee on Resources. H. Rept. 109-400.</text>
+    </action>
+    <calendar datetime="2006-03-28T14:03:00-05:00" calendar="Union" number="218">
+      <text>Placed on the Union Calendar, Calendar No. 218.</text>
+    </calendar>
+    <action datetime="2006-03-28T14:28:00-05:00">
+      <text>Mr. Pearce moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2006-03-28T14:28:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1137-1139" label="consideration"/>
+    </action>
+    <action datetime="2006-03-28T14:28:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4882.</text>
+    </action>
+    <action datetime="2006-03-28T14:39:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2006-03-28T18:31:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H1162-1163" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-03-28T18:51:00-05:00" how="roll" result="pass" roll="68" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 4 (Roll no. 68).</text>
+      <reference ref="CR H1137" label="text"/>
+    </vote>
+    <action datetime="2006-03-28T18:51:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-03-28T18:52:00-05:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-03-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2006-05-16">
+      <text>Subcommittee on National Parks. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="National Parks" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="2419"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Armed forces and national security"/>
+    <term name="Commemorations"/>
+    <term name="District of Columbia"/>
+    <term name="Government operations and politics"/>
+    <term name="History"/>
+    <term name="Monuments and memorials"/>
+    <term name="Tourism"/>
+    <term name="Vietnam veterans"/>
+    <term name="Vietnamese Conflict"/>
+  </subjects>
+  <amendments/>
+  <summary>3/28/2006--Passed House amended.
+Vietnam Veterans Memorial Visitor Center Enforcement Act - Amends federal law which authorized construction of a Vietnam Veterans Memorial Visitor Center in Washington, D.C. to require the Center to be located in the triangular area between Henry Bacon Drive, NW, 23rd Street, NW, Constitution Avenue, NW, and the Lincoln Memorial.</summary>
+</bill>

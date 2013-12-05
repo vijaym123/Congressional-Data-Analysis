@@ -1,0 +1,72 @@
+<bill session="109" type="s" number="2068" updated="2013-07-19T20:31:29-04:00">
+  <state datetime="2006-08-03">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2006-08-03"/>
+  </status>
+  <introduced datetime="2005-11-18"/>
+  <titles>
+    <title as="introduced" type="official">A bill to preserve existing judgeships on the Superior Court of the District of Columbia.</title>
+  </titles>
+  <sponsor id="300025"/>
+  <cosponsors>
+    <cosponsor id="300001" joined="2005-11-18"/>
+    <cosponsor id="300067" joined="2006-06-13"/>
+    <cosponsor id="300098" joined="2005-11-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-11-18">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S13376-13377"/>
+    </action>
+    <action state="REFERRED" datetime="2005-11-18">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2006-01-27">
+      <text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Oversight of Government Management, the Federal Workforce,  and the District of Columbia.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-06-15">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2006-07-31">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Collins without amendment. With written report No. 109-316.</text>
+    </action>
+    <calendar datetime="2006-07-31" calendar="Senate Legislative" under="General Orders" number="559">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 559.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2006-08-03" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S8884" label="consideration"/>
+      <reference ref="CR S8884" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2006-08-04">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-09-06T14:04:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-09-06">
+      <text>Referred to the House Committee on Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSGA03" subcommittee="Oversight of Government Management, the Federal Workforce, and the District of Columbia" name="Senate Homeland Security and Governmental Affairs"/>
+    <committee code="HSGO" name="House Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="5153"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Crime and law enforcement"/>
+    <term name="District of Columbia"/>
+    <term name="Government operations and politics"/>
+    <term name="Judges"/>
+    <term name="State courts"/>
+  </subjects>
+  <amendments/>
+  <summary>8/3/2006--Passed Senate without amendment.
+Amends the District of Columbia Code to increase from 58 to 61 the number of associate judges on the Superior Court of the District of Columbia.</summary>
+</bill>

@@ -1,0 +1,76 @@
+<bill session="109" type="h" number="3885" updated="2013-07-19T19:38:42-04:00">
+  <state datetime="2006-12-09T02:26:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-12-09T02:26:00-05:00"/>
+  </status>
+  <introduced datetime="2005-09-22"/>
+  <titles>
+    <title as="introduced" type="short">District of Columbia and United States Territories Circulating Quarter Dollar Program Act</title>
+    <title as="passed house" type="short">District of Columbia and United States Territories Circulating Quarter Dollar Program Act</title>
+    <title as="introduced" type="official">To provide for a circulating quarter dollar coin program to honor the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands, and for other purposes.</title>
+  </titles>
+  <sponsor id="400295"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2005-09-22"/>
+    <cosponsor id="400070" joined="2006-12-07"/>
+    <cosponsor id="400073" joined="2005-09-22"/>
+    <cosponsor id="400128" joined="2005-09-22"/>
+    <cosponsor id="400662" joined="2005-09-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-09-22">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2005-10-17">
+      <text>Referred to the Subcommittee on Domestic and International Monetary Policy, Trade, and Technology.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2006-12-09T02:25:00-05:00">
+      <text>Committee on Financial Services discharged.</text>
+    </action>
+    <action datetime="2006-12-09T02:25:00-05:00">
+      <text>Mr. Castle asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2006-12-09T02:26:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR 12/8/2006 H9300-9301" label="consideration"/>
+      <reference ref="CR 12/8/2006 H9301" label="text of measure as introduced"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-12-09T02:26:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+    </vote>
+    <action datetime="2006-12-09T02:26:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-12-09">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSBA19" subcommittee="Domestic and International Monetary Policy, Trade, and Technology" name="House Financial Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="American Samoa"/>
+    <term name="Coins and coinage"/>
+    <term name="Commemorations"/>
+    <term name="Copper"/>
+    <term name="District of Columbia"/>
+    <term name="Federal-city relations"/>
+    <term name="Federal-territorial relations"/>
+    <term name="Government operations and politics"/>
+    <term name="Guam"/>
+    <term name="Northern Mariana Islands"/>
+    <term name="Puerto Rico"/>
+    <term name="Silver"/>
+    <term name="Urban affairs"/>
+    <term name="Virgin Islands"/>
+  </subjects>
+  <amendments>
+    <amendment number="h1221"/>
+  </amendments>
+  <summary>12/9/2006--Passed House amended.
+District of Columbia and United States Territories Circulating Quarter Dollar Program Act - Authorizes the Secretary of the Treasury to issue during 2009 redesigned quarter dollars commemorating the District of Columbia and the U.S. Territories, including the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.</summary>
+</bill>

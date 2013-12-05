@@ -1,0 +1,97 @@
+<bill session="109" type="h" number="4377" updated="2013-07-19T19:43:00-04:00">
+  <state datetime="2006-12-13">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2006-12-13"/>
+  </status>
+  <introduced datetime="2005-11-17"/>
+  <titles>
+    <title as="introduced" type="official">To extend the time required for construction of a hydroelectric project, and for other purposes.</title>
+  </titles>
+  <sponsor id="400305"/>
+  <cosponsors>
+    <cosponsor id="400376" joined="2005-11-17"/>
+    <cosponsor id="400437" joined="2006-09-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-11-17">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2005-12-02">
+      <text>Referred to the Subcommittee on Energy and Air Quality.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2006-09-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-09-20">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2006-09-26T18:27:00-04:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 109-684.</text>
+    </action>
+    <calendar datetime="2006-09-26T18:27:00-04:00" calendar="Union" number="414">
+      <text>Placed on the Union Calendar, Calendar No. 414.</text>
+    </calendar>
+    <action datetime="2006-09-26T20:01:00-04:00">
+      <text>Mr. Otter moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-09-26T20:02:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7450-7451" label="consideration"/>
+    </action>
+    <action datetime="2006-09-26T20:02:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4377.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-09-26T20:06:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H7450" label="text"/>
+    </vote>
+    <action datetime="2006-09-26T20:06:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="2006-09-27" calendar="Senate Legislative" under="General Orders" number="643">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 643.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="2006-11-16" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11106" label="consideration"/>
+    </vote>
+    <topresident datetime="2006-11-16">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2006-11-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2006-12-05">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2006-12-13">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2006-12-13" type="public" number="109-393">
+      <text>Became Public Law No: 109-393.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Air Quality" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="2035"/>
+    <bill relation="identical" session="109" type="s" number="2035"/>
+    <bill relation="unknown" session="109" type="s" number="2035"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Hydroelectric power"/>
+    <term name="Idaho"/>
+    <term name="Law"/>
+    <term name="Licenses"/>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+  <summary>12/13/2006--Public Law.
+Instructs the Federal Energy Regulatory Commission (FERC), upon licensee request, to: (1) extend the period for commencing construction of project works 4656 (Arrowrock Hydroelectric Project, Idaho) for a period of three years if the license for the project is in effect on the date of the enactment of this Act; or (2) reinstate the license and extend the period for commencing construction of such project works for an additional three-year period if the project license has been terminated before the date of enactment of this Act.</summary>
+</bill>

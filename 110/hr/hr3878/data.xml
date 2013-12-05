@@ -1,0 +1,51 @@
+<bill session="110" type="h" number="3878" updated="2013-07-19T21:37:52-04:00">
+  <state datetime="2007-10-17">REFERRED</state>
+  <status>
+    <introduced datetime="2007-10-17"/>
+  </status>
+  <introduced datetime="2007-10-17"/>
+  <titles>
+    <title as="introduced" type="official">To authorize the National Science Foundation to accept and use contributed funds from the Department of Energy for certain activities related to the Energy for Sustainability program.</title>
+  </titles>
+  <sponsor id="400654"/>
+  <cosponsors>
+    <cosponsor id="400639" joined="2007-10-17"/>
+    <cosponsor id="400648" joined="2007-10-17"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-10-17">
+      <text>Referred to the House Committee on Science and Technology.</text>
+    </action>
+    <action datetime="2007-10-22">
+      <text>Referred to the Subcommittee on Energy and Environment.</text>
+      <committee name="House Committee on Science and Technology"/>
+    </action>
+    <action datetime="2007-10-22">
+      <text>Referred to the Subcommittee on Research and Science Education.</text>
+      <committee name="House Committee on Science and Technology"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science and Technology" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSY20" subcommittee="Energy and Environment" name="House Science and Technology"/>
+    <committee activity="Referral" code="HSSY14" subcommittee="Research and Science Education" name="House Science and Technology"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Alternative energy sources"/>
+    <term name="Economics and public finance"/>
+    <term name="Energy conservation"/>
+    <term name="Energy efficiency"/>
+    <term name="Energy research"/>
+    <term name="Federal aid to research"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Research and development"/>
+    <term name="Research grants"/>
+    <term name="Science, technology, communications"/>
+    <term name="Sustainable development"/>
+  </subjects>
+  <amendments/>
+  <summary>10/17/2007--Introduced.
+Authorizes the National Science Foundation (NSF), in carrying out its Energy for Sustainability program, to accept and use funds contributed by the Department of Energy (DOE) from the Energy Efficiency and Renewable Energy program, to support projects that enable related research and development activities within those programs. Requires the Director of the NSF to consult with the Assistant Secretary of Energy for Energy Efficiency and Renewable Energy when preparing solicitations for such projects.</summary>
+</bill>

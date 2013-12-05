@@ -1,0 +1,55 @@
+<bill session="109" type="hr" number="59" updated="2013-07-19T18:55:00-04:00">
+  <state datetime="2005-02-02T13:10:00-05:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2005-02-02T13:10:00-05:00"/>
+  </status>
+  <introduced datetime="2005-02-01"/>
+  <titles>
+    <title as="introduced" type="official">Providing for consideration of the concurrent resolution (H. Con. Res. 36) expressing the continued support of Congress for equal access of military recruiters to institutions of higher education.</title>
+  </titles>
+  <sponsor id="400077"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2005-02-01T19:20:00-05:00">
+      <text>The House Committee on Rules reported an original measure, H. Rept. 109-2, by Mr. Cole (OK).</text>
+    </action>
+    <action datetime="2005-02-01T19:20:00-05:00">
+      <text>Rule provides for consideration of H. Con. Res. 36 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2005-02-01T19:21:00-05:00" calendar="House" number="2">
+      <text>Placed on the House Calendar, Calendar No. 2.</text>
+    </calendar>
+    <action datetime="2005-02-02T12:42:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H310-315" label="consideration"/>
+    </action>
+    <action datetime="2005-02-02T12:43:00-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H. Res. 59.</text>
+    </action>
+    <action datetime="2005-02-02T13:10:00-05:00">
+      <text>The previous question was ordered without objection.</text>
+      <reference ref="CR H315" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2005-02-02T13:10:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H310" label="text"/>
+    </vote>
+    <action datetime="2005-02-02T13:10:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="109" type="hc" number="36"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Armed forces and national security"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/2005--Passed House without amendment.
+Sets forth the rule for consideration of the concurrent resolution (H. Con. Res. 36) expressing the continued support of Congress for equal access of military recruiters to institutions of higher education.</summary>
+</bill>

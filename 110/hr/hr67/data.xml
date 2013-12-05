@@ -1,0 +1,138 @@
+<bill session="110" type="h" number="67" updated="2013-07-19T21:04:24-04:00">
+  <state datetime="2007-05-23T18:22:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-05-23T18:22:00-04:00"/>
+  </status>
+  <introduced datetime="2007-01-04"/>
+  <titles>
+    <title as="introduced" type="short">Veterans Outreach Improvement Act of 2007</title>
+    <title as="passed house" type="short">Veterans Outreach Improvement Act of 2007</title>
+    <title as="introduced" type="official">To amend title 38, United States Code, to improve the outreach activities of the Department of Veterans Affairs, and for other purposes.</title>
+  </titles>
+  <sponsor id="400266"/>
+  <cosponsors>
+    <cosponsor id="400024" joined="2007-05-07"/>
+    <cosponsor id="400033" joined="2007-05-22"/>
+    <cosponsor id="400048" joined="2007-05-15"/>
+    <cosponsor id="400055" joined="2007-05-09"/>
+    <cosponsor id="400076" joined="2007-05-15"/>
+    <cosponsor id="412236" joined="2007-05-07"/>
+    <cosponsor id="400100" joined="2007-05-15"/>
+    <cosponsor id="400102" joined="2007-05-09"/>
+    <cosponsor id="400114" joined="2007-05-15"/>
+    <cosponsor id="412215" joined="2007-05-15"/>
+    <cosponsor id="400122" joined="2007-05-17"/>
+    <cosponsor id="400125" joined="2007-05-09"/>
+    <cosponsor id="400130" joined="2007-05-07"/>
+    <cosponsor id="400133" joined="2007-05-01"/>
+    <cosponsor id="412222" joined="2007-05-07"/>
+    <cosponsor id="412204" joined="2007-05-07"/>
+    <cosponsor id="400199" joined="2007-05-01"/>
+    <cosponsor id="400204" joined="2007-05-10"/>
+    <cosponsor id="400208" joined="2007-05-07"/>
+    <cosponsor id="400255" joined="2007-05-16"/>
+    <cosponsor id="400257" joined="2007-05-15"/>
+    <cosponsor id="400262" joined="2007-05-17"/>
+    <cosponsor id="400263" joined="2007-05-10"/>
+    <cosponsor id="400313" joined="2007-05-22"/>
+    <cosponsor id="400316" joined="2007-05-09"/>
+    <cosponsor id="400339" joined="2007-05-07"/>
+    <cosponsor id="400364" joined="2007-05-09"/>
+    <cosponsor id="412219" joined="2007-05-09"/>
+    <cosponsor id="400385" joined="2007-04-17"/>
+    <cosponsor id="412229" joined="2007-05-22"/>
+    <cosponsor id="412228" joined="2007-05-15"/>
+    <cosponsor id="412214" joined="2007-05-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-04">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2007-03-02">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2007-04-17">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2007-05-08">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2007-05-08">
+      <text>Forwarded by Subcommittee to Full Committee by Unanimous Consent .</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2007-05-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-05-15">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2007-05-23T14:54:00-04:00">
+      <text>Mr. Filner moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-05-23T14:54:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5656-5660" label="consideration"/>
+    </action>
+    <action datetime="2007-05-23T14:54:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 67.</text>
+    </action>
+    <action datetime="2007-05-23T15:10:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2007-05-23T18:01:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5680-5681" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-05-23T18:22:00-04:00" how="roll" result="pass" roll="410" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 410).</text>
+      <reference ref="CR H5657" label="text"/>
+    </vote>
+    <action datetime="2007-05-23T18:22:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-05-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative procedure"/>
+    <term name="Authorization"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Continuing education"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Employee training"/>
+    <term name="Families"/>
+    <term name="Federal-state relations"/>
+    <term name="Government operations and politics"/>
+    <term name="Government publicity"/>
+    <term name="Grants-in-aid"/>
+    <term name="Health"/>
+    <term name="Higher education"/>
+    <term name="Labor and employment"/>
+    <term name="Law"/>
+    <term name="Local employees"/>
+    <term name="State employees"/>
+    <term name="Survivors' benefits"/>
+    <term name="Veterans' benefits"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>5/23/2007--Passed House amended.
+Veterans Outreach Improvement Act of 2007 - Directs the Secretary of Veterans Affairs to establish, maintain, and modify as necessary procedures for ensuring the effective coordination of outreach activities of the Department of Veterans Affairs between and among the Office of the Secretary, the Office of Public Affairs, the Veterans Health Administration, the Veterans Benefits Administration, and the National Cemetery Administration. Directs the Secretary to give priority to state and county outreach assistance in locations that: (1) have relatively large concentrations of veterans; or (2) are experiencing growth in veteran populations. Authorizes the Secretary to make grants to state or county veterans agencies for state and local outreach services. Requires each participating agency to submit annually to the Secretary a three-year plan for the use of such funds. Authorizes appropriations.</summary>
+</bill>

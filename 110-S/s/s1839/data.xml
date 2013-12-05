@@ -1,0 +1,79 @@
+<bill session="110" type="s" number="1839" updated="2013-07-19T22:36:30-04:00">
+  <state datetime="2007-10-18">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2007-10-18"/>
+  </status>
+  <introduced datetime="2007-07-19"/>
+  <titles>
+    <title as="introduced" type="official">A bill to require periodic reports on claims related to acts of terrorism against Americans perpetrated or supported by the Government of Libya.</title>
+  </titles>
+  <sponsor id="300008"/>
+  <cosponsors>
+    <cosponsor id="300064" joined="2007-07-19"/>
+    <cosponsor id="300066" joined="2007-07-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2007-07-19">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S9623-9624"/>
+    </action>
+    <action state="REFERRED" datetime="2007-07-20">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2007-09-11">
+      <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Foreign Relations"/>
+    </calendar>
+    <action datetime="2007-10-15">
+      <text>Committee on Foreign Relations. Reported by Senator Biden without amendment. With written report No. 110-195.</text>
+    </action>
+    <calendar datetime="2007-10-15" calendar="Senate Legislative" under="General Orders" number="418">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 418.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2007-10-18" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S13134-13135" label="consideration"/>
+      <reference ref="CR S13135" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2007-10-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2007-10-22T14:06:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2007-10-22T19:41:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2007-12-17">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Air piracy"/>
+    <term name="Congress"/>
+    <term name="Congress and foreign policy"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Government liability (International law)"/>
+    <term name="Hostages"/>
+    <term name="International claims"/>
+    <term name="Libya"/>
+    <term name="Middle East and North Africa"/>
+    <term name="Murder"/>
+    <term name="Negotiations"/>
+    <term name="State-sponsored terrorism"/>
+    <term name="Terrorism"/>
+    <term name="Torture"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>10/18/2007--Passed Senate without amendment.
+Directs the Secretary of State to report to the appropriate congressional committees (as defined in this Act) every 180 days respecting unresolved claims by U.S. nationals against the government of Libya for personal injury or death caused by acts of torture, extrajudicial killing, aircraft sabotage, hostage taking, or the aiding of such acts by Libyan agents. Requires: (1) such reports to include information on the status of negotiations between the government of Libya and U.S. claimants and a description of U.S. government actions to encourage Libya's resolution of such claims; and (2) such reports' filing until December 31, 2009, or until the Secretary certifies to the committees that all claims have been resolved.</summary>
+</bill>

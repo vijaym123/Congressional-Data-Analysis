@@ -1,0 +1,93 @@
+<bill session="110" type="hc" number="112" updated="2013-07-19T22:09:45-04:00">
+  <state datetime="2008-05-01">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2008-05-01"/>
+  </status>
+  <introduced datetime="2007-04-17"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the goals and ideas of a National Child Care Worthy Wage Day.</title>
+  </titles>
+  <sponsor id="400257"/>
+  <cosponsors>
+    <cosponsor id="400103" joined="2007-04-25"/>
+    <cosponsor id="412215" joined="2007-04-17"/>
+    <cosponsor id="400199" joined="2007-05-01"/>
+    <cosponsor id="400216" joined="2007-04-25"/>
+    <cosponsor id="400274" joined="2007-04-17"/>
+    <cosponsor id="400278" joined="2007-04-17"/>
+    <cosponsor id="400321" joined="2007-04-17"/>
+    <cosponsor id="400647" joined="2007-04-24"/>
+    <cosponsor id="412219" joined="2007-04-25"/>
+    <cosponsor id="400387" joined="2007-05-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-04-17">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="2007-05-01T13:46:00-04:00">
+      <text>Mrs. McCarthy (NY) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2007-05-01T13:47:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4227-4228" label="consideration"/>
+    </action>
+    <action datetime="2007-05-01T13:47:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 112.</text>
+    </action>
+    <action datetime="2007-05-01T13:54:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2007-05-01T17:30:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4258-4259" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-05-01T17:39:00-04:00" how="roll" result="pass" roll="271" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 345 - 73, 1 Present (Roll no. 271).</text>
+      <reference ref="CR H4227" label="text"/>
+    </vote>
+    <action datetime="2007-05-01T17:39:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-05-02">
+      <text>Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+    <action datetime="2007-06-27">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+      <committee name="House Committee on Education and Labor"/>
+    </action>
+    <action datetime="2008-05-01">
+      <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+      <reference ref="CR S3727" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2008-05-01" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2008-05-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral"/>
+    <committee activity="Referral" code="HSED14" subcommittee="Early Childhood, Elementary, and Secondary Education" name="House Education and Labor"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="hr" number="1162"/>
+    <bill relation="unknown" session="110" type="sr" number="170"/>
+    <bill relation="unknown" session="110" type="sr" number="531"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Child care workers"/>
+    <term name="Day care"/>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Families"/>
+    <term name="Preschool education"/>
+    <term name="Special days"/>
+    <term name="Teacher salaries"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2008--Passed Senate without amendment.
+States that the Congress supports the goals and ideas of National Child Care Worthy Wage Day, and urges public officials and the general public to honor early childhood care and education staff and programs in their communities and to work together to resolve the early childhood care and education staff compensation crisis.</summary>
+</bill>

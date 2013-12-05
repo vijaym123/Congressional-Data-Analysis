@@ -1,0 +1,59 @@
+<bill session="110" type="sc" number="73" updated="2013-07-19T22:20:01-04:00">
+  <state datetime="2008-04-03">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2008-04-03"/>
+  </status>
+  <introduced datetime="2008-04-03"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution expressing Congressional support for the goals and ideals of National Health Care Decisions Day.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2008-04-03"/>
+    <cosponsor id="300041" joined="2008-04-03"/>
+    <cosponsor id="412247" joined="2008-04-03"/>
+    <cosponsor id="400432" joined="2008-04-03"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2008-04-03" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S2588-2589" label="consideration"/>
+      <reference ref="CR S2588-2589" label="text as passed Senate"/>
+      <reference ref="CR S2485-2486" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2008-04-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2008-04-08T14:18:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2008-04-08">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2008-04-09">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="hc" number="323"/>
+    <bill relation="unknown" session="110" type="hc" number="323"/>
+    <bill relation="unknown" session="110" type="hj" number="77"/>
+    <bill relation="identical" session="110" type="sj" number="29"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Living wills"/>
+    <term name="Members of Congress"/>
+    <term name="Special days"/>
+  </subjects>
+  <amendments/>
+  <summary>4/3/2008--Passed Senate without amendment.
+Expresses support for the goals and ideals of: (1) National Health Care Decisions Day; and (2) advance care planning for all adult Americans. Encourages each person over the age of 18 to prepare an advance directive to assist his or her loved ones, health care providers, and others as they honor his or her wishes. Urges members of Congress to execute such documents for themselves.</summary>
+</bill>

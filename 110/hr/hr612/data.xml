@@ -1,0 +1,106 @@
+<bill session="110" type="h" number="612" updated="2013-07-19T21:09:10-04:00">
+  <state datetime="2007-05-23T18:29:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-05-23T18:29:00-04:00"/>
+  </status>
+  <introduced datetime="2007-01-22"/>
+  <titles>
+    <title as="introduced" type="short">Returning Servicemember VA Healthcare Insurance Act of 2007</title>
+    <title as="passed house" type="short">Returning Servicemember VA Healthcare Insurance Act of 2007</title>
+    <title as="introduced" type="official">To amend title 38, United States Code, to extend the period of eligibility for health care for combat service in the Persian Gulf War or future hostilities from two years to five years after discharge or release.</title>
+  </titles>
+  <sponsor id="400133"/>
+  <cosponsors>
+    <cosponsor id="412231" joined="2007-04-23"/>
+    <cosponsor id="412250" joined="2007-05-22"/>
+    <cosponsor id="400033" joined="2007-05-22"/>
+    <cosponsor id="400042" joined="2007-05-16"/>
+    <cosponsor id="400048" joined="2007-03-13"/>
+    <cosponsor id="400055" joined="2007-04-19"/>
+    <cosponsor id="400059" joined="2007-03-05"/>
+    <cosponsor id="412234" joined="2007-04-23"/>
+    <cosponsor id="412215" joined="2007-05-21"/>
+    <cosponsor id="400122" joined="2007-05-22"/>
+    <cosponsor id="412223" joined="2007-04-19"/>
+    <cosponsor id="412222" joined="2007-03-13"/>
+    <cosponsor id="412204" joined="2007-03-19"/>
+    <cosponsor id="400204" joined="2007-05-23"/>
+    <cosponsor id="400234" joined="2007-04-25"/>
+    <cosponsor id="400262" joined="2007-05-22"/>
+    <cosponsor id="400279" joined="2007-03-19"/>
+    <cosponsor id="400285" joined="2007-05-23"/>
+    <cosponsor id="412219" joined="2007-04-17"/>
+    <cosponsor id="412214" joined="2007-05-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-22">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2007-03-02">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2007-03-13">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2007-03-13">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2007-05-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-05-15">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2007-05-23T15:27:00-04:00">
+      <text>Mr. Filner moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-05-23T15:27:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5662-5664" label="consideration"/>
+    </action>
+    <action datetime="2007-05-23T15:27:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 612.</text>
+    </action>
+    <action datetime="2007-05-23T15:37:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2007-05-23T18:22:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5681" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-05-23T18:29:00-04:00" how="roll" result="pass" roll="411" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 411).</text>
+      <reference ref="CR H5662" label="text"/>
+    </vote>
+    <action datetime="2007-05-23T18:30:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-05-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral, Markup, Reporting" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="383"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Environmental protection"/>
+    <term name="Health"/>
+    <term name="Hospital care"/>
+    <term name="Radiation victims"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>5/23/2007--Passed House amended.
+Returning Servicemember VA Healthcare Insurance Act of 2007 - Extends, for veterans who served in a theater of combat operations during a period of war after the Persian Gulf War or during a period of hostilities after November 11, 1998, from two to five years the period of elgibility for hospital care, medical services, or nursing home care provided by the Secretary of Veterans Affairs following discharge or release for such veterans, or, for veterans who were discharged or released more than five years before the enactment of this Act and who did not enroll before such enactment, enrollment must be within three years of such enactment.</summary>
+</bill>

@@ -1,0 +1,51 @@
+<bill session="109" type="s" number="1480" updated="2013-07-19T20:26:28-04:00">
+  <state datetime="2005-07-26">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-07-26"/>
+  </status>
+  <introduced datetime="2005-07-26"/>
+  <titles>
+    <title as="introduced" type="official">A bill to establish the treatment of actual rental proceeds from leases of land acquired under an Act providing for loans to Indian tribes and tribal corporations.</title>
+  </titles>
+  <sponsor id="300071"/>
+  <cosponsors>
+    <cosponsor id="300037" joined="2005-07-26"/>
+    <cosponsor id="300058" joined="2005-07-26"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2005-07-26" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S9053-9055" label="consideration"/>
+      <reference ref="CR S5903" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-07-27T10:33:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-07-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-07-27">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="h" number="5779"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Agricultural credit"/>
+    <term name="Agriculture and food"/>
+    <term name="Finance and financial sector"/>
+    <term name="Indian lands"/>
+    <term name="Leases"/>
+    <term name="Minorities"/>
+    <term name="Real estate appraisal"/>
+    <term name="Rent"/>
+  </subjects>
+  <amendments/>
+  <summary>7/26/2005--Passed Senate without amendment.
+Provides that any actual rental proceeds certified by the Secretary of the Interior from the lease of land acquired with a Farmers Home Administration Direct Loan by an Indian tribe or tribal corporation shall be deemed to: (1) constitute the rental value of that land; and (2) satisfy the requirement for appraisal of that land.</summary>
+</bill>

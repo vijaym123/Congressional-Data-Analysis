@@ -1,0 +1,99 @@
+<bill session="109" type="hc" number="347" updated="2013-07-19T20:05:09-04:00">
+  <state datetime="2006-07-24T16:22:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-07-24T16:22:00-04:00"/>
+  </status>
+  <introduced datetime="2006-02-16"/>
+  <titles>
+    <title as="introduced" type="official">Honoring the National Association of State Veterans Homes and the 119 State veterans homes providing long-term care to veterans that are represented by that association for their contributions to the health care of veterans and the health-care system of the Nation.</title>
+  </titles>
+  <sponsor id="400375"/>
+  <cosponsors>
+    <cosponsor id="400001" joined="2006-05-02"/>
+    <cosponsor id="400012" joined="2006-05-02"/>
+    <cosponsor id="400019" joined="2006-05-02"/>
+    <cosponsor id="400024" joined="2006-07-19"/>
+    <cosponsor id="400030" joined="2006-05-02"/>
+    <cosponsor id="400063" joined="2006-05-18"/>
+    <cosponsor id="400069" joined="2006-05-02"/>
+    <cosponsor id="400077" joined="2006-05-02"/>
+    <cosponsor id="400080" joined="2006-05-02"/>
+    <cosponsor id="400093" joined="2006-05-02"/>
+    <cosponsor id="400095" joined="2006-07-24"/>
+    <cosponsor id="400123" joined="2006-05-02"/>
+    <cosponsor id="400133" joined="2006-05-02"/>
+    <cosponsor id="400138" joined="2006-05-02"/>
+    <cosponsor id="400140" joined="2006-05-02"/>
+    <cosponsor id="400145" joined="2006-05-02"/>
+    <cosponsor id="400148" joined="2006-05-02"/>
+    <cosponsor id="400155" joined="2006-05-02"/>
+    <cosponsor id="400205" joined="2006-05-02"/>
+    <cosponsor id="400227" joined="2006-05-02"/>
+    <cosponsor id="400253" joined="2006-05-02"/>
+    <cosponsor id="400259" joined="2006-05-02"/>
+    <cosponsor id="400260" joined="2006-05-02"/>
+    <cosponsor id="400263" joined="2006-05-02"/>
+    <cosponsor id="400274" joined="2006-07-18"/>
+    <cosponsor id="400279" joined="2006-05-02"/>
+    <cosponsor id="400291" joined="2006-02-16"/>
+    <cosponsor id="400316" joined="2006-05-02"/>
+    <cosponsor id="400370" joined="2006-07-17"/>
+    <cosponsor id="409888" joined="2006-05-02"/>
+    <cosponsor id="400379" joined="2006-05-02"/>
+    <cosponsor id="400430" joined="2006-05-02"/>
+    <cosponsor id="400432" joined="2006-05-02"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-02-16">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2006-07-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-07-20">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2006-07-24T16:16:00-04:00">
+      <text>Mr. Bradley (NH) moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2006-07-24T16:16:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5636-5638" label="consideration"/>
+    </action>
+    <action datetime="2006-07-24T16:16:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 347.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-07-24T16:22:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H5636-5637" label="text"/>
+    </vote>
+    <action datetime="2006-07-24T16:22:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-07-25">
+      <text>Received in the Senate and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="sr" number="417"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Armed forces and national security"/>
+    <term name="Associations, institutions, etc."/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Federal-state relations"/>
+    <term name="Government operations and politics"/>
+    <term name="Soldiers' homes"/>
+  </subjects>
+  <amendments/>
+  <summary>7/24/2006--Passed House without amendment.
+Honors the National Association of State Veterans Homes and the 119 state veterans homes providing long-term care to veterans. Commends all individuals who work in, or on behalf of, state veterans homes for their contributions in caring for elderly and disabled veterans. Recognizes the importance of the partnership between the states and the Department of Veterans Affairs in providing long-term care to veterans. Affirms the support of Congress for continuation of the state homes program to address the known and anticipated needs of veterans for institutional long-term care services.</summary>
+</bill>

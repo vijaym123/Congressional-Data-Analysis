@@ -1,0 +1,72 @@
+<bill session="109" type="s" number="879" updated="2013-07-19T20:21:05-04:00">
+  <state datetime="2006-05-16">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2006-05-16"/>
+  </status>
+  <introduced datetime="2005-04-21"/>
+  <titles>
+    <title as="introduced" type="short">Arctic Research and Policy Amendments Act of 2005</title>
+    <title as="passed senate" type="short">Arctic Research and Policy Amendments Act of 2005</title>
+    <title as="introduced" type="official">A bill to make improvements to the Arctic Research and Policy Act of 1984.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2005-04-21">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4128"/>
+    </action>
+    <action state="REFERRED" datetime="2005-04-21">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <reference ref="CR S4128" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2006-05-16">
+      <text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2006-05-16">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S4645-4646" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2006-05-16" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S4646" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2006-05-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-05-17T10:54:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-05-17">
+      <text>Referred to the House Committee on Science.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Discharged"/>
+    <committee code="HSSY" name="House Science" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Arctic and polar regions"/>
+    <term name="Awards, medals, prizes"/>
+    <term name="Commemorations"/>
+    <term name="Energy"/>
+    <term name="Energy research"/>
+    <term name="Environmental protection"/>
+    <term name="Environmental research"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal officials"/>
+    <term name="Government operations and politics"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Oceanographic research"/>
+    <term name="Presidential commissions"/>
+    <term name="Research"/>
+    <term name="Salaries"/>
+  </subjects>
+  <amendments>
+    <amendment number="s4028"/>
+  </amendments>
+  <summary>5/16/2006--Passed Senate amended.
+Arctic Research and Policy Amendments Act of 2005 - Amends the Arctic Research and Policy Act of 1984 to increase the number of days per year the chairperson of the Arctic Research Commission shall be compensated for serving as a member of the Commission.</summary>
+</bill>

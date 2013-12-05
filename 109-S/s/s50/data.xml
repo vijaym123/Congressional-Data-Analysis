@@ -1,0 +1,168 @@
+<bill session="109" type="s" number="50" updated="2013-07-19T20:13:54-04:00">
+  <state datetime="2005-07-01">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-07-01"/>
+  </status>
+  <introduced datetime="2005-01-24"/>
+  <titles>
+    <title as="introduced" type="short">Tsunami Preparedness Act</title>
+    <title as="reported to senate" type="short">Tsunami Preparedness Act</title>
+    <title as="passed senate" type="short">Tsunami Preparedness Act</title>
+    <title as="introduced" type="official">A bill to authorize and strengthen the National Oceanic and Atmospheric Administration's tsunami detection, forecast, warning, and mitigation program, and for other purposes.</title>
+  </titles>
+  <sponsor id="300056"/>
+  <cosponsors>
+    <cosponsor id="300001" joined="2005-01-24"/>
+    <cosponsor id="300011" joined="2005-02-07"/>
+    <cosponsor id="300015" joined="2005-01-24"/>
+    <cosponsor id="300018" joined="2005-01-24"/>
+    <cosponsor id="300021" joined="2005-01-31"/>
+    <cosponsor id="300022" joined="2005-01-24"/>
+    <cosponsor id="300028" joined="2005-03-01"/>
+    <cosponsor id="300032" joined="2005-02-01"/>
+    <cosponsor id="300043" joined="2005-02-07"/>
+    <cosponsor id="300049" joined="2005-03-09"/>
+    <cosponsor id="300060" joined="2005-01-31"/>
+    <cosponsor id="300063" joined="2005-01-25"/>
+    <cosponsor id="300064" joined="2005-01-24"/>
+    <cosponsor id="300067" joined="2005-01-25"/>
+    <cosponsor id="300069" joined="2005-03-09"/>
+    <cosponsor id="300073" joined="2005-02-08"/>
+    <cosponsor id="300075" joined="2005-01-24"/>
+    <cosponsor id="300076" joined="2005-01-24"/>
+    <cosponsor id="300078" joined="2005-01-25"/>
+    <cosponsor id="300077" joined="2005-04-11"/>
+    <cosponsor id="300086" joined="2005-02-15"/>
+    <cosponsor id="300090" joined="2005-01-24"/>
+    <cosponsor id="300091" joined="2005-01-24"/>
+    <cosponsor id="300094" joined="2005-01-24"/>
+    <cosponsor id="300100" joined="2005-01-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-01-24">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S237-238, S240-241"/>
+    </action>
+    <action state="REFERRED" datetime="2005-01-24">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <reference ref="CR S238-240" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2005-02-02">
+      <text>Committee on Commerce, Science, and Transportation. Hearings held. Hearings printed: S.Hrg. 109-93.</text>
+      <committee name="Committee on Commerce, Science, and Transportation"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-03-10">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Commerce, Science, and Transportation"/>
+    </calendar>
+    <action datetime="2005-04-19">
+      <text>Committee on Commerce, Science, and Transportation. Reported by Senator Stevens with an amendment in the nature of a substitute. With written report No. 109-59.</text>
+    </action>
+    <calendar datetime="2005-04-19" calendar="Senate Legislative" under="General Orders" number="75">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 75.</text>
+    </calendar>
+    <action datetime="2005-07-01">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S7930-7936" label="consideration"/>
+      <reference ref="CR S7930-7935" label="text of measure as reported in Senate"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2005-07-01" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2005-07-11T14:01:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-07-11">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-07-11">
+      <text>Referred to the Committee on Science, and in addition to the Committees on Resources, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2005-07-11">
+      <text>Referred to House Science</text>
+    </action>
+    <action datetime="2005-07-11">
+      <text>Referred to House Resources</text>
+    </action>
+    <action datetime="2005-07-11">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2005-07-12">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2005-07-19">
+      <text>Referred to the Subcommittee on Fisheries and Oceans.</text>
+      <committee name="House Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Hearings, Markup, Reporting"/>
+    <committee code="HSSY" name="House Science" activity="Referral, In Committee"/>
+    <committee code="HSII" name="House Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII15" subcommittee="Fisheries Conservation, Wildlife, and Oceans" name="House Resources"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="1674"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Alaska"/>
+    <term name="Arctic and polar regions"/>
+    <term name="Atlantic Coast (U.S.)"/>
+    <term name="Atlantic Ocean"/>
+    <term name="Caribbean area"/>
+    <term name="Coastal zone"/>
+    <term name="Communication satellites"/>
+    <term name="Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Department of Commerce"/>
+    <term name="Earth resources satellites"/>
+    <term name="Earthquakes"/>
+    <term name="Electronic mail systems"/>
+    <term name="Emergency communication systems"/>
+    <term name="Evacuation of civilians"/>
+    <term name="Executive reorganization"/>
+    <term name="Government contractors"/>
+    <term name="Government operations and politics"/>
+    <term name="Government publicity"/>
+    <term name="Gulf of Mexico"/>
+    <term name="Hawaii"/>
+    <term name="International affairs"/>
+    <term name="International agencies"/>
+    <term name="International cooperation"/>
+    <term name="International cooperation in science"/>
+    <term name="Internet"/>
+    <term name="Latin America"/>
+    <term name="Maintenance and repair"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Ocean currents"/>
+    <term name="Oceanographic research"/>
+    <term name="Pacific Ocean"/>
+    <term name="Pacific area"/>
+    <term name="Radio broadcasting"/>
+    <term name="Remote sensing"/>
+    <term name="Rescue work"/>
+    <term name="Risk"/>
+    <term name="Science, technology, communications"/>
+    <term name="Seismology"/>
+    <term name="Space activities"/>
+    <term name="Technical assistance"/>
+    <term name="Technological innovations"/>
+    <term name="Technology assessment"/>
+    <term name="Technology transfer"/>
+    <term name="Telephone"/>
+    <term name="Television broadcasting"/>
+    <term name="Tsunamis"/>
+    <term name="Weather forecasting"/>
+    <term name="Wireless communication"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1101"/>
+  </amendments>
+  <summary>7/1/2005--Passed Senate amended.
+Tsunami Preparedness Act - (Sec. 2) Sets forth the purposes of this Act, including improvement of tsunami detection, forecast, warnings, notification, preparedness, and mitigation in order to protect life and property both in the United States and elsewhere in the world. (Sec. 3) Directs the Administrator of the National Ocean and Atmospheric Administration (NOAA) to operate regional tsunami detection and warning systems for the Pacific Ocean region and for the Atlantic Ocean, Caribbean, and Gulf of Mexico regions that will provide maximum detection capability for U.S. coastal tsunamis. Requires the Administrator to establish tsunami warning centers to provide a link between the detection and warning system and the tsunami hazard mitigation program established under this Act. Directs the Administrator to maintain national and regionally-based data management systems to support and establish data management requirements for the tsunami detection and monitoring system. (Sec. 4) Directs the Administrator to develop and conduct a community-based tsunami hazard mitigation program to improve tsunami preparedness of at-risk areas. (Sec. 5) Directs the Administrator to establish a tsunami research program to develop detection, prediction, communication, and mitigation science and technology that supports tsunami forecasts and warnings, including advanced sensing techniques, information and communication technology, data collection, analysis and assessment for tsunami tracking and numerical forecast modeling that will, among other things, help determine the likely path, severity, duration, and travel time of a tsunami. Requires the Administrator to investigate the potential for improved technology for tsunami and other hazard warnings by incorporating into the existing system a full range of options for providing such warnings to the public. Requires the Administrator to investigate the potential for improved communications systems for tsunami and other hazard warnings by incorporating into the existing network a full range of options for providing those warnings to the public, including telephones, the Internet, automatic alert televisions and radios, and other technologies that may be developed. (Sec. 6) Directs the Administrator to take certain actions to upgrade and modernize the U.S. tsunami detection and warning system. Requires the Administrator to report annually to Congress on the status of the tsunami detection and warning system, as well as progress and accomplishments of the national tsunami hazard mitigation program. (Sec. 7) Directs the Administrator to provide technical assistance and advice to the Intergovernmental Oceanographic Commission of UNESCO, the World Meteorological Organization, the Group on Earth Observations, and other international entities as part of an international effort to develop a fully functional global tsunami warning system comprised of regional tsunami warning networks. Requires the Administrator to seek funding assistance from participating nations to ensure establishment of such warning system. Requires the Administrator to operate an International Tsunami Information Center to improve tsunami preparedness for all Pacific Ocean nations participating in the International Tsunami Warning System of the Pacific, and which may also provide such assistance to other nations participating in a global tsunami warning system established through the International Oceanographic Committee of UNESCO. (Sec. 8) Directs the Administrator to establish an integrated coastal vulnerability and adaptation program focused on improving the resilience of coastal communities to natural hazards and disasters. Requires the Administrator to establish three regional pilot projects to assess the vulnerability of U.S. coastal areas to hazards associated with tsunami and other natural hazards or coastal disasters. Directs the Administrator to submit to Congress regional adaptation plans based on the information contained in the regional assessments that recommend appropriate targets and strategies. (Sec. 9) Authorizes appropriations for FY2006-FY2012.</summary>
+</bill>

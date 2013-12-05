@@ -1,0 +1,53 @@
+<bill session="110" type="sr" number="659" updated="2013-07-19T22:18:41-04:00">
+  <state datetime="2008-09-26">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2008-09-26"/>
+  </status>
+  <introduced datetime="2008-09-15"/>
+  <titles>
+    <title as="introduced" type="official">A resolution designating September 27, 2008, as Alcohol and Drug Addiction Recovery Day.</title>
+  </titles>
+  <sponsor id="300087"/>
+  <cosponsors>
+    <cosponsor id="300008" joined="2008-09-23"/>
+    <cosponsor id="300022" joined="2008-09-15"/>
+    <cosponsor id="412247" joined="2008-09-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-09-15">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S8531" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-09-25">
+      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2008-09-25">
+      <text>Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="2008-09-25" calendar="Senate Legislative" under="General Orders" number="1084">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1084.</text>
+    </calendar>
+    <vote state="PASSED:SIMPLERES" datetime="2008-09-26" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S9876" label="consideration"/>
+      <reference ref="CR S9876" label="text as passed Senate"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Alcoholism"/>
+    <term name="Drug abuse"/>
+    <term name="Drug abuse treatment"/>
+    <term name="Drug addiction"/>
+    <term name="Health"/>
+    <term name="Special days"/>
+  </subjects>
+  <amendments/>
+  <summary>9/26/2008--Passed Senate without amendment.
+Designates September 27, 2008, as Alcohol and Drug Addiction Recovery Day.</summary>
+</bill>

@@ -1,0 +1,62 @@
+<bill session="109" type="sc" number="52" updated="2013-07-19T20:12:48-04:00">
+  <state datetime="2005-09-06T19:20:00-04:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2005-09-06T19:20:00-04:00"/>
+  </status>
+  <introduced datetime="2005-09-06"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution providing for the use of the catafalque situated in the crypt beneath the Rotunda of the Capitol in connection with memorial services to be conducted in the Supreme Court Building for the late honorable William H. Rehnquist, Chief Justice of the United States.</title>
+  </titles>
+  <sponsor id="300045"/>
+  <cosponsors>
+    <cosponsor id="300034" joined="2005-09-06"/>
+    <cosponsor id="300069" joined="2005-09-06"/>
+    <cosponsor id="300082" joined="2005-09-06"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2005-09-06" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S9630" label="consideration"/>
+      <reference ref="CR S9630" label="text as passed Senate"/>
+      <reference ref="CR S9691" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2005-09-06T18:31:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-09-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-09-06T19:20:00-04:00">
+      <text>Mr. DeLay asked unanimous consent to take from the Speaker's table and consider.</text>
+    </action>
+    <action datetime="2005-09-06T19:20:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H7660" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2005-09-06T19:20:00-04:00" how="without objection" result="pass" type="vote2" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H7660" label="text"/>
+    </vote>
+    <action datetime="2005-09-06T19:20:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="hr" number="422"/>
+    <bill relation="unknown" session="109" type="hr" number="423"/>
+    <bill relation="unknown" session="109" type="sr" number="234"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Courthouses"/>
+    <term name="Law"/>
+    <term name="Supreme Court"/>
+    <term name="Supreme Court justices"/>
+  </subjects>
+  <amendments/>
+  <summary>9/6/2005--Passed House without amendment.
+Authorizes the Architect of the Capitol to transfer to the custody of the Supreme Court of the United States the catafalque situated in the crypt beneath the Rotunda of the Capitol so that it may be used in the Supreme Court Building in connection with services for the former Honorable William H. Rehnquist, Chief Justice of the United States.</summary>
+</bill>

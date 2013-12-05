@@ -1,0 +1,62 @@
+<bill session="109" type="h" number="3981" updated="2013-07-19T19:39:33-04:00">
+  <state datetime="2005-11-15T14:24:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-11-15T14:24:00-05:00"/>
+  </status>
+  <introduced datetime="2005-10-06"/>
+  <titles>
+    <title as="introduced" type="official">To authorize the Secretary of Agriculture to carry out certain land exchanges involving small parcels of National Forest System land in the Tahoe National Forest in the State of California, and for other purposes.</title>
+  </titles>
+  <sponsor id="400113"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-10-06">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-10-13">
+      <text>Referred to the Subcommittee on Forests and Forest Health.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-11-15T14:22:00-05:00">
+      <text>Mrs. Musgrave moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2005-11-15T14:22:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H10171-10172" label="consideration"/>
+    </action>
+    <action datetime="2005-11-15T14:22:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3981.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-11-15T14:24:00-05:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H10172" label="text"/>
+    </vote>
+    <action datetime="2005-11-15T14:24:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-11-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2006-05-10">
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII20" subcommittee="Forests and Forest Health" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSEG03" subcommittee="Public Lands and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Land transfers"/>
+    <term name="Mines and mineral resources"/>
+    <term name="National forests"/>
+  </subjects>
+  <amendments/>
+  <summary>11/15/2005--Passed House without amendment.
+Authorizes the Secretary of Agriculture to acquire from Irving N. Christensen and from Dennis W. and Cindy M. McCreary certain parcels of land in exchange for certain parcels of National Forest System lands in Tahoe National Forest, California. Withdraws all exchanged lands from location, entry, and patent under the mining laws.</summary>
+</bill>

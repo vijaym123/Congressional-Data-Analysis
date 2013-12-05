@@ -1,0 +1,115 @@
+<bill session="110" type="sj" number="35" updated="2013-07-19T22:12:55-04:00">
+  <state datetime="2008-10-03">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2008-10-03"/>
+  </status>
+  <introduced datetime="2008-05-22"/>
+  <titles>
+    <title as="introduced" type="official">A joint resolution to amend Public Law 108-331 to provide for the construction and related activities in support of the Very Energetic Radiation Imaging Telescope Array System (VERITAS) project in Arizona.</title>
+  </titles>
+  <sponsor id="300065"/>
+  <cosponsors>
+    <cosponsor id="300023" joined="2008-05-22"/>
+    <cosponsor id="300034" joined="2008-05-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-05-22">
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+    <action datetime="2008-07-17">
+      <text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2008-07-17" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6946" label="consideration"/>
+      <reference ref="CR S6946" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2008-07-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2008-07-21T12:33:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2008-07-21">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2008-07-22">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2008-07-31">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2008-07-31">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar datetime="2008-07-31">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2008-09-15T20:35:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 110-850.</text>
+    </action>
+    <calendar datetime="2008-09-15T20:35:00-04:00" calendar="Union" number="551">
+      <text>Placed on the Union Calendar, Calendar No. 551.</text>
+    </calendar>
+    <action datetime="2008-09-17T17:11:00-04:00">
+      <text>Ms. Johnson, E. B. moved to suspend the rules and pass the resolution.</text>
+    </action>
+    <action datetime="2008-09-17T17:12:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8349-8350" label="consideration"/>
+    </action>
+    <action datetime="2008-09-17T17:12:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S.J. Res. 35.</text>
+    </action>
+    <action datetime="2008-09-17T17:18:00-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Graves objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.</text>
+    </action>
+    <action datetime="2008-09-18T17:54:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H8454" label="consideration"/>
+    </action>
+    <action datetime="2008-09-18T17:54:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2008-09-18T17:54:00-04:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the resolution Agreed to by voice vote.</text>
+      <reference ref="CR 9/17/2008 H8349" label="text"/>
+    </vote>
+    <topresident datetime="2008-09-18">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2008-09-25">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2008-10-03">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2008-10-03" type="public" number="110-341">
+      <text>Became Public Law No: 110-341.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Discharged"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Arizona"/>
+    <term name="Astrophysics"/>
+    <term name="Building construction"/>
+    <term name="Construction costs"/>
+    <term name="Government operations and politics"/>
+    <term name="Smithsonian Institution"/>
+    <term name="Space activities"/>
+    <term name="Telescopes"/>
+  </subjects>
+  <amendments/>
+  <summary>9/18/2008--Public Law.
+Amends Public Law 108-331 (authorizing the Board of Regents of the Smithsonian Institution to carry out construction and related activities in support of the Very Energetic Radiation Imaging Telescope Array System [VERITAS] project on Kitt Peak near Tucson, Arizona) to authorize the Board to carry out construction and related activities in support of the VERITAS project at the Fred Lawrence Whipple Observatory Base Camp on Mount Hopkins, Arizona, or other similar location.</summary>
+</bill>

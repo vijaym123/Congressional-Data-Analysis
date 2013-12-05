@@ -1,0 +1,100 @@
+<bill session="109" type="h" number="2362" updated="2013-07-19T19:25:08-04:00">
+  <state datetime="2005-06-27T15:43:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2005-06-27T15:43:00-04:00"/>
+  </status>
+  <introduced datetime="2005-05-16"/>
+  <titles>
+    <title as="introduced" type="short">National Geologic Mapping Reauthorization Act of 2005</title>
+    <title as="reported to house" type="short">National Geologic Mapping Reauthorization Act of 2005</title>
+    <title as="passed house" type="short">National Geologic Mapping Reauthorization Act of 2005</title>
+    <title as="introduced" type="official">To reauthorize and amend the National Geologic Mapping Act of 1992.</title>
+  </titles>
+  <sponsor id="400148"/>
+  <cosponsors>
+    <cosponsor id="400088" joined="2005-05-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-05-16">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-05-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-05-18">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Resources"/>
+    </calendar>
+    <action datetime="2005-06-08T19:10:00-04:00">
+      <text>Reported by the Committee on Resources. H. Rept. 109-113.</text>
+    </action>
+    <calendar datetime="2005-06-08T19:10:00-04:00" calendar="Union" number="65">
+      <text>Placed on the Union Calendar, Calendar No. 65.</text>
+    </calendar>
+    <action datetime="2005-06-27T15:38:00-04:00">
+      <text>Mr. Pearce moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2005-06-27T15:38:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5203-5205" label="consideration"/>
+    </action>
+    <action datetime="2005-06-27T15:38:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2362.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-06-27T15:43:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5203-5204" label="text"/>
+    </vote>
+    <action datetime="2005-06-27T15:43:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2005-06-28">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, Markup, Reporting"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="485"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Archives"/>
+    <term name="Authorization"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Data banks"/>
+    <term name="Department of the Interior"/>
+    <term name="Earth sciences"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Emergency management"/>
+    <term name="Environmental Protection Agency"/>
+    <term name="Environmental engineering"/>
+    <term name="Environmental protection"/>
+    <term name="Executive Office of the President"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal officials"/>
+    <term name="Geographic information systems"/>
+    <term name="Geology"/>
+    <term name="Geophysical prediction"/>
+    <term name="Government operations and politics"/>
+    <term name="Higher education"/>
+    <term name="Land use"/>
+    <term name="Maps"/>
+    <term name="Outdoor recreation"/>
+    <term name="Paleontology"/>
+    <term name="Science, technology, communications"/>
+    <term name="Scientific education"/>
+    <term name="Sports and recreation"/>
+    <term name="Strategic planning"/>
+    <term name="Volcanoes"/>
+  </subjects>
+  <amendments/>
+  <summary>6/27/2005--Passed House amended.
+National Geologic Mapping Reauthorization Act of 2005 - Amends the National Geologic Mapping Act of 1992 to extend deadlines for development of a five-year strategic plan for the geologic mapping program and for appointment of the advisory committee. Removes from program objectives the development of a geophysical- and geochemical- map database. Directs that mapping priorities be based in part on the needs of the Department of the Interior land management agencies. Modifies the composition of the advisory committee. Directs that the national geologic database include information on how to obtain specified maps, databases, and data, including all maps developed with funding provided under the national cooperative geologic mapping program. Authorizes appropriations for each of FY2006-FY2010. Increases the percentages allocated for the State and education components.</summary>
+</bill>

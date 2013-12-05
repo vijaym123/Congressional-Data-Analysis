@@ -1,0 +1,41 @@
+<bill session="110" type="h" number="1487" updated="2013-07-19T21:16:41-04:00">
+  <state datetime="2007-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2007-03-13"/>
+  </status>
+  <introduced datetime="2007-03-13"/>
+  <titles>
+    <title as="introduced" type="official">To amend title XXI of the Social Security Act to make available additional amounts to address funding shortfalls in the State Children's Health Insurance Program for fiscal year 2007.</title>
+  </titles>
+  <sponsor id="412199"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2007-03-13">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2007-03-14">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="546"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Economics and public finance"/>
+    <term name="Families"/>
+    <term name="Federal aid to child health services"/>
+    <term name="Health insurance"/>
+    <term name="Medically uninsured"/>
+    <term name="Poor children"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>3/13/2007--Introduced.
+Amends title XXI (State Children's Health Insurance) (SCHIP) of the Social Security Act to require the Secretary of Health and Human Services to apply specified rules for an additional redistribution of amounts from unexpended FY2005-FY2006 allotments to address funding shortfalls in SCHIP for FY2007.</summary>
+</bill>

@@ -1,0 +1,144 @@
+<bill session="110" type="h" number="2608" updated="2013-07-19T21:26:32-04:00">
+  <state datetime="2008-09-30">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2008-09-30"/>
+  </status>
+  <introduced datetime="2007-06-07"/>
+  <titles>
+    <title as="introduced" type="short">SSI Extension for Elderly and Disabled Refugees Act</title>
+    <title as="passed house" type="short">SSI Extension for Elderly and Disabled Refugees Act</title>
+    <title as="passed senate" type="short">SSI Extension for Elderly and Disabled Refugees Act</title>
+    <title as="enacted" type="short">SSI Extension for Elderly and Disabled Refugees Act</title>
+    <title as="introduced" type="official">To amend section 402 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 to provide, in fiscal years 2008 through 2010, extensions of supplemental security income for refugees, asylees, and certain other humanitarian immigrants, and to amend the Internal Revenue Code to collect unemployment compensation debts resulting from fraud.</title>
+    <title as="amended by senate" type="official">An act to amend section 402 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 to provide, in fiscal years 2009 through 2011, extensions of supplemental security income for refugees, asylees, and certain other humanitarian immigrants, and to amend the Internal Revenue Code of 1986 to collect unemployment compensation debts resulting from fraud.</title>
+  </titles>
+  <sponsor id="400262"/>
+  <cosponsors>
+    <cosponsor id="400021" joined="2007-06-07"/>
+    <cosponsor id="400033" joined="2007-06-07"/>
+    <cosponsor id="400093" joined="2007-06-20"/>
+    <cosponsor id="400107" joined="2007-06-20"/>
+    <cosponsor id="412215" joined="2007-07-10"/>
+    <cosponsor id="400123" joined="2007-06-07"/>
+    <cosponsor id="400162" joined="2007-07-10"/>
+    <cosponsor id="400238" joined="2007-06-07"/>
+    <cosponsor id="400240" joined="2007-06-28"/>
+    <cosponsor id="400259" joined="2007-07-10"/>
+    <cosponsor id="400268" joined="2007-06-07"/>
+    <cosponsor id="400289" joined="2007-07-11"/>
+    <cosponsor id="400291" joined="2007-06-07"/>
+    <cosponsor id="400387" joined="2007-06-07"/>
+    <cosponsor id="400429" joined="2007-06-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-06-07">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2007-06-12">
+      <text>Referred to the Subcommittee on Income Security and Family Support.</text>
+      <committee name="House Committee on Ways and Means"/>
+    </action>
+    <action datetime="2007-07-11T16:12:00-04:00">
+      <text>Mr. McDermott moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-07-11T16:13:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7559-7566" label="consideration"/>
+    </action>
+    <action datetime="2007-07-11T16:13:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2608.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-07-11T16:31:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H7559-7560" label="text"/>
+    </vote>
+    <action datetime="2007-07-11T16:32:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-07-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <action datetime="2008-08-01">
+      <text>Senate Committee on Finance discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2008-08-01">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S8003-8004" label="consideration"/>
+    </action>
+    <vote state="PASS_BACK:SENATE" datetime="2008-08-01" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2008-08-01">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2008-09-17T12:12:00-04:00">
+      <text>Mr. McDermott moved that the House suspend the rules and agree to the Senate amendments.</text>
+      <reference ref="CR H8298-8304" label="consideration"/>
+    </action>
+    <action datetime="2008-09-17T12:13:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendments to H.R. 2608.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2008-09-17T12:37:00-04:00" how="by voice vote" result="pass" type="pingpong" where="h">
+      <text>On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2008-09-17T12:37:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2008-09-17">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2008-09-23">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2008-09-30">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2008-09-30" type="public" number="110-328">
+      <text>Became Public Law No: 110-328.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee activity="Referral" code="HSWM03" subcommittee="Income Security and Family Support" name="House Ways and Means"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="821"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Administrative fees"/>
+    <term name="Administrative procedure"/>
+    <term name="Administrative remedies"/>
+    <term name="Collection of accounts"/>
+    <term name="Debt"/>
+    <term name="Department of the Treasury"/>
+    <term name="Disabled"/>
+    <term name="Economics and public finance"/>
+    <term name="Evidence (Law)"/>
+    <term name="Federal-state relations"/>
+    <term name="Finance and financial sector"/>
+    <term name="Fraud"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Immigrants"/>
+    <term name="Immigration"/>
+    <term name="Income tax"/>
+    <term name="Intergovernmental fiscal relations"/>
+    <term name="Labor and employment"/>
+    <term name="Law"/>
+    <term name="Naturalization"/>
+    <term name="Refugees"/>
+    <term name="Right of asylum"/>
+    <term name="Supplemental security income program"/>
+    <term name="Taxation"/>
+    <term name="Unemployment insurance"/>
+    <term name="Welfare eligibility"/>
+  </subjects>
+  <amendments>
+    <amendment number="s5260"/>
+    <amendment number="s5261"/>
+  </amendments>
+  <summary>9/30/2008--Public Law.
+SSI Extension for Elderly and Disabled Refugees Act - Amends the Immigration and Nationality Act, as amended by the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, to extend through FY2011 the supplemental security income (SSI) benefits eligibility of certain aliens (refugees, asylees, and elderly noncitizens with pending naturalization applications) and victims of trafficking in persons, including such aliens and victims whose SSI benefits ceased in prior fiscal years. Requires a sworn declaration from such aliens or victims (except children under age 18) that they have made a good faith effort to pursue U.S. citizenship.Amends the Internal Revenue Code to require the Secretary of the Treasury to offset overpayments of federal taxes by any amount owed to a state for a covered unemployment compensation debt. Defines "covered unemployment compensation debt" as a past-due debt (including penalties and interest) for erroneous payment of state unemployment compensation due to fraud which has become final under state law and remains uncollected for not more than 10 years. Terminates the Secretary's offset authority after 10 years.Requires states to notify by certified mail any individual who owes a covered unemployment compensation debt before taking action to offset such debt. Gives such individual 60 days to present evidence that such debt is not legally enforceable or was not incurred due to fraud. Authorizes the Secretary of the Treasury to issue regulations pertaining to such notices.</summary>
+</bill>

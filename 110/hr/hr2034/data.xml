@@ -1,0 +1,89 @@
+<bill session="110" type="h" number="2034" updated="2013-07-19T21:21:30-04:00">
+  <state datetime="2007-04-25">REFERRED</state>
+  <status>
+    <introduced datetime="2007-04-25"/>
+  </status>
+  <introduced datetime="2007-04-25"/>
+  <titles>
+    <title as="introduced" type="short">Medicare for All Act</title>
+    <title as="introduced" type="official">To provide quality, affordable health care for all Americans.</title>
+  </titles>
+  <sponsor id="400110"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2007-04-25"/>
+    <cosponsor id="400043" joined="2007-05-01"/>
+    <cosponsor id="412258" joined="2008-04-30"/>
+    <cosponsor id="400114" joined="2007-04-25"/>
+    <cosponsor id="400122" joined="2007-04-25"/>
+    <cosponsor id="400133" joined="2007-05-10"/>
+    <cosponsor id="400160" joined="2007-04-25"/>
+    <cosponsor id="400162" joined="2007-05-01"/>
+    <cosponsor id="400641" joined="2007-05-01"/>
+    <cosponsor id="400253" joined="2007-04-25"/>
+    <cosponsor id="400268" joined="2007-05-01"/>
+    <cosponsor id="400333" joined="2007-04-25"/>
+    <cosponsor id="400360" joined="2007-04-25"/>
+    <cosponsor id="400384" joined="2007-04-25"/>
+    <cosponsor id="400387" joined="2007-04-25"/>
+    <cosponsor id="400409" joined="2007-04-25"/>
+    <cosponsor id="400425" joined="2007-04-25"/>
+    <cosponsor id="412239" joined="2007-09-04"/>
+    <cosponsor id="400438" joined="2007-04-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-04-25">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2007-04-25">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2007-04-25">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2007-04-25">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2007-04-26">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2007-04-26">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E871"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="1218"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Coinsurance"/>
+    <term name="Collective bargaining"/>
+    <term name="Comprehensive health care"/>
+    <term name="Economics and public finance"/>
+    <term name="Excise tax"/>
+    <term name="Federal employees"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government employees' health insurance"/>
+    <term name="Government operations and politics"/>
+    <term name="Government trust funds"/>
+    <term name="Income tax"/>
+    <term name="Labor and employment"/>
+    <term name="Medicare"/>
+    <term name="Mental health services"/>
+    <term name="Self-employed"/>
+    <term name="Social welfare"/>
+    <term name="Tax rates"/>
+    <term name="Taxation"/>
+    <term name="Wages"/>
+  </subjects>
+  <amendments/>
+  <summary>4/25/2007--Introduced.
+Medicare for All Act - Amends the Social Security Act to add a new title XXII (Medicare for All) under which: (1) each eligible individual is entitled to benefits which include the full range and scope of benefits available under the original fee-for-service program under parts A (Hospital Insurance) and B (Supplementary Medical Insurance) of title XVIII (Medicare), with parity in coverage of mental health benefits, subject to appropriate cost sharing; (2) each enrollee is free to choose his or her own doctor and private health plan; and (3) benefits are similar to or no less than the health benefits coverage under FEHBP (Federal Employees Health Benefits Program). Establishes the Medicare for All Trust Fund. Amends the Internal Revenue Code to impose: (1) on the income of every enrolled individual a tax equal to 1.7% of wages received in excess of $25,000; (2) on every employer an excise tax equal to 7% of the wages paid to each enrolled employee; and (3) on the self-employment income of every enrolled individual, a tax equal to the applicable percentage of the self-employment income for such taxable year in excess of $25,000. Sets forth provisions governing application of this Act to collective bargaining agreements.</summary>
+</bill>

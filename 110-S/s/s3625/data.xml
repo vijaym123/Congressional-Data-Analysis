@@ -1,0 +1,55 @@
+<bill session="110" type="s" number="3625" updated="2013-07-19T22:53:25-04:00">
+  <state datetime="2008-10-02">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2008-10-02"/>
+  </status>
+  <introduced datetime="2008-09-26"/>
+  <titles>
+    <title as="introduced" type="official">A bill to designate the facility of the United States Postal Service located at 245 North Main Street in New City, New York, as the "Kenneth Peter Zebrowski Post Office Building".</title>
+  </titles>
+  <sponsor id="300022"/>
+  <cosponsors>
+    <cosponsor id="300087" joined="2008-09-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-09-26">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2008-10-02">
+      <text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text>
+      <reference ref="CR S10422" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2008-10-02" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S10422" label="text"/>
+    </vote>
+    <action datetime="2008-10-03T11:26:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2008-10-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2008-10-03T17:09:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="6199"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Government operations and politics"/>
+    <term name="Names"/>
+    <term name="New York City"/>
+    <term name="New York State"/>
+    <term name="Postal facilities"/>
+    <term name="State legislators"/>
+  </subjects>
+  <amendments/>
+  <summary>9/26/2008--Introduced.
+Designates the facility of the United States Postal Service located at 245 North Main Street in New City, New York, as the "Kenneth Peter Zebrowski Post Office Building."</summary>
+</bill>

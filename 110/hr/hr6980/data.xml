@@ -1,0 +1,52 @@
+<bill session="110" type="h" number="6980" updated="2013-07-19T22:04:46-04:00">
+  <state datetime="2008-09-24T20:55:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-09-24T20:55:00-04:00"/>
+  </status>
+  <introduced datetime="2008-09-22"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to increase the amount of the Medal of Honor special pension provided under that title by up to $1,000.</title>
+  </titles>
+  <sponsor id="400049"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2008-09-22">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2008-09-24T20:49:00-04:00">
+      <text>Mr. Filner moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2008-09-24T20:49:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H9405-9406" label="consideration"/>
+    </action>
+    <action datetime="2008-09-24T20:49:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6980.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-09-24T20:55:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H9405" label="text"/>
+    </vote>
+    <action datetime="2008-09-24T20:55:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-09-25">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congress"/>
+    <term name="Congressional Medal of Honor"/>
+    <term name="Labor and employment"/>
+    <term name="Veterans' pensions"/>
+  </subjects>
+  <amendments/>
+  <summary>9/24/2008--Passed House without amendment.
+Amends federal veterans law to authorize the Secretary of Veterans Affairs, subject to the availability of appropriations, to increase by up to $1,000 a month the rate of the Medal of Honor special pension. Terminates such authority at the end of FY2013.</summary>
+</bill>

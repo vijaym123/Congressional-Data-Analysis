@@ -1,0 +1,170 @@
+<bill session="110" type="h" number="727" updated="2013-07-19T21:10:08-04:00">
+  <state datetime="2007-05-03">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2007-05-03"/>
+  </status>
+  <introduced datetime="2007-01-30"/>
+  <titles>
+    <title as="introduced" type="short">Trauma Care Systems Planning and Development Act of 2007</title>
+    <title as="reported to house" type="short">Trauma Care Systems Planning and Development Act of 2007</title>
+    <title as="passed house" type="short">Trauma Care Systems Planning and Development Act of 2007</title>
+    <title as="passed senate" type="short">Trauma Care Systems Planning and Development Act of 2007</title>
+    <title as="enacted" type="short">Trauma Care Systems Planning and Development Act of 2007</title>
+    <title as="introduced" type="official">To amend the Public Health Service Act to add requirements regarding trauma care, and for other purposes.</title>
+  </titles>
+  <sponsor id="400160"/>
+  <cosponsors>
+    <cosponsor id="400636" joined="2007-03-26"/>
+    <cosponsor id="400052" joined="2007-01-30"/>
+    <cosponsor id="400062" joined="2007-02-08"/>
+    <cosponsor id="400122" joined="2007-03-06"/>
+    <cosponsor id="400162" joined="2007-02-08"/>
+    <cosponsor id="400183" joined="2007-03-06"/>
+    <cosponsor id="400201" joined="2007-02-16"/>
+    <cosponsor id="400241" joined="2007-02-16"/>
+    <cosponsor id="400656" joined="2007-03-15"/>
+    <cosponsor id="400262" joined="2007-02-08"/>
+    <cosponsor id="400268" joined="2007-02-08"/>
+    <cosponsor id="412233" joined="2007-03-06"/>
+    <cosponsor id="400285" joined="2007-03-13"/>
+    <cosponsor id="400367" joined="2007-02-08"/>
+    <cosponsor id="400370" joined="2007-02-08"/>
+    <cosponsor id="400409" joined="2007-02-16"/>
+    <cosponsor id="400419" joined="2007-03-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-30">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2007-02-02">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2007-03-13">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2007-03-13">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2007-03-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-03-15">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <action datetime="2007-03-27T17:04:00-04:00">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-77.</text>
+    </action>
+    <calendar datetime="2007-03-27T17:05:00-04:00" calendar="Union" number="43">
+      <text>Placed on the Union Calendar, Calendar No. 43.</text>
+    </calendar>
+    <action datetime="2007-03-27T20:25:00-04:00">
+      <text>Mr. Green, Gene moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-03-27T20:25:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3157-3161" label="consideration"/>
+    </action>
+    <action datetime="2007-03-27T20:25:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 727.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-03-27T20:38:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H3157-3159" label="text"/>
+    </vote>
+    <action datetime="2007-03-27T20:38:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-03-28">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2007-03-29" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4224" label="consideration"/>
+    </vote>
+    <topresident datetime="2007-03-29">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2007-03-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2007-04-24">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2007-05-03">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2007-05-03" type="public" number="110-23">
+      <text>Became Public Law No: 110-23.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="s" number="657"/>
+    <bill relation="unknown" session="110" type="s" number="657"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Access to health care"/>
+    <term name="Ambulances"/>
+    <term name="Authorization"/>
+    <term name="Biological warfare"/>
+    <term name="Child health"/>
+    <term name="Communication in medicine"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Continuing education"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Curricula"/>
+    <term name="Data banks"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Disasters"/>
+    <term name="Distance education"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Emergency management"/>
+    <term name="Emergency medicine"/>
+    <term name="Families"/>
+    <term name="Federal aid to health facilities"/>
+    <term name="Federal-state relations"/>
+    <term name="Geriatrics"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Governmental investigations"/>
+    <term name="Head injuries"/>
+    <term name="Health information systems"/>
+    <term name="Higher education"/>
+    <term name="Housing and community development"/>
+    <term name="Intergovernmental fiscal relations"/>
+    <term name="Labor and employment"/>
+    <term name="Law"/>
+    <term name="Licenses"/>
+    <term name="Medical education"/>
+    <term name="Medical records"/>
+    <term name="Medical research"/>
+    <term name="Medical residents"/>
+    <term name="Medical statistics"/>
+    <term name="Nonprofit organizations"/>
+    <term name="Nurses"/>
+    <term name="Paramedical personnel"/>
+    <term name="Physicians"/>
+    <term name="Planning"/>
+    <term name="Rural health"/>
+    <term name="Science, technology, communications"/>
+    <term name="Social welfare"/>
+    <term name="Standards"/>
+    <term name="Telemedicine"/>
+    <term name="Terrorism"/>
+    <term name="Transportation and public works"/>
+    <term name="Trauma care"/>
+  </subjects>
+  <amendments/>
+  <summary>5/3/2007--Public Law.
+Trauma Care Systems Planning and Development Act of 2007 - (Sec. 2) Amends the Public Health Service Act to direct the Secretary of Health and Human Services to: (1) collect, compile, and disseminate information on achievements and problems in providing trauma care and emergency medical services; and (2) promote the collection and categorization of trauma data in a consistent and standardized manner.(Sec. 3) Removes authorization for the National Clearinghouse on Trauma Care and Emergency Medical Services. (Sec. 4) Allows the Secretary to make grants to public and nonprofit private entities to carry out demonstration projects to improve emergency medical services in rural areas by increasing communication and coordination with state trauma systems. (Sec. 5) Authorizes the Secretary, acting through the Administrator of the Health Resources and Services Administration, to make grants to states, political subdivisions, or consortia thereof to improve access to and enhance the development of trauma care systems. Requires grant funds be used to: (1) integrate and broaden the reach of such a system; (2) strengthen, develop, and improve an existing system; (3) expand communications between the system and emergency medical services through improved equipment or a telemedicine system; (4) improve data collection and retention; or (5) increase education, training, and technical assistance opportunities. Requires the Secretary to give preference in awarding grants to applicants that: (1) have developed a process, using national standards, for designating trauma centers; (2) recognize protocols for the delivery of seriously injured patients to trauma centers; (3) implement a process for evaluating the performance of the trauma system; and (4) agree to participate in specified information systems by collecting, providing, and sharing information. Requires the Secretary to give priority to applicants that will use the grants to focus on improving access to trauma care systems. Requires the Secretary to give special consideration to projects that demonstrate strong state or local support. (Sec. 6) Revises the matching requirements for states to be eligible for grants to improve emergency medical services by decreasing the amount of matching funds required after the fourth and subsequent years of grant payments to the state. (Sec. 7) Prohibits the Secretary from making trauma care grants to a state unless the state's emergency medical services plan coordinates planning for trauma systems with state disaster emergency planning and bioterrorism hospital preparedness planning. Requires the Secretary to update the model plan for the designation of trauma centers and for triage, transfer, and transportation policies. (Sec. 8) Prohibits the Secretary from making trauma grants to a state unless the state submits to the Secretary any changes to, and any plans to address deficiencies in, the trauma care component. (Sec. 9) Removes the requirement that states, in order to receive trauma grant funds, must agree not to expend such payments to purchase any major medical or communication equipment, ambulances, or aircraft. (Sec. 10) Removes provisions related to annual reporting requirements for states. (Sec. 11) Sets forth reporting requirements. (Sec. 12) Authorizes appropriation for FY2008-FY2012. (Sec. 13) Authorizes appropriations for FY2008-FY2012 for residency training programs in emergency medicine.</summary>
+</bill>

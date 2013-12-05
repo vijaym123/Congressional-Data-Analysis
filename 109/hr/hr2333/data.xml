@@ -1,0 +1,47 @@
+<bill session="109" type="h" number="2333" updated="2013-07-19T19:24:51-04:00">
+  <state datetime="2005-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="2005-05-12"/>
+  </status>
+  <introduced datetime="2005-05-12"/>
+  <titles>
+    <title as="introduced" type="official">To redesignate the Federal building located at 935 Pennsylvania Avenue Northwest in the District of Columbia as the "Federal Bureau of Investigation Building".</title>
+  </titles>
+  <sponsor id="400055"/>
+  <cosponsors>
+    <cosponsor id="400102" joined="2005-05-12"/>
+    <cosponsor id="400140" joined="2005-05-12"/>
+    <cosponsor id="400178" joined="2005-05-12"/>
+    <cosponsor id="400387" joined="2005-05-12"/>
+    <cosponsor id="400407" joined="2005-10-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-05-12">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2005-05-13">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="4279"/>
+    <bill relation="unknown" session="109" type="h" number="4279"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Department of Justice"/>
+    <term name="District of Columbia"/>
+    <term name="Federal Bureau of Investigation (FBI)"/>
+    <term name="Federal office buildings"/>
+    <term name="Government operations and politics"/>
+    <term name="Names"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2005--Introduced.
+Redesignates the Federal building located at 935 Pennsylvania Avenue Northwest in the District of Columbia, commonly known as the J. Edgar Hoover Federal Building, as the Federal Bureau of Investigation Building.</summary>
+</bill>

@@ -1,0 +1,62 @@
+<bill session="110" type="s" number="3010" updated="2013-07-19T22:47:43-04:00">
+  <state datetime="2008-09-11">REPORTED</state>
+  <status>
+    <unknown datetime="2008-09-11"/>
+  </status>
+  <introduced datetime="2008-05-13"/>
+  <titles>
+    <title as="introduced" type="short">Route 66 Corridor Preservation Program Reauthorization Act</title>
+    <title as="reported to senate" type="short">Route 66 Corridor Preservation Program Reauthorization Act</title>
+    <title as="introduced" type="official">A bill to reauthorize the Route 66 Corridor Preservation Program.</title>
+  </titles>
+  <sponsor id="300036"/>
+  <cosponsors>
+    <cosponsor id="300009" joined="2008-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2008-05-13">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4108"/>
+    </action>
+    <action state="REFERRED" datetime="2008-05-13">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <reference ref="CR S4108" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2008-06-17">
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 110-539.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-09-11">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2008-09-16">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2008-09-16" calendar="Senate Legislative" under="General Orders" number="992">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 992.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="National Parks" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="6046"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Authorization"/>
+    <term name="Commemorations"/>
+    <term name="Cultural property"/>
+    <term name="Economics and public finance"/>
+    <term name="Historic sites"/>
+    <term name="History"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>9/16/2008--Reported to Senate without amendment.
+Route 66 Corridor Preservation Program Reauthorization Act - Authorizes appropriations through FY2019 to carry out the purposes of Public Law 106-45 (relating to the preservation of the cultural resources of the Route 66 Corridor and authorizing the Secretary of the Interior to provide assistance for the preservation of the Corridor).</summary>
+</bill>

@@ -1,0 +1,75 @@
+<bill session="109" type="h" number="241" updated="2013-07-19T19:06:26-04:00">
+  <state datetime="2005-01-07">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2005-01-07"/>
+  </status>
+  <introduced datetime="2005-01-06"/>
+  <titles>
+    <title type="popular">Tsunami Relief bill</title>
+    <title as="introduced" type="official">To accelerate the income tax benefits for charitable cash contributions for the relief of victims of the Indian Ocean tsunami.</title>
+  </titles>
+  <sponsor id="400401"/>
+  <cosponsors>
+    <cosponsor id="400333" joined="2005-01-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-01-06">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2005-01-06T11:21:00-05:00">
+      <text>Committee on Ways and Means discharged.</text>
+    </action>
+    <action datetime="2005-01-06T11:21:00-05:00">
+      <text>Mr. Hayworth asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2005-01-06T11:21:00-05:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H83-84" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-01-06T11:21:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H83-84" label="text"/>
+    </vote>
+    <action datetime="2005-01-06T11:21:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2005-01-06" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S56-57" label="consideration"/>
+    </vote>
+    <action datetime="2005-01-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2005-01-06">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2005-01-06">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2005-01-07">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2005-01-07" type="public" number="109-1">
+      <text>Became Public Law No: 109-1.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Africa (Sub-Saharan)"/>
+    <term name="Charitable contributions"/>
+    <term name="Disaster relief"/>
+    <term name="East Asia"/>
+    <term name="Emergency management"/>
+    <term name="Income tax"/>
+    <term name="South Asia"/>
+    <term name="Tax deductions"/>
+    <term name="Tsunamis"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/2005--Public Law.
+Allows taxpayers to deduct in 2004 charitable cash contributions made in January 2005 for the relief of victims in areas affected by the December 26, 2004, Indian Ocean tsunami.</summary>
+</bill>

@@ -1,0 +1,74 @@
+<bill session="110" type="hr" number="1068" updated="2013-07-19T20:59:44-04:00">
+  <state datetime="2008-04-15T14:53:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2008-04-15T14:53:00-04:00"/>
+  </status>
+  <introduced datetime="2008-04-01"/>
+  <titles>
+    <title as="introduced" type="official">Permitting active duty members of the Armed Forces who are assigned to a Congressional liaison office of the Department of Defense at the House of Representatives to obtain membership in the exercise facility established for employees of the House of Representatives.</title>
+    <title as="amended by house" type="official">Permitting active duty members of the Armed Forces who are assigned to a Congressional liaison office of the Armed Forces at the House of Representatives to obtain membership in the exercise facility established for employees of the House of Representatives.</title>
+  </titles>
+  <sponsor id="400047"/>
+  <cosponsors>
+    <cosponsor id="400119" joined="2008-04-01"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-04-01">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2008-04-02">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on House Administration"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-04-02">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on House Administration"/>
+    </calendar>
+    <action datetime="2008-04-14T19:12:00-04:00">
+      <text>Reported (Amended) by the Committee on House Administration. H. Rept. 110-587.</text>
+    </action>
+    <calendar datetime="2008-04-14T19:12:00-04:00" calendar="House" number="205">
+      <text>Placed on the House Calendar, Calendar No. 205.</text>
+    </calendar>
+    <action datetime="2008-04-15T14:51:00-04:00">
+      <text>Mr. Brady (PA) moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2008-04-15T14:51:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2298" label="consideration"/>
+    </action>
+    <action datetime="2008-04-15T14:51:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1068.</text>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2008-04-15T14:53:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H2298" label="text"/>
+    </vote>
+    <action datetime="2008-04-15T14:53:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-04-15T14:54:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Armed forces and national security"/>
+    <term name="Congress and military policy"/>
+    <term name="Congressional-executive relations"/>
+    <term name="Department of Defense"/>
+    <term name="Exercise"/>
+    <term name="Government operations and politics"/>
+    <term name="House of Representatives"/>
+    <term name="Military personnel"/>
+    <term name="Sports and recreation"/>
+    <term name="Sports facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>4/15/2008--Passed House amended.
+Permits any active duty member of the Armed Forces who is assigned to a congressional liaison office of the Armed Forces at the House of Representatives to obtain membership in the exercise facility established for House employees in the same manner as such individuals and in accordance with such regulations as the Committee on House Administration may promulgate.</summary>
+</bill>

@@ -1,0 +1,94 @@
+<bill session="109" type="s" number="2275" updated="2013-07-19T20:33:18-04:00">
+  <state datetime="2006-03-23">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2006-03-23"/>
+  </status>
+  <introduced datetime="2006-02-10"/>
+  <titles>
+    <title as="introduced" type="short">National Flood Insurance Program Enhanced Borrowing Authority Act of 2006</title>
+    <title as="passed house" type="short">National Flood Insurance Program Enhanced Borrowing Authority Act of 2006</title>
+    <title as="passed senate" type="short">National Flood Insurance Program Enhanced Borrowing Authority Act of 2006</title>
+    <title as="enacted" type="short">National Flood Insurance Program Enhanced Borrowing Authority Act of 2006</title>
+    <title as="introduced" type="official">A bill to temporarily increase the borrowing authority of the Federal Emergency Management Agency for carrying out the national flood insurance program.</title>
+  </titles>
+  <sponsor id="300089"/>
+  <cosponsors/>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2006-02-10" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S1075" label="consideration"/>
+      <reference ref="CR S1075" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2006-02-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-02-14T14:12:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-02-14T18:21:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2006-02-15T11:05:00-05:00">
+      <text>Mr. Ney moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2006-02-15T11:06:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H290-293" label="consideration"/>
+    </action>
+    <action datetime="2006-02-15T11:06:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 2275.</text>
+    </action>
+    <vote state="PASS_BACK:HOUSE" datetime="2006-02-15T11:28:00-05:00" how="by voice vote" result="pass" type="vote2" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H290" label="text"/>
+    </vote>
+    <action datetime="2006-02-15T11:28:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-02-15">
+      <text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2006-03-16" how="by Unanimous Consent" result="pass" type="pingpong" where="s">
+      <text>Senate agreed to House amendment by Unanimous Consent.</text>
+      <reference ref="CR S2388" label="consideration"/>
+      <reference ref="CR S2388" label="text as Senate agreed to House amendment"/>
+    </vote>
+    <topresident datetime="2006-03-16">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="2006-03-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2006-03-17">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2006-03-23">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2006-03-23" type="public" number="109-208">
+      <text>Became Public Law No: 109-208.</text>
+    </enacted>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="3669"/>
+    <bill relation="unknown" session="109" type="h" number="4133"/>
+    <bill relation="unknown" session="109" type="h" number="4656"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Disaster insurance"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal Emergency Management Agency"/>
+    <term name="Finance and financial sector"/>
+    <term name="Floods"/>
+    <term name="Government operations and politics"/>
+    <term name="Government securities"/>
+    <term name="Hurricane aftermath legislation"/>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/2006--Public Law.
+National Flood Insurance Program Enhanced Borrowing Authority Act of 2006 - Amends the National Flood Insurance Act of 1968 to increase from $18.5 billion to $20.775 billion, through FY2008, the total amount which the Director of the Federal Emergency Management Agency (FEMA) may borrow from the Secretary of the Treasury with the President's approval to carry out the flood insurance program. Designates such funds as emergency spending.</summary>
+</bill>

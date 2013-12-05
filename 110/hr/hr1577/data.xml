@@ -1,0 +1,49 @@
+<bill session="110" type="h" number="1577" updated="2013-07-19T21:17:27-04:00">
+  <state datetime="2007-03-20">REFERRED</state>
+  <status>
+    <introduced datetime="2007-03-20"/>
+  </status>
+  <introduced datetime="2007-03-20"/>
+  <titles>
+    <title as="introduced" type="short">Wounded Warriors Joint Health Care Patient Navigators Act</title>
+    <title as="introduced" type="official">To create a Department of Defense-wide program of patient navigators for wounded members of the Armed Forces.</title>
+  </titles>
+  <sponsor id="400370"/>
+  <cosponsors>
+    <cosponsor id="412250" joined="2007-03-20"/>
+    <cosponsor id="412196" joined="2007-03-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-03-20">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2007-04-03">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="1578"/>
+    <bill relation="unknown" session="110" type="h" number="1579"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Armed forces reserves"/>
+    <term name="Case management"/>
+    <term name="Families"/>
+    <term name="Family services"/>
+    <term name="Health"/>
+    <term name="Military dependents"/>
+    <term name="Military medicine"/>
+    <term name="Military personnel"/>
+    <term name="National Guard"/>
+    <term name="War casualties"/>
+  </subjects>
+  <amendments/>
+  <summary>3/20/2007--Introduced.
+Wounded Warriors Joint Health Care Patient Navigators Act - Directs the Secretary of Defense to establish a Department of Defense (DOD)-wide patient navigator program and assign responsibility for overseeing the program to the Assistant Secretary of Defense for Health Affairs. Requires patient navigators to be assigned as representatives to medical holdover patients and their families in order to improve health care outcomes. Prohibits the ratio of navigators to patients from being higher than one to ten.</summary>
+</bill>

@@ -1,0 +1,67 @@
+<bill session="110" type="hc" number="377" updated="2013-07-19T22:12:00-04:00">
+  <state datetime="2008-06-27">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2008-06-27"/>
+  </status>
+  <introduced datetime="2008-06-23"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the rotunda of the Capitol for a ceremony commemorating the 60th Anniversary of the beginning of the integration of the United States Armed Forces.</title>
+  </titles>
+  <sponsor id="400377"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2008-06-23">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2008-06-25T18:19:00-04:00">
+      <text>Mrs. Davis (CA) moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2008-06-25T18:20:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6082-6083" label="consideration"/>
+    </action>
+    <action datetime="2008-06-25T18:20:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 377.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-06-25T18:25:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6082-6083" label="text"/>
+    </vote>
+    <action datetime="2008-06-25T18:25:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-06-26">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2008-06-27" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S6331-6332" label="consideration"/>
+    </vote>
+    <action datetime="2008-06-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Armed forces and national security"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Ex-presidents"/>
+    <term name="Executive orders"/>
+    <term name="Government operations and politics"/>
+    <term name="History"/>
+    <term name="Military history"/>
+    <term name="Minorities"/>
+    <term name="Racial discrimination"/>
+    <term name="Segregation"/>
+    <term name="Truman Administration"/>
+  </subjects>
+  <amendments/>
+  <summary>6/27/2008--Passed Senate without amendment.
+Authorizes the use of the Capitol rotunda on July 23, 2008, for a ceremony commemorating the 60th anniversary of President Truman's Executive Order No. 9981, which states, "It is hereby declared to be the policy of the President that there shall be equality of treatment and opportunity for all persons in the armed services without regard to race, color, religion or national origin."</summary>
+</bill>

@@ -1,0 +1,76 @@
+<bill session="110" type="s" number="3328" updated="2013-07-19T22:50:46-04:00">
+  <state datetime="2008-09-23">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2008-09-23"/>
+  </status>
+  <introduced datetime="2008-07-24"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend the Homeland Security Act of 2002 to provide for a one-year extension of other transaction authority.</title>
+  </titles>
+  <sponsor id="300025"/>
+  <cosponsors>
+    <cosponsor id="300067" joined="2008-07-24"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2008-07-24">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2008-07-30">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2008-09-11">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-454.</text>
+    </action>
+    <calendar datetime="2008-09-11" calendar="Senate Legislative" under="General Orders" number="952">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 952.</text>
+    </calendar>
+    <action datetime="2008-09-23">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S9335-9336" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2008-09-23" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S9336" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2008-09-24T10:03:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2008-09-24">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2008-09-24">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2008-09-29">
+      <text>Referred to the Subcommittee on Management, Investigations, and Oversight.</text>
+      <committee name="House Committee on Homeland Security"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSHM09" subcommittee="Management, Investigations, and Oversight" name="House Homeland Security"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Armed forces and national security"/>
+    <term name="Competitive bidding"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Cost accounting"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Economics and public finance"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government operations and politics"/>
+    <term name="Government procurement"/>
+    <term name="Research and development"/>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments>
+    <amendment number="s5638"/>
+  </amendments>
+  <summary>9/23/2008--Passed Senate amended.
+Amends the Homeland Security Act of 2002 to provide for a one-year extension of the authority of the Secretary of Homeland Security to carry out an alternative contracting program for research and development projects if the Secretary issues policy guidance by September 30, 2008, detailing the appropriate use of other transaction authority and provides mandatory training to each employee handling procurements under such authority.Directs the Secretary to submit to the Senate Committee on Homeland Security and Governmental Affairs, the Senate Committee on Commerce, Science, and Transportation, and the House Committee on Homeland Security an annual report on the exercise of such authority, including: (1) the technology areas in which research projects were conducted under other transactions; (2) the extent of the cost-sharing among federal and nonfederal sources; (3) the extent to which use of the other transactions contributed to a broadening of the technology and industrial base available for meeting the needs of the Department of Homeland Security (DHS) and fostered within the technology and industrial base new relationships and practices that support national security; (4) the total payments received by the government; and (5) the rationale for using such authority.</summary>
+</bill>

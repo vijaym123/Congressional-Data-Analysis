@@ -1,0 +1,75 @@
+<bill session="109" type="h" number="1344" updated="2013-07-19T19:16:08-04:00">
+  <state datetime="2006-09-25T14:19:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-09-25T14:19:00-04:00"/>
+  </status>
+  <introduced datetime="2005-03-16"/>
+  <titles>
+    <title as="introduced" type="short">Lower Farmington River and Salmon Brook Wild and Scenic River Study Act</title>
+    <title as="passed house" type="short">Lower Farmington River and Salmon Brook Wild and Scenic River Study Act</title>
+    <title as="introduced" type="official">To amend the Wild and Scenic Rivers Act to designate a segment of the Farmington River and Salmon Brook in the State of Connecticut for study for potential addition to the National Wild and Scenic Rivers System, and for other purposes.</title>
+  </titles>
+  <sponsor id="400205"/>
+  <cosponsors>
+    <cosponsor id="400103" joined="2005-03-16"/>
+    <cosponsor id="400233" joined="2005-03-16"/>
+    <cosponsor id="400370" joined="2005-03-16"/>
+    <cosponsor id="400375" joined="2005-03-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-03-16">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-03-23">
+      <text>Referred to the Subcommittee on National Parks.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-03-23">
+      <text>Executive Comment Requested from Interior.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-09-25T14:14:00-04:00">
+      <text>Mr. Renzi moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2006-09-25T14:15:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6937-6938" label="consideration"/>
+    </action>
+    <action datetime="2006-09-25T14:15:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1344.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-09-25T14:19:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6937" label="text"/>
+    </vote>
+    <action datetime="2006-09-25T14:19:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-09-26">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2006-11-13">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Recreation, and Public Lands" name="House Resources"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="s" number="435"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Connecticut"/>
+    <term name="Governmental investigations"/>
+    <term name="Water resources development"/>
+    <term name="Wild rivers"/>
+  </subjects>
+  <amendments/>
+  <summary>9/25/2006--Passed House amended.
+Lower Farmington River and Salmon Brook Wild and Scenic River Study Act - Amends the Wild and Scenic Rivers Act to designate a specified segment of the lower Farmington River and Salmon Brook in Connecticut for study for potential addition to the National Wild and Scenic Rivers System.</summary>
+</bill>

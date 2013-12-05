@@ -1,0 +1,113 @@
+<bill session="110" type="h" number="3572" updated="2013-07-19T21:35:14-04:00">
+  <state datetime="2007-11-30">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2007-11-30"/>
+  </status>
+  <introduced datetime="2007-09-18"/>
+  <titles>
+    <title as="introduced" type="official">To designate the facility of the United States Postal Service located at 4320 Blue Parkway in Kansas City, Missouri, as the "Wallace S. Hartsfield Post Office Building".</title>
+  </titles>
+  <sponsor id="400639"/>
+  <cosponsors>
+    <cosponsor id="400005" joined="2007-09-18"/>
+    <cosponsor id="400034" joined="2007-09-18"/>
+    <cosponsor id="400638" joined="2007-09-18"/>
+    <cosponsor id="400074" joined="2007-09-18"/>
+    <cosponsor id="412236" joined="2007-09-25"/>
+    <cosponsor id="400121" joined="2007-09-18"/>
+    <cosponsor id="400158" joined="2007-09-18"/>
+    <cosponsor id="400190" joined="2007-09-18"/>
+    <cosponsor id="400240" joined="2007-09-25"/>
+    <cosponsor id="400312" joined="2007-10-03"/>
+    <cosponsor id="400363" joined="2007-09-25"/>
+    <cosponsor id="400377" joined="2007-09-18"/>
+    <cosponsor id="400409" joined="2007-10-03"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-09-18">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2007-10-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-10-04">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Oversight and Government Reform"/>
+    </calendar>
+    <action datetime="2007-10-15T15:36:00-04:00">
+      <text>Mr. Davis (IL) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-10-15T15:37:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11509-11510" label="consideration"/>
+    </action>
+    <action datetime="2007-10-15T15:37:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3572.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-10-15T15:47:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H11509" label="text"/>
+    </vote>
+    <action datetime="2007-10-15T15:47:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-10-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2007-10-19">
+      <text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+    <calendar datetime="2007-11-14">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </calendar>
+    <action datetime="2007-11-14">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2007-11-14" calendar="Senate Legislative" under="General Orders" number="505">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 505.</text>
+    </calendar>
+    <vote state="PASSED:BILL" datetime="2007-11-16" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S14656-14657" label="consideration"/>
+    </vote>
+    <action datetime="2007-11-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2007-11-16">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="2007-11-26">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2007-11-30">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted state="ENACTED:SIGNED" datetime="2007-11-30" type="public" number="110-131">
+      <text>Became Public Law No: 110-131.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSGA09" subcommittee="Federal Financial Management, Government Information, Federal Services, and International Security" name="Senate Homeland Security and Governmental Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="2150"/>
+    <bill relation="identical" session="110" type="s" number="2150"/>
+    <bill relation="unknown" session="110" type="s" number="2150"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Government operations and politics"/>
+    <term name="Missouri"/>
+    <term name="Names"/>
+    <term name="Postal facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>11/30/2007--Public Law.
+Designates the facility of the United States Postal Service located at 4320 Blue Parkway in Kansas City, Missouri, as the "Wallace S. Hartsfield Post Office Building."</summary>
+</bill>

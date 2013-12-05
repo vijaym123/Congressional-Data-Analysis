@@ -1,0 +1,78 @@
+<bill session="109" type="s" number="3867" updated="2013-07-19T20:47:05-04:00">
+  <state datetime="2006-09-30">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2006-09-30"/>
+  </status>
+  <introduced datetime="2006-09-07"/>
+  <titles>
+    <title as="introduced" type="official">A bill to designate the Federal courthouse located at 555 Independence Street, Cape Girardeau, Missouri, as the "Rush H. Limbaugh, Sr., Federal Courthouse".</title>
+    <title as="amended by senate" type="official">An act to designate the United States courthouse located at 555 Independence Street, Cape Girardeau, Missouri, as the 'Rush H. Limbaugh, Sr. United States Courthouse'.".</title>
+  </titles>
+  <sponsor id="300010"/>
+  <cosponsors>
+    <cosponsor id="300096" joined="2006-09-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2006-09-07">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S9129"/>
+    </action>
+    <action state="REFERRED" datetime="2006-09-07">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <reference ref="CR S9129" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-09-13">
+      <text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Environment and Public Works"/>
+    </calendar>
+    <action datetime="2006-09-21">
+      <text>Committee on Environment and Public Works. Reported by Senator Inhofe without amendment and an amendment to the title. Without written report.</text>
+    </action>
+    <calendar datetime="2006-09-21" calendar="Senate Legislative" under="General Orders" number="626">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 626.</text>
+    </calendar>
+    <action datetime="2006-09-27">
+      <text>Star Print ordered on the bill.</text>
+    </action>
+    <action datetime="2006-09-30">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR 9/29/2006 S10802-10803" label="consideration"/>
+      <reference ref="CR 9/29/2006 S10803" label="text of measure as reported in Senate"/>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2006-09-30" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2006-10-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-11-09T14:08:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-11-09T15:39:00-05:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="6055"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Courthouses"/>
+    <term name="Diplomats"/>
+    <term name="International affairs"/>
+    <term name="Law"/>
+    <term name="Lawyers"/>
+    <term name="Missouri"/>
+    <term name="Names"/>
+  </subjects>
+  <amendments>
+    <amendment number="s5120"/>
+    <amendment number="s5121"/>
+  </amendments>
+  <summary>9/30/2006--Passed Senate amended.
+Designates the federal courthouse at 555 Independence Street, Cape Girardeau, Missouri, as the "Rush H. Limbaugh, Sr., Federal Courthouse."</summary>
+</bill>

@@ -1,0 +1,72 @@
+<bill session="109" type="sc" number="56" updated="2013-07-19T20:12:50-04:00">
+  <state datetime="2005-11-01">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-11-01"/>
+  </status>
+  <introduced datetime="2005-09-30"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution expressing appreciation for the contribution of Chinese art and culture and recognizing the Festival of China at the Kennedy Center.</title>
+  </titles>
+  <sponsor id="300043"/>
+  <cosponsors>
+    <cosponsor id="300056" joined="2005-10-05"/>
+    <cosponsor id="300075" joined="2005-09-30"/>
+    <cosponsor id="300094" joined="2005-09-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-09-30">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S10805-10806"/>
+    </action>
+    <action state="REFERRED" datetime="2005-09-30">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S10805" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2005-10-04">
+      <text>Star Print ordered on the concurrent resolution.</text>
+    </action>
+    <vote state="PASS_OVER:SENATE" datetime="2005-11-01" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S12146" label="consideration"/>
+      <reference ref="CR S12146" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-11-02T14:01:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-11-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-11-02">
+      <text>Referred to the House Committee on International Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+    <committee code="HSFA" name="House International Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="109" type="hc" number="265"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Artists"/>
+    <term name="Arts"/>
+    <term name="Arts, culture, religion"/>
+    <term name="China"/>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Cultural centers"/>
+    <term name="Cultural relations"/>
+    <term name="District of Columbia"/>
+    <term name="East Asia"/>
+    <term name="Exhibitions"/>
+    <term name="International cooperation"/>
+    <term name="International cooperation in science"/>
+    <term name="Performing arts"/>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <summary>11/1/2005--Passed Senate without amendment.
+Expresses appreciation for the contribution of Chinese art and culture to the world. Recognizes the Festival of China at the Kennedy Center. Expresses the sense of Congress that the United States and China should promote cultural cooperation and exchange programs.</summary>
+</bill>

@@ -1,0 +1,115 @@
+<bill session="110" type="h" number="2790" updated="2013-07-19T21:28:16-04:00">
+  <state datetime="2008-05-20T12:28:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2008-05-20T12:28:00-04:00"/>
+  </status>
+  <introduced datetime="2007-06-20"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to establish the position of Director of Physician Assistant Services within the office of the Under Secretary of Veterans Affairs for Health.</title>
+  </titles>
+  <sponsor id="412204"/>
+  <cosponsors>
+    <cosponsor id="400007" joined="2008-03-13"/>
+    <cosponsor id="400024" joined="2007-07-30"/>
+    <cosponsor id="400040" joined="2008-04-02"/>
+    <cosponsor id="400042" joined="2007-09-14"/>
+    <cosponsor id="400048" joined="2008-01-16"/>
+    <cosponsor id="400056" joined="2008-05-15"/>
+    <cosponsor id="412234" joined="2007-10-02"/>
+    <cosponsor id="412258" joined="2008-04-29"/>
+    <cosponsor id="400067" joined="2007-08-01"/>
+    <cosponsor id="400093" joined="2007-10-02"/>
+    <cosponsor id="400100" joined="2007-10-02"/>
+    <cosponsor id="400114" joined="2008-01-16"/>
+    <cosponsor id="400133" joined="2007-09-27"/>
+    <cosponsor id="400178" joined="2007-10-02"/>
+    <cosponsor id="400183" joined="2007-07-30"/>
+    <cosponsor id="412240" joined="2007-10-02"/>
+    <cosponsor id="400215" joined="2007-10-02"/>
+    <cosponsor id="400217" joined="2007-10-02"/>
+    <cosponsor id="400234" joined="2007-09-25"/>
+    <cosponsor id="400240" joined="2007-10-02"/>
+    <cosponsor id="400274" joined="2008-02-12"/>
+    <cosponsor id="400284" joined="2007-06-20"/>
+    <cosponsor id="400310" joined="2008-03-13"/>
+    <cosponsor id="400339" joined="2008-03-13"/>
+    <cosponsor id="412232" joined="2008-03-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-06-20">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2007-06-29">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-04-23">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-04-23">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <action datetime="2008-04-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+    <calendar state="REPORTED" datetime="2008-04-30">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </calendar>
+    <action datetime="2008-05-15T16:57:00-04:00">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-642.</text>
+    </action>
+    <calendar datetime="2008-05-15T16:57:00-04:00" calendar="Union" number="403">
+      <text>Placed on the Union Calendar, Calendar No. 403.</text>
+    </calendar>
+    <action datetime="2008-05-20T12:19:00-04:00">
+      <text>Mr. Hare moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2008-05-20T12:19:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4183-4185" label="consideration"/>
+    </action>
+    <action datetime="2008-05-20T12:19:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2790.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2008-05-20T12:28:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4184" label="text"/>
+    </vote>
+    <action datetime="2008-05-20T12:29:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2008-05-21">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Education"/>
+    <term name="Employee training"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal employees"/>
+    <term name="Federal officials"/>
+    <term name="Government operations and politics"/>
+    <term name="Health"/>
+    <term name="Higher education"/>
+    <term name="Labor and employment"/>
+    <term name="Medical education"/>
+    <term name="Physicians' assistants"/>
+    <term name="Recruiting of employees"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2008--Passed House amended.
+Establishes within the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA) the position of Director of Physician Assistant Services, who shall report to the VHA's Under Secretary for Health on all matters relating to the education and training, employment, appropriate utilization, and optimal participation of physician assistants within VHA programs and initiatives. Requires the Secretary of Veterans Affairs to ensure that an individual is serving in such position no later than 120 days after the enactment of this Act.</summary>
+</bill>

@@ -1,0 +1,90 @@
+<bill session="110" type="h" number="429" updated="2013-07-19T21:07:29-04:00">
+  <state datetime="2007-03-13T13:55:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-03-13T13:55:00-04:00"/>
+  </status>
+  <introduced datetime="2007-01-11"/>
+  <titles>
+    <title as="introduced" type="official">To designate the United States courthouse located at 225 Cadman Plaza East, Brooklyn, New York, as the "Hugh L. Carey United States Courthouse".</title>
+  </titles>
+  <sponsor id="400409"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2007-01-11">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2007-01-12">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2007-02-06">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2007-02-06">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2007-02-06">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2007-02-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-02-07">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2007-02-16T16:49:00-05:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 110-22.</text>
+    </action>
+    <calendar datetime="2007-02-16T16:50:00-05:00" calendar="House" number="16">
+      <text>Placed on the House Calendar, Calendar No. 16.</text>
+    </calendar>
+    <action datetime="2007-03-13T13:51:00-04:00">
+      <text>Mr. Boswell moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2007-03-13T13:52:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2458-2459" label="consideration"/>
+    </action>
+    <action datetime="2007-03-13T13:52:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 429.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-03-13T13:55:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2458" label="text"/>
+    </vote>
+    <action datetime="2007-03-13T13:55:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-03-14">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral, Markup, Reporting" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Courthouses"/>
+    <term name="Ex-Members of Congress"/>
+    <term name="Government operations and politics"/>
+    <term name="Governors"/>
+    <term name="Law"/>
+    <term name="Names"/>
+    <term name="New York City"/>
+    <term name="New York State"/>
+  </subjects>
+  <amendments/>
+  <summary>3/13/2007--Passed House without amendment.
+Designates the U.S. courthouse located at 225 Cadman Plaza East, Brooklyn, New York, as the "Hugh L. Carey United States Courthouse."</summary>
+</bill>

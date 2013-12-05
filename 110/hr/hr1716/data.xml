@@ -1,0 +1,103 @@
+<bill session="110" type="h" number="1716" updated="2013-07-19T21:18:48-04:00">
+  <state datetime="2007-06-06T14:17:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2007-06-06T14:17:00-04:00"/>
+  </status>
+  <introduced datetime="2007-03-27"/>
+  <titles>
+    <title as="introduced" type="short">Green Energy Education Act of 2007</title>
+    <title as="passed house" type="short">Green Energy Education Act of 2007</title>
+    <title as="introduced" type="official">To authorize higher education curriculum development and graduate training in advanced energy and green building technologies.</title>
+  </titles>
+  <sponsor id="400654"/>
+  <cosponsors>
+    <cosponsor id="400027" joined="2007-03-29"/>
+    <cosponsor id="400119" joined="2007-03-27"/>
+    <cosponsor id="400149" joined="2007-05-01"/>
+    <cosponsor id="400157" joined="2007-05-01"/>
+    <cosponsor id="400177" joined="2007-03-27"/>
+    <cosponsor id="400204" joined="2007-06-05"/>
+    <cosponsor id="400260" joined="2007-03-27"/>
+    <cosponsor id="400647" joined="2007-03-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-03-27">
+      <text>Referred to the House Committee on Science and Technology.</text>
+    </action>
+    <action datetime="2007-05-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Science and Technology"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-05-23">
+      <text>Ordered to be Reported (Amended).</text>
+      <committee name="House Committee on Science and Technology"/>
+    </calendar>
+    <action datetime="2007-06-05T15:47:00-04:00">
+      <text>Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-173.</text>
+    </action>
+    <calendar datetime="2007-06-05T15:47:00-04:00" calendar="Union" number="105">
+      <text>Placed on the Union Calendar, Calendar No. 105.</text>
+    </calendar>
+    <action datetime="2007-06-06T11:41:00-04:00">
+      <text>Mr. Lipinski moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2007-06-06T11:41:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6026-6027" label="consideration"/>
+    </action>
+    <action datetime="2007-06-06T11:41:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1716.</text>
+    </action>
+    <action datetime="2007-06-06T11:49:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2007-06-06T14:09:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6046" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-06-06T14:17:00-04:00" how="roll" result="pass" roll="432" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 432).</text>
+      <reference ref="CR H6026" label="text"/>
+    </vote>
+    <action datetime="2007-06-06T14:17:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-06-07">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2007-07-17">
+      <text>Star Print ordered on the bill.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science and Technology" activity="Referral, Markup, Reporting"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Architecture"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Building construction"/>
+    <term name="Commercialization"/>
+    <term name="Curricula"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Energy"/>
+    <term name="Energy conservation"/>
+    <term name="Energy research"/>
+    <term name="Engineering"/>
+    <term name="Federal aid to education"/>
+    <term name="Graduate education"/>
+    <term name="High technology"/>
+    <term name="Higher education"/>
+    <term name="Infrastructure"/>
+    <term name="Landscape architecture"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Research and development"/>
+    <term name="Technological innovations"/>
+  </subjects>
+  <amendments/>
+  <summary>6/6/2007--Passed House amended.
+Green Energy Education Act of 2007 - Authorizes the Secretary of Energy to contribute energy research and development funds to the National Science Foundation (NSF) for the Integrative Graduate Education and Research Traineeship program to support graduate education related to such energy projects.Authorizes the Secretary to contribute funds for advanced energy technology research and development for high performance buildings to the NSF for curriculum development to improve undergraduate or graduate interdisciplinary engineering and architecture education related to the design and construction of such buildings.</summary>
+</bill>

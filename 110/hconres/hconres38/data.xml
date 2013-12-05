@@ -1,0 +1,62 @@
+<bill session="110" type="hc" number="38" updated="2013-07-19T22:09:07-04:00">
+  <state datetime="2007-01-23T12:41:00-05:00">PASSED:BILL</state>
+  <status>
+    <unknown datetime="2007-01-23T12:41:00-05:00"/>
+  </status>
+  <introduced datetime="2007-01-19"/>
+  <titles>
+    <title as="introduced" type="official">Providing for a joint session of Congress to receive a message from the President.</title>
+  </titles>
+  <sponsor id="400189"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2007-01-19T11:57:00-05:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H773" label="consideration"/>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2007-01-19T11:57:00-05:00" how="without objection" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H773" label="text"/>
+    </vote>
+    <action datetime="2007-01-19T11:57:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-01-22">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2007-01-22">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S868" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2007-01-22" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Resolution agreed to in Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2007-01-23">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2007-01-23T12:41:00-05:00">
+      <text>The Chair laid before the House a privileged messeage from the Senate.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2007-01-23T12:41:00-05:00" how="without objection" result="pass" type="pingpong" where="h">
+      <text>On motion that the House agree to the Senate amendment Agreed to without objection.</text>
+      <reference ref="CR H847" label="consideration"/>
+      <reference ref="CR H847" label="text as House agreed to Senate amendment"/>
+    </vote>
+    <action datetime="2007-01-23T12:41:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+    <term name="Government operations and politics"/>
+    <term name="Presidential messages"/>
+  </subjects>
+  <amendments>
+    <amendment number="s109"/>
+  </amendments>
+  <summary>1/22/2007--Passed Senate amended.
+Provides for a joint session of Congress on January 23, 2007, to receive a message from the President.</summary>
+</bill>

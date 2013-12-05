@@ -1,0 +1,45 @@
+<bill session="110" type="h" number="3491" updated="2013-07-19T21:34:32-04:00">
+  <state datetime="2007-09-06">REFERRED</state>
+  <status>
+    <introduced datetime="2007-09-06"/>
+  </status>
+  <introduced datetime="2007-09-06"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Atomic Energy Act of 1954 to improve and strengthen the safety inspection process of nuclear facilities.</title>
+  </titles>
+  <sponsor id="412239"/>
+  <cosponsors>
+    <cosponsor id="412220" joined="2007-09-06"/>
+    <cosponsor id="400253" joined="2007-09-06"/>
+    <cosponsor id="400301" joined="2007-09-06"/>
+    <cosponsor id="412219" joined="2007-09-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-09-06">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2007-09-06">
+      <text>Referred to the Subcommittee on Energy and Air Quality.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Air Quality" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="110" type="s" number="1008"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Law"/>
+    <term name="Licenses"/>
+    <term name="Nuclear power plants"/>
+    <term name="Radiation safety"/>
+  </subjects>
+  <amendments/>
+  <summary>9/6/2007--Introduced.
+Amends the Atomic Energy Act of 1954 to direct the Nuclear Regulatory Commission (NRC) to: (1) develop an independent safety assessment procedure for nuclear facilities; and (2) create a team to inspect the design, construction, maintenance, and operational safety performance of a facility. Declares that a final NRC decision on whether to extend an operating license, approve an extended power uprate, or continue to operate a facility shall not be made until: (1) the NRC has completed the independent safety assessment of the facility; and (2) the licensee has fully accepted and implemented each NRC-approved finding and recommendation of the assessment report</summary>
+</bill>

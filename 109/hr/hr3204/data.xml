@@ -1,0 +1,116 @@
+<bill session="109" type="h" number="3204" updated="2013-07-19T19:32:39-04:00">
+  <state datetime="2005-10-19">PASS_BACK:SENATE</state>
+  <status>
+    <unknown datetime="2005-10-19"/>
+  </status>
+  <introduced datetime="2005-07-12"/>
+  <titles>
+    <title as="introduced" type="short">State High Risk Pool Funding Extension Act of 2005</title>
+    <title as="reported to house" type="short">State High Risk Pool Funding Extension Act of 2005</title>
+    <title as="passed house" type="short">State High Risk Pool Funding Extension Act of 2005</title>
+    <title as="passed senate" type="short">State High Risk Pool Funding Extension Act of 2005</title>
+    <title as="introduced" type="official">To amend title XXVII of the Public Health Service Act to extend Federal funding for the establishment and operation of State high risk health insurance pools.</title>
+  </titles>
+  <sponsor id="400368"/>
+  <cosponsors>
+    <cosponsor id="400634" joined="2005-07-19"/>
+    <cosponsor id="400409" joined="2005-07-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-07-12">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2005-07-14">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2005-07-14">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2005-07-14">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <action datetime="2005-07-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-07-20">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Energy and Commerce"/>
+    </calendar>
+    <calendar datetime="2005-07-27T10:02:00-04:00" calendar="Union" number="116">
+      <text>Placed on the Union Calendar, Calendar No. 116.</text>
+    </calendar>
+    <action datetime="2005-07-27T10:02:00-04:00">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 109-192.</text>
+    </action>
+    <action datetime="2005-07-27T11:48:00-04:00">
+      <text>Mr. Deal (GA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2005-07-27T11:48:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6668-6671" label="consideration"/>
+    </action>
+    <action datetime="2005-07-27T11:49:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3204.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-07-27T12:07:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6668-6669" label="text"/>
+    </vote>
+    <action datetime="2005-07-27T12:07:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="2005-07-28" calendar="Senate Legislative" under="General Orders" number="181">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 181.</text>
+    </calendar>
+    <action datetime="2005-10-19">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S11597-11598" label="consideration"/>
+    </action>
+    <vote state="PASS_BACK:SENATE" datetime="2005-10-19" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2005-10-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF14" subcommittee="Health" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="4519"/>
+    <bill relation="unknown" session="109" type="s" number="288"/>
+    <bill relation="identical" session="109" type="s" number="288"/>
+    <bill relation="unknown" session="109" type="s" number="288"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Appropriations"/>
+    <term name="Authorization"/>
+    <term name="Case management"/>
+    <term name="Coinsurance"/>
+    <term name="Congress"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Economics and public finance"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government insurance"/>
+    <term name="Government operations and politics"/>
+    <term name="Grants-in-aid"/>
+    <term name="Health insurance"/>
+    <term name="Insurance premiums"/>
+    <term name="Losses"/>
+    <term name="Medically uninsured"/>
+    <term name="Standards"/>
+    <term name="Subsidies"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2142"/>
+  </amendments>
+  <summary>10/19/2005--Passed Senate amended.
+State High Risk Pool Funding Extension Act of 2005 - (Sec. 2) Amends the Public Health Service Act to reauthorize funds for grants to each state that has not created a qualified high risk pool for the state's cost to create and initially operate such a pool. Increases the maximum allowable premium charged under a qualified high risk pool to 200% of the premium for applicable standard risk rates. Defines "standard risk rate" as a rate that: (1) is determined under the state high risk pool by considering the premiums charged by other health insurers in the same market; (2) is established using reasonable actuarial techniques; and (3) reflects anticipated claims experience and expenses. Permits grants awarded by the Secretary of Health and Human Services to states with existing qualified high risk pools to cover operating losses to be made to entities that operate such a pool under applicable state law. Changes the allocation of such grants to give 40% to eligible states equally, 30% based on the number of uninsured individuals in a state relative to all states, and 30% based on the number of enrollees in a state's qualified high risk pool relative to all states. (Currently, all funds are allotted based solely on the number of uninsured individuals in the state.) Requires a state which charges premiums that exceed 150% of the premium for applicable standard risk to use at least 50% of the grant amount to reduce premiums for enrollees. Limits the maximum grant amount allotted to territories. Requires the Secretary to award grants to states with qualified high risk pools for the provision of supplemental consumer benefits, which must include one or more of the following: (1) low-income premium subsidies; (2) a reduction in premium trends, actual premiums, or other cost-sharing requirements; (3) an expansion or broadening of the pool of individuals eligible for coverage; (4) less stringent rules or additional waiver authority with respect to coverage of preexisting conditions; (5) increased benefits; or (6) establishment of disease management programs. Limits to 10% of appropriated funds the amount that any state may be allotted. Authorizes appropriations for FY2006-FY2010 and appropriates funds for FY 2006. Sets forth reporting requirements. Revises the definition of "qualified high risk pool" to allow a state to elect to meet the requirement to provide all eligible individuals with health insurance coverage by utilizing an acceptable alternative mechanism that includes a high risk pool as a component.</summary>
+</bill>

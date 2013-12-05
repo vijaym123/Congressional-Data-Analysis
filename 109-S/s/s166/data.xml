@@ -1,0 +1,85 @@
+<bill session="109" type="s" number="166" updated="2013-07-19T20:14:53-04:00">
+  <state datetime="2005-11-16">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-11-16"/>
+  </status>
+  <introduced datetime="2005-01-25"/>
+  <titles>
+    <title as="introduced" type="short">Deschutes River Conservancy Reauthorization Act of 2005</title>
+    <title as="reported to senate" type="short">Deschutes River Conservancy Reauthorization Act of 2005</title>
+    <title as="passed senate" type="short">Deschutes River Conservancy Reauthorization Act of 2005</title>
+    <title as="introduced" type="official">A bill to amend the Oregon Resource Conservation Act of 1996 to reauthorize the participation of the Bureau of Reclamation in the Deschutes River Conservancy, and for other purposes.</title>
+  </titles>
+  <sponsor id="300090"/>
+  <cosponsors>
+    <cosponsor id="300100" joined="2005-01-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-01-25">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S494"/>
+    </action>
+    <action state="REFERRED" datetime="2005-01-25">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2005-04-19">
+      <text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 109-96.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </action>
+    <action state="REPORTED" datetime="2005-10-27">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Domenici without amendment. With written report No. 109-164.</text>
+    </action>
+    <calendar datetime="2005-10-27" calendar="Senate Legislative" under="General Orders" number="265">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 265.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2005-11-16" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S13060" label="consideration"/>
+      <reference ref="CR S13060" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2006-03-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2006-03-28T14:03:00-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2006-03-28">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2006-03-31">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-03-31">
+      <text>Executive Comment Requested from Interior.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2006-04-26">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Reporting"/>
+    <committee activity="Hearings" code="SSEG07" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+    <committee code="HSII" name="House Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII13" subcommittee="Water and Power" name="House Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Authorization"/>
+    <term name="Construction costs"/>
+    <term name="Economics and public finance"/>
+    <term name="Environmental protection"/>
+    <term name="Federal aid to water resources development"/>
+    <term name="Oregon"/>
+    <term name="Restoration ecology"/>
+    <term name="Riparian ecology"/>
+    <term name="Stream conservation"/>
+    <term name="Watersheds"/>
+  </subjects>
+  <amendments/>
+  <summary>11/16/2005--Passed Senate without amendment.
+Deschutes River Conservancy Reauthorization Act of 2005 - Amends the Oregon Resource Conservation Act of 1996 to: (1) replace references to the Deschutes River Basin Working Group with the Deschutes River Conservancy Working Group; (2) redefine "quorum" to mean eight of those qualified Working Group members appointed and eligible to serve; and (3) reauthorize appropriations at a level of $2 million for each fiscal year through FY2015.</summary>
+</bill>

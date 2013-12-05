@@ -1,0 +1,104 @@
+<bill session="109" type="h" number="5024" updated="2013-07-19T19:48:41-04:00">
+  <state datetime="2006-07-25T14:39:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-07-25T14:39:00-04:00"/>
+  </status>
+  <introduced datetime="2006-03-28"/>
+  <titles>
+    <title as="introduced" type="short">Promoting Transparency in Financial Reporting Act of 2006</title>
+    <title as="reported to house" type="short">Promoting Transparency in Financial Reporting Act of 2006</title>
+    <title as="passed house" type="short">Promoting Transparency in Financial Reporting Act of 2006</title>
+    <title as="introduced" type="official">To require annual oral testimony before the Financial Services Committee of the Chairperson or a designee of the Chairperson of the Securities and Exchange Commission, the Financial Accounting Standards Board, and the Public Company Accounting Oversight Board, relating to their efforts to promote transparency in financial reporting.</title>
+  </titles>
+  <sponsor id="400633"/>
+  <cosponsors>
+    <cosponsor id="400070" joined="2006-03-29"/>
+    <cosponsor id="400131" joined="2006-06-09"/>
+    <cosponsor id="400646" joined="2006-06-12"/>
+    <cosponsor id="400150" joined="2006-06-07"/>
+    <cosponsor id="400179" joined="2006-07-12"/>
+    <cosponsor id="400195" joined="2006-03-28"/>
+    <cosponsor id="400363" joined="2006-03-28"/>
+    <cosponsor id="400370" joined="2006-06-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-03-28">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2006-04-21">
+      <text>Referred to the Subcommittee on Capital Markets, Insurance and Government Sponsored Enterprises.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <action datetime="2006-06-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Financial Services"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-06-14">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Financial Services"/>
+    </calendar>
+    <action datetime="2006-07-17T14:34:00-04:00">
+      <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 109-565.</text>
+    </action>
+    <calendar datetime="2006-07-17T14:34:00-04:00" calendar="Union" number="321">
+      <text>Placed on the Union Calendar, Calendar No. 321.</text>
+    </calendar>
+    <action datetime="2006-07-25T14:31:00-04:00">
+      <text>Mr. Davis (KY) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2006-07-25T14:32:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5754-5755" label="consideration"/>
+    </action>
+    <action datetime="2006-07-25T14:32:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5024.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-07-25T14:39:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5754" label="text"/>
+    </vote>
+    <action datetime="2006-07-25T14:39:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-07-26">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSBA16" subcommittee="Capital Markets, Insurance and Government Sponsored Enterprises" name="House Financial Services"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Accounting"/>
+    <term name="Administrative procedure"/>
+    <term name="Associations, institutions, etc."/>
+    <term name="Auditing"/>
+    <term name="Business records"/>
+    <term name="Commerce"/>
+    <term name="Congress"/>
+    <term name="Congressional committees (House)"/>
+    <term name="Congressional reporting requirements"/>
+    <term name="Congressional witnesses"/>
+    <term name="Corporate finance"/>
+    <term name="Federal officials"/>
+    <term name="Financial statements"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="House Financial Services"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Information disclosure (Securities law)"/>
+    <term name="Interactive media"/>
+    <term name="Law"/>
+    <term name="Nonprofit organizations"/>
+    <term name="Science, technology, communications"/>
+    <term name="Securities and Exchange Commission"/>
+    <term name="Social welfare"/>
+    <term name="Standards"/>
+  </subjects>
+  <amendments/>
+  <summary>7/25/2006--Passed House amended.
+Promoting Transparency in Financial Reporting Act of 2006 - Requires the Securities and Exchange Commission (SEC), the Financial Accounting Standards Board, and the Public Company Accounting Oversight Board to provide oral testimony by their respective Chairpersons (or a designee), beginning in 2007, and annually for five years, to the Committee on Financial Services of the House of Representatives on their efforts to reduce the complexity in financial reporting to provide more accurate and clear financial information to investors.</summary>
+</bill>

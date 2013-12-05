@@ -1,0 +1,110 @@
+<bill session="110" type="hr" number="549" updated="2013-07-19T20:55:19-04:00">
+  <state datetime="2007-10-17T12:27:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2007-10-17T12:27:00-04:00"/>
+  </status>
+  <introduced datetime="2007-07-16"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the importance of America's Waterway Watch program, and for other purposes.</title>
+  </titles>
+  <sponsor id="412250"/>
+  <cosponsors>
+    <cosponsor id="400047" joined="2007-07-26"/>
+    <cosponsor id="400051" joined="2007-07-25"/>
+    <cosponsor id="412196" joined="2007-07-19"/>
+    <cosponsor id="400055" joined="2007-07-18"/>
+    <cosponsor id="400076" joined="2007-07-31"/>
+    <cosponsor id="400086" joined="2007-07-24"/>
+    <cosponsor id="400108" joined="2007-07-24"/>
+    <cosponsor id="400658" joined="2007-09-04"/>
+    <cosponsor id="400116" joined="2007-07-19"/>
+    <cosponsor id="400123" joined="2007-08-02"/>
+    <cosponsor id="400131" joined="2007-07-24"/>
+    <cosponsor id="400152" joined="2007-09-04"/>
+    <cosponsor id="400212" joined="2007-07-25"/>
+    <cosponsor id="412198" joined="2007-07-24"/>
+    <cosponsor id="400617" joined="2007-07-24"/>
+    <cosponsor id="412197" joined="2007-07-25"/>
+    <cosponsor id="400273" joined="2007-07-25"/>
+    <cosponsor id="400279" joined="2007-07-25"/>
+    <cosponsor id="400328" joined="2007-07-24"/>
+    <cosponsor id="400388" joined="2007-07-25"/>
+    <cosponsor id="400427" joined="2007-07-24"/>
+    <cosponsor id="400431" joined="2007-07-27"/>
+    <cosponsor id="400439" joined="2007-07-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2007-07-16">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2007-07-17">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2007-08-02">
+      <text>Subcommittee on Coast Guard and Maritime Transportation Discharged.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2007-08-02">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <calendar state="REPORTED" datetime="2007-08-02">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </calendar>
+    <action datetime="2007-09-14T10:42:00-04:00">
+      <text>Reported by the Committee on Transportation. H. Rept. 110-324.</text>
+    </action>
+    <calendar datetime="2007-09-14T10:43:00-04:00" calendar="House" number="111">
+      <text>Placed on the House Calendar, Calendar No. 111.</text>
+    </calendar>
+    <action datetime="2007-10-16T18:15:00-04:00">
+      <text>Mr. Cummings moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2007-10-16T18:15:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H11607-11609" label="consideration"/>
+    </action>
+    <action datetime="2007-10-16T18:15:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 549.</text>
+    </action>
+    <action datetime="2007-10-16T18:28:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2007-10-17T12:18:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H11655-11656" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2007-10-17T12:27:00-04:00" how="roll" result="pass" roll="976" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 976).</text>
+      <reference ref="CR 10/16/2007 H11607" label="text"/>
+    </vote>
+    <action datetime="2007-10-17T12:27:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW07" subcommittee="Coast Guard and Maritime Transportation" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Boats and boating"/>
+    <term name="Citizen participation"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Crime prevention"/>
+    <term name="Criminal justice information"/>
+    <term name="Government operations and politics"/>
+    <term name="Informers"/>
+    <term name="Marine safety"/>
+    <term name="Sports and recreation"/>
+    <term name="Terrorism"/>
+    <term name="Water resources development"/>
+    <term name="Waterways"/>
+  </subjects>
+  <amendments/>
+  <summary>10/17/2007--Passed House without amendment.
+Recognizes the importance of increasing maritime domain awareness. Encourages those who engage in recreational waterway activities to be aware and report suspicious activities to appropriate authorities. Supports the goals of the America's Waterway Watch program.</summary>
+</bill>

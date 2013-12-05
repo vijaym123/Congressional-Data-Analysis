@@ -1,0 +1,71 @@
+<bill session="109" type="h" number="5228" updated="2013-07-19T19:50:30-04:00">
+  <state datetime="2006-06-20T14:32:00-04:00">PROV_KILL:SUSPENSIONFAILED</state>
+  <status>
+    <unknown datetime="2006-06-20T14:32:00-04:00"/>
+  </status>
+  <introduced datetime="2006-04-27"/>
+  <titles>
+    <title as="introduced" type="official">To require representatives of governments designated as State Sponsors of Terrorism to disclose to the Attorney General lobbying contacts with legislative branch officials, and for other purposes.</title>
+  </titles>
+  <sponsor id="400107"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2006-04-27">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on International Relations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2006-04-27">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2006-04-27">
+      <text>Referred to House International Relations</text>
+    </action>
+    <action datetime="2006-06-05">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <committee name="House Judiciary"/>
+    </action>
+    <action datetime="2006-06-20T12:31:00-04:00">
+      <text>Mr. Sensenbrenner moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-06-20T12:31:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4234-4237" label="consideration"/>
+    </action>
+    <action datetime="2006-06-20T12:31:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5228.</text>
+    </action>
+    <action datetime="2006-06-20T12:55:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2006-06-20T14:23:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4245-4246" label="consideration"/>
+    </action>
+    <vote state="PROV_KILL:SUSPENSIONFAILED" datetime="2006-06-20T14:32:00-04:00" how="roll" result="fail" roll="294" type="vote" where="h" suspension="1">
+      <text>On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 263 - 159 (Roll no. 294).</text>
+      <reference ref="CR H4234" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, and Homeland Security" name="House Judiciary"/>
+    <committee code="HSFA" name="House International Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Congress"/>
+    <term name="Congressional employees"/>
+    <term name="Congressional officers"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Foreign agents"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Government publicity"/>
+    <term name="Lobbying"/>
+    <term name="Members of Congress"/>
+    <term name="State-sponsored terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>4/27/2006--Introduced.
+Amends the Foreign Agents Registration Act of 1938 to require representatives of governments designated by the Secretary of State as State Sponsors of Terrorism (covered foreign principals) to disclose to the Attorney General lobbying contacts with legislative branch officials. Prohibits the Secretary from recognizing as accredited a diplomatic or consular officer of a covered foreign principal unless the officer agrees to comply with this Act. Requires the Attorney General to make such information available to the general public in an electronic format.</summary>
+</bill>

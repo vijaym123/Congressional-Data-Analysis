@@ -1,0 +1,66 @@
+<bill session="109" type="h" number="2337" updated="2013-07-19T19:24:53-04:00">
+  <state datetime="2005-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="2005-05-12"/>
+  </status>
+  <introduced datetime="2005-05-12"/>
+  <titles>
+    <title as="introduced" type="short">Federal Land Compensation Act</title>
+    <title as="introduced" type="official">To provide permanent funding for the payment in lieu of taxes program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400088"/>
+  <cosponsors>
+    <cosponsor id="400029" joined="2005-05-16"/>
+    <cosponsor id="400059" joined="2005-05-12"/>
+    <cosponsor id="400176" joined="2005-11-01"/>
+    <cosponsor id="400287" joined="2005-05-16"/>
+    <cosponsor id="400305" joined="2005-05-16"/>
+    <cosponsor id="400313" joined="2005-05-16"/>
+    <cosponsor id="400331" joined="2005-05-16"/>
+    <cosponsor id="400335" joined="2005-05-19"/>
+    <cosponsor id="400336" joined="2005-10-19"/>
+    <cosponsor id="400412" joined="2005-05-16"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2005-05-12">
+      <text>Referred to the House Committee on Resources.</text>
+    </action>
+    <action datetime="2005-05-17">
+      <text>Referred to the Subcommittee on National Parks.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-05-17">
+      <text>Referred to the Subcommittee on Fisheries and Oceans.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+    <action datetime="2005-05-17">
+      <text>Referred to the Subcommittee on Forests and Forest Health.</text>
+      <committee name="House Committee on Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Recreation, and Public Lands" name="House Resources"/>
+    <committee activity="Referral" code="HSII15" subcommittee="Fisheries Conservation, Wildlife, and Oceans" name="House Resources"/>
+    <committee activity="Referral" code="HSII20" subcommittee="Forests and Forest Health" name="House Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="788"/>
+    <bill relation="unknown" session="109" type="s" number="496"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Animals"/>
+    <term name="Authorization"/>
+    <term name="Department of the Interior"/>
+    <term name="Economics and public finance"/>
+    <term name="Government operations and politics"/>
+    <term name="Payments in lieu of taxes"/>
+    <term name="Revenue sharing"/>
+    <term name="Taxation"/>
+    <term name="Wildlife refuges"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/2005--Introduced.
+Federal Land Compensation Act - Provides for the phasing-in of permanent funding for the following programs: (1) Bureau of Land Management Payment in Lieu of Taxes (PILT); and (2) the U.S. Fish and Wildlife Service's refuge revenue sharing program.</summary>
+</bill>

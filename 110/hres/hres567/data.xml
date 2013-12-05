@@ -1,0 +1,55 @@
+<bill session="110" type="hr" number="567" updated="2013-07-19T20:55:29-04:00">
+  <state datetime="2007-07-27T15:14:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2007-07-27T15:14:00-04:00"/>
+  </status>
+  <introduced datetime="2007-07-25"/>
+  <titles>
+    <title as="introduced" type="official">Providing for consideration of the conference report to accompany the bill (H.R. 1) to provide for the implementation of the recommendations of the National Commission on Terrorist Attacks Upon the United States.</title>
+  </titles>
+  <sponsor id="400170"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2007-07-25T23:55:00-04:00">
+      <text>The House Committee on Rules reported an original measure, H. Rept. 110-260, by Mr. Hastings (FL).</text>
+    </action>
+    <action datetime="2007-07-25T23:55:00-04:00">
+      <text>All points of order against the conference report and against its consideration are waived.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2007-07-25T23:55:00-04:00" calendar="House" number="91">
+      <text>Placed on the House Calendar, Calendar No. 91.</text>
+    </calendar>
+    <action datetime="2007-07-27T14:05:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H8789-8797" label="consideration"/>
+    </action>
+    <action datetime="2007-07-27T14:06:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H. Res. 567.</text>
+    </action>
+    <action datetime="2007-07-27T15:14:00-04:00">
+      <text>The previous question was ordered without objection.</text>
+      <reference ref="CR H8797" label="consideration"/>
+    </action>
+    <vote state="PASSED:SIMPLERES" datetime="2007-07-27T15:14:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On agreeing to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H8789" label="text"/>
+    </vote>
+    <action datetime="2007-07-27T15:14:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="110" type="h" number="1"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Emergency management"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>7/27/2007--Passed House without amendment.
+Waives points of order against consideration of the conference report on H.R. 1 (Implementing Recommendations of the 9/11 Commission Act of 2007).</summary>
+</bill>

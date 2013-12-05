@@ -1,0 +1,134 @@
+<bill session="109" type="s" number="263" updated="2013-07-19T20:15:42-04:00">
+  <state datetime="2005-07-26">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2005-07-26"/>
+  </status>
+  <introduced datetime="2005-02-02"/>
+  <titles>
+    <title as="introduced" type="short">Paleontological Resources Preservation Act</title>
+    <title as="reported to senate" type="short">Paleontological Resources Preservation Act</title>
+    <title as="passed senate" type="short">Paleontological Resources Preservation Act</title>
+    <title as="introduced" type="official">A bill to provide for the protection of paleontological resources on Federal lands, and for other purposes.</title>
+  </titles>
+  <sponsor id="300001"/>
+  <cosponsors>
+    <cosponsor id="300005" joined="2005-02-02"/>
+    <cosponsor id="300014" joined="2005-02-09"/>
+    <cosponsor id="300038" joined="2005-02-02"/>
+    <cosponsor id="300043" joined="2005-02-02"/>
+    <cosponsor id="300056" joined="2005-02-02"/>
+    <cosponsor id="300071" joined="2005-03-10"/>
+    <cosponsor id="300083" joined="2005-02-02"/>
+    <cosponsor id="300100" joined="2005-02-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2005-02-02">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S891-892"/>
+    </action>
+    <action state="REFERRED" datetime="2005-02-02">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <reference ref="CR S892-893" label="text of measure as introduced"/>
+    </action>
+    <calendar state="REPORTED" datetime="2005-02-09">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+    <action datetime="2005-03-11">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Domenici with amendments. With written report No. 109-36.</text>
+    </action>
+    <calendar datetime="2005-03-11" calendar="Senate Legislative" under="General Orders" number="50">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 50.</text>
+    </calendar>
+    <vote state="PASS_OVER:SENATE" datetime="2005-07-26" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Passed Senate with amendments by Unanimous Consent.</text>
+      <reference ref="CR S9018-9052" label="consideration"/>
+      <reference ref="CR S9035-9037" label="text of measure in Senate"/>
+      <reference ref="CR S9037-9039" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2005-07-27T10:35:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2005-07-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2005-07-27">
+      <text>Referred to the Committee on Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2005-07-27">
+      <text>Referred to House Resources</text>
+    </action>
+    <action datetime="2005-07-27">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2005-08-04">
+      <text>Referred to the Subcommittee on Department Operations, Oversight, Nutrition and Forestry.</text>
+      <committee name="House Agriculture"/>
+    </action>
+    <action datetime="2005-08-08">
+      <text>Referred to the Subcommittee on National Parks.</text>
+      <committee name="House Resources"/>
+    </action>
+    <action datetime="2005-08-08">
+      <text>Referred to the Subcommittee on Fisheries and Oceans.</text>
+      <committee name="House Resources"/>
+    </action>
+    <action datetime="2005-08-08">
+      <text>Referred to the Subcommittee on Forests and Forest Health.</text>
+      <committee name="House Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee code="HSII" name="House Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII10" subcommittee="National Parks, Recreation, and Public Lands" name="House Resources"/>
+    <committee activity="Referral" code="HSII15" subcommittee="Fisheries Conservation, Wildlife, and Oceans" name="House Resources"/>
+    <committee activity="Referral" code="HSII20" subcommittee="Forests and Forest Health" name="House Resources"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG22" subcommittee="Department Operations, Oversight, Dairy, Nutrition, and Forestry" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Administrative remedies"/>
+    <term name="Archives"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Commerce"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Cultural property"/>
+    <term name="Department of Agriculture"/>
+    <term name="Department of the Interior"/>
+    <term name="Destruction of property"/>
+    <term name="Environmental protection"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Forfeiture"/>
+    <term name="Fossils"/>
+    <term name="Fraud"/>
+    <term name="Freedom of information"/>
+    <term name="Government operations and politics"/>
+    <term name="Government property"/>
+    <term name="Government publicity"/>
+    <term name="Historic sites"/>
+    <term name="History"/>
+    <term name="Informers"/>
+    <term name="Judicial review"/>
+    <term name="Labeling"/>
+    <term name="Land use"/>
+    <term name="Larceny"/>
+    <term name="Law"/>
+    <term name="Licenses"/>
+    <term name="Museums"/>
+    <term name="Nature conservation"/>
+    <term name="Official secrets"/>
+    <term name="Paleontology"/>
+    <term name="Planning"/>
+    <term name="Public records"/>
+    <term name="Recidivists"/>
+    <term name="Research natural areas"/>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <summary>7/26/2005--Passed Senate amended.
+Paleontological Resources Preservation Act - (Sec. 3) Directs the the Secretary of the Interior or the Secretary of Agriculture (the Secretary) to: (1) manage and protect paleontological resources on federal land, using scientific principles and expertise; and (2) develop plans for inventorying, monitoring, and deriving the scientific and educational use of such resources. (Sec. 4) Directs the Secretary to establish a program to increase public awareness about such resources. (Sec. 5) Prohibits a person from collecting a paleontological resource from federal land without a permit issued under this Act by the Secretary. Authorizes the Secretary to allow casual collecting of a reasonable amount of common invertebrate and plant paleontological resources for non-commercial personal uses without a permit on certain federal lands. Recognizes as valid permits issued before enactment of this Act. Sets forth criteria by which the Secretary may issue permits for paleontological resources. Requires that any paleontological resource and associated records collected under a permit be deposited in an approved repository. Allows the Secretary to modify, suspend, or revoke a permit under specified circumstances, including if there is a violation of a term or a condition of a permit. Declares that a permit shall be revoked if any person working under the authority of the permit is convicted of a criminal offense under this Act or assessed a civil penalty under this Act. (Sec. 6) States that the Secretary may enter into agreements with non-federal repositories regarding the curation of paleontological resources, data, and records. (Sec. 7) Prohibits: (1) evacuating, removing or altering a paleontological resource located on federal lands, except in accordance with this Act; (2) exchanging or receiving a paleontological resource, if the person knew or should have known such resource to have been illegally removed from federal lands; (3) selling or purchasing a paleontological resource, if the person knew or should have known such resource to have been illegally removed from federal lands; or (4) making or submitting false records, accounts, or identification of any paleontological resource excavated or removed from federal lands. Imposes criminal penalties for violating this Act. (Sec. 8) Sets forth requirements for the assessment of civil penalties by the Secretary for violations of any prohibitions contained in regulations or permits issued under this Act. Requires any recovered amounts to be available for use: (1) to protect or restore paleontological resources and sites which were the subject of the action, or to acquire sites with equivalent resources, and to protect, monitor, and study the resources and sites; (2) to provide educational materials to the public about paleontological resources and sites; and (3) as a reward. (Sec. 9) Allows the Secretary to pay from penalties collected under this Act a reward to any person who furnishes information leading to the finding of a civil violation, or the conviction of criminal violation, with respect to which the penalty was paid. Provides for the civil or, as appropriate, the criminal forfeiture of all paleontological resources with respect to which a civil or criminal violation occurred, and of all vehicles and equipment that were used in connection with the violation. Allows the Secretary to transfer administration of seized paleontological resources to educational institutions for scientific or educational purposes. (Sec. 10) Requires that information on the nature and specific location of a paleontological resource that requires a permit under this Act or other federal law be withheld from the public, including under the Freedom of Information Act, except under specified conditions. (Sec. 11) Directs the Secretary to issue such regulations as are appropriate to carry out this Act, while providing opportunities for public notice and comment. (Sec. 12) Declares that nothing in this Act shall be construed to do certain things, including to: (1) modify any activity under the general mining laws, the mineral or geothermal leasing laws, laws providing for minerals materials disposal, or laws providing for the management or regulation of the activities authorized by the aforementioned laws; (2) modify any activities under existing laws and authorities relating to reclamation and multiple uses of federal lands; or (3) alter or diminish the authority of a federal agency under any other law to provide protection for paleontological resources on federal lands in addition to the protection provided under this Act. (Sec. 13) Authorizes appropriations.</summary>
+</bill>

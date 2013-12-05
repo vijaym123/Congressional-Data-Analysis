@@ -1,0 +1,62 @@
+<bill session="109" type="hc" number="161" updated="2013-07-19T20:03:32-04:00">
+  <state datetime="2005-10-07">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2005-10-07"/>
+  </status>
+  <introduced datetime="2005-05-19"/>
+  <titles>
+    <title as="introduced" type="official">Authorizing the use of the Capitol Grounds for an event to commemorate the 10th Anniversary of the Million Man March.</title>
+  </titles>
+  <sponsor id="400093"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2005-05-19">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2005-05-20">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2005-10-06T14:06:00-04:00">
+      <text>Mr. Mica moved to suspend the rules and agree to the resolution.</text>
+    </action>
+    <action datetime="2005-10-06T14:06:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8653-8654" label="consideration"/>
+    </action>
+    <action datetime="2005-10-06T14:06:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 161.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2005-10-06T14:12:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H8653" label="text"/>
+    </vote>
+    <action datetime="2005-10-06T14:12:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2005-10-07" how="by Unanimous Consent" result="pass" type="vote2" where="s">
+      <text>Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S11334" label="consideration"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee activity="Referral" code="HSPW13" subcommittee="Economic Development, Public Buildings and Emergency Management" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Anniversaries"/>
+    <term name="Blacks"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Commemorations"/>
+    <term name="Men"/>
+    <term name="Minorities"/>
+    <term name="Public demonstrations"/>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>10/7/2005--Passed Senate without amendment.
+Permits the Million Man March, Inc. to sponsor a free public event on the Capitol grounds on October 15, 2005, to commemorate the 10th Anniversary of the Million Man March.</summary>
+</bill>

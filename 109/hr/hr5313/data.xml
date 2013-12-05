@@ -1,0 +1,91 @@
+<bill session="109" type="h" number="5313" updated="2013-07-19T19:51:16-04:00">
+  <state datetime="2006-09-26T13:45:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2006-09-26T13:45:00-04:00"/>
+  </status>
+  <introduced datetime="2006-05-09"/>
+  <titles>
+    <title as="introduced" type="short">Open Space and Farmland Preservation Act</title>
+    <title as="passed house" type="short">Open Space and Farmland Preservation Act</title>
+    <title as="introduced" type="official">To reserve a small percentage of the amounts made available to the Secretary of Agriculture for the farmland protection program to fund challenge grants to encourage the purchase of conservation easements and other interests in land to be held by a State agency, county, or other eligible entity, and for other purposes.</title>
+  </titles>
+  <sponsor id="400147"/>
+  <cosponsors>
+    <cosponsor id="400027" joined="2006-05-09"/>
+    <cosponsor id="400123" joined="2006-05-10"/>
+    <cosponsor id="400222" joined="2006-05-09"/>
+    <cosponsor id="400276" joined="2006-05-09"/>
+    <cosponsor id="400660" joined="2006-05-09"/>
+    <cosponsor id="400406" joined="2006-09-19"/>
+    <cosponsor id="400428" joined="2006-05-09"/>
+    <cosponsor id="400429" joined="2006-05-10"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2006-05-09">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2006-05-18">
+      <text>Referred to the Subcommittee on Conservation, Credit, Rural Development, and Research.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="2006-09-21">
+      <text>Subcommittee on Conservation, Credit, Rural Development, and Research Discharged.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <action datetime="2006-09-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+    <calendar state="REPORTED" datetime="2006-09-21">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on Agriculture"/>
+    </calendar>
+    <action datetime="2006-09-26T13:35:00-04:00">
+      <text>Mr. Goodlatte moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2006-09-26T13:35:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7372-7373" label="consideration"/>
+    </action>
+    <action datetime="2006-09-26T13:35:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5313.</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2006-09-26T13:45:00-04:00" how="by voice vote" result="pass" type="vote" where="h">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H7372" label="text"/>
+    </vote>
+    <action datetime="2006-09-26T13:45:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2006-09-27">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2006-11-13">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSAG15" subcommittee="Conservation, Credit, Rural Development, and Research" name="House Agriculture"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="109" type="h" number="1514"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural conservation"/>
+    <term name="Conservation easements"/>
+    <term name="Economics and public finance"/>
+    <term name="Environmental protection"/>
+    <term name="Farm lands"/>
+    <term name="Government operations and politics"/>
+    <term name="Grants-in-aid"/>
+    <term name="Intergovernmental fiscal relations"/>
+    <term name="Land transfers"/>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>9/26/2006--Passed House without amendment.
+Open Space and Farmland Preservation Act - Amends the Farm Security Act of 1985 to direct the Secretary of Agriculture to reserve at least 15% of farmland protection program funds for grants to support cooperative efforts by an eligible state agency, county, or other eligible entity to purchase conservation easements and other interests in eligible land, whose title shall be held by an eligible entity rather than the United States. Provides with respect to cost sharing that: (1) the federal share of the purchase price of a conservation easement or other interest in eligible land shall not exceed 25%; and (2) the state agency, county, and other eligible entities involved in the purchase shall each contribute 25% of the purchase price. Prohibits fund use for administrative purposes. Makes the provisions of this Act effective on October 1, 2006.</summary>
+</bill>

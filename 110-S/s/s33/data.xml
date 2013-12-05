@@ -1,0 +1,50 @@
+<bill session="110" type="s" number="33" updated="2013-07-19T22:20:38-04:00">
+  <state datetime="2007-05-22">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2007-05-22"/>
+  </status>
+  <introduced datetime="2007-05-22"/>
+  <titles>
+    <title as="introduced" type="official">A bill to redesignate the Office for Vocational and Adult Education as the Office of Career, Technical, and Adult Education.</title>
+  </titles>
+  <sponsor id="300041"/>
+  <cosponsors>
+    <cosponsor id="300059" joined="2007-05-22"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2007-05-22" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6492-6493" label="consideration"/>
+      <reference ref="CR S6492-6493" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2007-05-23T10:06:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2007-05-23">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2007-05-23">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="2430"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Adult education"/>
+    <term name="Career education"/>
+    <term name="Department of Education"/>
+    <term name="Education"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal officials"/>
+    <term name="Government operations and politics"/>
+    <term name="Technical education"/>
+  </subjects>
+  <amendments/>
+  <summary>5/22/2007--Passed Senate without amendment.
+Amends the Department of Education Organization Act to redesignate the Office of Vocational and Adult Education of the Department of Education as the Office of Career, Technical, and Adult Education. Amends the Carl D. Perkins Career and Technical Education Act of 2006 to make conforming amendments.</summary>
+</bill>

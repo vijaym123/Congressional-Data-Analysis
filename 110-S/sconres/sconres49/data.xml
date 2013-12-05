@@ -1,0 +1,46 @@
+<bill session="110" type="sc" number="49" updated="2013-07-19T22:19:45-04:00">
+  <state datetime="2007-10-04T13:47:00-04:00">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="2007-10-04T13:47:00-04:00"/>
+  </status>
+  <introduced datetime="2007-10-04"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution providing for a conditional adjournment or recess of the Senate.</title>
+  </titles>
+  <sponsor id="300082"/>
+  <cosponsors/>
+  <actions>
+    <vote state="PASS_OVER:SENATE" datetime="2007-10-04" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.</text>
+      <reference ref="CR S12702" label="consideration"/>
+      <reference ref="CR S12702" label="text as passed Senate"/>
+      <reference ref="CR S12787" label="text of measure as introduced"/>
+    </vote>
+    <action datetime="2007-10-04T13:45:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2007-10-04T13:47:00-04:00">
+      <text>Considered as privileged matter.</text>
+      <reference ref="CR H11287" label="consideration"/>
+    </action>
+    <vote state="PASSED:CONCURRENTRES" datetime="2007-10-04T13:47:00-04:00" how="without objection" result="pass" type="vote2" where="h">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H11287" label="text"/>
+    </vote>
+    <action datetime="2007-10-04T13:48:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2007-10-04">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+  </subjects>
+  <amendments/>
+  <summary>10/4/2007--Passed House without amendment.
+Provides for a recess or an adjournment of the Senate on October 4 or 5, 2007, until October 15, 2007 (or until another time of reassembly under this concurrent resolution). Authorizes the Majority Leader of the Senate, after consultation with the Senate Minority Leader, to notify the Members to reassemble whenever the public interest shall warrant it.</summary>
+</bill>

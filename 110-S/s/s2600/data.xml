@@ -1,0 +1,42 @@
+<bill session="110" type="s" number="2600" updated="2013-07-19T22:43:49-04:00">
+  <state datetime="2008-02-06">REFERRED</state>
+  <status>
+    <introduced datetime="2008-02-06"/>
+  </status>
+  <introduced datetime="2008-02-06"/>
+  <titles>
+    <title as="introduced" type="official">A bill to provide for the designation of a single ZIP code for Windsor Heights, Iowa.</title>
+  </titles>
+  <sponsor id="300051"/>
+  <cosponsors>
+    <cosponsor id="300048" joined="2008-02-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2008-02-06">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S740"/>
+    </action>
+    <action state="REFERRED" datetime="2008-02-06">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2008-02-27">
+      <text>Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.</text>
+      <committee name="Committee on Homeland Security and Governmental Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSGA09" subcommittee="Federal Financial Management, Government Information, Federal Services, and International Security" name="Senate Homeland Security and Governmental Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="110" type="h" number="5158"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Iowa"/>
+    <term name="Zip code"/>
+  </subjects>
+  <amendments/>
+  <summary>2/6/2008--Introduced.
+Directs the U.S. Postal Service to designate a single ZIP Code applicable to the area encompassing only the city of Windsor Heights, Iowa.</summary>
+</bill>
