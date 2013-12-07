@@ -4,25 +4,32 @@ import time
 directories = ["111","112"]
 
 
-def readicpsr(congress):
-	f=open(congress+"-icpsr.csv","r")
+def readicpsr():
+	files = [ open("legislators-current-edited.csv","r"), open("legislators-historic-edited.csv","r") ]
 	icpsrDict = dict()
-	for line in f:
-		#print line
-		data = line.split(";")
-		#print data
-		if (not icpsrDict.has_key("".join(data[-1].split(",")).upper()[:-1][:10])) or data[2] == icpsrDict["".join(data[-1].split(",")).upper()[:-1][:10]]:
-			icpsrDict["".join(data[-1].split(",")).upper()[:-1][:10]]=data[2]
-		else:
-			print "problem!!", "".join(data[-1].split(",")).upper()[:-1]
-	#print icpsrDict.keys()
+	for f in files:
+		for line in f:
+			data = line.split(",")
+			try :
+				if data[1] and data[2][:-1]:
+					icpsrDict[str(int(str(data[1]))).zfill(5)]=str(int(str(data[2][:-1]))).zfill(5)
+			except :
+				print data
+	icpsrDict["00868"]=str(70303)
+	icpsrDict["01906"]=str(20901)
+	icpsrDict["01474"]=str(70501)
+	icpsrDict["01953"]=str(111044)
+	icpsrDict["00367"]=str(70302)
+	icpsrDict["01723"]=str(70701)
+	icpsrDict["01962"]=str(70810)
 	return icpsrDict
 
+
+icpsrDict = readicpsr()
 for congress in directories:
 	fw = open("cosponsorship2013/house_datematrices/"+congress+"_housedatematrix.txt","w")
 	fwMembers = open("cosponsorship2013/house_members/"+congress+"_house.txt","w")	
 	fwMatrix = open("cosponsorship2013/house_matrices/"+congress+"_housematrix.txt","w")
-	icpsrDict = readicpsr(congress)
 	dataMatrix = dict()
 	members = dict()
 	matrix = dict()
@@ -61,6 +68,7 @@ for congress in directories:
 						matrix[i["thomas_id"]]["v"+str(count)] = "2"
 
 			except TypeError:
+
 				print "./"+root+"/"+files[0]
 				print count
 	myList = ["v" + str(i) for i in range(1,count+1)]
@@ -68,10 +76,12 @@ for congress in directories:
 	fw.write(line+"\n")
 	for thomasId in dataMatrix:
 		try :
-			fwMembers.write(members[thomasId] +", "+ thomasId+", "+ icpsrDict[members[thomasId].upper()[:10]]+"\n")
-		except:
-			print members[thomasId].upper(), ";"
-			
+			fwMembers.write(members[thomasId] +", "+ thomasId+", "+ icpsrDict[str(thomasId).zfill(5)]+"\n")
+			if str(thomasId).zfill(5) == "00905" :
+				print "dude", icpsrDict[str(thomasId).zfill(5)]
+		except KeyError:
+			print members[thomasId], str(thomasId)
+
 		myList = ["NA" for i in range(1,count+1)]
 		for bill in dataMatrix[thomasId]:
 			myList[int(bill[1:])-1] = dataMatrix[thomasId][bill]
