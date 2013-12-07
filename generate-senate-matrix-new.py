@@ -1,7 +1,7 @@
 import os
 import json
 import time
-directories = ["111","112","113"]
+directories = ["111-S","112-S","113-S"]
 
 
 def readicpsr():
@@ -27,9 +27,9 @@ def readicpsr():
 
 icpsrDict = readicpsr()
 for congress in directories:
-	fw = open("cosponsorship2013/house_datematrices/"+congress+"_housedatematrix.txt","w")
-	fwMembers = open("cosponsorship2013/house_members/"+congress+"_house.txt","w")	
-	fwMatrix = open("cosponsorship2013/house_matrices/"+congress+"_housematrix.txt","w")
+	fw = open("cosponsorship2013/senate_datematrices/"+congress[:3]+"_sendatematrix.txt","w")
+	fwMembers = open("cosponsorship2013/senate_members/"+congress[:3]+"_senators.txt","w")	
+	fwMatrix = open("cosponsorship2013/senate_matrices/"+congress[:3]+"_senmatrix.txt","w")
 	dataMatrix = dict()
 	members = dict()
 	matrix = dict()
