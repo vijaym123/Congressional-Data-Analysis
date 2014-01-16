@@ -28,7 +28,7 @@ for congress in directories:
 	dataDict = dict()
 	sortedForm = []
 
-	fw = open("cosponsorship2013/"+congress+"_rollcall.txt","w")
+	fw = open("cosponsorship2013/"+congress+"_rollcall_test.txt","w")
 
 	for root, subFolders, files in os.walk(congress):
 		if files:
@@ -44,7 +44,9 @@ for congress in directories:
 
 	fr = open(congress+"_votes.txt","r")
 	print congress
+	lineCount = 0
 	for line in fr:
+		lineCount += 1
 		jsonDump = json.loads(line)
 		row = [0 for i in range(25)]
 		if jsonDump["related_bill"]:
@@ -55,9 +57,12 @@ for congress in directories:
 				row[category.index(jsonDump["category"])+13] = 1
 			else :
 				print congress
+			if billType[jsonDump["related_bill"]["bill_type_label"]] == "HR" and str(jsonDump["related_bill"]["number"]) == "1973" and congress=="109":
+				print lineCount, jsonDump["category"]
 			if dataDict.has_key(row[0]):
 				for i in range(len(row[1:])):
-					dataDict[row[0]][i+1] = row[i+1] or dataDict[row[0]][i+1]
+					if row[i+1]:
+						dataDict[row[0]][i+1] = 1
 			else :
 				dataDict[row[0]] = row
 
