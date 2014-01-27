@@ -1,7 +1,7 @@
 import os
 import json
 import time
-directories = ["111","112","113"]
+directories = ["113"]
 
 
 def readicpsr():
@@ -22,6 +22,8 @@ def readicpsr():
 	icpsrDict["00367"]=str(70302)
 	icpsrDict["01723"]=str(70701)
 	icpsrDict["01962"]=str(70810)
+	icpsrDict["01012"]=str("NA")
+	icpsrDict["02191"]=str("NA")
 	return icpsrDict
 
 
@@ -40,6 +42,8 @@ for congress in directories:
 				count += 1
 				fr = open("./"+root+"/"+files[0],"r")
 				jsonDump = json.loads(fr.read())
+				if jsonDump["sponsor"]["thomas_id"] == "02191":
+					print root,files[0]
 				if not dataMatrix.has_key(jsonDump["sponsor"]["thomas_id"]) :
 					dataMatrix[jsonDump["sponsor"]["thomas_id"]]=dict()
 					members[jsonDump["sponsor"]["thomas_id"]] = "".join(jsonDump["sponsor"]["name"].split(","))

@@ -1,7 +1,7 @@
 import os
 import json
 import time
-directories = ["111-S","112-S","113-S"]
+directories = ["113-S"]
 
 
 def readicpsr():
@@ -22,6 +22,9 @@ def readicpsr():
 	icpsrDict["00367"]=str(70302)
 	icpsrDict["01723"]=str(70701)
 	icpsrDict["01962"]=str(70810)
+	icpsrDict["02189"]=str("NA")
+	icpsrDict["02192"]=str("NA")
+	icpsrDict["02194"]=str("NA")
 	return icpsrDict
 
 
